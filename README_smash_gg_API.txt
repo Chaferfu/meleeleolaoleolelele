@@ -18,3 +18,5 @@ Options possibles :
     entrants - Will return all the entrants in the phase group
     standings - Will return standings data if used in conjunction with the seeds expand
     seeds - Use in conjunction with standings to get standings data. This gives you seeds for the bracket as well.
+    
+Pour plus de détails : https://help.smash.gg/faq/misc/api-access
