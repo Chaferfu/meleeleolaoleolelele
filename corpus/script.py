@@ -24,7 +24,7 @@ def go(nomFichier):
 	for lien in liens:
 		if lien not in dejaVus:
 			print("je lance lynx sur " + lien)
-			cmd = "lynx '{0}' -dump -width=1024 > '{1}.txt'".format(lien, lien.replace("https://www.ssbwiki.com/", ""))
+			cmd = 'lynx "{0}" -dump -width=1024 > "{1}.txt"'.format(lien, lien.replace("https://www.ssbwiki.com/", ""))
 			# print(cmd)
 			os.system(cmd)
 			print("j'ai fini lynx")
