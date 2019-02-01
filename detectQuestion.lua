@@ -4,6 +4,15 @@ local main = dark.pipeline()
 
 local basic = dark.basic()
 
+main:model("model/postag-en")
+main:lexicon("#character", "./lexique/ssbm_characters.txt")
+main:lexicon("#player", "./lexique/ssbm_players.txt")
+
+local tags = {
+	["#character"] = "red",
+	["#player"] = "blue",
+}
+
 
 
 --LECTURE DU FICHIER 
@@ -32,7 +41,24 @@ end
 local file = 'questions.txt'
 local lines = lines_from(file)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------Display lines ---------------------------------------------
+
 -- print all line numbers and their contents
-for k,v in pairs(lines) do
-  print('line[' .. k .. ']', v)
+--dark.sequence() ?
+for k,line in pairs(lines) do
+  line = line:gsub("%p", " %0 ")
+  print('line[' .. k .. ']', main(line):tostring(tags))
 end
