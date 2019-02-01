@@ -7,20 +7,32 @@ Samus
 Kirby
 Fox
 Pikachu
+pika
 Jigglypuff
+jiggs
+puff
 Captain Falcon
+cpt falcon
+cpt. falcon
+falcon
 Ness
 Peach
 Bowser
 Dr. Mario
+dr. mario
+drmario
+dr mario
 Zelda
 Sheik
 Young Link
+yl
 Ganondorf
 Falco
 Pichu
 Mewtwo
 Ice Climbers
+ices 
+ics
 Marth
 Roy
 Mr. Game & Watch
