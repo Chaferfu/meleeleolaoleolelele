@@ -1,0 +1,1558 @@
+   #[1]Edit this page [2]SmashWiki (en) [3]SmashWiki Atom feed
+
+Super Smash Bros. Brawl
+
+   From SmashWiki, the Super Smash Bros. wiki
+   Jump to:[4]navigation, [5]search
+   [6]SSBB Icon.png [7]This is a featured article. Click for more information.
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 “ They're back. Stronger than ever. And they've brought friends. Lots of them. ”
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           —North American commercial
+
+          "Brawl" redirects here. For the game mode, see [8]Versus Mode.
+
+   Super Smash Bros. Brawl
+   [9]SSBB USA cover
+   USA box art for Super Smash Bros. Brawl.
+   [10]Developer(s) [11]Sora
+   [12]HAL Laboratory
+   [13]Game Arts
+   [14]Monolith Soft
+   [15]Paon
+   [16]Intelligent Systems
+   [17]Publisher(s) [18]Nintendo
+   [19]Designer(s) [20]Masahiro Sakurai (director) Kazushige Nojima (scenario writer)^[21][1]
+   [22]Engine [23]Havok
+   Released [24]Japan January 31, 2008
+   [25]North America March 9, 2008
+   [26]Australia June 26, 2008^[27][2]
+   [28]Europe June 27, 2008^[29][3]^[30][4]
+   [31]South Korea April 29, 2010
+   [32]Genre(s) [33]Fighting, [34]Platform
+   Mode(s) Single player, Multiplayer, Online multiplayer^[35][5]
+   [36]Ratings CERO: A
+   ESRB: T
+   OFLC: PG
+   PEGI: 12+
+   [37]Platform(s) [38]Wii
+   Media [39]Wii Optical Disc (Double-layer)
+   System requirements 128 free blocks of memory in the Wii System Memory
+   Input methods [40]Wii Remote, [41]Nunchuk, [42]Classic Controller, [43]GameCube controller^[44][6]
+
+   Super Smash Bros. Brawl (大乱闘スマッシュブラザーズＸ, Great Fray Smash Brothers X), often shortened to "SSBB" or "Brawl", is the third installment in the [45]Super Smash Bros. series published by [46]Nintendo. The game was designed by [47]Masahiro Sakurai, who also created the two preceding Super Smash Bros. games, and was developed by an ad hoc development team consisting of [48]Sora, [49]Game Arts, and staff from other developers, beginning in October 2005. The game uses an engine called [50]Havok provided by an Irish company of the same name.^[51][7]
+
+   The game released on January 31st, 2008 in Japan, March 9th, 2008 in North America, June 26th, 2008 in Australia, and June 27th, 2008 in Europe. Brawl supports four types of controllers^[52][8] - the [53]Wii Remote alone held horizontally, the Wii Remote and [54]Nunchuk together, the [55]Classic Controller/Classic Controller Pro, and the [56]GameCube controller. Up to four players can engage in local [57]multiplayer battles at any given time with any combination of controllers, while Brawl also supports online play through the Nintendo [58]Wi-Fi Connection, the first game in the series to do so.^[59][9]
+
+   While Brawl continues to include the tournament-like "[60]Classic" and "[61]All-Star" single-player modes, Melee’s [62]Adventure Mode has been replaced with [63]The Subspace Emissary; a much more extensive side-scrolling beat-'em-up mode featuring both the playable characters and many enemies specifically created for the game. The resulting mode includes an involved plot and numerous pre-rendered cutscenes, as well as some platform game elements during gameplay.
+
+   Following the trend set by earlier games in the series, Brawl showcases a wide selection of characters from Nintendo and its second parties, setting them to fight in several different types of matches. Unlike its predecessors, however, Brawl also includes two third-party characters in [64]Solid Snake and [65]Sonic the Hedgehog. In total, the number of playable characters was increased from Melee's 25^[66][10] to 35 (or 39, if including Sheik and [67]Zero Suit Samus separately from Zelda and [68]Samus, and counting [69]Squirtle, [70]Ivysaur, and [71]Charizard individually rather than grouped as [72]Pokémon Trainer).
+
+   Most of the game's musical score is made up of newly-arranged versions of pieces that originated in earlier video games starring the characters featured in Brawl, with the remainder taken directly from the original games. The new arrangements were composed in a collaboration between 38 renowned video game composers^[73][11] and has been critically acclaimed for its representation of different generations in gaming history.^[74][12]
+
+   The limited edition release of Super Smash Bros. Brawl came inside an extra cardboard sleeve depicting all of the characters available by default, and came with two postcards, providing a biopic on [75]Zero Suit Samus and [76]Zelda, giving a short summary of them, and showing images of their special moves.
+
+   Following the release of the game in Japan, a bug was discovered in the game. This bug causes the game to display an error message when it starts, however, players can close the error message and play the game as usual. There has since been a replacement program.
+
+   The game requires 128 free blocks of memory in the Wii System Memory. No data, except some vault data, can be copied to an SD Card or transferred onto another Wii. If the player does not create a save file when they start, he or she will not be able to play via Nintendo Wi-Fi Connection and vault data will not be saved. As of May 20, 2014, the Nintendo Wi-Fi Connection has been shut down therefore making it impossible for anyone to play Brawl online without hacking.
+
+Contents
+
+     * [77]1 Opening movie
+     * [78]2 Characters
+          + [79]2.1 List of characters
+          + [80]2.2 Bosses
+          + [81]2.3 Unplayable characters
+     * [82]3 Collectibles
+          + [83]3.1 Masterpieces
+          + [84]3.2 Music
+     * [85]4 Stages
+     * [86]5 Development
+          + [87]5.1 Inclusion of characters
+     * [88]6 Trailers
+     * [89]7 Reception
+     * [90]8 Changes from Melee to Brawl
+     * [91]9 Gallery
+     * [92]10 Trivia
+     * [93]11 References
+     * [94]12 External links
+
+Opening movie[[95]edit]
+
+   In the [96]opening movie of Super Smash Bros. Brawl, the cinematic utilizes [97]scenes from [98]The Subspace Emissary, along with a few selections of [99]Versus Mode matches, as opposed to featuring unique footage in the manner of the game's predecessor, [100]Super Smash Bros. ([101]Super Smash Bros. Melee used footage from its E3 trailer).
+
+   IFRAME: [102]https://www.youtube.com/embed/nfU48g3IUmY?
+
+Characters[[103]edit]
+
+   Main article: [104]List of Super Smash Bros. series characters
+   Entire cast of playable characters; excluding [105]Zero Suit Samus and [106]Sheik, the transformations of [107]Samus and [108]Zelda, respectively.
+   The [109]character selection screen of Super Smash Bros. Brawl (all characters unlocked).
+
+   The cast of 35 playable characters (39 if [110]Sheik and [111]Zero Suit Samus are included and the three different Pokémon of the [112]Pokémon Trainer are treated as individual characters) includes 20 (21 including Sheik) returning veterans from Melee and 15 newcomers (18 including transformations). Of these, 21 are [113]starter characters (25 if [114]Sheik and [115]Zero Suit Samus are included and the three different Pokémon of the [116]Pokémon Trainer are treated as individual characters) and the other 14 [117]need to be unlocked. Many of the returning characters have been updated or refined since their last appearance, either in terms of appearance, fighting capabilities, or both. For example, [118]Link and [119]Fox McCloud have taken on new designs from more recent titles, while [120]Samus Aran has gained the ability to change into a new form, [121]Zero Suit Samus, by using her [122]Final Smash or by the player pressing a certain button after picking Samus and before picking a stage.
+
+   Five characters do not return from Melee: [123]The Legend of Zelda's [124]Young Link, [125]Pokémon's [126]Mewtwo and [127]Pichu, [128]Fire Emblem's [129]Roy, and [130]Mario universe's [131]Dr. Mario. Of these, only Mewtwo was not a moveset [132]clone, and it is assumed to have been the furthest into development of the cut characters. Except for the Mario series, each series gained new characters added to the roster: [133]Toon Link for The Legend of Zelda, [134]Lucario and [135]Pokémon Trainer (who controls [136]Charizard, [137]Squirtle, and [138]Ivysaur) for Pokémon; and [139]Ike for Fire Emblem.
+
+   Several franchises already represented in the Super Smash Bros. series gain additional character slots, with the [140]Kirby universe the biggest gainer, as both [141]King Dedede and [142]Meta Knight make their playable Super Smash Bros. debuts. Otherwise, [143]EarthBound sees [144]Lucas join, the [145]Star Fox franchise adds [146]Wolf, and the [147]Donkey Kong universe adds [148]Diddy Kong, while [149]Metroid has Samus's aforementioned "Zero Suit" form, which originally debuted in [150]Metroid: Zero Mission, added as a transformation for its sole character.
+
+   New character slots which go to Nintendo series previously unrepresented include [151]Pit, the first appearance of the [152]Kid Icarus series since the 1991 Game Boy game [153]Kid Icarus: Of Myths and Monsters; [154]Wario, originally a Mario spin-off but long launched into [155]a franchise of his own; [156]Captain Olimar from the [157]Pikmin series; and the NES accessory [158]R.O.B..
+
+   Finally, main protagonist [159]Solid Snake of the [160]Metal Gear franchise, and [161]Sonic the Hedgehog from [162]his eponymous series become the first third-party characters to appear in a Super Smash Bros. game.
+
+List of characters[[163]edit]
+
+                                                                                    Veterans (21)
+   [164]Mario SSBB.jpg
+   [165]Mario
+   [166]MarioSymbol.svg [167]Luigi SSBB.jpg
+   [168]Luigi
+   [169]MarioSymbol.svg [170]Peach SSBB.jpg
+   [171]Peach
+   [172]MarioSymbol.svg [173]Bowser SSBB.jpg
+   [174]Bowser
+   [175]MarioSymbol.svg [176]Yoshi SSBB.jpg
+   [177]Yoshi
+   [178]YoshiSymbol.svg [179]Donkey Kong SSBB.jpg
+   [180]Donkey Kong
+   [181]DKSymbol.svg [182]Kirby SSBB.jpg
+   [183]Kirby
+   [184]KirbySymbol.svg
+   [185]Link SSBB.jpg
+   [186]Link
+   [187]ZeldaSymbol.svg [188]Zelda SSBB.jpg [189]Sheik SSBB.jpg
+   [190]Zelda/[191]Sheik
+   [192]ZeldaSymbol.svg [193]Ganondorf SSBB.jpg
+   [194]Ganondorf
+   [195]ZeldaSymbol.svg [196]Samus SSBB.jpg
+   [197]Samus
+   [198]MetroidSymbol.svg [199]Fox SSBB.jpg
+   [200]Fox
+   [201]StarFoxSymbol.svg [202]Falco SSBB.jpg
+   [203]Falco
+   [204]StarFoxSymbol.svg
+   [205]Pikachu SSBB.jpg
+   [206]Pikachu
+   [207]PokemonSymbol.svg [208]Jigglypuff SSBB.jpg
+   [209]Jigglypuff
+   [210]PokemonSymbol.svg [211]Captain Falcon SSBB.jpg
+   [212]Captain Falcon
+   [213]FZeroSymbol.svg [214]Ness SSBB.jpg
+   [215]Ness
+   [216]EarthboundSymbol.svg [217]Ice Climbers SSBB.jpg
+   [218]Ice Climbers
+   [219]IceClimberSymbol.svg [220]Marth SSBB.jpg
+   [221]Marth
+   [222]FireEmblemSymbol.svg [223]Mr. Game & Watch SSBB.jpg
+   [224]Mr. Game & Watch
+   [225]Game&WatchSymbol.svg
+                                                                                    Newcomers (18)
+   [226]Diddy Kong SSBB.jpg
+   [227]Diddy Kong
+   [228]DKSymbol.svg [229]Meta Knight SSBB.jpg
+   [230]Meta Knight
+   [231]KirbySymbol.svg [232]King Dedede SSBB.jpg
+   [233]King Dedede
+   [234]KirbySymbol.svg [235]Toon Link SSBB.jpg
+   [236]Toon Link
+   [237]ZeldaSymbol.svg [238]Zero Suit Samus SSBB.jpg
+   [239]Zero Suit Samus
+   [240]MetroidSymbol.svg
+   [241]Wolf SSBB.jpg
+   [242]Wolf
+   [243]StarFoxSymbol.svg [244]Pokemon Trainer (solo) SSBB.jpg [245]Squirtle SSBB.jpg [246]Ivysaur SSBB.jpg [247]Charizard SSBB.jpg
+   [248]Pokémon Trainer ([249]Squirtle, [250]Ivysaur, [251]Charizard)
+   [252]PokemonSymbol.svg [253]Lucario SSBB.jpg
+   [254]Lucario
+   [255]PokemonSymbol.svg [256]Lucas SSBB.jpg
+   [257]Lucas
+   [258]EarthboundSymbol.svg
+   [259]Ike SSBB.jpg
+   [260]Ike
+   [261]FireEmblemSymbol.svg [262]Pit SSBB.jpg
+   [263]Pit
+   [264]KidIcarusSymbol.svg [265]Wario SSBB.jpg
+   [266]Wario
+   [267]WarioSymbol.svg [268]Olimar SSBB.jpg
+   [269]Olimar
+   [270]PikminSymbol.svg [271]R.O.B. SSBB.jpg
+   [272]R.O.B.
+   [273]ROBSymbol.svg [274]Snake SSBB.jpg
+   [275]Snake
+   [276]MetalGearSymbol(preUltimate).svg [277]Sonic SSBB.jpg
+   [278]Sonic
+   [279]SonicSymbol.svg
+
+   Bold denotes [280]unlockable characters.
+
+Bosses[[281]edit]
+
+   Master Hand and Crazy Hand are fought in [282]Classic mode while all the others are fought in the [283]Subspace Emissary. Master Hand, Crazy Hand, Galleom, Duon and Tabuu are exclusive to the Smash universe while the others come from other Nintendo universes.
+   [284]MasterHandBrawl.jpg
+   [285]Master Hand
+   [286]SmashBrosSymbol.svg [287]CrazyHand.jpg
+   [288]Crazy Hand
+   [289]SmashBrosSymbol.svg [290]Petey.jpg
+   [291]Petey Piranha
+   [292]MarioSymbol.svg [293]Rayquaza.jpg
+   [294]Rayquaza
+   [295]PokemonSymbol.svg [296]Porky.jpg
+   [297]Porky
+   [298]EarthboundSymbol.svg
+   [299]Galleom.jpg
+   [300]Galleom
+   [301]SubspaceSymbol.svg [302]RidleyBrawl.jpg
+   [303]Ridley
+   [304]MetroidSymbol.svg [305]Duon.jpg
+   [306]Duon
+   [307]SubspaceSymbol.svg [308]Meta Ridley SSBB.jpg
+   [309]Meta Ridley
+   [310]MetroidSymbol.svg [311]TabuuFull.jpg
+   [312]Tabuu
+   [313]SubspaceSymbol.svg
+
+Unplayable characters[[314]edit]
+
+          [315]SmashBrosSymbol.svg [316]Fighting Alloy Team
+
+Collectibles[[317]edit]
+
+   Main articles: [318]Trophy, [319]List of trophies, [320]Sticker, [321]List of stickers (complete list), [322]CD, and [323]Coins (collectible)
+
+   The number of Trophies, statuettes of Nintendo characters and objects which can be collected in-game, was almost doubled from Melee.^[324][13] A related feature was the introduction of [325]stickers, small pieces of Nintendo artwork which can be picked up from offline and online matches, along with the Smash Service's "Spectator Mode." Stickers also make an appearance in the single-player and multiplayer modes, such as the Stadium mode. Stickers also act as a sort of enhancement to the characters' abilities when using attacks in [326]Adventure Mode: The Subspace Emissary.^[327][14]. Through the [328]Trophy Hoard and [329]Sticker Album, players can place trophies and stickers onto virtual backgrounds and take snapshots, all of which is recorded into the Wii's internal hard drive or onto SD cards depending on the player's choosing. From this point, these virtual items can be sent to other players via Nintendo Wi-Fi Connection, "WiiConnect24".^[330][13]^[331][14]
+
+   The inclusion of a new Super Smash Bros. element, collectable [332]CDs, which, when obtained, offer new music selections for playable stages. Although this can add more variety to the music played on a stage, the music selection will always be at random. However, the player can adjust how often a track can be played from the options menu. ^[333][15]
+
+   By completing stages in [334]Classic Mode^[335][16], [336]All-Star Mode and The Subspace Emissary, coins can be earned. The coins can be used to play the [337]Coin Launcher to win more stickers or trophies, to "pay" for [338]Continues in Classic and All-Star Mode, to bet on the outcome of [339]Spectator Mode matches and to choose stages in online play.
+
+Masterpieces[[340]edit]
+
+   Main article: [341]Masterpieces
+
+   Brawl introduces "Masterpieces", time-limited [342]Virtual Console game demonstrations, to the Super Smash Bros. series. The international release has twelve such games available, each of which features one or more of the playable characters from Brawl. Seven games are available for play to begin with, with five more unlockable by completing [343]Challenges, which range from Mario's debut in [344]Donkey Kong to the critically acclaimed late [345]Nintendo 64 title [346]The Legend of Zelda: Ocarina of Time. The time-limits on each individual play last between 30 seconds (Donkey Kong), to five minutes (Ocarina of Time).
+
+   The Japanese release has two additional Masterpieces not included in the international releases — the SNES games Mother 2 (known as [347]EarthBound in its US release) and [348]Fire Emblem: Monsho no Nazo.
+
+Music[[349]edit]
+
+   Main articles: [350]My Music, [351]Music (SSBB), and [352]Super Smash Bros. Brawl Main Theme
+
+   On May 22, 2007, Sakurai revealed a list of 38 composers providing the musical score for the game. In his accompanying statement, Sakurai said that he had asked the composers, who come from a variety of companies and have written music for first, second, and third-party games, "to listen to an elite selection of Nintendo music and arrange several of their favorite songs."^[353][11]
+
+   Each of the game stages have multiple musical tracks which players can listen to using the new "My Music" feature, including some songs that were taken directly from other games without any modification or special arrangement. This feature also allows the player to adjust the frequency of how often a music track is played on a given stage. Collecting [354]CDs expands the range of music available.^[355][15]
+
+Stages[[356]edit]
+
+   Main article: [357]Stage
+
+   Brawl features many stages that can be fought on. Most of them are new, but a few return from Melee. On some stages, such as Shadow Moses Island, [358]Smash Taunts can be performed. Brawl also has an option to create custom stages with the [359]Stage Builder.
+                                                       Brawl stages
+   [360]Battlefield Brawl.png
+   [361]Battlefield
+   [362]SmashBrosSymbol.svg [363]Final Destination Brawl.JPG
+   [364]Final Destination
+   [365]SmashBrosSymbol.svg [366]Delfino Plaza.jpg
+   [367]Delfino Plaza
+   [368]MarioSymbol.svg [369]Mushroomy.jpg
+   [370]Mushroomy Kingdom
+   [371]MarioSymbol.svg [372]Mario1.jpg
+   [373]Mario Circuit
+   [374]MarioSymbol.svg
+   [375]Luigi's Mansion.jpg
+   [376]Luigi's Mansion
+   [377]MarioSymbol.svg [378]MarioBros Stage.jpg
+   [379]Mario Bros.
+   [380]MarioSymbol.svg [381]Yoshi'sIslandBrawl2.jpg
+   [382]Yoshi's Island
+   [383]YoshiSymbol.svg [384]Rumble Falls Brawl.png
+   [385]Rumble Falls
+   [386]DKSymbol.svg [387]75m Brawl.jpg
+   [388]75m
+   [389]DKSymbol.svg
+   [390]Bridge of Eldin.jpg
+   [391]Bridge of Eldin
+   [392]ZeldaSymbol.svg [393]Pirateship.jpg
+   [394]Pirate Ship
+   [395]ZeldaSymbol.svg [396]Norfair1.jpg
+   [397]Norfair
+   [398]MetroidSymbol.svg [399]Frigate Orpheon.jpg
+   [400]Frigate Orpheon
+   [401]MetroidSymbol.svg [402]Battleship Halberd.jpg
+   [403]Halberd
+   [404]KirbySymbol.svg
+   [405]Lylat Cruise.jpg
+   [406]Lylat Cruise
+   [407]StarFoxSymbol.svg [408]Stadium2.jpg
+   [409]Pokémon Stadium 2
+   [410]PokemonSymbol.svg [411]SpearPillar.jpg
+   [412]Spear Pillar
+   [413]PokemonSymbol.svg [414]Port Town Aero Dive.jpg
+   [415]Port Town Aero Dive
+   [416]FZeroSymbol.svg [417]New Pork City1.jpg
+   [418]New Pork City
+   [419]EarthboundSymbol.svg
+   [420]The Summit.jpg
+   [421]Summit
+   [422]IceClimberSymbol.svg [423]Castle Siege Brawl.png
+   [424]Castle Siege
+   [425]FireEmblemSymbol.svg [426]Flat Zone 2.PNG
+   [427]Flat Zone 2
+   [428]Game&WatchSymbol.svg [429]Skyworld1.jpg
+   [430]Skyworld
+   [431]KidIcarusSymbol.svg [432]WarioWare4.jpg
+   [433]WarioWare, Inc.
+   [434]WarioSymbol.svg
+   [435]Pikmin1.jpg
+   [436]Distant Planet
+   [437]PikminSymbol.svg [438]Smashville1.jpg
+   [439]Smashville
+   [440]AnimalCrossingSymbol.svg [441]PictoChatMan.jpg
+   [442]PictoChat
+   [443]DSSymbol.svg [444]Hanenbow.jpg
+   [445]Hanenbow
+   [446]ElectroplanktonSymbol.svg [447]Shadow Moses Island.jpg
+   [448]Shadow Moses Island
+   [449]MetalGearSymbol(preUltimate).svg
+   [450]Green Hill Zone.jpg
+   [451]Green Hill Zone
+   [452]SonicSymbol.svg
+                                                       Melee stages
+   [453]Rainbow Cruise.jpg
+   [454]Super Smash Bros. Melee [455]Rainbow Cruise
+   [456]MarioSymbol.svg [457]YoshisIslandSSBM.jpg
+   [458]Super Smash Bros. Melee [459]Yoshi's Island
+   [460]YoshiSymbol.svg [461]JungleJapes.jpg
+   [462]Super Smash Bros. Melee [463]Jungle Japes
+   [464]DKSymbol.svg [465]Hyrule Temple.jpg
+   [466]Super Smash Bros. Melee [467]Temple
+   [468]ZeldaSymbol.svg [469]Brinstar brawl.jpg
+   [470]Super Smash Bros. Melee [471]Brinstar
+   [472]MetroidSymbol.svg
+   [473]Greengreens.jpg
+   [474]Super Smash Bros. Melee [475]Green Greens
+   [476]KirbySymbol.svg [477]Corneria full.jpg
+   [478]Super Smash Bros. Melee [479]Corneria
+   [480]StarFoxSymbol.svg [481]Pokemonstadium.jpg
+   [482]Super Smash Bros. Melee [483]Pokémon Stadium
+   [484]PokemonSymbol.svg [485]Bigblue.jpg
+   [486]Super Smash Bros. Melee [487]Big Blue
+   [488]FZeroSymbol.svg [489]Onett.jpg
+   [490]Super Smash Bros. Melee [491]Onett
+   [492]EarthboundSymbol.svg
+
+   Bold denotes unlockable stages.
+
+Development[[493]edit]
+
+   At the pre-E3 2005 press conference, the president of Nintendo, [494]Satoru Iwata, announced the next installment of Super Smash Bros. was not only already in development for their next gaming console, but would be a launch title with Wi-Fi compatibility for playing online.^[495][17] The announcement was unexpected to the creator of the Super Smash Bros. series, [496]Masahiro Sakurai. Back in 2003, he had left [497]HAL Laboratory, the company that was in charge with the franchises' development and was never informed of this announcement despite the fact shortly after resigning from the company, Iwata said if a new game was to be made, he would be in charge. It was not until after the conference Sakurai was called to Satoru Iwata's room on the top floor of a Los Angeles hotel where he was told by Iwata, "We'd like you to be involved in the production of the new Smash Bros., if possible near the level of director".^[498][18] Although originally announced to be a launch title, Sakurai stated
+   "I decided to become director. And as of May, 2005, I was the only member of the new Smash Bros. development team". Development of the game never actually started until late 2005, and just for its production, Nintendo opened a new office in Tokyo at the beginning of October 2005. Nintendo also enlisted outside help from a company who, at that point in time, just finished development of a major title. Sakurai also stated that these people had spent excessive amounts of time playing Melee. The team had access to all the original material and tools from the development of Melee, courtesy of HAL Laboratory.
+
+   Brawl was absent from Nintendo's Wii showing at its 2006 Pre-E3 press conference. The next day, on May 10, 2006, its first official trailer was unveiled at E3 and at the After-Hours Press Conference, Nintendo officially revealed the game under the name of Super Smash Bros. Brawl. In an interview with IGN, Sakurai said the Wii's motion sensing features might not be included because, "we found that trying to implement too much motion-sensory functionality can get in the way of the game."^[499][19] As far as [500]Wi-Fi play is concerned, Sakurai stated his plan was to include Wi-Fi connection compatibility and online functionality, he goes on to say "one of the primary reasons Super Smash Bros. Brawl was created was that Nintendo, when taking Wii online, wanted to have Smash Bros. to do that".^[501][19] However, as stated on the Japanese version of the Smash Bros. website, "there would be many hurdles to cross," and an online ranking system is unlikely to be implemented.^[502][20] During a
+   test play between Sakurai and [503]Hideo Kojima, creator of the Metal Gear series, Kojima stated that the game felt complete and that Nintendo "could put it out right now and it would sell millions of copies."^[504][21] Starting May 22, 2007, the site had updates every weekday until shortly after Brawl's release. Throughout October 18-22, 2007 at the first Entertainment for All Expo show in Los Angeles, California, Nintendo hosted a Super Smash Bros. Brawl tournament.^[505][22]
+
+   At the Nintendo Media Conference at E3 2007, it was announced by Nintendo of America president [506]Reggie Fils-Aime that Brawl would be released on December 3, 2007 in the Americas.^[507][23] However, just two months before its anticipated December release, the development team asked for more time to work on the game. During the Nintendo Conference on October 10, 2007, Nintendo of Japan president Iwata announced the delay, saying:
+
+                                                                                                                                                                                                                                                                                      “ In order to fine tune Smash Bros., with this unprecedented game depth, we have decided that we have to take a little more time to complete the game than we announced before. We are sorry for the fans that are already anxiously waiting for the launch, but we would like to launch this game on January 24th, 2008 in Japan. As for the North American launch, we will review that too, and our local subsidiaries will make their own announcements.^[508][24] ”
+
+   On October 11, 2007, George Harrison of Nintendo of America announced that Brawl would be released on February 10, 2008 in North America.^[509][25] The North American version of the game was later delayed a second time to March 9th.^[510][26]
+
+Inclusion of characters[[511]edit]
+
+   Sakurai stated that he did not want to emphasize Japan-only characters;^[512][27] in Brawl's cast, only [513]Lucas had not appeared outside of Japan (although [514]Marth had only previously only appeared internationally in Super Smash Bros. Melee, rather than his home franchise). Sakurai also stated there would be no more than three third-party characters;^[515][27] these characters were [516]Solid Snake and [517]Sonic the Hedgehog. The inclusion of Konami-created character Solid Snake may seem to conflict with the Super Smash Bros. paradigm — to only include characters from games made by Nintendo and its second parties — but Sakurai said Hideo Kojima "practically begged" for Snake to be included in Melee, which did not happen because the game was too far in development. This in turn led to his appearance in the following game instead.^[518][28] Similarly, [519]Lucas from [520]Mother 3 was intended to be used in Melee, but was left out because Mother 3 was delayed.^[521][29]
+
+   Japanese fans were asked to submit their desired characters and musical themes via a forum on the game's official Japanese site, with some possibly appearing in the game. Likewise, fans from other countries were asked to submit ideas on Nintendo's official forums.^[522][30]
+
+   Suggestions were no longer being taken as of June 9, 2006. In August 2006, Sakurai and Miyamoto stated that Nintendo was negotiating rights to other third-party characters.^[523][31] The most requested third-party character, Sega's [524]Sonic the Hedgehog, was announced to be in the game on October 10, 2007.^[525][32]
+
+Trailers[[526]edit]
+
+          Main article: [527]Super Smash Bros. Brawl Trailers
+
+   Several different trailers for Brawl were released before the game came out. The original trailer was shown at E3 2006 on May 11, 2006 and revealed Pit, Meta Knight, Zero Suit Samus, Wario and Solid Snake as new playable characters, alongside the return of Mario, Link, Samus, Pikachu and Kirby. A second trailer was shown at the Nintendo World 2006 convention in December, and revealed Fox's return as a playable character. A third trailer was shown at the October 10, 2007 Nintendo Press Conference, which revealed Sonic as a playable character. A final trailer showcasing Brawl's adventure mode, the Subspace Emissary, was released on Friday, December 21, 2007. This trailer revealed that Ike and the Ice Climbers would appear in this mode, among other things.
+
+Reception[[528]edit]
+
+                        Brawl reviews
+          Publication         Score
+   1UP.com                    A^[529][33]
+   Edge Magazine              9 of 10^[530][34]
+   Eurogamer                  9 of 10^[531][35]
+   Famitsu                    40 of 40^[532][36]
+   Gametrailers               9.4 of 10^[533][37]
+   IGN                        9.5 of 10^[534][38]
+   NGamer                     93^[535][39]
+   Nintendo Power             10 of 10^[536][40]
+   Official Nintendo Magazine 95%^[537][41]
+              Compilations of multiple reviews
+   Metacritic                 93% (81 reviews)^[538][42]
+   Game Rankings              92.84% (78 reviews)^[539][43]
+   TopTenReviews              3.85/4 (56 reviews)^[540][44]
+                           Awards
+   Best Fighting Game^[541][45]
+
+   Super Smash Bros. Brawl received critically positive reviews and sold successfully. In the United States, the game sold 874,000 units on launch day and 1.4 million units in its first week to become the fastest-selling video game in Nintendo of America's history, according to Nintendo. The game has sold 10.79 million units worldwide as of March 2012 according to Nintendo, which makes it the best selling fighting game of all time. Super Smash Bros. Brawl is the 8th best selling game for the [542]Wii, and sold 13.29 million units worldwide, as of September 30, 2018. Brawl currently holds an aggregate review score of 92.84% on Gamerankings and a score of 93% on Metacritic. Despite this, British publication NGamer received criticism for awarding a 93% rating to Brawl, with readers deeming the score too low, especially in comparison to Official Nintendo Magazine's 95% rating. Brawl has reviews with ratings equal or slightly better than Melee. The game's multiplayer was received excellently, but
+   single player, while noted as superior to Melee's, was still only average.
+
+   However, since 2013 (five years since its release), Brawl's representation in [543]tournament play has decreased. This is because many changes from Melee likely intended to make Brawl more beginner-friendly have resulted in a less dynamic [544]metagame that gradually became less successful with players and spectators. Arguably the most controversial change is the added ability to act during [545]hitstun, which reduces [546]combo potential for characters; other factors include the generally slower pace of gameplay, the decreased [547]falling speeds, the removal of mechanics such as [548]L-canceling and [549]wavedashing, introduction of random [550]tripping, and very polarized [551]character balance (attempts to universally ban overcentralizing characters such as [552]Meta Knight have proven unsuccessful). Because of these changes, Brawl has a smaller tournament scene than both its predecessor and successor game, although it still appears in some major cross-game tournaments.
+
+Changes from [553]Melee to Brawl[[554]edit]
+
+     * Generally, Brawl's gameplay engine functions much like Super Smash Bros. as the game plays slower: every veteran has a slower [555]falling speed and [556]gravity, [557]L-cancelling has been removed, [558]dashing barely increases forward momentum in midair, and characters must wait a slightly longer amount of time before being able to meteor cancel.
+          + As a result, many veterans were generally heavily [559]nerfed due to the decreased or removed abilities while a few, particularly the low and bottom tiers of Melee at the time of Brawl's release, generally benefited from the new physics and were [560]buffed.
+     * The [561]air dodge no longer involves characters shifting in a direction; instead, characters continue on whatever path they were moving before the air dodge without inducing the [562]helpless state. This gives characters more options in the air, but makes [563]wavedashing impossible.
+     * The amount of time a launched character is forced to stay in hitstun is significantly decreased; it can be cancelled with an air dodge or an aerial after a short amount of time, making true [564]combos nonexistent, and can even be done to the point of [565]slowing down or even cancelling their momentum while still suffering from knockback, allowing characters to survive for much longer than before.
+     * Some characters now have unique [566]meteor cancel windows: while it is 25 frames for most characters, those with tether recoveries only (such as [567]Ivysaur) have a smaller delay in meteor canceling, while characters that use wings for multiple jumps (such as [568]Meta Knight) must wait for longer. Additionally, attempting to meteor cancel with a jump before this window of time will result in a 40-frame penalty where the character cannot meteor cancel.
+     * The knockback formula has been changed to include a character's gravity. This results in a character's falling speed having a much smaller effect on their vertical endurance. An example can be seen in [569]Fox: despite having the highest accelerated falling speed, he has the 5th worst vertical endurance out of the cast, unlike in Melee, where his vertical endurance was the 6th best, as his high gravity now causes him to sustain more knockback.
+     * The window for [570]dash-dancing is so small it loses almost all its usefulness.
+     * [571]Tether recoveries are generally less useful than the [572]wall-grappling they replaced; they only aim for ledges as opposed to walls, and can be very easily [573]edgehogged, however they do not render the user helpless except for a few special move tethers.
+     * Characters must wait a short amount of time before being able to move after grabbing a ledge.
+     * [574]Shieldstun has been drastically decreased, with an increased [575]perfect shield window.
+     * It only takes 7 frames to shield drop, making the game more defensively-focused.
+     * There is a [576]landing lag glitch on not all but several characters, that causes the character when they land to be inflicted with the landing lag of a helplessness-inducing [577]special move, if they grabbed the edge during the move, or after using the move before landing.
+     * Characters can grab a [578]ledge with their back facing it, and most recovery moves (though not all of them) also cancel for the character to grab the edge, making recovery easier and more flexible, as well as lowering the effectiveness of attacks that turn the opponent around, such as Mario's [579]Cape. Additionally, using any up special move (with [580]two [581]exceptions) no longer expends the character's double jump, allowing characters to use it after an up special move if they are hit out of it in the air without having used the double jump prior.
+     * Edge teching is no longer possible, as well as [582]ledge canceling attacks. Characters can now air dodge while [583]tumbling, so [584]teching itself is harder to perform, and has become generally less useful due to the reduced hitstun and momentum canceling.
+     * Character noises have been mostly overhauled:
+          + "Pain yells" are reliant on how long a character is in stun (instead of being reliant on how much knockback the character receives), and each character has two (or one in [585]Ness's and [586]Lucas's case) or none at all.
+          + Characters no longer have a single noise for being [587]KO'd horizontally or falling; each character now has two (this is most notable with [588]Pit and [589]Ivysaur) or again, none at all. Additionally, most characters have multiple noises for their aerial attacks and tilts (all of them are shared; [590]Donkey Kong, for example, can make the same noises when executing his down tilt as when executing his up aerial).
+          + Characters only make one sound when doing smash attacks ([591]Mario's "Yeeha!" heard when he does his [592]up smash is among the easiest to notice).
+     * Visually, most characters appear much less saturated and have more realistic, detailed textures, even if it doesn't match with their appearances in other games. This is easily noticeable in [593]Mario, [594]Luigi, [595]Peach, [596]Yoshi, [597]Kirby, [598]Jigglypuff and the [599]Ice Climbers.
+
+   Aside from the inclusion of the new characters, stages and items, there are various other changes, including:
+     * [600]Buffering implemented: characters can now perform actions by inputting them at least 10 frames before they can actually be executed.
+     * [601]Spikes no longer exist, as the trajectory range for a [602]meteor smash has been increased, and all attacks with a downwards angle fall into this range.
+     * The [603]footstool jump allows characters to bounce off of other characters' heads while sending the opponent downward; it acts like a meteor smash, though the footstool jump is not a true meteor smash.
+     * Characters [604]knocked down on the floor now enter a flopping animation upon hit by a weak attack, which does not give them any [605]invincibility frames until they can get up, enabling [606]locks.
+     * [607]Crouching cannot cancel dashes, and [608]crouch canceling no longer reduces knockback.
+     * [609]Smash attacks are easier to angle, as the player can now just hold up or down during the forward smash to angle it.
+     * Characters now conserve forward momentum when [610]dash grabbing opponents.
+     * [611]Pummels now deal variable damage from 1% to 3% depending on the character, rather than all dealing 3%, and have variable speeds depending on their strength: while characters like [612]Mario pummel as slow as in the previous game while dealing more damage per pummel, others like [613]Kirby can pummel very quickly, dealing less damage per pummel.
+     * Some characters can [614]crawl, while others can [615]glide or [616]wall cling, and every character can [617]swim in water instead of falling through it.
+     * Some characters have the [618]dash attack canceled up smash that improves their approach.
+     * All characters now have a [619]Final Smash.
+     * Characters can now randomly [620]trip, and they have a [621]floor attack for when they do so.
+     * Some characters can [622]grab release-combo other characters.
+     * [623]Moonwalking has been removed.
+     * [624]CPUs, while still having exploitable flaws, have gained an AI increase in general, choosing more alternatives with attacks and having quick dodging techniques of 1 frame reaction, among other improved behaviors.
+     * Grabbing a character does not restore their [625]midair jump(s).
+     * [626]Short hopping is at least 1 frame easier for all characters compared to Melee.
+     * [627]Smash Taunts do not end if the user flinches; they have to be KO'd to end it early.
+     * Up smashes can be performed while running without needing to [628]jump cancel, known as a [629]slide smash.
+     * Characters can now [630]pivot grab.
+     * [631]Glancing blows no longer deal damage, and a few sparks will show up to indicate one.
+     * All characters now have three taunts instead of one, and have unique [632]on-screen appearances, which return from the original [633]Super Smash Bros..
+     * [634]Items can now be grabbed during [635]dash attacks, [636]aerial attacks and air dodges.
+     * [637]Shrinking and [638]growing animations have been added for every character.
+     * Players can now configure personalised [639]controls for [640]names.
+     * [641]Bonuses have been removed, with only a few being awarded at the end of [642]Classic and [643]All-Star modes depending on the player's progress.
+     * Outside of the main game, players can build [644]custom stages and save [645]snapshots and [646]replays.
+     * The [647]Sound Test is now available at the start. However, certain sounds and music have to be unlocked.
+     * Melee's [648]Adventure Mode has been replaced by [649]The Subspace Emissary.
+     * [650]Event matches have selectable difficulties.
+     * [651]Target Test is now known as "Target Smash!!", and it now has selectable difficulties, though there are now only five stages for all characters, rather than every character having their own stage, like in the previous two games.
+     * The [652]Home-Run Contest puts a temporary shield around the platform.
+          + All of the four modes above can also be played in co-op, and players could also play [653]online in various modes.
+     * [654]Special Brawls' effects can now be combined rather than all appearing in different modes. Other special effects have also been added.
+     * Collectible [655]stickers have been added, which can be collected on matches to then be used in the Subspace Emissary. The Lottery for trophies has also been replaced with the [656]Coin Launcher. Players can now take snapshots of both trophies and stickers.
+     * In one-player game modes, the [657]C-stick acts the same as in multiplayer modes: instead of [658]zooming, it is used as how the player has configured it, the default function being uncharged [659]smash attacks.
+     * Any wins, losses, KOs, and other things performed by CPU characters do not count in the records.
+
+Gallery[[660]edit]
+
+     * Japanese cover art
+     * PAL cover art
+     * PAL Limited Edition packaging
+     * Super Smash Bros. Brawl as featured on the cover of Nintendo Power issue #222.
+     * The game's logo.
+     * The English title screen.
+     * The Japanese title screen.
+
+Trivia[[661]edit]
+
+     * The Brawl menu was designed to be very similar to the menu in [662]Kirby Air Ride, including the Challenges Checklist. Interestingly, Air Ride's menu uses deeper versions of the confirm and toggle sound effects from Melee's menu.
+     * Super Smash Bros. Brawl is featured on the cover of Nintendo Power issue #222 (Pictured above).
+     * Unlike most [663]Wii games, Super Smash Bros. Brawl comes in a dual-layer disc due to the large amount of data used for the game. Some older Wii consoles have trouble reading the disc, so various Nintendo branches around the world offer a free cleaning program for affected Wii consoles.
+     * Brawl is the only game in the entire series to cut a [664]Mario universe character ([665]Dr. Mario), as well as the only game in the series to not include a new Mario universe character, discounting [666]Wario and [667]Diddy Kong, who despite technically being a part of the Mario universe and appearing in several Mario games, are considered to be from the [668]Wario and [669]Donkey Kong series, respectively.
+     * Not counting the [670]Virtual Console, Brawl is the only Wii appearance for [671]Sheik, [672]Wolf, [673]Captain Falcon, [674]Ness, [675]Lucas, [676]Marth, [677]Ice Climbers, and [678]Snake.
+          + Brawl was also the first (but not last) appearance on the Wii for [679]Zero Suit Samus, [680]Kirby, [681]Meta Knight, [682]King Dedede and [683]Olimar.
+     * Brawl is the only game in the series where unlockable characters can be unlocked without battling them first (via joining them in the [684]Subspace Emissary.)
+     * Brawl is also the only game in the series not to feature stages from [685]Super Smash Bros..
+     * Before [686]Super Smash Bros. Ultimate, Brawl had the most unlockable characters out of any other Smash Bros. game, with 14 characters needing to be unlocked. It also has the most unlockable stages, with 12.
+     * Brawl introduces four [687]Pokémon series newcomers, which is more series newcomers than any other universe has in the game.
+          + It is tied with [688]The Legend of Zelda series, which introduced four newcomers in Melee.
+     * By coincidence, the Nintendo Direct on March 8, 2018, which announced a [689]then-unnamed Super Smash Bros. title for the [690]Nintendo Switch, aired only one day before the 10th Anniversary of Super Smash Bros. Brawl in the US.
+     * When not including DLC of [691]Super Smash Bros. for Wii U, Brawl introduced the most new stages with 31.
+
+References[[692]edit]
+
+    1. [693]↑ Sakurai, Masahiro. [694]Iwata Asks: Super Smash Bros. Brawl (Transcript). Retrieved on 2008-04-11.
+    2. [695]↑ [696]Super Smash Bros. Brawl at Nintendo Australia. [697]Nintendo (2006-05-12). Retrieved on 2007-06-20.
+    3. [698]↑ [699]Upcoming Nintendo titles for Wii and Nintendo DS across Europe. Nintendo-Europe. Retrieved on 2007-07-11.
+    4. [700]↑ "[701]Look who is attending the Brawl!", [702]Nintendo, 2007-10-10. Retrieved on 2007-10-10.
+    5. [703]↑ [704]Wi-Fi Play. [705]Smash Bros. DOJO!!. Smashbros.com (2007-09-18). Retrieved on 2007-09-18.
+    6. [706]↑ [707]Four Kinds of Control. [708]Smash Bros. DOJO!!. Smashbros.com (2007-06-08). Retrieved on 2007-06-08.
+    7. [709]↑ Sakurai, Masahiro. [710]Foreword. Smash Bros. DOJO!! (Internet Archive). Retrieved on 2007-11-11.
+    8. [711]↑ name="four control">[712]Four Kinds of Control. Smash Bros. Dojo!! (2007-06-08). Retrieved on 2007-06-08.
+    9. [713]↑ Sakurai, Masahiro (2007-11-16). [714]Wi-Fi Play. Smash Bros. DOJO!!. Retrieved on 2008-04-22.
+   10. [715]↑ 26 including [716]Sheik as a separate character from [717]Princess Zelda
+   11. ↑ ^[718]11.0 ^[719]11.1 Sakurai, Masahiro ("May 22 Tue. 2007"). [720]The Musicians. [721]Smash Bros. DOJO!!. Retrieved on 2011-01-16.
+   12. [722]↑ Hudak, Chris. [723]Super Smash Bros. Brawl Review at Game Revolution .. Game Revolution. Retrieved on 2008-04-21.
+   13. ↑ ^[724]13.0 ^[725]13.1 [726]Trophies. [727]Smash Bros. DOJO!!. Smashbros.com (2007-09-24). Retrieved on 2007-10-24.
+   14. ↑ ^[728]14.0 ^[729]14.1 [730]Stickers. [731]Smash Bros. DOJO!!. Smashbros.com (2007-08-15). Retrieved on 2007-10-24.
+   15. ↑ ^[732]15.0 ^[733]15.1 [734]My Music. [735]Smash Bros. DOJO!!. Smashbros.com (2007-09-07). Retrieved on 2007-10-28.
+   16. [736]↑ [737]Classic. [738]Smash Bros. DOJO!!. Smashbros.com (2007-10-30). Retrieved on 2007-10-30.
+   17. [739]↑ Casamassina, Matt (2005-05-17). [740]E3 2005: Smash Bros. For Revolution. IGN. Retrieved on 2006-05-03.
+   18. [741]↑ IGN Staff (2005-11-16). [742]Smash Bros. Revolution Director Revealed. IGN. Retrieved on 2007-06-21.
+   19. ↑ ^[743]19.0 ^[744]19.1 Casamassina, Matt; Peer Schneider (2006-05-10). [745]E3 2006: Super Smash Bros. Brawl. IGN. Retrieved on 2006-08-01.
+   20. [746]↑ Miller, Ross (2006-06-05). [747]Sakurai reveals new Smash Bros. Brawl details. Joystiq. Retrieved on 2007-06-21.
+   21. [748]↑ Dormer, Dan (2007-04-27). [749]Kojima's Played Super Smash Bros. Brawl. 1up.com. Retrieved on 2007-06-21.
+   22. [750]↑ Wirgler, Matthew (2007-10-09). [751]Super Smash Bros. Brawl and Mario Galaxy Playable at E for All. Advance Media Network. Retrieved on 2007-10-21.
+   23. [752]↑ Casamassina, Matt (2007-07-11). [753]Nintendo E3 2007 Press Conference. IGN. Retrieved on 2007-07-11.
+   24. [754]↑ [755]Nintendo Conference Fall 2007 (mpg). E-news.co.jp (2007-10-10). Retrieved on 2007-10-11.
+   25. [756]↑ [757]Smash Release Date Confirmed. Retrieved on 2007-10-14.
+   26. [758]↑ [759]Brawl Delayed Again (2008-01-15).
+   27. ↑ ^[760]27.0 ^[761]27.1 Klepek, Patrick (2006-06-05). [762]Super Smash Bros. Brawl Details. 1UP. Retrieved on 2007-09-13.
+   28. [763]↑ Mcwhertor, Michael (2006-05-11). [764]E306: Super Smash Bros. Brawl Q&A. Kotaku. Retrieved on 2007-09-18.
+   29. [765]↑ [766]速報スマブラ拳: Ness (Japanese). [767]Nintendo. Retrieved on 2007-10-21.
+   30. [768]↑ [769]E3 2006: Fans Asked to Fill Smash Bros. Roster. IGN (2006-05-11). Retrieved on 2006-05-11.
+   31. [770]↑ Rushan S. (2006-08-17). [771]Sakurai and Miyamoto Comment on Sonic's Popularity. Nintendo Wii News. QJ.NET. Retrieved on 2007-08-04. “Nintendo hopes that Snake's appearance in Super Smash Bros. Brawl will encourage other publishers to allow their characters to join the Smash Bros. line-up, and is already actively negotiating for the rights to include at least one other non-Nintendo character.”
+   32. [772]↑ [773]Sonic The Hedgehog. [774]Smash Bros. DOJO!!. Smashbros.com (2007-10-10). Retrieved on 2007-10-10.
+   33. [775]↑ Mielke, James (2008-03-07). [776]Super Smash Bros. Brawl Review. 1UP.com. Retrieved on 2008-05-16.
+   34. [777]↑ Edge staff (April 2008). [778]http://www.next-gen.biz/index.php?option=com_content&task=view&id=9575&Itemid=51 Super Smash Bros. Brawl Review, 84–85.
+   35. [779]↑ Bramwell, Tom. [780]Eurogamer Super Smash Bros. Brawl Review. Eurogamer. Retrieved on 2008-03-27.
+   36. [781]↑ Gray, Brian. "[782]Famitsu Gives Smash Bros. Brawl a Perfect Score", [783]1up.com, 2008-01-16. Retrieved on 2008-04-27.
+   37. [784]↑ [785]GameTrailers Super Smash Bros. Brawl Review. GameTrailers. Retrieved on 2008-03-09.
+   38. [786]↑ Casamassina, Matt. [787]IGN Super Smash Bros. Brawl Review. IGN. Retrieved on 2008-03-04.
+   39. [788]↑ Castle, Matthew. [789]Ngamer — Review: Super Smash Bros. Brawl. NGamer. Retrieved on 2008-02-26.
+   40. [790]↑ Slate, Chris. "Simply Smashing", Nintendo Power, Future US, March 2008, pp. 82–83.
+   41. [791]↑ Mathers, Martin (2008-06-26). [792]Wii Review: Super Smash Bros.. Official Nintendo Magazine. Retrieved on 2008-10-02.
+   42. [793]↑ [794]Super Smash Bros. Brawl (wii: 2008): Reviews. Metacritic. Retrieved on 2008-04-23.
+   43. [795]↑ [796]Super Smash Bros. Brawl Reviews. Game Rankings. Retrieved on 2010-10-25.
+   44. [797]↑ [798]TopTenReviews – Super Smash Bros. Brawl. TopTenReviews. Retrieved on 2008-07-09.
+   45. [799]↑ [800]Gamespot: Best Fighting Game of the Year. GameSpot. Retrieved on 2009-02-23.
+
+External links[[801]edit]
+
+     * [802]Official Super Smash Bros. Brawl website
+     * [803]Official PDF-file instruction manual for Super Smash Bros. Brawl (English)
+
+   [804]v • [805]d • [806]e
+   [807]Super Smash Bros. series
+   [808]Super Smash Bros. · [809]Super Smash Bros. Melee · Super Smash Bros. Brawl · [810]Super Smash Bros. 4 ([811]for Nintendo 3DS · [812]for Wii U  · [813]Smash Controller)  · [814]Super Smash Bros. Ultimate
+   [815]v • [816]d • [817]e
+   Super Smash Bros. Brawl menu items
+      Group     [818]Brawl ([819]Time · [820]Stock · [821]Coin Battle · [822]Team Battle) · [823]Rules · [824]Special Brawl · [825]Rotation · [826]Tourney · [827]Names
+       Solo     [828]Classic · [829]All-Star · [830]Adventure Mode: The Subspace Emissary · [831]Events · [832]Stadium ([833]Target Smash!! · [834]Home-Run Contest · [835]Multi-Man Brawl  · [836]Boss Battles)  · [837]Training
+    [838]Wi-Fi  [839]Spectator Mode · [840]With Anyone · [841]With Friends
+    [842]Vault  [843]Trophies & [844]Stickers ([845]Trophy Gallery · [846]Trophy Hoard · [847]Coin Launcher · [848]Sticker Album · [849]Sticker Center) · [850]Stage Builder · [851]Album · [852]Challenges · [853]Replays · [854]Masterpieces · [855]Chronicle
+   [856]Options [857]Screen · [858]Deflicker · [859]Rumble · [860]Controls · [861]Sound · [862]My Music · [863]Erase Data
+    [864]Data   [865]Movies · [866]Records ([867]Group Records · [868]Brawl Records · [869]Notices) · [870]Sound Test
+   Ads keep SmashWiki independent and free :)
+   Retrieved from "[871]https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&oldid=1175597"
+   [872]Categories:
+     * [873]Featured Articles
+     * [874]Games
+     * [875]Super Smash Bros. Brawl
+     * [876]Super Smash Bros. universe
+     * [877]Wii
+     * [878]Super Smash Bros. series
+
+Navigation menu
+
+Views
+
+     * [879]Article
+     * [880]Discussion
+     * [881]Edit this page
+     * [882]History
+
+Personal tools
+
+     * Not logged in
+     * [883]Talk
+     * [884]Contributions
+     * [885]Create account
+     * [886]Log in
+
+Navigation
+
+     * [887]Main page
+     * [888]Smash Bros. Ultimate
+     * [889]Smash Bros. 4
+     * [890]Smash Bros. Brawl
+     * [891]Smash Bros. Melee
+     * [892]Smash Bros. (64)
+     * [893]Characters
+     * [894]Stages
+     * [895]Modes
+     * [896]Items
+     * [897]Random page
+
+Search
+
+   ____________________ Go  Search
+
+Participate
+
+     * [898]Forum
+     * [899]Community portal
+     * [900]Recent changes
+     * [901]Help
+     * [902]Admin noticeboard
+     * [903]Discord server
+     * [904]YouTube channel
+
+Tools
+
+     * [905]What links here
+     * [906]Related changes
+     * [907]Special pages
+     * [908]Printable version
+     * [909]Permanent link
+     * [910]Page information
+
+In other languages
+
+     * [911]Español
+
+   [912]Attribution-Share Alike 3.0 Unported
+   [913]Powered by MediaWiki
+     * This page was last edited on 22 January 2019, at 05:10.
+     * Content is available under [914]Attribution-Share Alike 3.0 Unported unless otherwise noted.
+     * [915]Privacy policy
+     * [916]About SmashWiki
+     * [917]Disclaimers
+     * [918]Mobile view
+
+References
+
+   Visible links
+   1. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&action=edit
+   2. https://www.ssbwiki.com/opensearch_desc.php
+   3. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&feed=atom
+   4. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#column-one
+   5. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#searchInput
+   6. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+   7. https://www.ssbwiki.com/SmashWiki:Featured_content
+   8. https://www.ssbwiki.com/Versus_Mode
+   9. https://www.ssbwiki.com/File:SSBB_Cover.jpg
+  10. https://en.wikipedia.org/wiki/Video_game_developer
+  11. https://www.ssbwiki.com/Sora
+  12. https://www.ssbwiki.com/HAL_Laboratory
+  13. https://www.ssbwiki.com/Game_Arts
+  14. https://www.ssbwiki.com/Monolith_Soft
+  15. https://www.ssbwiki.com/Paon
+  16. https://www.ssbwiki.com/Intelligent_Systems
+  17. https://en.wikipedia.org/wiki/Video_game_publisher
+  18. https://www.ssbwiki.com/Nintendo
+  19. https://en.wikipedia.org/wiki/Game_designer
+  20. https://www.ssbwiki.com/Masahiro_Sakurai
+  21. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-IwataAsksSubspace-1
+  22. https://en.wikipedia.org/wiki/Game_engine
+  23. https://www.ssbwiki.com/Havok
+  24. https://www.ssbwiki.com/File:Flag_of_Japan.png
+  25. https://www.ssbwiki.com/File:Flag_of_North_America.png
+  26. https://www.ssbwiki.com/File:Flag_of_Australia.png
+  27. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-2
+  28. https://www.ssbwiki.com/File:Flag_of_Europe.png
+  29. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-3
+  30. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-4
+  31. https://www.ssbwiki.com/File:Flag_of_South_Korea.png
+  32. https://en.wikipedia.org/wiki/Video_game_genres
+  33. https://en.wikipedia.org/wiki/Fighting_game
+  34. https://en.wikipedia.org/wiki/Platform_game
+  35. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-Online-5
+  36. https://en.wikipedia.org/wiki/Video_game_content_rating_system
+  37. https://en.wikipedia.org/wiki/Video_game#Platforms
+  38. https://www.ssbwiki.com/Wii
+  39. https://en.wikipedia.org/wiki/Nintendo_optical_discs
+  40. https://www.ssbwiki.com/Wii_Remote
+  41. https://www.ssbwiki.com/Nunchuk
+  42. https://www.ssbwiki.com/Classic_Controller
+  43. https://www.ssbwiki.com/GameCube_controller
+  44. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-four_control-6
+  45. https://www.ssbwiki.com/Super_Smash_Bros._(series)
+  46. https://www.ssbwiki.com/Nintendo
+  47. https://www.ssbwiki.com/Masahiro_Sakurai
+  48. https://www.ssbwiki.com/Sora
+  49. https://www.ssbwiki.com/Game_Arts
+  50. https://www.ssbwiki.com/Havok
+  51. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-oldDojo-7
+  52. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-8
+  53. https://www.ssbwiki.com/Wii_Remote
+  54. https://www.ssbwiki.com/Nunchuk
+  55. https://www.ssbwiki.com/Classic_Controller
+  56. https://www.ssbwiki.com/GameCube_controller
+  57. https://www.ssbwiki.com/Versus_Mode
+  58. https://www.ssbwiki.com/Wi-Fi_Connection
+  59. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-Wi-Fi_Play-9
+  60. https://www.ssbwiki.com/Classic_Mode_(SSBB)
+  61. https://www.ssbwiki.com/All-Star_Mode
+  62. https://www.ssbwiki.com/Adventure_Mode_(SSBM)
+  63. https://www.ssbwiki.com/The_Subspace_Emissary
+  64. https://www.ssbwiki.com/Solid_Snake
+  65. https://www.ssbwiki.com/Sonic_the_Hedgehog
+  66. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-10
+  67. https://www.ssbwiki.com/Zero_Suit_Samus
+  68. https://www.ssbwiki.com/Samus
+  69. https://www.ssbwiki.com/Squirtle
+  70. https://www.ssbwiki.com/Ivysaur
+  71. https://www.ssbwiki.com/Charizard
+  72. https://www.ssbwiki.com/Pokémon_Trainer
+  73. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-Musicians-11
+  74. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-GameRevolution-12
+  75. https://www.ssbwiki.com/Zero_Suit_Samus_(SSBB)
+  76. https://www.ssbwiki.com/Zelda_(SSBB)
+  77. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#Opening_movie
+  78. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#Characters
+  79. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#List_of_characters
+  80. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#Bosses
+  81. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#Unplayable_characters
+  82. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#Collectibles
+  83. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#Masterpieces
+  84. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#Music
+  85. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#Stages
+  86. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#Development
+  87. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#Inclusion_of_characters
+  88. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#Trailers
+  89. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#Reception
+  90. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#Changes_from_Melee_to_Brawl
+  91. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#Gallery
+  92. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#Trivia
+  93. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#References
+  94. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#External_links
+  95. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&action=edit&section=1
+  96. https://www.ssbwiki.com/Opening_movie
+  97. https://www.ssbwiki.com/List_of_cutscenes_in_the_Subspace_Emissary
+  98. https://www.ssbwiki.com/The_Subspace_Emissary
+  99. https://www.ssbwiki.com/Versus_Mode
+ 100. https://www.ssbwiki.com/Super_Smash_Bros.
+ 101. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 102. https://www.youtube.com/embed/nfU48g3IUmY?
+ 103. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&action=edit&section=2
+ 104. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+ 105. https://www.ssbwiki.com/Zero_Suit_Samus_(SSBB)
+ 106. https://www.ssbwiki.com/Sheik_(SSBB)
+ 107. https://www.ssbwiki.com/Samus_(SSBB)
+ 108. https://www.ssbwiki.com/Zelda_(SSBB)
+ 109. https://www.ssbwiki.com/Character_selection_screen
+ 110. https://www.ssbwiki.com/Sheik
+ 111. https://www.ssbwiki.com/Zero_Suit_Samus
+ 112. https://www.ssbwiki.com/Pokémon_Trainer
+ 113. https://www.ssbwiki.com/Starter_character
+ 114. https://www.ssbwiki.com/Sheik
+ 115. https://www.ssbwiki.com/Zero_Suit_Samus
+ 116. https://www.ssbwiki.com/Pokémon_Trainer
+ 117. https://www.ssbwiki.com/Unlockable_character
+ 118. https://www.ssbwiki.com/Link
+ 119. https://www.ssbwiki.com/Fox_McCloud
+ 120. https://www.ssbwiki.com/Samus_Aran
+ 121. https://www.ssbwiki.com/Zero_Suit_Samus
+ 122. https://www.ssbwiki.com/Final_Smash
+ 123. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 124. https://www.ssbwiki.com/Young_Link
+ 125. https://www.ssbwiki.com/Pokémon_(universe)
+ 126. https://www.ssbwiki.com/Mewtwo
+ 127. https://www.ssbwiki.com/Pichu
+ 128. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 129. https://www.ssbwiki.com/Roy
+ 130. https://www.ssbwiki.com/Mario_(universe)
+ 131. https://www.ssbwiki.com/Dr._Mario
+ 132. https://www.ssbwiki.com/Clone
+ 133. https://www.ssbwiki.com/Toon_Link
+ 134. https://www.ssbwiki.com/Lucario
+ 135. https://www.ssbwiki.com/Pokémon_Trainer
+ 136. https://www.ssbwiki.com/Charizard
+ 137. https://www.ssbwiki.com/Squirtle
+ 138. https://www.ssbwiki.com/Ivysaur
+ 139. https://www.ssbwiki.com/Ike
+ 140. https://www.ssbwiki.com/Kirby_(universe)
+ 141. https://www.ssbwiki.com/King_Dedede
+ 142. https://www.ssbwiki.com/Meta_Knight
+ 143. https://www.ssbwiki.com/EarthBound_(universe)
+ 144. https://www.ssbwiki.com/Lucas
+ 145. https://www.ssbwiki.com/Star_Fox_(universe)
+ 146. https://www.ssbwiki.com/Wolf_O'Donnell
+ 147. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 148. https://www.ssbwiki.com/Diddy_Kong
+ 149. https://www.ssbwiki.com/Metroid_(universe)
+ 150. https://www.ssbwiki.com/Metroid:_Zero_Mission
+ 151. https://www.ssbwiki.com/Pit
+ 152. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 153. https://en.wikipedia.org/wiki/Kid_Icarus:_Of_Myths_and_Monsters
+ 154. https://www.ssbwiki.com/Wario
+ 155. https://www.ssbwiki.com/Wario_(universe)
+ 156. https://www.ssbwiki.com/Captain_Olimar
+ 157. https://www.ssbwiki.com/Pikmin_(universe)
+ 158. https://www.ssbwiki.com/R.O.B.
+ 159. https://www.ssbwiki.com/Solid_Snake
+ 160. https://www.ssbwiki.com/Metal_Gear_(universe)
+ 161. https://www.ssbwiki.com/Sonic_the_Hedgehog
+ 162. https://www.ssbwiki.com/Sonic_(universe)
+ 163. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&action=edit&section=3
+ 164. https://www.ssbwiki.com/Mario_(SSBB)
+ 165. https://www.ssbwiki.com/Mario_(SSBB)
+ 166. https://www.ssbwiki.com/Mario_(universe)
+ 167. https://www.ssbwiki.com/Luigi_(SSBB)
+ 168. https://www.ssbwiki.com/Luigi_(SSBB)
+ 169. https://www.ssbwiki.com/Mario_(universe)
+ 170. https://www.ssbwiki.com/Peach_(SSBB)
+ 171. https://www.ssbwiki.com/Peach_(SSBB)
+ 172. https://www.ssbwiki.com/Mario_(universe)
+ 173. https://www.ssbwiki.com/Bowser_(SSBB)
+ 174. https://www.ssbwiki.com/Bowser_(SSBB)
+ 175. https://www.ssbwiki.com/Mario_(universe)
+ 176. https://www.ssbwiki.com/Yoshi_(SSBB)
+ 177. https://www.ssbwiki.com/Yoshi_(SSBB)
+ 178. https://www.ssbwiki.com/Yoshi_(universe)
+ 179. https://www.ssbwiki.com/Donkey_Kong_(SSBB)
+ 180. https://www.ssbwiki.com/Donkey_Kong_(SSBB)
+ 181. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 182. https://www.ssbwiki.com/Kirby_(SSBB)
+ 183. https://www.ssbwiki.com/Kirby_(SSBB)
+ 184. https://www.ssbwiki.com/Kirby_(universe)
+ 185. https://www.ssbwiki.com/Link_(SSBB)
+ 186. https://www.ssbwiki.com/Link_(SSBB)
+ 187. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 188. https://www.ssbwiki.com/Zelda_(SSBB)
+ 189. https://www.ssbwiki.com/Sheik_(SSBB)
+ 190. https://www.ssbwiki.com/Zelda_(SSBB)
+ 191. https://www.ssbwiki.com/Sheik_(SSBB)
+ 192. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 193. https://www.ssbwiki.com/Ganondorf_(SSBB)
+ 194. https://www.ssbwiki.com/Ganondorf_(SSBB)
+ 195. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 196. https://www.ssbwiki.com/Samus_(SSBB)
+ 197. https://www.ssbwiki.com/Samus_(SSBB)
+ 198. https://www.ssbwiki.com/Metroid_(universe)
+ 199. https://www.ssbwiki.com/Fox_(SSBB)
+ 200. https://www.ssbwiki.com/Fox_(SSBB)
+ 201. https://www.ssbwiki.com/Star_Fox_(universe)
+ 202. https://www.ssbwiki.com/Falco_(SSBB)
+ 203. https://www.ssbwiki.com/Falco_(SSBB)
+ 204. https://www.ssbwiki.com/Star_Fox_(universe)
+ 205. https://www.ssbwiki.com/Pikachu_(SSBB)
+ 206. https://www.ssbwiki.com/Pikachu_(SSBB)
+ 207. https://www.ssbwiki.com/Pokémon_(universe)
+ 208. https://www.ssbwiki.com/Jigglypuff_(SSBB)
+ 209. https://www.ssbwiki.com/Jigglypuff_(SSBB)
+ 210. https://www.ssbwiki.com/Pokémon_(universe)
+ 211. https://www.ssbwiki.com/Captain_Falcon_(SSBB)
+ 212. https://www.ssbwiki.com/Captain_Falcon_(SSBB)
+ 213. https://www.ssbwiki.com/F-Zero_(universe)
+ 214. https://www.ssbwiki.com/Ness_(SSBB)
+ 215. https://www.ssbwiki.com/Ness_(SSBB)
+ 216. https://www.ssbwiki.com/EarthBound_(universe)
+ 217. https://www.ssbwiki.com/Ice_Climbers_(SSBB)
+ 218. https://www.ssbwiki.com/Ice_Climbers_(SSBB)
+ 219. https://www.ssbwiki.com/Ice_Climber_(universe)
+ 220. https://www.ssbwiki.com/Marth_(SSBB)
+ 221. https://www.ssbwiki.com/Marth_(SSBB)
+ 222. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 223. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSBB)
+ 224. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSBB)
+ 225. https://www.ssbwiki.com/Game_&_Watch_(universe)
+ 226. https://www.ssbwiki.com/Diddy_Kong_(SSBB)
+ 227. https://www.ssbwiki.com/Diddy_Kong_(SSBB)
+ 228. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 229. https://www.ssbwiki.com/Meta_Knight_(SSBB)
+ 230. https://www.ssbwiki.com/Meta_Knight_(SSBB)
+ 231. https://www.ssbwiki.com/Kirby_(universe)
+ 232. https://www.ssbwiki.com/King_Dedede_(SSBB)
+ 233. https://www.ssbwiki.com/King_Dedede_(SSBB)
+ 234. https://www.ssbwiki.com/Kirby_(universe)
+ 235. https://www.ssbwiki.com/Toon_Link_(SSBB)
+ 236. https://www.ssbwiki.com/Toon_Link_(SSBB)
+ 237. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 238. https://www.ssbwiki.com/Zero_Suit_Samus_(SSBB)
+ 239. https://www.ssbwiki.com/Zero_Suit_Samus_(SSBB)
+ 240. https://www.ssbwiki.com/Metroid_(universe)
+ 241. https://www.ssbwiki.com/Wolf_(SSBB)
+ 242. https://www.ssbwiki.com/Wolf_(SSBB)
+ 243. https://www.ssbwiki.com/Star_Fox_(universe)
+ 244. https://www.ssbwiki.com/Pokémon_Trainer_(SSBB)
+ 245. https://www.ssbwiki.com/Squirtle_(SSBB)
+ 246. https://www.ssbwiki.com/Ivysaur_(SSBB)
+ 247. https://www.ssbwiki.com/Charizard_(SSBB)
+ 248. https://www.ssbwiki.com/Pokémon_Trainer_(SSBB)
+ 249. https://www.ssbwiki.com/Squirtle_(SSBB)
+ 250. https://www.ssbwiki.com/Ivysaur_(SSBB)
+ 251. https://www.ssbwiki.com/Charizard_(SSBB)
+ 252. https://www.ssbwiki.com/Pokémon_(universe)
+ 253. https://www.ssbwiki.com/Lucario_(SSBB)
+ 254. https://www.ssbwiki.com/Lucario_(SSBB)
+ 255. https://www.ssbwiki.com/Pokémon_(universe)
+ 256. https://www.ssbwiki.com/Lucas_(SSBB)
+ 257. https://www.ssbwiki.com/Lucas_(SSBB)
+ 258. https://www.ssbwiki.com/EarthBound_(universe)
+ 259. https://www.ssbwiki.com/Ike_(SSBB)
+ 260. https://www.ssbwiki.com/Ike_(SSBB)
+ 261. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 262. https://www.ssbwiki.com/Pit_(SSBB)
+ 263. https://www.ssbwiki.com/Pit_(SSBB)
+ 264. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 265. https://www.ssbwiki.com/Wario_(SSBB)
+ 266. https://www.ssbwiki.com/Wario_(SSBB)
+ 267. https://www.ssbwiki.com/Wario_(universe)
+ 268. https://www.ssbwiki.com/Olimar_(SSBB)
+ 269. https://www.ssbwiki.com/Olimar_(SSBB)
+ 270. https://www.ssbwiki.com/Pikmin_(universe)
+ 271. https://www.ssbwiki.com/R.O.B._(SSBB)
+ 272. https://www.ssbwiki.com/R.O.B._(SSBB)
+ 273. https://www.ssbwiki.com/R.O.B._(universe)
+ 274. https://www.ssbwiki.com/Snake_(SSBB)
+ 275. https://www.ssbwiki.com/Snake_(SSBB)
+ 276. https://www.ssbwiki.com/Metal_Gear_(universe)
+ 277. https://www.ssbwiki.com/Sonic_(SSBB)
+ 278. https://www.ssbwiki.com/Sonic_(SSBB)
+ 279. https://www.ssbwiki.com/Sonic_(universe)
+ 280. https://www.ssbwiki.com/Unlockable_character#Super_Smash_Bros._Brawl
+ 281. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&action=edit&section=4
+ 282. https://www.ssbwiki.com/Classic_mode
+ 283. https://www.ssbwiki.com/Subspace_Emissary
+ 284. https://www.ssbwiki.com/Master_Hand_(SSBB)
+ 285. https://www.ssbwiki.com/Master_Hand_(SSBB)
+ 286. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 287. https://www.ssbwiki.com/Crazy_Hand_(SSBB)
+ 288. https://www.ssbwiki.com/Crazy_Hand_(SSBB)
+ 289. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 290. https://www.ssbwiki.com/Petey_Piranha
+ 291. https://www.ssbwiki.com/Petey_Piranha
+ 292. https://www.ssbwiki.com/Mario_(universe)
+ 293. https://www.ssbwiki.com/Rayquaza
+ 294. https://www.ssbwiki.com/Rayquaza
+ 295. https://www.ssbwiki.com/Pokémon_(universe)
+ 296. https://www.ssbwiki.com/Porky_Minch
+ 297. https://www.ssbwiki.com/Porky_Minch
+ 298. https://www.ssbwiki.com/EarthBound_(universe)
+ 299. https://www.ssbwiki.com/Galleom
+ 300. https://www.ssbwiki.com/Galleom
+ 301. https://www.ssbwiki.com/Subspace_Army
+ 302. https://www.ssbwiki.com/Ridley
+ 303. https://www.ssbwiki.com/Ridley
+ 304. https://www.ssbwiki.com/Metroid_(universe)
+ 305. https://www.ssbwiki.com/Duon
+ 306. https://www.ssbwiki.com/Duon
+ 307. https://www.ssbwiki.com/Subspace_Army
+ 308. https://www.ssbwiki.com/Meta_Ridley
+ 309. https://www.ssbwiki.com/Meta_Ridley
+ 310. https://www.ssbwiki.com/Metroid_(universe)
+ 311. https://www.ssbwiki.com/Tabuu
+ 312. https://www.ssbwiki.com/Tabuu
+ 313. https://www.ssbwiki.com/Subspace_Army
+ 314. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&action=edit&section=5
+ 315. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 316. https://www.ssbwiki.com/Fighting_Alloy_Team
+ 317. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&action=edit&section=6
+ 318. https://www.ssbwiki.com/Trophy
+ 319. https://www.ssbwiki.com/List_of_trophies
+ 320. https://www.ssbwiki.com/Sticker
+ 321. https://www.ssbwiki.com/List_of_stickers_(complete_list)
+ 322. https://www.ssbwiki.com/CD
+ 323. https://www.ssbwiki.com/Coins_(collectible)
+ 324. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-Trophies-13
+ 325. https://www.ssbwiki.com/Sticker
+ 326. https://www.ssbwiki.com/Adventure_Mode:_The_Subspace_Emissary
+ 327. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-Stickers-14
+ 328. https://www.ssbwiki.com/Trophy_Hoard
+ 329. https://www.ssbwiki.com/Sticker_Album
+ 330. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-Trophies-13
+ 331. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-Stickers-14
+ 332. https://www.ssbwiki.com/CD
+ 333. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-My_Music-15
+ 334. https://www.ssbwiki.com/Classic_Mode_(SSBB)
+ 335. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-classic-16
+ 336. https://www.ssbwiki.com/All-Star_Mode
+ 337. https://www.ssbwiki.com/Coin_Launcher
+ 338. https://www.ssbwiki.com/Continue
+ 339. https://www.ssbwiki.com/Spectator_Mode
+ 340. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&action=edit&section=7
+ 341. https://www.ssbwiki.com/Masterpieces
+ 342. https://www.ssbwiki.com/Virtual_Console
+ 343. https://www.ssbwiki.com/Challenges
+ 344. https://www.ssbwiki.com/Donkey_Kong_(game)
+ 345. https://www.ssbwiki.com/Nintendo_64
+ 346. https://www.ssbwiki.com/The_Legend_of_Zelda:_Ocarina_of_Time
+ 347. https://www.ssbwiki.com/EarthBound_(game)
+ 348. https://www.ssbwiki.com/Fire_Emblem:_Monsho_no_Nazo
+ 349. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&action=edit&section=8
+ 350. https://www.ssbwiki.com/My_Music
+ 351. https://www.ssbwiki.com/Music_(SSBB)
+ 352. https://www.ssbwiki.com/Super_Smash_Bros._Brawl_Main_Theme
+ 353. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-Musicians-11
+ 354. https://www.ssbwiki.com/CD
+ 355. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-My_Music-15
+ 356. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&action=edit&section=9
+ 357. https://www.ssbwiki.com/Stage
+ 358. https://www.ssbwiki.com/Smash_Taunt
+ 359. https://www.ssbwiki.com/Stage_Builder
+ 360. https://www.ssbwiki.com/Battlefield_(SSBB)
+ 361. https://www.ssbwiki.com/Battlefield_(SSBB)
+ 362. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 363. https://www.ssbwiki.com/Final_Destination_(SSBB)
+ 364. https://www.ssbwiki.com/Final_Destination_(SSBB)
+ 365. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 366. https://www.ssbwiki.com/Delfino_Plaza
+ 367. https://www.ssbwiki.com/Delfino_Plaza
+ 368. https://www.ssbwiki.com/Mario_(universe)
+ 369. https://www.ssbwiki.com/Mushroomy_Kingdom
+ 370. https://www.ssbwiki.com/Mushroomy_Kingdom
+ 371. https://www.ssbwiki.com/Mario_(universe)
+ 372. https://www.ssbwiki.com/Mario_Circuit_(SSBB)
+ 373. https://www.ssbwiki.com/Mario_Circuit_(SSBB)
+ 374. https://www.ssbwiki.com/Mario_(universe)
+ 375. https://www.ssbwiki.com/Luigi's_Mansion
+ 376. https://www.ssbwiki.com/Luigi's_Mansion
+ 377. https://www.ssbwiki.com/Mario_(universe)
+ 378. https://www.ssbwiki.com/Mario_Bros.
+ 379. https://www.ssbwiki.com/Mario_Bros.
+ 380. https://www.ssbwiki.com/Mario_(universe)
+ 381. https://www.ssbwiki.com/Yoshi's_Island_(SSBB)
+ 382. https://www.ssbwiki.com/Yoshi's_Island_(SSBB)
+ 383. https://www.ssbwiki.com/Yoshi_(universe)
+ 384. https://www.ssbwiki.com/Rumble_Falls
+ 385. https://www.ssbwiki.com/Rumble_Falls
+ 386. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 387. https://www.ssbwiki.com/75m
+ 388. https://www.ssbwiki.com/75m
+ 389. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 390. https://www.ssbwiki.com/Bridge_of_Eldin
+ 391. https://www.ssbwiki.com/Bridge_of_Eldin
+ 392. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 393. https://www.ssbwiki.com/Pirate_Ship
+ 394. https://www.ssbwiki.com/Pirate_Ship
+ 395. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 396. https://www.ssbwiki.com/Norfair
+ 397. https://www.ssbwiki.com/Norfair
+ 398. https://www.ssbwiki.com/Metroid_(universe)
+ 399. https://www.ssbwiki.com/Frigate_Orpheon
+ 400. https://www.ssbwiki.com/Frigate_Orpheon
+ 401. https://www.ssbwiki.com/Metroid_(universe)
+ 402. https://www.ssbwiki.com/Halberd
+ 403. https://www.ssbwiki.com/Halberd
+ 404. https://www.ssbwiki.com/Kirby_(universe)
+ 405. https://www.ssbwiki.com/Lylat_Cruise
+ 406. https://www.ssbwiki.com/Lylat_Cruise
+ 407. https://www.ssbwiki.com/Star_Fox_(universe)
+ 408. https://www.ssbwiki.com/Pokémon_Stadium_2
+ 409. https://www.ssbwiki.com/Pokémon_Stadium_2
+ 410. https://www.ssbwiki.com/Pokémon_(universe)
+ 411. https://www.ssbwiki.com/Spear_Pillar
+ 412. https://www.ssbwiki.com/Spear_Pillar
+ 413. https://www.ssbwiki.com/Pokémon_(universe)
+ 414. https://www.ssbwiki.com/Port_Town_Aero_Dive
+ 415. https://www.ssbwiki.com/Port_Town_Aero_Dive
+ 416. https://www.ssbwiki.com/F-Zero_(universe)
+ 417. https://www.ssbwiki.com/New_Pork_City
+ 418. https://www.ssbwiki.com/New_Pork_City
+ 419. https://www.ssbwiki.com/EarthBound_(universe)
+ 420. https://www.ssbwiki.com/Summit
+ 421. https://www.ssbwiki.com/Summit
+ 422. https://www.ssbwiki.com/Ice_Climber_(universe)
+ 423. https://www.ssbwiki.com/Castle_Siege
+ 424. https://www.ssbwiki.com/Castle_Siege
+ 425. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 426. https://www.ssbwiki.com/Flat_Zone_2
+ 427. https://www.ssbwiki.com/Flat_Zone_2
+ 428. https://www.ssbwiki.com/Game_&_Watch_(universe)
+ 429. https://www.ssbwiki.com/Skyworld
+ 430. https://www.ssbwiki.com/Skyworld
+ 431. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 432. https://www.ssbwiki.com/WarioWare,_Inc.
+ 433. https://www.ssbwiki.com/WarioWare,_Inc.
+ 434. https://www.ssbwiki.com/Wario_(universe)
+ 435. https://www.ssbwiki.com/Distant_Planet
+ 436. https://www.ssbwiki.com/Distant_Planet
+ 437. https://www.ssbwiki.com/Pikmin_(universe)
+ 438. https://www.ssbwiki.com/Smashville
+ 439. https://www.ssbwiki.com/Smashville
+ 440. https://www.ssbwiki.com/Animal_Crossing_(universe)
+ 441. https://www.ssbwiki.com/PictoChat
+ 442. https://www.ssbwiki.com/PictoChat
+ 443. https://www.ssbwiki.com/Nintendo_DS_(universe)
+ 444. https://www.ssbwiki.com/Hanenbow
+ 445. https://www.ssbwiki.com/Hanenbow
+ 446. https://www.ssbwiki.com/Electroplankton_(universe)
+ 447. https://www.ssbwiki.com/Shadow_Moses_Island
+ 448. https://www.ssbwiki.com/Shadow_Moses_Island
+ 449. https://www.ssbwiki.com/Metal_Gear_(universe)
+ 450. https://www.ssbwiki.com/Green_Hill_Zone
+ 451. https://www.ssbwiki.com/Green_Hill_Zone
+ 452. https://www.ssbwiki.com/Sonic_(universe)
+ 453. https://www.ssbwiki.com/Rainbow_Cruise
+ 454. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 455. https://www.ssbwiki.com/Rainbow_Cruise
+ 456. https://www.ssbwiki.com/Mario_(universe)
+ 457. https://www.ssbwiki.com/Yoshi's_Island_(SSBM)
+ 458. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 459. https://www.ssbwiki.com/Yoshi's_Island_(SSBM)
+ 460. https://www.ssbwiki.com/Yoshi_(universe)
+ 461. https://www.ssbwiki.com/Jungle_Japes
+ 462. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 463. https://www.ssbwiki.com/Jungle_Japes
+ 464. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 465. https://www.ssbwiki.com/Temple
+ 466. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 467. https://www.ssbwiki.com/Temple
+ 468. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 469. https://www.ssbwiki.com/Brinstar
+ 470. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 471. https://www.ssbwiki.com/Brinstar
+ 472. https://www.ssbwiki.com/Metroid_(universe)
+ 473. https://www.ssbwiki.com/Green_Greens
+ 474. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 475. https://www.ssbwiki.com/Green_Greens
+ 476. https://www.ssbwiki.com/Kirby_(universe)
+ 477. https://www.ssbwiki.com/Corneria
+ 478. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 479. https://www.ssbwiki.com/Corneria
+ 480. https://www.ssbwiki.com/Star_Fox_(universe)
+ 481. https://www.ssbwiki.com/Pokémon_Stadium
+ 482. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 483. https://www.ssbwiki.com/Pokémon_Stadium
+ 484. https://www.ssbwiki.com/Pokémon_(universe)
+ 485. https://www.ssbwiki.com/Big_Blue
+ 486. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 487. https://www.ssbwiki.com/Big_Blue
+ 488. https://www.ssbwiki.com/F-Zero_(universe)
+ 489. https://www.ssbwiki.com/Onett
+ 490. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 491. https://www.ssbwiki.com/Onett
+ 492. https://www.ssbwiki.com/EarthBound_(universe)
+ 493. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&action=edit&section=10
+ 494. https://www.ssbwiki.com/Satoru_Iwata
+ 495. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-E3_2005-17
+ 496. https://www.ssbwiki.com/Masahiro_Sakurai
+ 497. https://www.ssbwiki.com/HAL_Laboratory
+ 498. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-director-18
+ 499. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-E3_2006-19
+ 500. https://www.ssbwiki.com/Nintendo_Wi-Fi_Connection
+ 501. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-E3_2006-19
+ 502. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-Joystiq-20
+ 503. https://en.wikipedia.org/wiki/Hideo_Kojima
+ 504. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-21
+ 505. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-22
+ 506. https://en.wikipedia.org/wiki/Reggie_Fils-Aime
+ 507. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-E3_conference_2007-23
+ 508. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-24
+ 509. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-25
+ 510. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-26
+ 511. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&action=edit&section=11
+ 512. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-thirdparty-27
+ 513. https://www.ssbwiki.com/Lucas
+ 514. https://www.ssbwiki.com/Marth
+ 515. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-thirdparty-27
+ 516. https://www.ssbwiki.com/Solid_Snake
+ 517. https://www.ssbwiki.com/Sonic_the_Hedgehog
+ 518. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-28
+ 519. https://www.ssbwiki.com/Lucas
+ 520. https://en.wikipedia.org/wiki/Mother_3
+ 521. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-29
+ 522. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-character_poll-30
+ 523. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-31
+ 524. https://www.ssbwiki.com/Sonic_the_Hedgehog
+ 525. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-32
+ 526. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&action=edit&section=12
+ 527. https://www.ssbwiki.com/Super_Smash_Bros._Brawl_Trailers
+ 528. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&action=edit&section=13
+ 529. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-GameScore-33
+ 530. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-Edge-34
+ 531. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-euroReview-35
+ 532. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-Famscore-36
+ 533. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-GameTrailersReview-37
+ 534. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-IGNReview-38
+ 535. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-ngamer-39
+ 536. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-NPBrawl-40
+ 537. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-ONMReview-41
+ 538. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-metacritic-42
+ 539. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-gr-43
+ 540. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-ttr-44
+ 541. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_note-Gamespotfighting-45
+ 542. https://www.ssbwiki.com/Wii
+ 543. https://www.ssbwiki.com/Tournament_play
+ 544. https://www.ssbwiki.com/Metagame
+ 545. https://www.ssbwiki.com/Hitstun
+ 546. https://www.ssbwiki.com/Combo
+ 547. https://www.ssbwiki.com/Falling_speed
+ 548. https://www.ssbwiki.com/L-canceling
+ 549. https://www.ssbwiki.com/Wavedashing
+ 550. https://www.ssbwiki.com/Tripping
+ 551. https://www.ssbwiki.com/Character_matchup_(SSBB)
+ 552. https://www.ssbwiki.com/Meta_Knight_(SSBB)
+ 553. https://www.ssbwiki.com/Melee
+ 554. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&action=edit&section=14
+ 555. https://www.ssbwiki.com/Falling_speed
+ 556. https://www.ssbwiki.com/Gravity
+ 557. https://www.ssbwiki.com/L-cancel
+ 558. https://www.ssbwiki.com/Dash
+ 559. https://www.ssbwiki.com/Nerf
+ 560. https://www.ssbwiki.com/Buff
+ 561. https://www.ssbwiki.com/Air_dodge
+ 562. https://www.ssbwiki.com/Helpless
+ 563. https://www.ssbwiki.com/Wavedash
+ 564. https://www.ssbwiki.com/Combo
+ 565. https://www.ssbwiki.com/Momentum_canceling
+ 566. https://www.ssbwiki.com/Meteor_cancel
+ 567. https://www.ssbwiki.com/Ivysaur_(SSBB)
+ 568. https://www.ssbwiki.com/Meta_Knight_(SSBB)
+ 569. https://www.ssbwiki.com/Fox_(SSBB)
+ 570. https://www.ssbwiki.com/Dash-dancing
+ 571. https://www.ssbwiki.com/Tether_recovery
+ 572. https://www.ssbwiki.com/Wall-grapple
+ 573. https://www.ssbwiki.com/Edgehog
+ 574. https://www.ssbwiki.com/Shieldstun
+ 575. https://www.ssbwiki.com/Perfect_shield
+ 576. https://www.ssbwiki.com/Landing_lag_glitch
+ 577. https://www.ssbwiki.com/Special_move
+ 578. https://www.ssbwiki.com/Ledge
+ 579. https://www.ssbwiki.com/Cape
+ 580. https://www.ssbwiki.com/Quick_Attack
+ 581. https://www.ssbwiki.com/Spin_Attack
+ 582. https://www.ssbwiki.com/Ledge_canceling
+ 583. https://www.ssbwiki.com/Tumbling
+ 584. https://www.ssbwiki.com/Teching
+ 585. https://www.ssbwiki.com/Ness
+ 586. https://www.ssbwiki.com/Lucas
+ 587. https://www.ssbwiki.com/KO
+ 588. https://www.ssbwiki.com/Pit_(SSBB)
+ 589. https://www.ssbwiki.com/Ivysaur_(SSBB)
+ 590. https://www.ssbwiki.com/Donkey_Kong_(SSBB)
+ 591. https://www.ssbwiki.com/Mario_(SSBB)
+ 592. https://www.ssbwiki.com/Up_smash
+ 593. https://www.ssbwiki.com/Mario_(SSBB)
+ 594. https://www.ssbwiki.com/Luigi_(SSBB)
+ 595. https://www.ssbwiki.com/Peach_(SSBB)
+ 596. https://www.ssbwiki.com/Yoshi_(SSBB)
+ 597. https://www.ssbwiki.com/Kirby_(SSBB)
+ 598. https://www.ssbwiki.com/Jigglypuff_(SSBB)
+ 599. https://www.ssbwiki.com/Ice_Climbers_(SSBB)
+ 600. https://www.ssbwiki.com/Buffer
+ 601. https://www.ssbwiki.com/Spike
+ 602. https://www.ssbwiki.com/Meteor_smash
+ 603. https://www.ssbwiki.com/Footstool_jump
+ 604. https://www.ssbwiki.com/Floor_recovery
+ 605. https://www.ssbwiki.com/Invincibility
+ 606. https://www.ssbwiki.com/Lock
+ 607. https://www.ssbwiki.com/Crouch
+ 608. https://www.ssbwiki.com/Crouch_cancel
+ 609. https://www.ssbwiki.com/Smash_attack
+ 610. https://www.ssbwiki.com/Dash_grab
+ 611. https://www.ssbwiki.com/Pummel
+ 612. https://www.ssbwiki.com/Mario_(SSBB)
+ 613. https://www.ssbwiki.com/Kirby_(SSBB)
+ 614. https://www.ssbwiki.com/Crawl
+ 615. https://www.ssbwiki.com/Glide
+ 616. https://www.ssbwiki.com/Wall_cling
+ 617. https://www.ssbwiki.com/Swim
+ 618. https://www.ssbwiki.com/Dash_attack_canceled_up_smash
+ 619. https://www.ssbwiki.com/Final_Smash
+ 620. https://www.ssbwiki.com/Trip
+ 621. https://www.ssbwiki.com/Floor_attack
+ 622. https://www.ssbwiki.com/Grab_release
+ 623. https://www.ssbwiki.com/Moonwalking
+ 624. https://www.ssbwiki.com/CPU
+ 625. https://www.ssbwiki.com/Midair_jump
+ 626. https://www.ssbwiki.com/Short_hop
+ 627. https://www.ssbwiki.com/Smash_Taunt
+ 628. https://www.ssbwiki.com/Jump_cancel
+ 629. https://www.ssbwiki.com/Slide_smash
+ 630. https://www.ssbwiki.com/Pivot_grab
+ 631. https://www.ssbwiki.com/Glancing_blow
+ 632. https://www.ssbwiki.com/On-screen_appearances
+ 633. https://www.ssbwiki.com/Super_Smash_Bros.
+ 634. https://www.ssbwiki.com/Item
+ 635. https://www.ssbwiki.com/Dash_attack
+ 636. https://www.ssbwiki.com/Aerial_attack
+ 637. https://www.ssbwiki.com/Poison_Mushroom
+ 638. https://www.ssbwiki.com/Super_Mushroom
+ 639. https://www.ssbwiki.com/Controls
+ 640. https://www.ssbwiki.com/Name
+ 641. https://www.ssbwiki.com/List_of_bonuses
+ 642. https://www.ssbwiki.com/Classic_Mode_(SSBB)
+ 643. https://www.ssbwiki.com/All-Star
+ 644. https://www.ssbwiki.com/Custom_stage
+ 645. https://www.ssbwiki.com/Snapshot
+ 646. https://www.ssbwiki.com/Replay
+ 647. https://www.ssbwiki.com/Sound_Test
+ 648. https://www.ssbwiki.com/Adventure_Mode_(SSBM)
+ 649. https://www.ssbwiki.com/The_Subspace_Emissary
+ 650. https://www.ssbwiki.com/Event_match
+ 651. https://www.ssbwiki.com/Target_Test
+ 652. https://www.ssbwiki.com/Home-Run_Contest
+ 653. https://www.ssbwiki.com/Wi-Fi
+ 654. https://www.ssbwiki.com/Special_Brawl
+ 655. https://www.ssbwiki.com/Sticker
+ 656. https://www.ssbwiki.com/Coin_Launcher
+ 657. https://www.ssbwiki.com/C-stick
+ 658. https://www.ssbwiki.com/Camera
+ 659. https://www.ssbwiki.com/Smash_attack
+ 660. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&action=edit&section=15
+ 661. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&action=edit&section=16
+ 662. https://wikirby.com/wiki/Kirby_Air_Ride
+ 663. https://www.ssbwiki.com/Wii
+ 664. https://www.ssbwiki.com/Mario_(universe)
+ 665. https://www.ssbwiki.com/Dr._Mario
+ 666. https://www.ssbwiki.com/Wario_(SSBB)
+ 667. https://www.ssbwiki.com/Diddy_Kong_(SSBB)
+ 668. https://www.ssbwiki.com/Wario_(universe)
+ 669. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 670. https://www.ssbwiki.com/Virtual_Console
+ 671. https://www.ssbwiki.com/Sheik_(SSBB)
+ 672. https://www.ssbwiki.com/Wolf_(SSBB)
+ 673. https://www.ssbwiki.com/Captain_Falcon_(SSBB)
+ 674. https://www.ssbwiki.com/Ness_(SSBB)
+ 675. https://www.ssbwiki.com/Lucas_(SSBB)
+ 676. https://www.ssbwiki.com/Marth_(SSBB)
+ 677. https://www.ssbwiki.com/Ice_Climbers_(SSBB)
+ 678. https://www.ssbwiki.com/Snake_(SSBB)
+ 679. https://www.ssbwiki.com/Zero_Suit_Samus_(SSBB)
+ 680. https://www.ssbwiki.com/Kirby_(SSBB)
+ 681. https://www.ssbwiki.com/Meta_Knight_(SSBB)
+ 682. https://www.ssbwiki.com/King_Dedede_(SSBB)
+ 683. https://www.ssbwiki.com/Olimar_(SSBB)
+ 684. https://www.ssbwiki.com/Subspace_Emissary
+ 685. https://www.ssbwiki.com/Super_Smash_Bros.
+ 686. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 687. https://www.ssbwiki.com/Pokémon_(universe)
+ 688. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 689. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 690. https://www.ssbwiki.com/Nintendo_Switch
+ 691. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 692. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&action=edit&section=17
+ 693. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-IwataAsksSubspace_1-0
+ 694. http://us.wii.com/iwata_asks/ssbb/vol4_page2.jsp
+ 695. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-2
+ 696. http://games.nintendo.com.au/title.php?id=1143
+ 697. https://www.ssbwiki.com/Nintendo
+ 698. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-3
+ 699. http://ms.nintendo-europe.com/e32007/enGB/pr_releaselist.html
+ 700. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-4
+ 701. http://www.nintendo-europe.com/NOE/en/GB/news/article.do?elementId=Fyu4YOmOJP1c4ewdiPJkW2VHfwfh-ZgK
+ 702. https://www.ssbwiki.com/Nintendo
+ 703. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-Online_5-0
+ 704. http://www.smashbros.com/wii/en_us/gamemode/wi-fi/wi-fi01.html
+ 705. https://www.ssbwiki.com/Smash_Bros._DOJO!!
+ 706. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-four_control_6-0
+ 707. http://www.smashbros.com/wii/en_uk/gamemode/various/various01.html
+ 708. https://www.ssbwiki.com/Smash_Bros._DOJO!!
+ 709. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-oldDojo_7-0
+ 710. http://web.archive.org/web/20061116161044/www.smashbros.com/en/main.html
+ 711. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-8
+ 712. http://www.smashbros.com/wii/en_us/gamemode/various/various01.html
+ 713. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-Wi-Fi_Play_9-0
+ 714. http://www.smashbros.com/wii/en_us/gamemode/wi-fi/wi-fi01.html
+ 715. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-10
+ 716. https://www.ssbwiki.com/Sheik
+ 717. https://www.ssbwiki.com/Princess_Zelda
+ 718. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-Musicians_11-0
+ 719. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-Musicians_11-1
+ 720. http://www.smashbros.com/wii/en_us/music/music01.html
+ 721. https://www.ssbwiki.com/Smash_Bros._DOJO!!
+ 722. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-GameRevolution_12-0
+ 723. http://www.gamerevolution.com/review/wii/super_smash_bros_brawl
+ 724. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-Trophies_13-0
+ 725. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-Trophies_13-1
+ 726. http://www.smashbros.com/wii/en_us/gamemode/various/various05.html
+ 727. https://www.ssbwiki.com/Smash_Bros._DOJO!!
+ 728. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-Stickers_14-0
+ 729. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-Stickers_14-1
+ 730. http://www.smashbros.com/wii/en_us/gamemode/various/various03.html
+ 731. https://www.ssbwiki.com/Smash_Bros._DOJO!!
+ 732. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-My_Music_15-0
+ 733. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-My_Music_15-1
+ 734. http://www.smashbros.com/wii/en_us/music/music08.html
+ 735. https://www.ssbwiki.com/Smash_Bros._DOJO!!
+ 736. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-classic_16-0
+ 737. http://www.smashbros.com/wii/en_us/gamemode/various/various11.html
+ 738. https://www.ssbwiki.com/Smash_Bros._DOJO!!
+ 739. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-E3_2005_17-0
+ 740. http://wii.ign.com/articles/670/670552p1.html
+ 741. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-director_18-0
+ 742. http://cube.ign.com/articles/667/667525p1.html
+ 743. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-E3_2006_19-0
+ 744. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-E3_2006_19-1
+ 745. http://wii.ign.com/articles/707/707504p1.html
+ 746. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-Joystiq_20-0
+ 747. http://www.joystiq.com/2006/06/05/sakurai-reveals-new-smash-bros-brawl-details/
+ 748. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-21
+ 749. http://www.1up.com/do/newsStory?cId=3159049
+ 750. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-22
+ 751. http://wii.advancedmn.com/article.php?artid=10866
+ 752. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-E3_conference_2007_23-0
+ 753. http://wii.ign.com/articles/803/803335p1.html
+ 754. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-24
+ 755. http://www.irwebcasting.com/071010/53/f078bbc3f8/main/index_hi.htm
+ 756. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-25
+ 757. http://wii.ign.com/articles/826/826579p1.html
+ 758. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-26
+ 759. http://smashboards.com/news/articles/457/brawl-delayed-again
+ 760. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-thirdparty_27-0
+ 761. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-thirdparty_27-1
+ 762. http://www.1up.com/do/newsStory?cId=3151198
+ 763. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-28
+ 764. http://kotaku.com/gaming/nintendo/e306-super-smash-bros-brawl-qa-173071.php
+ 765. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-29
+ 766. http://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/0717/index.html
+ 767. https://www.ssbwiki.com/Nintendo
+ 768. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-character_poll_30-0
+ 769. http://wii.ign.com/articles/707/707671p1.html
+ 770. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-31
+ 771. http://wii.qj.net/Sakurai-and-Miyamoto-Comment-on-Sonic-s-Popularity/pg/49/aid/62240
+ 772. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-32
+ 773. http://www.smashbros.com/wii/en_us/characters/sonic.html
+ 774. https://www.ssbwiki.com/Smash_Bros._DOJO!!
+ 775. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-GameScore_33-0
+ 776. http://www.1up.com/do/reviewPage?cId=3166844&p=44&sec=REVIEWS
+ 777. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-Edge_34-0
+ 778. http://www.next-gen.biz/index.php?option=com_content&task=view&id=9575&Itemid=51
+ 779. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-euroReview_35-0
+ 780. http://www.eurogamer.net/article.php?article_id=128676&page=1
+ 781. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-Famscore_36-0
+ 782. http://www.1up.com/do/newsStory?cId=3165462
+ 783. http://www.1up.com/
+ 784. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-GameTrailersReview_37-0
+ 785. http://www.gametrailers.com/player/31663.html
+ 786. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-IGNReview_38-0
+ 787. http://wii.ign.com/articles/856/856580p1.html
+ 788. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-ngamer_39-0
+ 789. http://www.computerandvideogames.com/article.php?id=183358
+ 790. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-NPBrawl_40-0
+ 791. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-ONMReview_41-0
+ 792. http://www.officialnintendomagazine.co.uk/article.php?id=4885
+ 793. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-metacritic_42-0
+ 794. http://www.metacritic.com/games/platforms/wii/supersmashbrosbrawl
+ 795. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-gr_43-0
+ 796. http://www.gamerankings.com/wii/928518-super-smash-bros-brawl/index.html
+ 797. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-ttr_44-0
+ 798. http://games.toptenreviews.com/reviews/g27302.htm
+ 799. https://www.ssbwiki.com/Super_Smash_Bros._Brawl#cite_ref-Gamespotfighting_45-0
+ 800. http://www.gamespot.com/best-of-2008/genre-awards/index.html?page=4
+ 801. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&action=edit&section=18
+ 802. http://www.smashbros.com/wii/
+ 803. http://www.nintendo.com/consumer/gameslist/manuals/Wii_Super_Smash_Brawl.pdf
+ 804. https://www.ssbwiki.com/Template:SSBSeries
+ 805. https://www.ssbwiki.com/Template_talk:SSBSeries
+ 806. https://www.ssbwiki.com/index.php?title=Template:SSBSeries&action=edit
+ 807. https://www.ssbwiki.com/Super_Smash_Bros._(series)
+ 808. https://www.ssbwiki.com/Super_Smash_Bros.
+ 809. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 810. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 811. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 812. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 813. https://www.ssbwiki.com/Smash_Controller
+ 814. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 815. https://www.ssbwiki.com/Template:SSBBMenus
+ 816. https://www.ssbwiki.com/Template_talk:SSBBMenus
+ 817. https://www.ssbwiki.com/index.php?title=Template:SSBBMenus&action=edit
+ 818. https://www.ssbwiki.com/Versus_Mode
+ 819. https://www.ssbwiki.com/Time
+ 820. https://www.ssbwiki.com/Stock
+ 821. https://www.ssbwiki.com/Coin_Battle
+ 822. https://www.ssbwiki.com/Team_Battle
+ 823. https://www.ssbwiki.com/Rules
+ 824. https://www.ssbwiki.com/Special_Smash
+ 825. https://www.ssbwiki.com/Rotation
+ 826. https://www.ssbwiki.com/Tourney_(SSBB)
+ 827. https://www.ssbwiki.com/Name
+ 828. https://www.ssbwiki.com/Classic_Mode_(SSBB)
+ 829. https://www.ssbwiki.com/All-Star_Mode
+ 830. https://www.ssbwiki.com/Adventure_Mode:_The_Subspace_Emissary
+ 831. https://www.ssbwiki.com/Event_match
+ 832. https://www.ssbwiki.com/Stadium
+ 833. https://www.ssbwiki.com/Target_Smash!!
+ 834. https://www.ssbwiki.com/Home-Run_Contest
+ 835. https://www.ssbwiki.com/Multi-Man_mode
+ 836. https://www.ssbwiki.com/Boss_Battles_Mode
+ 837. https://www.ssbwiki.com/Training_mode
+ 838. https://www.ssbwiki.com/Wi-Fi_Connection
+ 839. https://www.ssbwiki.com/Spectator_Mode
+ 840. https://www.ssbwiki.com/With_Anyone
+ 841. https://www.ssbwiki.com/With_Friends
+ 842. https://www.ssbwiki.com/Vault
+ 843. https://www.ssbwiki.com/Trophy
+ 844. https://www.ssbwiki.com/Sticker
+ 845. https://www.ssbwiki.com/Trophy_Gallery
+ 846. https://www.ssbwiki.com/Trophy_Hoard
+ 847. https://www.ssbwiki.com/Coin_Launcher
+ 848. https://www.ssbwiki.com/Sticker_Album
+ 849. https://www.ssbwiki.com/Sticker_Center
+ 850. https://www.ssbwiki.com/Stage_Builder
+ 851. https://www.ssbwiki.com/Album
+ 852. https://www.ssbwiki.com/Challenges
+ 853. https://www.ssbwiki.com/Replay
+ 854. https://www.ssbwiki.com/Masterpieces
+ 855. https://www.ssbwiki.com/Chronicle
+ 856. https://www.ssbwiki.com/Options
+ 857. https://www.ssbwiki.com/Screen
+ 858. https://www.ssbwiki.com/Deflicker
+ 859. https://www.ssbwiki.com/Rumble
+ 860. https://www.ssbwiki.com/Controls
+ 861. https://www.ssbwiki.com/Sound
+ 862. https://www.ssbwiki.com/My_Music
+ 863. https://www.ssbwiki.com/Erase_Data
+ 864. https://www.ssbwiki.com/Data
+ 865. https://www.ssbwiki.com/Movies
+ 866. https://www.ssbwiki.com/Records
+ 867. https://www.ssbwiki.com/Records#Group_Records
+ 868. https://www.ssbwiki.com/Records#Brawl_Records
+ 869. https://www.ssbwiki.com/Notice
+ 870. https://www.ssbwiki.com/Sound_Test
+ 871. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&oldid=1175597
+ 872. https://www.ssbwiki.com/Special:Categories
+ 873. https://www.ssbwiki.com/Category:Featured_Articles
+ 874. https://www.ssbwiki.com/Category:Games
+ 875. https://www.ssbwiki.com/Category:Super_Smash_Bros._Brawl
+ 876. https://www.ssbwiki.com/Category:Super_Smash_Bros._universe
+ 877. https://www.ssbwiki.com/Category:Wii
+ 878. https://www.ssbwiki.com/Category:Super_Smash_Bros._series
+ 879. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 880. https://www.ssbwiki.com/Talk:Super_Smash_Bros._Brawl
+ 881. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&action=edit
+ 882. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&action=history
+ 883. https://www.ssbwiki.com/Special:MyTalk
+ 884. https://www.ssbwiki.com/Special:MyContributions
+ 885. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=Super+Smash+Bros.+Brawl
+ 886. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=Super+Smash+Bros.+Brawl
+ 887. https://www.ssbwiki.com/Main_Page
+ 888. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 889. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 890. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 891. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 892. https://www.ssbwiki.com/Super_Smash_Bros.
+ 893. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+ 894. https://www.ssbwiki.com/Stage
+ 895. https://www.ssbwiki.com/Mode
+ 896. https://www.ssbwiki.com/Item
+ 897. https://www.ssbwiki.com/Special:Random
+ 898. https://www.ssbwiki.com/Forum:Index
+ 899. https://www.ssbwiki.com/SmashWiki:Community_portal
+ 900. https://www.ssbwiki.com/Special:RecentChanges
+ 901. https://www.ssbwiki.com/Help:Contents
+ 902. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
+ 903. https://www.ssbwiki.com/SmashWiki:Discord_server
+ 904. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
+ 905. https://www.ssbwiki.com/Special:WhatLinksHere/Super_Smash_Bros._Brawl
+ 906. https://www.ssbwiki.com/Special:RecentChangesLinked/Super_Smash_Bros._Brawl
+ 907. https://www.ssbwiki.com/Special:SpecialPages
+ 908. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&printable=yes
+ 909. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&oldid=1175597
+ 910. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&action=info
+ 911. https://es.ssbwiki.com/wiki/Super_Smash_Bros._Brawl
+ 912. https://creativecommons.org/licenses/by-sa/3.0/
+ 913. https://www.mediawiki.org/
+ 914. https://creativecommons.org/licenses/by-sa/3.0/
+ 915. https://www.porplemontage.com/privacy
+ 916. https://www.ssbwiki.com/SmashWiki:About
+ 917. https://www.ssbwiki.com/SmashWiki:General_disclaimer
+ 918. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Brawl&mobileaction=toggle_view_mobile
+
+   Hidden links:
+ 920. https://www.ssbwiki.com/File:SSBBcast.png
+ 921. https://www.ssbwiki.com/File:SSBBcast.png
+ 922. https://www.ssbwiki.com/File:Character_Selection_-_Super_Smash_Bros._Brawl.png
+ 923. https://www.ssbwiki.com/File:Character_Selection_-_Super_Smash_Bros._Brawl.png
+ 924. https://www.ssbwiki.com/File:SSBB-cover-japan.jpg
+ 925. https://www.ssbwiki.com/File:SSBB-cover-PAL.jpg
+ 926. https://www.ssbwiki.com/File:SSBB_Limited_Edition.jpg
+ 927. https://www.ssbwiki.com/File:NP222Cover.jpg
+ 928. https://www.ssbwiki.com/File:SSBB_Game_Logo.jpg
+ 929. https://www.ssbwiki.com/File:BrawlTitle.png
+ 930. https://www.ssbwiki.com/File:DSBXTitle.jpg
+ 931. https://www.ssbwiki.com/Main_Page

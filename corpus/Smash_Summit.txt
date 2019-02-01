@@ -1,0 +1,918 @@
+   #[1]Edit this page [2]SmashWiki (en) [3]SmashWiki Atom feed
+
+Tournament:Smash Summit
+
+   From SmashWiki, the Super Smash Bros. wiki
+   (Redirected from [4]Smash Summit)
+   Jump to:[5]navigation, [6]search
+   [7]SSBM Icon.png [8]Competitive.png
+   Smash Summit
+   [9]Smash Summit.png
+   Info
+   Dates November 5th-8th, 2015
+   Venue Summit Gaming House
+   Address/City unknown
+   Los Angeles, California [10]USA
+   Attendance 16
+   Entry fees N/A
+   Pot size(s) Singles: $32,929.02
+   Doubles: $3,000
+   Side events: $4,525
+   Results
+   [11]Super Smash Bros. Melee winners [12]Sweden  [13]Armada 1v1
+   [14]USA  [15]PewPewU & [16]USA  [17]SFAT 2v2
+   Staff
+   [18]Director(s) Beyond the Summit
+
+          This article is about the first installment of a tournament series. For the series, see [19]Tournament:Smash Summit (series).
+
+   Smash Summit was a [20]national [21]Super Smash Bros. Melee invitational [22]tournament held in Los Angeles, California from November 5th-8th, 2015 by Beyond the Summit, an eSports company known for their [23]Dota 2 coverage. Singles, doubles and side events for Melee were hosted. It was an invitational tournament, where 10 of the world's top players were invited to participate, along with 6 players who were selected from a player donation poll organized by [24]Smash.gg. The tournament was held at the Summit gaming house, a private residence, and so was not open to the general public.
+
+Contents
+
+     * [25]1 Players
+     * [26]2 Players voted in
+     * [27]3 Players eliminated
+     * [28]4 Declined Players
+     * [29]5 Results
+          + [30]5.1 Singles
+          + [31]5.2 Doubles
+          + [32]5.3 Side events
+               o [33]5.3.1 Iron Man challenge
+                    # [34]5.3.1.1 Mew2King vs. S2J Iron Man
+                    # [35]5.3.1.2 Mango vs. Armada Iron Man
+                    # [36]5.3.1.3 Mew2King vs. Armada Iron Man Grand Finals
+               o [37]5.3.2 Challenge round
+               o [38]5.3.3 Draft crew battle
+                    # [39]5.3.3.1 Alex19 vs. Swedish Delight Crew Battle
+                    # [40]5.3.3.2 Zhu vs. Kage Crew Battle
+                    # [41]5.3.3.3 Alex19 vs. Kage Crew Battle Grand Finals
+     * [42]6 Trivia
+     * [43]7 External links
+
+Players[[44]edit]
+
+   The following players were invited to the Smash Summit by the BtS team:
+     * [45]Sweden  [46]Armada
+     * [47]USA  [48]Mango
+     * [49]USA  [50]Mew2King
+     * [51]USA  [52]PPMD
+     * [53]USA  [54]Plup
+     * [55]USA  [56]Lucky
+     * [57]USA  [58]Axe
+     * [59]USA  [60]Shroomed
+     * [61]USA  [62]PewPewU
+     * [63]USA  [64]Westballz
+
+Players voted in[[65]edit]
+
+   The following players were invited to the Smash Summit through player voting donations.
+     * [66]USA  [67]S2J
+     * [68]USA  [69]SFAT
+     * [70]USA  [71]Alex19
+     * [72]USA  [73]Zhu
+     * [74]Canada  [75]Kage
+     * [76]USA  [77]Swedish Delight
+
+Players eliminated[[78]edit]
+
+   From a selection of roughly 40 players, 20 of them were voted in by fans to engage in an elimination round where, by a certain date, if a player did not receive enough votes, they were eliminated and thus did not receive an invitation from Smash Summit. In later rounds, the players who received the most votes were invited in addition to the eliminations.
+
+   These players were eliminated in the voting phase:
+     * [79]Sweden  [80]Android
+     * [81]Spain  [82]Overtriforce
+     * [83]New Zealand  [84]Spud
+     * [85]USA  [86]ChuDat
+     * [87]USA  [88]MacD
+     * [89]USA  [90]Chillin
+     * [91]USA  [92]HugS
+     * [93]USA  [94]Wizzrobe
+     * [95]Germany  [96]Ice
+     * [97]Canada  [98]n0ne
+     * [99]USA  [100]Shroomed
+     * [101]France  [102]Tekk
+     * [103]USA  [104]Druggedfox
+     * [105]USA  [106]Ken
+
+   These players were eliminated in the nomination phase:
+     * [107]USA  [108]Vish
+     * [109]USA  [110]Slox
+     * [111]USA  [112]Gahtzu
+     * [113]USA  [114]Nintendude
+     * [115]USA  [116]Duck
+     * [117]USA  [118]The Moon
+     * [119]USA  [120]Bladewise
+     * [121]USA  [122]Mike Haze
+     * [123]USA  [124]Prince Abu
+     * [125]USA  [126]Redd
+     * [127]USA  [128]DJ Nintendo
+     * [129]USA  [130]Eikelmann
+     * [131]USA  [132]Cactuar
+     * [133]USA  [134]w33dl0rd
+     * [135]USA  [136]Reno
+     * [137]USA  [138]Mafia
+     * [139]USA  [140]dizzkidboogie
+     * [141]USA  [142]SilentSwag
+     * [143]USA  [144]MattDotZeb
+     * [145]USA  [146]Tafokints
+     * [147]USA  [148]Porkchops
+     * [149]USA  [150]DoH
+
+Declined Players[[151]edit]
+
+   Some players, though either invited to the Summit directly or nominated for the Player Voting rounds, declined their offers due to unavailability. Players like [152]Professor Pro, [153]aMSa, and [154]Abate declined nominations for the voting round. Hungrybox was the only player who declined direct invitation due to work conflict pre-voting. After the voting, it was revealed that [155]Leffen [156]could not attend due to the same Visa issues that prevented him from attending [157]The Big House 5. As a result, the Summit Staff replaced him with who they deemed the next best player in the world, [158]Shroomed, who was eliminated in Round 5 of the voting round.
+
+Results[[159]edit]
+
+Singles[[160]edit]
+
+   (16 entrants)
+   [161]Bracket
+   Place              Name                                     Character(s)                        Earnings
+   1st   [162]Sweden  [163]Armada       [164]PeachHeadSSBM.png [165]FoxHeadSSBM.png               $11,525.15
+   2nd   [166]USA  [167]Mango           [168]FalcoHeadSSBM.png                                    $5,927.22
+   3rd   [169]USA  [170]Mew2King        [171]SheikHeadSSBM.png [172]MarthHeadSSBM.png             $4,116.13
+   4th   [173]USA  [174]Plup            [175]SheikHeadSSBM.png                                    $2,469.68
+   5th   [176]USA  [177]Shroomed        [178]SheikHeadSSBM.png                                    $1,481.81
+   5th   [179]USA  [180]PPMD            [181]MarthHeadSSBM.png [182]FalcoHeadSSBM.png             $1,481.81
+   7th   [183]USA  [184]Axe             [185]PikachuHeadSSBM.png [186]FalcoHeadSSBM.png           $987.87
+   7th   [187]USA  [188]Lucky           [189]FoxHeadSSBM.png                                      $987.87
+   9th   [190]USA  [191]PewPewU         [192]MarthHeadSSBM.png                                    $658.58
+   9th   [193]USA  [194]S2J             [195]CaptainFalconHeadSSBM.png                            $658.58
+   9th   [196]USA  [197]SFAT            [198]FoxHeadSSBM.png                                      $658.58
+   9th   [199]USA  [200]Westballz       [201]FalcoHeadSSBM.png                                    $658.58
+   13th  [202]USA  [203]Alex19          [204]FoxHeadSSBM.png                                      $329.29
+   13th  [205]USA  [206]Swedish Delight [207]SheikHeadSSBM.png                                    $329.29
+   13th  [208]Canada  [209]Kage         [210]GanondorfHeadSSBM.png [211]CaptainFalconHeadSSBM.png $329.29
+   13th  [212]USA  [213]Zhu             [214]FalcoHeadSSBM.png                                    $329.29
+
+Doubles[[215]edit]
+
+   (8 teams)
+   [216]Bracket
+   Place           Name                           Character(s)                             Name                               Character(s)                         Earnings
+   1st   [217]USA  [218]PewPewU   [219]MarthHeadSSBM.png                      [220]USA  [221]SFAT            [222]FoxHeadSSBM.png                          $1,500.00 ($750.00 each)
+   2nd   [223]Sweden  [224]Armada [225]FoxHeadSSBM.png [226]PeachHeadSSBM.png [227]USA  [228]Mew2King        [229]SheikHeadSSBM.png [230]MarthHeadSSBM.png $1,050.00 ($525.00 each)
+   3rd   [231]USA  [232]Mango     [233]FalcoHeadSSBM.png                      [234]USA  [235]Lucky           [236]FoxHeadSSBM.png                          $450.00 ($225.00 each)
+   4th   [237]USA  [238]Shroomed  [239]SheikHeadSSBM.png                      [240]USA  [241]S2J             [242]CaptainFalconHeadSSBM.png
+   5th   [243]USA  [244]Axe       [245]PikachuHeadSSBM.png                    [246]Canada  [247]Kage         [248]GanondorfHeadSSBM.png
+   5th   [249]USA  [250]Plup      [251]SheikHeadSSBM.png                      [252]USA  [253]PPMD            [254]FalcoHeadSSBM.png
+   7th   [255]USA  [256]Alex19    [257]FoxHeadSSBM.png                        [258]USA  [259]Swedish Delight [260]SheikHeadSSBM.png
+   7th   [261]USA  [262]Westballz [263]FalcoHeadSSBM.png                      [264]USA  [265]Zhu             [266]FalcoHeadSSBM.png
+
+Side events[[267]edit]
+
+Iron Man challenge[[268]edit]
+
+   (4 entrants, single elimination bracket)
+   Place           Name                                                                 Character(s)                                                       Earnings
+   1st   [269]Sweden  [270]Armada [271]PeachHeadSSBM.png [272]FoxHeadSSBM.png [273]FalcoHeadSSBM.png [274]SheikHeadSSBM.png [275]MarthHeadSSBM.png
+   2nd   [276]USA  [277]Mew2King  [278]MarthHeadSSBM.png [279]SheikHeadSSBM.png [280]PichuHeadSSBM.png
+   3rd   [281]USA  [282]S2J       [283]CaptainFalconHeadSSBM.png [284]SheikHeadSSBM.png [285]MarthHeadSSBM.png [286]FalcoHeadSSBM.png [287]FoxHeadSSBM.png
+   3rd   [288]USA  [289]Mango     [290]FoxHeadSSBM.png [291]FalcoHeadSSBM.png [292]MarioHeadSSBM.png [293]CaptainFalconHeadSSBM.png [294]MarthHeadSSBM.png
+     * Note: PPMD was originally scheduled to participate in the Iron Man Challenge, but he declined on Day 2. He was then replaced by S2J.
+
+Mew2King vs. S2J Iron Man[[295]edit]
+
+          Character       Stocks Taken            Character           Stocks Taken
+   [296]SheikHeadSSBM.png 5            [297]FoxHeadSSBM.png           3
+   [298]MarthHeadSSBM.png 8            [299]FalcoHeadSSBM.png         1
+   [300]PichuHeadSSBM.png 7            [301]CaptainFalconHeadSSBM.png 3
+                                       [302]MarthHeadSSBM.png         2
+                                       [303]SheikHeadSSBM.png         1
+            Total              20                   Total                  10
+
+Mango vs. Armada Iron Man[[304]edit]
+
+              Character           Stocks Taken        Character       Stocks Taken
+   [305]MarthHeadSSBM.png         2            [306]MarthHeadSSBM.png 6
+   [307]CaptainFalconHeadSSBM.png 3            [308]SheikHeadSSBM.png 5
+   [309]FalcoHeadSSBM.png         5            [310]FalcoHeadSSBM.png 2
+   [311]MarioHeadSSBM.png         4            [312]PeachHeadSSBM.png 5
+   [313]FoxHeadSSBM.png           4            [314]FoxHeadSSBM.png   2
+                Total                  18               Total              20
+
+Mew2King vs. Armada Iron Man Grand Finals[[315]edit]
+
+          Character       Stocks Taken       Character      Stocks Taken
+   [316]SheikHeadSSBM.png 2            [317]FoxHeadSSBM.png 8
+   [318]MarthHeadSSBM.png 0            —                    —
+   —                      —            —                    —
+   —                      —            —                    —
+   —                      —            —                    —
+            Total              2               Total             8
+     * Mew2King forfeited after his Marth got 4-stocked by Armada's Fox on Final Destination.
+
+Challenge round[[319]edit]
+
+   (16 entrants)
+
+   [320]Day 1 Full Results
+
+   [321]Day 2 Full Results
+
+   In the two day Challenge Round (November 5th-6th), each player was given $250. Per each day, players were given one challenge each where they could challenge any other player to a Duel match, a Low-Tier match, a Mine match, or a Bro-Up match. After the two days, the total amount of money remaining for each player would consist of each player's winnings.
+     * A Duel match would simply consist of a classic Best of Three singles match under the [322]SBR ruleset. Both players put down $50 and the winner takes all.
+
+     * A Low-tier challenge would consist of another Best of Three match under the [323]SBR ruleset, except the only legal characters were [324]Donkey Kong, [325]Yoshi, [326]Zelda, [327]Roy, [328]Mewtwo, [329]Mr. Game & Watch, [330]Ness, [331]Bowser, [332]Pichu, and [333]Kirby. The challenger puts down $75 while the challengee puts down $50 and the winner takes all.
+
+     * A Bro-Up match would consist of a classic Best of Three doubles match under the [334]SBR ruleset. After all redirects are complete, both the challenger and the challengee can choose any partner of his choice (partners can decline to participate). The challenger puts down $75 while the challengee puts down $50 (partners are not forced to put anything down). The winning challenger/challengee receives $100 while his partner receives $25.
+
+     * A Mine match can only be initiated by players who have $0. The challenger can only choose the four players who have the most money. While the challenge is a Best of Three singles match, the challengee can choose any stage for their games, including [335]banned stages. If the challenger wins, he receives $50. If the challengee wins, he does not receive any money.
+
+   If a player was challenged, he can redirect the challenge to another player up to two times per day, where the redirected player is not allowed to redirect and is forced to play. A player can only be challenged up to three times per day (redirects count as challenges).
+   Place              Name                                 Character(s)                    Earnings
+   1st   [336]USA  [337]Mango           [338]FalcoHeadSSBM.png                             $475
+   2nd   [339]USA  [340]S2J             [341]CaptainFalconHeadSSBM.png                     $450
+   3rd   [342]USA  [343]Mew2King        [344]SheikHeadSSBM.png                             $350
+   4th   [345]USA  [346]SFAT            [347]FoxHeadSSBM.png                               $325
+   5th   [348]USA  [349]Zhu             [350]FalcoHeadSSBM.png                             $300
+   6th   [351]Sweden  [352]Armada       [353]PeachHeadSSBM.png                             $275
+   7th   [354]USA  [355]Axe             [356]PikachuHeadSSBM.png [357]FalcoHeadSSBM.png    $250
+   8th   [358]USA  [359]Alex19          [360]FoxHeadSSBM.png                               $200
+   8th   [361]USA  [362]PewPewU         [363]MarthHeadSSBM.png                             $200
+   10th  [364]USA  [365]Westballz       [366]FalcoHeadSSBM.png [367]DonkeyKongHeadSSBM.png $100
+   10th  [368]USA  [369]Plup            [370]SheikHeadSSBM.png [371]SamusHeadSSBM.png      $100
+   12th  [372]USA  [373]Swedish Delight [374]SheikHeadSSBM.png                             $75
+   12th  [375]Canada  [376]Kage         [377]GanondorfHeadSSBM.png                         $75
+   12th  [378]USA  [379]Lucky           [380]FoxHeadSSBM.png                               $75
+   15th  [381]USA  [382]PPMD            [383]MarthHeadSSBM.png [384]FalcoHeadSSBM.png      $50
+   16th  [385]USA  [386]Shroomed        [387]SheikHeadSSBM.png                             $25
+
+Draft crew battle[[388]edit]
+
+   (4 crews, single elimination bracket)
+   Place         Crew                      Name                       Character                   Name                  Character               Name                 Character                  Name                      Character                   Earnings
+   1st   Team Kage            [389]Canada  [390]Kage         [391]GanondorfHeadSSBM.png [392]Sweden  [393]Armada [394]PeachHeadSSBM.png [395]USA  [396]SFAT  [397]FoxHeadSSBM.png     [398]USA  [399]Shroomed  [400]SheikHeadSSBM.png         $1,200.00 ($300.00 each)
+   2nd   Team Alex19          [401]USA  [402]Alex19          [403]FoxHeadSSBM.png       [404]USA  [405]Mango     [406]FalcoHeadSSBM.png [407]USA  [408]Lucky [409]FoxHeadSSBM.png     [410]USA  [411]S2J       [412]CaptainFalconHeadSSBM.png
+   3rd   Team Swedish Delight [413]USA  [414]Swedish Delight [415]SheikHeadSSBM.png     [416]USA  [417]Plup      [418]SheikHeadSSBM.png [419]USA  [420]PPMD  [421]FalcoHeadSSBM.png   [422]USA  [423]Westballz [424]FalcoHeadSSBM.png
+   3rd   Team Zhu             [425]USA  [426]Zhu             [427]FalcoHeadSSBM.png     [428]USA  [429]Mew2King  [430]SheikHeadSSBM.png [431]USA  [432]Axe   [433]PikachuHeadSSBM.png [434]USA  [435]PewPewU   [436]MarthHeadSSBM.png
+
+Alex19 vs. Swedish Delight Crew Battle[[437]edit]
+
+   Alex19's Players            Character           Stocks Taken Swedish Delight's Players        Character       Stocks Taken
+   [438]S2J         [439]CaptainFalconHeadSSBM.png 5            [440]Westballz            [441]FalcoHeadSSBM.png 3
+   [442]Alex19      [443]FoxHeadSSBM.png           1            [444]Swedish Delight      [445]SheikHeadSSBM.png 6
+   [446]Lucky       [447]FoxHeadSSBM.png           5            [448]PPMD                 [449]FalcoHeadSSBM.png 3
+   [450]Mango       [451]FalcoHeadSSBM.png         5            [452]Plup                 [453]SheikHeadSSBM.png 3
+        Total                                           16                Total                                       15
+
+Zhu vs. Kage Crew Battle[[454]edit]
+
+   Zhu's Players         Character        Stocks Taken Kage's Players          Character         Stocks Taken
+   [455]Zhu      [456]FalcoHeadSSBM.png   4            [457]Shroomed  [458]SheikHeadSSBM.png     3
+   [459]Axe      [460]PikachuHeadSSBM.png 3            [461]SFAT      [462]FoxHeadSSBM.png       5
+   [463]PewPewU  [464]MarthHeadSSBM.png   4            [465]Kage      [466]GanondorfHeadSSBM.png 4
+   [467]Mew2King [468]SheikHeadSSBM.png   4            [469]Armada    [470]PeachHeadSSBM.png     4
+       Total                                   15          Total                                      16
+
+Alex19 vs. Kage Crew Battle Grand Finals[[471]edit]
+
+   Alex19's Players            Character           Stocks Taken Kage's Players          Character         Stocks Taken
+   [472]Alex19      [473]FoxHeadSSBM.png           1            [474]Kage      [475]GanondorfHeadSSBM.png 6
+   [476]S2J         [477]CaptainFalconHeadSSBM.png 5            [478]Shroomed  [479]SheikHeadSSBM.png     2
+   [480]Lucky       [481]FoxHeadSSBM.png           4            [482]SFAT      [483]FoxHeadSSBM.png       4
+   [484]Mango       [485]FalcoHeadSSBM.png         5            [486]Armada    [487]PeachHeadSSBM.png     4
+        Total                                           15          Total                                      16
+
+Trivia[[488]edit]
+
+     * Smash Summit's singles prize pool of $32,929.02 was the largest combined prize pool in Melee's history at the time, and the 1st place payout of $11,525.15 (won by [489]Armada) was the largest single paycheck in Melee's history until it was surpassed by [490]Battle of the Five Gods's 1st place payout of $13,000 (won by [491]Hungrybox).
+
+External links[[492]edit]
+
+     * [493]Trailer
+     * [494]Smash.gg page
+     * [495]Beyond the Summit article
+
+   [496]v • [497]d • [498]e
+   [499]Smash Summit
+   Melee Summits Smash Summit · [500]Smash Summit 2 · [501]Smash Summit 3 · [502]Smash Summit Spring 2017 · [503]Smash Summit 5 · [504]Smash Summit 6 · [505]Smash Summit 7
+   Other Summits [506]Smash Ultimate Summit
+   Retrieved from "[507]https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&oldid=1176811"
+   [508]Categories:
+     * [509]National tournaments
+     * [510]Southern California tournaments
+     * [511]2015 tournaments
+     * [512]Invitationals
+
+Navigation menu
+
+Views
+
+     * [513]Tournament
+     * [514]Discussion
+     * [515]Edit this page
+     * [516]History
+
+Personal tools
+
+     * Not logged in
+     * [517]Talk
+     * [518]Contributions
+     * [519]Create account
+     * [520]Log in
+
+Navigation
+
+     * [521]Main page
+     * [522]Smash Bros. Ultimate
+     * [523]Smash Bros. 4
+     * [524]Smash Bros. Brawl
+     * [525]Smash Bros. Melee
+     * [526]Smash Bros. (64)
+     * [527]Characters
+     * [528]Stages
+     * [529]Modes
+     * [530]Items
+     * [531]Random page
+
+Search
+
+   ____________________ Go  Search
+
+Participate
+
+     * [532]Forum
+     * [533]Community portal
+     * [534]Recent changes
+     * [535]Help
+     * [536]Admin noticeboard
+     * [537]Discord server
+     * [538]YouTube channel
+
+Tools
+
+     * [539]What links here
+     * [540]Related changes
+     * [541]Special pages
+     * [542]Printable version
+     * [543]Permanent link
+     * [544]Page information
+
+   [545]Attribution-Share Alike 3.0 Unported
+   [546]Powered by MediaWiki
+     * This page was last edited on 23 January 2019, at 12:04.
+     * Content is available under [547]Attribution-Share Alike 3.0 Unported unless otherwise noted.
+     * [548]Privacy policy
+     * [549]About SmashWiki
+     * [550]Disclaimers
+     * [551]Mobile view
+
+References
+
+   Visible links
+   1. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&action=edit
+   2. https://www.ssbwiki.com/opensearch_desc.php
+   3. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&feed=atom
+   4. https://www.ssbwiki.com/index.php?title=Smash_Summit&redirect=no
+   5. https://www.ssbwiki.com/Smash_Summit#column-one
+   6. https://www.ssbwiki.com/Smash_Summit#searchInput
+   7. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+   8. https://www.ssbwiki.com/Tournament
+   9. https://www.ssbwiki.com/File:Smash_Summit.png
+  10. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  11. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+  12. https://www.ssbwiki.com/File:Flag_of_Sweden.png
+  13. https://www.ssbwiki.com/Smasher:Armada
+  14. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  15. https://www.ssbwiki.com/Smasher:PewPewU
+  16. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  17. https://www.ssbwiki.com/Smasher:SFAT
+  18. https://www.ssbwiki.com/Tournament_director
+  19. https://www.ssbwiki.com/Tournament:Smash_Summit_(series)
+  20. https://www.ssbwiki.com/List_of_national_tournaments
+  21. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+  22. https://www.ssbwiki.com/Tournament
+  23. https://en.wikipedia.org/wiki/Dota_2
+  24. http://smash.gg/summit
+  25. https://www.ssbwiki.com/Smash_Summit#Players
+  26. https://www.ssbwiki.com/Smash_Summit#Players_voted_in
+  27. https://www.ssbwiki.com/Smash_Summit#Players_eliminated
+  28. https://www.ssbwiki.com/Smash_Summit#Declined_Players
+  29. https://www.ssbwiki.com/Smash_Summit#Results
+  30. https://www.ssbwiki.com/Smash_Summit#Singles
+  31. https://www.ssbwiki.com/Smash_Summit#Doubles
+  32. https://www.ssbwiki.com/Smash_Summit#Side_events
+  33. https://www.ssbwiki.com/Smash_Summit#Iron_Man_challenge
+  34. https://www.ssbwiki.com/Smash_Summit#Mew2King_vs._S2J_Iron_Man
+  35. https://www.ssbwiki.com/Smash_Summit#Mango_vs._Armada_Iron_Man
+  36. https://www.ssbwiki.com/Smash_Summit#Mew2King_vs._Armada_Iron_Man_Grand_Finals
+  37. https://www.ssbwiki.com/Smash_Summit#Challenge_round
+  38. https://www.ssbwiki.com/Smash_Summit#Draft_crew_battle
+  39. https://www.ssbwiki.com/Smash_Summit#Alex19_vs._Swedish_Delight_Crew_Battle
+  40. https://www.ssbwiki.com/Smash_Summit#Zhu_vs._Kage_Crew_Battle
+  41. https://www.ssbwiki.com/Smash_Summit#Alex19_vs._Kage_Crew_Battle_Grand_Finals
+  42. https://www.ssbwiki.com/Smash_Summit#Trivia
+  43. https://www.ssbwiki.com/Smash_Summit#External_links
+  44. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&action=edit&section=1
+  45. https://www.ssbwiki.com/File:Flag_of_Sweden.png
+  46. https://www.ssbwiki.com/Smasher:Armada
+  47. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  48. https://www.ssbwiki.com/Smasher:Mango
+  49. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  50. https://www.ssbwiki.com/Smasher:Mew2King
+  51. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  52. https://www.ssbwiki.com/Smasher:PPMD
+  53. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  54. https://www.ssbwiki.com/Smasher:Plup
+  55. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  56. https://www.ssbwiki.com/Smasher:Lucky
+  57. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  58. https://www.ssbwiki.com/Smasher:Axe
+  59. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  60. https://www.ssbwiki.com/Smasher:Shroomed
+  61. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  62. https://www.ssbwiki.com/Smasher:PewPewU
+  63. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  64. https://www.ssbwiki.com/Smasher:Westballz
+  65. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&action=edit&section=2
+  66. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  67. https://www.ssbwiki.com/Smasher:S2J
+  68. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  69. https://www.ssbwiki.com/Smasher:SFAT
+  70. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  71. https://www.ssbwiki.com/Smasher:Alex19
+  72. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  73. https://www.ssbwiki.com/Smasher:Zhu
+  74. https://www.ssbwiki.com/File:Flag_of_Canada.png
+  75. https://www.ssbwiki.com/Smasher:Kage
+  76. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  77. https://www.ssbwiki.com/Smasher:Swedish_Delight
+  78. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&action=edit&section=3
+  79. https://www.ssbwiki.com/File:Flag_of_Sweden.png
+  80. https://www.ssbwiki.com/Smasher:Android
+  81. https://www.ssbwiki.com/File:Flag_of_Spain.png
+  82. https://www.ssbwiki.com/Smasher:Overtriforce
+  83. https://www.ssbwiki.com/File:Flag_of_New_Zealand.png
+  84. https://www.ssbwiki.com/Smasher:Spud
+  85. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  86. https://www.ssbwiki.com/Smasher:ChuDat
+  87. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  88. https://www.ssbwiki.com/Smasher:MacD
+  89. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  90. https://www.ssbwiki.com/Smasher:Chillin
+  91. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  92. https://www.ssbwiki.com/Smasher:HugS
+  93. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  94. https://www.ssbwiki.com/Smasher:Wizzrobe
+  95. https://www.ssbwiki.com/File:Flag_of_Germany.png
+  96. https://www.ssbwiki.com/Smasher:Ice
+  97. https://www.ssbwiki.com/File:Flag_of_Canada.png
+  98. https://www.ssbwiki.com/Smasher:N0ne
+  99. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 100. https://www.ssbwiki.com/Smasher:Shroomed
+ 101. https://www.ssbwiki.com/File:Flag_of_France.png
+ 102. https://www.ssbwiki.com/Smasher:Tekk
+ 103. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 104. https://www.ssbwiki.com/Smasher:Druggedfox
+ 105. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 106. https://www.ssbwiki.com/Smasher:Ken
+ 107. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 108. https://www.ssbwiki.com/Smasher:Vish
+ 109. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 110. https://www.ssbwiki.com/Smasher:Slox
+ 111. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 112. https://www.ssbwiki.com/Smasher:Gahtzu
+ 113. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 114. https://www.ssbwiki.com/Smasher:Nintendude
+ 115. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 116. https://www.ssbwiki.com/Smasher:Duck
+ 117. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 118. https://www.ssbwiki.com/Smasher:The_Moon
+ 119. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 120. https://www.ssbwiki.com/Smasher:Bladewise
+ 121. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 122. https://www.ssbwiki.com/Smasher:Mike_Haze
+ 123. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 124. https://www.ssbwiki.com/Smasher:Prince_Abu
+ 125. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 126. https://www.ssbwiki.com/Smasher:Redd
+ 127. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 128. https://www.ssbwiki.com/Smasher:DJ_Nintendo
+ 129. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 130. https://www.ssbwiki.com/Smasher:Eikelmann
+ 131. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 132. https://www.ssbwiki.com/Smasher:Cactuar
+ 133. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 134. https://www.ssbwiki.com/index.php?title=Smasher:W33dl0rd&action=edit&redlink=1
+ 135. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 136. https://www.ssbwiki.com/Smasher:Reno
+ 137. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 138. https://www.ssbwiki.com/Smasher:Mafia
+ 139. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 140. https://www.ssbwiki.com/Smasher:Dizzkidboogie
+ 141. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 142. https://www.ssbwiki.com/Smasher:SilentSwag
+ 143. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 144. https://www.ssbwiki.com/Smasher:MattDotZeb
+ 145. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 146. https://www.ssbwiki.com/Smasher:Tafokints
+ 147. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 148. https://www.ssbwiki.com/Smasher:Porkchops
+ 149. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 150. https://www.ssbwiki.com/Smasher:DoH
+ 151. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&action=edit&section=4
+ 152. https://www.ssbwiki.com/Smasher:Professor_Pro
+ 153. https://www.ssbwiki.com/Smasher:AMSa
+ 154. https://www.ssbwiki.com/Smasher:Abate
+ 155. https://www.ssbwiki.com/Smasher:Leffen
+ 156. https://twitter.com/kptdota/status/660140896311095296
+ 157. https://www.ssbwiki.com/The_Big_House_5
+ 158. https://www.ssbwiki.com/Smasher:Shroomed
+ 159. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&action=edit&section=5
+ 160. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&action=edit&section=6
+ 161. https://smash.gg/tournament/smash-summit/brackets/10727/2943/9440
+ 162. https://www.ssbwiki.com/File:Flag_of_Sweden.png
+ 163. https://www.ssbwiki.com/Smasher:Armada
+ 164. https://www.ssbwiki.com/Peach_(SSBM)
+ 165. https://www.ssbwiki.com/Fox_(SSBM)
+ 166. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 167. https://www.ssbwiki.com/Smasher:Mango
+ 168. https://www.ssbwiki.com/Falco_(SSBM)
+ 169. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 170. https://www.ssbwiki.com/Smasher:Mew2King
+ 171. https://www.ssbwiki.com/Sheik_(SSBM)
+ 172. https://www.ssbwiki.com/Marth_(SSBM)
+ 173. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 174. https://www.ssbwiki.com/Smasher:Plup
+ 175. https://www.ssbwiki.com/Sheik_(SSBM)
+ 176. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 177. https://www.ssbwiki.com/Smasher:Shroomed
+ 178. https://www.ssbwiki.com/Sheik_(SSBM)
+ 179. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 180. https://www.ssbwiki.com/Smasher:PPMD
+ 181. https://www.ssbwiki.com/Marth_(SSBM)
+ 182. https://www.ssbwiki.com/Falco_(SSBM)
+ 183. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 184. https://www.ssbwiki.com/Smasher:Axe
+ 185. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 186. https://www.ssbwiki.com/Falco_(SSBM)
+ 187. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 188. https://www.ssbwiki.com/Smasher:Lucky
+ 189. https://www.ssbwiki.com/Fox_(SSBM)
+ 190. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 191. https://www.ssbwiki.com/Smasher:PewPewU
+ 192. https://www.ssbwiki.com/Marth_(SSBM)
+ 193. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 194. https://www.ssbwiki.com/Smasher:S2J
+ 195. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 196. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 197. https://www.ssbwiki.com/Smasher:SFAT
+ 198. https://www.ssbwiki.com/Fox_(SSBM)
+ 199. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 200. https://www.ssbwiki.com/Smasher:Westballz
+ 201. https://www.ssbwiki.com/Falco_(SSBM)
+ 202. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 203. https://www.ssbwiki.com/Smasher:Alex19
+ 204. https://www.ssbwiki.com/Fox_(SSBM)
+ 205. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 206. https://www.ssbwiki.com/Smasher:Swedish_Delight
+ 207. https://www.ssbwiki.com/Sheik_(SSBM)
+ 208. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 209. https://www.ssbwiki.com/Smasher:Kage
+ 210. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 211. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 212. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 213. https://www.ssbwiki.com/Smasher:Zhu
+ 214. https://www.ssbwiki.com/Falco_(SSBM)
+ 215. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&action=edit&section=7
+ 216. https://smash.gg/tournament/smash-summit/brackets/10830/3337/10664
+ 217. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 218. https://www.ssbwiki.com/Smasher:PewPewU
+ 219. https://www.ssbwiki.com/Marth_(SSBM)
+ 220. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 221. https://www.ssbwiki.com/Smasher:SFAT
+ 222. https://www.ssbwiki.com/Fox_(SSBM)
+ 223. https://www.ssbwiki.com/File:Flag_of_Sweden.png
+ 224. https://www.ssbwiki.com/Smasher:Armada
+ 225. https://www.ssbwiki.com/Fox_(SSBM)
+ 226. https://www.ssbwiki.com/Peach_(SSBM)
+ 227. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 228. https://www.ssbwiki.com/Smasher:Mew2King
+ 229. https://www.ssbwiki.com/Sheik_(SSBM)
+ 230. https://www.ssbwiki.com/Marth_(SSBM)
+ 231. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 232. https://www.ssbwiki.com/Smasher:Mango
+ 233. https://www.ssbwiki.com/Falco_(SSBM)
+ 234. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 235. https://www.ssbwiki.com/Smasher:Lucky
+ 236. https://www.ssbwiki.com/Fox_(SSBM)
+ 237. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 238. https://www.ssbwiki.com/Smasher:Shroomed
+ 239. https://www.ssbwiki.com/Sheik_(SSBM)
+ 240. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 241. https://www.ssbwiki.com/Smasher:S2J
+ 242. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 243. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 244. https://www.ssbwiki.com/Smasher:Axe
+ 245. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 246. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 247. https://www.ssbwiki.com/Smasher:Kage
+ 248. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 249. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 250. https://www.ssbwiki.com/Smasher:Plup
+ 251. https://www.ssbwiki.com/Sheik_(SSBM)
+ 252. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 253. https://www.ssbwiki.com/Smasher:PPMD
+ 254. https://www.ssbwiki.com/Falco_(SSBM)
+ 255. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 256. https://www.ssbwiki.com/Smasher:Alex19
+ 257. https://www.ssbwiki.com/Fox_(SSBM)
+ 258. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 259. https://www.ssbwiki.com/Smasher:Swedish_Delight
+ 260. https://www.ssbwiki.com/Sheik_(SSBM)
+ 261. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 262. https://www.ssbwiki.com/Smasher:Westballz
+ 263. https://www.ssbwiki.com/Falco_(SSBM)
+ 264. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 265. https://www.ssbwiki.com/Smasher:Zhu
+ 266. https://www.ssbwiki.com/Falco_(SSBM)
+ 267. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&action=edit&section=8
+ 268. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&action=edit&section=9
+ 269. https://www.ssbwiki.com/File:Flag_of_Sweden.png
+ 270. https://www.ssbwiki.com/Smasher:Armada
+ 271. https://www.ssbwiki.com/Peach_(SSBM)
+ 272. https://www.ssbwiki.com/Fox_(SSBM)
+ 273. https://www.ssbwiki.com/Falco_(SSBM)
+ 274. https://www.ssbwiki.com/Sheik_(SSBM)
+ 275. https://www.ssbwiki.com/Marth_(SSBM)
+ 276. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 277. https://www.ssbwiki.com/Smasher:Mew2King
+ 278. https://www.ssbwiki.com/Marth_(SSBM)
+ 279. https://www.ssbwiki.com/Sheik_(SSBM)
+ 280. https://www.ssbwiki.com/Pichu_(SSBM)
+ 281. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 282. https://www.ssbwiki.com/Smasher:S2J
+ 283. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 284. https://www.ssbwiki.com/Sheik_(SSBM)
+ 285. https://www.ssbwiki.com/Marth_(SSBM)
+ 286. https://www.ssbwiki.com/Falco_(SSBM)
+ 287. https://www.ssbwiki.com/Fox_(SSBM)
+ 288. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 289. https://www.ssbwiki.com/Smasher:Mango
+ 290. https://www.ssbwiki.com/Fox_(SSBM)
+ 291. https://www.ssbwiki.com/Falco_(SSBM)
+ 292. https://www.ssbwiki.com/Mario_(SSBM)
+ 293. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 294. https://www.ssbwiki.com/Marth_(SSBM)
+ 295. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&action=edit&section=10
+ 296. https://www.ssbwiki.com/Sheik_(SSBM)
+ 297. https://www.ssbwiki.com/Fox_(SSBM)
+ 298. https://www.ssbwiki.com/Marth_(SSBM)
+ 299. https://www.ssbwiki.com/Falco_(SSBM)
+ 300. https://www.ssbwiki.com/Pichu_(SSBM)
+ 301. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 302. https://www.ssbwiki.com/Marth_(SSBM)
+ 303. https://www.ssbwiki.com/Sheik_(SSBM)
+ 304. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&action=edit&section=11
+ 305. https://www.ssbwiki.com/Marth_(SSBM)
+ 306. https://www.ssbwiki.com/Marth_(SSBM)
+ 307. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 308. https://www.ssbwiki.com/Sheik_(SSBM)
+ 309. https://www.ssbwiki.com/Falco_(SSBM)
+ 310. https://www.ssbwiki.com/Falco_(SSBM)
+ 311. https://www.ssbwiki.com/Mario_(SSBM)
+ 312. https://www.ssbwiki.com/Peach_(SSBM)
+ 313. https://www.ssbwiki.com/Fox_(SSBM)
+ 314. https://www.ssbwiki.com/Fox_(SSBM)
+ 315. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&action=edit&section=12
+ 316. https://www.ssbwiki.com/Sheik_(SSBM)
+ 317. https://www.ssbwiki.com/Fox_(SSBM)
+ 318. https://www.ssbwiki.com/Marth_(SSBM)
+ 319. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&action=edit&section=13
+ 320. https://www.reddit.com/r/smashbros/comments/3rp8mz/full_results_of_smash_summits_challenge_round_day/
+ 321. https://www.reddit.com/r/smashbros/comments/3rudmh/full_results_of_smash_summits_challenge_round_day/
+ 322. https://www.ssbwiki.com/SBR
+ 323. https://www.ssbwiki.com/SBR
+ 324. https://www.ssbwiki.com/Donkey_Kong
+ 325. https://www.ssbwiki.com/Yoshi
+ 326. https://www.ssbwiki.com/Zelda
+ 327. https://www.ssbwiki.com/Roy
+ 328. https://www.ssbwiki.com/Mewtwo
+ 329. https://www.ssbwiki.com/Mr._Game_&_Watch
+ 330. https://www.ssbwiki.com/Ness
+ 331. https://www.ssbwiki.com/Bowser
+ 332. https://www.ssbwiki.com/Pichu
+ 333. https://www.ssbwiki.com/Kirby
+ 334. https://www.ssbwiki.com/SBR
+ 335. https://www.ssbwiki.com/Banned_stage
+ 336. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 337. https://www.ssbwiki.com/Smasher:Mango
+ 338. https://www.ssbwiki.com/Falco_(SSBM)
+ 339. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 340. https://www.ssbwiki.com/Smasher:S2J
+ 341. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 342. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 343. https://www.ssbwiki.com/Smasher:Mew2King
+ 344. https://www.ssbwiki.com/Sheik_(SSBM)
+ 345. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 346. https://www.ssbwiki.com/Smasher:SFAT
+ 347. https://www.ssbwiki.com/Fox_(SSBM)
+ 348. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 349. https://www.ssbwiki.com/Smasher:Zhu
+ 350. https://www.ssbwiki.com/Falco_(SSBM)
+ 351. https://www.ssbwiki.com/File:Flag_of_Sweden.png
+ 352. https://www.ssbwiki.com/Smasher:Armada
+ 353. https://www.ssbwiki.com/Peach_(SSBM)
+ 354. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 355. https://www.ssbwiki.com/Smasher:Axe
+ 356. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 357. https://www.ssbwiki.com/Falco_(SSBM)
+ 358. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 359. https://www.ssbwiki.com/Smasher:Alex19
+ 360. https://www.ssbwiki.com/Fox_(SSBM)
+ 361. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 362. https://www.ssbwiki.com/Smasher:PewPewU
+ 363. https://www.ssbwiki.com/Marth_(SSBM)
+ 364. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 365. https://www.ssbwiki.com/Smasher:Westballz
+ 366. https://www.ssbwiki.com/Falco_(SSBM)
+ 367. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+ 368. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 369. https://www.ssbwiki.com/Smasher:Plup
+ 370. https://www.ssbwiki.com/Sheik_(SSBM)
+ 371. https://www.ssbwiki.com/Samus_(SSBM)
+ 372. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 373. https://www.ssbwiki.com/Smasher:Swedish_Delight
+ 374. https://www.ssbwiki.com/Sheik_(SSBM)
+ 375. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 376. https://www.ssbwiki.com/Smasher:Kage
+ 377. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 378. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 379. https://www.ssbwiki.com/Smasher:Lucky
+ 380. https://www.ssbwiki.com/Fox_(SSBM)
+ 381. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 382. https://www.ssbwiki.com/Smasher:PPMD
+ 383. https://www.ssbwiki.com/Marth_(SSBM)
+ 384. https://www.ssbwiki.com/Falco_(SSBM)
+ 385. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 386. https://www.ssbwiki.com/Smasher:Shroomed
+ 387. https://www.ssbwiki.com/Sheik_(SSBM)
+ 388. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&action=edit&section=14
+ 389. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 390. https://www.ssbwiki.com/Smasher:Kage
+ 391. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 392. https://www.ssbwiki.com/File:Flag_of_Sweden.png
+ 393. https://www.ssbwiki.com/Smasher:Armada
+ 394. https://www.ssbwiki.com/Peach_(SSBM)
+ 395. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 396. https://www.ssbwiki.com/Smasher:SFAT
+ 397. https://www.ssbwiki.com/Fox_(SSBM)
+ 398. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 399. https://www.ssbwiki.com/Smasher:Shroomed
+ 400. https://www.ssbwiki.com/Sheik_(SSBM)
+ 401. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 402. https://www.ssbwiki.com/Smasher:Alex19
+ 403. https://www.ssbwiki.com/Fox_(SSBM)
+ 404. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 405. https://www.ssbwiki.com/Smasher:Mango
+ 406. https://www.ssbwiki.com/Falco_(SSBM)
+ 407. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 408. https://www.ssbwiki.com/Smasher:Lucky
+ 409. https://www.ssbwiki.com/Fox_(SSBM)
+ 410. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 411. https://www.ssbwiki.com/Smasher:S2J
+ 412. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 413. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 414. https://www.ssbwiki.com/Smasher:Swedish_Delight
+ 415. https://www.ssbwiki.com/Sheik_(SSBM)
+ 416. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 417. https://www.ssbwiki.com/Smasher:Plup
+ 418. https://www.ssbwiki.com/Sheik_(SSBM)
+ 419. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 420. https://www.ssbwiki.com/Smasher:PPMD
+ 421. https://www.ssbwiki.com/Falco_(SSBM)
+ 422. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 423. https://www.ssbwiki.com/Smasher:Westballz
+ 424. https://www.ssbwiki.com/Falco_(SSBM)
+ 425. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 426. https://www.ssbwiki.com/Smasher:Zhu
+ 427. https://www.ssbwiki.com/Falco_(SSBM)
+ 428. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 429. https://www.ssbwiki.com/Smasher:Mew2King
+ 430. https://www.ssbwiki.com/Sheik_(SSBM)
+ 431. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 432. https://www.ssbwiki.com/Smasher:Axe
+ 433. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 434. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 435. https://www.ssbwiki.com/Smasher:PewPewU
+ 436. https://www.ssbwiki.com/Marth_(SSBM)
+ 437. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&action=edit&section=15
+ 438. https://www.ssbwiki.com/Smasher:S2J
+ 439. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 440. https://www.ssbwiki.com/Smasher:Westballz
+ 441. https://www.ssbwiki.com/Falco_(SSBM)
+ 442. https://www.ssbwiki.com/Smasher:Alex19
+ 443. https://www.ssbwiki.com/Fox_(SSBM)
+ 444. https://www.ssbwiki.com/Smasher:Swedish_Delight
+ 445. https://www.ssbwiki.com/Sheik_(SSBM)
+ 446. https://www.ssbwiki.com/Smasher:Lucky
+ 447. https://www.ssbwiki.com/Fox_(SSBM)
+ 448. https://www.ssbwiki.com/Smasher:PPMD
+ 449. https://www.ssbwiki.com/Falco_(SSBM)
+ 450. https://www.ssbwiki.com/Smasher:Mango
+ 451. https://www.ssbwiki.com/Falco_(SSBM)
+ 452. https://www.ssbwiki.com/Smasher:Plup
+ 453. https://www.ssbwiki.com/Sheik_(SSBM)
+ 454. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&action=edit&section=16
+ 455. https://www.ssbwiki.com/Smasher:Zhu
+ 456. https://www.ssbwiki.com/Falco_(SSBM)
+ 457. https://www.ssbwiki.com/Smasher:Shroomed
+ 458. https://www.ssbwiki.com/Sheik_(SSBM)
+ 459. https://www.ssbwiki.com/Smasher:Axe
+ 460. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 461. https://www.ssbwiki.com/Smasher:SFAT
+ 462. https://www.ssbwiki.com/Fox_(SSBM)
+ 463. https://www.ssbwiki.com/Smasher:PewPewU
+ 464. https://www.ssbwiki.com/Marth_(SSBM)
+ 465. https://www.ssbwiki.com/Smasher:Kage
+ 466. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 467. https://www.ssbwiki.com/Smasher:Mew2King
+ 468. https://www.ssbwiki.com/Sheik_(SSBM)
+ 469. https://www.ssbwiki.com/Smasher:Armada
+ 470. https://www.ssbwiki.com/Peach_(SSBM)
+ 471. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&action=edit&section=17
+ 472. https://www.ssbwiki.com/Smasher:Alex19
+ 473. https://www.ssbwiki.com/Fox_(SSBM)
+ 474. https://www.ssbwiki.com/Smasher:Kage
+ 475. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 476. https://www.ssbwiki.com/Smasher:S2J
+ 477. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 478. https://www.ssbwiki.com/Smasher:Shroomed
+ 479. https://www.ssbwiki.com/Sheik_(SSBM)
+ 480. https://www.ssbwiki.com/Smasher:Lucky
+ 481. https://www.ssbwiki.com/Fox_(SSBM)
+ 482. https://www.ssbwiki.com/Smasher:SFAT
+ 483. https://www.ssbwiki.com/Fox_(SSBM)
+ 484. https://www.ssbwiki.com/Smasher:Mango
+ 485. https://www.ssbwiki.com/Falco_(SSBM)
+ 486. https://www.ssbwiki.com/Smasher:Armada
+ 487. https://www.ssbwiki.com/Peach_(SSBM)
+ 488. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&action=edit&section=18
+ 489. https://www.ssbwiki.com/Smasher:Armada
+ 490. https://www.ssbwiki.com/Battle_of_the_Five_Gods
+ 491. https://www.ssbwiki.com/Smasher:Hungrybox
+ 492. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&action=edit&section=19
+ 493. https://youtu.be/of5hpcPN33E
+ 494. http://smash.gg/smash-summit
+ 495. http://beyondthesummit.tv/the-smash-summit/
+ 496. https://www.ssbwiki.com/Template:Smash_Summit
+ 497. https://www.ssbwiki.com/Template_talk:Smash_Summit
+ 498. https://www.ssbwiki.com/index.php?title=Template:Smash_Summit&action=edit
+ 499. https://www.ssbwiki.com/Tournament:Smash_Summit_(series)
+ 500. https://www.ssbwiki.com/Tournament:Smash_Summit_2
+ 501. https://www.ssbwiki.com/Tournament:Smash_Summit_3
+ 502. https://www.ssbwiki.com/Tournament:Smash_Summit_Spring_2017
+ 503. https://www.ssbwiki.com/Tournament:Smash_Summit_5
+ 504. https://www.ssbwiki.com/Tournament:Smash_Summit_6
+ 505. https://www.ssbwiki.com/Tournament:Smash_Summit_7
+ 506. https://www.ssbwiki.com/Tournament:Smash_Ultimate_Summit
+ 507. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&oldid=1176811
+ 508. https://www.ssbwiki.com/Special:Categories
+ 509. https://www.ssbwiki.com/Category:National_tournaments
+ 510. https://www.ssbwiki.com/Category:Southern_California_tournaments
+ 511. https://www.ssbwiki.com/Category:2015_tournaments
+ 512. https://www.ssbwiki.com/Category:Invitationals
+ 513. https://www.ssbwiki.com/Tournament:Smash_Summit
+ 514. https://www.ssbwiki.com/Tournament_talk:Smash_Summit
+ 515. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&action=edit
+ 516. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&action=history
+ 517. https://www.ssbwiki.com/Special:MyTalk
+ 518. https://www.ssbwiki.com/Special:MyContributions
+ 519. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=Tournament:Smash+Summit
+ 520. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=Tournament:Smash+Summit
+ 521. https://www.ssbwiki.com/Main_Page
+ 522. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 523. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 524. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 525. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 526. https://www.ssbwiki.com/Super_Smash_Bros.
+ 527. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+ 528. https://www.ssbwiki.com/Stage
+ 529. https://www.ssbwiki.com/Mode
+ 530. https://www.ssbwiki.com/Item
+ 531. https://www.ssbwiki.com/Special:Random
+ 532. https://www.ssbwiki.com/Forum:Index
+ 533. https://www.ssbwiki.com/SmashWiki:Community_portal
+ 534. https://www.ssbwiki.com/Special:RecentChanges
+ 535. https://www.ssbwiki.com/Help:Contents
+ 536. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
+ 537. https://www.ssbwiki.com/SmashWiki:Discord_server
+ 538. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
+ 539. https://www.ssbwiki.com/Special:WhatLinksHere/Tournament:Smash_Summit
+ 540. https://www.ssbwiki.com/Special:RecentChangesLinked/Tournament:Smash_Summit
+ 541. https://www.ssbwiki.com/Special:SpecialPages
+ 542. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&printable=yes
+ 543. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&oldid=1176811
+ 544. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&action=info
+ 545. https://creativecommons.org/licenses/by-sa/3.0/
+ 546. https://www.mediawiki.org/
+ 547. https://creativecommons.org/licenses/by-sa/3.0/
+ 548. https://www.porplemontage.com/privacy
+ 549. https://www.ssbwiki.com/SmashWiki:About
+ 550. https://www.ssbwiki.com/SmashWiki:General_disclaimer
+ 551. https://www.ssbwiki.com/index.php?title=Tournament:Smash_Summit&mobileaction=toggle_view_mobile
+
+   Hidden links:
+ 553. https://www.ssbwiki.com/Main_Page

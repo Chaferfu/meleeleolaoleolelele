@@ -1,0 +1,1832 @@
+   #[1]Edit this page [2]SmashWiki (en) [3]SmashWiki Atom feed
+
+Project M
+
+   From SmashWiki, the Super Smash Bros. wiki
+   Jump to:[4]navigation, [5]search
+   [6]PM Icon.png
+   The logo for Project M
+
+   Project M is a [7]gameplay modification of [8]Super Smash Bros. Brawl designed to make the gameplay more closely resemble that of [9]Super Smash Bros. Melee, as well as [10]Super Smash Bros. to a lesser extent. Project M's primary change from Brawl is that the speed of gameplay has been generally increased and the character landing lag is shorter, alongside the restoration of many Melee mechanics and elements, such as the addition of [11]Mewtwo and [12]Roy after their absence in Brawl. Project M's development team was partly descended from the original developers for [13]Brawl+, later known as the PMDT, or Project M Dev Team (formerly the PMBR, or Project M Backroom), having members from over ten countries.^[14][1] Development of the mod officially concluded on December 1st, 2015, with version 3.6 being the last official release of Project M.
+
+   Project M has been commonly featured at several [15]national [16]tournaments, such as the Zenith series, [17]The Big House series, and [18]Apex 2014, and it remains the most popular gameplay mod of Brawl in tournament settings. Starting in 2013, Project M saw a rapid rise in its popularity as more characters became playable and the mod became more familiar at Smash tournaments. By 2014, it began to develop its tournament scene, with the number of entrants for Apex 2014's PM singles event notably surpassing the number of competitors for Brawl. Despite the end of Project M's official development, it still has been able to maintain its tournament presence separate from Brawl, including the formation of its Backroom, the New PMBR, on July 21, 2016.^[19][2]
+
+   Project M only supports [20]NTSC versions of Brawl, and no [21]PAL build was ever released. As a result, running Project M outside of NTSC regions requires homebrew as to allow the Wii to run an NTSC version of the game.
+
+Contents
+
+     * [22]1 Universal changes
+          + [23]1.1 Melee based changes
+          + [24]1.2 Brawl based changes
+          + [25]1.3 Other changes and gameplay tweaks
+     * [26]2 Characters
+          + [27]2.1 List of characters
+     * [28]3 Stages
+     * [29]4 Turbo Mode
+     * [30]5 Tier list
+     * [31]6 Release history
+          + [32]6.1 Demo 1.0
+          + [33]6.2 Demo 2.0
+          + [34]6.3 Demo 2.1
+          + [35]6.4 Demo 2.5
+          + [36]6.5 Demo 2.5b
+          + [37]6.6 Demo 2.6
+          + [38]6.7 Demo 2.6b
+          + [39]6.8 v3.0
+          + [40]6.9 v3.01
+          + [41]6.10 v3.02
+          + [42]6.11 v3.5
+          + [43]6.12 v3.6β
+          + [44]6.13 v3.6
+     * [45]7 Errors
+     * [46]8 Downloading instructions
+     * [47]9 Developers
+     * [48]10 Response from Nintendo
+     * [49]11 Trivia
+     * [50]12 References
+     * [51]13 External links
+
+Universal changes[[52]edit]
+
+   Project M's menu in Version 3.6.
+
+   Project M has two different versions: Full Set and WiFi. The former has Stock Control and Input Assistance as new features, which allows newer players to use advanced techniques better and have a stock advantage over experienced ones. However, [53]Replays and online play do not work properly as a result of [54]L and [55]R button light-presses causing [56]online desynchronization. Replays are now functioning with the inclusion of Fracture's replay mod. The WiFi version allows these two things to work properly, and while it keeps the former version's battle features, these are not implemented for online play, likely because Stock Control would have caused potential [57]griefing within matches (by the distant opponent always choosing the maximum amount of stocks). If a Project M replay is in regular Brawl, it may cause malfunctions when beginning a match, possibly because of the stage replacement.
+
+   Both versions massively alter the original Brawl gameplay to more closely resemble that of Melee, along with other changes to make the game more competitive in general. It maintains Brawl techniques such as [58]crawl, [59]wall cling, and [60]DACUS.
+
+Melee based changes[[61]edit]
+
+   The following mechanics have been altered to match their Melee forms:
+     * General amount of [62]freeze frames reduced.
+     * No [63]buffering by default, though players can turn on Input Assistance to implement a three-frame buffering window for helping newer players master advanced techniques, replacing the "Damage Gauge" option. Online matches instead have a different Buffer option that replaces handicaps, from 1 to 30, with these numbers being the respective amount of buffer [64]frames.
+     * All characters have faster [65]falling speeds and [66]gravity.
+     * [67]Air dodging applies a directional boost and causes [68]helplessness, making it riskier for midair combat, but allowing faster midair movement within short ranges and restoring the [69]wavedash techniques vital for most characters' [70]metagames.
+     * [71]L-canceling halves landing lag when a shield button is pressed 7 frames before landing, thus restoring the [72]SHFFL technique, bolstering characters' midair movement and allowing much better usage of [73]combos. Additionally, characters briefly flash white upon performing a successful L-cancel.
+     * [74]Dash dancing's timing has been reverted, making it longer and more practical, and characters can shield during one.
+     * Crouching cancels the running portion of the dash, allowing quicker, more varied options after dashing.
+     * Characters retain the full momentum of their dash if they jump forward. This is especially noticeable with characters with faster dashing speeds.
+     * [75]Crouch canceling reduces knockback, and hitting the [76]C-Stick down while crouching uses a [77]down smash (in Brawl it used a [78]down tilt), allowing to efficiently counter opponents by crouching.
+     * Consecutive [79]jabbing is removed.
+     * [80]Double jump canceling reimplemented for characters with slow but high double jumps. For some characters, double-jump canceling can be bypassed by holding the jump button while attacking.
+     * Ledge teching reimplemented, allowing recovering characters to survive at higher percentages by [81]DIing toward a ledge and teching into it upon being attacked. [82]Ledge-canceling is once more possible as well.
+     * Jumps can be [83]canceled with grabs, so regular grabs can still be effectively used after a dash, avoiding the usual ending lag of a dash grab.
+     * [84]Powershielding can [85]reflect [86]projectiles during the first 2 frames.
+     * [87]Shieldstun formula reverted. Like in Melee, characters now also take longer to act out of a shield drop (almost twice as long as in Brawl), causing the gameplay to be less defensive-focused.
+     * [88]Ledges cannot be auto-sweetspotted, so they can neither be grabbed from the back, nor during the attacking portion of recovery attacks. Some moves like [89]Raptor Boost or [90]Bowser Bomb still use this feature, though. Additionally, characters can act out of a ledge grab sooner, and when performing any [91]ledge recovery action (normal get-up, jump, roll or attack), other characters cannot grab it until the animation is half-finished. This makes [92]edge hopping and [93]edgehogging easier.
+     * [94]Hitstun canceling has been removed, causing overall horizontal survivability to be shorter, but giving characters more extensive combo options, which were almost nonexistent in Brawl. Air dodges are no longer usable when [95]tumbling.
+     * [96]Teching can be performed even before a character is struck, making it easier to implement.
+     * [97]Items cannot be grabbed during [98]dash attacks or [99]aerials.
+     * [100]Grab aerials cause helplessness if they miss a ledge, but can be [101]used after an air dodge with the shield + attack combination. They still act as tether recoveries, though they won't restore a character's midair jumps if they drop from the ledge.
+     * If a character still in [102]hitstun is struck again in quick succession, the new [103]knockback either replaces the old knockback (if the gap between the attacks was 10 frames or less) or has its direction and power combined with the old knockback (after 10 frames). In Brawl, whether to replace the old knockback is based on the relative strength of the two attacks, and no merging is performed.
+     * Brawl's random input delay is fixed.
+     * [104]Meteor smash angle reverted, thus re-implementing the more useful [105]spike.
+     * When dash grabbing a foe, forward momentum is completely negated. Unlike in Melee, though, characters with low traction still possess this feature.
+     * [106]Grab released characters will get back their midair jumps.
+     * [107]Pummels reverted to all having the same standardized speed and dealing 3% damage per use, with only a few exceptions.
+     * [108]Grab physics reverted: characters can grab opponents behind them, though they cannot be grabbed by the lower legs or arms.
+     * Characters hit when lying on the floor will bounce a short distance and then get up automatically upon landing, or will assume their falling animation if they bounce too high or away from the platform, removing [109]locks, but allowing opponents to perform [110]jab resets.
+     * Though a barely noticeable change, [111]smash attacks are now chargable for 59 frames as opposed to 60, and a fully [112]charged smash deals x1.3671 of the uncharged amount.
+     * [113]Stale-move negation now uses Melee's reduction factor, though multi-hitting attacks only count once towards the 9 move queue. The freshness bonus from Brawl is also removed.
+
+Brawl based changes[[114]edit]
+
+   Brawl newcomers [115]Charizard and [116]Wolf spar on the revamped [117]Saffron City stage.
+
+   Aside from Melee restorations, the following techniques and mechanics from Brawl have also been changed:
+     * [118]Footstool jumps are still present but are now done with a taunt input to avoid unintentional footstool jumping with the jump button.
+     * Removal of random [119]tripping as a result of tapping the control stick. There is still forced tripping, but only for attacks that always cause it, such as getting hit by or running into a [120]Banana Peel. Tripping can additionally be teched, so punishing a tripped character is more [121]tech chase-orientated.
+     * [122]Dashing is easier to perform than in Melee, particularly when dashing in the opposite direction a character is facing, since the input for a smash turn is a 2 frame window, instead of 1.
+     * Short hopping is easier to perform with all characters. Characters leave the ground 1 frame later while still being able to input an aerial, allowing for some aerials from Melee characters to auto-cancel earlier or hit shorter characters when previously impossible (i.e. [123]Ganondorf's forward aerial and [124]Captain Falcon's neutral aerial, respectively).
+     * Aerials can be [125]interrupted with an air dodge.
+     * Characters can interrupt their jumping animation after jumping from the ledge much sooner than in Melee, preventing "tournament winners" as a result of being stuck in the ledge jump animation.
+     * Brawl's 2 frame [126]B-reversing window is retained. B-reversing now also includes moves that previously did not have it in Brawl, such as [127]Captain Falcon's [128]Falcon Kick.
+     * It is now possible to pivot grab during any portion of the dash like in Brawl.
+     * [129]Reverse aerial rush reinstated, allowing characters to use their back aerials more efficiently.
+     * Time window to input a [130]DACUS successfully is now 2 frames, and using Z instead of A does not reduce the window. All characters (except [131]Kirby, [132]Donkey Kong, and [133]Diddy Kong) who previously could not DACUS can now do so, although only a few characters gain distance compared to their sliding up smashes.
+     * Ability to use to the C-stick to dash attack and up smash during a dash retained, making it easier to perform sliding up smashes and DACUSes.
+     * [134]Tether recoveries reimplemented instead of reusing Melee's [135]wall grapples; however, they are better than before. Tether recoveries now ignore [136]edge-hoggers; characters will still latch onto the ledge without affecting them, and when pulled up they will perform an automatic jump get-up. While characters with tether recoveries will fare better on the ledge than in Brawl, the jump get-up has extreme lag and puts them into helplessness if they do not land on the stage. Also, a missed tether recovery causes helplessness like wall grapples.
+     * All [137]up special moves (except for [138]Mewtwo's [139]Teleport, [140]R.O.B.'s new Robo-Booster, [141]King Dedede's [142]Super Dedede Jump, and [143]Meta Knight's [144]Shuttle Loop) now allow characters to grab the ledge backwards before putting them into helplessness or otherwise shortly before their descent. This is opposed to a select few in Melee. Some [145]side special moves (such as [146]Captain Falcon's [147]Raptor Boost, which retains its ledge sweetspot from Brawl, as well as [148]Falco's [149]Falco Phantasm) exhibit this trait as well if they slightly overshoot the ledge from behind.
+     * [150]Meteor canceling revamped: after being struck, all characters must wait for 16 frames before meteor canceling. Attempting to do this earlier results in the character not being able to meteor cancel during the entire hitstun of the attack (except if not done with a jump input).
+     * The [151]grab release glitch is now an intentional feature used as a balancing tool for select characters. It has been altered also to remove the victim's ability to air dodge in addition to their up special move, though it also restores all their double jumps.
+     * A [152]glide toss can is doable in midair with an air dodge. Additionally, air dodges still auto-grab items during the first frames of execution as in Brawl, so that item-based attacks are easier to counter.
+     * [153]Gliding is no longer performed by tapping and holding the jump button; [154]Charizard and [155]Pit have new special moves that allow them to glide instead. [156]Meta Knight and [157]Pit also have a timer for their glides, instead of being able to glide infinitely. Glide attacks also have high landing lag and leave these characters helpless.
+     * Infinite [158]armor is now only reserved for [159]Ike's fully charged [160]Eruption, all of [161]Bowser's smash attacks (when charged a certain time), [162]Ganondorf's [163]Flame Choke right before the explosion, and "grab armor." Armor for other moves that have it is given a range from light armor to heavy armor; if an attack's knockback is lower than the specified amount of an armor, no knockback is inflicted, but if it is higher, knockback will be regularly inflicted as usual. [164]Yoshi's double jump is an exception to this rule, having knockback reduction frames rather than standard armor frames; therefore, overcoming its armor will result in Yoshi receiving the difference in knockback instead of the full knockback from the move that hit him out of it. Some characters feature color overlays to indicate such armor, with more opaque overlays generally indicating stronger armor.
+
+Other changes and gameplay tweaks[[165]edit]
+
+   Captain Falcon and Link square off in two of their new alternate costumes.
+   Meta Knight (in his new alternate costume) in the remastered Hyrule Castle stage.
+     * All characters and stages are [166]unlocked from the start. However, any character not unlocked in the unmodded game will have "Challenger Approaching" events once the conditions are met. Anything unlocked in Project M will carry over to Brawl.
+     * Stages such as [167]Metal Cavern, [168]Kongo Jungle and [169]Dream Land replace stages such as [170]Mushroomy Kingdom, [171]75m, and [172]Green Greens.
+     * From v3.5 onwards, [173]Screen KOs are about as long as [174]Star KOs, and still uses Brawl's animations.
+     * [175]Smash 64's [176]taunt canceling returns.
+     * [177]Glancing Blows are no longer possible; they have no visual effect to indicate that they have occurred, and will not add hitlag or half the damage of the attack to the defender.
+     * Stock Control added, replacing handicaps. Players can now control the number of stocks each player starts with before battle, from 1 to 30 stocks for each individual character. A Crew mode has been added in which the game keeps track of stocks retained after battles.
+     * Stage selection menu modified to include built-in stage striking control with the X button (Full Set version).
+     * While Project M has no light shields, the full set still allows for light presses for the GameCube controller's L and R trigger buttons if they are assigned to "shield"; a light press will activate a character's shield and L-cancels, and a full press will trigger wavedashes and techs. However, unlike in Melee, light presses are not considered as separate inputs from full presses and will count towards the early [178]tech penalty.
+     * New Melee-like designs for the menu and character selection screens, with altered fonts.
+     * The game, in general, takes less time to load modes, characters, and scenes, and things such as Records can be scrolled through more quickly.
+     * [179]Brawl mode is now labeled as "Fight!", Special Brawl is "Special Versus", and all other modes and sections containing "Brawl" are replaced with "Smash" (such as [180]Multi-Man Brawl being named Multi-Man Smash).
+     * Default match type is 4 [181]stock with an 8-minute timer, and [182]Team Attack is turned on by default, similar to the settings of usual competitive Melee matches.
+     * The [183]timer during matches is placed at the top center of the screen rather than at the top right.
+     * A time match can be played by just one player, and the default time limit is infinite.
+     * Altered camera that is capable of zooming out indefinitely and fully rotating around the characters and stages, allowing players to take [184]snapshots without any camera restrictions.
+     * There are several alterations to Special Versus:
+          + [185]Stamina Mode has several new variations (which replace the stage selection options), such as having stocks, warping blast lines that take away damage rather than eliminating the player, and regular knockback scaling in favor of fixed knockback. Stamina can also be set up to 990 HP instead of 300.
+          + "Curry Mode" is replaced with "Turbo Mode", in which all moves can cancel into any other move or action on hit or on shield. [186]Superspicy Curry is replaced with a "Turbo" item that causes characters to act like in Turbo Mode for a short period.
+          + "[187]Bunny Mode" is moved down to the "status" row from the "head" row (replacing "[188]Reflect Mode") while making room for "0 to Death Mode" (written in-game as "Regen Mode" to fit the available space), which recovers all damage taken after one second of not receiving any hitstun.
+          + "Angled Camera Mode" is replaced with All-Star Versus, which allows players to use different characters (or simply costumes) for each stock. This is done by selecting a character, then pressing B to hover off them, and hitting A to the next character. The order of the characters selected become the order they appear in. Required character selections are based on the stock count. If the selections are less than the stock count, the remaining stocks loop back to the first character (so selecting Mario, Luigi and Peach in a four stock match will loop back to Mario in stock four.)
+               o Should each player select their characters in All Star VS Mode before turning on Team Battle; the characters will not be forced into their team battle costumes akin to Smash 4. Also, the random option will always use the default costumes of the characters even in team battles.
+     * Stage selection screen revamped: stages are now ordered at the bottom in a rectangular shape, with the selected stage being displayed at the top. Stages are now also ordered in Pages 1 and 2, and the top background displays Project M.
+     * The background for victory poses for VS. battles have been altered to resemble the new Training room.
+     * Independent character icons for [189]Zelda/[190]Sheik and [191]Samus/[192]Zero Suit Samus, with [193]Zero Suit Samus not having an icon from Brawl's character menu.
+     * Characters now instantly grunt when hit by a strong attack, as in Melee and 64, while in Brawl they did a second afterward. There are also medium-damage and high-damage groans as well, with most characters using unused voice samples from the [194]Sound Test. Characters now also use voice samples for [195]sidesteps and [196]air dodges, and variable voices for [197]smash attacks.
+     * [198]Smash Taunts were introduced to more characters, such as [199]Ness and [200]Link, though these are less involved and can be done on any stage.
+     * Characters now emit a spark when [201]wall jumping.
+     * The cast of characters and background at the beginning of the opening movie is slightly altered, and both it and the title screen now display "Super Smash Bros. Project M".
+     * [202]Mewtwo and [203]Roy were added as opponents for [204]All-Star mode.
+     * [205]Training mode now appears as the default Solo mode, and after entering it, the same characters that participated will appear chosen automatically for Group battles. This will trigger a glitch where if a Gamecube controller is not in the P1 slot accesses Training Mode, then the player starts a training match, exits out and enters VS mode, he or she can control two characters with one controller.^[206][3]
+     * [207]Home-Run Contest stadium no longer has a protective window, acting like its Melee counterpart. Its online competitive mode has also been added as a co-op mode offline, with records being saved.
+     * No [208]Replay time limit, allowing longer matches to be recorded and viewed.
+     * Many additional costumes are added for each character, and are shown as "Colors" on the characters profiles. There are now also "Special" costumes for some characters, such as [209]Dr. Mario, [210]Armored Mewtwo, and Melee renditions of several characters, some of which get [211]team colors and changed aesthetics.
+     * CPU players have reprogrammed [212]artificial intelligence, giving them a greater degree of technical skill, and use more advanced techniques such as wavedashing. For example, [213]Fox can perform [214]short hop lasers and [215]waveshine infinites, while [216]Roy may use the first hit of [217]Double-Edge Dance to extend his recovery. However, the AI is still flawed; CPU players are extremely prone to self-destructing (such as air dodging away from the stage, not aiming for the ledge, or abruptly cutting their recovery short such as Fox's [218]Fox Illusion) and running into extremely slow attacks, such as [219]Falcon Punch. It is also possible to manipulate certain characters to do absolutely nothing or hold their shield repeatedly even after it breaks. Additionally, they still recognize Giga Bowser and Wario-Man (when selected using the shield button on the respective characters) as Final Smashes, attempting to avoid them altogether instead of fighting them.
+
+Characters[[220]edit]
+
+   The character-selection screen in Project M.
+
+   In addition to the many universal changes, each character received several individual adjustments in order to balance the game properly. The roster was largely buffed overall, creating an extensive collection of viable characters with varying playstyles, strengths, and weaknesses. However, certain moves were nerfed to further flesh out some fighters and break their dependence on repeated use of a single move or small set of moves. Some Project M characters are based on their appearances in Melee (such as [221]Captain Falcon and [222]Jigglypuff) while others are modified from their Brawl versions or a mixture of their iterations from both games.
+
+   The sourcing of previous versions of a character depends largely on previous attendance and performance, with high tier Melee characters being mostly reverted to their past formats (with some adjustments to add more balance for the other characters). This includes both normal and special moves, properties such as gravity, weight, run-speed and air mobility.
+
+   Aesthetic changes such as sound effects and costumes were included in more recent versions such as version 3.0 and were revamped in 3.5 and 3.6.
+
+   The entire cast was overhauled to match the physics of Melee. Characters that suffered from weak attributes and movesets in both Melee and Brawl (such as [223]Bowser, [224]Kirby, and [225]Zelda), had their positive attributes from each game merged and are given entirely new and original buffs. Some returning characters, like [226]Ganondorf, were given a completely revamped moveset to reference their abilities from their home series further and to distance themselves from characters from which they are cloned. New characters, such as [227]Sonic and [228]Snake, are given completely original buffs, nerfs and even entirely new moves to increase their variability and versatility.
+
+   Giga Bowser, and Wario-Man are optional playable characters, as they are selected if the player holds the shield button when selecting Bowser or Wario on the character select screen.
+
+   Based on the Brawl roster of 39 characters, Project M gives [229]Zero Suit Samus, [230]Sheik, [231]Squirtle, [232]Ivysaur and [233]Charizard their own slots on the character selection screen (the latter 3 replacing the [234]Pokémon Trainer) while including [235]Mewtwo and [236]Roy (who were both absent in Brawl) for a total of 41 characters (43 if the Final Smash forms Giga Bowser and Wario-Man are counted). Furthermore, a leaked development build indicated that development on four new characters was in progress at the time of the project's cancellation. This shows a planned total of 45 characters; these characters are [237]Knuckles from the [238]Sonic universe, [239]Lyn from the [240]Fire Emblem universe, [241]Isaac from the [242]Golden Sun universe, and [243]Sami from the [244]Advance Wars universe.
+
+List of characters[[245]edit]
+
+                                                  Characters
+   [246]Mario SSBB.jpg
+   [247]Mario
+   [248]MarioSymbol.svg [249]Luigi SSBB.jpg
+   [250]Luigi
+   [251]MarioSymbol.svg [252]Peach SSBB.jpg
+   [253]Peach
+   [254]MarioSymbol.svg [255]Bowser SSBB.jpg
+   [256]Bowser
+   [257]MarioSymbol(BowserSymbol).png [258]Yoshi SSBB.jpg
+   [259]Yoshi
+   [260]YoshiSymbol.svg [261]Donkey Kong SSBB.jpg
+   [262]Donkey Kong
+   [263]DKSymbol.svg [264]Diddy Kong SSBB.jpg
+   [265]Diddy Kong
+   [266]DKSymbol.svg
+   [267]Link SSBB.jpg
+   [268]Link
+   [269]ZeldaSymbol.svg [270]Zelda SSBB.jpg
+   [271]Zelda
+   [272]ZeldaSymbol.svg [273]Sheik SSBB.jpg
+   [274]Sheik
+   [275]ZeldaSymbol.svg [276]Ganondorf SSBB.jpg
+   [277]Ganondorf
+   [278]ZeldaSymbol.svg [279]Toon Link SSBB.jpg
+   [280]Toon Link
+   [281]ZeldaSymbol.svg [282]Samus SSBB.jpg
+   [283]Samus
+   [284]MetroidSymbol.svg [285]ZSSPM3.6.png
+   [286]Zero Suit Samus
+   [287]MetroidSymbol.svg
+   [288]Kirby SSBB.jpg
+   [289]Kirby
+   [290]KirbySymbol.svg [291]Meta Knight SSBB.jpg
+   [292]Meta Knight
+   [293]KirbySymbol.svg [294]King Dedede SSBB.jpg
+   [295]King Dedede
+   [296]KirbySymbol.svg [297]Fox SSBB.jpg
+   [298]Fox
+   [299]StarFoxSymbol.svg [300]Falco SSBB.jpg
+   [301]Falco
+   [302]StarFoxSymbol.svg [303]Wolf SSBB.jpg
+   [304]Wolf
+   [305]StarFoxSymbol.svg [306]Pikachu SSBB.jpg
+   [307]Pikachu
+   [308]PokemonSymbol.svg
+   [309]Jigglypuff SSBB.jpg
+   [310]Jigglypuff
+   [311]PokemonSymbol.svg [312]PMMewtwo.png
+   [313]Mewtwo*
+   [314]PokemonSymbol.svg [315]Squirtle SSBB.png
+   [316]Squirtle
+   [317]PokemonSymbol.svg [318]Ivysaur SSBB.png
+   [319]Ivysaur
+   [320]PokemonSymbol.svg [321]Charizard SSBB.png
+   [322]Charizard
+   [323]PokemonSymbol.svg [324]Lucario SSBB.jpg
+   [325]Lucario
+   [326]PokemonSymbol.svg [327]Captain Falcon SSBB.jpg
+   [328]Captain Falcon
+   [329]FZeroSymbol.svg
+   [330]Ness SSBB.jpg
+   [331]Ness
+   [332]EarthboundSymbol.svg [333]Lucas SSBB.jpg
+   [334]Lucas
+   [335]EarthboundSymbol.svg [336]Ice Climbers SSBB.jpg
+   [337]Ice Climbers
+   [338]IceClimberSymbol.svg [339]Marth SSBB.jpg
+   [340]Marth
+   [341]FireEmblemSymbol.svg [342]PMRoy.png
+   [343]Roy*
+   [344]FireEmblemSymbol.svg [345]Ike SSBB.jpg
+   [346]Ike
+   [347]FireEmblemSymbol.svg [348]Mr. Game & Watch SSBB.jpg
+   [349]Mr. Game & Watch
+   [350]Game&WatchSymbol.svg
+   [351]Pit SSBB.jpg
+   [352]Pit
+   [353]KidIcarusSymbol.svg [354]Wario SSBB.jpg
+   [355]Wario
+   [356]WarioSymbol.svg [357]Olimar SSBB.jpg
+   [358]Olimar
+   [359]PikminSymbol.svg [360]R.O.B. SSBB.jpg
+   [361]R.O.B.
+   [362]ROBSymbol.svg [363]Snake SSBB.jpg
+   [364]Snake
+   [365]MetalGearSymbol(preUltimate).svg [366]Sonic SSBB.jpg
+   [367]Sonic
+   [368]SonicSymbol.svg
+
+   * Characters not in Brawl
+
+Stages[[369]edit]
+
+   The Stage Selection Screen in Project M 3.6
+   Stages
+   Stage Changes ASL Stage Changes ASL
+   [370]Battlefield Brawl.png
+   [371]Battlefield Stage layout slightly tweaked to match [372]Melee's Battlefield. [373]Melee Battlefield (PM 3.6).png
+   [374]Battlefield (Melee) [375]Bigblue.jpg
+   [376]Big Blue
+   [377]Brinstar brawl.jpg
+   [378]Brinstar [379]PlanetZebesSSB.png
+   [380]Planet Zebes [381]CastleSiegeStaticPM.jpg
+   [382]Castle Siege Does not transform. Makes a reference to the title artwork of Fire Emblem: Radiant Dawn, which depicts the characters in a twilight sky. [383]Castle Siege Brawl.png
+   [384]Castle Siege (Brawl)
+   [385]Corneria full.jpg
+   [386]Corneria [387]SectorZSSB.png [388]Sector Z [389]Hanenbow PM 3.5.png
+   [390]Hanenbow Layout changed to a center-based design based off a potted plant. The leaf-like platforms still rotate slightly when they are attacked. The flower at the top now blooms constantly, instead of only when all platforms are turned red. Also includes a new Hanenbow theme remix by Garrett Williamson. [391]Hanenbow.jpg
+   [392]Hanenbow (Brawl)
+   [393]Dream Land PM 3.5.jpg
+   [394]Dream Land HD Replaces [395]Green Greens, as well as "Fountain of Dreams" theme with Smash 64's Dream Land theme. Has new visual upgrade for 3.5 which makes it resemble more of [396]Melee's Green Greens. [397]Dreamland Retro PM.jpg
+   [398]Dream Land [399]ProjectM DistantPlanet.png
+
+   [400]Distant Planet
+   Originally an arena from [401]SSE: [402]The Jungle^[403][4], until versions 3.0 and later refurbished it with a [404]Pikmin theme. It consists of a large base and four platforms, the outermost of which are slightly raised leaves that hang over the main platform's edges and will droop when stood on. [405]Pikmin1.jpg
+   [406]Distant Planet (Brawl)
+   [407]Final Destination Melee.png
+   [408]Final Destination Changed to Melee's version. Also replaces "Opening (Super Smash Bros. Melee)" with "Multi-Man Melee 2". [409]Flat Zone 2.PNG
+   [410]Flat Zone 2
+   [411]Fountainofdreams.jpg
+   [412]Fountain of Dreams Replaces [413]Mario Bros., as well as its theme song with Fountain of Dreams' track. [414]Fourside Melee.png
+   [415]Fourside Replaces Porky's Theme with Fourside's theme. [416]New Pork City1.jpg
+   [417]New Pork City
+   [418]Frigate Orpheon.jpg
+   [419]Frigate Orpheon [420]ProjectM GreenHillZone.png
+
+   [421]Green Hill Zone
+   Redone entirely. It is now a medium sized stage with a proper bottom blast line and no hazards or breakable sections. There is a single moving platform which rotates around a central point above the main platform. [422]Green Hill Zone.jpg
+   [423]Green Hill Zone (Brawl)
+   [424]Battleship Halberd.jpg
+   [425]Halberd Raised ceiling blast-zone and removed claw. [426]Zelda64Stage HD PM.png
+   [427]Hyrule Castle HD Tornado hazards removed. Replaces [428]Bridge of Eldin, and "The Hidden Village" theme with Hyrule Castle's. Given visual upgrade in v3.5 which resembles more of Hyrule Castle from Ocarina of Time, along with Hyrule Field and the owl character Kaepora Gaebora. [429]Hyrule Castle Retro PM.jpg
+   [430]Hyrule Castle
+   [431]Bridge of Eldin.jpg
+   [432]Bridge of Eldin
+   [433]Congo Jungle PM.png
+   [434]Kongo Jungle No Barrel Cannon. Replaces [435]75m, and "25 BGM" theme with Kongo Jungle's. [436]Peach Castle HD PM.png
+   [437]Peach's Castle HD No [438]Bumper hazard. Replaces [439]Rainbow Cruise and the Princess Peach's Castle (Melee) theme with Track 5 from [440]Super Smash Bros. HD remake has the castle and the background redesigned in reference to the Tower of the Wing Cap from Super Mario 64 and its DS remake. [441]PeachCastleSSB.jpg
+   [442]Peach's Castle
+   [443]Rainbow Cruise.jpg
+   [444]Rainbow Cruise
+   [445]Lylat Cruise.jpg
+   [446]Lylat Cruise Stage doesn't tilt. [447]Lylat Cruise.jpg
+   [448]Lylat Cruise (Brawl) [449]Metal Cavern PM 3.5.jpg
+   [450]Metal Cavern HD Remade [451]Meta Crystal, replaces [452]Mushroomy Kingdom and "Ground Theme (Super Mario Bros.)" with the Metal Battle theme from Melee, "Ground Theme 2 (Super Mario Bros.) with Metal Mario's theme from Smash 64, and both "Gritzy Desert" and "Underground Theme (Super Mario Bros.)" with the Metal Cavern theme. Given a visual upgrade for 3.5 which resembles the Cavern of the Metal Cap from Super Mario 64. [453]MetaCrystal.png
+   [454]Meta Crystal
+   [455]Norfair2.png
+   [456]Norfair Different layout with two slowly moving platforms and all hazards removed. [457]Norfair1.jpg
+   [458]Norfair (Brawl) [459]Onett.jpg
+   [460]Onett Cars cause much more knockback.
+   [461]PictoChatBoat.png
+   [462]Pictochat Some transformations removed. Some previously impassable platforms can now be passed through. [463]Pirateship.jpg
+   [464]Pirate Ship Hazards made weaker.
+   [465]Pokemon-stadium-2.png
+   [466]Pokémon Stadium 2 No stage transformations. Replaces [467]Pokémon Stadium in v3.6, but still uses its own song list. Center platform has a Master Ball drawing, and small televisors at the background display "Project M". [468]Pokemon Stadium 1 PM.jpg
+   [469]Pokémon Stadium [470]ProjectM RumbleFalls.png
+
+   [471]Rumble Falls
+   Completely redone without scrolling. Neutral stage with a main platform and three smaller platforms in an unusual configuration. [472]Rumble Falls Brawl.png
+   [473]Rumble Falls (Brawl)
+   [474]Saffron City HD PM.png
+   [475]Saffron City HD No Pokémon spawn. Replaces [476]Pokémon Stadium 2 in v3.6, but uses [477]Pokémon Stadium's song list. It used to replace [478]Spear Pillar in v3.5 and below. Received a visual upgrade in v3.6, based off how it appears in Pokémon FireRed and LeafGreen, along with it now having a day and night cycle. [479]SaffronCitySSB.png
+   [480]Saffron City [481]Shadow Moses Island.jpg
+   [482]Shadow Moses Island
+   [483]Skyworld PM.png
+   [484]Skyworld Main platform made unbreakable and other platforms made into clouds. [485]Skyworld1.jpg
+   [486]Skyworld (Brawl) [487]Smashville1.jpg
+   [488]Smashville Replaces "Town Hall and Tom Nook's Store" with "Kick's Twilite Funk" and "The Roost" with "Title (Animal Crossing) Ver. M"
+   [489]Infinite Glacier PM.png
+   [490]Infinite Glacier Replaces [491]Summit. Features two main platforms with icy properties connected by a trap door that occasionally opens, with several cloud platforms and one ice platform flying around. Also features the [492]Balloon Fighter from [493]Balloon Fight as a cameo in the background. [494]The Summit.jpg
+   [495]Summit [496]Hyrule Temple.jpg
+   [497]Temple [498]ProjectM Skyloft.png
+   [499]Skyloft
+   [500]ProjectM TrainingRoom.png
+
+   [501]Training Room
+   Large stage with checkered surfaces, a wall at the left and a pit at the right, designed with a lot of open area for practicing. Features a [502]sandbag that respawns in the middle when knocked out. Replaces [503]Online Practice Stage. The same stage but without three small platforms. [504]WarioLandPM.png
+   [505]Wario Land Identical to WarioWare in Brawl, but with microgames removed and aesthetic changes made. Also replaces the song "WarioWare, Inc." with "Bad Mario". [506]WarioWare4.jpg
+   [507]WarioWare, Inc.
+   [508]Yoshi's Island
+   [509]Yoshi's Island Platform ghosts now appear at predetermined intervals, with white [510]Fly Guys signaling their appearance. Yoshi's Island (Melee) theme replaces Flower Fields [511]Link=Yoshi's Island (SSBM)
+   [512]Yoshi's Island (Melee) [513]Yoshi'sStory.PNG
+   [514]Yoshi's Story No Fly Guys. Replaces [515]Yoshi's Island (SSBM) Also replaces "Super Mario Bros. 3" theme with Yoshi's Story's and Yoshi's Island (Melee)'s theme with Yoshi's Island 64's. [516]YoshisStorySSB.png
+   [517]Yoshi's Island
+   [518]Port Town Aero Dive
+   [519]Port Town Aero Dive [520]Luigi's Mansion.jpg
+   [521]Luigi's Mansion
+   [522]Delfino Secret PM.png
+   Delfino's Secret Replaces [523]Delfino Plaza and its theme. Used to be the [524]Dracula's Castle stage from [525]Castlevania, until v3.6 beta. [526]Delfino Plaza.jpg
+   [527]Delfino Plaza [528]Bowser Castle PM.png
+   Bowser's Castle Replaces [529]Mario Circuit and its theme. Bowser's Castle (alternate competitive layout)
+   [530]JungleJapes.jpg
+   [531]Jungle Japes [532]SpearPillar.jpg
+   [533]Spear Pillar
+
+Turbo Mode[[534]edit]
+
+   An image of the Turbo item.
+
+   In version 3.0, the [535]Curry effect was replaced with the "Turbo" effect. In Turbo mode, players can cancel any successful attack, upon hit or shield, into any other action except the same attack, and all [536]aerial attacks [537]auto cancel when landing if they hit. Certain moves, such as [538]Farore's Wind, consist of multiple actions and can thus be canceled into themselves. Turbo Mode has been compared to the Marvel vs. Capcom series because it enables skilled players to perform extensive [539]combos.
+
+   Turbo mode can are selectable from the [540]Special Brawl menu, or temporarily granted by the "Turbo" item, which replaces [541]Superspicy Curry. While in Turbo Mode, characters emit faint purple flame effects (compared to the red flame effects of Curry).
+
+   Turning Input Assist on removes the same-attack restriction.
+
+   Notable Turbo-related resources:
+     * [542]The official Turbo Mode blog post.
+     * [543]Melee Impossible, the original inspiration for Turbo Mode.
+     * [544]The official Turbo Tuesdays playlist, beginning with the April Fools video that revealed Turbo mode.
+     * [545]Going Turbo, by Sethlon. The first Turbo combo video to feature no tool assisted inputs.
+
+Tier list[[546]edit]
+
+   The PMDT did not publish an official [547]tier list. On March 26th, 2014, [548]CLASH Tournaments published [549]a preliminary tier list for version 3.02, followed by [550]a finalized tier list on November 14th, 2014. [551]Mewtwo notably received a perfect score of 10 out of 10, putting it in its own tier, the God Tier.
+
+   No tier list was ever released for version 3.5, though it was a general agreement that only two characters could be considered "bottom tier": [552]Olimar, whose recovery was too unreliable, and the [553]Ice Climbers, who suffered from a physics glitch that often caused [554]Nana to self-destruct.
+
+   Version 3.6 fixed the Ice Climbers' and Olimar's issues, and a second [555]tier list for version 3.6 was later released. Many fighters that did poorly in Melee and Brawl saw large improvements in their tier placings. Examples include [556]Mewtwo going from the low tier in Melee to the top tier in Project M, and [557]Captain Falcon notably going from the bottom tier in Brawl to the top tier of Project M.
+
+   The Project M Backroom recently released a third [558]tier list for version 3.6, which, published September 9th 2017, is the most recent and widely accepted one. [559]Donkey Kong, [560]Ice Climbers, and [561]Sonic rose the most on the tier list, while [562]R.O.B., [563]Roy, and [564]Fox dropped the most. [565]Mewtwo entered the top three again, while [566]Kirby and [567]Bowser remained the second worst and worst characters in the game, respectively.
+                                                                                                                                                                                                                             Project M 3.6 Tier List v3
+                              S                                                                                                    A                                                                                                                                                                                                          A-
+   1                             2                          3                       4                            5                             6                               7                             8                            9                                10                        11                            12                         13                               14                       15                          16
+   [568]MetaKnightIcon(SSBB).png [569]WolfIcon(SSBB).png    [570]MewtwoIcon(PM).png [571]DiddyKongIcon(SSBB).png [572]WarioIcon(SSBB).png      [573]MrGame&WatchIcon(SSBB).png [574]SheikIcon(SSBB).png      [575]FoxIcon(SSBB).png       [576]CaptainFalconIcon(SSBB).png [577]SonicIcon(SSBB).png  [578]DonkeyKongIcon(SSBB).png [579]SnakeIcon(SSBB).png   [580]ZeroSuitSamusIcon(SSBB).png [581]PeachIcon(SSBB).png [582]LucasIcon(SSBB).png    [583]IceClimbersIcon(SSBB).png
+                                                                                                                     B                                                                                                                                                                                                                                       C
+   17                            18                         19                      20                           21                            22                              23                            24                           25                               26                        27                            28                         29                               30                       31                          32
+   [584]MarthIcon(SSBB).png      [585]LucarioIcon(SSBB).png [586]NessIcon(SSBB).png [587]MarioIcon(SSBB).png     [588]ToonLinkIcon(SSBB).png   [589]FalcoIcon(SSBB).png        [590]PikachuIcon(SSBB).png    [591]CharizardIcon(SSBB).png [592]IkeIcon(SSBB).png           [593]LuigiIcon(SSBB).png  [594]SamusIcon(SSBB).png      [595]IvysaurIcon(SSBB).png [596]RoyIcon(PM).png             [597]LinkIcon(SSBB).png  [598]SquirtleIcon(SSBB).png [599]ROBIcon(SSBB).png
+                                                                                                                                                                                           D                                                                                                                                                                   D-
+                                                                                    33                           34                            35                              36                            37                           38                               39                                                      40                         41
+                                                                                    [600]YoshiIcon(SSBB).png     [601]KingDededeIcon(SSBB).png [602]PitIcon(SSBB).png          [603]JigglypuffIcon(SSBB).png [604]GanondorfIcon(SSBB).png [605]ZeldaIcon(SSBB).png         [606]OlimarIcon(SSBB).png                               [607]KirbyIcon(SSBB).png   [608]BowserIcon(SSBB).png
+
+Release history[[609]edit]
+
+Demo 1.0[[610]edit]
+
+   Logo of Demo 1.0
+
+   Released February 8, 2011
+     * 14 characters available
+          + [611]Captain Falcon
+          + [612]Falco
+          + [613]Fox
+          + [614]Ganondorf
+          + [615]Jigglypuff
+          + [616]Link
+          + [617]Lucas
+          + [618]Mario
+          + [619]Marth
+          + [620]Mr. Game & Watch
+          + [621]Sheik
+          + [622]Snake
+          + [623]Sonic
+          + [624]Zelda
+
+Demo 2.0[[625]edit]
+
+   Logo of Demo 2.0
+
+   Released April 17, 2012
+     * Added 15 characters
+          + [626]Bowser
+          + [627]Charizard
+          + [628]Donkey Kong
+          + [629]Ike
+          + [630]King Dedede (shown and voiced by the announcer as "Dedede" on the character selection screen)
+          + [631]Lucario
+          + [632]Luigi
+          + [633]Ness
+          + [634]Peach
+          + [635]Pikachu
+          + [636]Pit
+          + [637]R.O.B.
+          + [638]Toon Link
+          + [639]Wario
+          + [640]Wolf
+
+Demo 2.1[[641]edit]
+
+   Logo of Demo 2.1
+
+   Released May 23, 2012
+     * The following, but not limited to, changes:
+          + Carrier items such as [642]crates and [643]capsules no longer explode.
+          + Random character select no longer favors [644]Mario.
+          + Re-introduction of Brawl's [645]footstools, now done with the down [646]taunt input.
+          + The unlockable menus in Brawl are now selectable.
+          + Momentum at end of dashes and moonwalks now preserves properly.
+          + AI can now [647]wavedash.
+     * Skyloft, from the The Legend of Zelda: Skyward Sword, is added, replacing [648]Hanenbow.
+
+Demo 2.5[[649]edit]
+
+   Logo of Demo 2.5
+
+   Released December 29, 2012
+     * Added 4 characters
+          + [650]Diddy Kong
+          + [651]Ivysaur
+          + [652]Squirtle
+          + [653]Zero Suit Samus
+
+   The following are in the release, but not limited to:
+     * [654]Ledge teching implemented.
+     * Melee's [655]knockback stacking implemented.
+     * Input Assistance and Stock Control implemented.
+     * Input Lag from Brawl is fixed.
+     * New aesthetic changes which include new palette swaps for the characters and new menu designs.
+     * Every character's AI has got updates to various degrees.
+
+Demo 2.5b[[656]edit]
+
+   Released January 6, 2013
+     * Various fixes:
+          + Entering an existing name will bring the player to the name.
+          + Demonstration battles after the title screen are less likely to freeze.
+          + It takes 9 minutes for the audio to fade instead of 3 in the WiFi set.
+
+Demo 2.6[[657]edit]
+
+   Logo of Demo 2.6
+
+   Released July 17, 2013
+     * Added [658]Meta Knight to the roster
+
+   The PMDT announced Project M 2.6 along with their new website design.
+
+Demo 2.6b[[659]edit]
+
+   Logo of Demo 2.6b
+
+   Released August 15, 2013
+     * Extended the use of the [660]footstools to the side and up taunts.
+          + Also, footstooling someone who is under paralyze does not put them in the jumped-off-of animation.
+     * When a character is respawning, the camera refocuses instead of staying focused on the characters that are currently still alive.
+     * All armor has been standardized via knockback as light, medium, or heavy. There are color indicators for the characters that have armor during their moves, such as red for [661]Bowser and blue for [662]Squirtle, with more opaque overlays typically indicating stronger armor.
+     * The removal of [663]Screen KOs.
+     * All music tracks are available regardless of being unlockable.
+
+v3.0[[664]edit]
+
+   Logo of version 3.0
+
+   Released December 9, 2013
+     * Added 7 characters
+          + [665]Ice Climbers
+          + [666]Kirby
+          + [667]Olimar
+          + [668]Samus
+          + [669]Yoshi
+          + [670]Mewtwo
+          + [671]Roy
+     * Formerly, an April Fools' video^[672][5] announced that 3.0 would contain a gameplay change where all connected moves would cancel into any other move/action on hit. While the change being universal was a joke, it finally became available as the Turbo Mode for [673]Special Brawl, replacing the [674]Curry option. In addition, the [675]Superspicy Curry item was changed, but the duration is still the same.
+     * [676]Princess Peach's Castle added, [677]Norfair and [678]Distant Planet revamped, Training Room stage added.
+     * Numerous alternate costumes for several characters added, including [679]Dr. Mario, and the Melee renditions of [680]Falco and [681]Fox
+
+   The mod officially leaves the "Demo" development and is now an official mod. 3.0 also marks the first version to contain the entire Brawl roster, along with [682]Roy and [683]Mewtwo, and becomes the final roster onwards.
+
+v3.01[[684]edit]
+
+   Released January 11, 2014
+     * A new launcher is released with the following features:
+          + Support for SDHC cards larger than 2GB (Hackless method still limited to 2GB, an exception being Letterbomb).
+          + A news ticker will display current news for Project M which will update if the Wii has a connection to the Internet.
+          + The ability to update and patch both the Launcher and the version of Project M. If 3.0 is present on the SD card, the Launcher can automatically download and update to version 3.01.
+          + Faster and more reliable file loading.
+     * Fixed the lag from the imported models such as [685]Roy, [686]Mewtwo and the alternative costumes.
+     * Salty Runbacks (of [687]20XX recognition) implemented. Holding L+R+Y at the end of a match or L+R+A+Y+Start at the pause screen will cause the match to restart with the same characters and stage. This feature is not available on [688]Pokémon Stadium 1, [689]Lylat Cruise, or [690]Castle Siege. Similarly, it's possible to abort a stage loading by holding L+R+A, as in Melee, but faster loading times make this more difficult to perform.
+     * Various bug fixes, including (but not limited to) the following:
+          + [691]Roy's Final Smash is reworked and no longer causes game-breaking glitches.
+          + Many of [692]Kirby's copy abilities updated.
+
+v3.02[[693]edit]
+
+   Released January 13, 2014
+     * Various bug fixes:
+          + WiFi codeset fixed to have the proper codes and menu descriptions.
+          + [694]Nana no longer disappears instantly on [695]Norfair.
+          + [696]Jigglypuff, [697]Ness, and [698]Lucas no longer get stuck in water.
+          + [699]Giga Bowser causing crashes when on the Green Team has been fixed.
+          + [700]Squirtle, [701]Yoshi, and [702]Olimar now properly attack/roll on-stage when above 100% on [703]Yoshi's Island (Brawl).
+          + The Random option under "Stage Choice" doesn't crash anymore.
+          + Removed the color bars and caution signs from the character select portraits.
+
+v3.5[[704]edit]
+
+   Logo of version 3.5.
+   The new Stamina Mode in Project M 3.5
+
+   Released November 14, 2014
+
+   Various character changes to adjust game balance, most especially to nerf recoveries and burst movement options that were seen as overpowered in previous versions.
+     * SNES Captain Falcon, Smash 64 Falcon, Polar Bear Ice Climbers, Melee Zelda, Melee Sheik, Melee Ganondorf, Team Rocket Mewtwo, Fighting- and Steel-type Black Belt Lucario, sideways FRLG Red cap Pikachu, Ninja Squirtle, Armored Charizard, Fusion Suit Samus, Light Suit Samus, Dark Samus, Melee Samus, Classic Pit, Dark Meta Knight, Hector Ike, Sigurd Marth, Shadow Sonic, Tails Sonic, and Silver Sonic added as alternate costumes.
+     * Alternate team colors added for [705]Donkey Kong, [706]Wolf, [707]Toon Link, [708]Ganondorf, [709]Ness, [710]Dedede, [711]Ike, and [712]Marth.
+     * [713]Metal Cavern, [714]Hyrule Castle, and [715]Dream Land have been given major graphical overhauls.
+     * The [716]Subspace Emissary is now available, as it is mostly functional.
+     * Debug commands are added, which allow players to access features such as viewing hitboxes, hitstun, invincibility, pushboxes, and ledge sweetspots, halting the game and advancing it one frame at a time, fixing the camera at a specific location, and character switches on the fly.
+     * [717]Screen KOs have been re-implemented, but with a change in the animation length to be the same as [718]Star KOs.
+     * All-Star Versus mode is added. By default, the player's selected character is their first stock; following stocks are random characters.
+     * Reworked Stamina mode to allow for multiple stocks, normal knockback scaling rather than the set knockback of Brawl's Stamina Mode, and "world wrap lines" to replace the standard blast lines.
+     * [719]Rotation mode now works with [720]Roy, [721]Mewtwo, and alternate costumes.
+     * Several [722]Event matches have been revamped, moved, or replaced, either to add in popular Melee happenings such as [723]The Showdown and the [724]Bowser Challenge, or out of necessity due to the event scenario centering on a now-removed stage (such as [725]Super Bowser Bros.).
+     * [726]Squirtle, [727]Ivysaur, and [728]Charizard have all been given functional Final Smashes of their own.
+     * [729]Jungle Japes has been deleted.
+     * [730]Hanenbow revamped to be more suitable for Turbo Mode.
+     * [731]The Summit's aesthetics would be carried into a new stage, Infinite Glacier, which replaces the aforementioned stage.
+     * Impact font replaces Brawl's font in the menus.
+     * The addition of [732]Mewtwo's and [733]Roy's voices in v3.0 were done by overwriting those of [734]Galleom and [735]Duon respectively, resulting in atypical sound effects when fighting either boss . A fix for this in v3.5 now have the characters share voices with their clone engine counterparts.
+     * In v3.0, the [736]Timer item would cause highly atypical momentum behavior when activated^[737][6]; this was fixed in v3.5 .
+
+v3.6β[[738]edit]
+
+   Logo of version 3.6β
+
+   Released June 24th, 2015
+     * A new black armored Charizard recolor, Mr. L recolors, an orange recolor for Diddy Kong, a revamped red Pit color, Classic Dark Pit, Mario Kart DS ROB, Wii ROB, Dark Suit Samus, as well as graphical upgrades for some of [739]Samus, [740]Meta Knight, and [741]Zero Suit Samus' costumes from 3.5.
+     * Various bug fixes (notably, the bugs and glitches that plagued [742]Olimar and the [743]Ice Climbers in 3.5).
+     * The addition of [744]Zero-to-death Mode (labeled in-game as "Regen Mode" to fit the available space in the Special Versus box), in which a player's damage is reset to 0% when they escape from a combo.
+     * The option to have automatic [745]L-canceling.
+     * New [746]announcer--Brian Mckeever
+     * The return of several Brawl stages such as [747]Luigi's Mansion and [748]Spear Pillar.
+     * HD remakes for the [749]Saffron City and [750]Peach's Castle stages.
+     * Alternate Stage Loader has been added, and is activated by holding the L button on the stage selection screen, and pressing A while highlighted on a stage. Past stages such as [751]Planet Zebes, [752]Yoshi's Island, and [753]Sector Z are alternates to their corresponding Melee stages, theme-wise. Some stages like [754]Pokémon Stadium is the alternate for [755]Pokémon Stadium 2 to make room for returning Brawl stages. Brawl originals of PM-modified stages like [756]The Summit, [757]Distant Planet, [758]Skyworld, and [759]Green Hill Zone are alternates to their slots.
+     * Removal of Dracula's Castle due to legal reasons, as well as the removal of [760]Princess Peach's Castle and [761]Rainbow Cruise.
+     * New music for [762]Smashville, [763]Metal Cavern, and the newly added stages.
+     * A new Bowser's Castle stage.
+     * A new Delfino's Secret stage, replacing the aforementioned Dracula's Castle, although having the same layout.
+
+v3.6[[764]edit]
+
+   Logo of version 3.6
+
+   Released August 16th, 2015
+     * Kane Jungbluth-Murry replaces Brian Mckeever as the announcer.
+     * [765]WarioWare revamped into a Wario Land themed stage, with the original Brawl version available as an alternate stage.
+     * The return of [766]Rainbow Cruise and [767]Bridge of Eldin as alternate stages for [768]Peach's Castle and [769]Hyrule Castle, respectively.
+          + Only applying to the latter two stages, players have access to "Hidden Alternate Stages" by holding the Z button. This accesses the N64 versions of [770]Peach's Castle and [771]Hyrule Castle.
+     * A competitive version of the Bowser's Castle stage added as an alternate stage to the original.
+
+Errors[[772]edit]
+
+   A graphical glitch that occurs if the winning character is KOed at the end of a match and has another character in their next stock.
+
+   Due to Project M's focus on the competitive aspect of the game, the mod experiences some errors regarding non-competitive aspects:
+     * For the same reason that a Wifi-safe version of the mod exists (with fewer features to prevent online desynchronization), replays often become corrupted or fail to work properly.
+          + When viewing Brawl replays in Project M, and the replay goes past its time limit (due to corruption), the game will simply fast forward the replay until a definitive end (i.e., running out of time, quitting out of the replay).
+     * Fixed-camera mode is completely dysfunctional on numerous stages, often by being off-center, such as on [773]Yoshi's Story or [774]Hyrule Castle. On some stages, the player can even see the transition from hitting the upper [775]blast line to a [776]Star KO.
+     * Because of flaws involving Roy and Mewtwo's assets, as well as those of new alternate costumes, the mod freezes when players try to pick a character in [777]Tournament Mode. The mod would reroute players to [778]Rotation mode starting with version 3.5.
+     * [779]Roy's and [780]Mewtwo's voices are still audible while they are [781]metal.
+     * Most events either have infinite time due to stage changes (such as [782]The Yoshi Team of 50) or automatically fail the players from time limits quickly reaching 0 seconds (such as [783]All MINE! and [784]The Great Remodeling Battle)
+     * In [785]events that allow choosing any character, choosing [786]Mewtwo or [787]Roy will make the game think that [788]Lucario or [789]Marth, respectively, have been chosen. This matters in terms of deciding whether to apply an alternate costume to an opponent.
+     * Because [790]Sheik, [791]Zelda, [792]Samus, and [793]Zero Suit Samus have individual character slots, this can give two players the same palette swap if the corresponding characters transform into each other, without even using the [794]same color glitch.
+     * There are a few glitches that exist with the debug commands:
+          + The debug toggle and its commands can be activated at any point during the game, including the menus, though the player will only see the effects of the frame advance commands. However, the players have to delete the debug mode file to prevent this from happening.
+          + When using the character switch command with an alternate costume, there is the potential for no character to appear after the switch. This is due to some characters not having their alternate costume. For example, switching to [795]Diddy Kong from [796]Captain Falcon wearing his classic costume will cause no character to spawn at all because Diddy Kong does not have an 8th palette swap like [797]Captain Falcon does. Attempting to exit out of a match while this glitch is in effect will freeze the game. The character switch command will also not work properly in stadium game modes or one-player modes.
+          + C-stick is not functional during frame advance
+     * In All-Star Versus, if the winning character is KO'd at the end of the match and has a different character in their next stock, the results screen will show the next character, but announce the name of the character that was KO'd.
+          + Version 3.5 onwards, [798]Roy and [799]Mewtwo will not spawn. Also, one of the [800]Pokémon Trainer's [801]Pokémon would replace [802]Mewtwo, and attacking them would freeze the mod.
+     * [803]The Subspace Emissary, while playable, contains several avoidable glitches (mostly quoted from website archive):
+          + It is naturally not possible to play as [804]Mewtwo or [805]Roy, since they can never be met to join the roster.
+          + SSE uses standard attributes from Brawl.
+          + Before entering SSE, some codes need to be initialized by starting a regular match first. Most notably, Dark Ice Climbers in [806]The Great Maze will crash otherwise.
+          + Certain reflections, such as [807]Ganondorf's Dead Man's Volley, don't work.
+          + The Turbo item sometimes gives both the turbo and [808]curry effect.
+          + Certain physics codes, such as being able to wall jump on the same wall twice, are not active in SSE.
+          + Resulting from replacements of stages and their corresponding music, some predetermined tracks played in the SSE become out of place (e.g. the peaceful [809]Fourside music playing instead of [810]Porky's Theme during the battles against the [811]Porky Statue and [812]Porky Minch).
+          + [813]Pokémon Trainer related glitches:
+               o Pokémon Trainer is listed as [814]Mewtwo in cutscenes.
+               o Pokémon Trainer (after obtaining all three Pokémon) defaults to [815]Charizard as usual, and Charizard can switch to [816]Squirtle via [817]Pokémon Change, but Squirtle can't switch (the Trainer will call "Get back!" but Squirtle will use [818]Bubble).
+                    # During at least some [819]ambushes, switching out [820]Charizard will fail to send out [821]Squirtle, causing the game to softlock with no controllable character on-screen.
+               o Using a costume over the default Pokémon slots (particularly [822]Squirtle) can put the player over the memory limit and crash.
+               o If [823]Kirby is in the player's party when the player fights Dark Pokémon Trainer in [824]The Great Maze or vice versa in [825]The Great Maze or the [826]Midair Stadium, the game will crash.
+               o In 2 player SSE, if Player 2 is Pokémon Trainer, Player 1 cannot interact with doors properly.
+               o Losing as Pokémon Trainer in certain fights can cause crashes.
+     * When [827]Snake uses [828]Codec Conversations on [829]Mewtwo or [830]Roy, the conversation for [831]Mario plays.
+     * Likewise, Mewtwo and Roy's records are saved as Lucario and Marth's records
+     * During Challenger Approaching events, if the player is using the same character as the one they are trying to "unlock", both the player and CPU will have the same palette swap.
+
+Downloading instructions[[832]edit]
+
+   The mod can be downloaded [833]here and requires only an SD card, non-PAL Wii or Wii U, and a non-PAL Brawl disc.
+
+   Hackless Method:
+
+   IFRAME: [834]https://www.youtube.com/embed/2WB9IX2M4uQ?
+
+   Homebrew Method:
+
+   IFRAME: [835]https://www.youtube.com/embed/Y_-brk7b5qI?
+
+Developers[[836]edit]
+
+   The team has dissolved after ending the development of Project M, but they are of course still credited.
+     * Project Leaders: SHeLL, [837]Magus, [838]Strong Bad, jiang, [839]Shadic, haloedhero, Yeroc, Shanus
+     * Playtesters: Historically, the PMDT has had playtesters such as [840]Hungrybox, [841]Mango, [842]Lucky, [843]KirbyKaze, [844]Amsah, and many more. The last playtester team before the end of development consisted of [845]Gimpyfish62, [846]TheReflexWonder, [847]Fuzzyness, [848]Professor Pro, [849]Fly Amanita, [850]Jolteon, and many, many others.
+     * Graphics/Menu Design: FireBall Stars, ds22
+     * Animation: haloedhero, Ztilb, SiLeNtDo0m
+     * Stage Design: [851]Mewtwo2000, Shadic, Vanguard, SOJ, LlamaJuice, Sandfall
+     * Sound Team: Pete "Phonetic Hero" Lepley, Garrett Williamson, Riddlr
+
+Response from Nintendo[[852]edit]
+
+   Nintendo has not given an official response to Project M; policies enacted by the company, however, have suggested that it does not approve of the mod. One of its policies included issuing bans for mentioning Project M by name on any of Nintendo's [853]Miiverse channels because it allegedly constitutes "criminal activity". This included using the abbreviation "PM", which had the potential to result in [854]erroneous bans when talking about other games or series such as Paper Mario, although this was allowed on the Paper Mario Community, or when used for miscellaneous purposes (such as denoting the daily time-span between noon and midnight).
+
+   In October 2014, it was announced that Project M would be dropped from the lineup of [855]Apex 2015, with many qualifying tournaments also suspending their Project M events. While some qualifiers did feature Project M, no official online streams were available for such events apart from [856]B.E.A.S.T 5, which was streamed on [857]VGBootCamp; commentators on streams provided by VGBootCamp were also reportedly instructed to not mention Project M while on air. Nintendo had previously begun involving itself with the competitive community, such as through the [858]Super Smash Bros. Invitational at E3 and a video presentation from Nintendo of America's president [859]Reggie Fils-Aimé at the conclusion of [860]EVO 2014. It was strongly suspected this was due to Nintendo having involvement with the event. A later announcement in January 2015 said that Apex had officially partnered with Nintendo for Apex 2015, giving credence to this theory.
+
+   Since Apex 2015, many major tournaments dropped Project M from their game rosters. Also, VGBootCamp, which became well-known for popularizing the mod, later announced that they would no longer stream Project M, and subsequently removed all such content on their channel. All of these actions have attribution to either behind-the-scenes intervention by Nintendo or fears of encountering legal issues for featuring the game. Monetized streams on [861]Twitch reportedly also faced difficulties regarding streaming the game and its questionable legal status.
+
+   On December 1st, 2015, the Project M Development Team ultimately chose to conclude development of the mod, shutting down their official page, removing the download links from the site, and leaving a farewell message on the main page. Officially, the developers felt their work on the last version of Project M was complete, and the numerous group members chose to follow their original endeavors. Although a [862]tweet claimed the end of development was not the result of legal issues, a [863]later statement from a former member of the development team argued that Project M's development was in fact shut down as a preemptive measure for fears of potential legal action from Nintendo.
+
+Trivia[[864]edit]
+
+     * Project M coincidentally shares its name with the development team of [865]Metroid: Other M, which was a team of over 100 people, including staff from Nintendo, [866]Team Ninja, and D-Rockets.
+     * Since 2013, the Project M main site has posted fake news announcements to its news blog on April Fools' Day.
+          + In 2013, Turbo mode was introduced, with its corresponding video claiming that [867]Pichu would be playable in a future build. Turbo Mode later became a reality in version 3.0.
+          + In 2014, a tagteam character, the [868]"Ike Climbers", was introduced, featuring two Ikes working together similarly to the Ice Climbers. [869]Slippy Toad was also introduced as a playable character, ostensibly as a joke character that could not attack and could be easily KOed. The end of the video also implied that [870]Ridley would be playable, as a reference to speculation surrounding the then-unknown roster to Smash 4.
+          + In 2015, the PMDT [871]claimed that they would port Project M to the [872]Nintendo 64. All models in the game were given low-polygon counts as to simulate the limited graphics of the Nintendo 64, with the "[873]perfect attendance crew" using their models from Smash 64. There were replacements for all sound effects and music with those from the original game, and the video frequently featured speech balloons overlaid with humorous onomatopoeia as a reference to Smash 64's official artwork. The end of the video also implied that [874]Parasect, Pokémon number 47 in the Pokédex, would be added to the roster, as a reference to the number 47 that covertly appeared in past videos.
+     * [875]V-cancelling is the only Melee advanced technique to not return in this mod. This is because all of its updates were released before this technique was popularised.
+
+References[[876]edit]
+
+    1. [877]↑ [878]http://wii.ign.com/articles/122/1223403p1.html
+    2. [879]↑ [880]http://pmunderground.net/index.php/articles/9-articles/45-introducing-the-new-pmbr-and-pm-tier-list-2
+    3. [881]↑ [882]https://www.youtube.com/watch?v=v32q4tUHtBw
+    4. [883]↑ [884]https://web.archive.org/web/20130917221813/http://projectmgame.com/en/stages/sse-jungle
+    5. [885]↑ [886]http://www.youtube.com/watch?v=Z92MxCndZa4
+    6. [887]↑ [888]https://www.youtube.com/watch?v=Gohg6UKtXkI
+
+External links[[889]edit]
+
+     * [890]Official Project M Website (Only the stopping of development announcement is present.)
+     * [891]Archive of the official website
+     * [892]Mirror of download links
+     * [893]The Project M forum on SmashBoards
+     * [894]Project M subreddit
+     * [895]Project M YouTube channel
+
+   [896]v • [897]d • [898]e
+   [899]Playable characters in Project M
+   Playable characters [900]Bowser ([901]Giga Bowser) · [902]Captain Falcon · [903]Charizard · [904]Diddy Kong · [905]Donkey Kong · [906]Falco · [907]Fox · [908]Ganondorf · [909]Ice Climbers · [910]Ike · [911]Ivysaur · [912]Jigglypuff · [913]King Dedede · [914]Kirby · [915]Link · [916]Lucario · [917]Lucas · [918]Luigi · [919]Mario · [920]Marth · [921]Meta Knight · [922]Mewtwo · [923]Mr. Game & Watch · [924]Ness · [925]Olimar · [926]Peach · [927]Pikachu · [928]Pit · [929]R.O.B. · [930]Roy · [931]Samus · [932]Sheik · [933]Snake · [934]Sonic · [935]Squirtle · [936]Toon Link · [937]Wario ([938]Wario-Man) · [939]Wolf · [940]Yoshi · [941]Zelda · [942]Zero Suit Samus
+   [943]v • [944]d • [945]e
+   [946]Super Smash Bros. [947]gameplay mods
+   [948]Smash 64 [949]19XXTE
+    [950]Melee   [951]20XX Tournament Edition · [952]20XX Training Hack Pack · [953]Melee: SD Remix · [954]Universal Controller Fix
+    [955]Brawl   [956]Balanced Brawl · [957]Brawl+ · [958]Brawl- · Project M
+   Ads keep SmashWiki independent and free :)
+   Retrieved from "[959]https://www.ssbwiki.com/index.php?title=Project_M&oldid=1175625"
+   [960]Categories:
+     * [961]Mods
+     * [962]Project M
+
+Navigation menu
+
+Views
+
+     * [963]Article
+     * [964]Discussion
+     * [965]Edit this page
+     * [966]History
+
+Personal tools
+
+     * Not logged in
+     * [967]Talk
+     * [968]Contributions
+     * [969]Create account
+     * [970]Log in
+
+Navigation
+
+     * [971]Main page
+     * [972]Smash Bros. Ultimate
+     * [973]Smash Bros. 4
+     * [974]Smash Bros. Brawl
+     * [975]Smash Bros. Melee
+     * [976]Smash Bros. (64)
+     * [977]Characters
+     * [978]Stages
+     * [979]Modes
+     * [980]Items
+     * [981]Random page
+
+Search
+
+   ____________________ Go  Search
+
+Participate
+
+     * [982]Forum
+     * [983]Community portal
+     * [984]Recent changes
+     * [985]Help
+     * [986]Admin noticeboard
+     * [987]Discord server
+     * [988]YouTube channel
+
+Tools
+
+     * [989]What links here
+     * [990]Related changes
+     * [991]Special pages
+     * [992]Printable version
+     * [993]Permanent link
+     * [994]Page information
+
+   [995]Attribution-Share Alike 3.0 Unported
+   [996]Powered by MediaWiki
+     * This page was last edited on 22 January 2019, at 05:10.
+     * Content is available under [997]Attribution-Share Alike 3.0 Unported unless otherwise noted.
+     * [998]Privacy policy
+     * [999]About SmashWiki
+     * [1000]Disclaimers
+     * [1001]Mobile view
+
+References
+
+   Visible links
+   1. https://www.ssbwiki.com/index.php?title=Project_M&action=edit
+   2. https://www.ssbwiki.com/opensearch_desc.php
+   3. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&feed=atom
+   4. https://www.ssbwiki.com/Project_M#column-one
+   5. https://www.ssbwiki.com/Project_M#searchInput
+   6. https://www.ssbwiki.com/Project_M
+   7. https://www.ssbwiki.com/Gameplay_modification
+   8. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+   9. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+  10. https://www.ssbwiki.com/Super_Smash_Bros.
+  11. https://www.ssbwiki.com/Mewtwo_(PM)
+  12. https://www.ssbwiki.com/Roy_(PM)
+  13. https://www.ssbwiki.com/Brawl+
+  14. https://www.ssbwiki.com/Project_M#cite_note-1
+  15. https://www.ssbwiki.com/National_tournament
+  16. https://www.ssbwiki.com/Tournament
+  17. https://www.ssbwiki.com/The_Big_House_(tournament_series)
+  18. https://www.ssbwiki.com/Apex_2014
+  19. https://www.ssbwiki.com/Project_M#cite_note-2
+  20. https://www.ssbwiki.com/NTSC
+  21. https://www.ssbwiki.com/PAL
+  22. https://www.ssbwiki.com/Project_M#Universal_changes
+  23. https://www.ssbwiki.com/Project_M#Melee_based_changes
+  24. https://www.ssbwiki.com/Project_M#Brawl_based_changes
+  25. https://www.ssbwiki.com/Project_M#Other_changes_and_gameplay_tweaks
+  26. https://www.ssbwiki.com/Project_M#Characters
+  27. https://www.ssbwiki.com/Project_M#List_of_characters
+  28. https://www.ssbwiki.com/Project_M#Stages
+  29. https://www.ssbwiki.com/Project_M#Turbo_Mode
+  30. https://www.ssbwiki.com/Project_M#Tier_list
+  31. https://www.ssbwiki.com/Project_M#Release_history
+  32. https://www.ssbwiki.com/Project_M#Demo_1.0
+  33. https://www.ssbwiki.com/Project_M#Demo_2.0
+  34. https://www.ssbwiki.com/Project_M#Demo_2.1
+  35. https://www.ssbwiki.com/Project_M#Demo_2.5
+  36. https://www.ssbwiki.com/Project_M#Demo_2.5b
+  37. https://www.ssbwiki.com/Project_M#Demo_2.6
+  38. https://www.ssbwiki.com/Project_M#Demo_2.6b
+  39. https://www.ssbwiki.com/Project_M#v3.0
+  40. https://www.ssbwiki.com/Project_M#v3.01
+  41. https://www.ssbwiki.com/Project_M#v3.02
+  42. https://www.ssbwiki.com/Project_M#v3.5
+  43. https://www.ssbwiki.com/Project_M#v3.6.CE.B2
+  44. https://www.ssbwiki.com/Project_M#v3.6
+  45. https://www.ssbwiki.com/Project_M#Errors
+  46. https://www.ssbwiki.com/Project_M#Downloading_instructions
+  47. https://www.ssbwiki.com/Project_M#Developers
+  48. https://www.ssbwiki.com/Project_M#Response_from_Nintendo
+  49. https://www.ssbwiki.com/Project_M#Trivia
+  50. https://www.ssbwiki.com/Project_M#References
+  51. https://www.ssbwiki.com/Project_M#External_links
+  52. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=1
+  53. https://www.ssbwiki.com/Replay
+  54. https://www.ssbwiki.com/L
+  55. https://www.ssbwiki.com/R_button
+  56. https://www.ssbwiki.com/Online_desynchronization
+  57. https://www.ssbwiki.com/Griefing
+  58. https://www.ssbwiki.com/Crawl
+  59. https://www.ssbwiki.com/Wall_cling
+  60. https://www.ssbwiki.com/DACUS
+  61. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=2
+  62. https://www.ssbwiki.com/Freeze_frame
+  63. https://www.ssbwiki.com/Buffer
+  64. https://www.ssbwiki.com/Frame
+  65. https://www.ssbwiki.com/Falling_speed
+  66. https://www.ssbwiki.com/Gravity
+  67. https://www.ssbwiki.com/Air_dodging
+  68. https://www.ssbwiki.com/Helplessness
+  69. https://www.ssbwiki.com/Wavedash
+  70. https://www.ssbwiki.com/Metagame
+  71. https://www.ssbwiki.com/L-canceling
+  72. https://www.ssbwiki.com/SHFFL
+  73. https://www.ssbwiki.com/Combo
+  74. https://www.ssbwiki.com/Dash_dancing
+  75. https://www.ssbwiki.com/Crouch_canceling
+  76. https://www.ssbwiki.com/C-Stick
+  77. https://www.ssbwiki.com/Down_smash
+  78. https://www.ssbwiki.com/Down_tilt
+  79. https://www.ssbwiki.com/Jab
+  80. https://www.ssbwiki.com/Double_jump_cancel
+  81. https://www.ssbwiki.com/DI
+  82. https://www.ssbwiki.com/Ledge-cancel
+  83. https://www.ssbwiki.com/Jump-canceled_grab
+  84. https://www.ssbwiki.com/Powershielding
+  85. https://www.ssbwiki.com/Reflect
+  86. https://www.ssbwiki.com/Projectile
+  87. https://www.ssbwiki.com/Shieldstun
+  88. https://www.ssbwiki.com/Ledge
+  89. https://www.ssbwiki.com/Raptor_Boost
+  90. https://www.ssbwiki.com/Bowser_Bomb
+  91. https://www.ssbwiki.com/Ledge_recovery
+  92. https://www.ssbwiki.com/Edge_hop
+  93. https://www.ssbwiki.com/Edgehogging
+  94. https://www.ssbwiki.com/Hitstun_canceling
+  95. https://www.ssbwiki.com/Tumbling
+  96. https://www.ssbwiki.com/Tech
+  97. https://www.ssbwiki.com/Item
+  98. https://www.ssbwiki.com/Dash_attack
+  99. https://www.ssbwiki.com/Aerial
+ 100. https://www.ssbwiki.com/Grab_aerial
+ 101. https://www.ssbwiki.com/Air_dodge_grab
+ 102. https://www.ssbwiki.com/Hitstun
+ 103. https://www.ssbwiki.com/Knockback
+ 104. https://www.ssbwiki.com/Meteor_smash
+ 105. https://www.ssbwiki.com/Spike
+ 106. https://www.ssbwiki.com/Grab_release
+ 107. https://www.ssbwiki.com/Pummel
+ 108. https://www.ssbwiki.com/Grab
+ 109. https://www.ssbwiki.com/Lock
+ 110. https://www.ssbwiki.com/Jab_reset
+ 111. https://www.ssbwiki.com/Smash_attack
+ 112. https://www.ssbwiki.com/Charge
+ 113. https://www.ssbwiki.com/Stale-move_negation
+ 114. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=3
+ 115. https://www.ssbwiki.com/Charizard_(PM)
+ 116. https://www.ssbwiki.com/Wolf_(PM)
+ 117. https://www.ssbwiki.com/Saffron_City
+ 118. https://www.ssbwiki.com/Footstool_jump
+ 119. https://www.ssbwiki.com/Trip
+ 120. https://www.ssbwiki.com/Banana_Peel
+ 121. https://www.ssbwiki.com/Tech_chase
+ 122. https://www.ssbwiki.com/Dashing
+ 123. https://www.ssbwiki.com/Ganondorf_(PM)
+ 124. https://www.ssbwiki.com/Captain_Falcon_(PM)
+ 125. https://www.ssbwiki.com/Interruptibility
+ 126. https://www.ssbwiki.com/B-reversing
+ 127. https://www.ssbwiki.com/Captain_Falcon_(PM)
+ 128. https://www.ssbwiki.com/Falcon_Kick
+ 129. https://www.ssbwiki.com/Reverse_aerial_rush
+ 130. https://www.ssbwiki.com/DACUS
+ 131. https://www.ssbwiki.com/Kirby_(PM)
+ 132. https://www.ssbwiki.com/Donkey_Kong_(PM)
+ 133. https://www.ssbwiki.com/Diddy_Kong_(PM)
+ 134. https://www.ssbwiki.com/Tether_recovery
+ 135. https://www.ssbwiki.com/Wall_grapple
+ 136. https://www.ssbwiki.com/Edge-hog
+ 137. https://www.ssbwiki.com/Up_special_move
+ 138. https://www.ssbwiki.com/Mewtwo_(PM)
+ 139. https://www.ssbwiki.com/Teleport
+ 140. https://www.ssbwiki.com/R.O.B._(PM)
+ 141. https://www.ssbwiki.com/King_Dedede_(PM)
+ 142. https://www.ssbwiki.com/Super_Dedede_Jump
+ 143. https://www.ssbwiki.com/Meta_Knight_(PM)
+ 144. https://www.ssbwiki.com/Shuttle_Loop
+ 145. https://www.ssbwiki.com/Side_special_move
+ 146. https://www.ssbwiki.com/Captain_Falcon_(PM)
+ 147. https://www.ssbwiki.com/Raptor_Boost
+ 148. https://www.ssbwiki.com/Falco_(PM)
+ 149. https://www.ssbwiki.com/Falco_Phantasm
+ 150. https://www.ssbwiki.com/Meteor_cancel
+ 151. https://www.ssbwiki.com/Grab_release_glitch
+ 152. https://www.ssbwiki.com/Glide_toss
+ 153. https://www.ssbwiki.com/Gliding
+ 154. https://www.ssbwiki.com/Charizard_(PM)
+ 155. https://www.ssbwiki.com/Pit_(PM)
+ 156. https://www.ssbwiki.com/Meta_Knight_(PM)
+ 157. https://www.ssbwiki.com/Pit_(PM)
+ 158. https://www.ssbwiki.com/Armor
+ 159. https://www.ssbwiki.com/Ike_(PM)
+ 160. https://www.ssbwiki.com/Eruption
+ 161. https://www.ssbwiki.com/Bowser_(PM)
+ 162. https://www.ssbwiki.com/Ganondorf_(PM)
+ 163. https://www.ssbwiki.com/Flame_Choke
+ 164. https://www.ssbwiki.com/Yoshi_(PM)
+ 165. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=4
+ 166. https://www.ssbwiki.com/Unlock
+ 167. https://www.ssbwiki.com/Metal_Cavern
+ 168. https://www.ssbwiki.com/Kongo_Jungle_(SSB)
+ 169. https://www.ssbwiki.com/Dream_Land_(SSB)
+ 170. https://www.ssbwiki.com/Mushroomy_Kingdom
+ 171. https://www.ssbwiki.com/75m
+ 172. https://www.ssbwiki.com/Green_Greens
+ 173. https://www.ssbwiki.com/Screen_KO
+ 174. https://www.ssbwiki.com/Star_KO
+ 175. https://www.ssbwiki.com/Smash_64
+ 176. https://www.ssbwiki.com/Taunt_canceling
+ 177. https://www.ssbwiki.com/Glancing_Blow
+ 178. https://www.ssbwiki.com/Tech
+ 179. https://www.ssbwiki.com/Versus_Mode
+ 180. https://www.ssbwiki.com/Multi-Man_Brawl
+ 181. https://www.ssbwiki.com/Stock
+ 182. https://www.ssbwiki.com/Team_Attack
+ 183. https://www.ssbwiki.com/Match_timer
+ 184. https://www.ssbwiki.com/Snapshot
+ 185. https://www.ssbwiki.com/Stamina_Mode
+ 186. https://www.ssbwiki.com/Superspicy_Curry
+ 187. https://www.ssbwiki.com/Bunny_Hood
+ 188. https://www.ssbwiki.com/Franklin_Badge
+ 189. https://www.ssbwiki.com/Zelda
+ 190. https://www.ssbwiki.com/Sheik
+ 191. https://www.ssbwiki.com/Samus
+ 192. https://www.ssbwiki.com/Zero_Suit_Samus
+ 193. https://www.ssbwiki.com/Zero_Suit_Samus
+ 194. https://www.ssbwiki.com/Sound_Test
+ 195. https://www.ssbwiki.com/Sidestep
+ 196. https://www.ssbwiki.com/Air_dodge
+ 197. https://www.ssbwiki.com/Smash_attack
+ 198. https://www.ssbwiki.com/Smash_Taunt
+ 199. https://www.ssbwiki.com/Ness_(PM)
+ 200. https://www.ssbwiki.com/Link_(PM)
+ 201. https://www.ssbwiki.com/Wall_jump
+ 202. https://www.ssbwiki.com/Mewtwo_(PM)
+ 203. https://www.ssbwiki.com/Roy_(PM)
+ 204. https://www.ssbwiki.com/All-Star
+ 205. https://www.ssbwiki.com/Training
+ 206. https://www.ssbwiki.com/Project_M#cite_note-3
+ 207. https://www.ssbwiki.com/Home-Run_Contest
+ 208. https://www.ssbwiki.com/Replay
+ 209. https://www.ssbwiki.com/Mario_(PM)#Alternate_costumes
+ 210. https://www.ssbwiki.com/Mewtwo_(PM)#Alternate_costumes
+ 211. https://www.ssbwiki.com/Team_Battle
+ 212. https://www.ssbwiki.com/Artificial_intelligence
+ 213. https://www.ssbwiki.com/Fox_(PM)
+ 214. https://www.ssbwiki.com/Short_hop_laser
+ 215. https://www.ssbwiki.com/Waveshine_infinite
+ 216. https://www.ssbwiki.com/Roy_(PM)
+ 217. https://www.ssbwiki.com/Double-Edge_Dance
+ 218. https://www.ssbwiki.com/Fox_Illusion
+ 219. https://www.ssbwiki.com/Falcon_Punch
+ 220. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=5
+ 221. https://www.ssbwiki.com/Captain_Falcon_(PM)
+ 222. https://www.ssbwiki.com/Jigglypuff_(PM)
+ 223. https://www.ssbwiki.com/Bowser_(PM)
+ 224. https://www.ssbwiki.com/Kirby_(PM)
+ 225. https://www.ssbwiki.com/Zelda_(PM)
+ 226. https://www.ssbwiki.com/Ganondorf_(PM)
+ 227. https://www.ssbwiki.com/Sonic_(PM)
+ 228. https://www.ssbwiki.com/Snake_(PM)
+ 229. https://www.ssbwiki.com/Zero_Suit_Samus_(PM)
+ 230. https://www.ssbwiki.com/Sheik_(PM)
+ 231. https://www.ssbwiki.com/Squirtle_(PM)
+ 232. https://www.ssbwiki.com/Ivysaur_(PM)
+ 233. https://www.ssbwiki.com/Charizard_(PM)
+ 234. https://www.ssbwiki.com/Pokémon_Trainer_(SSBB)
+ 235. https://www.ssbwiki.com/Mewtwo_(PM)
+ 236. https://www.ssbwiki.com/Roy_(PM)
+ 237. https://www.ssbwiki.com/Knuckles
+ 238. https://www.ssbwiki.com/Sonic_(universe)
+ 239. https://www.ssbwiki.com/Lyn
+ 240. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 241. https://www.ssbwiki.com/Isaac
+ 242. https://www.ssbwiki.com/Golden_Sun_(universe)
+ 243. https://www.ssbwiki.com/Sami
+ 244. https://www.ssbwiki.com/Advance_Wars_(universe)
+ 245. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=6
+ 246. https://www.ssbwiki.com/Mario_(PM)
+ 247. https://www.ssbwiki.com/Mario_(PM)
+ 248. https://www.ssbwiki.com/Mario_(universe)
+ 249. https://www.ssbwiki.com/Luigi_(PM)
+ 250. https://www.ssbwiki.com/Luigi_(PM)
+ 251. https://www.ssbwiki.com/Mario_(universe)
+ 252. https://www.ssbwiki.com/Peach_(PM)
+ 253. https://www.ssbwiki.com/Peach_(PM)
+ 254. https://www.ssbwiki.com/Mario_(universe)
+ 255. https://www.ssbwiki.com/Bowser_(PM)
+ 256. https://www.ssbwiki.com/Bowser_(PM)
+ 257. https://www.ssbwiki.com/Mario_(universe)
+ 258. https://www.ssbwiki.com/Yoshi_(PM)
+ 259. https://www.ssbwiki.com/Yoshi_(PM)
+ 260. https://www.ssbwiki.com/Yoshi_(universe)
+ 261. https://www.ssbwiki.com/Donkey_Kong_(PM)
+ 262. https://www.ssbwiki.com/Donkey_Kong_(PM)
+ 263. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 264. https://www.ssbwiki.com/Diddy_Kong_(PM)
+ 265. https://www.ssbwiki.com/Diddy_Kong_(PM)
+ 266. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 267. https://www.ssbwiki.com/Link_(PM)
+ 268. https://www.ssbwiki.com/Link_(PM)
+ 269. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 270. https://www.ssbwiki.com/Zelda_(PM)
+ 271. https://www.ssbwiki.com/Zelda_(PM)
+ 272. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 273. https://www.ssbwiki.com/Sheik_(PM)
+ 274. https://www.ssbwiki.com/Sheik_(PM)
+ 275. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 276. https://www.ssbwiki.com/Ganondorf_(PM)
+ 277. https://www.ssbwiki.com/Ganondorf_(PM)
+ 278. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 279. https://www.ssbwiki.com/Toon_Link_(PM)
+ 280. https://www.ssbwiki.com/Toon_Link_(PM)
+ 281. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 282. https://www.ssbwiki.com/Samus_(PM)
+ 283. https://www.ssbwiki.com/Samus_(PM)
+ 284. https://www.ssbwiki.com/Metroid_(universe)
+ 285. https://www.ssbwiki.com/Zero_Suit_Samus_(PM)
+ 286. https://www.ssbwiki.com/Zero_Suit_Samus_(PM)
+ 287. https://www.ssbwiki.com/Metroid_(universe)
+ 288. https://www.ssbwiki.com/Kirby_(PM)
+ 289. https://www.ssbwiki.com/Kirby_(PM)
+ 290. https://www.ssbwiki.com/Kirby_(universe)
+ 291. https://www.ssbwiki.com/Meta_Knight_(PM)
+ 292. https://www.ssbwiki.com/Meta_Knight_(PM)
+ 293. https://www.ssbwiki.com/Kirby_(universe)
+ 294. https://www.ssbwiki.com/King_Dedede_(PM)
+ 295. https://www.ssbwiki.com/King_Dedede_(PM)
+ 296. https://www.ssbwiki.com/Kirby_(universe)
+ 297. https://www.ssbwiki.com/Fox_(PM)
+ 298. https://www.ssbwiki.com/Fox_(PM)
+ 299. https://www.ssbwiki.com/Star_Fox_(universe)
+ 300. https://www.ssbwiki.com/Falco_(PM)
+ 301. https://www.ssbwiki.com/Falco_(PM)
+ 302. https://www.ssbwiki.com/Star_Fox_(universe)
+ 303. https://www.ssbwiki.com/Wolf_(PM)
+ 304. https://www.ssbwiki.com/Wolf_(PM)
+ 305. https://www.ssbwiki.com/Star_Fox_(universe)
+ 306. https://www.ssbwiki.com/Pikachu_(PM)
+ 307. https://www.ssbwiki.com/Pikachu_(PM)
+ 308. https://www.ssbwiki.com/Pokémon_(universe)
+ 309. https://www.ssbwiki.com/Jigglypuff_(PM)
+ 310. https://www.ssbwiki.com/Jigglypuff_(PM)
+ 311. https://www.ssbwiki.com/Pokémon_(universe)
+ 312. https://www.ssbwiki.com/Mewtwo_(PM)
+ 313. https://www.ssbwiki.com/Mewtwo_(PM)
+ 314. https://www.ssbwiki.com/Pokémon_(universe)
+ 315. https://www.ssbwiki.com/Squirtle_(PM)
+ 316. https://www.ssbwiki.com/Squirtle_(PM)
+ 317. https://www.ssbwiki.com/Pokémon_(universe)
+ 318. https://www.ssbwiki.com/Ivysaur_(PM)
+ 319. https://www.ssbwiki.com/Ivysaur_(PM)
+ 320. https://www.ssbwiki.com/Pokémon_(universe)
+ 321. https://www.ssbwiki.com/Charizard_(PM)
+ 322. https://www.ssbwiki.com/Charizard_(PM)
+ 323. https://www.ssbwiki.com/Pokémon_(universe)
+ 324. https://www.ssbwiki.com/Lucario_(PM)
+ 325. https://www.ssbwiki.com/Lucario_(PM)
+ 326. https://www.ssbwiki.com/Pokémon_(universe)
+ 327. https://www.ssbwiki.com/Captain_Falcon_(PM)
+ 328. https://www.ssbwiki.com/Captain_Falcon_(PM)
+ 329. https://www.ssbwiki.com/F-Zero_(universe)
+ 330. https://www.ssbwiki.com/Ness_(PM)
+ 331. https://www.ssbwiki.com/Ness_(PM)
+ 332. https://www.ssbwiki.com/EarthBound_(universe)
+ 333. https://www.ssbwiki.com/Lucas_(PM)
+ 334. https://www.ssbwiki.com/Lucas_(PM)
+ 335. https://www.ssbwiki.com/EarthBound_(universe)
+ 336. https://www.ssbwiki.com/Ice_Climbers_(PM)
+ 337. https://www.ssbwiki.com/Ice_Climbers_(PM)
+ 338. https://www.ssbwiki.com/Ice_Climber_(universe)
+ 339. https://www.ssbwiki.com/Marth_(PM)
+ 340. https://www.ssbwiki.com/Marth_(PM)
+ 341. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 342. https://www.ssbwiki.com/Roy_(PM)
+ 343. https://www.ssbwiki.com/Roy_(PM)
+ 344. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 345. https://www.ssbwiki.com/Ike_(PM)
+ 346. https://www.ssbwiki.com/Ike_(PM)
+ 347. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 348. https://www.ssbwiki.com/Mr._Game_&_Watch_(PM)
+ 349. https://www.ssbwiki.com/Mr._Game_&_Watch_(PM)
+ 350. https://www.ssbwiki.com/Game_&_Watch_(universe)
+ 351. https://www.ssbwiki.com/Pit_(PM)
+ 352. https://www.ssbwiki.com/Pit_(PM)
+ 353. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 354. https://www.ssbwiki.com/Wario_(PM)
+ 355. https://www.ssbwiki.com/Wario_(PM)
+ 356. https://www.ssbwiki.com/Wario_(universe)
+ 357. https://www.ssbwiki.com/Olimar_(PM)
+ 358. https://www.ssbwiki.com/Olimar_(PM)
+ 359. https://www.ssbwiki.com/Pikmin_(universe)
+ 360. https://www.ssbwiki.com/R.O.B._(PM)
+ 361. https://www.ssbwiki.com/R.O.B._(PM)
+ 362. https://www.ssbwiki.com/R.O.B._(universe)
+ 363. https://www.ssbwiki.com/Snake_(PM)
+ 364. https://www.ssbwiki.com/Snake_(PM)
+ 365. https://www.ssbwiki.com/Metal_Gear_(universe)
+ 366. https://www.ssbwiki.com/Sonic_(PM)
+ 367. https://www.ssbwiki.com/Sonic_(PM)
+ 368. https://www.ssbwiki.com/Sonic_(universe)
+ 369. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=7
+ 370. https://www.ssbwiki.com/Battlefield_(SSBB)
+ 371. https://www.ssbwiki.com/Battlefield_(SSBB)
+ 372. https://www.ssbwiki.com/Battlefield_(SSBM)
+ 373. https://www.ssbwiki.com/Battlefield_(SSBM)
+ 374. https://www.ssbwiki.com/Battlefield_(Melee)
+ 375. https://www.ssbwiki.com/Big_Blue
+ 376. https://www.ssbwiki.com/Big_Blue
+ 377. https://www.ssbwiki.com/Brinstar
+ 378. https://www.ssbwiki.com/Brinstar
+ 379. https://www.ssbwiki.com/Planet_Zebes
+ 380. https://www.ssbwiki.com/Planet_Zebes
+ 381. https://www.ssbwiki.com/Castle_Siege
+ 382. https://web.archive.org/web/20151008065033/http://projectmgame.com/en/stages/castle-siege
+ 383. https://www.ssbwiki.com/Castle_Siege
+ 384. https://www.ssbwiki.com/Castle_Siege
+ 385. https://www.ssbwiki.com/Corneria
+ 386. https://www.ssbwiki.com/Corneria
+ 387. https://www.ssbwiki.com/Sector_Z
+ 388. https://www.ssbwiki.com/Sector_Z
+ 389. https://www.ssbwiki.com/File:Hanenbow_PM_3.5.png
+ 390. https://www.ssbwiki.com/Hanenbow
+ 391. https://www.ssbwiki.com/Hanenbow
+ 392. https://www.ssbwiki.com/Hanenbow
+ 393. https://www.ssbwiki.com/File:Dream_Land_PM_3.5.jpg
+ 394. https://web.archive.org/web/20151022141330/http://projectmgame.com/en/stages/dreamland
+ 395. https://www.ssbwiki.com/Green_Greens
+ 396. https://www.ssbwiki.com/Green_Greens
+ 397. https://www.ssbwiki.com/Dreamland
+ 398. https://www.ssbwiki.com/Dream_Land_(SSB)
+ 399. https://www.ssbwiki.com/File:ProjectM_DistantPlanet.png
+ 400. https://web.archive.org/web/20151101061829/http://projectmgame.com/en/stages/distant-planet
+ 401. https://www.ssbwiki.com/SSE
+ 402. https://www.ssbwiki.com/The_Jungle
+ 403. https://www.ssbwiki.com/Project_M#cite_note-4
+ 404. https://www.ssbwiki.com/Pikmin_(universe)
+ 405. https://www.ssbwiki.com/Distant_Planet
+ 406. https://www.ssbwiki.com/Distant_Planet
+ 407. https://www.ssbwiki.com/Final_Destination_(SSBM)
+ 408. https://www.ssbwiki.com/Final_Destination_(SSBM)
+ 409. https://www.ssbwiki.com/Flat_Zone_2
+ 410. https://www.ssbwiki.com/Flat_Zone_2
+ 411. https://www.ssbwiki.com/Fountain_of_Dreams
+ 412. https://www.ssbwiki.com/Fountain_of_Dreams
+ 413. https://www.ssbwiki.com/Mario_Bros._(stage)
+ 414. https://www.ssbwiki.com/Fourside
+ 415. https://www.ssbwiki.com/Fourside
+ 416. https://www.ssbwiki.com/New_Pork_City
+ 417. https://www.ssbwiki.com/New_Pork_City
+ 418. https://www.ssbwiki.com/Frigate_Orpheon
+ 419. https://www.ssbwiki.com/Frigate_Orpheon
+ 420. https://www.ssbwiki.com/File:ProjectM_GreenHillZone.png
+ 421. https://web.archive.org/web/20150319024556/http://projectmgame.com/en/stages/green-hill-zone
+ 422. https://www.ssbwiki.com/Green_Hill_Zone
+ 423. https://www.ssbwiki.com/Green_Hill_Zone
+ 424. https://www.ssbwiki.com/Halberd
+ 425. https://www.ssbwiki.com/Halberd
+ 426. https://www.ssbwiki.com/File:Zelda64Stage_HD_PM.png
+ 427. https://web.archive.org/web/20151025064621/http://projectmgame.com/en/stages/hyrule-castle
+ 428. https://www.ssbwiki.com/Bridge_of_Eldin
+ 429. https://www.ssbwiki.com/Hyrule_Castle
+ 430. https://www.ssbwiki.com/Hyrule_Castle
+ 431. https://www.ssbwiki.com/Bridge_of_Eldin
+ 432. https://www.ssbwiki.com/Bridge_of_Eldin
+ 433. https://www.ssbwiki.com/Kongo_Jungle_(SSB)
+ 434. https://www.ssbwiki.com/Kongo_Jungle_(SSB)
+ 435. https://www.ssbwiki.com/75m
+ 436. https://www.ssbwiki.com/File:Peach_Castle_HD_PM.png
+ 437. https://web.archive.org/web/20151023065939/http://projectmgame.com/en/stages/peach-s-castle-64
+ 438. https://www.ssbwiki.com/Bumper
+ 439. https://www.ssbwiki.com/Rainbow_Cruise
+ 440. https://www.ssbwiki.com/Super_Smash_Bros.
+ 441. https://www.ssbwiki.com/Peach's_Castle
+ 442. https://www.ssbwiki.com/Peach's_Castle
+ 443. https://www.ssbwiki.com/Rainbow_Cruise
+ 444. https://www.ssbwiki.com/Rainbow_Cruise
+ 445. https://www.ssbwiki.com/Lylat_Cruise
+ 446. https://www.ssbwiki.com/Lylat_Cruise
+ 447. https://www.ssbwiki.com/Lylat_Cruise
+ 448. https://www.ssbwiki.com/Lylat_Cruise
+ 449. https://www.ssbwiki.com/File:Metal_Cavern_PM_3.5.jpg
+ 450. https://web.archive.org/web/20151022151829/http://projectmgame.com/en/stages/metal-cavern
+ 451. https://www.ssbwiki.com/Meta_Crystal
+ 452. https://www.ssbwiki.com/Mushroomy_Kingdom
+ 453. https://www.ssbwiki.com/Meta_Crystal
+ 454. https://www.ssbwiki.com/Meta_Crystal
+ 455. https://www.ssbwiki.com/Norfair
+ 456. https://web.archive.org/web/20150319030704/http://projectmgame.com/en/stages/norfair
+ 457. https://www.ssbwiki.com/Norfair
+ 458. https://www.ssbwiki.com/Norfair
+ 459. https://www.ssbwiki.com/Onett
+ 460. https://www.ssbwiki.com/Onett
+ 461. https://www.ssbwiki.com/Pictochat
+ 462. https://www.ssbwiki.com/Pictochat
+ 463. https://www.ssbwiki.com/Pirate_Ship
+ 464. https://www.ssbwiki.com/Pirate_Ship
+ 465. https://www.ssbwiki.com/Pokémon_Stadium_2
+ 466. https://www.ssbwiki.com/Pokémon_Stadium_2
+ 467. https://www.ssbwiki.com/Pokémon_Stadium
+ 468. https://www.ssbwiki.com/Pokémon_Stadium
+ 469. https://www.ssbwiki.com/Pokémon_Stadium
+ 470. https://www.ssbwiki.com/File:ProjectM_RumbleFalls.png
+ 471. https://web.archive.org/web/20150319082423/http://projectmgame.com/en/stages/rumble-falls
+ 472. https://www.ssbwiki.com/Rumble_Falls
+ 473. https://www.ssbwiki.com/Rumble_Falls
+ 474. https://www.ssbwiki.com/File:Saffron_City_HD_PM.png
+ 475. https://web.archive.org/web/20151025074335/http://projectmgame.com/en/stages/saffron-city
+ 476. https://www.ssbwiki.com/Pokémon_Stadium_2
+ 477. https://www.ssbwiki.com/Pokémon_Stadium
+ 478. https://www.ssbwiki.com/Spear_Pillar
+ 479. https://www.ssbwiki.com/Saffron_City
+ 480. https://www.ssbwiki.com/Saffron_City
+ 481. https://www.ssbwiki.com/Shadow_Moses_Island
+ 482. https://www.ssbwiki.com/Shadow_Moses_Island
+ 483. https://www.ssbwiki.com/Skyworld
+ 484. https://www.ssbwiki.com/Skyworld
+ 485. https://www.ssbwiki.com/Skyworld
+ 486. https://www.ssbwiki.com/Skyworld
+ 487. https://www.ssbwiki.com/Smashville
+ 488. https://www.ssbwiki.com/Smashville
+ 489. https://www.ssbwiki.com/File:Infinite_Glacier_PM.png
+ 490. https://web.archive.org/web/20151011031724/http://projectmgame.com/en/stages/infinite-glacier
+ 491. https://www.ssbwiki.com/Summit
+ 492. https://www.ssbwiki.com/Balloon_Fighter
+ 493. https://www.ssbwiki.com/Balloon_Fight_(universe)
+ 494. https://www.ssbwiki.com/Summit
+ 495. https://www.ssbwiki.com/Summit
+ 496. https://www.ssbwiki.com/Temple
+ 497. https://www.ssbwiki.com/Temple
+ 498. https://www.ssbwiki.com/File:ProjectM_Skyloft.png
+ 499. https://web.archive.org/web/20150319023931/http://projectmgame.com/en/stages/skyloft
+ 500. https://www.ssbwiki.com/File:ProjectM_TrainingRoom.png
+ 501. https://web.archive.org/web/20150319032430/http://projectmgame.com/en/stages/training-room
+ 502. https://www.ssbwiki.com/Sandbag
+ 503. https://www.ssbwiki.com/Online_Practice_Stage
+ 504. https://www.ssbwiki.com/File:WarioLandPM.png
+ 505. https://web.archive.org/web/20151022152124/http://projectmgame.com/en/stages/wario-land
+ 506. https://www.ssbwiki.com/WarioWare
+ 507. https://www.ssbwiki.com/WarioWare,_Inc.
+ 508. https://www.ssbwiki.com/Yoshi's_Island_(SSBB)
+ 509. https://www.ssbwiki.com/Yoshi's_Island_(SSBB)
+ 510. https://www.ssbwiki.com/Fly_Guy
+ 511. https://www.ssbwiki.com/File:YoshisIslandSSBM.jpg
+ 512. https://www.ssbwiki.com/Yoshi's_Island_(SSBM)
+ 513. https://www.ssbwiki.com/Yoshi's_Story
+ 514. https://www.ssbwiki.com/Yoshi's_Story
+ 515. https://www.ssbwiki.com/Yoshi's_Island_(SSBM)
+ 516. https://www.ssbwiki.com/Yoshi's_Island_(SSB)
+ 517. https://www.ssbwiki.com/Yoshi's_Island_(SSB)
+ 518. https://www.ssbwiki.com/Port_Town_Aero_Dive
+ 519. https://www.ssbwiki.com/Port_Town_Aero_Dive
+ 520. https://www.ssbwiki.com/Luigi's_Mansion
+ 521. https://www.ssbwiki.com/Luigi's_Mansion
+ 522. https://www.ssbwiki.com/File:Delfino_Secret_PM.png
+ 523. https://www.ssbwiki.com/Delfino_Plaza
+ 524. https://web.archive.org/web/20150319035931/http://projectmgame.com/en/stages/dracula-s-castle
+ 525. https://www.ssbwiki.com/Castlevania
+ 526. https://www.ssbwiki.com/Delfino_Plaza
+ 527. https://www.ssbwiki.com/Delfino_Plaza
+ 528. https://www.ssbwiki.com/File:Bowser_Castle_PM.png
+ 529. https://www.ssbwiki.com/Mario_Circuit_(SSBB)
+ 530. https://www.ssbwiki.com/Jungle_Japes
+ 531. https://www.ssbwiki.com/Jungle_Japes
+ 532. https://www.ssbwiki.com/Spear_Pillar
+ 533. https://www.ssbwiki.com/Spear_Pillar
+ 534. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=8
+ 535. https://www.ssbwiki.com/Curry
+ 536. https://www.ssbwiki.com/Aerial
+ 537. https://www.ssbwiki.com/Auto_cancel
+ 538. https://www.ssbwiki.com/Farore's_Wind
+ 539. https://www.ssbwiki.com/Combos
+ 540. https://www.ssbwiki.com/Special_Brawl
+ 541. https://www.ssbwiki.com/Superspicy_Curry
+ 542. http://projectmgame.com/en/news/turbo-mode-announced
+ 543. http://www.youtube.com/watch?v=JLuFpmoKUVQ
+ 544. http://www.youtube.com/playlist?list=PL_sH9_n-7LdtUZmpKdqep4g6AiZQS_ZqC
+ 545. http://www.youtube.com/watch?v=y7FpLheBOoQ
+ 546. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=9
+ 547. https://www.ssbwiki.com/Tier_list
+ 548. https://www.ssbwiki.com/CLASH_Tournaments
+ 549. https://www.ssbwiki.com/Template:PMTiers/1
+ 550. https://www.ssbwiki.com/Template:PMTiers/2
+ 551. https://www.ssbwiki.com/Mewtwo_(PM)
+ 552. https://www.ssbwiki.com/Olimar_(PM)
+ 553. https://www.ssbwiki.com/Ice_Climbers_(PM)
+ 554. https://www.ssbwiki.com/Nana
+ 555. http://pmunderground.net/index.php/articles/9-articles/45-introducing-the-new-pmbr-and-pm-tier-list-2
+ 556. https://www.ssbwiki.com/Mewtwo_(PM)
+ 557. https://www.ssbwiki.com/Captain_Falcon_(PM)
+ 558. https://smashboards.com/threads/the-project-m-backroom-releases-new-pm-3-6-tier-list.450025/
+ 559. https://www.ssbwiki.com/Donkey_Kong
+ 560. https://www.ssbwiki.com/Ice_Climbers
+ 561. https://www.ssbwiki.com/Sonic
+ 562. https://www.ssbwiki.com/R.O.B.
+ 563. https://www.ssbwiki.com/Roy
+ 564. https://www.ssbwiki.com/Fox
+ 565. https://www.ssbwiki.com/Mewtwo
+ 566. https://www.ssbwiki.com/Kirby
+ 567. https://www.ssbwiki.com/Bowser
+ 568. https://www.ssbwiki.com/Meta_Knight_(PM)
+ 569. https://www.ssbwiki.com/Wolf_(PM)
+ 570. https://www.ssbwiki.com/Mewtwo_(PM)
+ 571. https://www.ssbwiki.com/Diddy_Kong_(PM)
+ 572. https://www.ssbwiki.com/Wario_(PM)
+ 573. https://www.ssbwiki.com/Mr._Game_&_Watch_(PM)
+ 574. https://www.ssbwiki.com/Sheik_(PM)
+ 575. https://www.ssbwiki.com/Fox_(PM)
+ 576. https://www.ssbwiki.com/Captain_Falcon_(PM)
+ 577. https://www.ssbwiki.com/Sonic_(PM)
+ 578. https://www.ssbwiki.com/Donkey_Kong_(PM)
+ 579. https://www.ssbwiki.com/Snake_(PM)
+ 580. https://www.ssbwiki.com/Zero_Suit_Samus_(PM)
+ 581. https://www.ssbwiki.com/Peach_(PM)
+ 582. https://www.ssbwiki.com/Lucas_(PM)
+ 583. https://www.ssbwiki.com/Ice_Climbers_(PM)
+ 584. https://www.ssbwiki.com/Marth_(PM)
+ 585. https://www.ssbwiki.com/Lucario_(PM)
+ 586. https://www.ssbwiki.com/Ness_(PM)
+ 587. https://www.ssbwiki.com/Mario_(PM)
+ 588. https://www.ssbwiki.com/Toon_Link_(PM)
+ 589. https://www.ssbwiki.com/Falco_(PM)
+ 590. https://www.ssbwiki.com/Pikachu_(PM)
+ 591. https://www.ssbwiki.com/Charizard_(PM)
+ 592. https://www.ssbwiki.com/Ike_(PM)
+ 593. https://www.ssbwiki.com/Luigi_(PM)
+ 594. https://www.ssbwiki.com/Samus_(PM)
+ 595. https://www.ssbwiki.com/Ivysaur_(PM)
+ 596. https://www.ssbwiki.com/Roy_(PM)
+ 597. https://www.ssbwiki.com/Link_(PM)
+ 598. https://www.ssbwiki.com/Squirtle_(PM)
+ 599. https://www.ssbwiki.com/R.O.B._(PM)
+ 600. https://www.ssbwiki.com/Yoshi_(PM)
+ 601. https://www.ssbwiki.com/King_Dedede_(PM)
+ 602. https://www.ssbwiki.com/Pit_(PM)
+ 603. https://www.ssbwiki.com/Jigglypuff_(PM)
+ 604. https://www.ssbwiki.com/Ganondorf_(PM)
+ 605. https://www.ssbwiki.com/Zelda_(PM)
+ 606. https://www.ssbwiki.com/Olimar_(PM)
+ 607. https://www.ssbwiki.com/Kirby_(PM)
+ 608. https://www.ssbwiki.com/Bowser_(PM)
+ 609. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=10
+ 610. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=11
+ 611. https://www.ssbwiki.com/Captain_Falcon_(PM)
+ 612. https://www.ssbwiki.com/Falco_(PM)
+ 613. https://www.ssbwiki.com/Fox_(PM)
+ 614. https://www.ssbwiki.com/Ganondorf_(PM)
+ 615. https://www.ssbwiki.com/Jigglypuff_(PM)
+ 616. https://www.ssbwiki.com/Link_(PM)
+ 617. https://www.ssbwiki.com/Lucas_(PM)
+ 618. https://www.ssbwiki.com/Mario_(PM)
+ 619. https://www.ssbwiki.com/Marth_(PM)
+ 620. https://www.ssbwiki.com/Mr._Game_&_Watch_(PM)
+ 621. https://www.ssbwiki.com/Sheik_(PM)
+ 622. https://www.ssbwiki.com/Snake_(PM)
+ 623. https://www.ssbwiki.com/Sonic_(PM)
+ 624. https://www.ssbwiki.com/Zelda_(PM)
+ 625. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=12
+ 626. https://www.ssbwiki.com/Bowser_(PM)
+ 627. https://www.ssbwiki.com/Charizard_(PM)
+ 628. https://www.ssbwiki.com/Donkey_Kong_(PM)
+ 629. https://www.ssbwiki.com/Ike_(PM)
+ 630. https://www.ssbwiki.com/King_Dedede_(PM)
+ 631. https://www.ssbwiki.com/Lucario_(PM)
+ 632. https://www.ssbwiki.com/Luigi_(PM)
+ 633. https://www.ssbwiki.com/Ness_(PM)
+ 634. https://www.ssbwiki.com/Peach_(PM)
+ 635. https://www.ssbwiki.com/Pikachu_(PM)
+ 636. https://www.ssbwiki.com/Pit_(PM)
+ 637. https://www.ssbwiki.com/R.O.B._(PM)
+ 638. https://www.ssbwiki.com/Toon_Link_(PM)
+ 639. https://www.ssbwiki.com/Wario_(PM)
+ 640. https://www.ssbwiki.com/Wolf_(PM)
+ 641. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=13
+ 642. https://www.ssbwiki.com/Crates
+ 643. https://www.ssbwiki.com/Capsule
+ 644. https://www.ssbwiki.com/Mario
+ 645. https://www.ssbwiki.com/Footstool_Jump
+ 646. https://www.ssbwiki.com/Taunt
+ 647. https://www.ssbwiki.com/Wavedash
+ 648. https://www.ssbwiki.com/Hanenbow
+ 649. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=14
+ 650. https://www.ssbwiki.com/Diddy_Kong_(PM)
+ 651. https://www.ssbwiki.com/Ivysaur_(PM)
+ 652. https://www.ssbwiki.com/Squirtle_(PM)
+ 653. https://www.ssbwiki.com/Zero_Suit_Samus_(PM)
+ 654. https://www.ssbwiki.com/Tech
+ 655. https://www.ssbwiki.com/Knockback_stacking
+ 656. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=15
+ 657. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=16
+ 658. https://www.ssbwiki.com/Meta_Knight_(PM)
+ 659. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=17
+ 660. https://www.ssbwiki.com/Footstool_Jump
+ 661. https://www.ssbwiki.com/Bowser_(PM)
+ 662. https://www.ssbwiki.com/Squirtle_(PM)
+ 663. https://www.ssbwiki.com/Screen_KO
+ 664. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=18
+ 665. https://www.ssbwiki.com/Ice_Climbers_(PM)
+ 666. https://www.ssbwiki.com/Kirby_(PM)
+ 667. https://www.ssbwiki.com/Olimar_(PM)
+ 668. https://www.ssbwiki.com/Samus_(PM)
+ 669. https://www.ssbwiki.com/Yoshi_(PM)
+ 670. https://www.ssbwiki.com/Mewtwo_(PM)
+ 671. https://www.ssbwiki.com/Roy_(PM)
+ 672. https://www.ssbwiki.com/Project_M#cite_note-5
+ 673. https://www.ssbwiki.com/Special_Brawl
+ 674. https://www.ssbwiki.com/Curry
+ 675. https://www.ssbwiki.com/Superspicy_Curry
+ 676. https://www.ssbwiki.com/Princess_Peach's_Castle
+ 677. https://www.ssbwiki.com/Norfair
+ 678. https://www.ssbwiki.com/Distant_Planet
+ 679. https://www.ssbwiki.com/Dr._Mario
+ 680. https://www.ssbwiki.com/Falco
+ 681. https://www.ssbwiki.com/Fox
+ 682. https://www.ssbwiki.com/Roy
+ 683. https://www.ssbwiki.com/Mewtwo
+ 684. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=19
+ 685. https://www.ssbwiki.com/Roy_(PM)
+ 686. https://www.ssbwiki.com/Mewtwo_(PM)
+ 687. https://www.ssbwiki.com/20XX_Melee_Training_Hack_Pack
+ 688. https://www.ssbwiki.com/Pokémon_Stadium_1
+ 689. https://www.ssbwiki.com/Lylat_Cruise
+ 690. https://www.ssbwiki.com/Castle_Siege
+ 691. https://www.ssbwiki.com/Roy_(PM)
+ 692. https://www.ssbwiki.com/Kirby_(PM)
+ 693. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=20
+ 694. https://www.ssbwiki.com/Nana
+ 695. https://www.ssbwiki.com/Norfair
+ 696. https://www.ssbwiki.com/Jigglypuff_(PM)
+ 697. https://www.ssbwiki.com/Ness_(PM)
+ 698. https://www.ssbwiki.com/Lucas_(PM)
+ 699. https://www.ssbwiki.com/Bowser_(PM)#Giga_Bowser
+ 700. https://www.ssbwiki.com/Squirtle_(PM)
+ 701. https://www.ssbwiki.com/Yoshi_(PM)
+ 702. https://www.ssbwiki.com/Olimar_(PM)
+ 703. https://www.ssbwiki.com/Yoshi's_Island_(Brawl)
+ 704. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=21
+ 705. https://www.ssbwiki.com/Donkey_Kong_(PM)
+ 706. https://www.ssbwiki.com/Wolf_(PM)
+ 707. https://www.ssbwiki.com/Toon_Link_(PM)
+ 708. https://www.ssbwiki.com/Ganondorf_(PM)
+ 709. https://www.ssbwiki.com/Ness_(PM)
+ 710. https://www.ssbwiki.com/Dedede_(PM)
+ 711. https://www.ssbwiki.com/Ike_(PM)
+ 712. https://www.ssbwiki.com/Marth_(PM)
+ 713. https://www.ssbwiki.com/Metal_Cavern
+ 714. https://www.ssbwiki.com/Hyrule_Castle
+ 715. https://www.ssbwiki.com/Dream_Land_(SSB)
+ 716. https://www.ssbwiki.com/Subspace_Emissary
+ 717. https://www.ssbwiki.com/Screen_KO
+ 718. https://www.ssbwiki.com/Star_KO
+ 719. https://www.ssbwiki.com/Rotation
+ 720. https://www.ssbwiki.com/Roy_(PM)
+ 721. https://www.ssbwiki.com/Mewtwo_(PM)
+ 722. https://www.ssbwiki.com/Event_match
+ 723. https://www.ssbwiki.com/The_Showdown
+ 724. https://www.ssbwiki.com/Bowser_Challenge
+ 725. https://www.ssbwiki.com/Super_Bowser_Bros.
+ 726. https://www.ssbwiki.com/Squirtle_(PM)
+ 727. https://www.ssbwiki.com/Ivysaur_(PM)
+ 728. https://www.ssbwiki.com/Charizard_(PM)
+ 729. https://www.ssbwiki.com/Jungle_Japes
+ 730. https://www.ssbwiki.com/Hanenbow
+ 731. https://www.ssbwiki.com/The_Summit
+ 732. https://www.ssbwiki.com/Mewtwo_(PM)
+ 733. https://www.ssbwiki.com/Roy_(PM)
+ 734. https://www.ssbwiki.com/Galleom
+ 735. https://www.ssbwiki.com/Duon
+ 736. https://www.ssbwiki.com/Timer
+ 737. https://www.ssbwiki.com/Project_M#cite_note-6
+ 738. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=22
+ 739. https://www.ssbwiki.com/Samus_(PM)
+ 740. https://www.ssbwiki.com/Meta_Knight_(PM)
+ 741. https://www.ssbwiki.com/Zero_Suit_Samus_(PM)
+ 742. https://www.ssbwiki.com/Olimar_(PM)#v3.6
+ 743. https://www.ssbwiki.com/Ice_Climbers_(PM)#v3.6
+ 744. https://www.ssbwiki.com/Zero-to-death
+ 745. https://www.ssbwiki.com/L-canceling
+ 746. https://www.ssbwiki.com/Announcer
+ 747. https://www.ssbwiki.com/Luigi's_Mansion
+ 748. https://www.ssbwiki.com/Spear_Pillar
+ 749. https://www.ssbwiki.com/Saffron_City
+ 750. https://www.ssbwiki.com/Peach's_Castle_(SSB)
+ 751. https://www.ssbwiki.com/Planet_Zebes
+ 752. https://www.ssbwiki.com/Yoshi's_Island_(SSB)
+ 753. https://www.ssbwiki.com/Sector_Z
+ 754. https://www.ssbwiki.com/Pokémon_Stadium
+ 755. https://www.ssbwiki.com/Pokémon_Stadium_2
+ 756. https://www.ssbwiki.com/The_Summit
+ 757. https://www.ssbwiki.com/Distant_Planet
+ 758. https://www.ssbwiki.com/Skyworld
+ 759. https://www.ssbwiki.com/Green_Hill_Zone
+ 760. https://www.ssbwiki.com/Princess_Peach's_Castle
+ 761. https://www.ssbwiki.com/Rainbow_Cruise
+ 762. https://www.ssbwiki.com/Smashville
+ 763. https://www.ssbwiki.com/Metal_Cavern
+ 764. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=23
+ 765. https://www.ssbwiki.com/WarioWare
+ 766. https://www.ssbwiki.com/Rainbow_Cruise
+ 767. https://www.ssbwiki.com/Bridge_of_Eldin
+ 768. https://www.ssbwiki.com/Peach's_Castle_(SSB)
+ 769. https://www.ssbwiki.com/Hyrule_Castle
+ 770. https://www.ssbwiki.com/Peach's_Castle
+ 771. https://www.ssbwiki.com/Hyrule_Castle
+ 772. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=24
+ 773. https://www.ssbwiki.com/Yoshi's_Story
+ 774. https://www.ssbwiki.com/Hyrule_Castle
+ 775. https://www.ssbwiki.com/Blast_line
+ 776. https://www.ssbwiki.com/Star_KO
+ 777. https://www.ssbwiki.com/Tournament_Mode
+ 778. https://www.ssbwiki.com/Rotation
+ 779. https://www.ssbwiki.com/Roy_(PM)
+ 780. https://www.ssbwiki.com/Mewtwo_(PM)
+ 781. https://www.ssbwiki.com/Metal
+ 782. https://www.ssbwiki.com/The_Yoshi_Team_of_50
+ 783. https://www.ssbwiki.com/All_MINE!
+ 784. https://www.ssbwiki.com/The_Great_Remodeling_Battle
+ 785. https://www.ssbwiki.com/Events
+ 786. https://www.ssbwiki.com/Mewtwo
+ 787. https://www.ssbwiki.com/Roy
+ 788. https://www.ssbwiki.com/Lucario
+ 789. https://www.ssbwiki.com/Marth
+ 790. https://www.ssbwiki.com/Sheik_(PM)
+ 791. https://www.ssbwiki.com/Zelda_(PM)
+ 792. https://www.ssbwiki.com/Samus_(PM)
+ 793. https://www.ssbwiki.com/Zero_Suit_Samus_(PM)
+ 794. https://www.ssbwiki.com/Same_color_glitch
+ 795. https://www.ssbwiki.com/Diddy_Kong_(PM)
+ 796. https://www.ssbwiki.com/Captain_Falcon_(PM)
+ 797. https://www.ssbwiki.com/Captain_Falcon_(PM)
+ 798. https://www.ssbwiki.com/Roy_(PM)
+ 799. https://www.ssbwiki.com/Mewtwo_(PM)
+ 800. https://www.ssbwiki.com/Pokémon_Trainer
+ 801. https://www.ssbwiki.com/Pokémon
+ 802. https://www.ssbwiki.com/Mewtwo_(PM)
+ 803. https://www.ssbwiki.com/The_Subspace_Emissary
+ 804. https://www.ssbwiki.com/Mewtwo_(PM)
+ 805. https://www.ssbwiki.com/Roy_(PM)
+ 806. https://www.ssbwiki.com/The_Great_Maze
+ 807. https://www.ssbwiki.com/Ganondorf_(PM)#Special_moves
+ 808. https://www.ssbwiki.com/Curry
+ 809. https://www.ssbwiki.com/Fourside
+ 810. https://www.ssbwiki.com/Porky's_Theme
+ 811. https://www.ssbwiki.com/Porky_Statue
+ 812. https://www.ssbwiki.com/Porky_Minch
+ 813. https://www.ssbwiki.com/Pokémon_Trainer
+ 814. https://www.ssbwiki.com/Mewtwo_(PM)
+ 815. https://www.ssbwiki.com/Charizard_(PM)
+ 816. https://www.ssbwiki.com/Squirtle_(PM)
+ 817. https://www.ssbwiki.com/Pokémon_Change
+ 818. https://www.ssbwiki.com/Bubble
+ 819. https://www.ssbwiki.com/Ambush
+ 820. https://www.ssbwiki.com/Charizard_(PM)
+ 821. https://www.ssbwiki.com/Squirtle_(PM)
+ 822. https://www.ssbwiki.com/Squirtle_(PM)
+ 823. https://www.ssbwiki.com/Kirby_(PM)
+ 824. https://www.ssbwiki.com/The_Great_Maze
+ 825. https://www.ssbwiki.com/The_Great_Maze
+ 826. https://www.ssbwiki.com/Midair_Stadium
+ 827. https://www.ssbwiki.com/Snake_(PM)
+ 828. https://www.ssbwiki.com/Codec_Conversations
+ 829. https://www.ssbwiki.com/Mewtwo_(PM)
+ 830. https://www.ssbwiki.com/Roy_(PM)
+ 831. https://www.ssbwiki.com/Mario_(PM)
+ 832. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=25
+ 833. http://projectmirror.no-ip.org/
+ 834. https://www.youtube.com/embed/2WB9IX2M4uQ?
+ 835. https://www.youtube.com/embed/Y_-brk7b5qI?
+ 836. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=26
+ 837. https://www.ssbwiki.com/Smasher:Magus
+ 838. https://www.ssbwiki.com/Smasher:Strong_Bad
+ 839. https://www.ssbwiki.com/Smasher:Shadic
+ 840. https://www.ssbwiki.com/Smasher:Hungrybox
+ 841. https://www.ssbwiki.com/Smasher:Mango
+ 842. https://www.ssbwiki.com/Smasher:Lucky
+ 843. https://www.ssbwiki.com/Smasher:KirbyKaze
+ 844. https://www.ssbwiki.com/Smasher:Amsah
+ 845. https://www.ssbwiki.com/Smasher:Gimpyfish62
+ 846. https://www.ssbwiki.com/Smasher:TheReflexWonder
+ 847. https://www.ssbwiki.com/Smasher:Fuzzyness
+ 848. https://www.ssbwiki.com/Smasher:Professor_Pro
+ 849. https://www.ssbwiki.com/Smasher:Fly_Amanita
+ 850. https://www.ssbwiki.com/Smasher:Jolteon
+ 851. https://www.ssbwiki.com/Smasher:Mewtwo2000
+ 852. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=27
+ 853. https://www.ssbwiki.com/Miiverse
+ 854. https://en.wikipedia.org/wiki/Scunthorpe_problem
+ 855. https://www.ssbwiki.com/Apex_2015
+ 856. https://www.ssbwiki.com/B.E.A.S.T_5
+ 857. https://www.ssbwiki.com/VGBootCamp
+ 858. https://www.ssbwiki.com/Super_Smash_Bros._Invitational
+ 859. https://www.ssbwiki.com/Reggie_Fils-Aimé
+ 860. https://www.ssbwiki.com/EVO_2014
+ 861. https://www.ssbwiki.com/Twitch
+ 862. https://twitter.com/MrRyanMorrison/status/671943222848069632
+ 863. https://www.facebook.com/Mewtwo2000/posts/724185831014518?_rdr=p
+ 864. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=28
+ 865. https://www.metroidwiki.org/wiki/Metroid:_Other_M
+ 866. https://en.wikipedia.org/wiki/Team_Ninja
+ 867. https://www.ssbwiki.com/Pichu
+ 868. https://www.youtube.com/watch?v=tCXABhlj3nI
+ 869. https://www.ssbwiki.com/Slippy_Toad
+ 870. https://www.ssbwiki.com/Ridley
+ 871. https://www.youtube.com/watch?v=dOuXKCvhTvw
+ 872. https://www.ssbwiki.com/Nintendo_64
+ 873. https://www.ssbwiki.com/Perfect_attendance_crew
+ 874. https://bulbapedia.bulbagarden.net/wiki/Parasect
+ 875. https://www.ssbwiki.com/V-cancelling
+ 876. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=29
+ 877. https://www.ssbwiki.com/Project_M#cite_ref-1
+ 878. http://wii.ign.com/articles/122/1223403p1.html
+ 879. https://www.ssbwiki.com/Project_M#cite_ref-2
+ 880. http://pmunderground.net/index.php/articles/9-articles/45-introducing-the-new-pmbr-and-pm-tier-list-2
+ 881. https://www.ssbwiki.com/Project_M#cite_ref-3
+ 882. https://www.youtube.com/watch?v=v32q4tUHtBw
+ 883. https://www.ssbwiki.com/Project_M#cite_ref-4
+ 884. https://web.archive.org/web/20130917221813/http://projectmgame.com/en/stages/sse-jungle
+ 885. https://www.ssbwiki.com/Project_M#cite_ref-5
+ 886. http://www.youtube.com/watch?v=Z92MxCndZa4
+ 887. https://www.ssbwiki.com/Project_M#cite_ref-6
+ 888. https://www.youtube.com/watch?v=Gohg6UKtXkI
+ 889. https://www.ssbwiki.com/index.php?title=Project_M&action=edit&section=30
+ 890. http://projectmgame.com/en/
+ 891. http://web.archive.org/web/20151120033752/http://projectmgame.com/en/
+ 892. http://projectmirror.no-ip.org/
+ 893. http://smashboards.com/categories/project-m.465/
+ 894. http://reddit.com/r/SSBPM/
+ 895. https://www.youtube.com/user/ProjectMelee/videos
+ 896. https://www.ssbwiki.com/Template:Project_M
+ 897. https://www.ssbwiki.com/Template_talk:Project_M
+ 898. https://www.ssbwiki.com/index.php?title=Template:Project_M&action=edit
+ 899. https://www.ssbwiki.com/Characters
+ 900. https://www.ssbwiki.com/Bowser_(PM)
+ 901. https://www.ssbwiki.com/Giga_Bowser
+ 902. https://www.ssbwiki.com/Captain_Falcon_(PM)
+ 903. https://www.ssbwiki.com/Charizard_(PM)
+ 904. https://www.ssbwiki.com/Diddy_Kong_(PM)
+ 905. https://www.ssbwiki.com/Donkey_Kong_(PM)
+ 906. https://www.ssbwiki.com/Falco_(PM)
+ 907. https://www.ssbwiki.com/Fox_(PM)
+ 908. https://www.ssbwiki.com/Ganondorf_(PM)
+ 909. https://www.ssbwiki.com/Ice_Climbers_(PM)
+ 910. https://www.ssbwiki.com/Ike_(PM)
+ 911. https://www.ssbwiki.com/Ivysaur_(PM)
+ 912. https://www.ssbwiki.com/Jigglypuff_(PM)
+ 913. https://www.ssbwiki.com/King_Dedede_(PM)
+ 914. https://www.ssbwiki.com/Kirby_(PM)
+ 915. https://www.ssbwiki.com/Link_(PM)
+ 916. https://www.ssbwiki.com/Lucario_(PM)
+ 917. https://www.ssbwiki.com/Lucas_(PM)
+ 918. https://www.ssbwiki.com/Luigi_(PM)
+ 919. https://www.ssbwiki.com/Mario_(PM)
+ 920. https://www.ssbwiki.com/Marth_(PM)
+ 921. https://www.ssbwiki.com/Meta_Knight_(PM)
+ 922. https://www.ssbwiki.com/Mewtwo_(PM)
+ 923. https://www.ssbwiki.com/Mr._Game_&_Watch_(PM)
+ 924. https://www.ssbwiki.com/Ness_(PM)
+ 925. https://www.ssbwiki.com/Olimar_(PM)
+ 926. https://www.ssbwiki.com/Peach_(PM)
+ 927. https://www.ssbwiki.com/Pikachu_(PM)
+ 928. https://www.ssbwiki.com/Pit_(PM)
+ 929. https://www.ssbwiki.com/R.O.B._(PM)
+ 930. https://www.ssbwiki.com/Roy_(PM)
+ 931. https://www.ssbwiki.com/Samus_(PM)
+ 932. https://www.ssbwiki.com/Sheik_(PM)
+ 933. https://www.ssbwiki.com/Snake_(PM)
+ 934. https://www.ssbwiki.com/Sonic_(PM)
+ 935. https://www.ssbwiki.com/Squirtle_(PM)
+ 936. https://www.ssbwiki.com/Toon_Link_(PM)
+ 937. https://www.ssbwiki.com/Wario_(PM)
+ 938. https://www.ssbwiki.com/Wario-Man
+ 939. https://www.ssbwiki.com/Wolf_(PM)
+ 940. https://www.ssbwiki.com/Yoshi_(PM)
+ 941. https://www.ssbwiki.com/Zelda_(PM)
+ 942. https://www.ssbwiki.com/Zero_Suit_Samus_(PM)
+ 943. https://www.ssbwiki.com/Template:SSBMods
+ 944. https://www.ssbwiki.com/Template_talk:SSBMods
+ 945. https://www.ssbwiki.com/index.php?title=Template:SSBMods&action=edit
+ 946. https://www.ssbwiki.com/Super_Smash_Bros._(series)
+ 947. https://www.ssbwiki.com/Gameplay_modification
+ 948. https://www.ssbwiki.com/Smash_64
+ 949. https://www.ssbwiki.com/19XXTE
+ 950. https://www.ssbwiki.com/Melee
+ 951. https://www.ssbwiki.com/20XX_Tournament_Edition
+ 952. https://www.ssbwiki.com/20XX_Melee_Training_Hack_Pack
+ 953. https://www.ssbwiki.com/Melee:_SD_Remix
+ 954. https://www.ssbwiki.com/Universal_Controller_Fix
+ 955. https://www.ssbwiki.com/Brawl
+ 956. https://www.ssbwiki.com/Balanced_Brawl
+ 957. https://www.ssbwiki.com/Brawl+
+ 958. https://www.ssbwiki.com/Brawl-
+ 959. https://www.ssbwiki.com/index.php?title=Project_M&oldid=1175625
+ 960. https://www.ssbwiki.com/Special:Categories
+ 961. https://www.ssbwiki.com/Category:Mods
+ 962. https://www.ssbwiki.com/Category:Project_M
+ 963. https://www.ssbwiki.com/Project_M
+ 964. https://www.ssbwiki.com/Talk:Project_M
+ 965. https://www.ssbwiki.com/index.php?title=Project_M&action=edit
+ 966. https://www.ssbwiki.com/index.php?title=Project_M&action=history
+ 967. https://www.ssbwiki.com/Special:MyTalk
+ 968. https://www.ssbwiki.com/Special:MyContributions
+ 969. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=Project+M
+ 970. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=Project+M
+ 971. https://www.ssbwiki.com/Main_Page
+ 972. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 973. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 974. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 975. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 976. https://www.ssbwiki.com/Super_Smash_Bros.
+ 977. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+ 978. https://www.ssbwiki.com/Stage
+ 979. https://www.ssbwiki.com/Mode
+ 980. https://www.ssbwiki.com/Item
+ 981. https://www.ssbwiki.com/Special:Random
+ 982. https://www.ssbwiki.com/Forum:Index
+ 983. https://www.ssbwiki.com/SmashWiki:Community_portal
+ 984. https://www.ssbwiki.com/Special:RecentChanges
+ 985. https://www.ssbwiki.com/Help:Contents
+ 986. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
+ 987. https://www.ssbwiki.com/SmashWiki:Discord_server
+ 988. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
+ 989. https://www.ssbwiki.com/Special:WhatLinksHere/Project_M
+ 990. https://www.ssbwiki.com/Special:RecentChangesLinked/Project_M
+ 991. https://www.ssbwiki.com/Special:SpecialPages
+ 992. https://www.ssbwiki.com/index.php?title=Project_M&printable=yes
+ 993. https://www.ssbwiki.com/index.php?title=Project_M&oldid=1175625
+ 994. https://www.ssbwiki.com/index.php?title=Project_M&action=info
+ 995. https://creativecommons.org/licenses/by-sa/3.0/
+ 996. https://www.mediawiki.org/
+ 997. https://creativecommons.org/licenses/by-sa/3.0/
+ 998. https://www.porplemontage.com/privacy
+ 999. https://www.ssbwiki.com/SmashWiki:About
+1000. https://www.ssbwiki.com/SmashWiki:General_disclaimer
+1001. https://www.ssbwiki.com/index.php?title=Project_M&mobileaction=toggle_view_mobile
+
+   Hidden links:
+1003. https://www.ssbwiki.com/File:PMLogo.png
+1004. https://www.ssbwiki.com/File:PMLogo.png
+1005. https://www.ssbwiki.com/File:SuccessInstall2.png
+1006. https://www.ssbwiki.com/File:SuccessInstall2.png
+1007. https://www.ssbwiki.com/File:Pro.m.jpg
+1008. https://www.ssbwiki.com/File:Pro.m.jpg
+1009. https://www.ssbwiki.com/File:PM-Alts1.jpg
+1010. https://www.ssbwiki.com/File:PM-Alts1.jpg
+1011. https://www.ssbwiki.com/File:PM-Alts2.png
+1012. https://www.ssbwiki.com/File:PM-Alts2.png
+1013. https://www.ssbwiki.com/File:Project_M_Characters.png
+1014. https://www.ssbwiki.com/File:Project_M_Characters.png
+1015. https://www.ssbwiki.com/File:SSS_Project_M_3.6.png
+1016. https://www.ssbwiki.com/File:SSS_Project_M_3.6.png
+1017. https://www.ssbwiki.com/File:Turbo.png
+1018. https://www.ssbwiki.com/File:Turbo.png
+1019. https://www.ssbwiki.com/File:Pmdemo1logo.png
+1020. https://www.ssbwiki.com/File:Pmdemo1logo.png
+1021. https://www.ssbwiki.com/File:PMDemo2Logo.png
+1022. https://www.ssbwiki.com/File:PMDemo2Logo.png
+1023. https://www.ssbwiki.com/File:PMDemo21Logo.png
+1024. https://www.ssbwiki.com/File:PMDemo21Logo.png
+1025. https://www.ssbwiki.com/File:PMDemo25Logo.png
+1026. https://www.ssbwiki.com/File:PMDemo25Logo.png
+1027. https://www.ssbwiki.com/File:PMDemo26Logo.png
+1028. https://www.ssbwiki.com/File:PMDemo26Logo.png
+1029. https://www.ssbwiki.com/File:PMDemo26bLogo.png
+1030. https://www.ssbwiki.com/File:PMDemo26bLogo.png
+1031. https://www.ssbwiki.com/File:PMDemo3Logo.png
+1032. https://www.ssbwiki.com/File:PMDemo3Logo.png
+1033. https://www.ssbwiki.com/File:Project_M_3.5.png
+1034. https://www.ssbwiki.com/File:Project_M_3.5.png
+1035. https://www.ssbwiki.com/File:Stamina_Mode_PM.gif
+1036. https://www.ssbwiki.com/File:Stamina_Mode_PM.gif
+1037. https://www.ssbwiki.com/File:Pm3.6b.png
+1038. https://www.ssbwiki.com/File:Pm3.6b.png
+1039. https://www.ssbwiki.com/File:ProjectM36logo.png
+1040. https://www.ssbwiki.com/File:ProjectM36logo.png
+1041. https://www.ssbwiki.com/File:Respawn_Loading_Glitch.png
+1042. https://www.ssbwiki.com/File:Respawn_Loading_Glitch.png
+1043. https://www.ssbwiki.com/Main_Page

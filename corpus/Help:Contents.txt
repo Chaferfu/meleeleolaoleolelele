@@ -1,0 +1,280 @@
+   #[1]Edit this page [2]SmashWiki (en) [3]SmashWiki Atom feed
+
+Help:Contents
+
+   From SmashWiki, the Super Smash Bros. wiki
+   Jump to:[4]navigation, [5]search
+
+   This page is intended to contain all the help pages for this wiki. Most, but not all, have "Help:" at the beginning of their page names and are therefore in the "Help" namespace; an automatically-generated list of those can be found at [6]Special:AllPages by running down the "Namespace" menu.
+
+   You can also:
+     * ask questions at the [7]help desk
+     * talk to one of the [8]site administrators or any currently active contributor (the people whose names appear on [9]the "Recent changes" page); use their User Talk pages.
+
+Help pages[[10]edit]
+
+     * [11]Administrators' how-to guide
+     * [12]Archiving talk pages
+     * [13]Copying from Wikipedia
+     * [14]Editing
+     * [15]Image copyright tags
+     * [16]Images
+     * [17]New page
+     * [18]Searching
+     * [19]Talk page
+     * [20]User page
+     * [21]Why create an account
+
+Wiki pages[[22]edit]
+
+   These pages deal with the wiki and how it is run.
+     * [23]About SmashWiki
+     * [24]Administrators
+     * [25]Cleanup
+     * [26]Community portal
+     * [27]Copyrights
+     * [28]Deletion
+     * [29]Frequently asked questions
+     * [30]General disclaimer
+     * [31]Manual of Style
+     * [32]Policy
+     * [33]Read This First, Man
+     * [34]Rollback
+     * [35]Stubs
+
+See also[[36]edit]
+
+     * [37]Sandbox
+     * [38]Wikipedia's help index
+
+   [39]v • [40]d • [41]e
+   [42]Policies, [43]guidelines, and help pages
+    [44]Policies  [45]Administrators · [46]Assume good faith · [47]Autoconfirmed users · [48]Bots · [49]Changing one's username · [50]Consensus · [51]Copyrights · [52]Creating new articles · [53]Deletion policy · [54]Forum policy · [55]Image copyrights · [56]Images · [57]Moving policy · [58]New game procedure · [59]No personal attacks · [60]Neutral point of view · [61]Notability · [62]Only revert once · [63]Ownership · [64]Privacy policy · [65]Probation · [66]Protection policy · [67]Quietly deal with vandals · [68]Redirects · [69]Rollback · [70]Sign your comments · [71]SmashWiki is not official · [72]SmashWiki Status System · [73]Sockpuppets · [74]Talk pages · [75]Trivia · [76]User pages · [77]Username policy · [78]Vandalism · [79]What SmashWiki is not
+   [80]Guidelines [81]Blocking guidelines · [82]Block talk · [83]Citation · [84]Manual of Style ([85]Words to Watch)  · [86]Read This First, Man · [87]Smasher article guidelines · [88]Stub · [89]You are valuable
+     Help pages   [90]Advanced editing · [91]Administrators' how-to guide · [92]Archiving talk pages · [93]Copying from Wikipedia · [94]Editing · [95]Edit summary · [96]Frequently asked questions · [97]Forums · [98]Glossary · [99]Images · [100]Namespaces · [101]New page · [102]Preferences · [103]Preview button · [104]Revert · [105]Searching · [106]Talk page · [107]Templates · [108]Uploading media · [109]User access levels · [110]User page · [111]Why create an account
+   Retrieved from "[112]https://www.ssbwiki.com/index.php?title=Help:Contents&oldid=937145"
+   [113]Category:
+     * [114]Help
+
+Navigation menu
+
+Views
+
+     * [115]Help page
+     * [116]Discussion
+     * [117]Edit this page
+     * [118]History
+
+Personal tools
+
+     * Not logged in
+     * [119]Talk
+     * [120]Contributions
+     * [121]Create account
+     * [122]Log in
+
+Navigation
+
+     * [123]Main page
+     * [124]Smash Bros. Ultimate
+     * [125]Smash Bros. 4
+     * [126]Smash Bros. Brawl
+     * [127]Smash Bros. Melee
+     * [128]Smash Bros. (64)
+     * [129]Characters
+     * [130]Stages
+     * [131]Modes
+     * [132]Items
+     * [133]Random page
+
+Search
+
+   ____________________ Go  Search
+
+Participate
+
+     * [134]Forum
+     * [135]Community portal
+     * [136]Recent changes
+     * [137]Help
+     * [138]Admin noticeboard
+     * [139]Discord server
+     * [140]YouTube channel
+
+Tools
+
+     * [141]What links here
+     * [142]Related changes
+     * [143]Special pages
+     * [144]Printable version
+     * [145]Permanent link
+     * [146]Page information
+
+   [147]Attribution-Share Alike 3.0 Unported
+   [148]Powered by MediaWiki
+     * This page was last edited on 19 February 2017, at 23:16.
+     * Content is available under [149]Attribution-Share Alike 3.0 Unported unless otherwise noted.
+     * [150]Privacy policy
+     * [151]About SmashWiki
+     * [152]Disclaimers
+     * [153]Mobile view
+
+References
+
+   Visible links
+   1. https://www.ssbwiki.com/index.php?title=Help:Contents&action=edit
+   2. https://www.ssbwiki.com/opensearch_desc.php
+   3. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&feed=atom
+   4. https://www.ssbwiki.com/Help:Contents#column-one
+   5. https://www.ssbwiki.com/Help:Contents#searchInput
+   6. https://www.ssbwiki.com/Special:AllPages
+   7. https://www.ssbwiki.com/Forum:Help_desk
+   8. https://www.ssbwiki.com/SmashWiki:Administrators#List_of_administrators
+   9. https://www.ssbwiki.com/Special:RecentChanges
+  10. https://www.ssbwiki.com/index.php?title=Help:Contents&action=edit&section=1
+  11. https://www.ssbwiki.com/Help:Administrators'_how-to_guide
+  12. https://www.ssbwiki.com/Help:Archiving_talk_pages
+  13. https://www.ssbwiki.com/Help:Copying_from_Wikipedia
+  14. https://www.ssbwiki.com/Help:Editing
+  15. https://www.ssbwiki.com/Help:Image_copyright_tags
+  16. https://www.ssbwiki.com/Help:Images
+  17. https://www.ssbwiki.com/Help:New_page
+  18. https://www.ssbwiki.com/Help:Searching
+  19. https://www.ssbwiki.com/Help:Talk_page
+  20. https://www.ssbwiki.com/Help:User_page
+  21. https://www.ssbwiki.com/Help:Why_create_an_account
+  22. https://www.ssbwiki.com/index.php?title=Help:Contents&action=edit&section=2
+  23. https://www.ssbwiki.com/SmashWiki:About
+  24. https://www.ssbwiki.com/SmashWiki:Administrators
+  25. https://www.ssbwiki.com/SmashWiki:Cleanup
+  26. https://www.ssbwiki.com/SmashWiki:Community_portal
+  27. https://www.ssbwiki.com/SmashWiki:Copyrights
+  28. https://www.ssbwiki.com/SmashWiki:Deletion_policy
+  29. https://www.ssbwiki.com/Help:FAQ
+  30. https://www.ssbwiki.com/SmashWiki:General_disclaimer
+  31. https://www.ssbwiki.com/SmashWiki:Manual_of_Style
+  32. https://www.ssbwiki.com/SmashWiki:Policy
+  33. https://www.ssbwiki.com/SmashWiki:Read_This_First,_Man
+  34. https://www.ssbwiki.com/SmashWiki:Rollback
+  35. https://www.ssbwiki.com/SmashWiki:Stub
+  36. https://www.ssbwiki.com/index.php?title=Help:Contents&action=edit&section=3
+  37. https://www.ssbwiki.com/SmashWiki:Sandbox
+  38. https://en.wikipedia.org/wiki/Help:Contents
+  39. https://www.ssbwiki.com/Template:Helpnav
+  40. https://www.ssbwiki.com/Template_talk:Helpnav
+  41. https://www.ssbwiki.com/index.php?title=Template:Helpnav&action=edit
+  42. https://www.ssbwiki.com/SmashWiki:Policy
+  43. https://www.ssbwiki.com/SmashWiki:Guideline
+  44. https://www.ssbwiki.com/SmashWiki:Policy
+  45. https://www.ssbwiki.com/SmashWiki:Administrators
+  46. https://www.ssbwiki.com/SmashWiki:Assume_good_faith
+  47. https://www.ssbwiki.com/SmashWiki:Autoconfirmed_users
+  48. https://www.ssbwiki.com/SmashWiki:Bots
+  49. https://www.ssbwiki.com/SmashWiki:Changing_one's_username
+  50. https://www.ssbwiki.com/SmashWiki:Consensus
+  51. https://www.ssbwiki.com/SmashWiki:Copyrights
+  52. https://www.ssbwiki.com/SmashWiki:Creating_new_articles
+  53. https://www.ssbwiki.com/SmashWiki:Deletion_policy
+  54. https://www.ssbwiki.com/SmashWiki:Forum_policy
+  55. https://www.ssbwiki.com/SmashWiki:Image_copyrights
+  56. https://www.ssbwiki.com/SmashWiki:Images
+  57. https://www.ssbwiki.com/SmashWiki:Moving_policy
+  58. https://www.ssbwiki.com/SmashWiki:New_game_procedure
+  59. https://www.ssbwiki.com/SmashWiki:No_personal_attacks
+  60. https://www.ssbwiki.com/SmashWiki:Neutral_point_of_view
+  61. https://www.ssbwiki.com/SmashWiki:Notability
+  62. https://www.ssbwiki.com/SmashWiki:Only_revert_once
+  63. https://www.ssbwiki.com/SmashWiki:Ownership
+  64. https://www.ssbwiki.com/SmashWiki:Privacy_policy
+  65. https://www.ssbwiki.com/SmashWiki:Probation
+  66. https://www.ssbwiki.com/SmashWiki:Protection_policy
+  67. https://www.ssbwiki.com/SmashWiki:Quietly_deal_with_vandals
+  68. https://www.ssbwiki.com/SmashWiki:Redirects
+  69. https://www.ssbwiki.com/SmashWiki:Rollback
+  70. https://www.ssbwiki.com/SmashWiki:Sign_your_comments
+  71. https://www.ssbwiki.com/SmashWiki:SmashWiki_is_not_official
+  72. https://www.ssbwiki.com/SmashWiki:SmashWiki_Status_System
+  73. https://www.ssbwiki.com/SmashWiki:Sockpuppets
+  74. https://www.ssbwiki.com/SmashWiki:Talk_pages
+  75. https://www.ssbwiki.com/SmashWiki:Trivia
+  76. https://www.ssbwiki.com/SmashWiki:User_pages
+  77. https://www.ssbwiki.com/SmashWiki:Username_policy
+  78. https://www.ssbwiki.com/SmashWiki:Vandalism
+  79. https://www.ssbwiki.com/SmashWiki:What_SmashWiki_is_not
+  80. https://www.ssbwiki.com/SmashWiki:Guideline
+  81. https://www.ssbwiki.com/SmashWiki:Blocking_guidelines
+  82. https://www.ssbwiki.com/SmashWiki:Block_talk
+  83. https://www.ssbwiki.com/SmashWiki:Citation
+  84. https://www.ssbwiki.com/SmashWiki:Manual_of_Style
+  85. https://www.ssbwiki.com/SmashWiki:Manual_of_Style/Words_to_Watch
+  86. https://www.ssbwiki.com/SmashWiki:Read_This_First,_Man
+  87. https://www.ssbwiki.com/SmashWiki:Smasher_article_guidelines
+  88. https://www.ssbwiki.com/SmashWiki:Stub
+  89. https://www.ssbwiki.com/SmashWiki:You_are_valuable
+  90. https://www.ssbwiki.com/Help:Advanced_editing
+  91. https://www.ssbwiki.com/Help:Administrators'_how-to_guide
+  92. https://www.ssbwiki.com/Help:Archiving_talk_pages
+  93. https://www.ssbwiki.com/Help:Copying_from_Wikipedia
+  94. https://www.ssbwiki.com/Help:Editing
+  95. https://www.ssbwiki.com/Help:Edit_summary
+  96. https://www.ssbwiki.com/Help:FAQ
+  97. https://www.ssbwiki.com/Help:Forums
+  98. https://www.ssbwiki.com/SmashWiki:Glossary
+  99. https://www.ssbwiki.com/Help:Images
+ 100. https://www.ssbwiki.com/Help:Namespaces
+ 101. https://www.ssbwiki.com/Help:New_page
+ 102. https://www.ssbwiki.com/Help:Preferences
+ 103. https://www.ssbwiki.com/Help:Preview_button
+ 104. https://www.ssbwiki.com/Help:Revert
+ 105. https://www.ssbwiki.com/Help:Searching
+ 106. https://www.ssbwiki.com/Help:Talk_page
+ 107. https://www.ssbwiki.com/Help:Templates
+ 108. https://www.ssbwiki.com/Help:Uploading_media
+ 109. https://www.ssbwiki.com/Help:User_access_levels
+ 110. https://www.ssbwiki.com/Help:User_page
+ 111. https://www.ssbwiki.com/Help:Why_create_an_account
+ 112. https://www.ssbwiki.com/index.php?title=Help:Contents&oldid=937145
+ 113. https://www.ssbwiki.com/Special:Categories
+ 114. https://www.ssbwiki.com/Category:Help
+ 115. https://www.ssbwiki.com/Help:Contents
+ 116. https://www.ssbwiki.com/Help_talk:Contents
+ 117. https://www.ssbwiki.com/index.php?title=Help:Contents&action=edit
+ 118. https://www.ssbwiki.com/index.php?title=Help:Contents&action=history
+ 119. https://www.ssbwiki.com/Special:MyTalk
+ 120. https://www.ssbwiki.com/Special:MyContributions
+ 121. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=Help:Contents
+ 122. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=Help:Contents
+ 123. https://www.ssbwiki.com/Main_Page
+ 124. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 125. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 126. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 127. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 128. https://www.ssbwiki.com/Super_Smash_Bros.
+ 129. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+ 130. https://www.ssbwiki.com/Stage
+ 131. https://www.ssbwiki.com/Mode
+ 132. https://www.ssbwiki.com/Item
+ 133. https://www.ssbwiki.com/Special:Random
+ 134. https://www.ssbwiki.com/Forum:Index
+ 135. https://www.ssbwiki.com/SmashWiki:Community_portal
+ 136. https://www.ssbwiki.com/Special:RecentChanges
+ 137. https://www.ssbwiki.com/Help:Contents
+ 138. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
+ 139. https://www.ssbwiki.com/SmashWiki:Discord_server
+ 140. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
+ 141. https://www.ssbwiki.com/Special:WhatLinksHere/Help:Contents
+ 142. https://www.ssbwiki.com/Special:RecentChangesLinked/Help:Contents
+ 143. https://www.ssbwiki.com/Special:SpecialPages
+ 144. https://www.ssbwiki.com/index.php?title=Help:Contents&printable=yes
+ 145. https://www.ssbwiki.com/index.php?title=Help:Contents&oldid=937145
+ 146. https://www.ssbwiki.com/index.php?title=Help:Contents&action=info
+ 147. https://creativecommons.org/licenses/by-sa/3.0/
+ 148. https://www.mediawiki.org/
+ 149. https://creativecommons.org/licenses/by-sa/3.0/
+ 150. https://www.porplemontage.com/privacy
+ 151. https://www.ssbwiki.com/SmashWiki:About
+ 152. https://www.ssbwiki.com/SmashWiki:General_disclaimer
+ 153. https://www.ssbwiki.com/index.php?title=Help:Contents&mobileaction=toggle_view_mobile
+
+   Hidden links:
+ 155. https://www.ssbwiki.com/Main_Page

@@ -1,0 +1,2719 @@
+   #[1]Edit this page [2]SmashWiki (en) [3]SmashWiki Atom feed
+
+Stage
+
+   From SmashWiki, the Super Smash Bros. wiki
+   Jump to:[4]navigation, [5]search
+   [6]Super Smash Bros. series
+
+          For other uses of the term, see [7]Stage (disambiguation).
+
+   The Battlefield stage in [8]Super Smash Bros. Ultimate is an example of a typical stage in the Super Smash Bros. series.
+
+   A stage (ステージ, Stage), also called a level, map, arena, stadium, or board, is a location in which [9]characters fight or complete objectives. The word "stage" refers to a [10]versus mode stage, but can also refer to the ground or large central [11]platform within this location. As well as versus mode stages, single player mode stages, such as the [12]Target Smash ones, exist for purposes other than fighting.
+
+Contents
+
+     * [13]1 Versus stages
+     * [14]2 List of Stages
+          + [15]2.1 Notes
+          + [16]2.2 In Super Smash Bros.
+          + [17]2.3 In Melee
+          + [18]2.4 In Brawl
+          + [19]2.5 In Smash 4
+          + [20]2.6 In Ultimate
+     * [21]3 Single player stages
+          + [22]3.1 In Super Smash Bros.
+          + [23]3.2 In Melee
+          + [24]3.3 In Brawl
+          + [25]3.4 In Smash 4
+          + [26]3.5 In Ultimate
+     * [27]4 Non-playable stages
+          + [28]4.1 In Super Smash Bros.
+          + [29]4.2 In Melee
+          + [30]4.3 In Brawl
+          + [31]4.4 In for Wii U
+     * [32]5 Custom Stages
+     * [33]6 References
+
+Versus stages[[34]edit]
+
+   In all of the games of the [35]Super Smash Bros. series, most [36]versus mode stages are available from the [37]start, while a small number must be [38]unlocked by completing certain objectives. Some stages in SSB4 were made available through updates and are [39]downloadable. Of these stages, [40]only two [41]are free. Most stages, like [42]Princess Peach's Castle, are derived from places in playable characters' [43]universes. [44]Super Smash Bros. Melee introduced two [45]Super Smash Bros. universe stages — [46]Battlefield and [47]Final Destination. In [48]Super Smash Bros. Brawl, stages derived from games without associated playable characters were introduced, namely [49]Smashville and [50]Hanenbow, while [51]PictoChat represents a [52]Nintendo DS utility interface. Additionally, not every playable character has a stage from their own universe, the [53]Fire Emblem universe lacked one in Melee (though [54]one was planned), and the [55]R.O.B. universe has, for unknown reasons, never had a
+   stage. Included in all games other than the first are a small number (large number in Smash Wii U and Ultimate) of [56]Past Stages — stages from a previous Smash game. These stages will have either no or minor alterations, an example being [57]Dream Land (64) in SSB4, where the top blast line is much closer to the stage then it was in 64 or Melee. Ultimate changes this, giving various stages a more refined and detailed design.
+
+   Stages range in size from the large [58]The Great Cave Offensive and [59]Rumble Falls to the small [60]Yoshi's Story and [61]Peach's Castle. Typically, stages involve a large central [62]platform with [63]ledges, multiple smaller platforms, as well as [64]blast lines above, below, and to the left and right of the visible area. Some stages, such as [65]Mushroom Kingdom and [66]Coliseum, have floors that continue past the edge of the visible area and pass through a side blast line, these edges are known as "walk-off edges" or "walk-offs", because characters can walk offscreen without the need to become airborne. Stages with walk-off edges on both the left and right, like [67]Bridge of Eldin, are referred to as "walk-off stages", and only a select few, like [68]Yoshi's Island, have only one walk-off. Some walk-off stages, such as [69]Onett, have lower blast lines that are inaccessible normally, while others, such as [70]Green Hill Zone, only infrequently have the lower blast lines introduced;
+   still others, such as [71]Mushroom Kingdom, have permanently-accessible gaps where players can fall past the lower blast line while still having solid ground covering most of the lower blast line, including its intersections with the left and/or right blast lines.
+
+   In Melee, [72]moving and transforming stages were introduced. [73]Big Blue and [74]Rainbow Cruise consist entirely of platforms that move or appear on and offscreen, while stages like [75]Icicle Mountain and [76]PAC-LAND scroll continuously up, to the side, or down. Other stages, such as [77]Pokémon Stadium, undergo partial transformations at certain intervals, while yet others, like Brawl's [78]Castle Siege and Smash 3DS's [79]Paper Mario, cycle through complete transformations. Similarly, stages like [80]Delfino Plaza and [81]Skyloft will take players to various areas via moving platforms. [82]Mushroomy Kingdom may be one of two stages either randomly or based on a player's input prior to the match. [83]Tortimer Island's, [84]Gamer's, [85]Balloon Fight's, and [86]Garden of Hope's layouts are randomized to varying degrees for each battle as well.
+
+   Other stage elements include breakable barriers and platforms, such as the pillars of [87]Luigi's Mansion and the stone floors of [88]Skyworld; [89]stage hazards and [90]enemies, such as lasers, cars, and [91]Klaptraps; local items such as [92]apples; and interactive objects such as [93]Barrel Cannons and switches. While [94]water has no effect on movement in Melee outside of the flowing river in [95]Jungle Japes, Brawl introduced [96]swimming, and some of its stages involve water that can be swum in.
+
+   In Brawl and Smash 4, the appearance of some items, namely [97]crates and [98]barrels, differs depending on the aesthetic style of the stage they appear on.
+
+   In all games, some stages (and in SSB's case, all but [99]one) are banned in [100]competitive play because they are considered disruptive or unfair. See [101]stage legality.
+
+List of Stages[[102]edit]
+
+   Starter Unlockable Downloadable
+                               Stage                                                  Universe                       [103]Super Smash Bros. [104]Super Smash Bros. Melee [105]Super Smash Bros. Brawl [106]Super Smash Bros. for Nintendo 3DS [107]Super Smash Bros. for Wii U [108]Super Smash Bros. Ultimate
+   [109]3D Land                                                  [110]MarioSymbol.svg [111]Mario                     No                     No                           No                           Yes                                     No                               Yes
+   [112]75m                                                      [113]DKSymbol.svg [114]Donkey Kong                  No                     No                           Yes                          No                                      Yes                              Yes
+   [115]Arena Ferox                                              [116]FireEmblemSymbol.svg [117]Fire Emblem          No                     No                           No                           Yes                                     No                               Yes
+   [118]Balloon Fight                                            [119]BalloonFightSymbol.svg [120]Balloon Fight      No                     No                           No                           Yes                                     No                               Yes
+   [121]Battlefield [122]Super Smash Bros. Melee ^[123][1]       SpecialStagesSymbol.svg [124]Super Smash Bros.      No                     Yes                          No                           No                                      No                               No
+   [125]Battlefield [126]Super Smash Bros. Brawl                 [127]SmashBrosSymbol.svg [128]Super Smash Bros.     No                     No                           Yes                          No                                      No                               No
+   [129]Battlefield [130]Super Smash Bros. 4                     [131]SmashBrosSymbol.svg [132]Super Smash Bros.     No                     No                           No                           Yes                                     Yes                              No
+   [133]Battlefield [134]Super Smash Bros. Ultimate              [135]SmashBrosSymbol.svg [136]Super Smash Bros.     No                     No                           No                           No                                      No                               Yes
+   [137]Big Battlefield [138]Super Smash Bros. for Wii U         [139]SmashBrosSymbol.svg [140]Super Smash Bros.     No                     No                           No                           No                                      Yes                              No
+   [141]Big Battlefield [142]Super Smash Bros. Ultimate          [143]SmashBrosSymbol.svg [144]Super Smash Bros.     No                     No                           No                           No                                      No                               Yes
+   [145]Big Blue^[146][2]                                        [147]FZeroSymbol.svg [148]F-Zero                    No                     Yes                          Yes                          No                                      No                               Yes
+   [149]Boxing Ring                                              [150]PunchOutSymbol.svg [151]Punch-Out!!            No                     No                           No                           Yes                                     Yes                              Yes
+   [152]Bridge of Eldin                                          [153]ZeldaSymbol.svg [154]The Legend of Zelda       No                     No                           Yes                          No                                      Yes                              Yes
+   [155]Brinstar^[156][3]                                        [157]MetroidSymbol.svg [158]Metroid                 No                     Yes                          Yes                          Yes                                     No                               Yes
+   [159]Brinstar Depths^[160][4]                                 [161]MetroidSymbol.svg [162]Metroid                 No                     Yes                          No                           No                                      No                               Yes
+   [163]Castle Siege                                             [164]FireEmblemSymbol.svg [165]Fire Emblem          No                     No                           Yes                          No                                      Yes                              Yes
+   [166]Coliseum                                                 [167]FireEmblemSymbol.svg [168]Fire Emblem          No                     No                           No                           No                                      Yes                              Yes
+   [169]Corneria^[170][5]                                        [171]StarFoxSymbol.svg [172]Star Fox                No                     Yes                          Yes                          Yes                                     No                               Yes
+   [173]Delfino Plaza                                            [174]MarioSymbol.svg [175]Mario                     No                     No                           Yes                          No                                      Yes                              Yes
+   [176]Distant Planet                                           [177]PikminSymbol.svg [178]Pikmin                   No                     No                           Yes                          Yes                                     No                               Yes
+   [179]Dracula's Castle                                         [180]CastlevaniaSymbol.svg [181]Castlevania         No                     No                           No                           No                                      No                               Yes
+   [182]Dream Land [183]Super Smash Bros. ^[184][6]              [185]KirbySymbol.svg [186]Kirby                     Yes                    Yes                          No                           Yes                                     Yes                              Yes
+   [187]Dream Land GB^[188][7]                                   [189]KirbySymbol.svg [190]Kirby                     No                     No                           No                           Yes                                     No                               Yes
+   [191]Duck Hunt                                                [192]DuckHuntSymbol.svg [193]Duck Hunt              No                     No                           No                           Yes                                     Yes                              Yes
+   [194]Figure-8 Circuit^[195][8]                                [196]MarioSymbol.svg [197]Mario                     No                     No                           Yes                          No                                      Yes                              Yes
+   [198]Final Destination [199]Super Smash Bros. Melee ^[200][9] [201]SmashBrosSymbol.svg [202]Super Smash Bros.     No                     Yes                          No                           No                                      No                               No
+   [203]Final Destination [204]Super Smash Bros. Brawl           [205]SmashBrosSymbol.svg [206]Super Smash Bros.     No                     No                           Yes                          No                                      No                               No
+   [207]Final Destination [208]Super Smash Bros. 4               [209]SmashBrosSymbol.svg [210]Super Smash Bros.     No                     No                           No                           Yes                                     Yes                              No
+   [211]Final Destination [212]Super Smash Bros. Ultimate        [213]SmashBrosSymbol.svg [214]Super Smash Bros.     No                     No                           No                           No                                      No                               Yes
+   [215]Find Mii                                                 [216]FindMiiSymbol.svg [217]Find Mii                No                     No                           No                           Yes                                     No                               Yes
+   [218]Flat Zone^[219][10]                                      [220]Game&WatchSymbol.svg [221]Game & Watch         No                     Yes                          No                           No                                      No ^[222][11]                    No ^[223][11]
+   [224]Flat Zone 2                                              [225]Game&WatchSymbol.svg [226]Game & Watch         No                     No                           Yes                          Yes                                     No ^[227][11]                    No ^[228][11]
+   [229]Flat Zone X                                              [230]Game&WatchSymbol.svg [231]Game & Watch         No                     No                           No                           No                                      Yes                              Yes
+   [232]Fountain of Dreams^[233][12]                             [234]KirbySymbol.svg [235]Kirby                     No                     Yes                          No                           No                                      No                               Yes
+   [236]Fourside^[237][13]                                       [238]EarthboundSymbol.svg [239]EarthBound           No                     Yes                          No                           No                                      No                               Yes
+   [240]Frigate Orpheon                                          [241]MetroidSymbol.svg [242]Metroid                 No                     No                           Yes                          No                                      No                               Yes
+   [243]Gamer                                                    [244]WarioSymbol.svg [245]Wario                     No                     No                           No                           No                                      Yes                              Yes
+   [246]Garden of Hope                                           [247]PikminSymbol.svg [248]Pikmin                   No                     No                           No                           No                                      Yes                              Yes
+   [249]Gaur Plain                                               [250]XenobladeSymbol.svg [251]Xenoblade             No                     No                           No                           Yes                                     Yes                              Yes
+   [252]Gerudo Valley                                            [253]ZeldaSymbol.svg [254]The Legend of Zelda       No                     No                           No                           Yes                                     No                               Yes
+   [255]Golden Plains                                            [256]MarioSymbol.svg [257]Mario                     No                     No                           No                           Yes                                     No                               Yes
+   [258]Great Bay^[259][14]                                      [260]ZeldaSymbol.svg [261]The Legend of Zelda       No                     Yes                          No                           No                                      No                               Yes
+   [262]The Great Cave Offensive                                 [263]KirbySymbol.svg [264]Kirby                     No                     No                           No                           No                                      Yes                              Yes
+   [265]Great Plateau Tower                                      [266]ZeldaSymbol.svg [267]The Legend of Zelda       No                     No                           No                           No                                      No                               Yes
+   [268]Green Greens^[269][15]                                   [270]KirbySymbol.svg [271]Kirby                     No                     Yes                          Yes                          No                                      No                               Yes
+   [272]Green Hill Zone                                          [273]SonicSymbol.svg [274]Sonic                     No                     No                           Yes                          Yes                                     No                               Yes
+   [275]Halberd                                                  [276]KirbySymbol.svg [277]Kirby                     No                     No                           Yes                          No                                      Yes                              Yes
+   [278]Hanenbow                                                 [279]ElectroplanktonSymbol.svg [280]Electroplankton No                     No                           Yes                          No                                      No                               Yes
+   [281]Hyrule Castle                                            [282]ZeldaSymbol.svg [283]The Legend of Zelda       Yes                    No                           No                           Yes                                     Yes                              Yes
+   [284]Icicle Mountain^[285][16]                                [286]IceClimberSymbol.svg [287]Ice Climber          No                     Yes                          No                           No                                      No                               No
+   [288]Jungle Hijinxs                                           [289]DKSymbol.svg [290]Donkey Kong                  No                     No                           No                           No                                      Yes                              No
+   [291]Jungle Japes^[292][17]                                   [293]DKSymbol.svg [294]Donkey Kong                  No                     Yes                          Yes                          Yes                                     No                               Yes
+   [295]Kalos Pokémon League                                     [296]PokemonSymbol.svg [297]Pokémon                 No                     No                           No                           No                                      Yes                              Yes
+   [298]Kongo Falls^[299][18]                                    [300]DKSymbol.svg [301]Donkey Kong                  No                     Yes                          No                           No                                      No                               Yes
+   [302]Kongo Jungle [303]Super Smash Bros. ^[304][19]           [305]DKSymbol.svg [306]Donkey Kong                  Yes                    Yes                          No                           No                                      Yes                              Yes
+   [307]Living Room                                              [308]NintendogsSymbol.svg [309]Nintendogs           No                     No                           No                           Yes                                     No                               Yes
+   [310]Luigi's Mansion                                          [311]MarioSymbol.svg [312]Mario                     No                     No                           Yes                          No                                      Yes                              Yes
+   [313]Lylat Cruise                                             [314]StarFoxSymbol.svg [315]Star Fox                No                     No                           Yes                          No                                      Yes                              Yes
+   [316]Magicant                                                 [317]EarthboundSymbol.svg [318]EarthBound           No                     No                           No                           Yes                                     No                               Yes
+   [319]Mario Bros.                                              [320]MarioSymbol.svg [321]Mario                     No                     No                           Yes                          No                                      No                               Yes
+   [322]Mario Circuit [323]Super Smash Bros. for Wii U           [324]MarioSymbol.svg [325]Mario                     No                     No                           No                           No                                      Yes                              Yes
+   [326]Mario Galaxy                                             [327]MarioSymbol.svg [328]Mario                     No                     No                           No                           No                                      Yes                              Yes
+   [329]Midgar                                                   [330]FinalFantasySymbol.svg [331]Final Fantasy      No                     No                           No                           Yes                                     Yes                              Yes
+   [332]Miiverse                                                 [333]MiiverseSymbol.svg [334]Miiverse               No                     No                           No                           No                                      Yes                              No
+   [335]Moray Towers                                             [336]SplatoonSymbol.svg [337]Splatoon               No                     No                           No                           No                                      No                               Yes
+   [338]Mushroom Kingdom [339]Super Smash Bros.                  [340]MarioSymbol.svg [341]Mario                     Yes                    No                           No                           No                                      No                               Yes
+   [342]Mushroom Kingdom [343]Super Smash Bros. Melee ^[344][20] [345]MarioSymbol.svg [346]Mario                     No                     Yes                          No                           No                                      No                               No
+   [347]Mushroom Kingdom II^[348][21]                            [349]MarioSymbol.svg [350]Mario                     No                     Yes                          No                           No                                      No                               Yes
+   [351]Mushroomy Kingdom                                        [352]MarioSymbol.svg [353]Mario                     No                     No                           Yes                          Yes                                     No                               Yes
+   [354]Mushroom Kingdom U                                       [355]MarioSymbol.svg [356]Mario                     No                     No                           No                           No                                      Yes                              Yes
+   [357]Mute City [358]Super Smash Bros. Melee ^[359][22]        [360]FZeroSymbol.svg [361]F-Zero                    No                     Yes                          No                           No                                      No                               No
+   [362]Mute City SNES^[363][23]                                 [364]FZeroSymbol.svg [365]F-Zero                    No                     No                           No                           Yes                                     No                               Yes
+   [366]New Donk City Hall                                       [367]MarioSymbol.svg [368]Mario                     No                     No                           No                           No                                      No                               Yes
+   [369]New Pork City                                            [370]EarthboundSymbol.svg [371]EarthBound           No                     No                           Yes                          No                                      No                               Yes
+   [372]Norfair                                                  [373]MetroidSymbol.svg [374]Metroid                 No                     No                           Yes                          No                                      Yes                              Yes
+   [375]Onett^[376][24]                                          [377]EarthboundSymbol.svg [378]EarthBound           No                     Yes                          Yes                          No                                      Yes                              Yes
+   [379]Orbital Gate Assault                                     [380]StarFoxSymbol.svg [381]Star Fox                No                     No                           No                           No                                      Yes                              No
+   [382]Pac-Land                                                 [383]PacManSymbol.svg [384]Pac-Man                  No                     No                           No                           No                                      Yes                              Yes
+   [385]Pac-Maze                                                 [386]PacManSymbol.svg [387]Pac-Man                  No                     No                           No                           Yes                                     No                               No
+   [388]Palutena's Temple                                        [389]KidIcarusSymbol.svg [390]Kid Icarus            No                     No                           No                           No                                      Yes                              Yes
+   [391]Paper Mario                                              [392]MarioSymbol.svg [393]Mario                     No                     No                           No                           Yes                                     No                               Yes
+   [394]Peach's Castle                                           [395]MarioSymbol.svg [396]Mario                     Yes                    No                           No                           Yes                                     Yes                              Yes
+   [397]Princess Peach's Castle^[398][25]                        [399]MarioSymbol.svg [400]Mario                     No                     Yes                          No                           No                                      No                               Yes
+   [401]PictoChat                                                [402]DSSymbol.svg [403]Nintendo DS                  No                     No                           Yes                          No                                      No                               No
+   [404]PictoChat 2                                              [405]DSSymbol.svg [406]Nintendo DS                  No                     No                           No                           Yes                                     No                               Yes
+   [407]Pilotwings                                               [408]PilotwingsSymbol.svg [409]Pilotwings           No                     No                           No                           No                                      Yes                              Yes
+   [410]Pirate Ship                                              [411]ZeldaSymbol.svg [412]The Legend of Zelda       No                     No                           Yes                          No                                      Yes                              Yes
+   [413]Planet Zebes                                             [414]MetroidSymbol.svg [415]Metroid                 Yes                    No                           No                           No                                      No                               No
+   [416]Poké Floats^[417][26]                                    [418]PokemonSymbol.svg [419]Pokémon                 No                     Yes                          No                           No                                      No                               No
+   [420]Pokémon Stadium^[421][27]                                [422]PokemonSymbol.svg [423]Pokémon                 No                     Yes                          Yes                          No                                      No                               Yes
+   [424]Pokémon Stadium 2                                        [425]PokemonSymbol.svg [426]Pokémon                 No                     No                           Yes                          No                                      Yes                              Yes
+   [427]Port Town Aero Dive                                      [428]FZeroSymbol.svg [429]F-Zero                    No                     No                           Yes                          No                                      Yes                              Yes
+   [430]Prism Tower                                              [431]PokemonSymbol.svg [432]Pokémon                 No                     No                           No                           Yes                                     No                               Yes
+   [433]Pyrosphere                                               [434]MetroidSymbol.svg [435]Metroid                 No                     No                           No                           No                                      Yes                              No
+   [436]Rainbow Cruise^[437][28]                                 [438]MarioSymbol.svg [439]Mario                     No                     Yes                          Yes                          No                                      No                               Yes
+   [440]Rainbow Road                                             [441]MarioSymbol.svg [442]Mario                     No                     No                           No                           Yes                                     No                               No
+   [443]Reset Bomb Forest                                        [444]KidIcarusSymbol.svg [445]Kid Icarus            No                     No                           No                           Yes                                     No                               Yes
+   [446]Rumble Falls                                             [447]DKSymbol.svg [448]Donkey Kong                  No                     No                           Yes                          No                                      No                               No
+   [449]Saffron City                                             [450]PokemonSymbol.svg [451]Pokémon                 Yes                    No                           No                           No                                      No                               Yes
+   [452]Sector Z                                                 [453]StarFoxSymbol.svg [454]Star Fox                Yes                    No                           No                           No                                      No                               No
+   [455]Shadow Moses Island                                      [456]MetalGearSymbol.svg [457]Metal Gear            No                     No                           Yes                          No                                      No                               Yes
+   [458]Skyloft                                                  [459]ZeldaSymbol.svg [460]The Legend of Zelda       No                     No                           No                           No                                      Yes                              Yes
+   [461]Skyworld                                                 [462]KidIcarusSymbol.svg [463]Kid Icarus            No                     No                           Yes                          No                                      Yes                              Yes
+   [464]Smashville                                               [465]AnimalCrossingSymbol.svg [466]Animal Crossing  No                     No                           Yes                          No                                      Yes                              Yes
+   [467]Spear Pillar                                             [468]PokemonSymbol.svg [469]Pokémon                 No                     No                           Yes                          No                                      No                               Yes
+   [470]Spirit Train                                             [471]ZeldaSymbol.svg [472]The Legend of Zelda       No                     No                           No                           Yes                                     No                               Yes
+   [473]Summit                                                   [474]IceClimberSymbol.svg [475]Ice Climber          No                     No                           Yes                          No                                      No                               Yes
+   [476]Super Happy Tree^[477][29]                               [478]YoshiSymbol.svg [479]Yoshi                     Yes                    Yes                          No                           No                                      No                               Yes
+   [480]Super Mario Maker                                        [481]MarioSymbol.svg [482]Mario                     No                     No                           No                           Yes                                     Yes                              Yes
+   [483]Suzaku Castle                                            [484]StreetFighterSymbol.svg [485]Street Fighter    No                     No                           No                           Yes                                     Yes                              Yes
+   [486]Temple^[487][30]                                         [488]ZeldaSymbol.svg [489]The Legend of Zelda       No                     Yes                          Yes                          No                                      Yes                              Yes
+   [490]Tomodachi Life                                           [491]TomodachiSymbol.svg [492]Tomodachi             No                     No                           No                           Yes                                     No                               Yes
+   [493]Tortimer Island                                          [494]AnimalCrossingSymbol.svg [495]Animal Crossing  No                     No                           No                           Yes                                     No                               Yes
+   [496]Town and City                                            [497]AnimalCrossingSymbol.svg [498]Animal Crossing  No                     No                           No                           No                                      Yes                              Yes
+   [499]Umbra Clock Tower                                        [500]BayonettaSymbol.svg [501]Bayonetta             No                     No                           No                           Yes                                     Yes                              Yes
+   [502]Unova Pokémon League                                     [503]PokemonSymbol.svg [504]Pokémon                 No                     No                           No                           Yes                                     No                               Yes
+   [505]Venom^[506][31]                                          [507]StarFoxSymbol.svg [508]Star Fox                No                     Yes                          No                           No                                      No                               Yes
+   [509]WarioWare, Inc.                                          [510]WarioSymbol.svg [511]Wario                     No                     No                           Yes                          Yes                                     No                               Yes
+   [512]Wii Fit Studio                                           [513]WiiFitSymbol.svg [514]Wii Fit                  No                     No                           No                           No                                      Yes                              Yes
+   [515]Wily Castle                                              [516]MegaManSymbol.svg [517]Mega Man                No                     No                           No                           Yes ^[518][32]                          Yes ^[519][33]                   Yes ^[520][34]
+   [521]Windy Hill Zone                                          [522]SonicSymbol.svg [523]Sonic                     No                     No                           No                           No                                      Yes                              Yes
+   [524]Woolly World                                             [525]YoshiSymbol.svg [526]Yoshi                     No                     No                           No                           No                                      Yes                              No
+   [527]Wrecking Crew                                            [528]WreckingCrewSymbol.svg [529]Wrecking Crew      No                     No                           No                           No                                      Yes                              Yes
+   [530]Wuhu Island                                              [531]WiiSportsSymbol.svg [532]Wii Sports            No                     No                           No                           No                                      Yes                              Yes
+   [533]Yoshi's Island [534]Super Smash Bros. Melee ^[535][35]   [536]YoshiSymbol.svg [537]Yoshi                     No                     Yes                          Yes                          No                                      Yes                              Yes
+   [538]Yoshi's Island [539]Super Smash Bros. Brawl              [540]YoshiSymbol.svg [541]Yoshi                     No                     No                           Yes                          Yes                                     No                               Yes
+   [542]Yoshi's Story^[543][36]                                  [544]YoshiSymbol.svg [545]Yoshi                     No                     Yes                          No                           No                                      No                               Yes
+                                                      New Stages                                                               9                         26                           31                              25 + 5                               29 + 5                             7
+                                                   Returning Stages                                                            0                         3                            10                               9 + 3                               17 + 4                            96
+                                                     Total Stages                                                              9                         29                           41                              34 + 8                               46 + 9                            103
+
+Notes[[546]edit]
+
+    1. [547]↑ Listed as "Special Stages: Battlefield" in Melee.
+    2. [548]↑ Listed as "F-Zero Grand Prix: Big Blue" in Melee.
+    3. [549]↑ Listed as "Planet Zebes: Brinstar" in Melee.
+    4. [550]↑ Listed as "Planet Zebes: Brinstar Depths" in Melee.
+    5. [551]↑ Listed as "Lylat System: Corneria" in Melee.
+    6. [552]↑ Listed as "Past Stages: Dream Land" in Melee.
+    7. [553]↑ Listed as "Dream Land" in Smash 4.
+    8. [554]↑ Listed as "Mario Circuit" in Brawl, and as "Mario Circuit (Brawl)" in Smash 4.
+    9. [555]↑ Listed as "Special Stages: Final Destination" in Melee.
+   10. [556]↑ Listed as "Superflat World: Flat Zone" in Melee.
+   11. ↑ ^[557]11.0 ^[558]11.1 ^[559]11.2 ^[560]11.3 Appears as part of [561]Flat Zone X.
+   12. [562]↑ Listed as "Dream Land: Fountain of Dreams" in Melee.
+   13. [563]↑ Listed as "Eagleland: Fourside" in Melee.
+   14. [564]↑ Listed as "Termina: Great Bay" in Melee.
+   15. [565]↑ Listed as "Dream Land: Green Greens" in Melee.
+   16. [566]↑ Listed as "Infinite Glacier: Icicle Mountain" in Melee.
+   17. [567]↑ Listed as "DK Island: Jungle Japes" in Melee.
+   18. [568]↑ Listed as "DK Island: Kongo Jungle" in Melee.
+   19. [569]↑ Listed as "Congo Jungle" in 64, and as "Past Stages: Kongo Jungle" in Melee.
+   20. [570]↑ Listed as "Mushroom: Kingdom" in Melee.
+   21. [571]↑ Listed as "Mushroom: Kingdom II" in Melee.
+   22. [572]↑ Listed as "F-Zero Grand Prix: Mute City" in Melee.
+   23. [573]↑ Listed as "Mute City" in Smash 4.
+   24. [574]↑ Listed as "Eagleland: Onett" in Melee.
+   25. [575]↑ Listed as "Mushroom Kingdom: Princess Peach's Castle" in Melee.
+   26. [576]↑ Listed as "Kanto Skies: Poké Floats" in Melee.
+   27. [577]↑ Listed as "Kanto: Pokémon Stadium" in Melee.
+   28. [578]↑ Listed as "Mushroom Kingdom: Rainbow Cruise" in Melee.
+   29. [579]↑ Listed as "Yoshi's Island" in 64, and as "Past Stages: Yoshi's Island" in Melee.
+   30. [580]↑ Listed as "Hyrule: Temple" in Melee.
+   31. [581]↑ Listed as "Lylat System: Venom" in Melee.
+   32. [582]↑ In [583]Super Smash Bros. for Nintendo 3DS, Wily Castle is set during the day and has a variety of moving platforms.
+   33. [584]↑ In [585]Super Smash Bros. for Wii U, Wily Castle is set during the night and has platforms moving along rails, as well as the [586]Yellow Devil.
+   34. [587]↑ In Ultimate, Wily Castle is set during the night and has the hazards from both versions of Smash 4.
+   35. [588]↑ Listed as "Yoshi's Island: Yoshi's Island" in Melee.
+   36. [589]↑ Listed as "Yoshi's Island: Yoshi's Story" in Melee.
+
+In Super Smash Bros.[[590]edit]
+
+   The stage select screen in Smash 64.
+
+   There are nine versus stages in the original [591]Super Smash Bros., eight [592]starters and one [593]unlockable stage: Mushroom Kingdom, shown in bold.
+
+   [594]Super Smash Bros. Stages
+
+          [595]DKSymbol(preBrawl).svg [596]Congo Jungle
+          [597]KirbySymbol.svg [598]Dream Land
+          [599]ZeldaSymbol.svg [600]Hyrule Castle
+          [601]MarioSymbol(preBrawl).svg [602]Mushroom Kingdom
+          [603]MarioSymbol(preBrawl).svg [604]Peach's Castle
+          [605]MetroidSymbol(preBrawl).svg [606]Planet Zebes
+          [607]PokemonSymbol(preBrawl).svg [608]Saffron City
+          [609]StarFoxSymbol(preBrawl).svg [610]Sector Z
+          [611]YoshiSymbol(preBrawl).svg [612]Yoshi's Island
+
+In Melee[[613]edit]
+
+   The stage select screen in Melee.
+
+   There are 29 versus stages in [614]Super Smash Bros. Melee, 18 [615]starters and 11 unlockable stages, shown below in bold. The three past stages are unlockable.
+
+   [616]Super Smash Bros. Melee Melee Stages
+
+          [617]SpecialStagesSymbol.svg [618]Battlefield
+          [619]FZeroSymbol.svg [620]Big Blue
+          [621]MetroidSymbol(preBrawl).svg [622]Brinstar
+          [623]MetroidSymbol(preBrawl).svg [624]Brinstar Depths
+          [625]StarFoxSymbol(preBrawl).svg [626]Corneria
+          [627]SmashBrosSymbol.svg [628]Final Destination
+          [629]Game&WatchSymbol(preBrawl).svg [630]Flat Zone
+          [631]KirbySymbol.svg [632]Fountain of Dreams
+          [633]EarthboundSymbol(preBrawl).svg [634]Fourside
+          [635]ZeldaSymbol.svg [636]Great Bay
+          [637]KirbySymbol.svg [638]Green Greens
+          [639]IceClimberSymbol.svg [640]Icicle Mountain
+          [641]DKSymbol(preBrawl).svg [642]Jungle Japes
+          [643]DKSymbol(preBrawl).svg [644]Kongo Jungle
+          [645]MarioSymbol(preBrawl).svg [646]Mushroom Kingdom
+          [647]MarioSymbol(preBrawl).svg [648]Mushroom Kingdom II
+          [649]FZeroSymbol.svg [650]Mute City
+          [651]EarthboundSymbol(preBrawl).svg [652]Onett
+          [653]PokemonSymbol(preBrawl).svg [654]Poké Floats
+          [655]PokemonSymbol(preBrawl).svg [656]Pokémon Stadium
+          [657]MarioSymbol(preBrawl).svg [658]Princess Peach's Castle
+          [659]MarioSymbol(preBrawl).svg [660]Rainbow Cruise
+          [661]ZeldaSymbol.svg [662]Temple
+          [663]StarFoxSymbol(preBrawl).svg [664]Venom
+          [665]YoshiSymbol(preBrawl).svg [666]Yoshi's Island
+          [667]YoshiSymbol(preBrawl).svg [668]Yoshi's Story
+
+   [669]Super Smash Bros. [670]Past Stages
+
+          [671]DKSymbol(preBrawl).svg [672]Kongo Jungle
+          [673]KirbySymbol.svg [674]Dream Land
+          [675]YoshiSymbol(preBrawl).svg [676]Yoshi's Island
+
+In Brawl[[677]edit]
+
+   The stage select screen in Brawl.
+   The Melee Stages screen in Brawl.
+
+   There are 41 versus stages in [678]Super Smash Bros. Brawl, 29 [679]starters and 12 unlockable stages, shown below in bold. None of the original Super Smash Bros. stages return, but there are 10 stages from Melee, one from each universe involved in the original Super Smash Bros.
+
+   [680]Super Smash Bros. Brawl Brawl Stages
+
+          [681]DKSymbol.svg [682]75m
+          [683]SmashBrosSymbol.svg [684]Battlefield
+          [685]ZeldaSymbol.svg [686]Bridge of Eldin
+          [687]FireEmblemSymbol.svg [688]Castle Siege
+          [689]MarioSymbol.svg [690]Delfino Plaza
+          [691]PikminSymbol.svg [692]Distant Planet
+          [693]SmashBrosSymbol.svg [694]Final Destination
+          [695]Game&WatchSymbol.svg [696]Flat Zone 2
+          [697]MetroidSymbol.svg [698]Frigate Orpheon
+          [699]SonicSymbol.svg [700]Green Hill Zone
+          [701]KirbySymbol.svg [702]Halberd
+          [703]ElectroplanktonSymbol.svg [704]Hanenbow
+          [705]MarioSymbol.svg [706]Luigi's Mansion
+          [707]StarFoxSymbol.svg [708]Lylat Cruise
+          [709]MarioSymbol.svg [710]Mario Bros.
+          [711]MarioSymbol.svg [712]Mario Circuit
+          [713]MarioSymbol.svg [714]Mushroomy Kingdom
+          [715]EarthboundSymbol.svg [716]New Pork City
+          [717]MetroidSymbol.svg [718]Norfair
+          [719]DSSymbol.svg [720]PictoChat
+          [721]ZeldaSymbol.svg [722]Pirate Ship
+          [723]PokemonSymbol.svg [724]Pokémon Stadium 2
+          [725]FZeroSymbol.svg [726]Port Town Aero Dive
+          [727]DKSymbol.svg [728]Rumble Falls
+          [729]MetalGearSymbol(preUltimate).svg [730]Shadow Moses Island
+          [731]KidIcarusSymbol.svg [732]Skyworld
+          [733]AnimalCrossingSymbol.svg [734]Smashville
+          [735]PokemonSymbol.svg [736]Spear Pillar
+          [737]IceClimberSymbol.svg [738]Summit
+          [739]WarioSymbol.svg [740]WarioWare, Inc.
+          [741]YoshiSymbol.svg [742]Yoshi's Island
+
+   [743]Super Smash Bros. Melee Melee Stages
+
+          [744]FZeroSymbol.svg [745]Big Blue
+          [746]MetroidSymbol.svg [747]Brinstar
+          [748]StarFoxSymbol.svg [749]Corneria
+          [750]KirbySymbol.svg [751]Green Greens
+          [752]DKSymbol.svg [753]Jungle Japes
+          [754]EarthboundSymbol.svg [755]Onett
+          [756]PokemonSymbol.svg [757]Pokémon Stadium
+          [758]MarioSymbol.svg [759]Rainbow Cruise
+          [760]ZeldaSymbol.svg [761]Temple
+          [762]YoshiSymbol.svg [763]Yoshi's Island
+
+In Smash 4[[764]edit]
+
+   The stage select for Super Smash Bros. for Nintendo 3DS, showing the normal stages.
+   The stage select for Super Smash Bros. for Nintendo 3DS, showing the extra stages.
+   The stage select for Super Smash Bros. for Wii U, showing the normal stages.
+   The stage select for Super Smash Bros. for Wii U, showing the extra stages.
+
+   Stages in [765]Super Smash Bros. 4 differ depending on the version. [766]Super Smash Bros. for Nintendo 3DS features 42 stages total, 7 of which are unlockable, shown in bold, and 8 of which are [767]downloadable content. [768]Super Smash Bros. for Wii U features 55 stages, 6 of which are unlockable, shown in bold, and 9 of which are downloadable content. Bold and italic text denotes stages that are unlockable in one version, but a starter/downloadable stage in the other. 13 stages appear in both versions (with some having changes), however the majority of stages are exclusive to each version, with 3DS stages primarily pulled from handheld games and Wii U stages from console games (though, there [769]are [770]some [771]exceptions). In addition, this is the first game where stages from all the past entries return at once.
+
+   All stages now have an optional [772]Ω form (Omega Form), changing their layout to be similar to Final Destination - some have walls that go all the way down to the bottom blast line, while others are basically floating islands.
+
+   Unique to Smash 4 is the disabling of Star KOs and Screen KOs on certain stages.
+   Starter Unlockable Downloadable
+   Stage Universe [773]Super Smash Bros. for Nintendo 3DS [774]Super Smash Bros. for Wii U Max Players[775] Super Smash Bros. for Wii U
+
+   Normal
+   Max Players[776] Super Smash Bros. for Wii U
+
+   Ω
+   [777]3D Land [778]MarioSymbol.svg [779]Mario Yes No - -
+   [780]75m [781]Super Smash Bros. Brawl [782]DKSymbol.svg [783]Donkey Kong No Yes 8 8
+   [784]Arena Ferox [785]FireEmblemSymbol.svg [786]Fire Emblem Yes No - -
+   [787]Balloon Fight [788]BalloonFightSymbol.svg [789]Balloon Fight Yes No - -
+   [790]Battlefield [791]Super Smash Bros. 4 [792]SmashBrosSymbol.svg [793]Super Smash Bros. Yes Yes 8 8
+   [794]Big Battlefield [795]Super Smash Bros. for Wii U [796]SmashBrosSymbol.svg [797]Super Smash Bros. No Yes 8 8
+   [798]Boxing Ring [799]PunchOutSymbol.svg [800]Punch-Out!! Yes Yes 4 4
+   [801]Bridge of Eldin [802]Super Smash Bros. Brawl [803]ZeldaSymbol.svg [804]The Legend of Zelda No Yes 8 8
+   [805]Brinstar [806]Super Smash Bros. Melee [807]MetroidSymbol.svg [808]Metroid Yes No - -
+   [809]Castle Siege [810]Super Smash Bros. Brawl [811]FireEmblemSymbol.svg [812]Fire Emblem No Yes 8 8
+   [813]Coliseum [814]FireEmblemSymbol.svg [815]Fire Emblem No Yes 4 4
+   [816]Corneria [817]Super Smash Bros. Melee [818]StarFoxSymbol.svg [819]Star Fox Yes No - -
+   [820]Delfino Plaza [821]Super Smash Bros. Brawl [822]MarioSymbol.svg [823]Mario No Yes 4 8
+   [824]Distant Planet [825]Super Smash Bros. Brawl [826]PikminSymbol.svg [827]Pikmin Yes No - -
+   [828]Dream Land [829]Super Smash Bros. [830]KirbySymbol.svg [831]Kirby Yes Yes 8 8
+   [832]Dream Land [833]Super Smash Bros. for Nintendo 3DS [834]KirbySymbol.svg [835]Kirby Yes No - -
+   [836]Duck Hunt [837]DuckHuntSymbol.svg [838]Duck Hunt Yes Yes 8 8
+   [839]Final Destination [840]Super Smash Bros. 4 [841]SmashBrosSymbol.svg [842]Super Smash Bros. Yes Yes 4 4
+   [843]Find Mii [844]FindMiiSymbol.svg [845]Find Mii Yes No - -
+   [846]Flat Zone 2 [847]Super Smash Bros. Brawl [848]Game&WatchSymbol.svg [849]Game & Watch Yes No - -
+   [850]Flat Zone X [851]Game&WatchSymbol.svg [852]Game & Watch No Yes 6 8
+   [853]Gamer [854]WarioSymbol.svg [855]Wario No Yes 4 8
+   [856]Garden of Hope [857]PikminSymbol.svg [858]Pikmin No Yes 4 8
+   [859]Gaur Plain [860]XenobladeSymbol.svg [861]Xenoblade Yes Yes 8 8
+   [862]Gerudo Valley [863]ZeldaSymbol.svg [864]The Legend of Zelda Yes No - -
+   [865]Golden Plains [866]MarioSymbol.svg [867]Mario Yes No - -
+   [868]The Great Cave Offensive [869]KirbySymbol.svg [870]Kirby No Yes 8 8
+   [871]Green Hill Zone [872]Super Smash Bros. Brawl [873]SonicSymbol.svg [874]Sonic Yes No - -
+   [875]Halberd [876]Super Smash Bros. Brawl [877]KirbySymbol.svg [878]Kirby No Yes 4 8
+   [879]Hyrule Castle [880]Super Smash Bros. [881]ZeldaSymbol.svg [882]The Legend of Zelda Yes Yes 8 8
+   [883]Jungle Hijinxs [884]DKSymbol.svg [885]Donkey Kong No Yes 4 8
+   [886]Jungle Japes [887]Super Smash Bros. Melee [888]DKSymbol.svg [889]Donkey Kong Yes No - -
+   [890]Kalos Pokémon League [891]PokemonSymbol.svg [892]Pokémon No Yes 4 8
+   [893]Kongo Jungle [894]Super Smash Bros. [895]DKSymbol.svg [896]Donkey Kong No Yes 8 8
+   [897]Living Room [898]NintendogsSymbol.svg [899]Nintendogs Yes No - -
+   [900]Luigi's Mansion [901]Super Smash Bros. Brawl [902]MarioSymbol.svg [903]Mario No Yes 8 8
+   [904]Lylat Cruise [905]Super Smash Bros. Brawl [906]StarFoxSymbol.svg [907]Star Fox No Yes 8 8
+   [908]Magicant [909]EarthboundSymbol.svg [910]EarthBound Yes No - -
+   [911]Mario Circuit [912]Super Smash Bros. Brawl [913]MarioSymbol.svg [914]Mario No Yes 8 8
+   [915]Mario Circuit [916]Super Smash Bros. for Wii U [917]MarioSymbol.svg [918]Mario No Yes 8 8
+   [919]Mario Galaxy [920]MarioSymbol.svg [921]Mario No Yes 8 8
+   [922]Midgar [923]FinalFantasySymbol.svg [924]Final Fantasy Yes Yes 8 8
+   [925]Miiverse [926]MiiverseSymbol.svg [927]Miiverse No Yes 4 4
+   [928]Mushroomy Kingdom [929]Super Smash Bros. Brawl [930]MarioSymbol.svg [931]Mario Yes No - -
+   [932]Mushroom Kingdom U [933]MarioSymbol.svg [934]Mario No Yes 4 8
+   [935]Mute City [936]Super Smash Bros. for Nintendo 3DS [937]FZeroSymbol.svg [938]F-Zero Yes No - -
+   [939]Norfair [940]Super Smash Bros. Brawl [941]MetroidSymbol.svg [942]Metroid No Yes 8 8
+   [943]Onett [944]Super Smash Bros. Melee [945]EarthboundSymbol.svg [946]EarthBound No Yes 8 8
+   [947]Orbital Gate Assault [948]StarFoxSymbol.svg [949]Star Fox No Yes 4 8
+   [950]Pac-Land [951]PacManSymbol.svg [952]Pac-Man No Yes 6 8
+   [953]Pac-Maze [954]PacManSymbol.svg [955]Pac-Man Yes No - -
+   [956]Palutena's Temple [957]KidIcarusSymbol.svg [958]Kid Icarus No Yes 8 8
+   [959]Paper Mario [960]MarioSymbol.svg [961]Mario Yes No - -
+   [962]Peach's Castle [963]Super Smash Bros. [964]MarioSymbol.svg [965]Mario Yes Yes 8 8
+   [966]PictoChat 2 [967]DSSymbol.svg [968]Nintendo DS Yes No - -
+   [969]Pilotwings [970]PilotwingsSymbol.svg [971]Pilotwings No Yes 4 8
+   [972]Pirate Ship [973]Super Smash Bros. Brawl [974]ZeldaSymbol.svg [975]The Legend of Zelda No Yes 4 8
+   [976]Pokémon Stadium 2 [977]Super Smash Bros. Brawl [978]PokemonSymbol.svg [979]Pokémon No Yes 8 8
+   [980]Port Town Aero Dive [981]Super Smash Bros. Brawl [982]FZeroSymbol.svg [983]F-Zero No Yes 4 8
+   [984]Prism Tower [985]PokemonSymbol.svg [986]Pokémon Yes No - -
+   [987]Pyrosphere [988]MetroidSymbol.svg [989]Metroid No Yes 8 8
+   [990]Rainbow Road [991]MarioSymbol.svg [992]Mario Yes No - -
+   [993]Reset Bomb Forest [994]KidIcarusSymbol.svg [995]Kid Icarus Yes No - -
+   [996]Skyloft [997]ZeldaSymbol.svg [998]The Legend of Zelda No Yes 4 8
+   [999]Skyworld [1000]Super Smash Bros. Brawl [1001]KidIcarusSymbol.svg [1002]Kid Icarus No Yes 6 8
+   [1003]Smashville [1004]Super Smash Bros. Brawl [1005]AnimalCrossingSymbol.svg [1006]Animal Crossing No Yes 8 8
+   [1007]Spirit Train [1008]ZeldaSymbol.svg [1009]The Legend of Zelda Yes No - -
+   [1010]Super Mario Maker [1011]MarioSymbol.svg [1012]Mario Yes Yes 8 8
+   [1013]Suzaku Castle [1014]StreetFighterSymbol.svg [1015]Street Fighter Yes Yes 8 8
+   [1016]Temple [1017]Super Smash Bros. Melee [1018]ZeldaSymbol.svg [1019]The Legend of Zelda No Yes 8 8
+   [1020]Tomodachi Life [1021]TomodachiSymbol.svg [1022]Tomodachi Yes No - -
+   [1023]Tortimer Island [1024]AnimalCrossingSymbol.svg [1025]Animal Crossing Yes No - -
+   [1026]Town and City [1027]AnimalCrossingSymbol.svg [1028]Animal Crossing No Yes 8 8
+   [1029]Umbra Clock Tower [1030]BayonettaSymbol.svg [1031]Bayonetta Yes Yes 8 8
+   [1032]Unova Pokémon League [1033]PokemonSymbol.svg [1034]Pokémon Yes No - -
+   [1035]WarioWare, Inc. [1036]Super Smash Bros. Brawl [1037]WarioSymbol.svg [1038]Wario Yes No - -
+   [1039]Wii Fit Studio [1040]WiiFitSymbol.svg [1041]Wii Fit No Yes 8 8
+   [1042]Wily Castle [1043]MegaManSymbol.svg [1044]Mega Man Yes Yes 4 8
+   [1045]Windy Hill Zone [1046]SonicSymbol.svg [1047]Sonic No Yes 8 8
+   [1048]Woolly World [1049]YoshiSymbol.svg [1050]Yoshi No Yes 4 8
+   [1051]Wrecking Crew [1052]WreckingCrewSymbol.svg [1053]Wrecking Crew No Yes 4 8
+   [1054]Wuhu Island [1055]WiiSportsSymbol.svg [1056]Wii Sports No Yes 4 4
+   [1057]Yoshi's Island [1058]Super Smash Bros. Melee [1059]YoshiSymbol.svg [1060]Yoshi No Yes 8 8
+   [1061]Yoshi's Island [1062]Super Smash Bros. Brawl [1063]YoshiSymbol.svg [1064]Yoshi Yes No - -
+
+In Ultimate[[1065]edit]
+
+   The stage select for Super Smash Bros. Ultimate, showing the normal stages.
+   The stage select for Super Smash Bros. Ultimate with [1066]Stage Morph enabled.
+
+   There are 108 versus stages in [1067]Super Smash Bros. Ultimate with five being future [1068]downloadable content. Many stages return from all the previous games, although not every stage from previous titles will be returning.^[1069][1] Of the stages confirmed in Ultimate, 7 are unique to Ultimate and 96 are familiar stages: 7 from Super Smash Bros., 19 from Super Smash Bros. Melee, 26 from Super Smash Bros. Brawl, and 44 from Super Smash Bros. 4 (18 from the 3DS version, 18 from the Wii U version, and 8 that are in both versions). [1070]Ω forms return for each stage, along with a new [1071]Battlefield form for every stage. All Battlefield and Ω forms have the same size and terrain as [1072]Battlefield and [1073]Final Destination, respectively. Up to 8 players are supported on every stage.
+
+   Not counting either single-player only stages or previous versions of Battlefield and Final Destination, there are only 15 stages that do not return in Smash Bros Ultimate ; 2 from SSB64 ([1074]Planet Zebes and [1075]Sector Z), 4 from Melee ([1076]Icicle Mountain, [1077]Mute City, [1078]Mushroom Kingdom and [1079]Poké Floats), 2 from Brawl ([1080]Rumble Falls and [1081]PictoChat), 2 from Smash for 3DS ([1082]Rainbow Road and [1083]Pac-Maze), and 5 from Smash for Wii U ([1084]Miiverse, [1085]Woolly World, [1086]Orbital Gate Assault, [1087]Jungle Hijinxs and [1088]Pyrosphere).
+
+   A new [1089]rules option allows [1090]stage hazards to be turned off. Stages are ordered by when they first appeared in the Super Smash Bros. series. Unlike previous entries, all stages are available from the start. Ultimate also introduces [1091]Stage Morph, an option which allows players to choose two different stages which will transition back and forth over the course of a battle.
+
+   Ultimate Stages
+
+          [1092]SmashBrosSymbol.svg [1093]Battlefield
+          [1094]SmashBrosSymbol.svg [1095]Big Battlefield
+          [1096]CastlevaniaSymbol.svg [1097]Dracula's Castle
+          [1098]SmashBrosSymbol.svg [1099]Final Destination
+          [1100]ZeldaSymbol.svg [1101]Great Plateau Tower
+          [1102]SplatoonSymbol.svg [1103]Moray Towers
+          [1104]MarioSymbol.svg [1105]New Donk City Hall
+
+   Familiar Stages
+
+          [1106]KirbySymbol.svg [1107]Super Smash Bros. [1108]Dream Land
+          [1109]MarioSymbol.svg [1110]Super Smash Bros. [1111]Peach's Castle
+          [1112]ZeldaSymbol.svg [1113]Super Smash Bros. [1114]Hyrule Castle
+          [1115]DKSymbol.svg [1116]Super Smash Bros. [1117]Kongo Jungle
+          [1118]MarioSymbol.svg [1119]Super Smash Bros. [1120]Mushroom Kingdom
+          [1121]PokemonSymbol.svg [1122]Super Smash Bros. [1123]Saffron City
+          [1124]YoshiSymbol.svg [1125]Super Smash Bros. [1126]Super Happy Tree
+          [1127]FZeroSymbol.svg [1128]Super Smash Bros. Melee [1129]Big Blue
+          [1130]MetroidSymbol.svg [1131]Super Smash Bros. Melee [1132]Brinstar
+          [1133]MetroidSymbol.svg [1134]Super Smash Bros. Melee [1135]Brinstar Depths
+          [1136]StarFoxSymbol.svg [1137]Super Smash Bros. Melee [1138]Corneria
+          [1139]KirbySymbol.svg [1140]Super Smash Bros. Melee [1141]Fountain of Dreams
+          [1142]EarthboundSymbol.svg [1143]Super Smash Bros. Melee [1144]Fourside
+          [1145]ZeldaSymbol.svg [1146]Super Smash Bros. Melee [1147]Great Bay
+          [1148]KirbySymbol.svg [1149]Super Smash Bros. Melee [1150]Green Greens
+          [1151]DKSymbol.svg [1152]Super Smash Bros. Melee [1153]Jungle Japes
+          [1154]DKSymbol.svg [1155]Super Smash Bros. Melee [1156]Kongo Falls
+          [1157]MarioSymbol.svg [1158]Super Smash Bros. Melee [1159]Mushroom Kingdom II
+          [1160]EarthboundSymbol.svg [1161]Super Smash Bros. Melee [1162]Onett
+          [1163]PokemonSymbol.svg [1164]Super Smash Bros. Melee [1165]Pokémon Stadium
+          [1166]MarioSymbol.svg [1167]Super Smash Bros. Melee [1168]Princess Peach's Castle
+          [1169]MarioSymbol.svg [1170]Super Smash Bros. Melee [1171]Rainbow Cruise
+          [1172]ZeldaSymbol.svg [1173]Super Smash Bros. Melee [1174]Temple
+          [1175]StarFoxSymbol.svg [1176]Super Smash Bros. Melee [1177]Venom
+          [1178]YoshiSymbol.svg [1179]Super Smash Bros. Melee [1180]Yoshi's Island (Melee)
+          [1181]YoshiSymbol.svg [1182]Super Smash Bros. Melee [1183]Yoshi's Story
+          [1184]DKSymbol.svg [1185]Super Smash Bros. Brawl [1186]75m
+          [1187]ZeldaSymbol.svg [1188]Super Smash Bros. Brawl [1189]Bridge of Eldin
+          [1190]FireEmblemSymbol.svg [1191]Super Smash Bros. Brawl [1192]Castle Siege
+          [1193]MarioSymbol.svg [1194]Super Smash Bros. Brawl [1195]Delfino Plaza
+          [1196]PikminSymbol.svg [1197]Super Smash Bros. Brawl [1198]Distant Planet
+          [1199]MetroidSymbol.svg [1200]Super Smash Bros. Brawl [1201]Frigate Orpheon
+          [1202]SonicSymbol.svg [1203]Super Smash Bros. Brawl [1204]Green Hill Zone
+          [1205]KirbySymbol.svg [1206]Super Smash Bros. Brawl [1207]Halberd
+          [1208]ElectroplanktonSymbol.svg [1209]Super Smash Bros. Brawl [1210]Hanenbow
+          [1211]MarioSymbol.svg [1212]Super Smash Bros. Brawl [1213]Luigi's Mansion
+          [1214]StarFoxSymbol.svg [1215]Super Smash Bros. Brawl [1216]Lylat Cruise
+          [1217]MarioSymbol.svg [1218]Super Smash Bros. Brawl [1219]Mushroomy Kingdom
+          [1220]MarioSymbol.svg [1221]Super Smash Bros. Brawl [1222]Mario Bros.
+          [1223]EarthboundSymbol.svg [1224]Super Smash Bros. Brawl [1225]New Pork City
+          [1226]MetroidSymbol.svg [1227]Super Smash Bros. Brawl [1228]Norfair
+          [1229]MarioSymbol.svg [1230]Super Smash Bros. Brawl [1231]Figure-8 Circuit
+          [1232]ZeldaSymbol.svg [1233]Super Smash Bros. Brawl [1234]Pirate Ship
+          [1235]PokemonSymbol.svg [1236]Super Smash Bros. Brawl [1237]Pokémon Stadium 2
+          [1238]FZeroSymbol.svg [1239]Super Smash Bros. Brawl [1240]Port Town Aero Dive
+          [1241]MetalGearSymbol.svg [1242]Super Smash Bros. Brawl [1243]Shadow Moses Island
+          [1244]KidIcarusSymbol.svg [1245]Super Smash Bros. Brawl [1246]Skyworld
+          [1247]AnimalCrossingSymbol.svg [1248]Super Smash Bros. Brawl [1249]Smashville
+          [1250]PokemonSymbol.svg [1251]Super Smash Bros. Brawl [1252]Spear Pillar
+          [1253]IceClimberSymbol.svg [1254]Super Smash Bros. Brawl [1255]Summit
+          [1256]WarioSymbol.svg [1257]Super Smash Bros. Brawl [1258]WarioWare, Inc.
+          [1259]YoshiSymbol.svg [1260]Super Smash Bros. Brawl [1261]Yoshi's Island
+          [1262]PunchOutSymbol.svg [1263]Super Smash Bros. 4 [1264]Boxing Ring
+          [1265]DuckHuntSymbol.svg [1266]Super Smash Bros. 4 [1267]Duck Hunt
+          [1268]XenobladeSymbol.svg [1269]Super Smash Bros. 4 [1270]Gaur Plain
+          [1271]FinalFantasySymbol.svg [1272]Super Smash Bros. 4 [1273]Midgar
+          [1274]MarioSymbol.svg [1275]Super Smash Bros. 4 [1276]Super Mario Maker
+          [1277]StreetFighterSymbol.svg [1278]Super Smash Bros. 4 [1279]Suzaku Castle
+          [1280]BayonettaSymbol.svg [1281]Super Smash Bros. 4 [1282]Umbra Clock Tower
+          [1283]MegaManSymbol.svg [1284]Super Smash Bros. 4 [1285]Wily Castle
+          [1286]MarioSymbol.svg [1287]Super Smash Bros. for Nintendo 3DS [1288]3D Land
+          [1289]FireEmblemSymbol.svg [1290]Super Smash Bros. for Nintendo 3DS [1291]Arena Ferox
+          [1292]BalloonFightSymbol.svg [1293]Super Smash Bros. for Nintendo 3DS [1294]Balloon Fight
+          [1295]KirbySymbol.svg [1296]Super Smash Bros. for Nintendo 3DS [1297]Dream Land GB
+          [1298]FindMiiSymbol.svg [1299]Super Smash Bros. for Nintendo 3DS [1300]Find Mii
+          [1301]ZeldaSymbol.svg [1302]Super Smash Bros. for Nintendo 3DS [1303]Gerudo Valley
+          [1304]MarioSymbol.svg [1305]Super Smash Bros. for Nintendo 3DS [1306]Golden Plains
+          [1307]NintendogsSymbol.svg [1308]Super Smash Bros. for Nintendo 3DS [1309]Living Room
+          [1310]EarthboundSymbol.svg [1311]Super Smash Bros. for Nintendo 3DS [1312]Magicant
+          [1313]FZeroSymbol.svg [1314]Super Smash Bros. for Nintendo 3DS [1315]Mute City SNES
+          [1316]MarioSymbol.svg [1317]Super Smash Bros. for Nintendo 3DS [1318]Paper Mario
+          [1319]DSSymbol.svg [1320]Super Smash Bros. for Nintendo 3DS [1321]PictoChat 2
+          [1322]PokemonSymbol.svg [1323]Super Smash Bros. for Nintendo 3DS [1324]Prism Tower
+          [1325]KidIcarusSymbol.svg [1326]Super Smash Bros. for Nintendo 3DS [1327]Reset Bomb Forest
+          [1328]ZeldaSymbol.svg [1329]Super Smash Bros. for Nintendo 3DS [1330]Spirit Train
+          [1331]TomodachiSymbol.svg [1332]Super Smash Bros. for Nintendo 3DS [1333]Tomodachi Life
+          [1334]AnimalCrossingSymbol.svg [1335]Super Smash Bros. for Nintendo 3DS [1336]Tortimer Island
+          [1337]PokemonSymbol.svg [1338]Super Smash Bros. for Nintendo 3DS [1339]Unova Pokémon League
+          [1340]FireEmblemSymbol.svg [1341]Super Smash Bros. for Wii U [1342]Coliseum
+          [1343]WarioSymbol.svg [1344]Super Smash Bros. for Wii U [1345]Gamer
+          [1346]PikminSymbol.svg [1347]Super Smash Bros. for Wii U [1348]Garden of Hope
+          [1349]Game&WatchSymbol.svg [1350]Super Smash Bros. for Wii U [1351]Flat Zone X
+          [1352]PokemonSymbol.svg [1353]Super Smash Bros. for Wii U [1354]Kalos Pokémon League
+          [1355]MarioSymbol.svg [1356]Super Smash Bros. for Wii U [1357]Mario Circuit
+          [1358]MarioSymbol.svg [1359]Super Smash Bros. for Wii U [1360]Mario Galaxy
+          [1361]MarioSymbol.svg [1362]Super Smash Bros. for Wii U [1363]Mushroom Kingdom U
+          [1364]PacManSymbol.svg [1365]Super Smash Bros. for Wii U [1366]Pac-Land
+          [1367]KidIcarusSymbol.svg [1368]Super Smash Bros. for Wii U [1369]Palutena's Temple
+          [1370]PilotwingsSymbol.svg [1371]Super Smash Bros. for Wii U [1372]Pilotwings
+          [1373]ZeldaSymbol.svg [1374]Super Smash Bros. for Wii U [1375]Skyloft
+          [1376]KirbySymbol.svg [1377]Super Smash Bros. for Wii U [1378]The Great Cave Offensive
+          [1379]AnimalCrossingSymbol.svg [1380]Super Smash Bros. for Wii U [1381]Town and City
+          [1382]WiiFitSymbol.svg [1383]Super Smash Bros. for Wii U [1384]Wii Fit Studio
+          [1385]SonicSymbol.svg [1386]Super Smash Bros. for Wii U [1387]Windy Hill Zone
+          [1388]WreckingCrewSymbol.svg [1389]Super Smash Bros. for Wii U [1390]Wrecking Crew
+          [1391]WiiSportsSymbol.svg [1392]Super Smash Bros. for Wii U [1393]Wuhu Island
+
+Single player stages[[1394]edit]
+
+   In the single player modes and challenges, a number of stages appear that are not available in versus mode.
+     * The [1395]Home-Run Contest stages in Melee, Brawl, and SSB4 involve a central platform from which [1396]Sandbag is hit, and a very long stretch of ground to the right of the platform for it to land upon.
+     * In Melee's "trophy tussle" [1397]event matches, the player fights [1398]CPUs upon a stage that takes the form of a giant object, the trophy for which he or she wins after completing the event.
+     * The original [1399]Super Smash Bros. [1400]Board the Platforms stages function as agility tests, and there are 12 in total - each one is designed to challenge the player's character.
+     * Like Board the Platforms, [1401]Break the Targets and Target Test stages of the original Super Smash Bros. and Melee respectively are tailored to challenge each character - 12 exist in the original and 25 in Melee. Some of Melee's Target Test stages are decorated in reference to their character's universe; [1402]Pikachu's, for example, has decorative Poké Balls in its walls, while the [1403]Ice Climbers' look like a level from the game [1404]Ice Climber. Brawl, however, simply has five Target Smash! stages for all characters, each representing a different difficulty level.
+     * Areas in [1405]Adventure Mode and the [1406]Adventure Mode: The Subspace Emissary are technically defined as stages.
+     * The [1407]Online Practice Stage in Brawl, SSB4, and Ultimate is playable only while waiting for an [1408]online match to load.
+     * The [1409]controls test stage in Brawl. SSB4, and Ultimate is playable only for the purpose of testing custom controls, and only as [1410]Mario.
+
+In Super Smash Bros.[[1411]edit]
+
+     * [1412]Duel Zone
+     * [1413]Board the Platforms stages
+     * [1414]Final Destination
+     * [1415]Meta Crystal
+     * [1416]Race to the Finish
+     * [1417]Target Test stages
+
+In Melee[[1418]edit]
+
+     * [1419]Adventure stages
+     * [1420]All-Star Rest Area - The stage the players are teleported to and from between [1421]All-Star Mode matches.
+     * [1422]Entei - the stage on which [1423]Event 26: Trophy Tussle 2 is played.
+     * [1424]Goomba - the stage on which [1425]Event 14: Trophy Tussle 1 is played.
+     * [1426]Home-Run Stadium
+     * [1427]Majora's Mask - the stage on which [1428]Event 47: Trophy Tussle 3 is played.
+     * [1429]Race to the Finish - a [1430]Classic Mode [1431]bonus game stage.
+     * [1432]Snag the Trophies stage - a Classic Mode bonus game stage.
+     * [1433]Target Test stages - a set of single player mode stages that also appear in Classic Mode as bonus games.
+
+In Brawl[[1434]edit]
+
+     * [1435]Adventure Mode: The Subspace Emissary stages
+     * [1436]All-Star Rest Area - The stage the players are teleported to and from between [1437]All-Star Mode and [1438]Boss Battle matches
+     * [1439]Controls Test stage
+     * [1440]Home-Run Stadium
+     * [1441]Online Practice Stage
+     * [1442]Target Smash! stages - a set of single player mode stages that also appear in Classic Mode as bonus games.
+
+In Smash 4[[1443]edit]
+
+   Note: In the Wii U version, most of these stages can be played with two players.
+     * [1444]The Credits - A small stage where the player smashes names to reveal a picture.
+     * [1445]Trophy Rush stage - Raining blocks appear on the stage. If they are too far up, the stage will disappear and KO the player.
+     * [1446]All-Star Rest Area
+     * [1447]Home-Run Stadium
+     * [1448]Target Blast Stadium - A stage similar to the Home-Run Stadium. The player breaks the [1449]targets by smashing a bomb at them.
+     * [1450]SSB4's Online Practice Stage - Same as Brawl, but the Wii U version looks like an Ω form of the [1451]Miiverse stage with a [1452]Sandbag; the 3DS version's shape bears more of a resemblance to [1453]Ω [1454]Battlefield, but with different and simpler textures.
+     * [1455]SSB4's control test stage - Same as Brawl.
+
+In Ultimate[[1456]edit]
+
+   Note: As with the Wii U version, some of these stages can be played with two players.
+     * [1457]Galleom, [1458]Rathalos, [1459]Marx, [1460]Dracula, and [1461]Ganon’s boss stages.
+     * [1462]Adventure Mode: World of Light stages:
+          + Galeem and Dharkon's forms of [1463]Final Destination.
+               o The general layout is the same for all three variants, but the backgrounds are different for each one, with the last variant featuring 4 unique backgrounds depending on which boss is still alive or close to death.
+          + Scrolling stage used only in the Final Battle.
+          + The boss rush area.
+     * [1464]Training (stage).
+     * [1465]SSBU's Online Practice Stage: Resembles the [1466]Battlefield-shaped portion of the Training stage.
+     * The unique versions of [1467]Battlefield forms exclusive to [1468]Mob Smash.
+     * Touring or transforming stages locked to certain areas used in [1469]Spirit Battles.
+
+Non-playable stages[[1470]edit]
+
+   Some stages are inaccessible through normal means. These non-playable stages are accessible only through the use of hacks and debug programs, such as [1471]Action Replay. Some, such as "Test", were presumably used for testing during game development, while others, such as the "Tutorial stage", are used in the game but not for the purpose of gameplay.
+
+In Super Smash Bros.[[1472]edit]
+
+     * [1473]Kirby Beta Stage 1
+     * [1474]Kirby Beta Stage 2
+     * [1475]Tutorial Stage
+
+In Melee[[1476]edit]
+
+     * [1477]AKANEIA
+     * [1478]DUMMY
+     * [1479]ICETOP
+     * [1480]TEST
+
+In Brawl[[1481]edit]
+
+     * 1-Player Mode Credits - the file name of the single player mode credits is "STGCHARACROLL.pac", which technically defines it as a stage.
+     * Results Screen - the results screen that appears after a match is a stage, playable only through hacking.^[1482][2]
+
+In for Wii U[[1483]edit]
+
+     * Photo Studio backgrounds - The backgrounds are all considered separate stages, and can only be played by hacking.
+
+Custom Stages[[1484]edit]
+
+   Brawl introduced the [1485]Stage Builder, a tool that allows players to build their own stages, for use in multiplayer matches, using sets of provided objects, some unlockable. Brawl includes a set of [1486]Sample Stages that were built using the Stage Builder. The stage builder can also be used to build [1487]No KO stages and "[1488]CD Factories" - exploitative stages used for quickly obtaining [1489]CDs. The Stage Builder returns in Super Smash Bros. for Wii U, with some features removed and other features added.
+
+References[[1490]edit]
+
+    1. [1491]↑ [1492]https://twitter.com/AllSourceGaming/status/1011734783456620544
+    2. [1493]↑ [1494]http://www.youtube.com/watch?v=HUCtkSWsFkY
+
+   [1495]v • [1496]d • [1497]e
+   Stages in [1498]Super Smash Bros.
+    Starter stages   [1499]Congo Jungle · [1500]Dream Land · [1501]Hyrule Castle · [1502]Peach's Castle · [1503]Planet Zebes · [1504]Saffron City · [1505]Sector Z · [1506]Yoshi's Island
+   Unlockable stages [1507]Mushroom Kingdom
+   [1508]v • [1509]d • [1510]e
+   Stages in [1511]Super Smash Bros. Melee
+                      Starter stages                    [1512]Brinstar · [1513]Corneria · [1514]Fountain of Dreams · [1515]Great Bay · [1516]Green Greens · [1517]Icicle Mountain · [1518]Jungle Japes · [1519]Kongo Jungle · [1520]Mushroom Kingdom · [1521]Mute City · [1522]Onett · [1523]Pokémon Stadium · [1524]Princess Peach's Castle · [1525]Rainbow Cruise · [1526]Temple · [1527]Venom · [1528]Yoshi's Island · [1529]Yoshi's Story
+                    Unlockable stages                   [1530]Battlefield · [1531]Big Blue · [1532]Brinstar Depths · [1533]Final Destination · [1534]Flat Zone · [1535]Fourside · [1536]Mushroom Kingdom II · [1537]Poké Floats
+   [1538]Super Smash Bros. Unlockable [1539]Past Stages [1540]Dream Land · [1541]Kongo Jungle · [1542]Yoshi's Island
+   [1543]v • [1544]d • [1545]e
+   Stages in [1546]Super Smash Bros. Brawl
+   Starter stages [1547]Battlefield · [1548]Bridge of Eldin · [1549]Castle Siege · [1550]Delfino Plaza · [1551]Distant Planet · [1552]Final Destination · [1553]Frigate Orpheon · [1554]Halberd · [1555]Lylat Cruise · [1556]Mario Circuit · [1557]Mushroomy Kingdom · [1558]New Pork City · [1559]Norfair · [1560]PictoChat · [1561]Pokémon Stadium 2 · [1562]Port Town Aero Dive · [1563]Rumble Falls · [1564]Shadow Moses Island · [1565]Skyworld · [1566]Smashville · [1567]Summit · [1568]WarioWare, Inc. · [1569]Yoshi's Island
+   Unlockable stages [1570]75m · [1571]Flat Zone 2 · [1572]Green Hill Zone · [1573]Hanenbow · [1574]Luigi's Mansion · [1575]Mario Bros. · [1576]Pirate Ship · [1577]Spear Pillar
+   [1578]Super Smash Bros. Melee Starter [1579]Melee stages [1580]Brinstar · [1581]Corneria · [1582]Onett · [1583]Rainbow Cruise · [1584]Temple · [1585]Yoshi's Island
+   [1586]Super Smash Bros. Melee Unlockable Melee stages [1587]Big Blue · [1588]Green Greens · [1589]Jungle Japes · [1590]Pokémon Stadium
+   [1591]Stage Builder [1592]Sample Stages · [1593]CD Factory · [1594]No KO
+   [1595]Adventure Mode:
+   The Subspace Emissary [1596]Midair Stadium · [1597]Skyworld · [1598]Sea of Clouds · [1599]The Jungle · [1600]The Plain · [1601]The Lake · [1602]The Ruined Zoo · [1603]The Battlefield Fortress · [1604]The Forest · [1605]The Research Facility I · [1606]The Lake Shore · [1607]The Path to the Ruins · [1608]The Cave · [1609]The Ruins · [1610]The Wilds I · [1611]The Ruined Hall · [1612]The Wilds II · [1613]The Swamp · [1614]The Research Facility II · [1615]Outside the Ancient Ruins · [1616]The Glacial Peak · [1617]The Canyon · [1618]Battleship Halberd Interior · [1619]Battleship Halberd Exterior · [1620]Battleship Halberd Bridge · [1621]The Subspace Bomb Factory I · [1622]The Subspace Bomb Factory II · [1623]Entrance to Subspace · [1624]Subspace I · [1625]Subspace II · [1626]The Great Maze
+   [1627]v • [1628]d • [1629]e
+   Stages in [1630]Super Smash Bros. 4
+          Both games (new)        [1631]Battlefield · [1632]Boxing Ring · [1633]Duck Hunt · [1634]Final Destination · [1635]Gaur Plain · [1636]Midgar · [1637]Super Mario Maker · [1638]Suzaku Castle · [1639]Umbra Clock Tower · [1640]Wily Castle
+    Both games ([1641]familiar)   [1642]Super Smash Bros. [1643]Dream Land (64) · [1644]Super Smash Bros. [1645]Hyrule Castle (64) · [1646]Super Smash Bros. [1647]Peach's Castle (64)
+      [1648]3DS version (new)     [1649]3D Land · [1650]Arena Ferox · [1651]Balloon Fight · [1652]Dream Land · [1653]Find Mii · [1654]Gerudo Valley · [1655]Golden Plains · [1656]Living Room · [1657]Magicant · [1658]Mute City · [1659]Pac-Maze · [1660]Paper Mario · [1661]PictoChat 2 · [1662]Prism Tower · [1663]Rainbow Road · [1664]Reset Bomb Forest · [1665]Spirit Train · [1666]Tomodachi Life · [1667]Tortimer Island · [1668]Unova Pokémon League
+    3DS version ([1669]familiar)  [1670]Super Smash Bros. Melee [1671]Brinstar · [1672]Super Smash Bros. Melee [1673]Corneria · [1674]Super Smash Bros. Melee [1675]Jungle Japes · [1676]Super Smash Bros. Brawl [1677]Distant Planet · [1678]Super Smash Bros. Brawl [1679]Flat Zone 2 · [1680]Super Smash Bros. Brawl [1681]Green Hill Zone · [1682]Super Smash Bros. Brawl [1683]Mushroomy Kingdom · [1684]Super Smash Bros. Brawl [1685]WarioWare, Inc. · [1686]Super Smash Bros. Brawl [1687]Yoshi's Island
+     [1688]Wii U version (new)    [1689]Big Battlefield · [1690]Coliseum · [1691]Flat Zone X · [1692]Gamer · [1693]Garden of Hope · [1694]Jungle Hijinxs · [1695]Kalos Pokémon League · [1696]Mario Circuit · [1697]Mario Galaxy · [1698]Miiverse · [1699]Mushroom Kingdom U · [1700]Orbital Gate Assault · [1701]Pac-Land · [1702]Palutena's Temple · [1703]Pilotwings · [1704]Pyrosphere · [1705]Skyloft · [1706]The Great Cave Offensive · [1707]Town and City · [1708]Wii Fit Studio · [1709]Windy Hill Zone · [1710]Woolly World · [1711]Wrecking Crew · [1712]Wuhu Island
+   Wii U version ([1713]familiar) [1714]Super Smash Bros. [1715]Kongo Jungle 64 · [1716]Super Smash Bros. Melee [1717]Onett · [1718]Super Smash Bros. Melee [1719]Temple · [1720]Super Smash Bros. Melee [1721]Yoshi's Island · [1722]Super Smash Bros. Brawl [1723]75m · [1724]Super Smash Bros. Brawl [1725]Bridge of Eldin · [1726]Super Smash Bros. Brawl [1727]Castle Siege · [1728]Super Smash Bros. Brawl [1729]Delfino Plaza · [1730]Super Smash Bros. Brawl [1731]Halberd · [1732]Super Smash Bros. Brawl [1733]Luigi's Mansion · [1734]Super Smash Bros. Brawl [1735]Lylat Cruise ·[1736] Super Smash Bros. Brawl [1737]Mario Circuit (Brawl) · [1738]Super Smash Bros. Brawl [1739]Norfair · [1740]Super Smash Bros. Brawl [1741]Pirate Ship · [1742]Super Smash Bros. Brawl [1743]Pokémon Stadium 2 · [1744]Super Smash Bros. Brawl [1745]Port Town Aero Dive · [1746]Super Smash Bros. Brawl [1747]Skyworld · [1748]Super Smash Bros. Brawl [1749]Smashville
+               Other              [1750]Ω form · [1751]Stage Builder
+   [1752]v • [1753]d • [1754]e
+   Stages in [1755]Super Smash Bros. Ultimate
+                             New stages                           [1756]Battlefield · [1757]Big Battlefield · [1758]Dracula's Castle · [1759]Final Destination · [1760]Great Plateau Tower · [1761]Moray Towers · [1762]New Donk City Hall
+           Returning stages from [1763]Super Smash Bros.          [1764]Dream Land · [1765]Hyrule Castle · [1766]Kongo Jungle · [1767]Mushroom Kingdom · [1768]Peach's Castle · [1769]Saffron City · [1770]Super Happy Tree
+        Returning stages from [1771]Super Smash Bros. Melee       [1772]Big Blue · [1773]Brinstar · [1774]Brinstar Depths · [1775]Corneria · [1776]Fourside · [1777]Fountain of Dreams · [1778]Great Bay · [1779]Green Greens · [1780]Jungle Japes · [1781]Kongo Falls · [1782]Mushroom Kingdom II · [1783]Onett · [1784]Pokémon Stadium · [1785]Princess Peach's Castle · [1786]Rainbow Cruise · [1787]Temple · [1788]Venom · [1789]Yoshi's Island · [1790]Yoshi's Story
+        Returning stages from [1791]Super Smash Bros. Brawl       [1792]75m · [1793]Bridge of Eldin · [1794]Castle Siege · [1795]Delfino Plaza · [1796]Distant Planet · [1797]Figure-8 Circuit · [1798]Frigate Orpheon · [1799]Green Hill Zone · [1800]Halberd · [1801]Hanenbow · [1802]Luigi's Mansion · [1803]Lylat Cruise · [1804]Mario Bros. · [1805]Mushroomy Kingdom · [1806]New Pork City · [1807]Norfair · [1808]Pirate Ship · [1809]Pokémon Stadium 2 · [1810]Port Town Aero Dive · [1811]Shadow Moses Island · [1812]Skyworld · [1813]Smashville · [1814]Spear Pillar · [1815]Summit · [1816]WarioWare, Inc. · [1817]Yoshi's Island
+          Returning stages from [1818]Super Smash Bros. 4         [1819]Boxing Ring · [1820]Duck Hunt · [1821]Gaur Plain · [1822]Midgar · [1823]Super Mario Maker · [1824]Suzaku Castle · [1825]Umbra Clock Tower · [1826]Wily Castle
+   Returning stages from [1827]Super Smash Bros. for Nintendo 3DS [1828]3D Land · [1829]Arena Ferox · [1830]Balloon Fight · [1831]Dream Land GB · [1832]Find Mii · [1833]Gerudo Valley · [1834]Golden Plains · [1835]Living Room · [1836]Magicant · [1837]Mute City SNES · [1838]Paper Mario · [1839]PictoChat 2 · [1840]Prism Tower · [1841]Reset Bomb Forest · [1842]Spirit Train · [1843]Tomodachi Life · [1844]Tortimer Island · [1845]Unova Pokémon League
+      Returning stages from [1846]Super Smash Bros. for Wii U     [1847]Coliseum · [1848]Flat Zone X · [1849]Gamer · [1850]Garden of Hope · [1851]Kalos Pokémon League · [1852]Mario Circuit · [1853]Mario Galaxy · [1854]Mushroom Kingdom U · [1855]Pac-Land · [1856]Palutena's Temple · [1857]Pilotwings · [1858]Skyloft · [1859]The Great Cave Offensive · [1860]Town and City · [1861]Wii Fit Studio · [1862]Windy Hill Zone · [1863]Wrecking Crew · [1864]Wuhu Island
+                               Other                              [1865]Ω form · [1866]Battlefield form
+   Ads keep SmashWiki independent and free :)
+
+   Retrieved from "[1867]https://www.ssbwiki.com/index.php?title=Stage&oldid=1181694"
+
+   [1868]Categories:
+     * [1869]Stages (SSB)
+     * [1870]Stages (SSBM)
+     * [1871]Stages (SSBB)
+     * [1872]Stages
+     * [1873]Stages (SSBU)
+     * [1874]Gameplay
+
+Navigation menu
+
+Views
+
+     * [1875]Article
+     * [1876]Discussion
+     * [1877]Edit this page
+     * [1878]History
+
+Personal tools
+
+     * Not logged in
+     * [1879]Talk
+     * [1880]Contributions
+     * [1881]Create account
+     * [1882]Log in
+
+Navigation
+
+     * [1883]Main page
+     * [1884]Smash Bros. Ultimate
+     * [1885]Smash Bros. 4
+     * [1886]Smash Bros. Brawl
+     * [1887]Smash Bros. Melee
+     * [1888]Smash Bros. (64)
+     * [1889]Characters
+     * [1890]Stages
+     * [1891]Modes
+     * [1892]Items
+     * [1893]Random page
+
+Search
+
+   ____________________ Go  Search
+
+Participate
+
+     * [1894]Forum
+     * [1895]Community portal
+     * [1896]Recent changes
+     * [1897]Help
+     * [1898]Admin noticeboard
+     * [1899]Discord server
+     * [1900]YouTube channel
+
+Tools
+
+     * [1901]What links here
+     * [1902]Related changes
+     * [1903]Special pages
+     * [1904]Printable version
+     * [1905]Permanent link
+     * [1906]Page information
+
+   [1907]Attribution-Share Alike 3.0 Unported
+   [1908]Powered by MediaWiki
+     * This page was last edited on 31 January 2019, at 19:47.
+     * Content is available under [1909]Attribution-Share Alike 3.0 Unported unless otherwise noted.
+     * [1910]Privacy policy
+     * [1911]About SmashWiki
+     * [1912]Disclaimers
+     * [1913]Mobile view
+
+References
+
+   Visible links
+   1. https://www.ssbwiki.com/index.php?title=Stage&action=edit
+   2. https://www.ssbwiki.com/opensearch_desc.php
+   3. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&feed=atom
+   4. https://www.ssbwiki.com/Stage#column-one
+   5. https://www.ssbwiki.com/Stage#searchInput
+   6. https://www.ssbwiki.com/Super_Smash_Bros._(series)
+   7. https://www.ssbwiki.com/Stage_(disambiguation)
+   8. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+   9. https://www.ssbwiki.com/Character
+  10. https://www.ssbwiki.com/Versus_mode
+  11. https://www.ssbwiki.com/Platform
+  12. https://www.ssbwiki.com/Target_Smash
+  13. https://www.ssbwiki.com/Stage#Versus_stages
+  14. https://www.ssbwiki.com/Stage#List_of_Stages
+  15. https://www.ssbwiki.com/Stage#Notes
+  16. https://www.ssbwiki.com/Stage#In_Super_Smash_Bros.
+  17. https://www.ssbwiki.com/Stage#In_Melee
+  18. https://www.ssbwiki.com/Stage#In_Brawl
+  19. https://www.ssbwiki.com/Stage#In_Smash_4
+  20. https://www.ssbwiki.com/Stage#In_Ultimate
+  21. https://www.ssbwiki.com/Stage#Single_player_stages
+  22. https://www.ssbwiki.com/Stage#In_Super_Smash_Bros._2
+  23. https://www.ssbwiki.com/Stage#In_Melee_2
+  24. https://www.ssbwiki.com/Stage#In_Brawl_2
+  25. https://www.ssbwiki.com/Stage#In_Smash_4_2
+  26. https://www.ssbwiki.com/Stage#In_Ultimate_2
+  27. https://www.ssbwiki.com/Stage#Non-playable_stages
+  28. https://www.ssbwiki.com/Stage#In_Super_Smash_Bros._3
+  29. https://www.ssbwiki.com/Stage#In_Melee_3
+  30. https://www.ssbwiki.com/Stage#In_Brawl_3
+  31. https://www.ssbwiki.com/Stage#In_for_Wii_U
+  32. https://www.ssbwiki.com/Stage#Custom_Stages
+  33. https://www.ssbwiki.com/Stage#References
+  34. https://www.ssbwiki.com/index.php?title=Stage&action=edit&section=1
+  35. https://www.ssbwiki.com/Super_Smash_Bros._(series)
+  36. https://www.ssbwiki.com/Versus_mode
+  37. https://www.ssbwiki.com/Starter_stage
+  38. https://www.ssbwiki.com/Unlockable_stage
+  39. https://www.ssbwiki.com/Downloadable
+  40. https://www.ssbwiki.com/Duck_Hunt_(stage)
+  41. https://www.ssbwiki.com/Miiverse
+  42. https://www.ssbwiki.com/Princess_Peach's_Castle
+  43. https://www.ssbwiki.com/Universe
+  44. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+  45. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+  46. https://www.ssbwiki.com/Battlefield
+  47. https://www.ssbwiki.com/Final_Destination
+  48. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+  49. https://www.ssbwiki.com/Smashville
+  50. https://www.ssbwiki.com/Hanenbow
+  51. https://www.ssbwiki.com/PictoChat
+  52. https://www.ssbwiki.com/Nintendo_DS
+  53. https://www.ssbwiki.com/Fire_Emblem_universe
+  54. https://www.ssbwiki.com/AKANEIA
+  55. https://www.ssbwiki.com/R.O.B._universe
+  56. https://www.ssbwiki.com/Past_Stages
+  57. https://www.ssbwiki.com/Dream_Land_(64)
+  58. https://www.ssbwiki.com/The_Great_Cave_Offensive
+  59. https://www.ssbwiki.com/Rumble_Falls
+  60. https://www.ssbwiki.com/Yoshi's_Story
+  61. https://www.ssbwiki.com/Peach's_Castle
+  62. https://www.ssbwiki.com/Platform
+  63. https://www.ssbwiki.com/Ledge
+  64. https://www.ssbwiki.com/Blast_line
+  65. https://www.ssbwiki.com/Mushroom_Kingdom_(SSBM)
+  66. https://www.ssbwiki.com/Coliseum
+  67. https://www.ssbwiki.com/Bridge_of_Eldin
+  68. https://www.ssbwiki.com/Yoshi's_Island_(SSBM)
+  69. https://www.ssbwiki.com/Onett
+  70. https://www.ssbwiki.com/Green_Hill_Zone
+  71. https://www.ssbwiki.com/Mushroom_Kingdom_(SSB)
+  72. https://www.ssbwiki.com/Stage_transformation
+  73. https://www.ssbwiki.com/Big_Blue
+  74. https://www.ssbwiki.com/Rainbow_Cruise
+  75. https://www.ssbwiki.com/Icicle_Mountain
+  76. https://www.ssbwiki.com/PAC-LAND
+  77. https://www.ssbwiki.com/Pokémon_Stadium
+  78. https://www.ssbwiki.com/Castle_Siege
+  79. https://www.ssbwiki.com/Paper_Mario
+  80. https://www.ssbwiki.com/Delfino_Plaza
+  81. https://www.ssbwiki.com/Skyloft
+  82. https://www.ssbwiki.com/Mushroomy_Kingdom
+  83. https://www.ssbwiki.com/Tortimer_Island
+  84. https://www.ssbwiki.com/Gamer
+  85. https://www.ssbwiki.com/Balloon_Fight
+  86. https://www.ssbwiki.com/Garden_of_Hope
+  87. https://www.ssbwiki.com/Luigi's_Mansion
+  88. https://www.ssbwiki.com/Skyworld
+  89. https://www.ssbwiki.com/Stage_hazard
+  90. https://www.ssbwiki.com/Enemies
+  91. https://www.ssbwiki.com/Klaptrap
+  92. https://www.ssbwiki.com/Apple
+  93. https://www.ssbwiki.com/Barrel_Cannon
+  94. https://www.ssbwiki.com/Water
+  95. https://www.ssbwiki.com/Jungle_Japes
+  96. https://www.ssbwiki.com/Swimming
+  97. https://www.ssbwiki.com/Crate
+  98. https://www.ssbwiki.com/Barrel
+  99. https://www.ssbwiki.com/Dream_Land_(SSB)
+ 100. https://www.ssbwiki.com/Tournament_legal
+ 101. https://www.ssbwiki.com/Stage_legality
+ 102. https://www.ssbwiki.com/index.php?title=Stage&action=edit&section=2
+ 103. https://www.ssbwiki.com/Super_Smash_Bros.
+ 104. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 105. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 106. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 107. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 108. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 109. https://www.ssbwiki.com/3D_Land
+ 110. https://www.ssbwiki.com/Mario_(universe)
+ 111. https://www.ssbwiki.com/Mario_(universe)
+ 112. https://www.ssbwiki.com/75m
+ 113. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 114. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 115. https://www.ssbwiki.com/Arena_Ferox
+ 116. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 117. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 118. https://www.ssbwiki.com/Balloon_Fight_(stage)
+ 119. https://www.ssbwiki.com/Balloon_Fight_(universe)
+ 120. https://www.ssbwiki.com/Balloon_Fight_(universe)
+ 121. https://www.ssbwiki.com/Battlefield_(SSBM)
+ 122. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 123. https://www.ssbwiki.com/Stage#cite_note-1
+ 124. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 125. https://www.ssbwiki.com/Battlefield_(SSBB)
+ 126. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 127. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 128. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 129. https://www.ssbwiki.com/Battlefield_(SSB4)
+ 130. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 131. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 132. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 133. https://www.ssbwiki.com/Battlefield_(SSBU)
+ 134. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 135. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 136. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 137. https://www.ssbwiki.com/Big_Battlefield_(SSB4)
+ 138. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 139. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 140. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 141. https://www.ssbwiki.com/Big_Battlefield_(SSBU)
+ 142. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 143. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 144. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 145. https://www.ssbwiki.com/Big_Blue
+ 146. https://www.ssbwiki.com/Stage#cite_note-2
+ 147. https://www.ssbwiki.com/F-Zero_(universe)
+ 148. https://www.ssbwiki.com/F-Zero_(universe)
+ 149. https://www.ssbwiki.com/Boxing_Ring
+ 150. https://www.ssbwiki.com/Punch-Out!!_(universe)
+ 151. https://www.ssbwiki.com/Punch-Out!!_(universe)
+ 152. https://www.ssbwiki.com/Bridge_of_Eldin
+ 153. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 154. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 155. https://www.ssbwiki.com/Brinstar
+ 156. https://www.ssbwiki.com/Stage#cite_note-3
+ 157. https://www.ssbwiki.com/Metroid_(universe)
+ 158. https://www.ssbwiki.com/Metroid_(universe)
+ 159. https://www.ssbwiki.com/Brinstar_Depths
+ 160. https://www.ssbwiki.com/Stage#cite_note-4
+ 161. https://www.ssbwiki.com/Metroid_(universe)
+ 162. https://www.ssbwiki.com/Metroid_(universe)
+ 163. https://www.ssbwiki.com/Castle_Siege
+ 164. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 165. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 166. https://www.ssbwiki.com/Coliseum
+ 167. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 168. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 169. https://www.ssbwiki.com/Corneria
+ 170. https://www.ssbwiki.com/Stage#cite_note-5
+ 171. https://www.ssbwiki.com/Star_Fox_(universe)
+ 172. https://www.ssbwiki.com/Star_Fox_(universe)
+ 173. https://www.ssbwiki.com/Delfino_Plaza
+ 174. https://www.ssbwiki.com/Mario_(universe)
+ 175. https://www.ssbwiki.com/Mario_(universe)
+ 176. https://www.ssbwiki.com/Distant_Planet
+ 177. https://www.ssbwiki.com/Pikmin_(universe)
+ 178. https://www.ssbwiki.com/Pikmin_(universe)
+ 179. https://www.ssbwiki.com/Dracula's_Castle
+ 180. https://www.ssbwiki.com/Castlevania_(universe)
+ 181. https://www.ssbwiki.com/Castlevania_(universe)
+ 182. https://www.ssbwiki.com/Dream_Land_(SSB)
+ 183. https://www.ssbwiki.com/Super_Smash_Bros.
+ 184. https://www.ssbwiki.com/Stage#cite_note-6
+ 185. https://www.ssbwiki.com/Kirby_(universe)
+ 186. https://www.ssbwiki.com/Kirby_(universe)
+ 187. https://www.ssbwiki.com/Dream_Land_(SSB4)
+ 188. https://www.ssbwiki.com/Stage#cite_note-7
+ 189. https://www.ssbwiki.com/Kirby_(universe)
+ 190. https://www.ssbwiki.com/Kirby_(universe)
+ 191. https://www.ssbwiki.com/Duck_Hunt_(stage)
+ 192. https://www.ssbwiki.com/Duck_Hunt_(universe)
+ 193. https://www.ssbwiki.com/Duck_Hunt_(universe)
+ 194. https://www.ssbwiki.com/Mario_Circuit_(SSBB)
+ 195. https://www.ssbwiki.com/Stage#cite_note-8
+ 196. https://www.ssbwiki.com/Mario_(universe)
+ 197. https://www.ssbwiki.com/Mario_(universe)
+ 198. https://www.ssbwiki.com/Final_Destination_(SSBM)
+ 199. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 200. https://www.ssbwiki.com/Stage#cite_note-9
+ 201. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 202. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 203. https://www.ssbwiki.com/Final_Destination_(SSBB)
+ 204. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 205. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 206. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 207. https://www.ssbwiki.com/Final_Destination_(SSB4)
+ 208. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 209. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 210. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 211. https://www.ssbwiki.com/Final_Destination_(SSBU)
+ 212. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 213. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 214. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 215. https://www.ssbwiki.com/Find_Mii
+ 216. https://www.ssbwiki.com/Find_Mii_(universe)
+ 217. https://www.ssbwiki.com/Find_Mii_(universe)
+ 218. https://www.ssbwiki.com/Flat_Zone
+ 219. https://www.ssbwiki.com/Stage#cite_note-10
+ 220. https://www.ssbwiki.com/Game_&_Watch_(universe)
+ 221. https://www.ssbwiki.com/Game_&_Watch_(universe)
+ 222. https://www.ssbwiki.com/Stage#cite_note-flatzonex-11
+ 223. https://www.ssbwiki.com/Stage#cite_note-flatzonex-11
+ 224. https://www.ssbwiki.com/Flat_Zone_2
+ 225. https://www.ssbwiki.com/Game_&_Watch_(universe)
+ 226. https://www.ssbwiki.com/Game_&_Watch_(universe)
+ 227. https://www.ssbwiki.com/Stage#cite_note-flatzonex-11
+ 228. https://www.ssbwiki.com/Stage#cite_note-flatzonex-11
+ 229. https://www.ssbwiki.com/Flat_Zone_X
+ 230. https://www.ssbwiki.com/Game_&_Watch_(universe)
+ 231. https://www.ssbwiki.com/Game_&_Watch_(universe)
+ 232. https://www.ssbwiki.com/Fountain_of_Dreams
+ 233. https://www.ssbwiki.com/Stage#cite_note-12
+ 234. https://www.ssbwiki.com/Kirby_(universe)
+ 235. https://www.ssbwiki.com/Kirby_(universe)
+ 236. https://www.ssbwiki.com/Fourside
+ 237. https://www.ssbwiki.com/Stage#cite_note-13
+ 238. https://www.ssbwiki.com/EarthBound_(universe)
+ 239. https://www.ssbwiki.com/EarthBound_(universe)
+ 240. https://www.ssbwiki.com/Frigate_Orpheon
+ 241. https://www.ssbwiki.com/Metroid_(universe)
+ 242. https://www.ssbwiki.com/Metroid_(universe)
+ 243. https://www.ssbwiki.com/Gamer
+ 244. https://www.ssbwiki.com/Wario_(universe)
+ 245. https://www.ssbwiki.com/Wario_(universe)
+ 246. https://www.ssbwiki.com/Garden_of_Hope
+ 247. https://www.ssbwiki.com/Pikmin_(universe)
+ 248. https://www.ssbwiki.com/Pikmin_(universe)
+ 249. https://www.ssbwiki.com/Gaur_Plain
+ 250. https://www.ssbwiki.com/Xenoblade_(universe)
+ 251. https://www.ssbwiki.com/Xenoblade_(universe)
+ 252. https://www.ssbwiki.com/Gerudo_Valley
+ 253. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 254. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 255. https://www.ssbwiki.com/Golden_Plains
+ 256. https://www.ssbwiki.com/Mario_(universe)
+ 257. https://www.ssbwiki.com/Mario_(universe)
+ 258. https://www.ssbwiki.com/Great_Bay
+ 259. https://www.ssbwiki.com/Stage#cite_note-14
+ 260. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 261. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 262. https://www.ssbwiki.com/The_Great_Cave_Offensive
+ 263. https://www.ssbwiki.com/Kirby_(universe)
+ 264. https://www.ssbwiki.com/Kirby_(universe)
+ 265. https://www.ssbwiki.com/Great_Plateau_Tower
+ 266. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 267. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 268. https://www.ssbwiki.com/Green_Greens
+ 269. https://www.ssbwiki.com/Stage#cite_note-15
+ 270. https://www.ssbwiki.com/Kirby_(universe)
+ 271. https://www.ssbwiki.com/Kirby_(universe)
+ 272. https://www.ssbwiki.com/Green_Hill_Zone
+ 273. https://www.ssbwiki.com/Sonic_(universe)
+ 274. https://www.ssbwiki.com/Sonic_(universe)
+ 275. https://www.ssbwiki.com/Halberd
+ 276. https://www.ssbwiki.com/Kirby_(universe)
+ 277. https://www.ssbwiki.com/Kirby_(universe)
+ 278. https://www.ssbwiki.com/Hanenbow
+ 279. https://www.ssbwiki.com/Electroplankton_(universe)
+ 280. https://www.ssbwiki.com/Electroplankton_(universe)
+ 281. https://www.ssbwiki.com/Hyrule_Castle
+ 282. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 283. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 284. https://www.ssbwiki.com/Icicle_Mountain
+ 285. https://www.ssbwiki.com/Stage#cite_note-16
+ 286. https://www.ssbwiki.com/Ice_Climber_(universe)
+ 287. https://www.ssbwiki.com/Ice_Climber_(universe)
+ 288. https://www.ssbwiki.com/Jungle_Hijinxs
+ 289. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 290. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 291. https://www.ssbwiki.com/Jungle_Japes
+ 292. https://www.ssbwiki.com/Stage#cite_note-17
+ 293. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 294. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 295. https://www.ssbwiki.com/Kalos_Pokémon_League
+ 296. https://www.ssbwiki.com/Pokémon_(universe)
+ 297. https://www.ssbwiki.com/Pokémon_(universe)
+ 298. https://www.ssbwiki.com/Kongo_Jungle_(SSBM)
+ 299. https://www.ssbwiki.com/Stage#cite_note-18
+ 300. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 301. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 302. https://www.ssbwiki.com/Kongo_Jungle_(SSB)
+ 303. https://www.ssbwiki.com/Super_Smash_Bros.
+ 304. https://www.ssbwiki.com/Stage#cite_note-19
+ 305. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 306. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 307. https://www.ssbwiki.com/Living_Room
+ 308. https://www.ssbwiki.com/Nintendogs_(universe)
+ 309. https://www.ssbwiki.com/Nintendogs_(universe)
+ 310. https://www.ssbwiki.com/Luigi's_Mansion
+ 311. https://www.ssbwiki.com/Mario_(universe)
+ 312. https://www.ssbwiki.com/Mario_(universe)
+ 313. https://www.ssbwiki.com/Lylat_Cruise
+ 314. https://www.ssbwiki.com/Star_Fox_(universe)
+ 315. https://www.ssbwiki.com/Star_Fox_(universe)
+ 316. https://www.ssbwiki.com/Magicant
+ 317. https://www.ssbwiki.com/EarthBound_(universe)
+ 318. https://www.ssbwiki.com/EarthBound_(universe)
+ 319. https://www.ssbwiki.com/Mario_Bros._(stage)
+ 320. https://www.ssbwiki.com/Mario_(universe)
+ 321. https://www.ssbwiki.com/Mario_(universe)
+ 322. https://www.ssbwiki.com/Mario_Circuit_(SSB4)
+ 323. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 324. https://www.ssbwiki.com/Mario_(universe)
+ 325. https://www.ssbwiki.com/Mario_(universe)
+ 326. https://www.ssbwiki.com/Mario_Galaxy
+ 327. https://www.ssbwiki.com/Mario_(universe)
+ 328. https://www.ssbwiki.com/Mario_(universe)
+ 329. https://www.ssbwiki.com/Midgar
+ 330. https://www.ssbwiki.com/Final_Fantasy_(universe)
+ 331. https://www.ssbwiki.com/Final_Fantasy_(universe)
+ 332. https://www.ssbwiki.com/Miiverse_(stage)
+ 333. https://www.ssbwiki.com/Miiverse_(universe)
+ 334. https://www.ssbwiki.com/Miiverse_(universe)
+ 335. https://www.ssbwiki.com/Moray_Towers
+ 336. https://www.ssbwiki.com/Splatoon_(universe)
+ 337. https://www.ssbwiki.com/Splatoon_(universe)
+ 338. https://www.ssbwiki.com/Mushroom_Kingdom_(SSB)
+ 339. https://www.ssbwiki.com/Super_Smash_Bros.
+ 340. https://www.ssbwiki.com/Mario_(universe)
+ 341. https://www.ssbwiki.com/Mario_(universe)
+ 342. https://www.ssbwiki.com/Mushroom_Kingdom_(SSBM)
+ 343. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 344. https://www.ssbwiki.com/Stage#cite_note-20
+ 345. https://www.ssbwiki.com/Mario_(universe)
+ 346. https://www.ssbwiki.com/Mario_(universe)
+ 347. https://www.ssbwiki.com/Mushroom_Kingdom_II
+ 348. https://www.ssbwiki.com/Stage#cite_note-21
+ 349. https://www.ssbwiki.com/Mario_(universe)
+ 350. https://www.ssbwiki.com/Mario_(universe)
+ 351. https://www.ssbwiki.com/Mushroomy_Kingdom
+ 352. https://www.ssbwiki.com/Mario_(universe)
+ 353. https://www.ssbwiki.com/Mario_(universe)
+ 354. https://www.ssbwiki.com/Mushroom_Kingdom_U
+ 355. https://www.ssbwiki.com/Mario_(universe)
+ 356. https://www.ssbwiki.com/Mario_(universe)
+ 357. https://www.ssbwiki.com/Mute_City_(SSBM)
+ 358. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 359. https://www.ssbwiki.com/Stage#cite_note-22
+ 360. https://www.ssbwiki.com/F-Zero_(universe)
+ 361. https://www.ssbwiki.com/F-Zero_(universe)
+ 362. https://www.ssbwiki.com/Mute_City_(SSB4)
+ 363. https://www.ssbwiki.com/Stage#cite_note-23
+ 364. https://www.ssbwiki.com/F-Zero_(universe)
+ 365. https://www.ssbwiki.com/F-Zero_(universe)
+ 366. https://www.ssbwiki.com/New_Donk_City_Hall
+ 367. https://www.ssbwiki.com/Mario_(universe)
+ 368. https://www.ssbwiki.com/Mario_(universe)
+ 369. https://www.ssbwiki.com/New_Pork_City
+ 370. https://www.ssbwiki.com/EarthBound_(universe)
+ 371. https://www.ssbwiki.com/EarthBound_(universe)
+ 372. https://www.ssbwiki.com/Norfair
+ 373. https://www.ssbwiki.com/Metroid_(universe)
+ 374. https://www.ssbwiki.com/Metroid_(universe)
+ 375. https://www.ssbwiki.com/Onett
+ 376. https://www.ssbwiki.com/Stage#cite_note-24
+ 377. https://www.ssbwiki.com/EarthBound_(universe)
+ 378. https://www.ssbwiki.com/EarthBound_(universe)
+ 379. https://www.ssbwiki.com/Orbital_Gate_Assault
+ 380. https://www.ssbwiki.com/Star_Fox_(universe)
+ 381. https://www.ssbwiki.com/Star_Fox_(universe)
+ 382. https://www.ssbwiki.com/Pac-Land
+ 383. https://www.ssbwiki.com/Pac-Man_(universe)
+ 384. https://www.ssbwiki.com/Pac-Man_(universe)
+ 385. https://www.ssbwiki.com/Pac-Maze
+ 386. https://www.ssbwiki.com/Pac-Man_(universe)
+ 387. https://www.ssbwiki.com/Pac-Man_(universe)
+ 388. https://www.ssbwiki.com/Palutena's_Temple
+ 389. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 390. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 391. https://www.ssbwiki.com/Paper_Mario
+ 392. https://www.ssbwiki.com/Mario_(universe)
+ 393. https://www.ssbwiki.com/Mario_(universe)
+ 394. https://www.ssbwiki.com/Peach's_Castle
+ 395. https://www.ssbwiki.com/Mario_(universe)
+ 396. https://www.ssbwiki.com/Mario_(universe)
+ 397. https://www.ssbwiki.com/Princess_Peach's_Castle
+ 398. https://www.ssbwiki.com/Stage#cite_note-25
+ 399. https://www.ssbwiki.com/Mario_(universe)
+ 400. https://www.ssbwiki.com/Mario_(universe)
+ 401. https://www.ssbwiki.com/PictoChat
+ 402. https://www.ssbwiki.com/Nintendo_DS_(universe)
+ 403. https://www.ssbwiki.com/Nintendo_DS_(universe)
+ 404. https://www.ssbwiki.com/PictoChat_2
+ 405. https://www.ssbwiki.com/Nintendo_DS_(universe)
+ 406. https://www.ssbwiki.com/Nintendo_DS_(universe)
+ 407. https://www.ssbwiki.com/Pilotwings
+ 408. https://www.ssbwiki.com/Pilotwings_(universe)
+ 409. https://www.ssbwiki.com/Pilotwings_(universe)
+ 410. https://www.ssbwiki.com/Pirate_Ship
+ 411. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 412. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 413. https://www.ssbwiki.com/Planet_Zebes
+ 414. https://www.ssbwiki.com/Metroid_(universe)
+ 415. https://www.ssbwiki.com/Metroid_(universe)
+ 416. https://www.ssbwiki.com/Poké_Floats
+ 417. https://www.ssbwiki.com/Stage#cite_note-26
+ 418. https://www.ssbwiki.com/Pokémon_(universe)
+ 419. https://www.ssbwiki.com/Pokémon_(universe)
+ 420. https://www.ssbwiki.com/Pokémon_Stadium
+ 421. https://www.ssbwiki.com/Stage#cite_note-27
+ 422. https://www.ssbwiki.com/Pokémon_(universe)
+ 423. https://www.ssbwiki.com/Pokémon_(universe)
+ 424. https://www.ssbwiki.com/Pokémon_Stadium_2
+ 425. https://www.ssbwiki.com/Pokémon_(universe)
+ 426. https://www.ssbwiki.com/Pokémon_(universe)
+ 427. https://www.ssbwiki.com/Port_Town_Aero_Dive
+ 428. https://www.ssbwiki.com/F-Zero_(universe)
+ 429. https://www.ssbwiki.com/F-Zero_(universe)
+ 430. https://www.ssbwiki.com/Prism_Tower
+ 431. https://www.ssbwiki.com/Pokémon_(universe)
+ 432. https://www.ssbwiki.com/Pokémon_(universe)
+ 433. https://www.ssbwiki.com/Pyrosphere
+ 434. https://www.ssbwiki.com/Metroid_(universe)
+ 435. https://www.ssbwiki.com/Metroid_(universe)
+ 436. https://www.ssbwiki.com/Rainbow_Cruise
+ 437. https://www.ssbwiki.com/Stage#cite_note-28
+ 438. https://www.ssbwiki.com/Mario_(universe)
+ 439. https://www.ssbwiki.com/Mario_(universe)
+ 440. https://www.ssbwiki.com/Rainbow_Road
+ 441. https://www.ssbwiki.com/Mario_(universe)
+ 442. https://www.ssbwiki.com/Mario_(universe)
+ 443. https://www.ssbwiki.com/Reset_Bomb_Forest
+ 444. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 445. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 446. https://www.ssbwiki.com/Rumble_Falls
+ 447. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 448. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 449. https://www.ssbwiki.com/Saffron_City
+ 450. https://www.ssbwiki.com/Pokémon_(universe)
+ 451. https://www.ssbwiki.com/Pokémon_(universe)
+ 452. https://www.ssbwiki.com/Sector_Z
+ 453. https://www.ssbwiki.com/Star_Fox_(universe)
+ 454. https://www.ssbwiki.com/Star_Fox_(universe)
+ 455. https://www.ssbwiki.com/Shadow_Moses_Island
+ 456. https://www.ssbwiki.com/Metal_Gear_(universe)
+ 457. https://www.ssbwiki.com/Metal_Gear_(universe)
+ 458. https://www.ssbwiki.com/Skyloft
+ 459. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 460. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 461. https://www.ssbwiki.com/Skyworld
+ 462. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 463. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 464. https://www.ssbwiki.com/Smashville
+ 465. https://www.ssbwiki.com/Animal_Crossing_(universe)
+ 466. https://www.ssbwiki.com/Animal_Crossing_(universe)
+ 467. https://www.ssbwiki.com/Spear_Pillar
+ 468. https://www.ssbwiki.com/Pokémon_(universe)
+ 469. https://www.ssbwiki.com/Pokémon_(universe)
+ 470. https://www.ssbwiki.com/Spirit_Train
+ 471. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 472. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 473. https://www.ssbwiki.com/Summit
+ 474. https://www.ssbwiki.com/Ice_Climber_(universe)
+ 475. https://www.ssbwiki.com/Ice_Climber_(universe)
+ 476. https://www.ssbwiki.com/Yoshi's_Island_(SSB)
+ 477. https://www.ssbwiki.com/Stage#cite_note-29
+ 478. https://www.ssbwiki.com/Yoshi_(universe)
+ 479. https://www.ssbwiki.com/Yoshi_(universe)
+ 480. https://www.ssbwiki.com/Super_Mario_Maker
+ 481. https://www.ssbwiki.com/Mario_(universe)
+ 482. https://www.ssbwiki.com/Mario_(universe)
+ 483. https://www.ssbwiki.com/Suzaku_Castle
+ 484. https://www.ssbwiki.com/Street_Fighter_(universe)
+ 485. https://www.ssbwiki.com/Street_Fighter_(universe)
+ 486. https://www.ssbwiki.com/Temple
+ 487. https://www.ssbwiki.com/Stage#cite_note-30
+ 488. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 489. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 490. https://www.ssbwiki.com/Tomodachi_Life
+ 491. https://www.ssbwiki.com/Tomodachi_(universe)
+ 492. https://www.ssbwiki.com/Tomodachi_(universe)
+ 493. https://www.ssbwiki.com/Tortimer_Island
+ 494. https://www.ssbwiki.com/Animal_Crossing_(universe)
+ 495. https://www.ssbwiki.com/Animal_Crossing_(universe)
+ 496. https://www.ssbwiki.com/Town_and_City
+ 497. https://www.ssbwiki.com/Animal_Crossing_(universe)
+ 498. https://www.ssbwiki.com/Animal_Crossing_(universe)
+ 499. https://www.ssbwiki.com/Umbra_Clock_Tower
+ 500. https://www.ssbwiki.com/Bayonetta_(universe)
+ 501. https://www.ssbwiki.com/Bayonetta_(universe)
+ 502. https://www.ssbwiki.com/Unova_Pokémon_League
+ 503. https://www.ssbwiki.com/Pokémon_(universe)
+ 504. https://www.ssbwiki.com/Pokémon_(universe)
+ 505. https://www.ssbwiki.com/Venom
+ 506. https://www.ssbwiki.com/Stage#cite_note-31
+ 507. https://www.ssbwiki.com/Star_Fox_(universe)
+ 508. https://www.ssbwiki.com/Star_Fox_(universe)
+ 509. https://www.ssbwiki.com/WarioWare,_Inc.
+ 510. https://www.ssbwiki.com/Wario_(universe)
+ 511. https://www.ssbwiki.com/Wario_(universe)
+ 512. https://www.ssbwiki.com/Wii_Fit_Studio
+ 513. https://www.ssbwiki.com/Wii_Fit_(universe)
+ 514. https://www.ssbwiki.com/Wii_Fit_(universe)
+ 515. https://www.ssbwiki.com/Wily_Castle
+ 516. https://www.ssbwiki.com/Mega_Man_(universe)
+ 517. https://www.ssbwiki.com/Mega_Man_(universe)
+ 518. https://www.ssbwiki.com/Stage#cite_note-32
+ 519. https://www.ssbwiki.com/Stage#cite_note-33
+ 520. https://www.ssbwiki.com/Stage#cite_note-34
+ 521. https://www.ssbwiki.com/Windy_Hill_Zone
+ 522. https://www.ssbwiki.com/Sonic_(universe)
+ 523. https://www.ssbwiki.com/Sonic_(universe)
+ 524. https://www.ssbwiki.com/Woolly_World
+ 525. https://www.ssbwiki.com/Yoshi_(universe)
+ 526. https://www.ssbwiki.com/Yoshi_(universe)
+ 527. https://www.ssbwiki.com/Wrecking_Crew
+ 528. https://www.ssbwiki.com/Wrecking_Crew_(universe)
+ 529. https://www.ssbwiki.com/Wrecking_Crew_(universe)
+ 530. https://www.ssbwiki.com/Wuhu_Island
+ 531. https://www.ssbwiki.com/Wii_Sports_(universe)
+ 532. https://www.ssbwiki.com/Wii_Sports_(universe)
+ 533. https://www.ssbwiki.com/Yoshi's_Island_(SSBM)
+ 534. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 535. https://www.ssbwiki.com/Stage#cite_note-35
+ 536. https://www.ssbwiki.com/Yoshi_(universe)
+ 537. https://www.ssbwiki.com/Yoshi_(universe)
+ 538. https://www.ssbwiki.com/Yoshi's_Island_(SSBB)
+ 539. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 540. https://www.ssbwiki.com/Yoshi_(universe)
+ 541. https://www.ssbwiki.com/Yoshi_(universe)
+ 542. https://www.ssbwiki.com/Yoshi's_Story
+ 543. https://www.ssbwiki.com/Stage#cite_note-36
+ 544. https://www.ssbwiki.com/Yoshi_(universe)
+ 545. https://www.ssbwiki.com/Yoshi_(universe)
+ 546. https://www.ssbwiki.com/index.php?title=Stage&action=edit&section=3
+ 547. https://www.ssbwiki.com/Stage#cite_ref-1
+ 548. https://www.ssbwiki.com/Stage#cite_ref-2
+ 549. https://www.ssbwiki.com/Stage#cite_ref-3
+ 550. https://www.ssbwiki.com/Stage#cite_ref-4
+ 551. https://www.ssbwiki.com/Stage#cite_ref-5
+ 552. https://www.ssbwiki.com/Stage#cite_ref-6
+ 553. https://www.ssbwiki.com/Stage#cite_ref-7
+ 554. https://www.ssbwiki.com/Stage#cite_ref-8
+ 555. https://www.ssbwiki.com/Stage#cite_ref-9
+ 556. https://www.ssbwiki.com/Stage#cite_ref-10
+ 557. https://www.ssbwiki.com/Stage#cite_ref-flatzonex_11-0
+ 558. https://www.ssbwiki.com/Stage#cite_ref-flatzonex_11-1
+ 559. https://www.ssbwiki.com/Stage#cite_ref-flatzonex_11-2
+ 560. https://www.ssbwiki.com/Stage#cite_ref-flatzonex_11-3
+ 561. https://www.ssbwiki.com/Flat_Zone_X
+ 562. https://www.ssbwiki.com/Stage#cite_ref-12
+ 563. https://www.ssbwiki.com/Stage#cite_ref-13
+ 564. https://www.ssbwiki.com/Stage#cite_ref-14
+ 565. https://www.ssbwiki.com/Stage#cite_ref-15
+ 566. https://www.ssbwiki.com/Stage#cite_ref-16
+ 567. https://www.ssbwiki.com/Stage#cite_ref-17
+ 568. https://www.ssbwiki.com/Stage#cite_ref-18
+ 569. https://www.ssbwiki.com/Stage#cite_ref-19
+ 570. https://www.ssbwiki.com/Stage#cite_ref-20
+ 571. https://www.ssbwiki.com/Stage#cite_ref-21
+ 572. https://www.ssbwiki.com/Stage#cite_ref-22
+ 573. https://www.ssbwiki.com/Stage#cite_ref-23
+ 574. https://www.ssbwiki.com/Stage#cite_ref-24
+ 575. https://www.ssbwiki.com/Stage#cite_ref-25
+ 576. https://www.ssbwiki.com/Stage#cite_ref-26
+ 577. https://www.ssbwiki.com/Stage#cite_ref-27
+ 578. https://www.ssbwiki.com/Stage#cite_ref-28
+ 579. https://www.ssbwiki.com/Stage#cite_ref-29
+ 580. https://www.ssbwiki.com/Stage#cite_ref-30
+ 581. https://www.ssbwiki.com/Stage#cite_ref-31
+ 582. https://www.ssbwiki.com/Stage#cite_ref-32
+ 583. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 584. https://www.ssbwiki.com/Stage#cite_ref-33
+ 585. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 586. https://www.ssbwiki.com/Yellow_Devil
+ 587. https://www.ssbwiki.com/Stage#cite_ref-34
+ 588. https://www.ssbwiki.com/Stage#cite_ref-35
+ 589. https://www.ssbwiki.com/Stage#cite_ref-36
+ 590. https://www.ssbwiki.com/index.php?title=Stage&action=edit&section=4
+ 591. https://www.ssbwiki.com/Super_Smash_Bros.
+ 592. https://www.ssbwiki.com/Starter_stage
+ 593. https://www.ssbwiki.com/Unlockable_stage
+ 594. https://www.ssbwiki.com/Super_Smash_Bros.
+ 595. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 596. https://www.ssbwiki.com/Kongo_Jungle_(SSB)
+ 597. https://www.ssbwiki.com/Kirby_(universe)
+ 598. https://www.ssbwiki.com/Dream_Land_(SSB)
+ 599. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 600. https://www.ssbwiki.com/Hyrule_Castle
+ 601. https://www.ssbwiki.com/Mario_(universe)
+ 602. https://www.ssbwiki.com/Mushroom_Kingdom_(SSB)
+ 603. https://www.ssbwiki.com/Mario_(universe)
+ 604. https://www.ssbwiki.com/Peach's_Castle
+ 605. https://www.ssbwiki.com/Metroid_(universe)
+ 606. https://www.ssbwiki.com/Planet_Zebes
+ 607. https://www.ssbwiki.com/Pokémon_(universe)
+ 608. https://www.ssbwiki.com/Saffron_City
+ 609. https://www.ssbwiki.com/Star_Fox_(universe)
+ 610. https://www.ssbwiki.com/Sector_Z
+ 611. https://www.ssbwiki.com/Yoshi_(universe)
+ 612. https://www.ssbwiki.com/Yoshi's_Island_(SSB)
+ 613. https://www.ssbwiki.com/index.php?title=Stage&action=edit&section=5
+ 614. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 615. https://www.ssbwiki.com/Starter_stage
+ 616. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 617. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 618. https://www.ssbwiki.com/Battlefield_(SSBM)
+ 619. https://www.ssbwiki.com/F-Zero_(universe)
+ 620. https://www.ssbwiki.com/Big_Blue
+ 621. https://www.ssbwiki.com/Metroid_(universe)
+ 622. https://www.ssbwiki.com/Brinstar
+ 623. https://www.ssbwiki.com/Metroid_(universe)
+ 624. https://www.ssbwiki.com/Brinstar_Depths
+ 625. https://www.ssbwiki.com/Star_Fox_(universe)
+ 626. https://www.ssbwiki.com/Corneria
+ 627. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 628. https://www.ssbwiki.com/Final_Destination_(SSBM)
+ 629. https://www.ssbwiki.com/Game_&_Watch_(universe)
+ 630. https://www.ssbwiki.com/Flat_Zone
+ 631. https://www.ssbwiki.com/Kirby_(universe)
+ 632. https://www.ssbwiki.com/Fountain_of_Dreams
+ 633. https://www.ssbwiki.com/EarthBound_(universe)
+ 634. https://www.ssbwiki.com/Fourside
+ 635. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 636. https://www.ssbwiki.com/Great_Bay
+ 637. https://www.ssbwiki.com/Kirby_(universe)
+ 638. https://www.ssbwiki.com/Green_Greens
+ 639. https://www.ssbwiki.com/Ice_Climber_(universe)
+ 640. https://www.ssbwiki.com/Icicle_Mountain
+ 641. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 642. https://www.ssbwiki.com/Jungle_Japes
+ 643. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 644. https://www.ssbwiki.com/Kongo_Jungle_(SSBM)
+ 645. https://www.ssbwiki.com/Mario_(universe)
+ 646. https://www.ssbwiki.com/Mushroom_Kingdom_(SSBM)
+ 647. https://www.ssbwiki.com/Mario_(universe)
+ 648. https://www.ssbwiki.com/Mushroom_Kingdom_II
+ 649. https://www.ssbwiki.com/F-Zero_(universe)
+ 650. https://www.ssbwiki.com/Mute_City_(SSBM)
+ 651. https://www.ssbwiki.com/EarthBound_(universe)
+ 652. https://www.ssbwiki.com/Onett
+ 653. https://www.ssbwiki.com/Pokémon_(universe)
+ 654. https://www.ssbwiki.com/Poké_Floats
+ 655. https://www.ssbwiki.com/Pokémon_(universe)
+ 656. https://www.ssbwiki.com/Pokémon_Stadium
+ 657. https://www.ssbwiki.com/Mario_(universe)
+ 658. https://www.ssbwiki.com/Princess_Peach's_Castle
+ 659. https://www.ssbwiki.com/Mario_(universe)
+ 660. https://www.ssbwiki.com/Rainbow_Cruise
+ 661. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 662. https://www.ssbwiki.com/Temple
+ 663. https://www.ssbwiki.com/Star_Fox_(universe)
+ 664. https://www.ssbwiki.com/Venom
+ 665. https://www.ssbwiki.com/Yoshi_(universe)
+ 666. https://www.ssbwiki.com/Yoshi's_Island_(SSBM)
+ 667. https://www.ssbwiki.com/Yoshi_(universe)
+ 668. https://www.ssbwiki.com/Yoshi's_Story
+ 669. https://www.ssbwiki.com/Super_Smash_Bros.
+ 670. https://www.ssbwiki.com/Past_Stages
+ 671. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 672. https://www.ssbwiki.com/Kongo_Jungle_(SSB)
+ 673. https://www.ssbwiki.com/Kirby_(universe)
+ 674. https://www.ssbwiki.com/Dream_Land_(SSB)
+ 675. https://www.ssbwiki.com/Yoshi_(universe)
+ 676. https://www.ssbwiki.com/Yoshi's_Island_(SSB)
+ 677. https://www.ssbwiki.com/index.php?title=Stage&action=edit&section=6
+ 678. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 679. https://www.ssbwiki.com/Starter_stage
+ 680. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 681. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 682. https://www.ssbwiki.com/75m
+ 683. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 684. https://www.ssbwiki.com/Battlefield_(SSBB)
+ 685. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 686. https://www.ssbwiki.com/Bridge_of_Eldin
+ 687. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 688. https://www.ssbwiki.com/Castle_Siege
+ 689. https://www.ssbwiki.com/Mario_(universe)
+ 690. https://www.ssbwiki.com/Delfino_Plaza
+ 691. https://www.ssbwiki.com/Pikmin_(universe)
+ 692. https://www.ssbwiki.com/Distant_Planet
+ 693. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 694. https://www.ssbwiki.com/Final_Destination_(SSBB)
+ 695. https://www.ssbwiki.com/Game_&_Watch_(universe)
+ 696. https://www.ssbwiki.com/Flat_Zone_2
+ 697. https://www.ssbwiki.com/Metroid_(universe)
+ 698. https://www.ssbwiki.com/Frigate_Orpheon
+ 699. https://www.ssbwiki.com/Sonic_(universe)
+ 700. https://www.ssbwiki.com/Green_Hill_Zone
+ 701. https://www.ssbwiki.com/Kirby_(universe)
+ 702. https://www.ssbwiki.com/Halberd
+ 703. https://www.ssbwiki.com/Electroplankton_(universe)
+ 704. https://www.ssbwiki.com/Hanenbow
+ 705. https://www.ssbwiki.com/Mario_(universe)
+ 706. https://www.ssbwiki.com/Luigi's_Mansion
+ 707. https://www.ssbwiki.com/Star_Fox_(universe)
+ 708. https://www.ssbwiki.com/Lylat_Cruise
+ 709. https://www.ssbwiki.com/Mario_(universe)
+ 710. https://www.ssbwiki.com/Mario_Bros.
+ 711. https://www.ssbwiki.com/Mario_(universe)
+ 712. https://www.ssbwiki.com/Mario_Circuit_(SSBB)
+ 713. https://www.ssbwiki.com/Mario_(universe)
+ 714. https://www.ssbwiki.com/Mushroomy_Kingdom
+ 715. https://www.ssbwiki.com/EarthBound_(universe)
+ 716. https://www.ssbwiki.com/New_Pork_City
+ 717. https://www.ssbwiki.com/Metroid_(universe)
+ 718. https://www.ssbwiki.com/Norfair
+ 719. https://www.ssbwiki.com/Nintendo_DS_(universe)
+ 720. https://www.ssbwiki.com/PictoChat
+ 721. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 722. https://www.ssbwiki.com/Pirate_Ship
+ 723. https://www.ssbwiki.com/Pokémon_(universe)
+ 724. https://www.ssbwiki.com/Pokémon_Stadium_2
+ 725. https://www.ssbwiki.com/F-Zero_(universe)
+ 726. https://www.ssbwiki.com/Port_Town_Aero_Dive
+ 727. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 728. https://www.ssbwiki.com/Rumble_Falls
+ 729. https://www.ssbwiki.com/Metal_Gear_(universe)
+ 730. https://www.ssbwiki.com/Shadow_Moses_Island
+ 731. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 732. https://www.ssbwiki.com/Skyworld
+ 733. https://www.ssbwiki.com/Animal_Crossing_(universe)
+ 734. https://www.ssbwiki.com/Smashville
+ 735. https://www.ssbwiki.com/Pokémon_(universe)
+ 736. https://www.ssbwiki.com/Spear_Pillar
+ 737. https://www.ssbwiki.com/Ice_Climber_(universe)
+ 738. https://www.ssbwiki.com/Summit
+ 739. https://www.ssbwiki.com/Wario_(universe)
+ 740. https://www.ssbwiki.com/WarioWare,_Inc.
+ 741. https://www.ssbwiki.com/Yoshi_(universe)
+ 742. https://www.ssbwiki.com/Yoshi's_Island_(SSBB)
+ 743. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 744. https://www.ssbwiki.com/F-Zero_(universe)
+ 745. https://www.ssbwiki.com/Big_Blue
+ 746. https://www.ssbwiki.com/Metroid_(universe)
+ 747. https://www.ssbwiki.com/Brinstar
+ 748. https://www.ssbwiki.com/Star_Fox_(universe)
+ 749. https://www.ssbwiki.com/Corneria
+ 750. https://www.ssbwiki.com/Kirby_(universe)
+ 751. https://www.ssbwiki.com/Green_Greens
+ 752. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 753. https://www.ssbwiki.com/Jungle_Japes
+ 754. https://www.ssbwiki.com/EarthBound_(universe)
+ 755. https://www.ssbwiki.com/Onett
+ 756. https://www.ssbwiki.com/Pokémon_(universe)
+ 757. https://www.ssbwiki.com/Pokémon_Stadium
+ 758. https://www.ssbwiki.com/Mario_(universe)
+ 759. https://www.ssbwiki.com/Rainbow_Cruise
+ 760. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 761. https://www.ssbwiki.com/Temple
+ 762. https://www.ssbwiki.com/Yoshi_(universe)
+ 763. https://www.ssbwiki.com/Yoshi's_Island_(SSBM)
+ 764. https://www.ssbwiki.com/index.php?title=Stage&action=edit&section=7
+ 765. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 766. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 767. https://www.ssbwiki.com/Downloadable_content
+ 768. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 769. https://www.ssbwiki.com/Mute_City_(SSB4)
+ 770. https://www.ssbwiki.com/Balloon_Fight_(stage)
+ 771. https://www.ssbwiki.com/Kalos_Pokémon_League
+ 772. https://www.ssbwiki.com/Ω_form
+ 773. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 774. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 775. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 776. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 777. https://www.ssbwiki.com/3D_Land
+ 778. https://www.ssbwiki.com/Mario_(universe)
+ 779. https://www.ssbwiki.com/Mario_(universe)
+ 780. https://www.ssbwiki.com/75m
+ 781. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 782. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 783. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 784. https://www.ssbwiki.com/Arena_Ferox
+ 785. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 786. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 787. https://www.ssbwiki.com/Balloon_Fight_(stage)
+ 788. https://www.ssbwiki.com/Balloon_Fight_(universe)
+ 789. https://www.ssbwiki.com/Balloon_Fight_(universe)
+ 790. https://www.ssbwiki.com/Battlefield_(SSB4)
+ 791. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 792. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 793. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 794. https://www.ssbwiki.com/Big_Battlefield_(SSB4)
+ 795. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 796. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 797. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 798. https://www.ssbwiki.com/Boxing_Ring
+ 799. https://www.ssbwiki.com/Punch-Out!!_(universe)
+ 800. https://www.ssbwiki.com/Punch-Out!!_(universe)
+ 801. https://www.ssbwiki.com/Bridge_of_Eldin
+ 802. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 803. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 804. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 805. https://www.ssbwiki.com/Brinstar
+ 806. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 807. https://www.ssbwiki.com/Metroid_(universe)
+ 808. https://www.ssbwiki.com/Metroid_(universe)
+ 809. https://www.ssbwiki.com/Castle_Siege
+ 810. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 811. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 812. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 813. https://www.ssbwiki.com/Coliseum
+ 814. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 815. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 816. https://www.ssbwiki.com/Corneria
+ 817. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 818. https://www.ssbwiki.com/Star_Fox_(universe)
+ 819. https://www.ssbwiki.com/Star_Fox_(universe)
+ 820. https://www.ssbwiki.com/Delfino_Plaza
+ 821. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 822. https://www.ssbwiki.com/Mario_(universe)
+ 823. https://www.ssbwiki.com/Mario_(universe)
+ 824. https://www.ssbwiki.com/Distant_Planet
+ 825. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 826. https://www.ssbwiki.com/Pikmin_(universe)
+ 827. https://www.ssbwiki.com/Pikmin_(universe)
+ 828. https://www.ssbwiki.com/Dream_Land_(SSB)
+ 829. https://www.ssbwiki.com/Super_Smash_Bros.
+ 830. https://www.ssbwiki.com/Kirby_(universe)
+ 831. https://www.ssbwiki.com/Kirby_(universe)
+ 832. https://www.ssbwiki.com/Dream_Land_(SSB4)
+ 833. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 834. https://www.ssbwiki.com/Kirby_(universe)
+ 835. https://www.ssbwiki.com/Kirby_(universe)
+ 836. https://www.ssbwiki.com/Duck_Hunt_(stage)
+ 837. https://www.ssbwiki.com/Duck_Hunt_(universe)
+ 838. https://www.ssbwiki.com/Duck_Hunt_(universe)
+ 839. https://www.ssbwiki.com/Final_Destination_(SSB4)
+ 840. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 841. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 842. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 843. https://www.ssbwiki.com/Find_Mii
+ 844. https://www.ssbwiki.com/Find_Mii_(universe)
+ 845. https://www.ssbwiki.com/Find_Mii_(universe)
+ 846. https://www.ssbwiki.com/Flat_Zone_2
+ 847. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 848. https://www.ssbwiki.com/Game_&_Watch_(universe)
+ 849. https://www.ssbwiki.com/Game_&_Watch_(universe)
+ 850. https://www.ssbwiki.com/Flat_Zone_X
+ 851. https://www.ssbwiki.com/Game_&_Watch_(universe)
+ 852. https://www.ssbwiki.com/Game_&_Watch_(universe)
+ 853. https://www.ssbwiki.com/Gamer
+ 854. https://www.ssbwiki.com/Wario_(universe)
+ 855. https://www.ssbwiki.com/Wario_(universe)
+ 856. https://www.ssbwiki.com/Garden_of_Hope
+ 857. https://www.ssbwiki.com/Pikmin_(universe)
+ 858. https://www.ssbwiki.com/Pikmin_(universe)
+ 859. https://www.ssbwiki.com/Gaur_Plain
+ 860. https://www.ssbwiki.com/Xenoblade_(universe)
+ 861. https://www.ssbwiki.com/Xenoblade_(universe)
+ 862. https://www.ssbwiki.com/Gerudo_Valley
+ 863. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 864. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 865. https://www.ssbwiki.com/Golden_Plains
+ 866. https://www.ssbwiki.com/Mario_(universe)
+ 867. https://www.ssbwiki.com/Mario_(universe)
+ 868. https://www.ssbwiki.com/The_Great_Cave_Offensive
+ 869. https://www.ssbwiki.com/Kirby_(universe)
+ 870. https://www.ssbwiki.com/Kirby_(universe)
+ 871. https://www.ssbwiki.com/Green_Hill_Zone
+ 872. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 873. https://www.ssbwiki.com/Sonic_(universe)
+ 874. https://www.ssbwiki.com/Sonic_(universe)
+ 875. https://www.ssbwiki.com/Halberd
+ 876. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 877. https://www.ssbwiki.com/Kirby_(universe)
+ 878. https://www.ssbwiki.com/Kirby_(universe)
+ 879. https://www.ssbwiki.com/Hyrule_Castle
+ 880. https://www.ssbwiki.com/Super_Smash_Bros.
+ 881. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 882. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 883. https://www.ssbwiki.com/Jungle_Hijinxs
+ 884. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 885. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 886. https://www.ssbwiki.com/Jungle_Japes
+ 887. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 888. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 889. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 890. https://www.ssbwiki.com/Kalos_Pokémon_League
+ 891. https://www.ssbwiki.com/Pokémon_(universe)
+ 892. https://www.ssbwiki.com/Pokémon_(universe)
+ 893. https://www.ssbwiki.com/Kongo_Jungle_(SSB)
+ 894. https://www.ssbwiki.com/Super_Smash_Bros.
+ 895. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 896. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 897. https://www.ssbwiki.com/Living_Room
+ 898. https://www.ssbwiki.com/Nintendogs_(universe)
+ 899. https://www.ssbwiki.com/Nintendogs_(universe)
+ 900. https://www.ssbwiki.com/Luigi's_Mansion
+ 901. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 902. https://www.ssbwiki.com/Mario_(universe)
+ 903. https://www.ssbwiki.com/Mario_(universe)
+ 904. https://www.ssbwiki.com/Lylat_Cruise
+ 905. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 906. https://www.ssbwiki.com/Star_Fox_(universe)
+ 907. https://www.ssbwiki.com/Star_Fox_(universe)
+ 908. https://www.ssbwiki.com/Magicant
+ 909. https://www.ssbwiki.com/EarthBound_(universe)
+ 910. https://www.ssbwiki.com/EarthBound_(universe)
+ 911. https://www.ssbwiki.com/Mario_Circuit_(SSBB)
+ 912. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 913. https://www.ssbwiki.com/Mario_(universe)
+ 914. https://www.ssbwiki.com/Mario_(universe)
+ 915. https://www.ssbwiki.com/Mario_Circuit_(SSB4)
+ 916. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 917. https://www.ssbwiki.com/Mario_(universe)
+ 918. https://www.ssbwiki.com/Mario_(universe)
+ 919. https://www.ssbwiki.com/Mario_Galaxy
+ 920. https://www.ssbwiki.com/Mario_(universe)
+ 921. https://www.ssbwiki.com/Mario_(universe)
+ 922. https://www.ssbwiki.com/Midgar
+ 923. https://www.ssbwiki.com/Final_Fantasy_(universe)
+ 924. https://www.ssbwiki.com/Final_Fantasy_(universe)
+ 925. https://www.ssbwiki.com/Miiverse_(stage)
+ 926. https://www.ssbwiki.com/Miiverse_(universe)
+ 927. https://www.ssbwiki.com/Miiverse_(universe)
+ 928. https://www.ssbwiki.com/Mushroomy_Kingdom
+ 929. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 930. https://www.ssbwiki.com/Mario_(universe)
+ 931. https://www.ssbwiki.com/Mario_(universe)
+ 932. https://www.ssbwiki.com/Mushroom_Kingdom_U
+ 933. https://www.ssbwiki.com/Mario_(universe)
+ 934. https://www.ssbwiki.com/Mario_(universe)
+ 935. https://www.ssbwiki.com/Mute_City_(SSB4)
+ 936. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 937. https://www.ssbwiki.com/F-Zero_(universe)
+ 938. https://www.ssbwiki.com/F-Zero_(universe)
+ 939. https://www.ssbwiki.com/Norfair
+ 940. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 941. https://www.ssbwiki.com/Metroid_(universe)
+ 942. https://www.ssbwiki.com/Metroid_(universe)
+ 943. https://www.ssbwiki.com/Onett
+ 944. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 945. https://www.ssbwiki.com/EarthBound_(universe)
+ 946. https://www.ssbwiki.com/EarthBound_(universe)
+ 947. https://www.ssbwiki.com/Orbital_Gate_Assault
+ 948. https://www.ssbwiki.com/Star_Fox_(universe)
+ 949. https://www.ssbwiki.com/Star_Fox_(universe)
+ 950. https://www.ssbwiki.com/Pac-Land
+ 951. https://www.ssbwiki.com/Pac-Man_(universe)
+ 952. https://www.ssbwiki.com/Pac-Man_(universe)
+ 953. https://www.ssbwiki.com/Pac-Maze
+ 954. https://www.ssbwiki.com/Pac-Man_(universe)
+ 955. https://www.ssbwiki.com/Pac-Man_(universe)
+ 956. https://www.ssbwiki.com/Palutena's_Temple
+ 957. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 958. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 959. https://www.ssbwiki.com/Paper_Mario
+ 960. https://www.ssbwiki.com/Mario_(universe)
+ 961. https://www.ssbwiki.com/Mario_(universe)
+ 962. https://www.ssbwiki.com/Peach's_Castle
+ 963. https://www.ssbwiki.com/Super_Smash_Bros.
+ 964. https://www.ssbwiki.com/Mario_(universe)
+ 965. https://www.ssbwiki.com/Mario_(universe)
+ 966. https://www.ssbwiki.com/PictoChat_2
+ 967. https://www.ssbwiki.com/Nintendo_DS_(universe)
+ 968. https://www.ssbwiki.com/Nintendo_DS_(universe)
+ 969. https://www.ssbwiki.com/Pilotwings
+ 970. https://www.ssbwiki.com/Pilotwings_(universe)
+ 971. https://www.ssbwiki.com/Pilotwings_(universe)
+ 972. https://www.ssbwiki.com/Pirate_Ship
+ 973. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 974. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 975. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 976. https://www.ssbwiki.com/Pokémon_Stadium_2
+ 977. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 978. https://www.ssbwiki.com/Pokémon_(universe)
+ 979. https://www.ssbwiki.com/Pokémon_(universe)
+ 980. https://www.ssbwiki.com/Port_Town_Aero_Dive
+ 981. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 982. https://www.ssbwiki.com/F-Zero_(universe)
+ 983. https://www.ssbwiki.com/F-Zero_(universe)
+ 984. https://www.ssbwiki.com/Prism_Tower
+ 985. https://www.ssbwiki.com/Pokémon_(universe)
+ 986. https://www.ssbwiki.com/Pokémon_(universe)
+ 987. https://www.ssbwiki.com/Pyrosphere
+ 988. https://www.ssbwiki.com/Metroid_(universe)
+ 989. https://www.ssbwiki.com/Metroid_(universe)
+ 990. https://www.ssbwiki.com/Rainbow_Road
+ 991. https://www.ssbwiki.com/Mario_(universe)
+ 992. https://www.ssbwiki.com/Mario_(universe)
+ 993. https://www.ssbwiki.com/Reset_Bomb_Forest
+ 994. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 995. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 996. https://www.ssbwiki.com/Skyloft
+ 997. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 998. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 999. https://www.ssbwiki.com/Skyworld
+1000. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1001. https://www.ssbwiki.com/Kid_Icarus_(universe)
+1002. https://www.ssbwiki.com/Kid_Icarus_(universe)
+1003. https://www.ssbwiki.com/Smashville
+1004. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1005. https://www.ssbwiki.com/Animal_Crossing_(universe)
+1006. https://www.ssbwiki.com/Animal_Crossing_(universe)
+1007. https://www.ssbwiki.com/Spirit_Train
+1008. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+1009. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+1010. https://www.ssbwiki.com/Super_Mario_Maker
+1011. https://www.ssbwiki.com/Mario_(universe)
+1012. https://www.ssbwiki.com/Mario_(universe)
+1013. https://www.ssbwiki.com/Suzaku_Castle
+1014. https://www.ssbwiki.com/Street_Fighter_(universe)
+1015. https://www.ssbwiki.com/Street_Fighter_(universe)
+1016. https://www.ssbwiki.com/Temple
+1017. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1018. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+1019. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+1020. https://www.ssbwiki.com/Tomodachi_Life
+1021. https://www.ssbwiki.com/Tomodachi_(universe)
+1022. https://www.ssbwiki.com/Tomodachi_(universe)
+1023. https://www.ssbwiki.com/Tortimer_Island
+1024. https://www.ssbwiki.com/Animal_Crossing_(universe)
+1025. https://www.ssbwiki.com/Animal_Crossing_(universe)
+1026. https://www.ssbwiki.com/Town_and_City
+1027. https://www.ssbwiki.com/Animal_Crossing_(universe)
+1028. https://www.ssbwiki.com/Animal_Crossing_(universe)
+1029. https://www.ssbwiki.com/Umbra_Clock_Tower
+1030. https://www.ssbwiki.com/Bayonetta_(universe)
+1031. https://www.ssbwiki.com/Bayonetta_(universe)
+1032. https://www.ssbwiki.com/Unova_Pokémon_League
+1033. https://www.ssbwiki.com/Pokémon_(universe)
+1034. https://www.ssbwiki.com/Pokémon_(universe)
+1035. https://www.ssbwiki.com/WarioWare,_Inc.
+1036. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1037. https://www.ssbwiki.com/Wario_(universe)
+1038. https://www.ssbwiki.com/Wario_(universe)
+1039. https://www.ssbwiki.com/Wii_Fit_Studio
+1040. https://www.ssbwiki.com/Wii_Fit_(universe)
+1041. https://www.ssbwiki.com/Wii_Fit_(universe)
+1042. https://www.ssbwiki.com/Wily_Castle
+1043. https://www.ssbwiki.com/Mega_Man_(universe)
+1044. https://www.ssbwiki.com/Mega_Man_(universe)
+1045. https://www.ssbwiki.com/Windy_Hill_Zone
+1046. https://www.ssbwiki.com/Sonic_(universe)
+1047. https://www.ssbwiki.com/Sonic_(universe)
+1048. https://www.ssbwiki.com/Woolly_World
+1049. https://www.ssbwiki.com/Yoshi_(universe)
+1050. https://www.ssbwiki.com/Yoshi_(universe)
+1051. https://www.ssbwiki.com/Wrecking_Crew
+1052. https://www.ssbwiki.com/Wrecking_Crew_(universe)
+1053. https://www.ssbwiki.com/Wrecking_Crew_(universe)
+1054. https://www.ssbwiki.com/Wuhu_Island
+1055. https://www.ssbwiki.com/Wii_Sports_(universe)
+1056. https://www.ssbwiki.com/Wii_Sports_(universe)
+1057. https://www.ssbwiki.com/Yoshi's_Island
+1058. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1059. https://www.ssbwiki.com/Yoshi_(universe)
+1060. https://www.ssbwiki.com/Yoshi_(universe)
+1061. https://www.ssbwiki.com/Yoshi's_Island_(SSBB)
+1062. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1063. https://www.ssbwiki.com/Yoshi_(universe)
+1064. https://www.ssbwiki.com/Yoshi_(universe)
+1065. https://www.ssbwiki.com/index.php?title=Stage&action=edit&section=8
+1066. https://www.ssbwiki.com/Stage_Morph
+1067. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+1068. https://www.ssbwiki.com/Downloadable_content
+1069. https://www.ssbwiki.com/Stage#cite_note-37
+1070. https://www.ssbwiki.com/Ω_form
+1071. https://www.ssbwiki.com/Battlefield_form
+1072. https://www.ssbwiki.com/Battlefield_(SSBU)
+1073. https://www.ssbwiki.com/Final_Destination_(SSBU)
+1074. https://www.ssbwiki.com/Planet_Zebes
+1075. https://www.ssbwiki.com/Sector_Z
+1076. https://www.ssbwiki.com/Icicle_Mountain
+1077. https://www.ssbwiki.com/Mute_City_(SSBM)
+1078. https://www.ssbwiki.com/Mushroom_Kingdom_(SSBM)
+1079. https://www.ssbwiki.com/Poké_Floats
+1080. https://www.ssbwiki.com/Rumble_Falls
+1081. https://www.ssbwiki.com/PictoChat
+1082. https://www.ssbwiki.com/Rainbow_Road
+1083. https://www.ssbwiki.com/Pac-Maze
+1084. https://www.ssbwiki.com/Miiverse_(stage)
+1085. https://www.ssbwiki.com/Woolly_World
+1086. https://www.ssbwiki.com/Orbital_Gate_Assault
+1087. https://www.ssbwiki.com/Jungle_Hijinxs
+1088. https://www.ssbwiki.com/Pyrosphere
+1089. https://www.ssbwiki.com/Rules
+1090. https://www.ssbwiki.com/Stage_hazard
+1091. https://www.ssbwiki.com/Stage_Morph
+1092. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+1093. https://www.ssbwiki.com/Battlefield_(SSBU)
+1094. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+1095. https://www.ssbwiki.com/Big_Battlefield_(SSBU)
+1096. https://www.ssbwiki.com/Castlevania_(universe)
+1097. https://www.ssbwiki.com/Dracula's_Castle
+1098. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+1099. https://www.ssbwiki.com/Final_Destination_(SSBU)
+1100. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+1101. https://www.ssbwiki.com/Great_Plateau_Tower
+1102. https://www.ssbwiki.com/Splatoon_(universe)
+1103. https://www.ssbwiki.com/Moray_Towers
+1104. https://www.ssbwiki.com/Mario_(universe)
+1105. https://www.ssbwiki.com/New_Donk_City_Hall
+1106. https://www.ssbwiki.com/Kirby_(universe)
+1107. https://www.ssbwiki.com/Super_Smash_Bros.
+1108. https://www.ssbwiki.com/Dream_Land_(SSB)
+1109. https://www.ssbwiki.com/Mario_(universe)
+1110. https://www.ssbwiki.com/Super_Smash_Bros.
+1111. https://www.ssbwiki.com/Peach's_Castle
+1112. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+1113. https://www.ssbwiki.com/Super_Smash_Bros.
+1114. https://www.ssbwiki.com/Hyrule_Castle
+1115. https://www.ssbwiki.com/Donkey_Kong_(universe)
+1116. https://www.ssbwiki.com/Super_Smash_Bros.
+1117. https://www.ssbwiki.com/Kongo_Jungle_(SSB)
+1118. https://www.ssbwiki.com/Mario_(universe)
+1119. https://www.ssbwiki.com/Super_Smash_Bros.
+1120. https://www.ssbwiki.com/Mushroom_Kingdom_(SSB)
+1121. https://www.ssbwiki.com/Pokémon_(universe)
+1122. https://www.ssbwiki.com/Super_Smash_Bros.
+1123. https://www.ssbwiki.com/Saffron_City
+1124. https://www.ssbwiki.com/Yoshi_(universe)
+1125. https://www.ssbwiki.com/Super_Smash_Bros.
+1126. https://www.ssbwiki.com/Super_Happy_Tree
+1127. https://www.ssbwiki.com/F-Zero_(universe)
+1128. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1129. https://www.ssbwiki.com/Big_Blue
+1130. https://www.ssbwiki.com/Metroid_(universe)
+1131. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1132. https://www.ssbwiki.com/Brinstar
+1133. https://www.ssbwiki.com/Metroid_(universe)
+1134. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1135. https://www.ssbwiki.com/Brinstar_Depths
+1136. https://www.ssbwiki.com/Star_Fox_(universe)
+1137. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1138. https://www.ssbwiki.com/Corneria
+1139. https://www.ssbwiki.com/Kirby_(universe)
+1140. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1141. https://www.ssbwiki.com/Fountain_of_Dreams
+1142. https://www.ssbwiki.com/EarthBound_(universe)
+1143. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1144. https://www.ssbwiki.com/Fourside
+1145. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+1146. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1147. https://www.ssbwiki.com/Great_Bay
+1148. https://www.ssbwiki.com/Kirby_(universe)
+1149. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1150. https://www.ssbwiki.com/Green_Greens
+1151. https://www.ssbwiki.com/Donkey_Kong_(universe)
+1152. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1153. https://www.ssbwiki.com/Jungle_Japes
+1154. https://www.ssbwiki.com/Donkey_Kong_(universe)
+1155. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1156. https://www.ssbwiki.com/Kongo_Falls
+1157. https://www.ssbwiki.com/Mario_(universe)
+1158. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1159. https://www.ssbwiki.com/Mushroom_Kingdom_II
+1160. https://www.ssbwiki.com/EarthBound_(universe)
+1161. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1162. https://www.ssbwiki.com/Onett
+1163. https://www.ssbwiki.com/Pokémon_(universe)
+1164. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1165. https://www.ssbwiki.com/Pokémon_Stadium
+1166. https://www.ssbwiki.com/Mario_(universe)
+1167. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1168. https://www.ssbwiki.com/Princess_Peach's_Castle
+1169. https://www.ssbwiki.com/Mario_(universe)
+1170. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1171. https://www.ssbwiki.com/Rainbow_Cruise
+1172. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+1173. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1174. https://www.ssbwiki.com/Temple
+1175. https://www.ssbwiki.com/Star_Fox_(universe)
+1176. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1177. https://www.ssbwiki.com/Venom
+1178. https://www.ssbwiki.com/Yoshi_(universe)
+1179. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1180. https://www.ssbwiki.com/Yoshi's_Island_(Melee)
+1181. https://www.ssbwiki.com/Yoshi_(universe)
+1182. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1183. https://www.ssbwiki.com/Yoshi's_Story
+1184. https://www.ssbwiki.com/Donkey_Kong_(universe)
+1185. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1186. https://www.ssbwiki.com/75m
+1187. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+1188. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1189. https://www.ssbwiki.com/Bridge_of_Eldin
+1190. https://www.ssbwiki.com/Fire_Emblem_(universe)
+1191. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1192. https://www.ssbwiki.com/Castle_Siege
+1193. https://www.ssbwiki.com/Mario_(universe)
+1194. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1195. https://www.ssbwiki.com/Delfino_Plaza
+1196. https://www.ssbwiki.com/Pikmin_(universe)
+1197. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1198. https://www.ssbwiki.com/Distant_Planet
+1199. https://www.ssbwiki.com/Metroid_(universe)
+1200. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1201. https://www.ssbwiki.com/Frigate_Orpheon
+1202. https://www.ssbwiki.com/Sonic_(universe)
+1203. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1204. https://www.ssbwiki.com/Green_Hill_Zone
+1205. https://www.ssbwiki.com/Kirby_(universe)
+1206. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1207. https://www.ssbwiki.com/Halberd
+1208. https://www.ssbwiki.com/Electroplankton_(universe)
+1209. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1210. https://www.ssbwiki.com/Hanenbow
+1211. https://www.ssbwiki.com/Mario_(universe)
+1212. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1213. https://www.ssbwiki.com/Luigi's_Mansion
+1214. https://www.ssbwiki.com/Star_Fox_(universe)
+1215. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1216. https://www.ssbwiki.com/Lylat_Cruise
+1217. https://www.ssbwiki.com/Mario_(universe)
+1218. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1219. https://www.ssbwiki.com/Mushroomy_Kingdom
+1220. https://www.ssbwiki.com/Mario_(universe)
+1221. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1222. https://www.ssbwiki.com/Mario_Bros.
+1223. https://www.ssbwiki.com/EarthBound_(universe)
+1224. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1225. https://www.ssbwiki.com/New_Pork_City
+1226. https://www.ssbwiki.com/Metroid_(universe)
+1227. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1228. https://www.ssbwiki.com/Norfair
+1229. https://www.ssbwiki.com/Mario_(universe)
+1230. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1231. https://www.ssbwiki.com/Figure-8_Circuit
+1232. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+1233. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1234. https://www.ssbwiki.com/Pirate_Ship
+1235. https://www.ssbwiki.com/Pokémon_(universe)
+1236. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1237. https://www.ssbwiki.com/Pokémon_Stadium_2
+1238. https://www.ssbwiki.com/F-Zero_(universe)
+1239. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1240. https://www.ssbwiki.com/Port_Town_Aero_Dive
+1241. https://www.ssbwiki.com/Metal_Gear_(universe)
+1242. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1243. https://www.ssbwiki.com/Shadow_Moses_Island
+1244. https://www.ssbwiki.com/Kid_Icarus_(universe)
+1245. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1246. https://www.ssbwiki.com/Skyworld
+1247. https://www.ssbwiki.com/Animal_Crossing_(universe)
+1248. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1249. https://www.ssbwiki.com/Smashville
+1250. https://www.ssbwiki.com/Pokémon_(universe)
+1251. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1252. https://www.ssbwiki.com/Spear_Pillar
+1253. https://www.ssbwiki.com/Ice_Climber_(universe)
+1254. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1255. https://www.ssbwiki.com/Summit
+1256. https://www.ssbwiki.com/Wario_(universe)
+1257. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1258. https://www.ssbwiki.com/WarioWare,_Inc.
+1259. https://www.ssbwiki.com/Yoshi_(universe)
+1260. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1261. https://www.ssbwiki.com/Yoshi's_Island_(SSBB)
+1262. https://www.ssbwiki.com/Punch-Out!!_(universe)
+1263. https://www.ssbwiki.com/Super_Smash_Bros._4
+1264. https://www.ssbwiki.com/Boxing_Ring
+1265. https://www.ssbwiki.com/Duck_Hunt_(universe)
+1266. https://www.ssbwiki.com/Super_Smash_Bros._4
+1267. https://www.ssbwiki.com/Duck_Hunt_(stage)
+1268. https://www.ssbwiki.com/Xenoblade_(universe)
+1269. https://www.ssbwiki.com/Super_Smash_Bros._4
+1270. https://www.ssbwiki.com/Gaur_Plain
+1271. https://www.ssbwiki.com/Final_Fantasy_(universe)
+1272. https://www.ssbwiki.com/Super_Smash_Bros._4
+1273. https://www.ssbwiki.com/Midgar
+1274. https://www.ssbwiki.com/Mario_(universe)
+1275. https://www.ssbwiki.com/Super_Smash_Bros._4
+1276. https://www.ssbwiki.com/Super_Mario_Maker
+1277. https://www.ssbwiki.com/Street_Fighter_(universe)
+1278. https://www.ssbwiki.com/Super_Smash_Bros._4
+1279. https://www.ssbwiki.com/Suzaku_Castle
+1280. https://www.ssbwiki.com/Bayonetta_(universe)
+1281. https://www.ssbwiki.com/Super_Smash_Bros._4
+1282. https://www.ssbwiki.com/Umbra_Clock_Tower
+1283. https://www.ssbwiki.com/Mega_Man_(universe)
+1284. https://www.ssbwiki.com/Super_Smash_Bros._4
+1285. https://www.ssbwiki.com/Wily_Castle
+1286. https://www.ssbwiki.com/Mario_(universe)
+1287. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+1288. https://www.ssbwiki.com/3D_Land
+1289. https://www.ssbwiki.com/Fire_Emblem_(universe)
+1290. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+1291. https://www.ssbwiki.com/Arena_Ferox
+1292. https://www.ssbwiki.com/Balloon_Fight_(universe)
+1293. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+1294. https://www.ssbwiki.com/Balloon_Fight
+1295. https://www.ssbwiki.com/Kirby_(universe)
+1296. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+1297. https://www.ssbwiki.com/Dream_Land_GB
+1298. https://www.ssbwiki.com/Find_Mii_(universe)
+1299. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+1300. https://www.ssbwiki.com/Find_Mii
+1301. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+1302. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+1303. https://www.ssbwiki.com/Gerudo_Valley
+1304. https://www.ssbwiki.com/Mario_(universe)
+1305. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+1306. https://www.ssbwiki.com/Golden_Plains
+1307. https://www.ssbwiki.com/Nintendogs_(universe)
+1308. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+1309. https://www.ssbwiki.com/Living_Room
+1310. https://www.ssbwiki.com/EarthBound_(universe)
+1311. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+1312. https://www.ssbwiki.com/Magicant
+1313. https://www.ssbwiki.com/F-Zero_(universe)
+1314. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+1315. https://www.ssbwiki.com/Mute_City_SNES
+1316. https://www.ssbwiki.com/Mario_(universe)
+1317. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+1318. https://www.ssbwiki.com/Paper_Mario
+1319. https://www.ssbwiki.com/Nintendo_DS_(universe)
+1320. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+1321. https://www.ssbwiki.com/PictoChat_2
+1322. https://www.ssbwiki.com/Pokémon_(universe)
+1323. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+1324. https://www.ssbwiki.com/Prism_Tower
+1325. https://www.ssbwiki.com/Kid_Icarus_(universe)
+1326. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+1327. https://www.ssbwiki.com/Reset_Bomb_Forest
+1328. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+1329. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+1330. https://www.ssbwiki.com/Spirit_Train
+1331. https://www.ssbwiki.com/Tomodachi_(universe)
+1332. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+1333. https://www.ssbwiki.com/Tomodachi_Life
+1334. https://www.ssbwiki.com/Animal_Crossing_(universe)
+1335. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+1336. https://www.ssbwiki.com/Tortimer_Island
+1337. https://www.ssbwiki.com/Pokémon_(universe)
+1338. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+1339. https://www.ssbwiki.com/Unova_Pokémon_League
+1340. https://www.ssbwiki.com/Fire_Emblem_(universe)
+1341. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+1342. https://www.ssbwiki.com/Coliseum
+1343. https://www.ssbwiki.com/Wario_(universe)
+1344. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+1345. https://www.ssbwiki.com/Gamer
+1346. https://www.ssbwiki.com/Pikmin_(universe)
+1347. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+1348. https://www.ssbwiki.com/Garden_of_Hope
+1349. https://www.ssbwiki.com/Game_&_Watch_(universe)
+1350. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+1351. https://www.ssbwiki.com/Flat_Zone_X
+1352. https://www.ssbwiki.com/Pokémon_(universe)
+1353. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+1354. https://www.ssbwiki.com/Kalos_Pokémon_League
+1355. https://www.ssbwiki.com/Mario_(universe)
+1356. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+1357. https://www.ssbwiki.com/Mario_Circuit
+1358. https://www.ssbwiki.com/Mario_(universe)
+1359. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+1360. https://www.ssbwiki.com/Mario_Galaxy
+1361. https://www.ssbwiki.com/Mario_(universe)
+1362. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+1363. https://www.ssbwiki.com/Mushroom_Kingdom_U
+1364. https://www.ssbwiki.com/Pac-Man_(universe)
+1365. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+1366. https://www.ssbwiki.com/Pac-Land
+1367. https://www.ssbwiki.com/Kid_Icarus_(universe)
+1368. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+1369. https://www.ssbwiki.com/Palutena's_Temple
+1370. https://www.ssbwiki.com/Pilotwings_(universe)
+1371. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+1372. https://www.ssbwiki.com/Pilotwings
+1373. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+1374. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+1375. https://www.ssbwiki.com/Skyloft
+1376. https://www.ssbwiki.com/Kirby_(universe)
+1377. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+1378. https://www.ssbwiki.com/The_Great_Cave_Offensive
+1379. https://www.ssbwiki.com/Animal_Crossing_(universe)
+1380. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+1381. https://www.ssbwiki.com/Town_and_City
+1382. https://www.ssbwiki.com/Wii_Fit_(universe)
+1383. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+1384. https://www.ssbwiki.com/Wii_Fit_Studio
+1385. https://www.ssbwiki.com/Sonic_(universe)
+1386. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+1387. https://www.ssbwiki.com/Windy_Hill_Zone
+1388. https://www.ssbwiki.com/Wrecking_Crew_(universe)
+1389. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+1390. https://www.ssbwiki.com/Wrecking_Crew
+1391. https://www.ssbwiki.com/Wii_Sports_(universe)
+1392. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+1393. https://www.ssbwiki.com/Wuhu_Island
+1394. https://www.ssbwiki.com/index.php?title=Stage&action=edit&section=9
+1395. https://www.ssbwiki.com/Home-Run_Contest
+1396. https://www.ssbwiki.com/Sandbag
+1397. https://www.ssbwiki.com/Event_match
+1398. https://www.ssbwiki.com/CPU
+1399. https://www.ssbwiki.com/Super_Smash_Bros.
+1400. https://www.ssbwiki.com/Board_the_Platforms
+1401. https://www.ssbwiki.com/Break_the_Targets
+1402. https://www.ssbwiki.com/Pikachu_(SSBM)
+1403. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+1404. https://www.ssbwiki.com/Ice_Climber_(universe)
+1405. https://www.ssbwiki.com/Adventure_Mode
+1406. https://www.ssbwiki.com/Adventure_Mode:_The_Subspace_Emissary
+1407. https://www.ssbwiki.com/Online_Practice_Stage
+1408. https://www.ssbwiki.com/Wi-fi
+1409. https://www.ssbwiki.com/Controls_test_stage
+1410. https://www.ssbwiki.com/Mario
+1411. https://www.ssbwiki.com/index.php?title=Stage&action=edit&section=10
+1412. https://www.ssbwiki.com/Duel_Zone
+1413. https://www.ssbwiki.com/Board_the_Platforms
+1414. https://www.ssbwiki.com/Final_Destination_(SSB)
+1415. https://www.ssbwiki.com/Meta_Crystal
+1416. https://www.ssbwiki.com/Race_to_the_Finish_(SSB)
+1417. https://www.ssbwiki.com/Target_Test
+1418. https://www.ssbwiki.com/index.php?title=Stage&action=edit&section=11
+1419. https://www.ssbwiki.com/Adventure_Mode
+1420. https://www.ssbwiki.com/All-Star_Rest_Area
+1421. https://www.ssbwiki.com/All-Star_Mode
+1422. https://www.ssbwiki.com/Entei
+1423. https://www.ssbwiki.com/Event_26:_Trophy_Tussle_2
+1424. https://www.ssbwiki.com/Goomba
+1425. https://www.ssbwiki.com/Event_14:_Trophy_Tussle_1
+1426. https://www.ssbwiki.com/Home-Run_Stadium
+1427. https://www.ssbwiki.com/Majora's_Mask
+1428. https://www.ssbwiki.com/Event_47:_Trophy_Tussle_3
+1429. https://www.ssbwiki.com/Race_to_the_Finish_(SSBM)
+1430. https://www.ssbwiki.com/Classic_Mode
+1431. https://www.ssbwiki.com/Bonus_game
+1432. https://www.ssbwiki.com/Trophy_Collector
+1433. https://www.ssbwiki.com/Target_Smash!
+1434. https://www.ssbwiki.com/index.php?title=Stage&action=edit&section=12
+1435. https://www.ssbwiki.com/Adventure_Mode:_The_Subspace_Emissary
+1436. https://www.ssbwiki.com/All-Star_Rest_Area
+1437. https://www.ssbwiki.com/All-Star_Mode
+1438. https://www.ssbwiki.com/Boss_Battle
+1439. https://www.ssbwiki.com/Controls_test_stage
+1440. https://www.ssbwiki.com/Home-Run_Stadium
+1441. https://www.ssbwiki.com/Online_Practice_Stage
+1442. https://www.ssbwiki.com/Target_Smash!
+1443. https://www.ssbwiki.com/index.php?title=Stage&action=edit&section=13
+1444. https://www.ssbwiki.com/Credits#In_Super_Smash_Bros._4
+1445. https://www.ssbwiki.com/Trophy_Rush_stage
+1446. https://www.ssbwiki.com/All-Star_Rest_Area
+1447. https://www.ssbwiki.com/Home-Run_Stadium
+1448. https://www.ssbwiki.com/Target_Blast_Stadium
+1449. https://www.ssbwiki.com/Target
+1450. https://www.ssbwiki.com/Online_Practice_Stage
+1451. https://www.ssbwiki.com/Miiverse
+1452. https://www.ssbwiki.com/Sandbag
+1453. https://www.ssbwiki.com/Ω_form
+1454. https://www.ssbwiki.com/Battlefield_(SSB4)
+1455. https://www.ssbwiki.com/Controls_test_stage
+1456. https://www.ssbwiki.com/index.php?title=Stage&action=edit&section=14
+1457. https://www.ssbwiki.com/Galleom_(SSBU)
+1458. https://www.ssbwiki.com/Rathalos_(SSBU)
+1459. https://www.ssbwiki.com/Marx
+1460. https://www.ssbwiki.com/Dracula
+1461. https://www.ssbwiki.com/Ganon
+1462. https://www.ssbwiki.com/Adventure_Mode:_World_of_Light
+1463. https://www.ssbwiki.com/Final_Destination_(SSBU)
+1464. https://www.ssbwiki.com/Training_(stage)
+1465. https://www.ssbwiki.com/Online_Practice_Stage
+1466. https://www.ssbwiki.com/Battlefield_(SSBU)
+1467. https://www.ssbwiki.com/Battlefield_form
+1468. https://www.ssbwiki.com/Multi-Man_mode
+1469. https://www.ssbwiki.com/Spirits_(characters)
+1470. https://www.ssbwiki.com/index.php?title=Stage&action=edit&section=15
+1471. https://www.ssbwiki.com/Action_Replay
+1472. https://www.ssbwiki.com/index.php?title=Stage&action=edit&section=16
+1473. https://www.ssbwiki.com/Kirby_Beta_Stage_1
+1474. https://www.ssbwiki.com/Kirby_Beta_Stage_2
+1475. https://www.ssbwiki.com/Tutorial_Stage_64
+1476. https://www.ssbwiki.com/index.php?title=Stage&action=edit&section=17
+1477. https://www.ssbwiki.com/AKANEIA
+1478. https://www.ssbwiki.com/DUMMY
+1479. https://www.ssbwiki.com/ICETOP
+1480. https://www.ssbwiki.com/TEST
+1481. https://www.ssbwiki.com/index.php?title=Stage&action=edit&section=18
+1482. https://www.ssbwiki.com/Stage#cite_note-38
+1483. https://www.ssbwiki.com/index.php?title=Stage&action=edit&section=19
+1484. https://www.ssbwiki.com/index.php?title=Stage&action=edit&section=20
+1485. https://www.ssbwiki.com/Stage_Builder
+1486. https://www.ssbwiki.com/Sample_Stages
+1487. https://www.ssbwiki.com/No_KO
+1488. https://www.ssbwiki.com/CD_Factory
+1489. https://www.ssbwiki.com/CD
+1490. https://www.ssbwiki.com/index.php?title=Stage&action=edit&section=21
+1491. https://www.ssbwiki.com/Stage#cite_ref-37
+1492. https://twitter.com/AllSourceGaming/status/1011734783456620544
+1493. https://www.ssbwiki.com/Stage#cite_ref-38
+1494. http://www.youtube.com/watch?v=HUCtkSWsFkY
+1495. https://www.ssbwiki.com/Template:SSBStages
+1496. https://www.ssbwiki.com/Template_talk:SSBStages
+1497. https://www.ssbwiki.com/index.php?title=Template:SSBStages&action=edit
+1498. https://www.ssbwiki.com/Super_Smash_Bros.
+1499. https://www.ssbwiki.com/Kongo_Jungle_(SSB)
+1500. https://www.ssbwiki.com/Dream_Land_(SSB)
+1501. https://www.ssbwiki.com/Hyrule_Castle
+1502. https://www.ssbwiki.com/Peach's_Castle
+1503. https://www.ssbwiki.com/Planet_Zebes
+1504. https://www.ssbwiki.com/Saffron_City
+1505. https://www.ssbwiki.com/Sector_Z
+1506. https://www.ssbwiki.com/Super_Happy_Tree
+1507. https://www.ssbwiki.com/Mushroom_Kingdom_(SSB)
+1508. https://www.ssbwiki.com/Template:SSBMStages
+1509. https://www.ssbwiki.com/Template_talk:SSBMStages
+1510. https://www.ssbwiki.com/index.php?title=Template:SSBMStages&action=edit
+1511. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1512. https://www.ssbwiki.com/Brinstar
+1513. https://www.ssbwiki.com/Corneria
+1514. https://www.ssbwiki.com/Fountain_of_Dreams
+1515. https://www.ssbwiki.com/Great_Bay
+1516. https://www.ssbwiki.com/Green_Greens
+1517. https://www.ssbwiki.com/Icicle_Mountain
+1518. https://www.ssbwiki.com/Jungle_Japes
+1519. https://www.ssbwiki.com/Kongo_Jungle_(SSBM)
+1520. https://www.ssbwiki.com/Mushroom_Kingdom_(SSBM)
+1521. https://www.ssbwiki.com/Mute_City_(SSBM)
+1522. https://www.ssbwiki.com/Onett
+1523. https://www.ssbwiki.com/Pokémon_Stadium
+1524. https://www.ssbwiki.com/Princess_Peach's_Castle
+1525. https://www.ssbwiki.com/Rainbow_Cruise
+1526. https://www.ssbwiki.com/Temple
+1527. https://www.ssbwiki.com/Venom
+1528. https://www.ssbwiki.com/Yoshi's_Island_(SSBM)
+1529. https://www.ssbwiki.com/Yoshi's_Story
+1530. https://www.ssbwiki.com/Battlefield_(SSBM)
+1531. https://www.ssbwiki.com/Big_Blue
+1532. https://www.ssbwiki.com/Brinstar_Depths
+1533. https://www.ssbwiki.com/Final_Destination_(SSBM)
+1534. https://www.ssbwiki.com/Flat_Zone
+1535. https://www.ssbwiki.com/Fourside
+1536. https://www.ssbwiki.com/Mushroom_Kingdom_II
+1537. https://www.ssbwiki.com/Poké_Floats
+1538. https://www.ssbwiki.com/Super_Smash_Bros.
+1539. https://www.ssbwiki.com/Past_Stages
+1540. https://www.ssbwiki.com/Dream_Land_(SSB)
+1541. https://www.ssbwiki.com/Kongo_Jungle_(SSB)
+1542. https://www.ssbwiki.com/Super_Happy_Tree
+1543. https://www.ssbwiki.com/Template:SSBBStages
+1544. https://www.ssbwiki.com/Template_talk:SSBBStages
+1545. https://www.ssbwiki.com/index.php?title=Template:SSBBStages&action=edit
+1546. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1547. https://www.ssbwiki.com/Battlefield_(SSBB)
+1548. https://www.ssbwiki.com/Bridge_of_Eldin
+1549. https://www.ssbwiki.com/Castle_Siege
+1550. https://www.ssbwiki.com/Delfino_Plaza
+1551. https://www.ssbwiki.com/Distant_Planet
+1552. https://www.ssbwiki.com/Final_Destination_(SSBB)
+1553. https://www.ssbwiki.com/Frigate_Orpheon
+1554. https://www.ssbwiki.com/Halberd
+1555. https://www.ssbwiki.com/Lylat_Cruise
+1556. https://www.ssbwiki.com/Mario_Circuit_(SSBB)
+1557. https://www.ssbwiki.com/Mushroomy_Kingdom
+1558. https://www.ssbwiki.com/New_Pork_City
+1559. https://www.ssbwiki.com/Norfair
+1560. https://www.ssbwiki.com/PictoChat
+1561. https://www.ssbwiki.com/Pokémon_Stadium_2
+1562. https://www.ssbwiki.com/Port_Town_Aero_Dive
+1563. https://www.ssbwiki.com/Rumble_Falls
+1564. https://www.ssbwiki.com/Shadow_Moses_Island
+1565. https://www.ssbwiki.com/Skyworld
+1566. https://www.ssbwiki.com/Smashville
+1567. https://www.ssbwiki.com/Summit
+1568. https://www.ssbwiki.com/WarioWare,_Inc.
+1569. https://www.ssbwiki.com/Yoshi's_Island_(SSBB)
+1570. https://www.ssbwiki.com/75m
+1571. https://www.ssbwiki.com/Flat_Zone_2
+1572. https://www.ssbwiki.com/Green_Hill_Zone
+1573. https://www.ssbwiki.com/Hanenbow
+1574. https://www.ssbwiki.com/Luigi's_Mansion
+1575. https://www.ssbwiki.com/Mario_Bros.
+1576. https://www.ssbwiki.com/Pirate_Ship
+1577. https://www.ssbwiki.com/Spear_Pillar
+1578. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1579. https://www.ssbwiki.com/Past_Stages
+1580. https://www.ssbwiki.com/Brinstar
+1581. https://www.ssbwiki.com/Corneria
+1582. https://www.ssbwiki.com/Onett
+1583. https://www.ssbwiki.com/Rainbow_Cruise
+1584. https://www.ssbwiki.com/Temple
+1585. https://www.ssbwiki.com/Yoshi's_Island_(SSBM)
+1586. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1587. https://www.ssbwiki.com/Big_Blue
+1588. https://www.ssbwiki.com/Green_Greens
+1589. https://www.ssbwiki.com/Jungle_Japes
+1590. https://www.ssbwiki.com/Pokémon_Stadium
+1591. https://www.ssbwiki.com/Stage_Builder
+1592. https://www.ssbwiki.com/Sample_Stages
+1593. https://www.ssbwiki.com/CD_Factory
+1594. https://www.ssbwiki.com/No_KO
+1595. https://www.ssbwiki.com/Adventure_Mode:_The_Subspace_Emissary
+1596. https://www.ssbwiki.com/Midair_Stadium
+1597. https://www.ssbwiki.com/Skyworld_(SSE)
+1598. https://www.ssbwiki.com/Sea_of_Clouds
+1599. https://www.ssbwiki.com/The_Jungle
+1600. https://www.ssbwiki.com/The_Plain
+1601. https://www.ssbwiki.com/The_Lake
+1602. https://www.ssbwiki.com/The_Ruined_Zoo
+1603. https://www.ssbwiki.com/The_Battlefield_Fortress
+1604. https://www.ssbwiki.com/The_Forest
+1605. https://www.ssbwiki.com/The_Research_Facility_(Part_I)
+1606. https://www.ssbwiki.com/The_Lake_Shore
+1607. https://www.ssbwiki.com/The_Path_to_the_Ruins
+1608. https://www.ssbwiki.com/The_Cave
+1609. https://www.ssbwiki.com/The_Ruins
+1610. https://www.ssbwiki.com/The_Wilds_(Part_I)
+1611. https://www.ssbwiki.com/The_Ruined_Hall
+1612. https://www.ssbwiki.com/The_Wilds_(Part_II)
+1613. https://www.ssbwiki.com/The_Swamp
+1614. https://www.ssbwiki.com/The_Research_Facility_(Part_II)
+1615. https://www.ssbwiki.com/Outside_the_Ancient_Ruins
+1616. https://www.ssbwiki.com/The_Glacial_Peak
+1617. https://www.ssbwiki.com/The_Canyon
+1618. https://www.ssbwiki.com/Battleship_Halberd_Interior
+1619. https://www.ssbwiki.com/Battleship_Halberd_Exterior
+1620. https://www.ssbwiki.com/Battleship_Halberd_Bridge
+1621. https://www.ssbwiki.com/The_Subspace_Bomb_Factory_(Part_I)
+1622. https://www.ssbwiki.com/The_Subspace_Bomb_Factory_(Part_II)
+1623. https://www.ssbwiki.com/Entrance_to_Subspace
+1624. https://www.ssbwiki.com/Subspace_(Part_I)
+1625. https://www.ssbwiki.com/Subspace_(Part_II)
+1626. https://www.ssbwiki.com/The_Great_Maze
+1627. https://www.ssbwiki.com/Template:SSB4Stages
+1628. https://www.ssbwiki.com/Template_talk:SSB4Stages
+1629. https://www.ssbwiki.com/index.php?title=Template:SSB4Stages&action=edit
+1630. https://www.ssbwiki.com/Super_Smash_Bros._4
+1631. https://www.ssbwiki.com/Battlefield_(SSB4)
+1632. https://www.ssbwiki.com/Boxing_Ring
+1633. https://www.ssbwiki.com/Duck_Hunt_(stage)
+1634. https://www.ssbwiki.com/Final_Destination_(SSB4)
+1635. https://www.ssbwiki.com/Gaur_Plain
+1636. https://www.ssbwiki.com/Midgar
+1637. https://www.ssbwiki.com/Super_Mario_Maker
+1638. https://www.ssbwiki.com/Suzaku_Castle
+1639. https://www.ssbwiki.com/Umbra_Clock_Tower
+1640. https://www.ssbwiki.com/Wily_Castle
+1641. https://www.ssbwiki.com/Past_Stages
+1642. https://www.ssbwiki.com/Super_Smash_Bros.
+1643. https://www.ssbwiki.com/Dream_Land_(SSB)
+1644. https://www.ssbwiki.com/Super_Smash_Bros.
+1645. https://www.ssbwiki.com/Hyrule_Castle
+1646. https://www.ssbwiki.com/Super_Smash_Bros.
+1647. https://www.ssbwiki.com/Peach's_Castle
+1648. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+1649. https://www.ssbwiki.com/3D_Land
+1650. https://www.ssbwiki.com/Arena_Ferox
+1651. https://www.ssbwiki.com/Balloon_Fight
+1652. https://www.ssbwiki.com/Dream_Land_(SSB4)
+1653. https://www.ssbwiki.com/Find_Mii
+1654. https://www.ssbwiki.com/Gerudo_Valley
+1655. https://www.ssbwiki.com/Golden_Plains
+1656. https://www.ssbwiki.com/Living_Room
+1657. https://www.ssbwiki.com/Magicant
+1658. https://www.ssbwiki.com/Mute_City_(SSB4)
+1659. https://www.ssbwiki.com/Pac-Maze
+1660. https://www.ssbwiki.com/Paper_Mario
+1661. https://www.ssbwiki.com/PictoChat_2
+1662. https://www.ssbwiki.com/Prism_Tower
+1663. https://www.ssbwiki.com/Rainbow_Road
+1664. https://www.ssbwiki.com/Reset_Bomb_Forest
+1665. https://www.ssbwiki.com/Spirit_Train
+1666. https://www.ssbwiki.com/Tomodachi_Life
+1667. https://www.ssbwiki.com/Tortimer_Island
+1668. https://www.ssbwiki.com/Unova_Pokémon_League
+1669. https://www.ssbwiki.com/Past_Stages
+1670. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1671. https://www.ssbwiki.com/Brinstar
+1672. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1673. https://www.ssbwiki.com/Corneria
+1674. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1675. https://www.ssbwiki.com/Jungle_Japes
+1676. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1677. https://www.ssbwiki.com/Distant_Planet
+1678. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1679. https://www.ssbwiki.com/Flat_Zone_2
+1680. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1681. https://www.ssbwiki.com/Green_Hill_Zone
+1682. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1683. https://www.ssbwiki.com/Mushroomy_Kingdom
+1684. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1685. https://www.ssbwiki.com/WarioWare,_Inc.
+1686. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1687. https://www.ssbwiki.com/Yoshi's_Island_(SSBB)
+1688. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+1689. https://www.ssbwiki.com/Big_Battlefield_(SSB4)
+1690. https://www.ssbwiki.com/Coliseum
+1691. https://www.ssbwiki.com/Flat_Zone_X
+1692. https://www.ssbwiki.com/Gamer
+1693. https://www.ssbwiki.com/Garden_of_Hope
+1694. https://www.ssbwiki.com/Jungle_Hijinxs
+1695. https://www.ssbwiki.com/Kalos_Pokémon_League
+1696. https://www.ssbwiki.com/Mario_Circuit_(SSB4)
+1697. https://www.ssbwiki.com/Mario_Galaxy
+1698. https://www.ssbwiki.com/Miiverse
+1699. https://www.ssbwiki.com/Mushroom_Kingdom_U
+1700. https://www.ssbwiki.com/Orbital_Gate_Assault
+1701. https://www.ssbwiki.com/Pac-Land
+1702. https://www.ssbwiki.com/Palutena's_Temple
+1703. https://www.ssbwiki.com/Pilotwings
+1704. https://www.ssbwiki.com/Pyrosphere
+1705. https://www.ssbwiki.com/Skyloft
+1706. https://www.ssbwiki.com/The_Great_Cave_Offensive
+1707. https://www.ssbwiki.com/Town_and_City
+1708. https://www.ssbwiki.com/Wii_Fit_Studio
+1709. https://www.ssbwiki.com/Windy_Hill_Zone
+1710. https://www.ssbwiki.com/Woolly_World
+1711. https://www.ssbwiki.com/Wrecking_Crew
+1712. https://www.ssbwiki.com/Wuhu_Island
+1713. https://www.ssbwiki.com/Past_Stages
+1714. https://www.ssbwiki.com/Super_Smash_Bros.
+1715. https://www.ssbwiki.com/Kongo_Jungle_(SSB)
+1716. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1717. https://www.ssbwiki.com/Onett
+1718. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1719. https://www.ssbwiki.com/Temple
+1720. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1721. https://www.ssbwiki.com/Yoshi's_Island_(SSBM)
+1722. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1723. https://www.ssbwiki.com/75m
+1724. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1725. https://www.ssbwiki.com/Bridge_of_Eldin
+1726. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1727. https://www.ssbwiki.com/Castle_Siege
+1728. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1729. https://www.ssbwiki.com/Delfino_Plaza
+1730. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1731. https://www.ssbwiki.com/Halberd
+1732. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1733. https://www.ssbwiki.com/Luigi's_Mansion
+1734. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1735. https://www.ssbwiki.com/Lylat_Cruise
+1736. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1737. https://www.ssbwiki.com/Mario_Circuit_(SSBB)
+1738. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1739. https://www.ssbwiki.com/Norfair
+1740. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1741. https://www.ssbwiki.com/Pirate_Ship
+1742. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1743. https://www.ssbwiki.com/Pokémon_Stadium_2
+1744. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1745. https://www.ssbwiki.com/Port_Town_Aero_Dive
+1746. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1747. https://www.ssbwiki.com/Skyworld
+1748. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1749. https://www.ssbwiki.com/Smashville
+1750. https://www.ssbwiki.com/Ω_form
+1751. https://www.ssbwiki.com/Stage_Builder
+1752. https://www.ssbwiki.com/Template:SSBUStages
+1753. https://www.ssbwiki.com/Template_talk:SSBUStages
+1754. https://www.ssbwiki.com/index.php?title=Template:SSBUStages&action=edit
+1755. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+1756. https://www.ssbwiki.com/Battlefield_(SSBU)
+1757. https://www.ssbwiki.com/Big_Battlefield_(SSBU)
+1758. https://www.ssbwiki.com/Dracula's_Castle
+1759. https://www.ssbwiki.com/Final_Destination_(SSBU)
+1760. https://www.ssbwiki.com/Great_Plateau_Tower
+1761. https://www.ssbwiki.com/Moray_Towers
+1762. https://www.ssbwiki.com/New_Donk_City_Hall
+1763. https://www.ssbwiki.com/Super_Smash_Bros.
+1764. https://www.ssbwiki.com/Dream_Land_(SSB)
+1765. https://www.ssbwiki.com/Hyrule_Castle
+1766. https://www.ssbwiki.com/Kongo_Jungle_(SSB)
+1767. https://www.ssbwiki.com/Mushroom_Kingdom_(SSB)
+1768. https://www.ssbwiki.com/Peach's_Castle
+1769. https://www.ssbwiki.com/Saffron_City
+1770. https://www.ssbwiki.com/Super_Happy_Tree
+1771. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1772. https://www.ssbwiki.com/Big_Blue
+1773. https://www.ssbwiki.com/Brinstar
+1774. https://www.ssbwiki.com/Brinstar_Depths
+1775. https://www.ssbwiki.com/Corneria
+1776. https://www.ssbwiki.com/Fourside
+1777. https://www.ssbwiki.com/Fountain_of_Dreams
+1778. https://www.ssbwiki.com/Great_Bay
+1779. https://www.ssbwiki.com/Green_Greens
+1780. https://www.ssbwiki.com/Jungle_Japes
+1781. https://www.ssbwiki.com/Kongo_Falls
+1782. https://www.ssbwiki.com/Mushroom_Kingdom_II
+1783. https://www.ssbwiki.com/Onett
+1784. https://www.ssbwiki.com/Pokémon_Stadium
+1785. https://www.ssbwiki.com/Princess_Peach's_Castle
+1786. https://www.ssbwiki.com/Rainbow_Cruise
+1787. https://www.ssbwiki.com/Temple
+1788. https://www.ssbwiki.com/Venom
+1789. https://www.ssbwiki.com/Yoshi's_Island_(SSBM)
+1790. https://www.ssbwiki.com/Yoshi's_Story
+1791. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1792. https://www.ssbwiki.com/75m
+1793. https://www.ssbwiki.com/Bridge_of_Eldin
+1794. https://www.ssbwiki.com/Castle_Siege
+1795. https://www.ssbwiki.com/Delfino_Plaza
+1796. https://www.ssbwiki.com/Distant_Planet
+1797. https://www.ssbwiki.com/Figure-8_Circuit
+1798. https://www.ssbwiki.com/Frigate_Orpheon
+1799. https://www.ssbwiki.com/Green_Hill_Zone
+1800. https://www.ssbwiki.com/Halberd
+1801. https://www.ssbwiki.com/Hanenbow
+1802. https://www.ssbwiki.com/Luigi's_Mansion
+1803. https://www.ssbwiki.com/Lylat_Cruise
+1804. https://www.ssbwiki.com/Mario_Bros.
+1805. https://www.ssbwiki.com/Mushroomy_Kingdom
+1806. https://www.ssbwiki.com/New_Pork_City
+1807. https://www.ssbwiki.com/Norfair
+1808. https://www.ssbwiki.com/Pirate_Ship
+1809. https://www.ssbwiki.com/Pokémon_Stadium_2
+1810. https://www.ssbwiki.com/Port_Town_Aero_Dive
+1811. https://www.ssbwiki.com/Shadow_Moses_Island
+1812. https://www.ssbwiki.com/Skyworld
+1813. https://www.ssbwiki.com/Smashville
+1814. https://www.ssbwiki.com/Spear_Pillar
+1815. https://www.ssbwiki.com/Summit
+1816. https://www.ssbwiki.com/WarioWare,_Inc.
+1817. https://www.ssbwiki.com/Yoshi's_Island_(SSBB)
+1818. https://www.ssbwiki.com/Super_Smash_Bros._4
+1819. https://www.ssbwiki.com/Boxing_Ring
+1820. https://www.ssbwiki.com/Duck_Hunt_(stage)
+1821. https://www.ssbwiki.com/Gaur_Plain
+1822. https://www.ssbwiki.com/Midgar
+1823. https://www.ssbwiki.com/Super_Mario_Maker
+1824. https://www.ssbwiki.com/Suzaku_Castle
+1825. https://www.ssbwiki.com/Umbra_Clock_Tower
+1826. https://www.ssbwiki.com/Wily_Castle
+1827. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+1828. https://www.ssbwiki.com/3D_Land
+1829. https://www.ssbwiki.com/Arena_Ferox
+1830. https://www.ssbwiki.com/Balloon_Fight
+1831. https://www.ssbwiki.com/Dream_Land_GB
+1832. https://www.ssbwiki.com/Find_Mii
+1833. https://www.ssbwiki.com/Gerudo_Valley
+1834. https://www.ssbwiki.com/Golden_Plains
+1835. https://www.ssbwiki.com/Living_Room
+1836. https://www.ssbwiki.com/Magicant
+1837. https://www.ssbwiki.com/Mute_City_SNES
+1838. https://www.ssbwiki.com/Paper_Mario
+1839. https://www.ssbwiki.com/PictoChat_2
+1840. https://www.ssbwiki.com/Prism_Tower
+1841. https://www.ssbwiki.com/Reset_Bomb_Forest
+1842. https://www.ssbwiki.com/Spirit_Train
+1843. https://www.ssbwiki.com/Tomodachi_Life
+1844. https://www.ssbwiki.com/Tortimer_Island
+1845. https://www.ssbwiki.com/Unova_Pokémon_League
+1846. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+1847. https://www.ssbwiki.com/Coliseum
+1848. https://www.ssbwiki.com/Flat_Zone_X
+1849. https://www.ssbwiki.com/Gamer
+1850. https://www.ssbwiki.com/Garden_of_Hope
+1851. https://www.ssbwiki.com/Kalos_Pokémon_League
+1852. https://www.ssbwiki.com/Mario_Circuit_(SSB4)
+1853. https://www.ssbwiki.com/Mario_Galaxy
+1854. https://www.ssbwiki.com/Mushroom_Kingdom_U
+1855. https://www.ssbwiki.com/Pac-Land
+1856. https://www.ssbwiki.com/Palutena's_Temple
+1857. https://www.ssbwiki.com/Pilotwings
+1858. https://www.ssbwiki.com/Skyloft
+1859. https://www.ssbwiki.com/The_Great_Cave_Offensive
+1860. https://www.ssbwiki.com/Town_and_City
+1861. https://www.ssbwiki.com/Wii_Fit_Studio
+1862. https://www.ssbwiki.com/Windy_Hill_Zone
+1863. https://www.ssbwiki.com/Wrecking_Crew
+1864. https://www.ssbwiki.com/Wuhu_Island
+1865. https://www.ssbwiki.com/Ω_form
+1866. https://www.ssbwiki.com/Battlefield_form
+1867. https://www.ssbwiki.com/index.php?title=Stage&oldid=1181694
+1868. https://www.ssbwiki.com/Special:Categories
+1869. https://www.ssbwiki.com/Category:Stages_(SSB)
+1870. https://www.ssbwiki.com/Category:Stages_(SSBM)
+1871. https://www.ssbwiki.com/Category:Stages_(SSBB)
+1872. https://www.ssbwiki.com/Category:Stages
+1873. https://www.ssbwiki.com/Category:Stages_(SSBU)
+1874. https://www.ssbwiki.com/Category:Gameplay
+1875. https://www.ssbwiki.com/Stage
+1876. https://www.ssbwiki.com/Talk:Stage
+1877. https://www.ssbwiki.com/index.php?title=Stage&action=edit
+1878. https://www.ssbwiki.com/index.php?title=Stage&action=history
+1879. https://www.ssbwiki.com/Special:MyTalk
+1880. https://www.ssbwiki.com/Special:MyContributions
+1881. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=Stage
+1882. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=Stage
+1883. https://www.ssbwiki.com/Main_Page
+1884. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+1885. https://www.ssbwiki.com/Super_Smash_Bros._4
+1886. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1887. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1888. https://www.ssbwiki.com/Super_Smash_Bros.
+1889. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+1890. https://www.ssbwiki.com/Stage
+1891. https://www.ssbwiki.com/Mode
+1892. https://www.ssbwiki.com/Item
+1893. https://www.ssbwiki.com/Special:Random
+1894. https://www.ssbwiki.com/Forum:Index
+1895. https://www.ssbwiki.com/SmashWiki:Community_portal
+1896. https://www.ssbwiki.com/Special:RecentChanges
+1897. https://www.ssbwiki.com/Help:Contents
+1898. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
+1899. https://www.ssbwiki.com/SmashWiki:Discord_server
+1900. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
+1901. https://www.ssbwiki.com/Special:WhatLinksHere/Stage
+1902. https://www.ssbwiki.com/Special:RecentChangesLinked/Stage
+1903. https://www.ssbwiki.com/Special:SpecialPages
+1904. https://www.ssbwiki.com/index.php?title=Stage&printable=yes
+1905. https://www.ssbwiki.com/index.php?title=Stage&oldid=1181694
+1906. https://www.ssbwiki.com/index.php?title=Stage&action=info
+1907. https://creativecommons.org/licenses/by-sa/3.0/
+1908. https://www.mediawiki.org/
+1909. https://creativecommons.org/licenses/by-sa/3.0/
+1910. https://www.porplemontage.com/privacy
+1911. https://www.ssbwiki.com/SmashWiki:About
+1912. https://www.ssbwiki.com/SmashWiki:General_disclaimer
+1913. https://www.ssbwiki.com/index.php?title=Stage&mobileaction=toggle_view_mobile
+
+   Hidden links:
+1915. https://www.ssbwiki.com/File:SSBU-Battlefield.png
+1916. https://www.ssbwiki.com/File:SSBU-Battlefield.png
+1917. https://www.ssbwiki.com/File:SSB64_Stage_Select.png
+1918. https://www.ssbwiki.com/File:SSB64_Stage_Select.png
+1919. https://www.ssbwiki.com/File:Stage_Select_Melee.png
+1920. https://www.ssbwiki.com/File:Stage_Select_Melee.png
+1921. https://www.ssbwiki.com/File:Stage_Select_Brawl.png
+1922. https://www.ssbwiki.com/File:Stage_Select_Brawl.png
+1923. https://www.ssbwiki.com/File:BrawlMeleeStages.jpg
+1924. https://www.ssbwiki.com/File:BrawlMeleeStages.jpg
+1925. https://www.ssbwiki.com/File:Stage_Select_SSB4-3DS_Normal.jpg
+1926. https://www.ssbwiki.com/File:Stage_Select_SSB4-3DS_Normal.jpg
+1927. https://www.ssbwiki.com/File:Stage_Select_SSB4-3DS_Extra-Update.jpg
+1928. https://www.ssbwiki.com/File:Stage_Select_SSB4-3DS_Extra-Update.jpg
+1929. https://www.ssbwiki.com/File:Stage_Select_SSB4-Wii_U_Normal.jpg
+1930. https://www.ssbwiki.com/File:Stage_Select_SSB4-Wii_U_Normal.jpg
+1931. https://www.ssbwiki.com/File:Stage_Select_SSB4-Wii_U_Extra.jpg
+1932. https://www.ssbwiki.com/File:Stage_Select_SSB4-Wii_U_Extra.jpg
+1933. https://www.ssbwiki.com/File:Stage_Select_Ultimate_Normal.jpg
+1934. https://www.ssbwiki.com/File:Stage_Select_Ultimate_Normal.jpg
+1935. https://www.ssbwiki.com/File:Stage_Select_Ultimate_Stage_Morph.jpg
+1936. https://www.ssbwiki.com/File:Stage_Select_Ultimate_Stage_Morph.jpg
+1937. https://www.ssbwiki.com/Main_Page

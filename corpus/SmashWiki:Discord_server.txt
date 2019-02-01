@@ -1,0 +1,273 @@
+   #[1]Edit this page [2]SmashWiki (en) [3]SmashWiki Atom feed
+
+SmashWiki:Discord server
+
+   From SmashWiki, the Super Smash Bros. wiki
+   Jump to:[4]navigation, [5]search
+   Shortcut:
+   [6]SW:DISCORD
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  [7]Discord.svg
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  [8]Click to join the SmashWiki Discord server!
+
+   The SmashWiki Discord server is a chat outlet that saves chat history (which in turn means that users can pass messages to users who are not online). It replaces the now-obsolete IRC channel system.
+
+Contents
+
+     * [9]1 Rules
+     * [10]2 Channels
+          + [11]2.1 Smash Discussions
+          + [12]2.2 Management
+          + [13]2.3 Goofin’ ‘Round
+          + [14]2.4 Voice Chat
+     * [15]3 Roles
+     * [16]4 Current Channel Ops
+
+Rules[[17]edit]
+
+    1. Be respectful. Do not personally attack other members of this server. If they ask you to stop a behavior that concerns them in some way, do it. Respect other users' privacy and do not pester them.
+    2. Don't spam. Long messages should be posted via pastebin.
+    3. Never post graphic or pornographic imagery. This includes both image uploads and links. This is a violation of both Discord's and SmashWiki's policies, and doing so will result in an immediate ban.
+       There is no ban on suggestive content in this server, but the proverbial line of what is acceptable and what isn't is entirely up to administrators and chat operators.
+    4. Avoid offensive language. Overt and excessive sexuality, profanity, and violence is discouraged. What is acceptable is again up to administrators and operators.
+    5. Don't spam @everyone mentions. Everyone mentions are now restricted due to problems with it in the past. Those granted the ability to use it should not abuse it or they will lose it.
+    6. Administrators and operators are the boss. Users are to do what they say. Any request or action taken by an operator can be appealed to an administrator, and likewise any action taken by an administrator can be appealed to me.
+    7. Stay on topic. There are multiple channels on this server (explained below). Users are expected to stay on the topic of that channel. Any request by an administrator or operator asking for a conversation to be moved to a more appropriate channel must be followed. Additionally, discussions should remain on topics that the majority of people agree on. Discussions should not be continued if the majority of people are not interested in continuing it.
+    8. Do not beg for administrator status. Only SmashWiki administrators are granted administrator status. Other users can request for chat operator status if they wish, where they will then be judged by other users to determine if they should gain this power.
+    9. Do not evade silencing. Annoying offenses that may not seem ban worthy may get one silenced for a certain period of time. One may think that it may be a good idea to get out of this by leaving the server and returning to it, but it is not recommended: this will result in a permanent ban.
+   10. Use an appropriate nickname. Nicknames are available to all users on this server. Any profane or otherwise offensive nicknames will result in a kick from the server, after which the user is free to rejoin with a more appropriate one. It is preferred that nicknames match users' SmashWiki usernames, although it's not totally necessary. Impersonation of other users is strictly forbidden.
+
+Channels[[18]edit]
+
+     * #welcome: The first channel seen upon joining that lists the rules listed above, and then some.
+     * #general: For just about anything that does not break the above rules, and isn't best suited for other channels.
+     * #smashwiki: For pointing out edits, discussing bettering the wiki as a whole, administration concerns, etc. Please note that while this channel is for wiki-specific goings-on any argument made for the deletion, moving, merging, protecting, etc of an article on this channel will be disregarded if not discussed on the relevant talk page. Also note that this channel is exclusive to those with the SmashWiki contributor role.
+
+Smash Discussions[[19]edit]
+
+   Channels intended primarily for discussion of the Smash games.
+     * #smashtopic: Catch all channel for all things Smash. Can be used for discussions that involve 2 or more Smash games.
+     * #smash-bros-64: Meant for discussion of the original [20]Super Smash Bros.
+     * #smash-bros-melee: Meant for discussion of [21]Super Smash Bros. Melee.
+     * #smash-bros-brawl: Meant for discussion of [22]Super Smash Bros. Brawl.
+     * #smash-bros-4: Meant for discussion of [23]Super Smash Bros. 4.
+     * #smash-bros-ultimate: Meant for discussion of [24]Super Smash Bros. Ultimate.
+     * #leaks: Meant for discussion about leaks. Obviously fake or joke "leaks" would go in #meme-cavern.
+     * #live-events: Intended for use alongside live events such as E3, Nintendo Directs, and tournaments, so as to prevent reactions to these events from flooding other channels.
+
+Management[[25]edit]
+
+   Channels intended for discussion of management/business pertaining to the wiki/server themselves.
+     * #server-maintenance: The channel best-suited for reporting any issues pertaining to the server, as well as request roles, channels, and emojis.
+     * #rfo-archives: Archives of previous discussion/debate over Requests for Operator.
+
+Goofin’ ‘Round[[26]edit]
+
+   Channels intended for fun discussion/posting of whatever does not pertain to other channels.
+     * #online-play: For discussion of online matches between users.
+     * #meme-cavern: A channel reserved for incessant posting/discussion of memes and the sort without disrupting general chat. Rules still apply here, however,
+     * #bot-spam: A place for XL to be spammed without interrupting the conversation. Rules still apply here as well.
+
+Voice Chat[[27]edit]
+
+   Additionally, there are two voice channels available, those being Exclusive VC shhhhh and Public voice chat. The text channel #vc-talk is to be used alongside this channel to post links and the sort, as well as allow users who do not have access to a microphone to interact with other users who are in the voice chat. Exclusive VC shhhhh is exclusive to SmashWiki contributors and above, while Public voice chat is accessible by those with the Trusted role.
+
+Roles[[28]edit]
+
+     * Administrator: They have the most permissions, being administrators, though this role can only be attained through being an admin/bureaucrat on the wiki; please do not request this role. They are trusted to monitor channels as well as resolve conflicts between other users.
+     * Chat operator: One may apply for a Request for Operator, at which point other users will determine whether they are well-suited for the role, not unlike a Request for Adminship on the wiki itself. They are expected to monitor channels and resolve conflicts, not unlike an Administrator.
+     * Silenced: Used to prevent users from posting as punishment without kicking/banning said users, though it also allows them to read the messages of others.
+     * SmashWiki contributor: Granted only to autoconfirmed users on the wiki, which grants access to several additional channels.
+     * NIWA affiliate: Granted only to the administrative staff of NIWA wikis.
+     * Spanish affiliate: Granted only to users of the [29]wiki's Spanish subdomain.
+     * Mention everyone: Granted only to users considered trustworthy enough to use the "@everyone" command to ping all users on the server.
+     * Trusted: Granted to active users without other roles to prevent them from being purged (kicked from the server) for being inactive.
+     * @everyone: Default role, associated primarily with users that lack a role otherwise.
+
+Current Channel Ops[[30]edit]
+
+   Administrators
+     * [31]Aidanzapunk
+     * [32]Disaster Flare
+     * [33]Emmett
+     * [34]Miles5280s
+     * [35]Nyargleblargle
+     * [36]Omega Tyrant
+     * [37]porplemontage
+     * [38]Serpent King *
+     * [39]Toomai
+
+   Chat operators
+
+   Active
+     * [40]A51 Trooper
+     * [41]Alex95
+     * [42]DracoRex
+     * [43]Señor Mexicano
+     * [44]Spexx
+     * [45]Timson
+
+   Inactive
+     * [46]BaconMastre
+
+   Retrieved from "[47]https://www.ssbwiki.com/index.php?title=SmashWiki:Discord_server&oldid=1163905"
+   [48]Category:
+     * [49]SmashWiki
+
+Navigation menu
+
+Views
+
+     * [50]Project page
+     * [51]Discussion
+     * [52]Edit this page
+     * [53]History
+
+Personal tools
+
+     * Not logged in
+     * [54]Talk
+     * [55]Contributions
+     * [56]Create account
+     * [57]Log in
+
+Navigation
+
+     * [58]Main page
+     * [59]Smash Bros. Ultimate
+     * [60]Smash Bros. 4
+     * [61]Smash Bros. Brawl
+     * [62]Smash Bros. Melee
+     * [63]Smash Bros. (64)
+     * [64]Characters
+     * [65]Stages
+     * [66]Modes
+     * [67]Items
+     * [68]Random page
+
+Search
+
+   ____________________ Go  Search
+
+Participate
+
+     * [69]Forum
+     * [70]Community portal
+     * [71]Recent changes
+     * [72]Help
+     * [73]Admin noticeboard
+     * [74]Discord server
+     * [75]YouTube channel
+
+Tools
+
+     * [76]What links here
+     * [77]Related changes
+     * [78]Special pages
+     * [79]Printable version
+     * [80]Permanent link
+     * [81]Page information
+
+   [82]Attribution-Share Alike 3.0 Unported
+   [83]Powered by MediaWiki
+     * This page was last edited on 3 January 2019, at 16:47.
+     * Content is available under [84]Attribution-Share Alike 3.0 Unported unless otherwise noted.
+     * [85]Privacy policy
+     * [86]About SmashWiki
+     * [87]Disclaimers
+     * [88]Mobile view
+
+References
+
+   Visible links
+   1. https://www.ssbwiki.com/index.php?title=SmashWiki:Discord_server&action=edit
+   2. https://www.ssbwiki.com/opensearch_desc.php
+   3. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&feed=atom
+   4. https://www.ssbwiki.com/SmashWiki:Discord_server#column-one
+   5. https://www.ssbwiki.com/SmashWiki:Discord_server#searchInput
+   6. https://www.ssbwiki.com/SW:DISCORD
+   7. https://discord.gg/h75trMc
+   8. https://discord.gg/h75trMc
+   9. https://www.ssbwiki.com/SmashWiki:Discord_server#Rules
+  10. https://www.ssbwiki.com/SmashWiki:Discord_server#Channels
+  11. https://www.ssbwiki.com/SmashWiki:Discord_server#Smash_Discussions
+  12. https://www.ssbwiki.com/SmashWiki:Discord_server#Management
+  13. https://www.ssbwiki.com/SmashWiki:Discord_server#Goofin.E2.80.99_.E2.80.98Round
+  14. https://www.ssbwiki.com/SmashWiki:Discord_server#Voice_Chat
+  15. https://www.ssbwiki.com/SmashWiki:Discord_server#Roles
+  16. https://www.ssbwiki.com/SmashWiki:Discord_server#Current_Channel_Ops
+  17. https://www.ssbwiki.com/index.php?title=SmashWiki:Discord_server&action=edit&section=1
+  18. https://www.ssbwiki.com/index.php?title=SmashWiki:Discord_server&action=edit&section=2
+  19. https://www.ssbwiki.com/index.php?title=SmashWiki:Discord_server&action=edit&section=3
+  20. https://www.ssbwiki.com/Super_Smash_Bros.
+  21. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+  22. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+  23. https://www.ssbwiki.com/Super_Smash_Bros._4
+  24. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+  25. https://www.ssbwiki.com/index.php?title=SmashWiki:Discord_server&action=edit&section=4
+  26. https://www.ssbwiki.com/index.php?title=SmashWiki:Discord_server&action=edit&section=5
+  27. https://www.ssbwiki.com/index.php?title=SmashWiki:Discord_server&action=edit&section=6
+  28. https://www.ssbwiki.com/index.php?title=SmashWiki:Discord_server&action=edit&section=7
+  29. https://es.ssbwiki.com/wiki/SmashPedia
+  30. https://www.ssbwiki.com/index.php?title=SmashWiki:Discord_server&action=edit&section=8
+  31. https://www.ssbwiki.com/User:Aidanzapunk
+  32. https://www.ssbwiki.com/User:Disaster_Flare
+  33. https://www.ssbwiki.com/User:Emmett
+  34. https://www.ssbwiki.com/User:Miles_of_SmashWiki
+  35. https://www.ssbwiki.com/User:Nyargleblargle
+  36. https://www.ssbwiki.com/User:Omega_Tyrant
+  37. https://www.ssbwiki.com/User:Porplemontage
+  38. https://www.ssbwiki.com/User:Serpent_King
+  39. https://www.ssbwiki.com/User:Toomai
+  40. https://www.ssbwiki.com/User:A51_Trooper
+  41. https://www.ssbwiki.com/User:Alex95
+  42. https://www.ssbwiki.com/User:DracoRexKing
+  43. https://www.ssbwiki.com/User:Pokebub
+  44. https://www.ssbwiki.com/User:Spexx
+  45. https://www.ssbwiki.com/User:Yellow
+  46. https://www.ssbwiki.com/User:BaconMastre
+  47. https://www.ssbwiki.com/index.php?title=SmashWiki:Discord_server&oldid=1163905
+  48. https://www.ssbwiki.com/Special:Categories
+  49. https://www.ssbwiki.com/Category:SmashWiki
+  50. https://www.ssbwiki.com/SmashWiki:Discord_server
+  51. https://www.ssbwiki.com/index.php?title=SmashWiki_talk:Discord_server&action=edit&redlink=1
+  52. https://www.ssbwiki.com/index.php?title=SmashWiki:Discord_server&action=edit
+  53. https://www.ssbwiki.com/index.php?title=SmashWiki:Discord_server&action=history
+  54. https://www.ssbwiki.com/Special:MyTalk
+  55. https://www.ssbwiki.com/Special:MyContributions
+  56. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=SmashWiki:Discord+server
+  57. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=SmashWiki:Discord+server
+  58. https://www.ssbwiki.com/Main_Page
+  59. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+  60. https://www.ssbwiki.com/Super_Smash_Bros._4
+  61. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+  62. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+  63. https://www.ssbwiki.com/Super_Smash_Bros.
+  64. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+  65. https://www.ssbwiki.com/Stage
+  66. https://www.ssbwiki.com/Mode
+  67. https://www.ssbwiki.com/Item
+  68. https://www.ssbwiki.com/Special:Random
+  69. https://www.ssbwiki.com/Forum:Index
+  70. https://www.ssbwiki.com/SmashWiki:Community_portal
+  71. https://www.ssbwiki.com/Special:RecentChanges
+  72. https://www.ssbwiki.com/Help:Contents
+  73. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
+  74. https://www.ssbwiki.com/SmashWiki:Discord_server
+  75. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
+  76. https://www.ssbwiki.com/Special:WhatLinksHere/SmashWiki:Discord_server
+  77. https://www.ssbwiki.com/Special:RecentChangesLinked/SmashWiki:Discord_server
+  78. https://www.ssbwiki.com/Special:SpecialPages
+  79. https://www.ssbwiki.com/index.php?title=SmashWiki:Discord_server&printable=yes
+  80. https://www.ssbwiki.com/index.php?title=SmashWiki:Discord_server&oldid=1163905
+  81. https://www.ssbwiki.com/index.php?title=SmashWiki:Discord_server&action=info
+  82. https://creativecommons.org/licenses/by-sa/3.0/
+  83. https://www.mediawiki.org/
+  84. https://creativecommons.org/licenses/by-sa/3.0/
+  85. https://www.porplemontage.com/privacy
+  86. https://www.ssbwiki.com/SmashWiki:About
+  87. https://www.ssbwiki.com/SmashWiki:General_disclaimer
+  88. https://www.ssbwiki.com/index.php?title=SmashWiki:Discord_server&mobileaction=toggle_view_mobile
+
+   Hidden links:
+  90. https://www.ssbwiki.com/Main_Page

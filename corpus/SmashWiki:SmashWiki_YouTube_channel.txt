@@ -1,0 +1,289 @@
+   #[1]Edit this page [2]SmashWiki (en) [3]SmashWiki Atom feed
+
+SmashWiki:SmashWiki YouTube channel
+
+   From SmashWiki, the Super Smash Bros. wiki
+   Jump to:[4]navigation, [5]search
+   Shortcut:
+   [6]SW:YT
+
+   SmashWiki has its own [7]SmashWiki YouTube channel, though it is currently inactive. For the kind of content that will be shown on the channel:
+     * Movies from the Smash games.
+     * Demonstrations of characters' special moves, or even their entire movesets
+     * Demonstrations of other kinds of in game content
+     * Videos of glitches, AI flaws, and so on
+     * Demonstrations/tutorials for combos and techniques
+
+   If you have a video idea not covered in the above, and/or you're unsure about a certain type of video, bring it up on the talk page.
+
+   Administrators have login access to the account, but any user can submit videos to be uploaded, by emailing the videos to SmashWiki's email account at smashwikidian@gmail.com or by contacting SmashWiki admin [8]Omega Tyrant, the primary manager of the channel.
+
+   Be aware that uploaded videos can be removed at any point without prior notice. Common reasons for videos being removed include containing content made redundant by a later uploaded video of superior quality, and for failing to meet updated video standards. The official reason for video removal will be given in the summary of the edit removing the video link from here. If it's a particularly controversial and/or convoluted case, it will be explained on the talk page.
+
+   Users can request for videos they contributed to be removed. However, there must be legitimate reasoning for removing the video. Simply wanting the video down is not enough, and an admin can deny this request. To request the deletion of your video, start a new section on the talk page about it, where an admin can look over your case and decide if your video warrants deletion.
+
+   Users can also suggest taking down videos other than their own. To do this, they must start a new section on the talk page, and explain thoroughly on why the video should be taken down.
+
+Requirements for submitted videos[[9]edit]
+
+   Submitted videos must be of the aforementioned (or approved) content, and of adequate quality. Adequate quality includes:
+     * The video's visual quality being clear and of decent visibility (e.g. no camcorder nor heavily pixelated videos).
+     * If recorded from an emulator, nothing from outside the game should be visible (e.g. no mouse pointers, visible desktop, nor watermarks).
+     * The game's audio should be clear and of proper volume (e.g. no distorted nor overly quiet/loud sound in videos). Additionally, no audio from outside the game should be heard (e.g. audible clicking of a controller's buttons/keyboard), and audio should not be noticeably desynced.
+     * The game's framerate should be of proper speed.
+     * The video's file should be of reasonable size, don't submit raw AVI video files.
+     * The video should properly and fully demonstrate the subject of the video.
+
+   Additionally, it is strongly recommend you do videos of stuff not already extensively covered in other quality videos (such as, don't do videos on [10]wavedashing and [11]DACUS when the Smash community has several quality video guides on them). A video of such a subject, even if well done, may be rejected if it offers nothing more than existing videos. If you want to contribute, but need ideas for videos, checking the [12]articles in need of videos category is a good start. These pages can give you suggestions for videos to create.
+
+   Also, the Wiki does not accept duplicate videos, and will deny videos of content you have already uploaded on your channel or plan to. Redoing an uploaded video of yours with subtle changes will still be considered a duplicate video, and as such will still be rejected.
+
+What you will receive as a contributor[[13]edit]
+
+   Those that contribute will have their Youtube channel featured in the "Contributors" tab on SmashWiki's channel, as well as have their video credited with their channel linked to in the description of their contributed videos. Additionally, those that contribute can opt in for their contributed video to be monetised and then receive their earnings (if their video is eligible for monetisation). The following three options are available to contributors in regard to monetisation of their videos:
+     * Monetise my videos, and give me their earnings.
+     * Monetise my videos, and give my earnings to [14]Porplemontage to cover SmashWiki's hosting costs.
+     * Do not monetise my videos.
+
+   If you wish to monetise and receive your earnings, you will need a PayPal account to have your earnings transferred. If you don't have a PayPal, and can't create one for whatever reason, you can opt in to have a check mailed to you instead. However, for a check to be mailed, your earnings will have to be of a certain minimum amount. If you have earnings, but they don't reach this amount, they will be held until they grow enough to satisfy this requirement.
+
+   SmashWiki admin [15]Omega Tyrant handles the channel's monetisation. If you have any questions about this, contact him.
+
+Update log[[16]edit]
+
+   Date Update
+   August 30, 2011 [17]SmashWiki channel created.
+   September 1, 2011 Test footage video (now removed)
+   September 3, 2011 [18]Smash 64: Green Shell glitch
+   September 17, 2011 Teleport in SSB (now removed)
+   October 9, 2011 [19]Super Death Jump
+   [20]Falco's full circle jump on Temple
+   October 10, 2011 [21]The nine stages of Eruption
+   October 14, 2011 [22]Glitch involving the Landmaster
+   [23]Brawl: AI flaw in recognising walls
+   October 16, 2011 [24]Falcon Kick trick on PictoChat
+   October 19, 2011 [25]Lakitu glitch
+   October 20, 2011 Ken combo with Wolf (now removed)
+   October 21, 2011 [26]AI vertical falling flaw
+   [27]Regenerating terrain invincible glitch
+   AI flaw: CPU Meta Knight jumps into Falcon Punch (now removed)
+   October 22, 2011 [28]Donkey Kong survives Home-Run Bat swing
+   October 23, 2011 [29]Spin Attack traction glitches
+   October 27, 2011 Scarring through each ledge possible with Wolf (now removed)
+   November 4, 2011 [30]Super Smash Bros. Melee's beta opening
+   November 6, 2011 [31]Invisible wall glitch on Shadow Moses Island
+   January 16, 2012 [32]Blue Falcon double stock loss glitch
+   March 11, 2013 [33]Full Circle Hyrule Jump with Snake
+   March 13, 2013 [34]Permanent size change glitch
+   March 14, 2013 [35]Falling Falcon Flyer glitch
+   [36]Shrinking Yoshi glitch
+   March 15, 2013 [37]Infinite Claymore Explosion glitch
+   March 16, 2013 [38]Brawl Laser glitch
+   March 17, 2013 [39]Regenerating terrain glitches
+   March 20, 2013 [40]The Flop Block
+   March 28, 2013 [41]Invisible box glitch
+   April 5, 2013 Channel monetised.
+   Melee AI Flaw: CPU Samus stuck in infinite loop (now removed)
+   April 6, 2013 [42]Triforce Slash glitch
+   April 7, 2013 [43]Mystery Zone glitch
+   April 8, 2013 [44]Super Spring
+   April 12, 2013 [45]Curse of Weegee glitch
+   April 24, 2013 [46]Name Entry glitches
+   April 29, 2013 [47]Brawl: How to Play
+   May 3, 2013 [48]Melee: AI standstill flaw
+   May 28, 2013 [49]All stages of Giant Punch
+   June 29, 2013 [50]Brawl: Kirby non-bouncing trick
+   July 5, 2013 [51]Cape ledge glitch
+   September 28, 2013 [52]Cardboard box glitch
+   June 5, 2014 [53]All One-Hit KO moves in Brawl
+
+   [54]v • [55]d • [56]e
+   Useful pages
+   General [57]About this wiki · [58]Administrator's noticeboard · [59]All pages · [60]All pages with prefix · [61]All special pages · [62]Community portal · [63]Discord · [64]Proposals · [65]Sandbox · [66]Statistics · YouTube channel
+    User   [67]Active users · [68]List of rights · [69]List of users · [70]Reset password · [71]Users
+   Retrieved from "[72]https://www.ssbwiki.com/index.php?title=SmashWiki:SmashWiki_YouTube_channel&oldid=871934"
+   [73]Category:
+     * [74]Instructional videos
+
+Navigation menu
+
+Views
+
+     * [75]Project page
+     * [76]Discussion
+     * [77]Edit this page
+     * [78]History
+
+Personal tools
+
+     * Not logged in
+     * [79]Talk
+     * [80]Contributions
+     * [81]Create account
+     * [82]Log in
+
+Navigation
+
+     * [83]Main page
+     * [84]Smash Bros. Ultimate
+     * [85]Smash Bros. 4
+     * [86]Smash Bros. Brawl
+     * [87]Smash Bros. Melee
+     * [88]Smash Bros. (64)
+     * [89]Characters
+     * [90]Stages
+     * [91]Modes
+     * [92]Items
+     * [93]Random page
+
+Search
+
+   ____________________ Go  Search
+
+Participate
+
+     * [94]Forum
+     * [95]Community portal
+     * [96]Recent changes
+     * [97]Help
+     * [98]Admin noticeboard
+     * [99]Discord server
+     * [100]YouTube channel
+
+Tools
+
+     * [101]What links here
+     * [102]Related changes
+     * [103]Special pages
+     * [104]Printable version
+     * [105]Permanent link
+     * [106]Page information
+
+   [107]Attribution-Share Alike 3.0 Unported
+   [108]Powered by MediaWiki
+     * This page was last edited on 5 June 2016, at 11:57.
+     * Content is available under [109]Attribution-Share Alike 3.0 Unported unless otherwise noted.
+     * [110]Privacy policy
+     * [111]About SmashWiki
+     * [112]Disclaimers
+     * [113]Mobile view
+
+References
+
+   Visible links
+   1. https://www.ssbwiki.com/index.php?title=SmashWiki:SmashWiki_YouTube_channel&action=edit
+   2. https://www.ssbwiki.com/opensearch_desc.php
+   3. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&feed=atom
+   4. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel#column-one
+   5. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel#searchInput
+   6. https://www.ssbwiki.com/SW:YT
+   7. http://www.youtube.com/user/SmashWiki
+   8. https://www.ssbwiki.com/User_talk:Omega_Tyrant
+   9. https://www.ssbwiki.com/index.php?title=SmashWiki:SmashWiki_YouTube_channel&action=edit&section=1
+  10. https://www.ssbwiki.com/Wavedash
+  11. https://www.ssbwiki.com/DACUS
+  12. https://www.ssbwiki.com/Category:Articles_in_need_of_videos
+  13. https://www.ssbwiki.com/index.php?title=SmashWiki:SmashWiki_YouTube_channel&action=edit&section=2
+  14. https://www.ssbwiki.com/User:Porplemontage
+  15. https://www.ssbwiki.com/User:Omega_Tyrant
+  16. https://www.ssbwiki.com/index.php?title=SmashWiki:SmashWiki_YouTube_channel&action=edit&section=3
+  17. http://www.youtube.com/user/SmashWiki
+  18. http://www.youtube.com/watch?v=aCMUyB84a7s
+  19. http://www.youtube.com/watch?v=2TvxWMsDrcw
+  20. http://www.youtube.com/watch?v=Qy-86WAnFwc
+  21. http://www.youtube.com/watch?v=7uZAgaNV5AU
+  22. http://www.youtube.com/watch?v=qic1AWYpYMo
+  23. http://www.youtube.com/watch?v=qryrf87N5OQ
+  24. http://www.youtube.com/watch?v=Q93m_Sioaoo
+  25. http://www.youtube.com/watch?v=1pXcbhzFX9o
+  26. http://www.youtube.com/watch?v=D9nursdpKIw
+  27. http://www.youtube.com/watch?v=wVhpZ6Q8EiY
+  28. http://www.youtube.com/watch?v=TyLBM5d1-20
+  29. http://www.youtube.com/watch?v=g2zkm09l6zc
+  30. http://www.youtube.com/watch?v=8g-i5ipwcWs
+  31. http://www.youtube.com/watch?v=rwFzDGfQ3Rc
+  32. http://www.youtube.com/watch?v=VnRhpykRsWs&feature=youtu.be
+  33. http://www.youtube.com/watch?v=ljy6FdXH9C4&feature=youtu.be
+  34. http://www.youtube.com/watch?v=xsD0AxEMFzI&feature=youtu.be
+  35. http://www.youtube.com/watch?v=N1V8_MZQZQ0&feature=youtu.be
+  36. http://www.youtube.com/watch?v=e-XvbjOw0LI&feature=youtu.be
+  37. http://www.youtube.com/watch?v=kAoTe9qfMzo&feature=youtu.be
+  38. http://www.youtube.com/watch?v=TR90Tszotm0&feature=youtu.be
+  39. http://www.youtube.com/watch?v=kbgIkeR_GxA&feature=youtu.be
+  40. http://www.youtube.com/watch?v=7VFWQiazMyM&feature=youtu.be
+  41. http://www.youtube.com/watch?v=ctYqLsnoSrc&feature=youtu.be
+  42. http://www.youtube.com/watch?v=Cx2VhxA1BUk
+  43. http://www.youtube.com/watch?v=qxz85yhMgEY
+  44. http://www.youtube.com/watch?v=sjr5UwP3xZw
+  45. http://www.youtube.com/watch?v=h6GsXFnWzUU
+  46. http://www.youtube.com/watch?v=DDLghmiTNFk
+  47. http://www.youtube.com/watch?v=u50HmHK-djM
+  48. http://www.youtube.com/watch?v=X5vjGlJv4BI
+  49. http://www.youtube.com/watch?v=-hebZHzgfsw
+  50. http://www.youtube.com/watch?v=BX0nQ_qAtYw
+  51. http://www.youtube.com/watch?v=aqOZ2P4VCmY
+  52. http://youtu.be/0eXnajNf2fM
+  53. http://www.youtube.com/watch?v=EpyjRINBJbk
+  54. https://www.ssbwiki.com/Template:Usefulpages
+  55. https://www.ssbwiki.com/Template_talk:Usefulpages
+  56. https://www.ssbwiki.com/index.php?title=Template:Usefulpages&action=edit
+  57. https://www.ssbwiki.com/SmashWiki:About
+  58. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
+  59. https://www.ssbwiki.com/Special:AllPages
+  60. https://www.ssbwiki.com/Special:PrefixIndex
+  61. https://www.ssbwiki.com/Special:SpecialPages
+  62. https://www.ssbwiki.com/SmashWiki:Community_portal
+  63. https://www.ssbwiki.com/SmashWiki:Discord_server
+  64. https://www.ssbwiki.com/Forum:General_proposals
+  65. https://www.ssbwiki.com/SmashWiki:Sandbox
+  66. https://www.ssbwiki.com/Special:Statistics
+  67. https://www.ssbwiki.com/Special:ActiveUsers
+  68. https://www.ssbwiki.com/Special:ListGroupRights
+  69. https://www.ssbwiki.com/Special:ListUsers
+  70. https://www.ssbwiki.com/Special:PasswordReset
+  71. https://www.ssbwiki.com/SmashWiki:Users
+  72. https://www.ssbwiki.com/index.php?title=SmashWiki:SmashWiki_YouTube_channel&oldid=871934
+  73. https://www.ssbwiki.com/Special:Categories
+  74. https://www.ssbwiki.com/Category:Instructional_videos
+  75. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
+  76. https://www.ssbwiki.com/SmashWiki_talk:SmashWiki_YouTube_channel
+  77. https://www.ssbwiki.com/index.php?title=SmashWiki:SmashWiki_YouTube_channel&action=edit
+  78. https://www.ssbwiki.com/index.php?title=SmashWiki:SmashWiki_YouTube_channel&action=history
+  79. https://www.ssbwiki.com/Special:MyTalk
+  80. https://www.ssbwiki.com/Special:MyContributions
+  81. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=SmashWiki:SmashWiki+YouTube+channel
+  82. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=SmashWiki:SmashWiki+YouTube+channel
+  83. https://www.ssbwiki.com/Main_Page
+  84. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+  85. https://www.ssbwiki.com/Super_Smash_Bros._4
+  86. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+  87. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+  88. https://www.ssbwiki.com/Super_Smash_Bros.
+  89. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+  90. https://www.ssbwiki.com/Stage
+  91. https://www.ssbwiki.com/Mode
+  92. https://www.ssbwiki.com/Item
+  93. https://www.ssbwiki.com/Special:Random
+  94. https://www.ssbwiki.com/Forum:Index
+  95. https://www.ssbwiki.com/SmashWiki:Community_portal
+  96. https://www.ssbwiki.com/Special:RecentChanges
+  97. https://www.ssbwiki.com/Help:Contents
+  98. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
+  99. https://www.ssbwiki.com/SmashWiki:Discord_server
+ 100. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
+ 101. https://www.ssbwiki.com/Special:WhatLinksHere/SmashWiki:SmashWiki_YouTube_channel
+ 102. https://www.ssbwiki.com/Special:RecentChangesLinked/SmashWiki:SmashWiki_YouTube_channel
+ 103. https://www.ssbwiki.com/Special:SpecialPages
+ 104. https://www.ssbwiki.com/index.php?title=SmashWiki:SmashWiki_YouTube_channel&printable=yes
+ 105. https://www.ssbwiki.com/index.php?title=SmashWiki:SmashWiki_YouTube_channel&oldid=871934
+ 106. https://www.ssbwiki.com/index.php?title=SmashWiki:SmashWiki_YouTube_channel&action=info
+ 107. https://creativecommons.org/licenses/by-sa/3.0/
+ 108. https://www.mediawiki.org/
+ 109. https://creativecommons.org/licenses/by-sa/3.0/
+ 110. https://www.porplemontage.com/privacy
+ 111. https://www.ssbwiki.com/SmashWiki:About
+ 112. https://www.ssbwiki.com/SmashWiki:General_disclaimer
+ 113. https://www.ssbwiki.com/index.php?title=SmashWiki:SmashWiki_YouTube_channel&mobileaction=toggle_view_mobile
+
+   Hidden links:
+ 115. https://www.ssbwiki.com/Main_Page

@@ -1,0 +1,1285 @@
+   #[1]Edit this page [2]SmashWiki (en) [3]SmashWiki Atom feed
+
+Fox (SSBM)
+
+   From SmashWiki, the Super Smash Bros. wiki
+   Jump to:[4]navigation, [5]search
+   [6]SSBM Icon.png [7]This is a featured article. Click for more information.
+
+          This article is about Fox's appearance in Super Smash Bros. Melee. For the character in other contexts, see [8]Fox McCloud.
+
+   Fox
+   in [9]Super Smash Bros. Melee
+   [10]Fox SSBM.jpg
+   [11]StarFoxSymbol(preBrawl).svg
+   [12]Universe [13]Star Fox
+   Other Smash Bros. appearances [14]in SSB
+   [15]in Brawl
+   [16]in SSB4
+   [17]in Ultimate
+   Availability [18]Starter
+   [19]Tier SS (1) (North America)
+   SS (1) (Europe)
+   [20]FoxHeadSSBM.png
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            “ A wily fox that uses speed to keep enemies off balance. ”
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        —Description from Melee's manual.
+
+   Announced at [21]E3 2001, Fox (フォックス, Fox) is a playable [22]starter character in [23]Super Smash Bros. Melee. He is once again voiced by Shinobu Satouchi across all versions of the game, providing him with new, more energetic voice clips.
+
+   Fox currently ranks 1st on the Melee [24]tier list, his best placement in the series to date. He is emblematic of speed, possessing fast attacks that also give him excellent comboing and damaging abilities. Overall, he can dominate foes with his quick movement and overpowering offense in all areas of his game. He also boasts numerous approaching methods, giving him some of the best neutral game options among the entire cast. He has access to effective, long-distance recovery options in [25]Fire Fox and [26]Fox Illusion. He has KO options and setups at a wide variety of percentages, and his high falling speed makes him resilient to vertical KOs. His aerial game also includes several low-lag yet effective and powerful moves to complement his ground game, especially when [27]SHFFL'd, and is incredibly effective at approaching and edgeguarding. Fox's main tool in his success, however, is his [28]Reflector (also known as the shine), which is one of the most versatile tools in the game. Aside
+   from its intended purpose, the Reflector activates on frame 1 (making it the fastest move in the game), has set knockback, and can be [29]jump canceled; this allows for [30]shine spike gimps, neutral stance resets, getup option mixups, and even combos when [31]wavedashing is incorporated.
+
+   Despite being ranked first, Fox is not flawless. His high falling speed makes him very easy to combo and chaingrab off of a single conversion from the opponent, and his light weight can result in extremely early horizontal KOs if the player's [32]DI is poor. Although he boasts long-distance recovery options, their linear paths makes it easier for certain characters like [33]Marth to predict his recovery path and edgeguard or gimp him. Fox also has an extremely high technical learning curve, as most of his techniques require extremely nimble fingers and fast reaction time. Also, due to his aforementioned flaws, Fox is considered to be a glass cannon, where he could lose a stock if a single mistake is made, giving him a high cerebral learning curve. So while Fox has incredible fighting process and potential, many consider Fox to be arguably the hardest character to play as and master, requiring a lot of practice.
+
+   Regardless, his pros greatly outweigh his cons, and Fox is notable for being one of only four characters in the series (the other three being [34]Pikachu in Smash 64, [35]Falco in Melee, and [36]Meta Knight in Brawl) to have no disadvantageous matchups, with only three ([37]Falco, [38]Marth and [39]Samus) being considered even.
+
+Contents
+
+     * [40]1 Attributes
+     * [41]2 Changes from Smash 64 to Melee
+          + [42]2.1 Aesthetics
+          + [43]2.2 Attributes
+          + [44]2.3 Ground Attacks
+          + [45]2.4 Aerial Attacks
+          + [46]2.5 Grabs and Throws
+          + [47]2.6 Special Moves
+          + [48]2.7 PAL differences
+     * [49]3 Moveset
+          + [50]3.1 Taunt
+          + [51]3.2 Idle pose
+          + [52]3.3 Crowd cheer
+          + [53]3.4 Victory poses
+     * [54]4 In competitive play
+          + [55]4.1 Matchups
+          + [56]4.2 Notable players
+               o [57]4.2.1 Active
+               o [58]4.2.2 Inactive
+          + [59]4.3 Tier placement and history
+               o [60]4.3.1 PAL viability
+     * [61]5 In 1-P Mode
+          + [62]5.1 Classic Mode
+          + [63]5.2 Adventure Mode
+          + [64]5.3 All-Star Mode
+          + [65]5.4 Event Matches
+          + [66]5.5 Ending Images
+     * [67]6 Trophy descriptions
+     * [68]7 Alternate costumes
+     * [69]8 Gallery
+     * [70]9 Trivia
+
+Attributes[[71]edit]
+
+   Fox falls into a unique archetype: He is exceptionally quick, yet he is equipped with a plethora of viable finishers. He has the second fastest [72]dashing speed (which remedies his low [73]air speed somewhat), tied with [74]Marth for the fastest [75]walking speed, the third fastest normal [76]falling speed, tied with [77]Captain Falcon for the second fastest [78]fast falling speed, fast [79]dash-dancing, and fast attacks. His low [80]traction and fast jump (only 3 frames before he leaves the ground) gives him a fast, moderately long [81]wavedash.
+
+   Fox's primary reason for his top-tier placing is his unparalleled comboing and damaging ability, helped by a powerful [82]approach game. His fast fall and low, fast short hop contribute to an extremely quick [83]SHFFL, which can let him almost effortlessly start combos or act as a deadly approach option. Additionally, Fox's specials act as powerful ways to aid this; his [84]Reflector makes for a potential combo starter, as well as a potential [85]infinite combo with his [86]waveshine infinite, and his [87]Blaster is an almost unstoppable damage-racking method, due to its long range, inability to cause [88]hitstun, high speed and its ability to be combined with Fox's [89]short hop as part of the [90]short hop laser technique. Additionally, a majority of Fox's attacks inflict significant damage while being very fast as well; his [91]neutral aerial, [92]back aerial, and tilts are especially notable in this regard, with the remainder of his aerials having little [93]ending lag.
+
+   Additionally, Fox's KO ability is also among the best in the game, with numerous powerful vertical finishers in his arsenal, most notably his [94]up smash and [95]up aerial, both of which are among the most powerful in the game with huge [96]hitboxes. Fox's Reflector also makes for a valuable tool for KOing, due to its set, [97]semi-spike knockback properties that makes it extremely useful for [98]edgeguarding or [99]gimping. Its instantaneous [100]startup time and its ability to be jump-cancelled also means that it is of very low risk to use off the [101]edge. While not the strongest, Fox's forward smash is an effective horizontal finisher at higher damage percentages, capable of KOing even heavyweights like Bowser under 150%.
+
+   While not the best, Fox's [102]grab game is decent. His [103]throws' low knockback allow him to set up potentially lethal combos. His [104]up throw can lead into a sweet spotted up aerial, one of Fox's primary KO methods, and can even [105]chain throw [106]fast fallers. His forward and back throws force opponents a fair distance off the stage, aptly setting up opportunities for Fox to use his smashes, aerials, or [107]shine spikes to edgeguard. In rare situations, Fox can use his down throw to [108]meteor smash his opponents off the edge of a stage. Despite this, Fox's grab range is average, though his high dashing speed gives him a potential method to "extend" its range. Fox also cannot reliably chain grab at higher percentages, though he retains his ability to hit most opponents out of his up throw with guaranteed aerials, depending on [109]DI.
+
+   Despite being a top-tiered character and considered among the most powerful in Melee, Fox is not completely infallible. Because he is a light fast faller, he suffers more hitstun but less vertical knockback. As such, nearly every character can juggle or chaingrab him for decent damage or even to KO percents with little chance for Fox to escape ([110]Marth and [111]Peach being notorious for having deadly chaingrab combos on Fox at [112]Final Destination). As a result, Fox can be considered somewhat of a glass cannon, as while his attack prowess is high, a single blunder by the player can cause the loss of a stock.
+
+   In addition to an ease of being comboed, Fox also suffers from a rather exploitable [113]recovery. On paper, despite being a fast faller with poor air speed and the highest gravity value amongst the fighters, Fox's recovery is among the best in the game, as his two options, [114]Fire Fox and [115]Fox Illusion, both travel extremely long distances. He can also mix up his recovery options by angling Fire Fox in nearly any direction, shortening his Fox Illusion, or [116]wall jumping on certain stages, making the opponent second-guess themselves about where they should be on the stage to intercept Fox's recovery. However, such techniques are also extremely dangerous if incorrectly spaced, as if the opponent obtains the correct read or gets into a position where they can hit him out of his recovery, Fox will most likely not be able to recover again. A multitude of attacks can intercept both moves, such as [117]Mario's [118]Cape or [119]Falco's down aerial, and top-tiered characters generally
+   have the options to cover several of Fox's recovery options at once, or even chase Fox off-stage before he even has the chance to recover.
+
+Changes from [120]Smash 64 to Melee[[121]edit]
+
+   Fox received a mix of buffs and nerfs upon making the transition between games but was buffed overall, with an increase in K.O. power, recovery, and movement options, all thanks to the introduction of [122]wavedashing. Fox also received a new special move, known as [123]Fox Illusion, which can be used as an alternate recovery option, allowing for recovery mix-ups. Another noteworthy buff is his [124]Reflector, as it can now be jump-cancelled. This buff alongside the introduction of wavedashing eventually became the birth of a new technique known as [125]waveshining. When successfully performing a waveshine, Fox can easily follow-up into a range of many different attacks.
+
+   Fox has also received notable nerfs, however, with one being his [126]Blaster. Although Blaster's projectile travels faster and can fire rapidly, it deals less damage overall and can no longer deal knockback, making it slightly less effective for [127]camping. This also means that Blaster can no longer be used to [128]gimp opponents. Fox also suffered a decrease in his air speed, limiting his recovery. However, none of these nerfs were enough to stop Fox from being viable in competitive play.
+
+   Overall, Fox's strengths clearly outweigh his flaws. As a result, he is considered to be one of the few characters that were truly buffed, alongside [129]Samus and [130]Jigglypuff.
+
+Aesthetics[[131]edit]
+
+     * Change Fox received a new [132]taunt. He leans back, moves his left hand up and down and yells "come on".
+     * Change Fox also received new voice samples that sound more energetic.
+
+Attributes[[133]edit]
+
+     * Buff Fox has an increase in his initial dash frames, which makes his dash dance significantly better.
+     * Buff Fox walks significantly faster (0.45 → 1.6).
+     * Change Fox has significantly increased [134]falling speed (60 → 2.8). His increased falling speed aids his [135]approach due to his very strong [136]SHFFL, and makes him harder to KO vertically, but makes him more susceptible to combos.
+     * Nerf Fox's [137]air speed is much slower (36 → 0.83), going from among the fastest in Smash 64 to among the slowest in Melee.
+     * Change Fox is significantly lighter (100 → 75 (NTSC)/73 (PAL)).
+     * Change Fox's [138]short hop is lower.
+
+Ground Attacks[[139]edit]
+
+     * Buff The first two hits of neutral attack have less startup lag (frame 3 → 2 (hit 1), frame 4 → 3 (hit 2)) and end lag due to now having [140]IASA frames (frame 19 → 17 (hit 1), frame 20 → 19 (hit 2).
+     * Nerf The second hit of neutral attack has a shorter duration (3 frames → 2).
+     * Buff Forward tilt has less startup lag (frame 6 → 5).
+     * Nerf Forward tilt has a shorter duration (frames 6-13 → 5-8) and more ending lag (frame 24 → 27).
+     * Buff Dash attack has less startup lag (frame 5 → 4), less ending lag (frame 40 → 36) and more combo ability.
+     * Nerf Dash attack has a shorter duration (frames 5-24 → 4-17) and deals less damage (10% → 7% (clean), 6% → 5% (late).
+     * Buff Fox has a new up tilt where he kicks behind and above himself. It has less startup lag (frame 6 → 5), less ending lag (frame 24 → 23) deals more damage (9% → 12%), has stronger knockback (0 (base), 150 (scaling) → 10/140) and better combo potential.
+     * Nerf Up tilt has a shorter duration (frames 6-13 → 5-11).
+     * Nerf Down tilt has more startup lag and a shorter duration (frames 6-9 → 7-9). It also deals less damage (12% → 10%) and has less combo ability due to hitstun being decreased.
+     * Buff Fox has a new forward smash: a tumbling-spinning back kick from a turning leap that moves him forward. It has less ending lag (frame 52 → 40) than his previous forward smash and signifcantly increased vertical range.
+     * Nerf New forward smash has much weaker knockback and deals slightly less damage (17% → 15%), hindering its KO potential. It also has a shorter duration (frames 12-24 → 12-22).
+     * Buff Up smash deals more damage (16% (clean), 8% (late) → 18%/13%) and has less ending lag (frame 60 → 42).
+     * Nerf Up smash has more startup lag and a shorter duration (frames 6-21 → 7-17). The clean hit also has decreased knockback (25 (base), 140 (scaling) → 30/112) which when combined with increasing falling speeds and the introduction of [141]DI hinders its KO potential despite its increased damage.
+     * Buff Down smash deals slightly more damage (14% → 15%) and has less ending lag due to now having IASA frames (frame 50 → 46).
+     * Change Down smash now sends opponents horizontally rather than vertically.
+     * Nerf Down smash has reduced knockback, hindering its edgeguarding and KO ability.
+
+Aerial Attacks[[142]edit]
+
+     * Nerf Due to his lower short hop and higher fall speed, Fox can no longer [143]auto-cancel any of his aerials out of a short hop.
+     * Nerf All aerials except back aerial auto-cancel later (frame 31 → 37 (neutral), frame 23 → 49 (forward), frame 27 → 31 (down), frame 13 → 26 (up)).
+     * Buff Neutral aerial has more overall utility and the clean hit has significantly improved knockback (0 (base) → 10). It also has less ending lag (frame 50 → 42).
+     * Nerf Clean neutral aerial deals less damage (14% → 12%).
+     * Change Neutral aerial has an altered animation; Fox faces more away from his kicking-direction akin to his dash attack, and tucks in his right leg differently. The hitbox placement is also somewhat more horizontal.
+     * Buff Fox has a new forward aerial; he spin kicks rapidly at a slanted-upward angle exactly five times to his right. It deals more damage than his old forward aerial (12% → 23.28%), has slightly more vertical range, and slows Fox's fall in the air, increasing its offstage safety.
+     * Nerf New forward aerial deals much less knockback and has significantly less combo potential. It also now lacks edgeguarding ability and has slightly less horizontal range. It also has more ending lag (frame 40 → 53) and is much less reliable compared to the previous forward aerial.
+     * Buff Back aerial has larger hitboxes, which are also positioned slightly more vertically, improving its spacing potential. It also does 3% more damage (12% → 15%) improving its KO potential. It also has less ending lag (frame 40 → 38) and auto-cancels earlier (frame 27 → 24).
+     * Change Back aerial has an altered animation: Fox's upper body is more upright even during the ending turn (altering the pertaining hurtbox), with his left leg pointing more diagonally-downward and being a bit bent (which shrinks the pertaining hitbox).
+     * Nerf Back aerial has a shorter duration (frames 4-27 → 4-19).
+     * Buff Up aerial does slightly more damage (2% → 5% (hit 1), 15% → 16% (total)) and has increased knockback (0 (base), 135 (scaling) → 40/116 (hit 2)), improving its KO potential. Additionally, the first hit links more reliably with the second one and it has less ending lag (frame 40 → 36).
+     * Nerf Up aerial has more startup lag (frame 6 → 8), is more difficult to [144]sweetspot, and is much less useful during aerial approaches due to Fox's lower air speed. The first hit's set knockback is also lower (100 → 30), which when combined with its lower hitstun and higher landing lag when [145]L-canceled hinders its combo ability. The second hit also deals less damage if the first hit connects due to changes to [146]stale move negation (13% → 11%).
+     * Buff Down aerial deals more damage (14% → 19.38%) and has less [147]landing lag, making it much harder to punish if the player misses an L-cancel. The move also launches at a higher angle (270° → 280°), improving its gimping potential.
+     * Nerf Down aerial has more startup (frame 4 → 5) and ending lag (frame 44 → 50).
+
+Grabs and Throws[[148]edit]
+
+     * Nerf [149]Grabs have more startup lag (frame 6 → 7 (standing), 12 (dash)) and ending lag (frame 16 → 31 (standing), 41 (dash)).
+     * Buff Fox has been given a [150]pummel, an [151]up and a [152]down throw, providing him with more options during and after a grab. Fox's up throw is also considered the best up throw in the game due to it's chaingrab and damage racking capabilities, and easy and quick kill setups. His down throw is also used as a [153]Tech-chaser.
+     * Nerf Fox has a new forward and back throw; Fox now punches his opponent forward instead of throwing them in his new forward throw, and his new back throw has him tossing his opponent backwards while shooting him with his Blaster. The new forward and back throws deal less damage (12% (forward), 15% (back) → 7% (both)) and have much weaker knockback to the point where they cannot KO reliably. Additionally, the second half of his back throw can now be avoided with DI.
+
+Special Moves[[154]edit]
+
+     * Buff [155]Blaster fires much faster and has less lag, significantly improving Fox's approach.
+     * Nerf Blaster no longer causes [156]hitstun on opponents and deals less damage (6% → 3%), making it ineffective for stopping opponents' approaches. Laser setups and gimps are also no longer possible due to this.
+     * Change Like all of the other characters, Fox has a side special. In his case, it is [157]Fox Illusion. Fox Illusion gives him an additional [158]recovery option, and also makes his horizontal recovery considerably quicker.
+     * Buff [159]Fire Fox now has hitboxes while it's charging, leaving him much less vulnerable, and it travels further and faster. It can also be used near the edge when Fox is facing it to quickly grab the edge, allowing him to stall or setup [160]edgehogs and shine spikes. These changes collectively improve its recovery potential.
+     * Buff [161]Reflector can now be jump-cancelled, which, along with the introduction of [162]waveshining, allows shine combos. This also means Fox can quickly followup a grounded shine without having to go through the normal short hop animation; it can be sped up using a wavedash or simply a [163]wavedrop.
+
+PAL differences[[164]edit]
+
+   Like other characters, Fox has received some changes in the [165]PAL version of Melee, which nerfed him overall, but it does not severely affect his tournament viability, as he is also ranked 1st on the [166]PAL tier list.
+     * Change [167]Weight reduced from 75 to 73, making Fox now lighter than [168]Kirby. This makes his survivability slightly worse, but it also allows him to tech out of [169]Falco's down throw.
+     * Nerf Up smash deals 1% less damage and has noticeably less knockback.
+     * Nerf Down smash deals 2% less damage and sends enemies on a slightly higher angle, making it easier to [170]DI.
+     * Nerf [171]Fire Fox's strong hitbox is slightly smaller, deals 2% less damage and travels less distance.
+
+Moveset[[172]edit]
+
+   Fox's aerial attacks
+
+   For a gallery of Fox's hitboxes, see [173]here.
+                                   Name                                  Damage                                                                                                                                                                                                                                                                                                                                                                                            Description
+     [174]Neutral attack                       4%                                                         A quick jab that can combo into several other attacks, including an up smash. Very useful against shields, to [175]jab reset, and into shine cancels. The second jab makes Fox move forward a bit and is followed by a flurry of rapid kicks. It's combo ability into other moves makes it the best jab in the game.
+                                               4%
+                                               1% (loop)
+      [176]Forward tilt                        9%                                                         Sticks his foot out to the side. This is best used for a quick close-ranged [177]spacing move. This move can be aimed up or down.
+         [178]Up tilt                          12% (foot grounded), 9% (leg & foot aerial)                Performs a quick and surprisingly strong vertical back kick. It covers Fox's whole body; thus, it makes Fox and his vertically-aimed foot a hitbox. Its speed, power, and hitbox make it great for close-up spacing. It can easily combo into itself, up air, and up smash. Used as part as a [179]chain-grab against fast-fallers with it being connected to his up throw. Begins to KO at around 120% on mostly the floaty lightweights. Fox's foot deals more damage on grounded opponents.
+        [180]Down tilt                         10%                                                        Performs a sweeping tail lash. Moderately fast. Can combo at mid-percentages into aerials. It can also become a somewhat solid finisher at higher percentages.
+       [181]Dash attack                        7% (clean), 5% (late)                                      Runs forward and sticks his leg out. Good combo ability, especially into an up smash. Very vulnerable to [182]crouch canceling.
+      [183]Forward smash                       15% (clean), 12% (late)                                    Performs a flying hook kick. Has moderately low knockback (extremely low base knockback - 10) for a smash, though it is fast, and is actually quite reliable at higher percentages (very high knockback scaling - 105), KOing usually at around 120%.
+        [184]Up smash        Flip Kick         18%/17% (clean NTSC/PAL), 13% (late)                       Performs a bicycle kick. This move is very fast, and when used on the ground while facing the foe, it has very high vertical knockback. It is very reliable at mid-high damages. Shine into up smash is very useful for KOs. Widely considered the best u-smash in the game due to its extreme speed, extreme power, decent range, and ability to be easily set up into it. However, it is actually the second most powerful u-smash in the game, behind [185]Pikachu's. Fox's head is intangible during the early part of the animation.
+       [186]Down smash                         15%/13% (feet NTSC/PAL), 12% (legs)                        Does a split kick, hitting on both of his sides. It is fast and has moderate knockback, sending opponents on a [187]semi-spike trajectory. Useful for [188]edgeguarding and spacing. Both of Fox's legs are intangible near the start of the move.
+     [189]Neutral aerial                       12% (clean), 9% (late)                                     Sticks his foot out, a simple [190]sex kick. A very quick aerial, good against shields and great power when it first comes out. Arguably the best nair in the game due to its combo ability and reliable setups into shine.
+     [191]Forward aerial                       7% (hit 1), 5% (hit 2), 6% (hit 3), 4% (hit 4), 3% (hit 5) Kicks forward five times. Good knockback when all hits connect. Regrettably, this move is very awkward due to the short amount of forward distance, short range of the move, and bad physics of the kicks being chained together. All hits are extremely hard to connect without a good set-up, especially on lighter characters.
+       [192]Back aerial                        15% (clean right leg), 9% (clean left leg, late)           Does a quick no-look kick backwards while recovering in a turn, with sex kick properties. Great knockback on early hit, and one of Fox's best edgeguarding and KO moves. Also one of the best back airs in the game.
+        [193]Up aerial                         5% (hit 1), 13% (hit 2)                                    Whips his tail up and kicks immediately after. A very high knockback move, good vertical finisher, can combo out of an up throw on virtually everyone. It and his u-smash give Fox an advantage against light, floaty characters, notably [194]Jigglypuff and [195]Kirby. Can be Smash DI'd out of however. Widely considered to be the best up air in the game due to it's juggling prowess, speed, power, and ability to be comboed into.
+       [196]Down aerial                        2-3% (hits 1-7)                                            Spins around, drilling downwards with his extended foot. Useful as [197]SHFFL'd approach, with combo potential into moves like uptilt, upsmash, and shine. It is the weakest [198]spike in the game, with weak set knockback.
+          [199]Grab                            —
+         [200]Pummel                           3%                                                         Knees opponent.
+      [201]Forward throw                       4% (hit 1), 3% (throw)                                     Punches the opponent forward. Despite its generally poor combo ability, it can chain-grab on some heavy characters. It is best used for forcing opponents offstage, setting up an edgeguard.
+       [202]Back throw                         2% (throw), 2% (shots)                                     Throws backwards and shoots the opponent with his Blaster. Used mainly for setting up edgeguards off-stage, though really not many other uses besides mixing up a Fox player's throw game.
+        [203]Up throw                          2% (throw), 2% (shots)                                     Throws the opponent into the air and shoots them with his Blaster. It can chain-grab fast fallers at lower percentages and combo into moves such as up tilt, up aerial, and up smash. Often considered the best up throw in the game due to its easy kill setups (notably up throw up air), its chaingrab ability, and it's juggle potential (up air juggles after up throw).
+       [204]Down throw                         1% (shots), 1% (throw)                                     Throws the opponent into the ground and shoots them with his Blaster. Has [205]meteor smash properties, and if performed at the edge of a stage or platform can send the opponent straight down. However, this also allows it to be meteor cancelled or teched, and so tends to be overshadowed by upthrow, which has true combo followups on the majority of the cast. However, it can be used as a mixup on high percent opponent, or techchased into a KO move.
+   [206]Floor attack (front)                   6%                                                         Gets up and kicks on both sides.
+   [207]Floor attack (back)                    6%                                                         Punches forwards, then kicks backwards.
+   [208]Edge attack (fast)                     6% (body), 8% (legs)                                       Throws himself onto the stage with both feet sticking out.
+   [209]Edge attack (slow)                     6% (body), 8% (legs)                                       Slowly gets up and kicks in front.
+     [210]Neutral special    [211]Blaster      2-3%                                                       Fox fires a laser from his Blaster. The fastest projectile used by any character in the game, but does not make opponents flinch, unlike in the previous game. It is mainly used from long range as [212]short hop lasers to build up damage. If used on the ground, there is ending lag. This attack has [213]transcendent priority.
+      [214]Side special      [215]Fox Illusion 7%                                                         Fox dashes forward, leaving an afterimage behind him. A fairly quick but linear horizontal recovery move. Can be shortened at three different distances by pressing the B button again on specific frames.
+       [216]Up special       [217]Fire Fox     2% (charge loop), 14%/12% (dash NTSC/PAL)                  Fox charges up in flames and blasts off in a direction, which can be controlled with the [218]control stick. Unreliable as an attack due to the charge time, but can damage opponents during this. Less predictable than illusion given its ability to change angles, but still a linear move. Techniques such as changing the angle and sweetspotting can keep Fox's opponent guessing. Has next to no landing lag, making it hard to punish on landing and is overall considered the best Recovery Up B in the game due to its distance and mix-up potential. Its distance was nerfed in the PAL version of Melee.
+      [219]Down special      [220]Reflector    5% (startup), 1.5x damage for reflected projectiles        Informally referred to as the Shine, it reflects any projectiles that hit it back at the opponent who fired them for 1.5x damage and knockback. This move has low base knockback, but is an extremely useful [221]semi-spike as it can push opponents offstage while [222]edgeguarding, to prevent them from recovering. Due to the set knockback, it has guaranteed followups on much of the cast at any percentage. The move can be jump cancelled to avoid the ending lag, allowing Fox to quickly jump up off stage, and it also gives him access to the [223]waveshine technique. Reflector is invincible and active on the first frame of the animation, and thus considered one of the best Down B's in the game (along with Falco's).
+
+[224]Taunt[[225]edit]
+
+     * Fox crouches and says "Come on!", beckoning with his left hand. With Japanese as the set language, he says かかってこい！ (Come at me!)
+     * Smash taunt: Fox can do a [226]Star Fox conversation that can only be used on [227]Corneria or [228]Venom by quickly tapping Down on the [229]control pad (for one frame). This taunt can only be used once per match.
+
+            Taunt                      Smash taunt
+   [230]Fox-Taunt-SSBM.gif [231]Taunts-Melee-Fox-SmashTaunt.png
+
+[232]Idle pose[[233]edit]
+
+     * Slightly looks towards his right side and twitches his ears.
+
+   [234]Fox Idle Pose Melee.gif
+
+[235]Crowd cheer[[236]edit]
+
+                        English             Japanese
+         Cheer
+   (BUTTON) Play sound
+   [237]Fox Cheer NTSC Melee.ogg
+   (BUTTON) Play sound
+   [238]Fox Cheer JP Melee.ogg
+      Description     Gooooooo Fox! Fox! *claps three times*
+         Pitch        Group chant   Male
+
+[239]Victory poses[[240]edit]
+
+   (BUTTON) Play sound
+   A rendition of a portion of the main theme of Star Fox 64.
+     * Swirls gun into holster and says, "Mission Complete!"; 作戦終了！ which translates to "Operation complete!"
+     * Points his Blaster to his left, kneels down and points his Blaster to his right, stands up and says, "Mission Complete!"; これより帰還する。 which roughly translates to "On my way back from here."
+
+          + If the language is set to Japanese and Fox wins against [241]Falco, he may say 気にするなよ、ファルコ。, which roughly translates to "Don't worry about it, Falco."
+
+     * Crosses his arms while closing his eyes, quickly looks upward while raising his tail and says, "Mission Complete!"; 作戦終了！ which translates to "Operation complete!" This is his based off his character chosen animation and taunt from [242]Super Smash Bros.
+
+   [243]Fox-Victory1-SSBM.gif [244]Fox-Victory2-SSBM.gif [245]Fox-Victory3-SSBM.gif
+
+In [246]competitive play[[247]edit]
+
+[248]Matchups[[249]edit]
+
+   CAPTION: [250]Super Smash Bros. Melee Character Matchups
+
+                        [251]FoxHeadSSBM.png [252]FalcoHeadSSBM.png [253]MarthHeadSSBM.png [254]SheikHeadSSBM.png [255]JigglypuffHeadSSBM.png [256]PeachHeadSSBM.png [257]IceClimbersHeadSSBM.png [258]CaptainFalconHeadSSBM.png [259]PikachuHeadSSBM.png [260]SamusHeadSSBM.png [261]DrMarioHeadSSBM.png [262]YoshiHeadSSBM.png [263]LuigiHeadSSBM.png [264]GanondorfHeadSSBM.png [265]MarioHeadSSBM.png [266]YoungLinkHeadSSBM.png [267]DonkeyKongHeadSSBM.png [268]LinkHeadSSBM.png [269]MrGame&WatchHeadSSBM.png [270]RoyHeadSSBM.png [271]MewtwoHeadSSBM.png [272]ZeldaHeadSSBM.png [273]NessHeadSSBM.png [274]PichuHeadSSBM.png [275]BowserHeadSSBM.png [276]KirbyHeadSSBM.png Avg.
+   [277]FoxHeadSSBM.png [278]Mirror match    [279]±0                [280]±0                [281]+1                [282]+1                     [283]+1                [284]+1                      [285]+2                        [286]+2                  [287]±0                [288]+1                  [289]+3                [290]+2                [291]+2                    [292]+1                [293]+2                    [294]+2                     [295]+3               [296]+3                       [297]+2              [298]+3                 [299]+3                [300]+3               [301]+3                [302]+3                 [303]+3                [304]+2
+
+   As one of the only two characters in the game to not have any disadvantageous matchups (the other being [305]Falco), Fox has, undisputably, the best matchup spread in Melee. He has only three matchups that are even, while he [306]soft counters six characters, [307]counters seven, and [308]hard counters nine (second most in the game, behind [309]Sheik). Fox's universally strong tools, such as his quick, versatile [310]combo ability, great aerial attacks, and his very effective [311]shine techniques, allow him to compete against any character. He even has very oppressive tools in certain matchups, such as a potential [312]waveshine infinite that, even if performed to a limited degree, can shut down a large portion of the cast. However, Fox's very high [313]falling speed and very low [314]air speed undermine his otherwise relatively long recovery, making him predictable off the stage and easy to [315]gimp and [316]edgeguard by characters such as Falco, [317]Jigglypuff and [318]Marth. With his
+   said falling speed, characters such as Marth can easily [319]chaingrab him, and his light weight attribute makes him easy for characters such as [320]Samus to KO horizontally.
+
+   In the modern metagame, it is still widely agreed that Fox has the best overall matchup spread in the game. However, there has recently been significant debate over his matchup against [321]Marth. Some professionals argue that Marth has an easier time playing the matchup; they claim that Fox only has a true advantage at [322]TAS levels of play, and that Marth beats Fox at the human level. Such professionals usually cite Marth's surprisingly high win rate in his favor against Fox in top-level tournament play, and the incredible prowess that top professional Marth players such as [323]Mew2King and [324]Zain have against Fox, with not many Fox players showing that level of dominance against Marth players. Nonetheless, the general perception of the community still suggests that the matchup is considered even for the time being.
+
+Notable players[[325]edit]
+
+          See also: [326]Category:Fox professionals (SSBM)
+          Any number following the Smasher name indicates placement on the [327]2017 SSBMRank.
+
+Active[[328]edit]
+
+     * [329]USA  [330]AbsentPage (#74) - The best player in Minnesota, and a top Midwest player, known for being one of the fastest improving players globally. Also uses Sheik and Marth as secondaries. Has wins over S2J, Duck, Crush, Swedish Delight, La Luna, and many other top professionals.
+     * [331]USA  [332]Alex19 - One of the most iconic Fox players in the USA, with strong showings at SoCal locals and many combo videos to his name. Placed in the top 100 several times on SSBMRank.
+     * [333]Sweden  [334]Armada (#2) - One of the five gods and Europe's best player. [335]Peach main with a strong Fox as a co-main. He retired from competitive singles on October 2018, but is still active in doubles.
+     * [336]USA  [337]Bobby Frizz (#92) - The best player in Kansas, with wins over some notable Top 100 Players including Lucky.
+     * [338]USA  [339]Cactuar (#64) - An old-school Fox player from Tristate, renowned in the community for his general game knowledge.
+     * [340]USA  [341]Cal (#73) - A new, rapidly improving Fox who gained fame by winning the Forsaken Bracket at [342]Red Bull Smash Gods and Gatekeepers.
+     * [343]USA  [344]Chillin (#57) - Arguably the first notable top Fox main. A pioneer of Fox's meta. Best Fox main in MD/VA.
+     * [345]USA  [346]Colbol (#30) - Fox main that moved from Florida to Georgia, and is now ranked #1 in Georgia.. Co-mains with Marth.
+     * [347]USA  [348]Crush (#15) - Best Fox in New England.
+     * [349]USA  [350]DJ Nintendo (#76) - Although more known for his other characters, such as his [351]Bowser, Fox is his strongest and most consistent character for tournament sets deeper in the bracket.
+     * [352]USA  [353]Druggedfox (#12) - Unranked in his homestate due to activity; 13th place at [354]EVO 2016, 17th at [355]Super Smash Con 2016, 9th at [356]UGC Smash Open.
+     * [357]USA  [358]FatGoku (#69) - The best player in Oregon and one of the strongest Fox mains on the West Coast.
+     * [359]USA  [360]Fiction - One of the best Fox mains in SoCal. Was in the Top 25 of the [361]2014 SSBMRank. Now co-mains with Marth due to hand injuries.
+     * [362]USA  [363]Hax (#45) - Originally a Captain Falcon main until his switch to Fox. Regarded as the most technical Fox player. Uses the B0XX to compete.
+     * [364]USA  [365]HomeMadeWaffles (#77) - Strong Fox main from California; co-mains with Falco. Known mostly as a personality and commentator.
+     * [366]Germany  [367]Ice (#28) - Formerly a Sheik main, has switched to Fox with improved results. Best player in Germany.
+     * [368]USA  [369]Kels (#51) - One of the strongest players in the Midwest.
+     * [370]USA  [371]KJH (#34) - Top 3 in Michigan. Known for his Fox Privilege YouTube series showcasing his knowledge of useful Fox techniques.
+     * [372]Sweden  [373]Leffen (#6) - World's best solo-Fox.
+     * [374]USA  [375]Lovage (#78) - More known as a commentator nowadays. Still has one of the strongest Foxes on the West Coast, with a recent set win over [376]Leffen.
+     * [377]USA  [378]Lucky (#17) - Best solo-Fox main in SoCal.
+     * [379]USA  [380]Mango (#3) - One of the five gods. He is the undisputed best player in SoCal.
+     * [381]USA  [382]Medz (#55) - One of the best players in Arizona and one of [383]Axe's training partners.
+     * [384]USA  [385]Mew2King (#4) - One of the [386]Five Gods; began as a Fox main and dominated in 2006-2007 primarily using Fox and Marth. Now primarily uses [387]Marth and [388]Sheik, but still has his Fox for the mirror matchup and for [389]Jigglypuff.
+     * [390]USA  [391]Mike Haze (#25) - One of the best Fox mains in SoCal.
+     * [392]USA  [393]MilkMan (#79) - One of the best Fox mains in MD/VA.
+     * [394]USA  [395]Plup (#5) - Co-mains with Sheik. Usually uses Fox against Jigglypuff, but sometimes has solo Fox showings, mostly at smaller tournaments.
+     * [396]UK  [397]Professor Pro (#41) - Best player in the UK.
+     * [398]USA  [399]Redd (#65) - One of the best players in MD/VA.
+     * [400]Japan  [401]Rudolph - Japan's best Fox player (who primarily mains Marth). Ranked 52nd on the [402]2016 SSBMRank.
+     * [403]Canada  [404]Ryan Ford (#32) - Best Canadian Fox main.
+     * [405]USA  [406]SFAT (#9) - Best Fox main in NorCal and one of the top Fox players in the world.
+     * [407]USA  [408]Slox (#42) - One of the best Fox mains in New England.
+     * [409]USA  [410]Syrox (#33) - The best player in Colorado. Gained significant notoriety through his Netplay skill and [411]Eden run, where he showcased incredible technical proficiency.
+     * [412]USA  [413]Westballz (#18) - Falco main with a strong Fox secondary.
+     * [414]Netherlands  [415]Zgetto (#89) - Best Dutch Fox main.
+
+Inactive[[416]edit]
+
+     * [417]USA  [418]CDK - A notable Fox from SoCal. Was formerly ranked as high as #46 on SSBMRank.
+     * [419]UK  [420]Fuzzyness - Second best player in the UK. Known mostly for his world record speedruns in Melee's single player modes.
+     * [421]Mexico  [422]JAVI - Best player in Mexico, known for his dark horse performance at [423]Apex 2012, where he defeated [424]PPMD. Formerly ranked #37 on SSBMRank, but has not been as active in recent years.
+     * [425]USA  [426]Jman - The first [427]Apex champion for Melee.
+     * [428]USA  [429]KDJ - Triple-mained with Marth and Sheik before retiring. Considered one of the strongest Melee players in the pre-Brawl era.
+     * [430]Japan  [431]Masashi - A Japanese Melee player from the pre-Brawl era once ranked 1st in Japan. Now only plays [432]Super Smash Bros. for Wii U as [433]Cloud.
+     * [434]USA  [435]PC Chris - One of the best Melee players in the pre-Brawl era. Mained [436]Falco, but had a very good Fox secondary.
+     * [437]Netherlands  [438]Remen - One of the best players in the Netherlands. Has switched to maining Falco.
+     * [439]USA  [440]Silent Wolf - The Northwest's best player. Ranked 20th on the [441]2016 SSBMRank.
+     * [442]Canada  [443]Weon-X - One of the best players in Canada.
+     * [444]Chile  [445]ZeRo - Best Chilean Fox main. Now mostly plays Super Smash Bros. for Wii U as [446]Diddy Kong, although he still shows interest in playing Melee competitively again, being active in the online scene.
+
+Tier placement and history[[447]edit]
+
+   Fox has been a top-tiered character, along with [448]Falco and [449]Sheik, since the very first Melee tier list, and has never fallen below third place. However, he was not at the top of the list for the first seven revisions, as Sheik was then considered to be the best character in the game. In the early metagame, although dedicated Fox professionals such as [450]Thunders and [451]Chillin showed early signs of great technical ability, they were considered far too inconsistent; many of the top players of that era, including [452]Ken and [453]Azen, used Fox only as a secondary for specific matchups, and only a few dedicated mains made any impact with him in serious tournament settings.
+
+   Eventually, more dedicated Fox mains, such as [454]PC Chris, [455]FASTLIKETREE, [456]KoreanDJ, and [457]Mew2King began to revitalize his metagame, incorporating much higher levels of technical skill that not many had seen before. These players began placing within the top 8 of [458]MLG-sponsored tournaments, and their consistency and dominance against the majority of other top professional players resulted in Sheik's dethroning from first to third place on the eighth revision of the tier list in July of 2006. Later that year, PC Chris and KoreanDJ placed 1st and 2nd, respectively, at the [459]MLG Las Vegas national championships, using Fox primarily in both sets of grand finals. This cemented Fox's position on the tier list, and since then, he has never fallen from the top spot.
+
+   Some smashers, however, are currently disputing Fox's standing on the tier list. Although Fox has one of the most developed metagames and the largest notable player base in Melee by far, his players are unable to win as many tournaments as professionals of characters below him, because he is one of the hardest characters to play consistently at the top level; even the best Fox professionals frequently lose in important tournament matches due to technical errors or missed reads. Additionally, the Fox matchup is almost universally known, making it extremely difficult for newer players to find tournament success with him. However, due to [460]Mango's victories at [461]EVO 2013, [462]MLG Anaheim 2014, and [463]EVO 2014 with almost only Fox, as well as his amazing raw potential, Fox's spot on the tier list is currently considered secure.
+
+   Recent trends in the metagame have seen a major increase in the usage of Fox; he is by far the most common character in doubles matches, and the most common character in singles matches as well. Many players who mained a lower-tiered character, most notably [464]Hax, have abandoned their former character in favor of using only Fox, and other players, such as [465]Armada, switch to Fox when they are having trouble against certain opponents. This overwhelming presence has lead to Fox being placed in his own tier at the top of the most recent tier list (much akin to [466]Pikachu in the previous iterations of the 64 tier list or [467]Meta Knight in Brawl). However, two of the "[468]gods" — [469]PPMD, who uses [470]Falco/[471]Marth, and [472]Hungrybox, who uses [473]Jigglypuff — have not recently used Fox against high-level opponents in tournaments.
+
+PAL viability[[474]edit]
+
+   Fox was nerfed in the PAL version of Melee. While his nerfs seem insignificant, they actually affect his matchups more than most other nerfed characters. The nerf to his up smash allows several characters to barely survive in that version where they would not have been able to in NTSC, forcing Fox mains to learn later KO percentages for it; at those percentages, however, some up smash setups are no longer guaranteed. Fox's nerfed recovery also weakens his off-stage game, as he can no longer travel as far off-stage to intercept enemies, and hinders his survivability, especially against characters who retain their edgeguarding ability, such as Sheik and Marth. The nerf to his weight exacerbates his decreased survivability, but as a positive note, allows him to escape combos more easily.
+
+   Fox's matchups against other top-tiered characters become slightly less advantageous in PAL. For example, many professionals believe that Falco wins against Fox overall, as Fox's nerfs allow Falco to survive much longer and KO Fox earlier, while Falco himself is not significantly hindered by his own PAL nerfs. Fox's matchup against Marth, in particular, is much harder, as he is no longer guaranteed a grab out of a [475]waveshine due to Marth's weight changes. Thus, Fox needs to work much harder for a grab setup, hindering his damage racking ability against equally skilled players. However, Marth retains his fantastic punish game against fastfallers and has a much easier time edgeguarding Fox due to his aforementioned recovery nerfs. Along with harder matchups against Peach and even Captain Falcon, some PAL professionals have vouched that Falco or Marth is the best in that particular version of Melee instead. Regardless, Fox still performs very well in PAL regions of Melee, and maintains
+   first place in his own tier on the most recent PAL tier list.
+
+   Fox players who travel to attend large tournaments, such as [476]Leffen, are forced to adjust to these changes in gameplay, which can be an obstacle when fighting in a foreign country or continent. A handful of these players own copies of both the PAL and NTSC versions of the game to allow practice before international tournaments, mainly to practice executing certain Fox-specific setups that are impossible in the PAL version but present in the NTSC version, or to practice accommodating for the lack of these setups with backup strategies.
+
+In [477]1-P Mode[[478]edit]
+
+[479]Classic Mode[[480]edit]
+
+   In Classic Mode, Fox can appear as an ordinary opponent, an ally or opponent in team battles, alongside [481]Falco, [482]Captain Falcon, [483]Donkey Kong or [484]Samus, or as a metal opponent. In Fox's appearances, he appears on [485]Corneria or [486]Venom as a regular opponent, and on [487]Battlefield as a metal opponent. In team battles, he appears on [488]Mute City with Captain Falcon, on [489]Kongo Jungle with Donkey Kong, and on [490]Brinstar with Samus.
+
+[491]Adventure Mode[[492]edit]
+
+   Fox appears on Stage 6 of the Adventure Mode on Corneria. In the first part of the stage, the player battles Fox, who will try and avoid the player. After defeating Fox once, the player will have to face him again, this time on offense donning his [493]red costume and featuring "trigger happy" Arwings, which fire at the stage considerably more often. Additionally, there is a chance that the player will fight [494]Falco instead of Fox, if the former is unlocked.
+
+[495]All-Star Mode[[496]edit]
+
+   Fox and his allies are fought on [497]Corneria.
+
+[498]Event Matches[[499]edit]
+
+   Fox is featured in the following event matches:
+     * [500]Event 13: Yoshi's Egg: As [501]Yoshi, the player must protect the [502]Yoshi's Egg item from harm for 55 seconds against a team of Fox, [503]Donkey Kong and [504]Pikachu on [505]Rainbow Cruise.
+     * [506]Event 20: All-Star Match 2: Fox is the last opponent to be fought in this series of staged battles. Their character battles him on the [507]Corneria stage. With a timer of four minutes, the player must defeat him along with [508]Samus, [509]Link, [510]Zelda, and [511]Captain Falcon.
+     * [512]Event 23: Slippy's Invention: The player chooses any character and must defeat Fox and [513]Falco, who are permanently under the effects of a [514]Cloaking Device, in a two-stock match on [515]Venom.
+     * [516]Event 36: Space Travelers: The player uses Ness and must defeat Samus, [517]Kirby, Fox, Captain Falcon, and Falco. The player battles the first three characters on [518]Fourside and battles the last two on [519]Battlefield.
+     * [520]Event 43: Birds of Prey: The player uses Fox and must defeat a team consisting of Falco and Captain Falcon in a two-stock match on [521]Big Blue.
+
+[522]Ending Images[[523]edit]
+
+     * Classic Mode
+     * Adventure Mode
+     * All-Star mode
+
+Trophy descriptions[[524]edit]
+
+   In addition to the normal trophy about Fox as a character, there are two trophies about him as a fighter, unlocked by completing both [525]Adventure and [526]All-Star modes respectively with Fox on any difficulty:
+
+          Fox
+          Fox McCloud is the leader of a band of adventurers-for-hire known as Star Fox. Fox and his fellow pilots Peppy, Slippy, and Falco patrol the Lylat system in their mother ship, the Great Fox. From the cockpit of his Arwing, Fox leads the ceaseless pursuit of the evil scientist Andross, who doomed Fox's father.
+
+          + [527]Star Fox 03/93
+
+          Fox [Smash]
+          Fox is among the quickest and nimblest of the Smash Bros. characters. His speed is offset by low firepower, however, and he's better at one-on-one fights than melees with multiple foes. His Blaster is unique: it does damage but it doesn't make enemies flinch. His Fox illusion is best used as a surprise attack.
+
+          + B: [528]Blaster
+          + Smash B: [529]Fox Illusion
+
+          Fox [Smash]
+          Fox falls quickly, so he's a tough target to strike from below; however, this advantage can work against him when he goes flying sideways. You can use the Control Stick to set the direction of the Fire Fox technique while it's charging up. On a side note, Fox is also much lighter than he was in the N64 Super Smash Bros. game.
+
+          + Up & B: [530]Fire Fox
+          + Down & B: [531]Reflector
+
+     * Classic
+     * [Smash]
+     * [Smash]
+
+[532]Alternate costumes[[533]edit]
+
+   [534]Fox Palette (SSBM).png
+   [535]FoxHeadSSBM.png [536]FoxHeadRedSSBM.png [537]FoxHeadBlueSSBM.png [538]FoxHeadGreenSSBM.png
+
+Gallery[[539]edit]
+
+     * Official artwork of Fox.
+     * Standing on a [540]ledge on [541]Kongo Jungle.
+     * Lying next to [542]Falco on [543]Corneria.
+     * Knocked back by [544]Captain Falcon's [545]Falcon Kick on Corneria.
+     * Posing with Falco on [546]Pokémon Stadium.
+     * Knocked back by [547]Mario's [548]neutral aerial on [549]Fountain of Dreams.
+     * [550]Taunting [551]Bowser on [552]Temple.
+     * [553]Stunned next to [554]Dr. Mario on [555]Princess Peach's Castle.
+     * Using [556]Blaster on [557]Donkey Kong on Corneria.
+     * Posing with Captain Falcon on [558]Final Destination.
+     * Using Blaster on [559]Ness on Pokémon Stadium.
+
+Trivia[[560]edit]
+
+     * Fox is one of the only characters in Melee that can do a wall infinite, along with [561]Ness, [562]Pikachu, [563]Link, and [564]Pichu.
+     * Fox is the only character to have completely lost his [565]forward and [566]back throws from [567]Super Smash Bros. to Melee. [568]Kirby and [569]Jigglypuff both gained new forward throws in Melee, but their former forward throws were moved to be their [570]up throws instead.
+     * Fox is the only character in Melee with two soft-damage yells.
+     * Fox is the only [571]veteran character to currently be placed first on the tier list. The other three characters who are currently first on the tier list are all newcomers in the game they hold the top position in.
+
+   [572]v • [573]d • [574]e
+   [575]Playable characters in [576]Super Smash Bros. Melee
+   [577]Veterans  [578]Captain Falcon · [579]Donkey Kong · Fox · [580]Jigglypuff · [581]Kirby · [582]Link · [583]Luigi · [584]Mario · [585]Ness · [586]Pikachu · [587]Samus · [588]Yoshi
+   [589]Newcomers [590]Bowser · [591]Dr. Mario · [592]Falco · [593]Ganondorf · [594]Ice Climbers · [595]Marth · [596]Mewtwo · [597]Mr. Game & Watch · [598]Peach · [599]Pichu · [600]Roy · [601]Young Link · [602]Zelda ([603]Sheik)
+   [604]v • [605]d • [606]e
+   Enemies in [607]Adventure Mode ([608]SSBM)
+   [609]Mushroom Kingdom  [610]Goomba · [611]Koopa Paratroopa · [612]Koopa Troopa · [613]Yoshi Team · [614]Mario · [615]Peach · [616]Luigi
+     [617]Kongo Jungle    [618]Tiny Donkey Kongs · [619]Giant DK
+   [620]Underground Maze  [621]Octorok · [622]ReDead · [623]Like Like · [624]Links · [625]Zelda/[626]Sheik
+       [627]Brinstar      [628]Samus
+     [629]Green Greens    [630]Kirby · [631]Kirby Team · [632]Giant Kirby
+       [633]Corneria      Fox · [634]Falco
+    [635]Pokémon Stadium  [636]Pikachu · [637]Jigglypuff · [638]Pichu
+   [639]F-Zero Grand Prix [640]Captain Falcon
+         [641]Onett       [642]Ness
+    [643]Icicle Mountain  [644]Topi · [645]Polar Bear · [646]Ice Climbers
+      [647]Battlefield    [648]Fighting Wire Frames · [649]Metal Mario · [650]Metal Luigi
+   [651]Final Destination [652]Giant Bowser · [653]Giga Bowser
+   [654]v • [655]d • [656]e
+   [657]StarFoxSymbol.svg [658]Star Fox universe
+                  [659]Characters                 [660]Fox ([661]SSB · SSBM · [662]SSBB · [663]SSB4 · [664]SSBU) · [665]Falco ([666]SSBM · [667]SSBB · [668]SSB4 · [669]SSBU) · [670]Wolf ([671]SSBB · [672]SSBU)
+                [673]Assist Trophies              [674]Andross · [675]Krystal
+                    [676]Stages                   [677]Sector Z · [678]Corneria · [679]Venom · [680]Lylat Cruise · [681]Orbital Gate Assault
+                     [682]Items                   [683]Smart Bomb
+                       Other                      [684]Leon Powalski · [685]Panther Caroso · [686]Peppy Hare · [687]ROB 64 · [688]Slippy Toad
+                      Vehicles                    [689]Arwing · [690]Great Fox · [691]Wolfen
+   [692]Trophies, [693]Stickers, and [694]Spirits [695]Trophies in Melee · [696]Trophies in Brawl · [697]Trophies in SSB4 · [698]Stickers in Brawl · [699]Spirits in Ultimate
+                       Music                      [700]Music in Brawl · [701]Music in SSB4 · [702]Music in Ultimate
+   Ads keep SmashWiki independent and free :)
+   Retrieved from "[703]https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&oldid=1171356"
+   [704]Categories:
+     * [705]Featured Articles
+     * [706]Characters (SSBM)
+     * [707]Star Fox universe
+     * [708]Fox (SSBM)
+     * [709]Trophies (SSBM)
+
+Navigation menu
+
+Views
+
+     * [710]Article
+     * [711]Discussion
+     * [712]Edit this page
+     * [713]History
+
+Personal tools
+
+     * Not logged in
+     * [714]Talk
+     * [715]Contributions
+     * [716]Create account
+     * [717]Log in
+
+Navigation
+
+     * [718]Main page
+     * [719]Smash Bros. Ultimate
+     * [720]Smash Bros. 4
+     * [721]Smash Bros. Brawl
+     * [722]Smash Bros. Melee
+     * [723]Smash Bros. (64)
+     * [724]Characters
+     * [725]Stages
+     * [726]Modes
+     * [727]Items
+     * [728]Random page
+
+Search
+
+   ____________________ Go  Search
+
+Participate
+
+     * [729]Forum
+     * [730]Community portal
+     * [731]Recent changes
+     * [732]Help
+     * [733]Admin noticeboard
+     * [734]Discord server
+     * [735]YouTube channel
+
+Tools
+
+     * [736]What links here
+     * [737]Related changes
+     * [738]Special pages
+     * [739]Printable version
+     * [740]Permanent link
+     * [741]Page information
+
+   [742]Attribution-Share Alike 3.0 Unported
+   [743]Powered by MediaWiki
+     * This page was last edited on 15 January 2019, at 15:31.
+     * Content is available under [744]Attribution-Share Alike 3.0 Unported unless otherwise noted.
+     * [745]Privacy policy
+     * [746]About SmashWiki
+     * [747]Disclaimers
+     * [748]Mobile view
+
+References
+
+   Visible links
+   1. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit
+   2. https://www.ssbwiki.com/opensearch_desc.php
+   3. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&feed=atom
+   4. https://www.ssbwiki.com/Fox_(SSBM)#column-one
+   5. https://www.ssbwiki.com/Fox_(SSBM)#searchInput
+   6. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+   7. https://www.ssbwiki.com/SmashWiki:Featured_content
+   8. https://www.ssbwiki.com/Fox_McCloud
+   9. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+  10. https://www.ssbwiki.com/File:Fox_SSBM.jpg
+  11. https://www.ssbwiki.com/File:StarFoxSymbol(preBrawl).svg
+  12. https://www.ssbwiki.com/Universe
+  13. https://www.ssbwiki.com/Star_Fox_(universe)
+  14. https://www.ssbwiki.com/Fox_(SSB)
+  15. https://www.ssbwiki.com/Fox_(SSBB)
+  16. https://www.ssbwiki.com/Fox_(SSB4)
+  17. https://www.ssbwiki.com/Fox_(SSBU)
+  18. https://www.ssbwiki.com/Starter_character
+  19. https://www.ssbwiki.com/Tier_list
+  20. https://www.ssbwiki.com/Fox_(SSBM)
+  21. https://www.ssbwiki.com/E3
+  22. https://www.ssbwiki.com/Starter_character
+  23. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+  24. https://www.ssbwiki.com/Tier_list
+  25. https://www.ssbwiki.com/Fire_Fox
+  26. https://www.ssbwiki.com/Fox_Illusion
+  27. https://www.ssbwiki.com/SHFFL
+  28. https://www.ssbwiki.com/Reflector_(Fox)
+  29. https://www.ssbwiki.com/Jump_cancel
+  30. https://www.ssbwiki.com/Shine_spike
+  31. https://www.ssbwiki.com/Wavedash
+  32. https://www.ssbwiki.com/DI
+  33. https://www.ssbwiki.com/Marth_(SSBM)
+  34. https://www.ssbwiki.com/Pikachu_(SSB)
+  35. https://www.ssbwiki.com/Falco_(SSBM)
+  36. https://www.ssbwiki.com/Meta_Knight_(SSBB)
+  37. https://www.ssbwiki.com/Falco_(SSBM)
+  38. https://www.ssbwiki.com/Marth_(SSBM)
+  39. https://www.ssbwiki.com/Samus_(SSBM)
+  40. https://www.ssbwiki.com/Fox_(SSBM)#Attributes
+  41. https://www.ssbwiki.com/Fox_(SSBM)#Changes_from_Smash_64_to_Melee
+  42. https://www.ssbwiki.com/Fox_(SSBM)#Aesthetics
+  43. https://www.ssbwiki.com/Fox_(SSBM)#Attributes_2
+  44. https://www.ssbwiki.com/Fox_(SSBM)#Ground_Attacks
+  45. https://www.ssbwiki.com/Fox_(SSBM)#Aerial_Attacks
+  46. https://www.ssbwiki.com/Fox_(SSBM)#Grabs_and_Throws
+  47. https://www.ssbwiki.com/Fox_(SSBM)#Special_Moves
+  48. https://www.ssbwiki.com/Fox_(SSBM)#PAL_differences
+  49. https://www.ssbwiki.com/Fox_(SSBM)#Moveset
+  50. https://www.ssbwiki.com/Fox_(SSBM)#Taunt
+  51. https://www.ssbwiki.com/Fox_(SSBM)#Idle_pose
+  52. https://www.ssbwiki.com/Fox_(SSBM)#Crowd_cheer
+  53. https://www.ssbwiki.com/Fox_(SSBM)#Victory_poses
+  54. https://www.ssbwiki.com/Fox_(SSBM)#In_competitive_play
+  55. https://www.ssbwiki.com/Fox_(SSBM)#Matchups
+  56. https://www.ssbwiki.com/Fox_(SSBM)#Notable_players
+  57. https://www.ssbwiki.com/Fox_(SSBM)#Active
+  58. https://www.ssbwiki.com/Fox_(SSBM)#Inactive
+  59. https://www.ssbwiki.com/Fox_(SSBM)#Tier_placement_and_history
+  60. https://www.ssbwiki.com/Fox_(SSBM)#PAL_viability
+  61. https://www.ssbwiki.com/Fox_(SSBM)#In_1-P_Mode
+  62. https://www.ssbwiki.com/Fox_(SSBM)#Classic_Mode
+  63. https://www.ssbwiki.com/Fox_(SSBM)#Adventure_Mode
+  64. https://www.ssbwiki.com/Fox_(SSBM)#All-Star_Mode
+  65. https://www.ssbwiki.com/Fox_(SSBM)#Event_Matches
+  66. https://www.ssbwiki.com/Fox_(SSBM)#Ending_Images
+  67. https://www.ssbwiki.com/Fox_(SSBM)#Trophy_descriptions
+  68. https://www.ssbwiki.com/Fox_(SSBM)#Alternate_costumes
+  69. https://www.ssbwiki.com/Fox_(SSBM)#Gallery
+  70. https://www.ssbwiki.com/Fox_(SSBM)#Trivia
+  71. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=1
+  72. https://www.ssbwiki.com/Dashing
+  73. https://www.ssbwiki.com/Air_speed
+  74. https://www.ssbwiki.com/Marth_(SSBM)
+  75. https://www.ssbwiki.com/Walking
+  76. https://www.ssbwiki.com/Falling_speed
+  77. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+  78. https://www.ssbwiki.com/Fast_falling
+  79. https://www.ssbwiki.com/Dash-dancing
+  80. https://www.ssbwiki.com/Traction
+  81. https://www.ssbwiki.com/Wavedash
+  82. https://www.ssbwiki.com/Approach
+  83. https://www.ssbwiki.com/SHFFL
+  84. https://www.ssbwiki.com/Reflector_(Fox)
+  85. https://www.ssbwiki.com/Infinite
+  86. https://www.ssbwiki.com/Waveshine_infinite
+  87. https://www.ssbwiki.com/Blaster_(Fox)
+  88. https://www.ssbwiki.com/Hitstun
+  89. https://www.ssbwiki.com/Short_hop
+  90. https://www.ssbwiki.com/Short_hop_laser
+  91. https://www.ssbwiki.com/Fox_(SSBM)/Neutral_aerial
+  92. https://www.ssbwiki.com/Fox_(SSBM)/Back_aerial
+  93. https://www.ssbwiki.com/Ending_lag
+  94. https://www.ssbwiki.com/Fox_(SSBM)/Up_smash
+  95. https://www.ssbwiki.com/Fox_(SSBM)/Up_aerial
+  96. https://www.ssbwiki.com/Hitbox
+  97. https://www.ssbwiki.com/Semi-spike
+  98. https://www.ssbwiki.com/Edgeguarding
+  99. https://www.ssbwiki.com/Gimp
+ 100. https://www.ssbwiki.com/Startup
+ 101. https://www.ssbwiki.com/Edge
+ 102. https://www.ssbwiki.com/Grab
+ 103. https://www.ssbwiki.com/Throw
+ 104. https://www.ssbwiki.com/Fox_(SSBM)/Up_throw
+ 105. https://www.ssbwiki.com/Chain_throw
+ 106. https://www.ssbwiki.com/Fast_faller
+ 107. https://www.ssbwiki.com/Shine_spike
+ 108. https://www.ssbwiki.com/Meteor_smash
+ 109. https://www.ssbwiki.com/DI
+ 110. https://www.ssbwiki.com/Marth_(SSBM)
+ 111. https://www.ssbwiki.com/Peach_(SSBM)
+ 112. https://www.ssbwiki.com/Final_Destination_(SSBM)
+ 113. https://www.ssbwiki.com/Recovery
+ 114. https://www.ssbwiki.com/Fire_Fox
+ 115. https://www.ssbwiki.com/Fox_Illusion
+ 116. https://www.ssbwiki.com/Wall_jump
+ 117. https://www.ssbwiki.com/Mario_(SSBM)
+ 118. https://www.ssbwiki.com/Cape
+ 119. https://www.ssbwiki.com/Falco_(SSBM)
+ 120. https://www.ssbwiki.com/Smash_64
+ 121. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=2
+ 122. https://www.ssbwiki.com/Wavedashing
+ 123. https://www.ssbwiki.com/Fox_Illusion
+ 124. https://www.ssbwiki.com/Reflector_(Fox)
+ 125. https://www.ssbwiki.com/Waveshining
+ 126. https://www.ssbwiki.com/Blaster
+ 127. https://www.ssbwiki.com/Camping
+ 128. https://www.ssbwiki.com/Gimp
+ 129. https://www.ssbwiki.com/Samus_(SSBM)
+ 130. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 131. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=3
+ 132. https://www.ssbwiki.com/Taunt
+ 133. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=4
+ 134. https://www.ssbwiki.com/Falling_speed
+ 135. https://www.ssbwiki.com/Approach
+ 136. https://www.ssbwiki.com/SHFFL
+ 137. https://www.ssbwiki.com/Air_speed
+ 138. https://www.ssbwiki.com/Short_hop
+ 139. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=5
+ 140. https://www.ssbwiki.com/IASA
+ 141. https://www.ssbwiki.com/DI
+ 142. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=6
+ 143. https://www.ssbwiki.com/Auto-cancel
+ 144. https://www.ssbwiki.com/Sweetspot
+ 145. https://www.ssbwiki.com/L-cancel
+ 146. https://www.ssbwiki.com/Stale_move_negation
+ 147. https://www.ssbwiki.com/Landing_lag
+ 148. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=7
+ 149. https://www.ssbwiki.com/Grab
+ 150. https://www.ssbwiki.com/Pummel
+ 151. https://www.ssbwiki.com/Up_throw
+ 152. https://www.ssbwiki.com/Down_throw
+ 153. https://www.ssbwiki.com/Tech-chasing
+ 154. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=8
+ 155. https://www.ssbwiki.com/Blaster_(Fox)
+ 156. https://www.ssbwiki.com/Hitstun
+ 157. https://www.ssbwiki.com/Fox_Illusion
+ 158. https://www.ssbwiki.com/Recovery
+ 159. https://www.ssbwiki.com/Fire_Fox
+ 160. https://www.ssbwiki.com/Edgehog
+ 161. https://www.ssbwiki.com/Reflector_(Fox)
+ 162. https://www.ssbwiki.com/Waveshining
+ 163. https://www.ssbwiki.com/Wavedrop
+ 164. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=9
+ 165. https://www.ssbwiki.com/PAL
+ 166. https://www.ssbwiki.com/PAL_tier_list
+ 167. https://www.ssbwiki.com/Weight
+ 168. https://www.ssbwiki.com/Kirby_(SSBM)
+ 169. https://www.ssbwiki.com/Falco_(SSBM)
+ 170. https://www.ssbwiki.com/DI
+ 171. https://www.ssbwiki.com/Fire_Fox
+ 172. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=10
+ 173. https://www.ssbwiki.com/Fox_(SSBM)/Hitboxes
+ 174. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)/Neutral_attack&action=edit&redlink=1
+ 175. https://www.ssbwiki.com/Jab_reset
+ 176. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)/Forward_tilt&action=edit&redlink=1
+ 177. https://www.ssbwiki.com/Spacing
+ 178. https://www.ssbwiki.com/Fox_(SSBM)/Up_tilt
+ 179. https://www.ssbwiki.com/Chain-grab
+ 180. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)/Down_tilt&action=edit&redlink=1
+ 181. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)/Dash_attack&action=edit&redlink=1
+ 182. https://www.ssbwiki.com/Crouch_canceling
+ 183. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)/Forward_smash&action=edit&redlink=1
+ 184. https://www.ssbwiki.com/Fox_(SSBM)/Up_smash
+ 185. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 186. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)/Down_smash&action=edit&redlink=1
+ 187. https://www.ssbwiki.com/Semi-spike
+ 188. https://www.ssbwiki.com/Edgeguarding
+ 189. https://www.ssbwiki.com/Fox_(SSBM)/Neutral_aerial
+ 190. https://www.ssbwiki.com/Sex_kick
+ 191. https://www.ssbwiki.com/Fox_(SSBM)/Forward_aerial
+ 192. https://www.ssbwiki.com/Fox_(SSBM)/Back_aerial
+ 193. https://www.ssbwiki.com/Fox_(SSBM)/Up_aerial
+ 194. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 195. https://www.ssbwiki.com/Kirby_(SSBM)
+ 196. https://www.ssbwiki.com/Fox_(SSBM)/Down_aerial
+ 197. https://www.ssbwiki.com/SHFFL
+ 198. https://www.ssbwiki.com/Spike
+ 199. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)/Grab&action=edit&redlink=1
+ 200. https://www.ssbwiki.com/Fox_(SSBM)/Pummel
+ 201. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)/Forward_throw&action=edit&redlink=1
+ 202. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)/Back_throw&action=edit&redlink=1
+ 203. https://www.ssbwiki.com/Fox_(SSBM)/Up_throw
+ 204. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)/Down_throw&action=edit&redlink=1
+ 205. https://www.ssbwiki.com/Meteor_smash
+ 206. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)/Floor_attack_(front)&action=edit&redlink=1
+ 207. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)/Floor_attack_(back)&action=edit&redlink=1
+ 208. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)/Edge_attack_(fast)&action=edit&redlink=1
+ 209. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)/Edge_attack_(slow)&action=edit&redlink=1
+ 210. https://www.ssbwiki.com/Fox_(SSBM)/Neutral_special
+ 211. https://www.ssbwiki.com/Blaster_(Fox)
+ 212. https://www.ssbwiki.com/Short_hop_laser
+ 213. https://www.ssbwiki.com/Priority#Transcendent_priority
+ 214. https://www.ssbwiki.com/Fox_(SSBM)/Side_special
+ 215. https://www.ssbwiki.com/Fox_Illusion
+ 216. https://www.ssbwiki.com/Fox_(SSBM)/Up_special
+ 217. https://www.ssbwiki.com/Fire_Fox
+ 218. https://www.ssbwiki.com/Control_stick
+ 219. https://www.ssbwiki.com/Fox_(SSBM)/Down_special
+ 220. https://www.ssbwiki.com/Reflector_(Fox)
+ 221. https://www.ssbwiki.com/Semi-spike
+ 222. https://www.ssbwiki.com/Edgeguarding
+ 223. https://www.ssbwiki.com/Waveshine
+ 224. https://www.ssbwiki.com/Taunt
+ 225. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=11
+ 226. https://www.ssbwiki.com/Star_Fox's_Conversations
+ 227. https://www.ssbwiki.com/Corneria
+ 228. https://www.ssbwiki.com/Venom
+ 229. https://www.ssbwiki.com/Control_pad
+ 230. https://www.ssbwiki.com/File:Fox-Taunt-SSBM.gif
+ 231. https://www.ssbwiki.com/File:Taunts-Melee-Fox-SmashTaunt.png
+ 232. https://www.ssbwiki.com/Idle_pose
+ 233. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=12
+ 234. https://www.ssbwiki.com/File:Fox_Idle_Pose_Melee.gif
+ 235. https://www.ssbwiki.com/Crowd_cheer
+ 236. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=13
+ 237. https://www.ssbwiki.com/File:Fox_Cheer_NTSC_Melee.ogg
+ 238. https://www.ssbwiki.com/File:Fox_Cheer_JP_Melee.ogg
+ 239. https://www.ssbwiki.com/Victory_pose
+ 240. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=14
+ 241. https://www.ssbwiki.com/Falco_(SSBM)
+ 242. https://www.ssbwiki.com/Super_Smash_Bros.
+ 243. https://www.ssbwiki.com/File:Fox-Victory1-SSBM.gif
+ 244. https://www.ssbwiki.com/File:Fox-Victory2-SSBM.gif
+ 245. https://www.ssbwiki.com/File:Fox-Victory3-SSBM.gif
+ 246. https://www.ssbwiki.com/Competitive_play
+ 247. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=15
+ 248. https://www.ssbwiki.com/Character_matchups_(SSBM)
+ 249. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=16
+ 250. https://www.ssbwiki.com/Character_matchup_(SSBM)
+ 251. https://www.ssbwiki.com/Fox_(SSBM)
+ 252. https://www.ssbwiki.com/Falco_(SSBM)
+ 253. https://www.ssbwiki.com/Marth_(SSBM)
+ 254. https://www.ssbwiki.com/Sheik_(SSBM)
+ 255. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 256. https://www.ssbwiki.com/Peach_(SSBM)
+ 257. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 258. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 259. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 260. https://www.ssbwiki.com/Samus_(SSBM)
+ 261. https://www.ssbwiki.com/Dr._Mario_(SSBM)
+ 262. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 263. https://www.ssbwiki.com/Luigi_(SSBM)
+ 264. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 265. https://www.ssbwiki.com/Mario_(SSBM)
+ 266. https://www.ssbwiki.com/Young_Link_(SSBM)
+ 267. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+ 268. https://www.ssbwiki.com/Link_(SSBM)
+ 269. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSBM)
+ 270. https://www.ssbwiki.com/Roy_(SSBM)
+ 271. https://www.ssbwiki.com/Mewtwo_(SSBM)
+ 272. https://www.ssbwiki.com/Zelda_(SSBM)
+ 273. https://www.ssbwiki.com/Ness_(SSBM)
+ 274. https://www.ssbwiki.com/Pichu_(SSBM)
+ 275. https://www.ssbwiki.com/Bowser_(SSBM)
+ 276. https://www.ssbwiki.com/Kirby_(SSBM)
+ 277. https://www.ssbwiki.com/Fox_(SSBM)
+ 278. https://www.ssbwiki.com/File:Matchup(M)7T.png
+ 279. https://www.ssbwiki.com/File:Matchup(0)7T.png
+ 280. https://www.ssbwiki.com/File:Matchup(0)7T.png
+ 281. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 282. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 283. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 284. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 285. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 286. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 287. https://www.ssbwiki.com/File:Matchup(0)7T.png
+ 288. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 289. https://www.ssbwiki.com/File:Matchup(+3)7T.png
+ 290. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 291. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 292. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 293. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 294. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 295. https://www.ssbwiki.com/File:Matchup(+3)7T.png
+ 296. https://www.ssbwiki.com/File:Matchup(+3)7T.png
+ 297. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 298. https://www.ssbwiki.com/File:Matchup(+3)7T.png
+ 299. https://www.ssbwiki.com/File:Matchup(+3)7T.png
+ 300. https://www.ssbwiki.com/File:Matchup(+3)7T.png
+ 301. https://www.ssbwiki.com/File:Matchup(+3)7T.png
+ 302. https://www.ssbwiki.com/File:Matchup(+3)7T.png
+ 303. https://www.ssbwiki.com/File:Matchup(+3)7T.png
+ 304. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 305. https://www.ssbwiki.com/Falco_(SSBM)
+ 306. https://www.ssbwiki.com/Soft_counter
+ 307. https://www.ssbwiki.com/Counter_(matchup)
+ 308. https://www.ssbwiki.com/Hard_counter
+ 309. https://www.ssbwiki.com/Sheik_(SSBM)
+ 310. https://www.ssbwiki.com/Combo
+ 311. https://www.ssbwiki.com/Shine
+ 312. https://www.ssbwiki.com/Waveshine_infinite
+ 313. https://www.ssbwiki.com/Falling_speed
+ 314. https://www.ssbwiki.com/Air_speed
+ 315. https://www.ssbwiki.com/Gimp
+ 316. https://www.ssbwiki.com/Edgeguard
+ 317. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 318. https://www.ssbwiki.com/Marth_(SSBM)
+ 319. https://www.ssbwiki.com/Chaingrab
+ 320. https://www.ssbwiki.com/Samus_(SSBM)
+ 321. https://www.ssbwiki.com/Marth_(SSBM)
+ 322. https://www.ssbwiki.com/TAS
+ 323. https://www.ssbwiki.com/Smasher:Mew2King
+ 324. https://www.ssbwiki.com/Smasher:Zain
+ 325. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=17
+ 326. https://www.ssbwiki.com/Category:Fox_professionals_(SSBM)
+ 327. https://www.ssbwiki.com/2017_SSBMRank
+ 328. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=18
+ 329. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 330. https://www.ssbwiki.com/Smasher:AbsentPage
+ 331. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 332. https://www.ssbwiki.com/Smasher:Alex19
+ 333. https://www.ssbwiki.com/File:Flag_of_Sweden.png
+ 334. https://www.ssbwiki.com/Smasher:Armada
+ 335. https://www.ssbwiki.com/Peach_(SSBM)
+ 336. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 337. https://www.ssbwiki.com/Smasher:Bobby_Frizz
+ 338. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 339. https://www.ssbwiki.com/Smasher:Cactuar
+ 340. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 341. https://www.ssbwiki.com/Smasher:Cal
+ 342. https://www.ssbwiki.com/Red_Bull_Smash_Gods_and_Gatekeepers
+ 343. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 344. https://www.ssbwiki.com/Smasher:Chillin
+ 345. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 346. https://www.ssbwiki.com/Smasher:Colbol
+ 347. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 348. https://www.ssbwiki.com/Smasher:Crush
+ 349. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 350. https://www.ssbwiki.com/Smasher:DJ_Nintendo
+ 351. https://www.ssbwiki.com/Bowser_(SSBM)
+ 352. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 353. https://www.ssbwiki.com/Smasher:Druggedfox
+ 354. https://www.ssbwiki.com/EVO_2016
+ 355. https://www.ssbwiki.com/Super_Smash_Con_2016
+ 356. https://www.ssbwiki.com/UGC_Smash_Open
+ 357. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 358. https://www.ssbwiki.com/Smasher:FatGoku
+ 359. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 360. https://www.ssbwiki.com/Smasher:Fiction
+ 361. https://www.ssbwiki.com/2014_SSBMRank
+ 362. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 363. https://www.ssbwiki.com/Smasher:Hax
+ 364. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 365. https://www.ssbwiki.com/Smasher:HomeMadeWaffles
+ 366. https://www.ssbwiki.com/File:Flag_of_Germany.png
+ 367. https://www.ssbwiki.com/Smasher:Ice
+ 368. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 369. https://www.ssbwiki.com/Smasher:Kels
+ 370. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 371. https://www.ssbwiki.com/Smasher:KJH
+ 372. https://www.ssbwiki.com/File:Flag_of_Sweden.png
+ 373. https://www.ssbwiki.com/Smasher:Leffen
+ 374. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 375. https://www.ssbwiki.com/Smasher:Lovage
+ 376. https://www.ssbwiki.com/Smasher:Leffen
+ 377. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 378. https://www.ssbwiki.com/Smasher:Lucky
+ 379. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 380. https://www.ssbwiki.com/Smasher:Mango
+ 381. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 382. https://www.ssbwiki.com/Smasher:Medz
+ 383. https://www.ssbwiki.com/Smasher:Axe
+ 384. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 385. https://www.ssbwiki.com/Smasher:Mew2King
+ 386. https://www.ssbwiki.com/Five_Gods
+ 387. https://www.ssbwiki.com/Marth_(SSBM)
+ 388. https://www.ssbwiki.com/Sheik_(SSBM)
+ 389. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 390. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 391. https://www.ssbwiki.com/Smasher:Mike_Haze
+ 392. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 393. https://www.ssbwiki.com/Smasher:MilkMan
+ 394. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 395. https://www.ssbwiki.com/Smasher:Plup
+ 396. https://www.ssbwiki.com/File:Flag_of_United_Kingdom.png
+ 397. https://www.ssbwiki.com/Smasher:Professor_Pro
+ 398. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 399. https://www.ssbwiki.com/Smasher:Redd
+ 400. https://www.ssbwiki.com/File:Flag_of_Japan.png
+ 401. https://www.ssbwiki.com/Smasher:Rudolph
+ 402. https://www.ssbwiki.com/2016_SSBMRank
+ 403. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 404. https://www.ssbwiki.com/Smasher:Ryan_Ford
+ 405. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 406. https://www.ssbwiki.com/Smasher:SFAT
+ 407. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 408. https://www.ssbwiki.com/Smasher:Slox
+ 409. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 410. https://www.ssbwiki.com/Smasher:Syrox
+ 411. https://www.ssbwiki.com/Eden
+ 412. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 413. https://www.ssbwiki.com/Smasher:Westballz
+ 414. https://www.ssbwiki.com/File:Flag_of_The_Netherlands.png
+ 415. https://www.ssbwiki.com/Smasher:Zgetto
+ 416. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=19
+ 417. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 418. https://www.ssbwiki.com/Smasher:CDK
+ 419. https://www.ssbwiki.com/File:Flag_of_United_Kingdom.png
+ 420. https://www.ssbwiki.com/Smasher:Fuzzyness
+ 421. https://www.ssbwiki.com/File:Flag_of_Mexico.png
+ 422. https://www.ssbwiki.com/Smasher:JAVI
+ 423. https://www.ssbwiki.com/Apex_2012
+ 424. https://www.ssbwiki.com/Smasher:PPMD
+ 425. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 426. https://www.ssbwiki.com/Smasher:Jman
+ 427. https://www.ssbwiki.com/Apex_2009
+ 428. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 429. https://www.ssbwiki.com/Smasher:KDJ
+ 430. https://www.ssbwiki.com/File:Flag_of_Japan.png
+ 431. https://www.ssbwiki.com/Smasher:Masashi
+ 432. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 433. https://www.ssbwiki.com/Cloud_(SSB4)
+ 434. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 435. https://www.ssbwiki.com/Smasher:PC_Chris
+ 436. https://www.ssbwiki.com/Falco_(SSBM)
+ 437. https://www.ssbwiki.com/File:Flag_of_The_Netherlands.png
+ 438. https://www.ssbwiki.com/Smasher:Remen
+ 439. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 440. https://www.ssbwiki.com/Smasher:Silent_Wolf
+ 441. https://www.ssbwiki.com/2016_SSBMRank
+ 442. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 443. https://www.ssbwiki.com/Smasher:Weon-X
+ 444. https://www.ssbwiki.com/File:Flag_of_Chile.png
+ 445. https://www.ssbwiki.com/Smasher:ZeRo
+ 446. https://www.ssbwiki.com/Diddy_Kong_(SSB4)
+ 447. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=20
+ 448. https://www.ssbwiki.com/Falco_(SSBM)
+ 449. https://www.ssbwiki.com/Sheik_(SSBM)
+ 450. https://www.ssbwiki.com/Smasher:Thunders
+ 451. https://www.ssbwiki.com/Smasher:Chillin
+ 452. https://www.ssbwiki.com/Smasher:Ken
+ 453. https://www.ssbwiki.com/Smasher:Azen
+ 454. https://www.ssbwiki.com/Smasher:PC_Chris
+ 455. https://www.ssbwiki.com/Smasher:FASTLIKETREE
+ 456. https://www.ssbwiki.com/Smasher:KoreanDJ
+ 457. https://www.ssbwiki.com/Smasher:Mew2King
+ 458. https://www.ssbwiki.com/Major_League_Gaming
+ 459. https://www.ssbwiki.com/MLG_Las_Vegas_2006
+ 460. https://www.ssbwiki.com/Smasher:Mango
+ 461. https://www.ssbwiki.com/EVO_2013
+ 462. https://www.ssbwiki.com/MLG_Anaheim_2014
+ 463. https://www.ssbwiki.com/EVO_2014
+ 464. https://www.ssbwiki.com/Smasher:Hax
+ 465. https://www.ssbwiki.com/Smasher:Armada
+ 466. https://www.ssbwiki.com/Pikachu_(SSB)
+ 467. https://www.ssbwiki.com/Meta_Knight_(SSBB)
+ 468. https://www.ssbwiki.com/The_Five_Gods
+ 469. https://www.ssbwiki.com/Smasher:PPMD
+ 470. https://www.ssbwiki.com/Falco_(SSBM)
+ 471. https://www.ssbwiki.com/Marth_(SSBM)
+ 472. https://www.ssbwiki.com/Smasher:Hungrybox
+ 473. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 474. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=21
+ 475. https://www.ssbwiki.com/Waveshine
+ 476. https://www.ssbwiki.com/Smasher:Leffen
+ 477. https://www.ssbwiki.com/Solo#1-P_Mode
+ 478. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=22
+ 479. https://www.ssbwiki.com/Classic_Mode_(SSBM)
+ 480. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=23
+ 481. https://www.ssbwiki.com/Falco_(SSBM)
+ 482. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 483. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+ 484. https://www.ssbwiki.com/Samus_(SSBM)
+ 485. https://www.ssbwiki.com/Corneria
+ 486. https://www.ssbwiki.com/Venom
+ 487. https://www.ssbwiki.com/Battlefield_(SSBM)
+ 488. https://www.ssbwiki.com/Mute_City_(SSBM)
+ 489. https://www.ssbwiki.com/Kongo_Jungle_(SSBM)
+ 490. https://www.ssbwiki.com/Brinstar
+ 491. https://www.ssbwiki.com/Adventure_Mode
+ 492. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=24
+ 493. https://www.ssbwiki.com/Alternate_costume_(SSBM)#Fox
+ 494. https://www.ssbwiki.com/Falco_(SSBM)
+ 495. https://www.ssbwiki.com/All-Star_Mode
+ 496. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=25
+ 497. https://www.ssbwiki.com/Corneria
+ 498. https://www.ssbwiki.com/Event_Matches
+ 499. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=26
+ 500. https://www.ssbwiki.com/Event_13:_Yoshi's_Egg
+ 501. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 502. https://www.ssbwiki.com/Yoshi's_Egg
+ 503. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+ 504. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 505. https://www.ssbwiki.com/Rainbow_Cruise
+ 506. https://www.ssbwiki.com/Event_20:_All-Star_Match_2
+ 507. https://www.ssbwiki.com/Corneria
+ 508. https://www.ssbwiki.com/Samus_(SSBM)
+ 509. https://www.ssbwiki.com/Link_(SSBM)
+ 510. https://www.ssbwiki.com/Zelda_(SSBM)
+ 511. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 512. https://www.ssbwiki.com/Event_23:_Slippy's_Invention
+ 513. https://www.ssbwiki.com/Falco_(SSBM)
+ 514. https://www.ssbwiki.com/Cloaking_Device
+ 515. https://www.ssbwiki.com/Venom
+ 516. https://www.ssbwiki.com/Event_36:_Space_Travelers
+ 517. https://www.ssbwiki.com/Kirby_(SSBB)
+ 518. https://www.ssbwiki.com/Fourside
+ 519. https://www.ssbwiki.com/Battlefield_(SSBM)
+ 520. https://www.ssbwiki.com/Event_43:_Birds_of_Prey
+ 521. https://www.ssbwiki.com/Big_Blue
+ 522. https://www.ssbwiki.com/Congratulations_screen#Super_Smash_Bros._Melee
+ 523. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=27
+ 524. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=28
+ 525. https://www.ssbwiki.com/Adventure_Mode
+ 526. https://www.ssbwiki.com/All-Star
+ 527. https://starfoxwiki.info/wiki/Star_Fox_(game)
+ 528. https://www.ssbwiki.com/Blaster
+ 529. https://www.ssbwiki.com/Fox_Illusion
+ 530. https://www.ssbwiki.com/Fire_Fox
+ 531. https://www.ssbwiki.com/Reflector
+ 532. https://www.ssbwiki.com/Alternate_costume_(SSBM)#Fox
+ 533. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=29
+ 534. https://www.ssbwiki.com/File:Fox_Palette_(SSBM).png
+ 535. https://www.ssbwiki.com/Fox_(SSBM)
+ 536. https://www.ssbwiki.com/Fox_(SSBM)
+ 537. https://www.ssbwiki.com/Fox_(SSBM)
+ 538. https://www.ssbwiki.com/Fox_(SSBM)
+ 539. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=30
+ 540. https://www.ssbwiki.com/Ledge
+ 541. https://www.ssbwiki.com/Kongo_Jungle_(SSBM)
+ 542. https://www.ssbwiki.com/Falco_(SSBM)
+ 543. https://www.ssbwiki.com/Corneria
+ 544. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 545. https://www.ssbwiki.com/Falcon_Kick
+ 546. https://www.ssbwiki.com/Pokémon_Stadium
+ 547. https://www.ssbwiki.com/Mario_(SSBM)
+ 548. https://www.ssbwiki.com/Neutral_aerial
+ 549. https://www.ssbwiki.com/Fountain_of_Dreams
+ 550. https://www.ssbwiki.com/Taunt
+ 551. https://www.ssbwiki.com/Bowser_(SSBM)
+ 552. https://www.ssbwiki.com/Temple
+ 553. https://www.ssbwiki.com/Stun
+ 554. https://www.ssbwiki.com/Dr._Mario_(SSBM)
+ 555. https://www.ssbwiki.com/Princess_Peach's_Castle
+ 556. https://www.ssbwiki.com/Blaster_(Fox)
+ 557. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+ 558. https://www.ssbwiki.com/Final_Destination_(SSBM)
+ 559. https://www.ssbwiki.com/Ness_(SSBM)
+ 560. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit&section=31
+ 561. https://www.ssbwiki.com/Ness_(SSBM)
+ 562. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 563. https://www.ssbwiki.com/Link_(SSBM)
+ 564. https://www.ssbwiki.com/Pichu_(SSBM)
+ 565. https://www.ssbwiki.com/Forward_throw
+ 566. https://www.ssbwiki.com/Back_throw
+ 567. https://www.ssbwiki.com/Super_Smash_Bros.
+ 568. https://www.ssbwiki.com/Kirby_(SSB)
+ 569. https://www.ssbwiki.com/Jigglypuff_(SSB)
+ 570. https://www.ssbwiki.com/Up_throw
+ 571. https://www.ssbwiki.com/Veteran
+ 572. https://www.ssbwiki.com/Template:SSBMCharacters
+ 573. https://www.ssbwiki.com/Template_talk:SSBMCharacters
+ 574. https://www.ssbwiki.com/index.php?title=Template:SSBMCharacters&action=edit
+ 575. https://www.ssbwiki.com/Characters
+ 576. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 577. https://www.ssbwiki.com/Veteran
+ 578. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 579. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+ 580. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 581. https://www.ssbwiki.com/Kirby_(SSBM)
+ 582. https://www.ssbwiki.com/Link_(SSBM)
+ 583. https://www.ssbwiki.com/Luigi_(SSBM)
+ 584. https://www.ssbwiki.com/Mario_(SSBM)
+ 585. https://www.ssbwiki.com/Ness_(SSBM)
+ 586. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 587. https://www.ssbwiki.com/Samus_(SSBM)
+ 588. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 589. https://www.ssbwiki.com/Newcomer
+ 590. https://www.ssbwiki.com/Bowser_(SSBM)
+ 591. https://www.ssbwiki.com/Dr._Mario_(SSBM)
+ 592. https://www.ssbwiki.com/Falco_(SSBM)
+ 593. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 594. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 595. https://www.ssbwiki.com/Marth_(SSBM)
+ 596. https://www.ssbwiki.com/Mewtwo_(SSBM)
+ 597. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSBM)
+ 598. https://www.ssbwiki.com/Peach_(SSBM)
+ 599. https://www.ssbwiki.com/Pichu_(SSBM)
+ 600. https://www.ssbwiki.com/Roy_(SSBM)
+ 601. https://www.ssbwiki.com/Young_Link_(SSBM)
+ 602. https://www.ssbwiki.com/Zelda_(SSBM)
+ 603. https://www.ssbwiki.com/Sheik_(SSBM)
+ 604. https://www.ssbwiki.com/Template:EnemiesAdvSSBM
+ 605. https://www.ssbwiki.com/Template_talk:EnemiesAdvSSBM
+ 606. https://www.ssbwiki.com/index.php?title=Template:EnemiesAdvSSBM&action=edit
+ 607. https://www.ssbwiki.com/Adventure_Mode
+ 608. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 609. https://www.ssbwiki.com/Mushroom_Kingdom_(Adventure_Mode)
+ 610. https://www.ssbwiki.com/Goomba
+ 611. https://www.ssbwiki.com/Koopa_Paratroopa
+ 612. https://www.ssbwiki.com/Koopa_Troopa
+ 613. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 614. https://www.ssbwiki.com/Mario_(SSBM)
+ 615. https://www.ssbwiki.com/Peach_(SSBM)
+ 616. https://www.ssbwiki.com/Luigi_(SSBM)
+ 617. https://www.ssbwiki.com/Kongo_Jungle_(SSBM)
+ 618. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+ 619. https://www.ssbwiki.com/Giant_DK
+ 620. https://www.ssbwiki.com/Underground_Maze
+ 621. https://www.ssbwiki.com/Octorok
+ 622. https://www.ssbwiki.com/ReDead
+ 623. https://www.ssbwiki.com/Like_Like
+ 624. https://www.ssbwiki.com/Link_(SSBM)
+ 625. https://www.ssbwiki.com/Zelda_(SSBM)
+ 626. https://www.ssbwiki.com/Sheik_(SSBM)
+ 627. https://www.ssbwiki.com/Brinstar
+ 628. https://www.ssbwiki.com/Samus_(SSBM)
+ 629. https://www.ssbwiki.com/Green_Greens
+ 630. https://www.ssbwiki.com/Kirby_(SSBM)
+ 631. https://www.ssbwiki.com/Copy_Abilities_(SSBM)
+ 632. https://www.ssbwiki.com/Giant_Kirby
+ 633. https://www.ssbwiki.com/Corneria
+ 634. https://www.ssbwiki.com/Falco_(SSBM)
+ 635. https://www.ssbwiki.com/Pokémon_Stadium
+ 636. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 637. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 638. https://www.ssbwiki.com/Pichu_(SSBM)
+ 639. https://www.ssbwiki.com/F-Zero_Grand_Prix
+ 640. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 641. https://www.ssbwiki.com/Onett
+ 642. https://www.ssbwiki.com/Ness_(SSBM)
+ 643. https://www.ssbwiki.com/Icicle_Mountain
+ 644. https://www.ssbwiki.com/Topi
+ 645. https://www.ssbwiki.com/Polar_Bear
+ 646. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 647. https://www.ssbwiki.com/Battlefield_(SSBM)
+ 648. https://www.ssbwiki.com/Fighting_Wire_Frames
+ 649. https://www.ssbwiki.com/Metal_Mario
+ 650. https://www.ssbwiki.com/Metal_Bros.#Metal_Luigi
+ 651. https://www.ssbwiki.com/Final_Destination_(SSBM)
+ 652. https://www.ssbwiki.com/Giant_Bowser
+ 653. https://www.ssbwiki.com/Giga_Bowser
+ 654. https://www.ssbwiki.com/Template:Star_Fox_universe
+ 655. https://www.ssbwiki.com/Template_talk:Star_Fox_universe
+ 656. https://www.ssbwiki.com/index.php?title=Template:Star_Fox_universe&action=edit
+ 657. https://www.ssbwiki.com/File:StarFoxSymbol.svg
+ 658. https://www.ssbwiki.com/Star_Fox_(universe)
+ 659. https://www.ssbwiki.com/Character
+ 660. https://www.ssbwiki.com/Fox
+ 661. https://www.ssbwiki.com/Fox_(SSB)
+ 662. https://www.ssbwiki.com/Fox_(SSBB)
+ 663. https://www.ssbwiki.com/Fox_(SSB4)
+ 664. https://www.ssbwiki.com/Fox_(SSBU)
+ 665. https://www.ssbwiki.com/Falco
+ 666. https://www.ssbwiki.com/Falco_(SSBM)
+ 667. https://www.ssbwiki.com/Falco_(SSBB)
+ 668. https://www.ssbwiki.com/Falco_(SSB4)
+ 669. https://www.ssbwiki.com/Falco_(SSBU)
+ 670. https://www.ssbwiki.com/Wolf
+ 671. https://www.ssbwiki.com/Wolf_(SSBB)
+ 672. https://www.ssbwiki.com/Wolf_(SSBU)
+ 673. https://www.ssbwiki.com/Assist_Trophies
+ 674. https://www.ssbwiki.com/Andross
+ 675. https://www.ssbwiki.com/Krystal
+ 676. https://www.ssbwiki.com/Stage
+ 677. https://www.ssbwiki.com/Sector_Z
+ 678. https://www.ssbwiki.com/Corneria
+ 679. https://www.ssbwiki.com/Venom
+ 680. https://www.ssbwiki.com/Lylat_Cruise
+ 681. https://www.ssbwiki.com/Orbital_Gate_Assault
+ 682. https://www.ssbwiki.com/Item
+ 683. https://www.ssbwiki.com/Smart_Bomb
+ 684. https://www.ssbwiki.com/Leon_Powalski
+ 685. https://www.ssbwiki.com/Panther_Caroso
+ 686. https://www.ssbwiki.com/Peppy_Hare
+ 687. https://www.ssbwiki.com/ROB_64
+ 688. https://www.ssbwiki.com/Slippy_Toad
+ 689. https://www.ssbwiki.com/Arwing
+ 690. https://www.ssbwiki.com/Great_Fox
+ 691. https://www.ssbwiki.com/Wolfen
+ 692. https://www.ssbwiki.com/Trophies
+ 693. https://www.ssbwiki.com/Sticker
+ 694. https://www.ssbwiki.com/Spirits_(characters)
+ 695. https://www.ssbwiki.com/List_of_SSBM_trophies_(Star_Fox_series)
+ 696. https://www.ssbwiki.com/List_of_SSBB_trophies_(Star_Fox_series)
+ 697. https://www.ssbwiki.com/List_of_SSB4_trophies_(Star_Fox_series)
+ 698. https://www.ssbwiki.com/List_of_stickers_(Star_Fox_series)
+ 699. https://www.ssbwiki.com/List_of_spirits_(Star_Fox_series)
+ 700. https://www.ssbwiki.com/List_of_SSBB_Music_(Star_Fox_series)
+ 701. https://www.ssbwiki.com/List_of_SSB4_Music_(Star_Fox_series)
+ 702. https://www.ssbwiki.com/List_of_SSBU_Music_(Star_Fox_series)
+ 703. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&oldid=1171356
+ 704. https://www.ssbwiki.com/Special:Categories
+ 705. https://www.ssbwiki.com/Category:Featured_Articles
+ 706. https://www.ssbwiki.com/Category:Characters_(SSBM)
+ 707. https://www.ssbwiki.com/Category:Star_Fox_universe
+ 708. https://www.ssbwiki.com/Category:Fox_(SSBM)
+ 709. https://www.ssbwiki.com/Category:Trophies_(SSBM)
+ 710. https://www.ssbwiki.com/Fox_(SSBM)
+ 711. https://www.ssbwiki.com/Talk:Fox_(SSBM)
+ 712. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=edit
+ 713. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=history
+ 714. https://www.ssbwiki.com/Special:MyTalk
+ 715. https://www.ssbwiki.com/Special:MyContributions
+ 716. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=Fox+(SSBM)
+ 717. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=Fox+(SSBM)
+ 718. https://www.ssbwiki.com/Main_Page
+ 719. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 720. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 721. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 722. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 723. https://www.ssbwiki.com/Super_Smash_Bros.
+ 724. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+ 725. https://www.ssbwiki.com/Stage
+ 726. https://www.ssbwiki.com/Mode
+ 727. https://www.ssbwiki.com/Item
+ 728. https://www.ssbwiki.com/Special:Random
+ 729. https://www.ssbwiki.com/Forum:Index
+ 730. https://www.ssbwiki.com/SmashWiki:Community_portal
+ 731. https://www.ssbwiki.com/Special:RecentChanges
+ 732. https://www.ssbwiki.com/Help:Contents
+ 733. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
+ 734. https://www.ssbwiki.com/SmashWiki:Discord_server
+ 735. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
+ 736. https://www.ssbwiki.com/Special:WhatLinksHere/Fox_(SSBM)
+ 737. https://www.ssbwiki.com/Special:RecentChangesLinked/Fox_(SSBM)
+ 738. https://www.ssbwiki.com/Special:SpecialPages
+ 739. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&printable=yes
+ 740. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&oldid=1171356
+ 741. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&action=info
+ 742. https://creativecommons.org/licenses/by-sa/3.0/
+ 743. https://www.mediawiki.org/
+ 744. https://creativecommons.org/licenses/by-sa/3.0/
+ 745. https://www.porplemontage.com/privacy
+ 746. https://www.ssbwiki.com/SmashWiki:About
+ 747. https://www.ssbwiki.com/SmashWiki:General_disclaimer
+ 748. https://www.ssbwiki.com/index.php?title=Fox_(SSBM)&mobileaction=toggle_view_mobile
+
+   Hidden links:
+ 750. https://www.ssbwiki.com/File:FoxAerialAttacksSSBM.png
+ 751. https://www.ssbwiki.com/File:FoxAerialAttacksSSBM.png
+ 752. https://www.ssbwiki.com/File:StarFoxThemeMelee.ogg
+ 753. https://www.ssbwiki.com/File:StarFoxThemeMelee.ogg
+ 754. https://www.ssbwiki.com/File:FoxClassicMode.jpg
+ 755. https://www.ssbwiki.com/File:FoxAdventureMode.jpg
+ 756. https://www.ssbwiki.com/File:FoxAllStarMode.jpg
+ 757. https://www.ssbwiki.com/File:Fox_Trophy_Melee.png
+ 758. https://www.ssbwiki.com/File:Fox_Trophy_(Smash).png
+ 759. https://www.ssbwiki.com/File:Fox_Trophy_(Smash_2).png
+ 760. https://www.ssbwiki.com/File:SSBM_Fox_HQ.jpg
+ 761. https://www.ssbwiki.com/File:PeachClassicMode.jpg
+ 762. https://www.ssbwiki.com/File:FalcoClassicMode.jpg
+ 763. https://www.ssbwiki.com/File:CaptainFalconClassicMode.jpg
+ 764. https://www.ssbwiki.com/File:FalcoAdventureMode.jpg
+ 765. https://www.ssbwiki.com/File:MarioAllStarMode.jpg
+ 766. https://www.ssbwiki.com/File:BowserAllStarMode.jpg
+ 767. https://www.ssbwiki.com/File:DrMarioAllStarMode.jpg
+ 768. https://www.ssbwiki.com/File:DonkeyKongAllStarMode.jpg
+ 769. https://www.ssbwiki.com/File:CaptainFalconAllStarMode.jpg
+ 770. https://www.ssbwiki.com/File:NessAllStarMode.jpg
+ 771. https://www.ssbwiki.com/Main_Page

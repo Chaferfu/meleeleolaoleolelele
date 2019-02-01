@@ -1,0 +1,2265 @@
+   #[1]Edit this page [2]SmashWiki (en) [3]SmashWiki Atom feed
+
+Super Smash Bros. Ultimate
+
+   From SmashWiki, the Super Smash Bros. wiki
+   Jump to:[4]navigation, [5]search
+   [6]SSBU Icon.png [7]This is a featured article. Click for more information.
+
+          "SSBU" redirects here. For the Wii U version of [8]Super Smash Bros. 4, see [9]Super Smash Bros. for Wii U.
+
+   Super Smash Bros. Ultimate
+   [10]Super Smash Bros Ultimate Box Art.png
+   North American box art.
+   [11]Developer(s) [12]Bandai Namco
+   [13]Sora Ltd.
+   [14]Publisher(s) [15]Nintendo
+   [16]Designer(s) [17]Masahiro Sakurai
+   Released December 7, 2018
+   [18]Genre(s) [19]Fighting
+   [20]Platforming
+   [21]Ratings CERO: A
+   ESRB: E10+^[22][1]
+   OFLC: PG
+   PEGI: 12
+   USK: 12
+   Media ROM Cartridge
+   Digital distribution (Nintendo eShop)
+   Input methods [23]Joy-Con, [24]Nintendo Switch Pro Controller, [25]GameCube controller (via adapter)
+
+   Super Smash Bros. Ultimate (大乱闘スマッシュブラザーズ SPECIAL, Great Fray Smash Brothers Special) is a fighting game for the [26]Nintendo Switch. It was first teased on March 8th, 2018 at the end of the [27]Nintendo Direct released the same day, and fully revealed on June 12th at E3 2018. It is the fifth installment in the [28]Super Smash Bros. series (sixth if both versions of [29]Super Smash Bros. 4 are counted as two games). The game was released worldwide on December 7th, 2018.
+
+   Ultimate has received universal acclaim, with several critics calling it the best installment in the series. They praised its large amount of content and fine-tuning of existing Smash gameplay elements, although its online mode received criticism. It was estimated that the game sold over 5 million copies worldwide within three days of release, making it the fastest selling Switch game. The game has sold 12.08 million units as of December 31, 2018.
+
+Contents
+
+     * [30]1 Opening movie
+     * [31]2 Characters
+          + [32]2.1 Bosses
+     * [33]3 Stages
+     * [34]4 New Items
+     * [35]5 Development
+          + [36]5.1 Reveal and promotion
+     * [37]6 Changes from SSB4
+          + [38]6.1 Menu and UI changes
+          + [39]6.2 Gameplay changes
+          + [40]6.3 Mobility changes
+          + [41]6.4 Attack changes
+          + [42]6.5 Aesthetic changes
+          + [43]6.6 Item changes
+     * [44]7 Gallery
+          + [45]7.1 Miscellaneous
+          + [46]7.2 Characters
+               o [47]7.2.1 Artwork
+               o [48]7.2.2 Splash Art
+     * [49]8 Trivia
+     * [50]9 References
+     * [51]10 External links
+
+Opening movie[[52]edit]
+
+   The [53]opening movie of Super Smash Bros. Ultimate is composed of the cutscenes from [54]World of Light and gameplay footage from the game, featuring all the characters in the game barring DLC.
+
+   IFRAME: [55]https://www.youtube.com/embed/yA-oD5hen4I?
+
+Characters[[56]edit]
+
+   The [57]character selection screen of Super Smash Bros. Ultimate (with all non-DLC characters unlocked).
+
+   All 63 characters (65 if counting the [58]Pokémon Trainer's Pokémon) from all previous Smash Bros. games return as playable characters. As well as the returning cast, the game also features 11 newcomers in the base game, with at least six characters (two known and four unknown) planned as [59]downloadable content. In total, this ensures that at least 74 characters (76 if counting the Pokémon Trainer's Pokémon) are playable in the game at launch and 80 (82) characters are playable overall, the most for any Smash Bros. game. Each character is numbered in the order from when they first joined the series, with the exception of echo fighters (who share a number with the character they are based on) and [60]Pokémon Trainer (whose Pokémon are numbered instead).
+
+   [61]Inkling, with various Girl and Boy designs from the original [62]Splatoon, was the first character confirmed to appear in the game as a playable character. [63]Ridley, a central villain from the [64]Metroid series, was also confirmed to be playable, with [65]Meta Ridley as an alternate costume. [66]Simon of the [67]Castlevania series was announced as the game's first third-party newcomer. [68]King K. Rool, arch-enemy of Donkey Kong and Diddy Kong from the [69]Donkey Kong series, was confirmed to be a playable newcomer as well, with his move-set drawing on his appearances as a boss in the Donkey Kong Country games onward. [70]Isabelle from the [71]Animal Crossing series, who previously appeared in Smash 4 as an [72]Assist Trophy, makes her playable debut as the second Animal Crossing representative. Finally, in the November Direct, [73]Incineroar from [74]Pokémon Sun & Moon was announced as the title's last base roster newcomer.
+
+   In addition, playable [75]clone characters are now described as "Echo Fighters" and are marked with an epsilon symbol (ε). Returning characters [76]Lucina and [77]Dark Pit have been given this title, while new characters [78]Daisy, [79]Richter, [80]Dark Samus, [81]Chrom, and [82]Ken are Echo Fighters of [83]Peach, [84]Simon, [85]Samus, [86]Roy, and [87]Ryu, respectively. Aside from an option allowing these characters to be stacked onto their counterpart on the [88]character select screen exclusively during [89]Vs. Mode, [90]Tourney, [91]Special Smash(outside of [92]Smashdown), [93]Mob Smash, and Online modes; they are treated just like any other character.
+
+   [94]Piranha Plant from the [95]Mario series touches new ground as the first mob character in Smash, and was announced as the game's first DLC character. It has been confirmed that five more unique newcomers will be added as DLC by February of 2020, with [96]Persona's [97]Joker being the first revealed DLC fighter of the five. The other four fighters are currently unknown. With the exception of Piranha Plant, all of the DLC characters can be bought together as part of the [98]Fighter Pass.
+
+   As was the case in [99]Super Smash Bros. 4, a further eight "characters" exist as alternate costumes for other preexisting characters. Specifically, [100]Alph as a palette swap of [101]Olimar, and each of the seven [102]Koopalings as palette swaps of [103]Bowser Jr.
+
+   Only the starting characters from the first game are available from the start. Like in Smash 4, the [104]Mii Fighters are also available via customization. The rest of the roster must be unlocked, however the unlocking process and conditions are comparatively quick and easy than before: requiring players to simply play enough VS. matches or clear classic mode with the fighters.
+                                                                              Veterans (65)
+   [105]Mario SSBU.png
+   [106]Mario
+   [107]MarioSymbol.svg [108]Luigi SSBU.png
+   [109]Luigi
+   [110]MarioSymbol.svg [111]Peach SSBU.png
+   [112]Peach
+   [113]MarioSymbol.svg [114]Bowser SSBU.png
+   [115]Bowser
+   [116]MarioSymbol.svg [117]Dr. Mario SSBU.png
+   [118]Dr. Mario
+   [119]MarioSymbol.svg [120]Rosalina & Luma SSBU.png
+   [121]Rosalina & Luma
+   [122]MarioSymbol.svg [123]Bowser Jr. SSBU.png
+   [124]Bowser Jr.
+   [125]MarioSymbol.svg [126]Yoshi SSBU.png
+   [127]Yoshi
+   [128]YoshiSymbol.svg
+   [129]Donkey Kong SSBU.png
+   [130]Donkey Kong
+   [131]DKSymbol.svg [132]Diddy Kong SSBU.png
+   [133]Diddy Kong
+   [134]DKSymbol.svg [135]Link SSBU.png
+   [136]Link
+   [137]ZeldaSymbol.svg [138]Zelda SSBU.png
+   [139]Zelda
+   [140]ZeldaSymbol.svg [141]Sheik SSBU.png
+   [142]Sheik
+   [143]ZeldaSymbol.svg [144]Ganondorf SSBU.png
+   [145]Ganondorf
+   [146]ZeldaSymbol.svg [147]Young Link SSBU.png
+   [148]Young Link
+   [149]ZeldaSymbol.svg [150]Toon Link SSBU.png
+   [151]Toon Link
+   [152]ZeldaSymbol.svg
+   [153]Samus SSBU.png
+   [154]Samus
+   [155]MetroidSymbol.svg [156]Zero Suit Samus SSBU.png
+   [157]Zero Suit Samus
+   [158]MetroidSymbol.svg [159]Kirby SSBU.png
+   [160]Kirby
+   [161]KirbySymbol.svg [162]Meta Knight SSBU.png
+   [163]Meta Knight
+   [164]KirbySymbol.svg [165]King Dedede SSBU.png
+   [166]King Dedede
+   [167]KirbySymbol.svg [168]Fox SSBU.png
+   [169]Fox
+   [170]StarFoxSymbol.svg [171]Falco SSBU.png
+   [172]Falco
+   [173]StarFoxSymbol.svg [174]Wolf SSBU.png
+   [175]Wolf
+   [176]StarFoxSymbol.svg
+   [177]Pikachu SSBU.png
+   [178]Pikachu
+   [179]PokemonSymbol.svg [180]Jigglypuff SSBU.png
+   [181]Jigglypuff
+   [182]PokemonSymbol.svg [183]Mewtwo SSBU.png
+   [184]Mewtwo
+   [185]PokemonSymbol.svg [186]Pichu SSBU.png
+   [187]Pichu
+   [188]PokemonSymbol.svg [189]Pokémon Trainer (solo) SSBU.png [190]Squirtle SSBU.png [191]Ivysaur SSBU.png [192]Charizard SSBU.png
+   [193]Pokémon Trainer ([194]Squirtle, [195]Ivysaur, [196]Charizard)
+   [197]PokemonSymbol.svg
+   [198]Lucario SSBU.png
+   [199]Lucario
+   [200]PokemonSymbol.svg [201]Greninja SSBU.png
+   [202]Greninja
+   [203]PokemonSymbol.svg [204]Captain Falcon SSBU.png
+   [205]Captain Falcon
+   [206]FZeroSymbol.svg [207]Ness SSBU.png
+   [208]Ness
+   [209]EarthboundSymbol.svg [210]Lucas SSBU.png
+   [211]Lucas
+   [212]EarthboundSymbol.svg [213]Ice Climbers SSBU.png
+   [214]Ice Climbers
+   [215]IceClimberSymbol.svg [216]Marth SSBU.png
+   [217]Marth
+   [218]FireEmblemSymbol.svg [219]Roy SSBU.png
+   [220]Roy
+   [221]FireEmblemSymbol.svg
+   [222]Ike SSBU.png
+   [223]Ike
+   [224]FireEmblemSymbol.svg [225]Lucina SSBU.png
+   [226]Lucina^ε
+   [227]FireEmblemSymbol.svg [228]Robin SSBU.png
+   [229]Robin
+   [230]FireEmblemSymbol.svg [231]Corrin SSBU.png
+   [232]Corrin
+   [233]FireEmblemSymbol.svg [234]Mr. Game & Watch SSBU.png
+   [235]Mr. Game & Watch
+   [236]Game&WatchSymbol.svg [237]Pit SSBU.png
+   [238]Pit
+   [239]KidIcarusSymbol.svg [240]Palutena SSBU.png
+   [241]Palutena
+   [242]KidIcarusSymbol.svg [243]Dark Pit SSBU.png
+   [244]Dark Pit^ε
+   [245]KidIcarusSymbol.svg
+   [246]Wario SSBU.png
+   [247]Wario
+   [248]WarioSymbol.svg [249]Olimar SSBU.png
+   [250]Olimar
+   [251]PikminSymbol.svg [252]R.O.B. (JPN) SSBU.png
+   [253]R.O.B.
+   [254]ROBSymbol.svg [255]Villager SSBU.png
+   [256]Villager
+   [257]AnimalCrossingSymbol.svg [258]Little Mac SSBU.png
+   [259]Little Mac
+   [260]PunchOutSymbol.svg [261]Wii Fit Trainer SSBU.png
+   [262]Wii Fit Trainer
+   [263]WiiFitSymbol.svg [264]Shulk SSBU.png
+   [265]Shulk
+   [266]XenobladeSymbol.svg [267]Duck Hunt SSBU.png
+   [268]Duck Hunt
+   [269]DuckHuntSymbol.svg
+   [270]Snake SSBU.png
+   [271]Snake
+   [272]MetalGearSymbol.svg [273]Sonic SSBU.png
+   [274]Sonic
+   [275]SonicSymbol.svg [276]Mega Man SSBU.png
+   [277]Mega Man
+   [278]MegaManSymbol.svg [279]Pac-Man SSBU.png
+   [280]Pac-Man
+   [281]PacManSymbol.svg [282]Ryu SSBU.png
+   [283]Ryu
+   [284]StreetFighterSymbol.svg [285]Cloud SSBU.png
+   [286]Cloud
+   [287]FinalFantasySymbol.svg [288]Bayonetta SSBU.png
+   [289]Bayonetta
+   [290]BayonettaSymbol.svg
+   [291]Mii Brawler SSBU.png
+   [292]Mii Brawler
+   [293]SmashBrosSymbol.svg [294]Mii Swordfighter SSBU.png
+   [295]Mii Swordfighter
+   [296]SmashBrosSymbol.svg [297]Mii Gunner SSBU.png
+   [298]Mii Gunner
+   [299]SmashBrosSymbol.svg
+                                                                              Newcomers (17)
+   [300]Daisy SSBU.png
+   [301]Daisy^ε
+   [302]MarioSymbol.svg [303]Piranha Plant SSBU.png
+   [304]Piranha Plant (DLC)
+   [305]MarioSymbol.svg [306]King K. Rool SSBU.png
+   [307]King K. Rool
+   [308]DKSymbol.svg [309]Ridley SSBU.png
+   [310]Ridley
+   [311]MetroidSymbol.svg [312]Dark Samus SSBU.png
+   [313]Dark Samus^ε
+   [314]MetroidSymbol.svg [315]Incineroar SSBU.png
+   [316]Incineroar
+   [317]PokemonSymbol.svg [318]Chrom SSBU.png
+   [319]Chrom^ε
+   [320]FireEmblemSymbol.svg [321]Isabelle SSBU.png
+   [322]Isabelle
+   [323]AnimalCrossingSymbol.svg
+   [324]Inkling SSBU.png
+   [325]Inkling
+   [326]SplatoonSymbol.svg [327]Ken SSBU.png
+   [328]Ken^ε
+   [329]StreetFighterSymbol.svg [330]Simon SSBU.png
+   [331]Simon
+   [332]CastlevaniaSymbol.svg [333]Richter SSBU.png
+   [334]Richter^ε
+   [335]CastlevaniaSymbol.svg [336]Joker artwork.png
+   [337]Joker (DLC)
+   [338]SpecialStagesSymbol.svg
+
+   Bold denotes [339]starter characters.
+   ^"ε" denotes [340]Echo Fighters.
+
+Bosses[[341]edit]
+
+                                                         Light Realm bosses
+   [342]Galeem SSBU.png
+   [343]Galeem
+   [344]WorldOfLightSymbol.svg [345]Master Hand SSBU.png
+   [346]Master Hand
+   [347]SmashBrosSymbol.svg [348]Giga Bowser SSBU.png
+   [349]Giga Bowser
+   [350]SmashBrosSymbol.svg [351]Galleom SSBU.png
+   [352]Galleom
+   [353]SubspaceSymbol.svg [354]Rathalos SSBU.png
+   [355]Rathalos
+   [356]OtherSymbol.svg
+                                                          Dark Realm bosses
+   [357]DharkonSpirit.png
+   [358]Dharkon
+   [359]WorldOfLightSymbol.svg [360]Crazy Hand SSBU.png
+   [361]Crazy Hand
+   [362]SmashBrosSymbol.svg [363]Marx.png
+   [364]Marx
+   [365]KirbySymbol.svg [366]Ganon SSBU.png
+   [367]Ganon
+   [368]ZeldaSymbol.svg [369]Dracula Phase 1 SSBU.png
+   [370]Dracula
+   [371]CastlevaniaSymbol.svg
+                                                            Stage bosses
+   [372]MetalFaceTrophyAsset (Without Base).png
+   [373]Metal Face
+   [374]XenobladeSymbol.svg [375]YellowDevilPortrait.png
+   [376]Yellow Devil
+   [377]MegaManSymbol.svg [378]Dark emperor.png
+   [379]Dark Emperor
+   [380]FindMiiSymbol.svg
+
+   All Light Realm and Dark Realm bosses, except for Galeem and Dharkon, are also featured as Classic Mode bosses.
+
+Stages[[381]edit]
+
+   With the exception of the Super Smash Bros.-original stages, all stages are ordered in chronological appearance and for the first time ever, all stages are available immediately from the start. Additionally, all stages can be played with up to 8 players, rather than just a select few as in SSB4. All stages have both a [382]Battlefield form and [383]Ω form. Ultimate currently features 103 stages (305 if including Battlefield forms and Ω forms). An additional five planned stages will be added to the game via downloadable content, which will bring the number of stages up to 108 (320 if including Battlefield forms and Ω forms).
+
+   Currently, only 15 stages featured in previous games are not available in Ultimate (not including either single player-only stages and previous forms of Battlefield and Final Destination). The list can be seen [384]here.
+                                                      New stages (7)
+   [385]SSBU-Battlefield.png
+   [386]Battlefield
+   [387]SmashBrosSymbol.svg [388]SSBU-Big Battlefield.png
+   [389]Big Battlefield
+   [390]SmashBrosSymbol.svg [391]SSBU-Final Destination.jpg
+   [392]Final Destination
+   [393]SmashBrosSymbol.svg
+   [394]SSBU-New Donk City Hall.jpg
+   [395]New Donk City Hall
+   [396]MarioSymbol.svg [397]SSBU-Great Plateau Tower.jpg
+   [398]Great Plateau Tower
+   [399]ZeldaSymbol.svg [400]SSBU-Moray Towers.png
+   [401]Moray Towers
+   [402]SplatoonSymbol.svg [403]SSBU-Dracula's Castle.png
+   [404]Dracula's Castle
+   [405]CastlevaniaSymbol.svg
+                                                  Returning stages (96)
+   [406]SSBU-Peach's Castle.png
+   [407]Super Smash Bros. [408]Peach's Castle
+   [409]MarioSymbol.svg [410]SSBU-Mushroom Kingdom (SSB).png
+   [411]Super Smash Bros. [412]Mushroom Kingdom
+   [413]MarioSymbol.svg [414]SSBU-Princess Peach's Castle.png
+   [415]Super Smash Bros. Melee [416]Princess Peach's Castle
+   [417]MarioSymbol.svg [418]SSBU-Rainbow Cruise.png
+   [419]Super Smash Bros. Melee [420]Rainbow Cruise
+   [421]MarioSymbol.svg [422]SSBU-Mushroom Kingdom II.png
+   [423]Super Smash Bros. Melee [424]Mushroom Kingdom II
+   [425]MarioSymbol.svg [426]SSBU-Delfino Plaza.jpg
+   [427]Super Smash Bros. Brawl [428]Delfino Plaza
+   [429]MarioSymbol.svg
+   [430]SSBU-Luigi's Mansion.png
+   [431]Super Smash Bros. Brawl [432]Luigi's Mansion
+   [433]MarioSymbol.svg [434]SSBU-Mushroomy Kingdom.png
+   [435]Super Smash Bros. Brawl [436]Mushroomy Kingdom
+   [437]MarioSymbol.svg [438]SSBU-Mario Circuit (SSBB).png
+   [439]Super Smash Bros. Brawl [440]Figure-8 Circuit
+   [441]MarioSymbol.svg [442]SSBU-Mario Bros.png
+   [443]Super Smash Bros. Brawl [444]Mario Bros.
+   [445]MarioSymbol.svg [446]SSBU-3D Land.png
+   [447]Super Smash Bros. for Nintendo 3DS [448]3D Land
+   [449]MarioSymbol.svg [450]SSBU-Golden Plains.png
+   [451]Super Smash Bros. for Nintendo 3DS [452]Golden Plains
+   [453]MarioSymbol.svg
+   [454]SSBU-Paper Mario.png
+   [455]Super Smash Bros. for Nintendo 3DS [456]Paper Mario
+   [457]MarioSymbol.svg [458]SSBU-Mushroom Kingdom U.png
+   [459]Super Smash Bros. for Wii U [460]Mushroom Kingdom U
+   [461]MarioSymbol.svg [462]SSBU-Mario Galaxy.jpg
+   [463]Super Smash Bros. for Wii U [464]Mario Galaxy
+   [465]MarioSymbol.svg [466]SSBU-Mario Circuit (SSB4).png
+   [467]Super Smash Bros. for Wii U [468]Mario Circuit
+   [469]MarioSymbol.svg [470]SSBU-Super Mario Maker.png
+   [471]Super Smash Bros. 4 [472]Super Mario Maker
+   [473]MarioSymbol.svg [474]SSBU-Yoshi's Island (SSB).png
+   [475]Super Smash Bros. [476]Super Happy Tree
+   [477]YoshiSymbol.svg
+   [478]SSBU-Yoshi's Island (SSBM).png
+   [479]Super Smash Bros. Melee [480]Yoshi's Island (Melee)
+   [481]YoshiSymbol.svg [482]SSBU-Yoshi's Story.png
+   [483]Super Smash Bros. Melee [484]Yoshi's Story
+   [485]YoshiSymbol.svg [486]SSBU-Yoshi's Island (SSBB).png
+   [487]Super Smash Bros. Brawl [488]Yoshi’s Island
+   [489]YoshiSymbol.svg [490]SSBU-Kongo Jungle.png
+   [491]Super Smash Bros. [492]Kongo Jungle
+   [493]DKSymbol.svg [494]SSBU-Kongo Falls.jpg
+   [495]Super Smash Bros. Melee [496]Kongo Falls
+   [497]DKSymbol.svg [498]SSBU-Jungle Japes.png
+   [499]Super Smash Bros. Melee [500]Jungle Japes
+   [501]DKSymbol.svg
+   [502]SSBU-75m.png
+   [503]Super Smash Bros. Brawl [504]75m
+   [505]DKSymbol.svg [506]SSBU-Hyrule Castle.png
+   [507]Super Smash Bros. [508]Hyrule Castle
+   [509]ZeldaSymbol.svg [510]SSBU-Great Bay.jpg
+   [511]Super Smash Bros. Melee [512]Great Bay
+   [513]ZeldaSymbol.svg [514]SSBU-Temple.png
+   [515]Super Smash Bros. Melee [516]Temple
+   [517]ZeldaSymbol.svg [518]SSBU-Bridge of Eldin.png
+   [519]Super Smash Bros. Brawl [520]Bridge of Eldin
+   [521]ZeldaSymbol.svg [522]SSBU-Pirate Ship.png
+   [523]Super Smash Bros. Brawl [524]Pirate Ship
+   [525]ZeldaSymbol.svg
+   [526]SSBU-Gerudo Valley.png
+   [527]Super Smash Bros. for Nintendo 3DS [528]Gerudo Valley
+   [529]ZeldaSymbol.svg [530]SSBU-Spirit Train.png
+   [531]Super Smash Bros. for Nintendo 3DS [532]Spirit Train
+   [533]ZeldaSymbol.svg [534]SSBU-Skyloft.png
+   [535]Super Smash Bros. for Wii U [536]Skyloft
+   [537]ZeldaSymbol.svg [538]SSBU-Brinstar.png
+   [539]Super Smash Bros. Melee [540]Brinstar
+   [541]MetroidSymbol.svg [542]SSBU-Brinstar Depths.png
+   [543]Super Smash Bros. Melee [544]Brinstar Depths
+   [545]MetroidSymbol.svg [546]SSBU-Norfair.png
+   [547]Super Smash Bros. Brawl [548]Norfair
+   [549]MetroidSymbol.svg
+   [550]SSBU-Frigate Orpheon.png
+   [551]Super Smash Bros. Brawl [552]Frigate Orpheon
+   [553]MetroidSymbol.svg [554]SSBU-Dream Land.png
+   [555]Super Smash Bros. [556]Dream Land
+   [557]KirbySymbol.svg [558]SSBU-Fountain of Dreams.png
+   [559]Super Smash Bros. Melee [560]Fountain of Dreams
+   [561]KirbySymbol.svg [562]SSBU-Green Greens.png
+   [563]Super Smash Bros. Melee [564]Green Greens
+   [565]KirbySymbol.svg [566]SSBU-Halberd.png
+   [567]Super Smash Bros. Brawl [568]Halberd
+   [569]KirbySymbol.svg [570]SSBU-Dream Land (3DS).png
+   [571]Super Smash Bros. for Nintendo 3DS [572]Dream Land GB
+   [573]KirbySymbol.svg
+   [574]SSBU-The Great Cave Offensive.png
+   [575]Super Smash Bros. for Wii U [576]The Great Cave Offensive
+   [577]KirbySymbol.svg [578]SSBU-Corneria.png
+   [579]Super Smash Bros. Melee [580]Corneria
+   [581]StarFoxSymbol.svg [582]SSBU-Venom.png
+   [583]Super Smash Bros. Melee [584]Venom
+   [585]StarFoxSymbol.svg [586]SSBU-Lylat Cruise.jpg
+   [587]Super Smash Bros. Brawl [588]Lylat Cruise
+   [589]StarFoxSymbol.svg [590]SSBU-Saffron City.jpg
+   [591]Super Smash Bros. [592]Saffron City
+   [593]PokemonSymbol.svg [594]SSBU-Pokémon Stadium.png
+   [595]Super Smash Bros. Melee [596]Pokémon Stadium
+   [597]PokemonSymbol.svg
+   [598]SSBU-Pokémon Stadium 2.png
+   [599]Super Smash Bros. Brawl [600]Pokémon Stadium 2
+   [601]PokemonSymbol.svg [602]SSBU-Spear Pillar.png
+   [603]Super Smash Bros. Brawl [604]Spear Pillar
+   [605]PokemonSymbol.svg [606]SSBU-Unova Pokémon League.png
+   [607]Super Smash Bros. for Nintendo 3DS [608]Unova Pokémon League
+   [609]PokemonSymbol.svg [610]SSBU-Prism Tower.png
+   [611]Super Smash Bros. for Nintendo 3DS [612]Prism Tower
+   [613]PokemonSymbol.svg [614]SSBU-Kalos Pokémon League.png
+   [615]Super Smash Bros. for Wii U [616]Kalos Pokémon League
+   [617]PokemonSymbol.svg [618]SSBU-Big Blue.png
+   [619]Super Smash Bros. Melee [620]Big Blue
+   [621]FZeroSymbol.svg
+   [622]SSBU-Port Town Aero Dive.png
+   [623]Super Smash Bros. Brawl [624]Port Town Aero Dive
+   [625]FZeroSymbol.svg [626]SSBU-Mute City (3DS).png
+   [627]Super Smash Bros. for Nintendo 3DS [628]Mute City SNES
+   [629]FZeroSymbol.svg [630]SSBU-Onett.png
+   [631]Super Smash Bros. Melee [632]Onett
+   [633]EarthboundSymbol.svg [634]SSBU-Fourside.jpg
+   [635]Super Smash Bros. Melee [636]Fourside
+   [637]EarthboundSymbol.svg [638]SSBU-New Pork City.png
+   [639]Super Smash Bros. Brawl [640]New Pork City
+   [641]EarthboundSymbol.svg [642]SSBU-Magicant.png
+   [643]Super Smash Bros. for Nintendo 3DS [644]Magicant
+   [645]EarthboundSymbol.svg
+   [646]SSBU-Summit.png
+   [647]Super Smash Bros. Brawl [648]Summit
+   [649]IceClimberSymbol.svg [650]SSBU-Castle Siege.png
+   [651]Super Smash Bros. Brawl [652]Castle Siege
+   [653]FireEmblemSymbol.svg [654]SSBU-Arena Ferox.png
+   [655]Super Smash Bros. for Nintendo 3DS [656]Arena Ferox
+   [657]FireEmblemSymbol.svg [658]SSBU-Coliseum.png
+   [659]Super Smash Bros. for Wii U [660]Coliseum
+   [661]FireEmblemSymbol.svg [662]SSBU-Flat Zone X.png
+   [663]Super Smash Bros. for Wii U [664]Flat Zone X
+   [665]Game&WatchSymbol.svg [666]SSBU-Skyworld.png
+   [667]Super Smash Bros. Brawl [668]Skyworld
+   [669]KidIcarusSymbol.svg
+   [670]SSBU-Reset Bomb Forest.png
+   [671]Super Smash Bros. for Nintendo 3DS [672]Reset Bomb Forest
+   [673]KidIcarusSymbol.svg [674]SSBU-Palutena's Temple.png
+   [675]Super Smash Bros. for Wii U [676]Palutena's Temple
+   [677]KidIcarusSymbol.svg [678]SSBU-WarioWare, Inc..png
+   [679]Super Smash Bros. Brawl [680]WarioWare, Inc.
+   [681]WarioSymbol.svg [682]SSBU-Gamer.png
+   [683]Super Smash Bros. for Wii U [684]Gamer
+   [685]WarioSymbol.svg [686]SSBU-Distant Planet.png
+   [687]Super Smash Bros. Brawl [688]Distant Planet
+   [689]PikminSymbol.svg [690]SSBU-Garden of Hope.png
+   [691]Super Smash Bros. for Wii U [692]Garden of Hope
+   [693]PikminSymbol.svg
+   [694]SSBU-Smashville.png
+   [695]Super Smash Bros. Brawl [696]Smashville
+   [697]AnimalCrossingSymbol.svg [698]SSBU-Tortimer Island.png
+   [699]Super Smash Bros. for Nintendo 3DS [700]Tortimer Island
+   [701]AnimalCrossingSymbol.svg [702]SSBU-Town and City.png
+   [703]Super Smash Bros. for Wii U [704]Town and City
+   [705]AnimalCrossingSymbol.svg [706]SSBU-Boxing Ring.png
+   [707]Super Smash Bros. 4 [708]Boxing Ring
+   [709]PunchOutSymbol.svg [710]SSBU-Wii Fit Studio.png
+   [711]Super Smash Bros. for Wii U [712]Wii Fit Studio
+   [713]WiiFitSymbol.svg [714]SSBU-Gaur Plain.png
+   [715]Super Smash Bros. 4 [716]Gaur Plain
+   [717]XenobladeSymbol.svg
+   [718]SSBU-Duck Hunt.png
+   [719]Super Smash Bros. 4 [720]Duck Hunt
+   [721]DuckHuntSymbol.svg [722]SSBU-Shadow Moses Island 2.jpg
+   [723]Super Smash Bros. Brawl [724]Shadow Moses Island
+   [725]MetalGearSymbol.svg [726]SSBU-Green Hill Zone.png
+   [727]Super Smash Bros. Brawl [728]Green Hill Zone
+   [729]SonicSymbol.svg [730]SSBU-Windy Hill Zone.png
+   [731]Super Smash Bros. for Wii U [732]Windy Hill Zone
+   [733]SonicSymbol.svg [734]SSBU-Wily Castle.png
+   [735]Super Smash Bros. 4 [736]Wily Castle
+   [737]MegaManSymbol.svg [738]SSBU-Pac-Land.png
+   [739]Super Smash Bros. for Wii U [740]Pac-Land
+   [741]PacManSymbol.svg
+   [742]SSBU-Suzaku Castle.png
+   [743]Super Smash Bros. 4 [744]Suzaku Castle
+   [745]StreetFighterSymbol.svg [746]SSBU-Midgar.jpg
+   [747]Super Smash Bros. 4 [748]Midgar
+   [749]FinalFantasySymbol.svg [750]SSBU-Umbra Clock Tower.png
+   [751]Super Smash Bros. 4 [752]Umbra Clock Tower
+   [753]BayonettaSymbol.svg [754]SSBU-Hanenbow.png
+   [755]Super Smash Bros. Brawl [756]Hanenbow
+   [757]ElectroplanktonSymbol.svg [758]SSBU-PictoChat 2.png
+   [759]Super Smash Bros. for Nintendo 3DS [760]PictoChat 2
+   [761]DSSymbol.svg [762]SSBU-Balloon Fight.png
+   [763]Super Smash Bros. for Nintendo 3DS [764]Balloon Fight
+   [765]BalloonFightSymbol.svg
+   [766]SSBU-Living Room.png
+   [767]Super Smash Bros. for Nintendo 3DS [768]Living Room
+   [769]NintendogsSymbol.svg [770]SSBU-Find Mii.png
+   [771]Super Smash Bros. for Nintendo 3DS [772]Find Mii
+   [773]FindMiiSymbol.svg [774]SSBU-Tomodachi Life.png
+   [775]Super Smash Bros. for Nintendo 3DS [776]Tomodachi Life
+   [777]TomodachiSymbol.svg [778]SSBU-Wrecking Crew.png
+   [779]Super Smash Bros. for Wii U [780]Wrecking Crew
+   [781]WreckingCrewSymbol.svg [782]SSBU-Pilotwings.png
+   [783]Super Smash Bros. for Wii U [784]Pilotwings
+   [785]PilotwingsSymbol.svg [786]SSBU-Wuhu Island.png
+   [787]Super Smash Bros. for Wii U [788]Wuhu Island
+   [789]WiiSportsSymbol.svg
+
+New Items[[790]edit]
+
+          For the entire confirmed list of items, see [791]Items page.
+
+              Item               Type^[792][2]   Heavy^[793][2]                                                                                Notes                                                                                                   Universe
+   [794]Banana Gun             Shooting          No             Ejects the banana out of the peel and the player is left with the [795]banana peel after using it.                                                                  [796]SmashBrosSymbol.svg [797]Super Smash Bros.
+   [798]Beastball              Throwing          No             Reappears near an opponent after being thrown and targets them, covered in flames.                                                                                  [799]SmashBrosSymbol.svg [800]Super Smash Bros.
+   [801]Black Hole             Throwing          No             Creates a massive black hole, dragging all items and players nearby in. Throws the opposite side of user's orientation.                                             [802]SmashBrosSymbol.svg [803]Super Smash Bros.
+   [804]Bomber                 Special           No             Explodes in the player's hand when used, which only affects enemies. Will also explode after a short amount of time or if it falls off a ledge, affecting everyone. [805]KirbySymbol.svg [806]Kirby
+   [807]Death's Scythe         Battering         No             Instantly KOs opponents at high percentages.                                                                                                                        [808]CastlevaniaSymbol.svg [809]Castlevania
+   [810]Fake Smash Ball        Special           No             Flies around the stage, similar to the Smash Ball. Characters can break it in order to activate. Once broken, it will explode.                                      [811]SmashBrosSymbol.svg [812]Super Smash Bros.
+   [813]Healing Field          Throwing/Recovery No             Can be thrown on the ground. Once thrown, it will open up and will heal anyone standing on it.                                                                      [814]SmashBrosSymbol.svg [815]Super Smash Bros.
+   [816]Healing Sprout         Throwing/Recovery No             Sticks to fighters and gradually heals them. Can be transferred on contact like the [817]Gooey Bomb.                                                                [818]SmashBrosSymbol.svg [819]Super Smash Bros.
+   [820]Killing Edge           Battering         No             Will occasionally glow, causing it to do more damage.                                                                                                               [821]FireEmblemSymbol.svg [822]Fire Emblem
+   [823]Rage Blaster           Shooting          No             Does more damage the higher the user's [824]damage is.                                                                                                              [825]SmashBrosSymbol.svg [826]Super Smash Bros.
+   [827]Ramblin' Evil Mushroom Shooting          No             Emits spores that, when they hit an opponent, cause a mushroom to grow on that opponent's head, reversing their controls.                                           [828]EarthboundSymbol.svg [829]EarthBound
+   [830]Staff                  Shooting          No             Fires a laser which deals increased damage the greater its distance from the user.                                                                                  [831]KidIcarusSymbol.svg [832]Kid Icarus
+   [833]Super Launch Star      Throwing          No             Can be set in midair, where it will attract and launch any characters that get too close to it. The launch has the potential to KO fighters.                        [834]MarioSymbol.svg [835]Mario
+
+Development[[836]edit]
+
+   Towards the end of [837]Super Smash Bros. 4's post-launch development, [838]Masahiro Sakurai announced that his next project had been decided and that he would be taking a small vacation following the end of development.^[839][3] Unlike previous Smash titles, which had their development studios built from the ground up, [840]Bandai Namco returned to help game development. Prior to starting development, the team had a choice between completely overhauling the game's system and feel or working off of what was established in the last game. The team ultimately went with the latter. Had the team gone with the former, the game would have likely only had a third of its characters.^[841][4] Despite deciding to base the game off of the previous installment, Sakurai still increased the overall speed of the game, but only by an amount that wouldn't be too alienating to people unfamiliar with the series.^[842][4] Sakurai notes that he had wanted to make these changes in previous titles, but was unable
+   to because it was easy for one to lose track of their character's position on screen, especially on the [843]Nintendo 3DS.^[844][4] When Sakurai had revealed to his development team that he intended to bring back every previously playable character, he was met with silence.^[845][5] The project plan was later finished by December 2015,^[846][6] and development officially began in February 2016, immediately after DLC wrapped up for SSB4.^[847][7] On November 12th, 2017, [848]Nintendo filed a number of trademarks, notably including a [849]Japanese Super Smash Bros. logo.^[850][8]
+
+   A Super Smash Bros. title for the Switch was later officially revealed on March 8th, 2018 via a [851]Nintendo Direct. Shortly after, Sakurai confirmed in a tweet that he had been working on the game "in silence, day after day".^[852][9]^[853][10] On March 22nd, 2018, Nintendo announced the [854]Super Smash Bros. Invitational 2018, a tournament taking place on June 12th where invited professional players will play the upcoming game. Later, in volume 542 of his Famitsu article, Sakurai revealed that his work schedule had been cut down significantly, citing strict regulations regarding work hours.^[855][11] On April 18th, 2018, Nintendo again filed a number of trademarks for several game logos, including the [856]Super Smash Bros. logo. Most of these game logos originate from games with some relationship to the Smash series, including [857]Pikmin, [858]Star Fox, and [859]F-Zero. These trademarks were approved on May 14th, 2018.^[860][12]
+
+   The game was finally unveiled at E3 2018 via a [861]Nintendo Direct. The 25-minute trailer featured in the Nintendo Direct confirmed the title of the game as Super Smash Bros. Ultimate, revealed that every previously playable character would return, with [862]Daisy and [863]Ridley as new playable characters, and showcased new and returning gameplay features. Following the end of the presentation, a Nintendo Treehouse event went live. During the Treehouse event, several matches were streamed and some new features were revealed and discussed. In addition to the Treehouse livestream, a playable demo of the game was opened to the public at E3 2018 and at the Nintendo Store in New York. Following the end of the Splatoon 2 World Championships, the Super Smash Bros. Invitational 2018 began. During the match pitting [864]MkLeo as [865]Bayonetta against [866]Plup as [867]Ridley, Masahiro Sakurai reportedly shook his head after MkLeo had performed a successful ladder combo on Plup.^[868][13] At the
+   end of the invitational, the Nintendo Treehouse livestream resumed, further showcasing more gameplay elements and matches. In addition to this, the [869]official Super Smash Bros. Ultimate website was published. This would serve as the primary source for new details about the game.
+
+   A demo of the game would later be playable at certain tournaments and events in Japan and the United States, including Rage 2018 Summer, Next Generation World Hobby Fair ’18 Summer, [870]CEO 2018, Jump Victory Carnival 2018, and [871]EVO 2018, along with events in other countries such as Paris Games Week 2018 in France, FestiGame Chile 2018, and Insomnia 64 in the United Kingdom.
+
+Reveal and promotion[[872]edit]
+
+   A [873]first teaser trailer at the end of a [874]Nintendo Direct presentation on March 8th, 2018 revealed that a new Super Smash Bros. title was in development for the [875]Nintendo Switch, planned for release before the end of 2018. Without explicitly confirming the playable status of any characters, the teaser trailer hinted the Inklings would be debuting in the game as newcomers, while also suggesting that Mario, Link, and several other series veterans would be returning.
+
+   The first extended look at the game came at [876]Nintendo's E3 2018 presentation. Series creator and game director [877]Masahiro Sakurai introduced the coverage, which kicked off with an extended video showing new incarnations for veteran characters. After confirming the return of previously cut characters such as Ice Climbers and Snake, the tagline "Everyone Is Here" was introduced, and the video revealed that all playable characters from previous Smash Bros. titles would be returning to the new game, including the formerly cut Ice Climbers, Pichu, and Young Link from Melee, as well as Pokémon Trainer, Wolf, and Snake from Brawl. The trailer also confirmed the Inklings as the game's first newcomers, while concluding with a reveal of the game's final title: Super Smash Bros. Ultimate.
+
+   Later in the E3 presentation, new information on the Ultimate incarnations of characters was revealed, including the presence of Cappy in Mario's taunts and other moves, that Zelda would be based on her Link to the Past design, all the DLC fighters from Smash 4 would return as part of the launch roster, Ike would have his Path of Radiance and Radiant Dawn designs from the two previous games and much more. The presentation introduced "Echo Fighters", which Lucina and Dark Pit are now marked as, while Daisy was revealed as a new Echo Fighter. The presentation also confirmed returning elements, items, and stages, which would receive revamped Ω forms and Battlefield forms. The presentation concluded with a final trailer in which Ridley from Metroid - long requested by fans for inclusion in the series but rebuffed by Sakurai due to his large size - finally "hits the big time" as he joined the roster of playable characters as a newcomer.
+
+   At the [878]EVO 2018 fighting game tournament, Nintendo revealed that a new [879]Ultimate-focused Nintendo Direct presentation would be released on August 8, 2018. The presentation opened with a trailer confirming the inclusion of content from Konami's Castlevania franchise for the first time in the series. The trailer revealed the presence of new fighters, Simon Belmont and his Echo Fighter, Richter Belmont; a new Assist Trophy, Alucard; a new stage called Dracula's Castle, and more. The Direct also covered two new Echo Fighters, Chrom and Dark Samus, as well as new music, modes, stages, and items. The presentation concluded with a trailer introducing a new playable character: King K. Rool, leader of the Kremlings and nemesis of the Kong family from the Donkey Kong and Donkey Kong Country series.
+
+   In a [880]Nintendo Direct presentation shown on September 13th, 2018, a Super Smash Bros. Ultimate Nintendo Switch console bundle was unveiled, featuring a specially designed dock and Joy-Con controllers along with the download code for the game. Isabelle, from the Animal Crossing series was also revealed as a newcomer.
+
+   The final pre-release [881]Ultimate-focused Nintendo Direct presentation aired on November 1, 2018. This revealed Ken and Incineroar as new playable characters, as well as the inclusion of DLC fighters - Piranha Plant appearing shortly after launch, followed by five other unannounced characters, which have been selected in advance by Nintendo as future additions, and have yet to be developed.^[882][14] It also took a deeper look at the game's modes and online infrastructure, and revealed [883]Spirits mode and [884]Adventure Mode: World of Light, before finishing with the mode's opening cutscene and the reveal of the game's vocal theme, [885]Lifelight.
+
+   An [886]overview trailer narrated by Xander Mobus (The [887]Announcer) covers the game in further detail, showcasing all of the playable fighters, stages, items, [888]Pokémon, [889]Assist Trophies, [890]Spirits, modes and more.
+
+   At the 2018 Game Awards, the Phantom Thieves from Persona 5 interrupted the broadcast to announce that their leader, codenamed "Joker", would be joining the roster as the first DLC fighter of the [891]Fighters Pass in Ultimate.
+
+   After the game's reveal, an [892]official site and information blog was launched as an official platform to provide information on the game. Available in a variety of languages, the site is continually updated to provide details on new and returning fighters, stages, items, music, and other Ultimate-related information.
+
+Changes from SSB4[[893]edit]
+
+Menu and UI changes[[894]edit]
+
+     * In Vs. mode, the stage selection screen now appears before the character selection menu, making players select a stage before selecting characters.
+          + The rule selection screen appears before the stage selection screen. Players can now save rulesets for quick access.
+     * All stages now have a [895]Battlefield form. [896]Ω forms are also standardized to have the same underside shape akin to [897]Final Destination, with none of them having vertical walls.
+     * [898]Stage hazards can be turned off for the first time in the series, allowing players to remove intrusive elements, such as "environment changes or enemy appearances" from gameplay.
+     * The new [899]Stage Morph option allows two stages to be selected at once; the two stages will transition into one another either at random or on specified time intervals.
+     * [900]Alternate costumes are now shown at the bottom of the player's portrait, with at least eight small stock icons representing each palette swap. Additionally, each color is now listed with a name from the numbers 1-8 (e.g. Color 5).
+     * In [901]timed matches, characters in the lead will occasionally flash with a gold sparkle.
+     * While a Smash Mode match is loading, an intense [902]versus splash screen will appear, showing the combatants. [903]Tips still appear regularly on loading screens in other modes, and can appear on the splash screen when loading takes long enough.
+     * The [904]damage meter now displays tenths of a damage [905]percentage (e.g. 10.5%). Note that while all games since Melee have used decimal percentages, this is the first game to reveal that fact instead of simply rounding down for display.
+     * In one-on-one stock fights, the stock count of both fighters will be briefly displayed onscreen whenever a stock is lost.
+     * The character select screen is now similar in appearance to the original Super Smash Bros. menu when starting the game, with the other fighters unlocked later on.
+          + Instead of being roughly organized by series, the character select screen now organizes characters (with the exception of Echo Fighters and Mii Fighters) by when they were first officially announced for a Super Smash Bros. game.
+     * While a fighter is knocked off the stage, a minimap which shows the character locations, [906]blast zone, and camera zoom will appear on the corner of the screen.
+     * The closer a fighter is to a blast zone, the smaller their "magnifying glass" camera becomes. It will start flashing when they are almost touching the blast line.
+     * Like [907]Little Mac's [908]Power Meter in Smash 4, several characters now sport additional UI elements next to their damage meter, such as [909]Villager's [910]Pocketed item, [911]Robin's durability counters, or [912]Inkling's Ink Tank gauge.
+     * Stages that once shared names now have been renamed. For example, the Smash 64 version of Yoshi's Island is now Super Happy Tree and the Brawl version of Mario Circuit is now Figure-8 Circuit.
+     * Tracks in [913]My Music are now organized by series rather than by stage, such that all music from a given series will be available across the stages corresponding to that series.
+          + Additionally, many remixes from 64 and Melee have had their names updated to reflect the source music title, rather than the stage they were present on. (Such as "Poke Floats" becoming "Pokemon Red/Pokemon Blue Medley".)
+     * [914]Sound Test can be used to create music playlists, which can be played in handheld mode while the screen is off like a music player.
+     * Two new battle modes are present:
+          + [915]Squad Strike has players battle with a squad of 3 or 5 fighters. Multiple formats of Squad Strike are available, including one where the entire team of fighters is used in a single continuous battle, similar to the final battle of [916]Smash Tour in [917]Super Smash Bros. for Wii U.
+          + [918]Smashdown renders the fighters selected in a given battle unavailable for use in following battles, forcing players to select a different fighter with every match they play.
+     * Echo Fighters can either be displayed in their own character slots, or share their slot with the character they are based on, depending on user preference.
+     * The main text font from Melee, Brawl and SSB4 is no longer used.
+     * The user can set up control settings for players who don't enter a name.
+
+Gameplay changes[[919]edit]
+
+     * To increase gameplay speed, all damage taken in one-on-one fights with no items is [920]multiplied by 1.2×.
+     * [921]Buffering has been strengthened, as actions can now be buffered by inputting them at any point during a previous action and holding the inputs until they are possible. The 10-[922]frame buffer from Brawl and Smash 4 is still present in case the inputs are not held.
+     * [923]Short hop [924]aerial attacks now have a damage multiplier of 0.85×. This applies until the player lands or uses a [925]midair jump.
+     * The physics of launch movement have been overall sped up, with characters receiving [926]knockback having a much higher initial speed and deceleration, resulting in being launched at higher speeds yet slowing down to nothing quickly.
+          + If a character is struck with enough knockback by a [927]meteor smash, they will be KO'd as soon as they are off-screen, rather than reaching the bottom blast line. This makes [928]sacrificial KOs that rely on meteor smashes more reliable.^[929][15]
+     * [930]Hitstun increases at a slightly slower rate for knockback that causes [931]tumbling, decreasing it at higher percents compared to Smash 4. However, this is compensated by characters being faster overall as described by the mobility changes below, allowing for more combo opportunities still. Additionally, hitstun canceling has been completely removed, giving all options out of hitstun equal priority.
+     * The base amount of [932]freeze frames has been increased. However, there is an additional freeze frames multiplier that is lower the more players are participating in a match, with a maximum of 1× for two players (effectively standardizing freeze frames in one-on-one matches) and a minimum of 0.75× for eight players.
+     * [933]Rage has had its knockback increase reduced to a maximum 10% boost, down from 15%. Additionally, it no longer applies to hits that use [934]set knockback, preventing linking moves with high set knockback from KOing at disproportionately early percentages.
+     * [935]Stale-move negation uses higher damage reduction values, with a fully stale move dealing 0.4695× of its original damage (down from 0.5294×). Additionally, moves now stale when hitting a shield.
+     * [936]Shields deplete faster when held, now even surpassing Melee's shield depletion.
+     * When holding a special move button or multiple shield buttons while shielding, moving the control stick allows for shield angling without triggering [937]rolls, [938]sidesteps, or [939]jumps (with [940]tap jump on), making it easier to perform.
+     * [941]Perfect shields are performed in reverse: instead of pressing the shield button a few frames before an attack connects, players have to release the shield button when an attack connects on their [942]shield instead. The window for the technique is also larger, lasting 5 frames instead of 3. A successful perfect shield causes the screen to pause briefly, with the fighter's eyes flashing to signify a perfect shield, and no shield damage being taken as a result. This updated mechanic makes perfect shielding a riskier tactic, and less likely to be performed unintentionally, but allows fighters to retaliate much faster against attacks when successful.
+     * Shield dropping incurs 11 frames of lag, up from 7 in SSB4, making the game less defense-focused.^[943][16] However, the minimum time the shield must be held for before it can be dropped has been reduced from 11 frames to 3, assisting in the new perfect shield mechanic.
+     * [944]Shield platform drops are no longer possible.
+     * Grabbing an [945]edge consecutively without landing or getting hit now decreases the [946]intangibility of subsequent [947]edge options, to the point of granting no intangibility at all from the fourth edge grab onward. Additionally, in a similar vein to [948]Aether in previous games, characters can only grab edges up to six times under these conditions. This further decreases the effectiveness of [949]planking strategies.
+     * [950]Edge sweet spots have become smaller, and recovery moves take longer to snap on ledges in general. This makes [951]recovering more difficult.
+     * The window to [952]tech has increased from 8 frames to 11 frames, and teching in general has mostly been restored to its state in Brawl (but the added leniency while already making contact with a wall or ceiling is retained), removing all of the untechable situations from Smash 4; however, sustaining too much knockback from a certain distance from a surface can prevent characters from teching, making stage spikes guaranteed at high enough percents. This threshold is indicated by the visual shockwave of a rebounding character turning red. The threshold is also much smaller for characters that hit the ground, making meteor smashes more effective on-stage on aerial opponents.^[953][17]
+     * Opponents [954]footstooled in midair can now tech on the ground during the animation. However, footstools now also grant the user a few frames of intangibility upon leaping off the opponent.
+     * Meteor smash attacks can no longer be teched when grounded, regardless of their properties, making them more reliable for starting combos.
+     * [955]Locks can only be performed twice in a row, and no longer force the target to perform a standing getup, removing their guaranteed setups into powerful moves such as charged [956]smash attacks. However, they can still be used to combo into faster attacks before the target can get up from the lock.
+     * Characters that originally cannot swim or have a weakness to water in their home series now take slow, constant damage while [957]swimming. The fighters affected include [958]Charizard, [959]Incineroar, [960]Inkling and [961]Sonic.
+     * If a character lands in deep water while using a move with high downwards velocity, they will keep most of their movement speed when diving. This now causes moves such as [962]Stone, [963]Aether, [964]Bowser Bomb or [965]Super Dedede Jump to become self-destructs at certain heights.
+     * Characters can no longer run through other characters and instead push them backwards, preventing [966]cross-ups or mixups revolving around moving through an opponent. This also seems to affect several momentum-based moves, which now stop on shield (such as [967]Fox Illusion and [968]Heel Slide). However, there are still a handful of moves that are still capable of crossing up, such as [969]Simon and [970]Richter's dash attack.
+     * [971]Screen KOs are much faster, making them once again faster than [972]Star KOs.
+     * Waiting on a [973]revival platform now gradually decreases the [974]invincibility period of a character after they get off it, lasting only one second instead of two if they stay on it for the maximum duration.
+     * [975]Shield breaking does not grant the victim any intangibility if it happens during the last five seconds of a match.
+     * [976]Sudden Death consists of the screen slowly zooming in, making the blast zones gradually shrink. It also appears to have a fixed camera angle, and the screen progressively gets covered in aesthetic flames, starting with the corners. If the screen has finished zooming in, [977]Bob-ombs will start falling after a while.
+     * The length of a Timed Battle can be adjusted in 30-second increments between one and three minutes.
+     * [978]Stamina battles are now part of the basic rule selection, allowing for combinations such as stamina with [979]stocks.
+     * The [980]Final Smash Meter is a new [981]Rules option that enables fighters to charge up their [982]Final Smash over time for use without a [983]Smash Ball. When this option is turned on, a gauge will appear under each fighter's [984]damage display. The more damage the player deals or receives, the more the meter is filled. When it is filled, the player can use a weaker version of their Final Smash.
+     * The new [985]Custom Balance menu allows assigning [986]handicaps to individual characters. Intended for leveling the field between players of different skill levels, each character can be assigned a Custom Balance value between -3 and +3, with negative numbers reducing [987]damage dealt, and positive numbers increasing damage dealt. These values are only applied when the Custom Balance [988]rule option is enabled, which is not available in multi-console wireless or online play.
+     * [989]Self-destructing in online matches with stocks can take away two stocks instead of one (unless it's one on one)
+
+Mobility changes[[990]edit]
+
+     * The [991]jumpsquat timing of every character has been standardized to 3 frames.
+     * [992]Run speeds have been increased by about 10% for a majority of the cast, with some having larger increases, while [993]walk speeds have had a similar 5% increase.
+     * [994]Air speeds have been increased by about 5% for a majority of the cast, with some having larger increases.
+     * [995]Traction has been significantly increased across the cast.
+     * Full hops and midair jumps are sped up across the cast. However, this does not apply to extra midair jumps (such as Kirby's or Pit's).
+     * Landing lag for aerials has been reduced by 40% for most of the cast, and landing lag from helplessness has been significantly reduced overall. For some moves, the landing lag is even less than in Melee with [996]L-canceling.
+     * [997]Perfect pivoting can no longer be performed, as characters no longer enter their standing animation when turning around out of their initial dash.
+     * [998]Rolling and [999]spot dodging repeatedly now penalizes the user with increased lag and less [1000]intangibility frames, leaving them more vulnerable.
+          + Backward rolls have more ending lag overall, hindering their utility further for retreating safely, and making them practically different from forward rolls again.
+          + Spot dodges can be canceled earlier than usual (by 5 frames if fresh) into any grounded attack other than grabs and dash attacks, making them more effective for retaliation after dodging opposing attacks.
+     * [1001]Air dodges now contain elements from all previous incarnations of the technique: players can either perform a neutral air dodge by keeping the control stick in a neutral position (akin to a [1002]neutral aerial), which functions like Brawl and Smash 4's air dodges, or a directional air dodge by holding in a direction, which grants characters a quick momentum boost towards much like Melee's air dodges, but without making them [1003]helpless.
+          + Characters can only air dodge once before landing, grabbing an edge or getting hit, and both types of air dodges have much more ending lag, with directional ones lasting more than a full second. However, both have less landing lag than air dodges in Smash 4 (10 frames in the case of neutral air dodges, down from 21), and unlike air dodges in Melee, directional air dodges allow characters to grab edges during their ending lag. This significantly weakens defensive play by making air dodges more restricted and punishable, but increases their effectiveness for escaping [1004]juggles and recovering if used opportunely.
+          + [1005]Wavedashing has made a return from Melee, alongside techniques associated with it like wavelanding. However, it is significantly weaker due to the new mechanics added to directional air dodges, compounded further by their higher landing lag, as well as the cast's increased traction.
+     * Initial dashes have been lengthened, allowing some aspects of [1006]dash-dancing to return. They have also been significantly increased across the cast and have much less range in variance, with the slowest being slightly above [1007]Mario's in SSB4 and the highest being slightly above [1008]Fox's.
+     * Being sent into hitstun by any attack from behind will preserve the direction the character is facing, like with [1009]Back Slash in Smash 4, having the effect of preserving the positions of their forward and back aerials.
+          + As a result, all characters now have unique hitstun animations for taking hits from behind.
+
+Attack changes[[1010]edit]
+
+     * Characters can now perform any ground attack out of a run, including their [1011]neutral attack, [1012]tilt attacks, and all [1013]smash attacks. In previous games, only [1014]dash attacks, [1015]up smashes and [1016]special moves could be performed out of a run. Characters can also instantly turn around to input any grounded attack in the other direction.
+     * Short hop aerial attacks can be performed by pressing the jump and attack buttons at the same time. However, this makes full hop aerial attacks more difficult to perform.
+          + As a further aid, several ground attacks can now be canceled by jumping during their very first startup frames (with a maximum of three for most), in which case they will automatically transition into a short hop aerial attack.
+     * The linking hits of all [1017]neutral attacks have had their angles and knockback altered to drag opponents close to the user, in addition to not lifting them off if they are on the ground. This allows for neutral attacks to connect much more reliably than before, and gives all of them the ability to [1018]jab lock (with the exception of [1019]Ganondorf, [1020]Meta Knight, [1021]Roy and [1022]Chrom). However, this removes guaranteed [1023]jab cancel setups.
+          + Neutral infinites have all been reduced in damage, but do far more hits in the same amount of time and inflict less [1024]freeze frames, making them harder to escape. Their pushback from hitting opponents can also no longer drop the user off edges.
+     * [1025]Smash attacks can be delayed for two additional seconds after reaching full charge. This is indicated by characters freezing in the last frame of their charging animation until the smash attack is released.
+     * [1026]Up smashes and [1027]up specials can be used [1028]out of shield without jumping.
+     * [1029]Aerial attacks can be performed while hanging onto a [1030]ladder, a property known officially as a "ladder attack".
+     * [1031]Frame canceling has been removed.
+     * All variations of regular [1032]grabs have more ending lag, making them easier to punish if missed. Conversely, extended grabs have less ending lag, no longer leaving characters as vulnerable compared to regular grabs.
+     * If two [1033]grabs collide, both characters take minimal damage and act as if [1034]grab released. This event is known as "grab parrying" by the in-game tips, and removes the effect of [1035]port priority in determining who gets the grab.
+     * [1036]Shield grabs can no longer be used immediately after [1037]shieldstun from an attack ends, instead forcing the character to hold their shield for 4 extra frames beforehand.^[1038][18]
+     * [1039]Pummels have been universally sped up, but deal less damage.
+     * Weight dependency for [1040]throws has been removed: all throws now execute at their usual speed against the entire cast.
+     * [1041]Edge attacks have been buffed, dealing 9% damage on average (up from 7%), and now granting intangibility until the hitboxes cease rather than until 2 frames before the hitboxes come out, allowing them to beat out opposing attacks.
+     * [1042]Chargeable, storable special moves such as Samus' [1043]Charge Shot and Donkey Kong's [1044]Giant Punch can now be canceled by jumping. These moves can also be executed with the attack button while charging.
+          + Most chargeable neutral specials that can't be stored are now reversible, whether for the duration of the charge or right before they are unleashed.
+     * [1045]Taunts can be [1046]interrupted much quicker, with most of them having faster animations. However, this does not apply to damaging taunts such as [1047]Luigi's down taunt.
+     * The effectiveness of every [1048]tether recovery has been nerfed, as they can no longer be performed at any point during [1049]air dodges, nor can they skip the lag incurred upon grabbing an edge.
+     * [1050]Final Smashes are quicker, with versions granting a controllable transformation being removed, so players can return to fighting quickly. As a result, many fighters have either new Final Smashes altogether, or returning Final Smashes with altered functionalities, such as [1051]Landmaster being replaced by [1052]an Arwing cutscene, and [1053]Octopus dragging opponents offstage immediately after transforming.
+
+Aesthetic changes[[1054]edit]
+
+     * The particle effects of the game are significantly more cartoony, with a solid-color or cel-shaded aesthetic. Compared to Smash 4, hits are signified by spark-like blows instead of colorful stars, while attack [1055]effects appear visually longer-lasting or possess far larger particle effects.
+     * Continuing a trend from Melee and Brawl, most returning fighters feature greater model detail and more subdued colors than in Smash 4.
+          + However, hair and fur detail has been toned down, resulting in a generally flatter appearance.
+     * Time slows down substantially and the camera zooms in with a colorful blue background at significant moments during a match, such as when landing a highly damaging special move (such as a fully charged [1056]Giant Punch) or when breaking a [1057]shield. The camera also does this for potential final hits of a match, dramatically pausing gameplay with intense sound effects and red lightning/background, while zooming in. These are referred to as "[1058]Special Zoom" and "Finish Zoom" by [1059]Masahiro Sakurai and the development team.
+          + Special zoom is signified by a sound similar to landing a [1060]KO Uppercut or [1061]Finishing Touch, and finish zoom has SFX somewhat akin to the [1062]ping sound.
+          + The slowdown and zoom do not take place when there are three or more characters on screen, though the blue background will still appear.
+     * Knockback dealt by strong attacks will show a bright blue angle indicator, which visualises the effect of [1063]directional influence along the character's final trajectory. This can be difficult to notice due to the effect being very brief.
+     * After using up their [1064]midair jump(s), characters leave behind a subtle, transparent trail when moving through the air and until they regain their jumps. This aesthetic effect is difficult to notice unless the camera is zoomed onto a character.
+     * Punching and kicking SFX on hit are different and sound harder-hitting compared to the previous game, with even weaker attacks playing loud "punch" effects.
+     * If two fighter's bladed weapons clash, they now produce a "clanging" noise, reminiscent to a similar effect in Melee. The sound depends on the type of blades that clash; metal blades and energy-based swords both produce different sound effects.
+     * Stunned characters now uses their voice clip constantly instead of only once, much like in Smash 64 and Melee. This was exclusive to Roy back in Smash 4.
+     * Fighters sent flying now leave a colorful, lingering trail of solid-colored smoke behind them. If dealt enough knockback, they will also play a whistling sound while flying, akin to a jet plane.
+     * Characters flash yellow when they are close to breaking out of a grab, as well as during their grab immunity period after being released.
+     * When [1065]mashing out of an inactionable state such as being grabbed or [1066]stunned, characters display wind blade-like particles around them that increase in quantity depending on how fast they mash.
+     * Blast KOs cause a burst of confetti on the screen alongside the standard colorful blast.
+     * [1067]Star KO'd characters now use a tumbling animation similar to Brawl's Screen KOs, rolling away from the screen as they fly away.
+     * Phantom [1068]footstools now play the footstool sound effect to indicate one being performed.
+     * [1069]Final Smashes now cause a segment of the screen to show the upper portion of the summoner's face (in Mr. Game & Watch's case, the close up is of where his eyes would be), which is taken entirely from the summoner's official artwork, before the move begins, similar to Chrom's appearance in [1070]Pair Up.
+     * Fighters are much more expressive than they were in Smash 4; most characters not sport a shocked/surprised expression when missing a grab and will scowl or frown when putting up their shield.
+     * Any characters standing too close to a Final Smash will visibly react to it by displaying a shocked facial expression.
+     * While on Final Smash standby, the character's damage gauge will constantly spark with aqua-colored electricity. Upon use, one of the eyes on the fighter's character portrait will flash.
+     * When a character has more than 120% damage, smoke will constantly come out of their damage meter.
+     * Many [1071]Assist Trophies and Final Smashes now affect the background of the stage.
+     * On the [1072]results screen, the announcer now says "(Character name/Team color) wins!" ("(Character name/Team color) win!" in the Japanese version), instead of saying "The winner is... (character name/team color)!" (Brawl/Smash 4) or "This game's winner is... (character name/team color)!" (Smash 64/Melee). Additionally, after Team Battles, all teammates will perform their complete victory animation instead of only the player with the highest score/stock count, much like the first three installments.
+          + In Smash 64, the announcer did say "(Team color) wins!", but this was changed in Melee.
+     * Even more characters now face the screen regardless of direction they turn towards, such as Donkey Kong and the Ice Climbers.
+          + In addition, some Assist Trophies and Poké Ball Pokémon face the screen regardless of the direction they turn towards.
+     * [1073]Names now override some instances of character names, such as underneath the damage meter.
+          + If the player enters a name, any Poké Ball Pokémon or Assist Trophy character summoned by the player will be indicated by the player's name. In some cases, this may be harder to notice in stages with brighter lighting due to the name bar lacking the bordered background.
+     * [1074]Reflection moves now display shining hexagon effects, similar to [1075]Fox's and [1076]Falco's [1077]Reflector, upon reflecting projectiles.
+     * [1078]Counterattacks that retaliate against sufficiently strong attacks will now cause the user to let out a large, bright yellow flash.
+     * The [1079]flower effect's flower appearance was changed and now resembles the pink flowers seen on the title screen of [1080]Panel de Pon.
+
+Item changes[[1081]edit]
+
+     * Certain types of [1082]items, such as [1083]Banana Peels, can now be picked up by [1084]tilt attacks.
+     * There can now be more than one [1085]Assist Trophy active at any given time. Additionally, some characters summoned by an Assist Trophy can be KO'd, granting a point to whoever KO'd said character. The summoner can also KO their own assist trophy to prevent the loss of a point. If multiple players summon an Assist Trophy each, they will proceed to fight one another if close enough.
+     * When an Assist Trophy or [1086]Poké Ball is used at the edge of a stage or ledge, they no longer immediately fall off the stage/ledge.
+     * [1087]Fake Smash Balls were introduced, with inverted lines as their design. When broken, these explode into a colorful X-shaped explosion, causing heavy knockback and damage to nearby fighters. Unlike the standard Smash Ball, Fake Smash Balls tend to drift towards players and take less hits to break.
+     * [1088]Smash Balls and Fake Smash Balls have a chance of spawning with [1089]Soccer Ball physics, rolling around the stage and respawning once they drop offstage. These despawn after a set time.
+     * The [1090]Boss Galaga causes a black background to cover the screen when it catches an opponent, complete with pixel stars. Additionally, if the Boss Galaga Star KOs a character, it can now be seen with the character in the distance. The star also becomes larger.
+     * The [1091]Hammer and [1092]Golden Hammer have a unique 8-bit-styled hit particle, resembling the particle effect used when Mario destroys a barrel in the original Donkey Kong. The corresponding sound effect is also taken from the original game.
+     * The [1093]Warp Star's descent can now be stalled by the user.
+     * The [1094]Timer now creates a dark warping background alongside its usual slowdown effect.
+     * [1095]Blast Boxes now explode after some time if hit. This is signified by a dull orange flash around the box that slowly gets brighter.
+     * [1096]Trophies have been dropped in favor of [1097]Spirits, which function and visually appear to be similar to Brawl's [1098]Stickers.
+     * The [1099]Beam Sword now creates an aesthetic trail from its blade when thrown or dropped.
+     * [1100]Sandbag will now show a happy expression if left idle for long enough.
+     * Explosive items directly thrown at opponents no longer harms the thrower.
+
+Gallery[[1101]edit]
+
+Miscellaneous[[1102]edit]
+
+     * Promotional Box art
+     * Digital box art
+     * Key Artwork
+     * Panoramic Artwork
+     * English logo
+     * Japanese logo
+     * Traditional Chinese logo
+     * Simplified Chinese logo
+     * Korean logo
+     * English title screen
+
+Characters[[1103]edit]
+
+Artwork[[1104]edit]
+
+     * Official illustration of Inkling.
+     * Official illustration of Mario.
+     * Official illustration of Mario and Rathalos.
+     * Official illustration of Simon and Richter.
+     * Official illustration of Villager and Isabelle.
+     * Official image of Pac-Man and Mr. Game & Watch.
+     * Official illustration of Link, Kirby, Mario, and Cloud.
+     * Official image of Bomberman.
+     * Official image of Kirby.
+     * Official illustration of Sonic the Hedgehog.
+     * Official image of all playable Pokémon characters, and the many Poké Ball Pokémon.
+     * Official illustration of the playable Zelda cast.
+     * Official illustration of all playable Fire Emblem characters and Assist Trophies.
+     * Official image of all playable Fire Emblem characters on Arena Ferox.
+     * Official illustration of Bayonetta, Rodin, and Madama Butterfly.
+     * Official image of Snake.
+     * Official image of Pit.
+     * Official illustration of Mega Man.
+     * Official illustration of Inkling.
+     * Official illustration of Joker.
+     * Official illustration of all of the base game fighters.
+
+Splash Art[[1105]edit]
+
+     * Splash art of Ridley.
+     * Splash art of Simon.
+     * Splash art of Richter.
+     * Splash art of Chrom.
+     * Splash art of Dark Samus.
+     * Splash art of King K. Rool.
+     * Splash art of Isabelle.
+     * Splash art of Ken.
+     * Splash art of Incineroar.
+     * Splash art of Piranha Plant.
+
+Trivia[[1106]edit]
+
+     * This is the first Super Smash Bros. game since the original [1107]Super Smash Bros. to not be announced alongside new hardware. [1108]Super Smash Bros. Melee was revealed alongside the final retail version of the Nintendo GameCube at E3 2001; [1109]Super Smash Bros. Brawl was announced alongside the Wii itself, then-codenamed Revolution at E3 2005; and [1110]Super Smash Bros. 4 was announced alongside the Wii U at E3 2011. Moreover, unlike the latter two games, this is the first time since Super Smash Bros. Melee that a Smash Bros. game is not announced years in advance, as Super Smash Bros. Brawl was announced in 2005 and revealed a year later, and Super Smash Bros. 4 was announced in 2011 and revealed two years later, with both released in 2008 and 2014 respectively.
+     * This is the second game to feature attack names for several [1111]standard attacks and [1112]aerial attacks, as well as the first to show them in-game (in character-specific [1113]tips). Previously, only Melee had listed attack names in a Nintendo Power Player's Guide.
+     * This is the first Super Smash Bros. game to:
+          + Not feature the involvement of [1114]Satoru Iwata, as he passed away in July of 2015.
+          + Be released in the same year it was announced.
+          + Have no veteran characters cut since Melee.
+          + Have a planned simultaneous worldwide release.
+          + Have the [1115]announcer, [1116]Master Hand, and [1117]Crazy Hand's English-language voice actor unchanged, with Xander Mobus reprising his role from [1118]Super Smash Bros. 4.
+          + Allow Master Hand to be legitimately playable, via a brief gameplay sequence near the end of [1119]World of Light. In previous games, Master Hand was only playable via [1120]glitches and/or external modification of the game's code (e.g. cheat code devices such as Action Replay).
+          + Retain the blast line KO sound effect from the previous game.
+          + Feature unlockable characters and only one newcomer on the box art.
+          + Have all of its veterans announced prior to launch and at the same time.
+          + Have none of its newcomers as starter characters.
+          + Feature more unlockable characters than starter characters.
+          + Feature [1121]third-party [1122]universes with more than one character.
+               o Feature [1123]clones from [1124]third-party [1125]universes.
+          + Have more returning stages than new stages.
+          + Have no unlockable stages.
+          + Have no new remixed version of the credits music from the original Super Smash Bros.
+          + Not introduce a new item from [1126]The Legend of Zelda series.
+          + Feature a [1127]third-party universe with more than one stage in the same game.
+          + Feature [1128]third-party [1129]universes with more than one Assist Trophy.
+          + Have an Assist Trophy character originating from an [1130]indie game.
+          + Not introduce a new type for a playable Pokémon (as both [1131]Fire and [1132]Dark were used in previous games).
+          + Have a [1133]theme song in both English and Japanese.
+          + Have a generic enemy ([1134]Piranha Plant) be playable.
+          + Have the characters and stages ordered on their respective select screens by the order they were added into the series (with the exception of Mii Fighters and Echo Fighters) instead of being placed next to the characters from the same universe.
+          + Depict all of the [1135]Original 8 fighters on the front cover of the boxart in their entirety.
+          + Feature fewer total newcomers (including [1136]DLC) than its [1137]predecessor.
+          + Have [1138]Kirby's victory poses finish in a different way.
+          + Introduce more playable [1139]third-party [1140]universes than [1141]first-party universes, being two and one respectively.
+          + Not to introduce a new type of [1142]Special move ([1143]Super Smash Bros. introduced Neutral, Up, and Down Specials, [1144]Super Smash Bros. Melee introduced Side Specials, [1145]Super Smash Bros. Brawl introduced [1146]Final Smashes, and [1147]Super Smash Bros. 4 introduced custom Specials).
+          + Have the [1148]announcer voice a playable character, [1149]Joker (not counting the Name Entry Glitch).
+     * Because of the size of the USK icon on the game's box art, the German version has a slightly different variation of said box art: [1150]Pikachu is moved upwards, [1151]Yoshi is completely missing, and the logo is off-centered.^[1152][19]
+     * The Ultimate logo features the same curved line under the game title as Super Smash Bros. 4, though it is no longer hidden behind the series name.
+     * Ultimate's release date falls one day after the late Satoru Iwata's birthday, December 6 (which was also the release date of [1153]Super Smash Bros. for Wii U in Japan).
+     * Ultimate is currently the only Super Smash Bros. game to not feature collectible [1154]trophies since their introduction in Melee.
+     * This is the third Super Smash Bros. game to feature hand-drawn artwork on the box art, with the first being the original Super Smash Bros and the second being Super Smash Bros. Brawl.
+     * This is the second Super Smash Bros. game that has been rated E10+ by the ESRB, the first being Super Smash Bros. for Nintendo 3DS and Wii U.
+     * This is the third Super Smash Bros. game that has been rated 12 by PEGI, the first being Super Smash Bros. Brawl and the second being Super Smash Bros. for Nintendo 3DS and Wii U.
+     * When not including DLC, Super Smash Bros. Ultimate has the lowest number of:
+          + Newcomers at 11, beating Smash 64's [1155]original 12.
+          + New stages at 4, beating Smash 64's 9. Counting DLC though, both would be tied, as five downloadable stages are currently planned.
+          + New character-based universes introduced, with only two ([1156]Splatoon and [1157]Castlevania), beating Melee's three ([1158]Ice Climber, [1159]Fire Emblem, and [1160]Game & Watch). Counting DLC, though, they are both currently tied (with [1161]Persona being added as DLC in Ultimate).
+     * This game marks the first appearances of the [1162]Mother and [1163]Kid Icarus fighters in a [1164]Nintendo Switch game, as well as [1165]King K. Rool, [1166]Zero Suit Samus, [1167]Dark Samus, [1168]Pichu, [1169]Greninja, [1170]Incineroar, [1171]Roy, [1172]Ike, [1173]Olimar, [1174]R.O.B., [1175]Wii Fit Trainer, [1176]Duck Hunt, and [1177]Richter.
+     * This game marks the 100th performance credit of [1178]Charles Martinet as the voice of [1179]Mario, a landmark for which he received a Guinness World Record for the most video game voice-over performances of a single character.
+
+References[[1180]edit]
+
+    1. [1181]↑ [1182]ESRB website
+    2. ↑ ^[1183]2.0 ^[1184]2.1 [1185]Types of items
+    3. [1186]↑ [1187]"Famitsu News — “Sakurai Catching a Breather”" - Source Gaming.
+    4. ↑ ^[1188]4.0 ^[1189]4.1 ^[1190]4.2 [1191]"“Smash is Special” COMPLETE Translation" - Source Gaming.
+    5. [1192]↑ [1193]"Why Super Smash Bros. Ultimate was such a daunting game for its creators to build" - The Verge.
+    6. [1194]↑ [1195]https://twitter.com/AllSourceGaming/status/1062725619270762496
+    7. [1196]↑ [1197]https://www.sourcegaming.info/2018/12/12/sakurai-tells-more-details-about-smash-ultimates-development/
+    8. [1198]↑ [1199]“Nintendo Apply for a Number of Trademarks” - Japanese Nintendo.
+    9. [1200]↑ [1201]Sakurai announces that he has been working on Smash for Switch.
+   10. [1202]↑ [1203]Translation of Sakurai's Smash for Switch tweet.
+   11. [1204]↑ [1205]"“Compliance and Labor” – Sakurai’s Famitsu Column, Vol. 542" - Source Gaming.
+   12. [1206]↑ [1207]Several trademarks from Nintendo are approved for use.
+   13. [1208]↑ [1209]Bear witnessing Sakurai shaking his head.
+   14. [1210]↑ [1211][1]
+   15. [1212]↑ [1213]https://twitter.com/notty_jirachi/status/1073305289519116289
+   16. [1214]↑ [1215]https://www.reddit.com/r/smashbros/comments/8rgc3i/did_a_framebyframe_breakdown_of_the_invitational/?st=jii2wdxz&sh=4cc5fc06
+   17. [1216]↑ [1217]https://www.youtube.com/watch?v=Q-ge7VRRWUo
+   18. [1218]↑ [1219]https://twitter.com/ChirozDR/status/1070137066636435458
+   19. [1220]↑ [1221]https://twitter.com/ZeldaUniverse/status/1009908072205160450
+
+External links[[1222]edit]
+
+     * [1223]Official Super Smash Bros. Ultimate website
+
+   [1224]v • [1225]d • [1226]e
+   [1227]Super Smash Bros. series
+   [1228]Super Smash Bros. · [1229]Super Smash Bros. Melee · [1230]Super Smash Bros. Brawl · [1231]Super Smash Bros. 4 ([1232]for Nintendo 3DS · [1233]for Wii U  · [1234]Smash Controller)  · Super Smash Bros. Ultimate
+   Ads keep SmashWiki independent and free :)
+   Retrieved from "[1235]https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&oldid=1181956"
+   [1236]Categories:
+     * [1237]Featured Articles
+     * [1238]Games
+     * [1239]Nintendo Switch
+     * [1240]Super Smash Bros. series
+     * [1241]Super Smash Bros. universe
+
+Navigation menu
+
+Views
+
+     * [1242]Article
+     * [1243]Discussion
+     * [1244]Edit this page
+     * [1245]History
+
+Personal tools
+
+     * Not logged in
+     * [1246]Talk
+     * [1247]Contributions
+     * [1248]Create account
+     * [1249]Log in
+
+Navigation
+
+     * [1250]Main page
+     * [1251]Smash Bros. Ultimate
+     * [1252]Smash Bros. 4
+     * [1253]Smash Bros. Brawl
+     * [1254]Smash Bros. Melee
+     * [1255]Smash Bros. (64)
+     * [1256]Characters
+     * [1257]Stages
+     * [1258]Modes
+     * [1259]Items
+     * [1260]Random page
+
+Search
+
+   ____________________ Go  Search
+
+Participate
+
+     * [1261]Forum
+     * [1262]Community portal
+     * [1263]Recent changes
+     * [1264]Help
+     * [1265]Admin noticeboard
+     * [1266]Discord server
+     * [1267]YouTube channel
+
+Tools
+
+     * [1268]What links here
+     * [1269]Related changes
+     * [1270]Special pages
+     * [1271]Printable version
+     * [1272]Permanent link
+     * [1273]Page information
+
+In other languages
+
+     * [1274]Español
+
+   [1275]Attribution-Share Alike 3.0 Unported
+   [1276]Powered by MediaWiki
+     * This page was last edited on 1 February 2019, at 03:11.
+     * Content is available under [1277]Attribution-Share Alike 3.0 Unported unless otherwise noted.
+     * [1278]Privacy policy
+     * [1279]About SmashWiki
+     * [1280]Disclaimers
+     * [1281]Mobile view
+
+References
+
+   Visible links
+   1. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&action=edit
+   2. https://www.ssbwiki.com/opensearch_desc.php
+   3. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&feed=atom
+   4. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#column-one
+   5. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#searchInput
+   6. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+   7. https://www.ssbwiki.com/SmashWiki:Featured_content
+   8. https://www.ssbwiki.com/Super_Smash_Bros._4
+   9. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+  10. https://www.ssbwiki.com/File:Super_Smash_Bros_Ultimate_Box_Art.png
+  11. https://en.wikipedia.org/wiki/Video_game_developer
+  12. https://www.ssbwiki.com/Bandai_Namco
+  13. https://www.ssbwiki.com/Sora_Ltd.
+  14. https://en.wikipedia.org/wiki/Video_game_publisher
+  15. https://www.ssbwiki.com/Nintendo
+  16. https://en.wikipedia.org/wiki/Game_designer
+  17. https://www.ssbwiki.com/Masahiro_Sakurai
+  18. https://en.wikipedia.org/wiki/Video_game_genres
+  19. https://en.wikipedia.org/wiki/Fighting_game
+  20. https://en.wikipedia.org/wiki/Platform_game
+  21. https://en.wikipedia.org/wiki/Video_game_content_rating_system
+  22. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_note-1
+  23. https://www.ssbwiki.com/Joy-Con
+  24. https://www.ssbwiki.com/Nintendo_Switch_Pro_Controller
+  25. https://www.ssbwiki.com/GameCube_controller
+  26. https://www.ssbwiki.com/Nintendo_Switch
+  27. https://www.ssbwiki.com/Nintendo_Direct
+  28. https://www.ssbwiki.com/Super_Smash_Bros._(series)
+  29. https://www.ssbwiki.com/Super_Smash_Bros._4
+  30. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#Opening_movie
+  31. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#Characters
+  32. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#Bosses
+  33. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#Stages
+  34. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#New_Items
+  35. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#Development
+  36. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#Reveal_and_promotion
+  37. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#Changes_from_SSB4
+  38. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#Menu_and_UI_changes
+  39. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#Gameplay_changes
+  40. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#Mobility_changes
+  41. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#Attack_changes
+  42. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#Aesthetic_changes
+  43. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#Item_changes
+  44. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#Gallery
+  45. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#Miscellaneous
+  46. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#Characters_2
+  47. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#Artwork
+  48. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#Splash_Art
+  49. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#Trivia
+  50. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#References
+  51. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#External_links
+  52. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&action=edit&section=1
+  53. https://www.ssbwiki.com/Opening_movie
+  54. https://www.ssbwiki.com/World_of_Light
+  55. https://www.youtube.com/embed/yA-oD5hen4I?
+  56. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&action=edit&section=2
+  57. https://www.ssbwiki.com/Character_selection_screen
+  58. https://www.ssbwiki.com/Pokémon_Trainer_(SSBU)
+  59. https://www.ssbwiki.com/Downloadable_content
+  60. https://www.ssbwiki.com/Pokémon_Trainer_(SSBU)
+  61. https://www.ssbwiki.com/Inkling_(SSBU)
+  62. https://splatoonwiki.org/wiki/Splatoon
+  63. https://www.ssbwiki.com/Ridley_(SSBU)
+  64. https://www.ssbwiki.com/Metroid_(universe)
+  65. https://www.ssbwiki.com/Meta_Ridley
+  66. https://www.ssbwiki.com/Simon_(SSBU)
+  67. https://www.ssbwiki.com/Castlevania_(universe)
+  68. https://www.ssbwiki.com/King_K._Rool_(SSBU)
+  69. https://www.ssbwiki.com/Donkey_Kong_(universe)
+  70. https://www.ssbwiki.com/Isabelle_(SSBU)
+  71. https://www.ssbwiki.com/Animal_Crossing_(universe)
+  72. https://www.ssbwiki.com/Assist_Trophy
+  73. https://www.ssbwiki.com/Incineroar_(SSBU)
+  74. https://bulbapedia.bulbagarden.net/wiki/Pokémon_Sun_&_Moon
+  75. https://www.ssbwiki.com/Clone_characters
+  76. https://www.ssbwiki.com/Lucina_(SSBU)
+  77. https://www.ssbwiki.com/Dark_Pit_(SSBU)
+  78. https://www.ssbwiki.com/Daisy_(SSBU)
+  79. https://www.ssbwiki.com/Richter_(SSBU)
+  80. https://www.ssbwiki.com/Dark_Samus_(SSBU)
+  81. https://www.ssbwiki.com/Chrom_(SSBU)
+  82. https://www.ssbwiki.com/Ken_(SSBU)
+  83. https://www.ssbwiki.com/Peach_(SSBU)
+  84. https://www.ssbwiki.com/Simon_(SSBU)
+  85. https://www.ssbwiki.com/Samus_(SSBU)
+  86. https://www.ssbwiki.com/Roy_(SSBU)
+  87. https://www.ssbwiki.com/Ryu_(SSBU)
+  88. https://www.ssbwiki.com/Character_select_screen
+  89. https://www.ssbwiki.com/Vs._Mode
+  90. https://www.ssbwiki.com/Tourney
+  91. https://www.ssbwiki.com/Special_Smash
+  92. https://www.ssbwiki.com/Smashdown
+  93. https://www.ssbwiki.com/Mob_Smash
+  94. https://www.ssbwiki.com/Piranha_Plant_(SSBU)
+  95. https://www.ssbwiki.com/Mario_(universe)
+  96. https://www.ssbwiki.com/Persona_(universe)
+  97. https://www.ssbwiki.com/Joker_(SSBU)
+  98. https://www.ssbwiki.com/Fighter_Pass
+  99. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 100. https://www.ssbwiki.com/Alph
+ 101. https://www.ssbwiki.com/Olimar_(SSBU)
+ 102. https://www.ssbwiki.com/Koopalings
+ 103. https://www.ssbwiki.com/Bowser_Jr._(SSBU)
+ 104. https://www.ssbwiki.com/Mii_Fighter_(SSBU)
+ 105. https://www.ssbwiki.com/Mario_(SSBU)
+ 106. https://www.ssbwiki.com/Mario_(SSBU)
+ 107. https://www.ssbwiki.com/Mario_(universe)
+ 108. https://www.ssbwiki.com/Luigi_(SSBU)
+ 109. https://www.ssbwiki.com/Luigi_(SSBU)
+ 110. https://www.ssbwiki.com/Mario_(universe)
+ 111. https://www.ssbwiki.com/Peach_(SSBU)
+ 112. https://www.ssbwiki.com/Peach_(SSBU)
+ 113. https://www.ssbwiki.com/Mario_(universe)
+ 114. https://www.ssbwiki.com/Bowser_(SSBU)
+ 115. https://www.ssbwiki.com/Bowser_(SSBU)
+ 116. https://www.ssbwiki.com/Mario_(universe)
+ 117. https://www.ssbwiki.com/Dr._Mario_(SSBU)
+ 118. https://www.ssbwiki.com/Dr._Mario_(SSBU)
+ 119. https://www.ssbwiki.com/Mario_(universe)
+ 120. https://www.ssbwiki.com/Rosalina_&_Luma_(SSBU)
+ 121. https://www.ssbwiki.com/Rosalina_&_Luma_(SSBU)
+ 122. https://www.ssbwiki.com/Mario_(universe)
+ 123. https://www.ssbwiki.com/Bowser_Jr._(SSBU)
+ 124. https://www.ssbwiki.com/Bowser_Jr._(SSBU)
+ 125. https://www.ssbwiki.com/Mario_(universe)
+ 126. https://www.ssbwiki.com/Yoshi_(SSBU)
+ 127. https://www.ssbwiki.com/Yoshi_(SSBU)
+ 128. https://www.ssbwiki.com/Yoshi_(universe)
+ 129. https://www.ssbwiki.com/Donkey_Kong_(SSBU)
+ 130. https://www.ssbwiki.com/Donkey_Kong_(SSBU)
+ 131. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 132. https://www.ssbwiki.com/Diddy_Kong_(SSBU)
+ 133. https://www.ssbwiki.com/Diddy_Kong_(SSBU)
+ 134. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 135. https://www.ssbwiki.com/Link_(SSBU)
+ 136. https://www.ssbwiki.com/Link_(SSBU)
+ 137. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 138. https://www.ssbwiki.com/Zelda_(SSBU)
+ 139. https://www.ssbwiki.com/Zelda_(SSBU)
+ 140. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 141. https://www.ssbwiki.com/Sheik_(SSBU)
+ 142. https://www.ssbwiki.com/Sheik_(SSBU)
+ 143. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 144. https://www.ssbwiki.com/Ganondorf_(SSBU)
+ 145. https://www.ssbwiki.com/Ganondorf_(SSBU)
+ 146. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 147. https://www.ssbwiki.com/Young_Link_(SSBU)
+ 148. https://www.ssbwiki.com/Young_Link_(SSBU)
+ 149. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 150. https://www.ssbwiki.com/Toon_Link_(SSBU)
+ 151. https://www.ssbwiki.com/Toon_Link_(SSBU)
+ 152. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 153. https://www.ssbwiki.com/Samus_(SSBU)
+ 154. https://www.ssbwiki.com/Samus_(SSBU)
+ 155. https://www.ssbwiki.com/Metroid_(universe)
+ 156. https://www.ssbwiki.com/Zero_Suit_Samus_(SSBU)
+ 157. https://www.ssbwiki.com/Zero_Suit_Samus_(SSBU)
+ 158. https://www.ssbwiki.com/Metroid_(universe)
+ 159. https://www.ssbwiki.com/Kirby_(SSBU)
+ 160. https://www.ssbwiki.com/Kirby_(SSBU)
+ 161. https://www.ssbwiki.com/Kirby_(universe)
+ 162. https://www.ssbwiki.com/Meta_Knight_(SSBU)
+ 163. https://www.ssbwiki.com/Meta_Knight_(SSBU)
+ 164. https://www.ssbwiki.com/Kirby_(universe)
+ 165. https://www.ssbwiki.com/King_Dedede_(SSBU)
+ 166. https://www.ssbwiki.com/King_Dedede_(SSBU)
+ 167. https://www.ssbwiki.com/Kirby_(universe)
+ 168. https://www.ssbwiki.com/Fox_(SSBU)
+ 169. https://www.ssbwiki.com/Fox_(SSBU)
+ 170. https://www.ssbwiki.com/Star_Fox_(universe)
+ 171. https://www.ssbwiki.com/Falco_(SSBU)
+ 172. https://www.ssbwiki.com/Falco_(SSBU)
+ 173. https://www.ssbwiki.com/Star_Fox_(universe)
+ 174. https://www.ssbwiki.com/Wolf_(SSBU)
+ 175. https://www.ssbwiki.com/Wolf_(SSBU)
+ 176. https://www.ssbwiki.com/Star_Fox_(universe)
+ 177. https://www.ssbwiki.com/Pikachu_(SSBU)
+ 178. https://www.ssbwiki.com/Pikachu_(SSBU)
+ 179. https://www.ssbwiki.com/Pokémon_(universe)
+ 180. https://www.ssbwiki.com/Jigglypuff_(SSBU)
+ 181. https://www.ssbwiki.com/Jigglypuff_(SSBU)
+ 182. https://www.ssbwiki.com/Pokémon_(universe)
+ 183. https://www.ssbwiki.com/Mewtwo_(SSBU)
+ 184. https://www.ssbwiki.com/Mewtwo_(SSBU)
+ 185. https://www.ssbwiki.com/Pokémon_(universe)
+ 186. https://www.ssbwiki.com/Pichu_(SSBU)
+ 187. https://www.ssbwiki.com/Pichu_(SSBU)
+ 188. https://www.ssbwiki.com/Pokémon_(universe)
+ 189. https://www.ssbwiki.com/Pokémon_Trainer_(SSBU)
+ 190. https://www.ssbwiki.com/Squirtle_(SSBU)
+ 191. https://www.ssbwiki.com/Ivysaur_(SSBU)
+ 192. https://www.ssbwiki.com/Charizard_(SSBU)
+ 193. https://www.ssbwiki.com/Pokémon_Trainer_(SSBU)
+ 194. https://www.ssbwiki.com/Squirtle_(SSBU)
+ 195. https://www.ssbwiki.com/Ivysaur_(SSBU)
+ 196. https://www.ssbwiki.com/Charizard_(SSBU)
+ 197. https://www.ssbwiki.com/Pokémon_(universe)
+ 198. https://www.ssbwiki.com/Lucario_(SSBU)
+ 199. https://www.ssbwiki.com/Lucario_(SSBU)
+ 200. https://www.ssbwiki.com/Pokémon_(universe)
+ 201. https://www.ssbwiki.com/Greninja_(SSBU)
+ 202. https://www.ssbwiki.com/Greninja_(SSBU)
+ 203. https://www.ssbwiki.com/Pokémon_(universe)
+ 204. https://www.ssbwiki.com/Captain_Falcon_(SSBU)
+ 205. https://www.ssbwiki.com/Captain_Falcon_(SSBU)
+ 206. https://www.ssbwiki.com/F-Zero_(universe)
+ 207. https://www.ssbwiki.com/Ness_(SSBU)
+ 208. https://www.ssbwiki.com/Ness_(SSBU)
+ 209. https://www.ssbwiki.com/EarthBound_(universe)
+ 210. https://www.ssbwiki.com/Lucas_(SSBU)
+ 211. https://www.ssbwiki.com/Lucas_(SSBU)
+ 212. https://www.ssbwiki.com/EarthBound_(universe)
+ 213. https://www.ssbwiki.com/Ice_Climbers_(SSBU)
+ 214. https://www.ssbwiki.com/Ice_Climbers_(SSBU)
+ 215. https://www.ssbwiki.com/Ice_Climber_(universe)
+ 216. https://www.ssbwiki.com/Marth_(SSBU)
+ 217. https://www.ssbwiki.com/Marth_(SSBU)
+ 218. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 219. https://www.ssbwiki.com/Roy_(SSBU)
+ 220. https://www.ssbwiki.com/Roy_(SSBU)
+ 221. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 222. https://www.ssbwiki.com/Ike_(SSBU)
+ 223. https://www.ssbwiki.com/Ike_(SSBU)
+ 224. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 225. https://www.ssbwiki.com/Lucina_(SSBU)
+ 226. https://www.ssbwiki.com/Lucina_(SSBU)
+ 227. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 228. https://www.ssbwiki.com/Robin_(SSBU)
+ 229. https://www.ssbwiki.com/Robin_(SSBU)
+ 230. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 231. https://www.ssbwiki.com/Corrin_(SSBU)
+ 232. https://www.ssbwiki.com/Corrin_(SSBU)
+ 233. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 234. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSBU)
+ 235. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSBU)
+ 236. https://www.ssbwiki.com/Game_&_Watch_(universe)
+ 237. https://www.ssbwiki.com/Pit_(SSBU)
+ 238. https://www.ssbwiki.com/Pit_(SSBU)
+ 239. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 240. https://www.ssbwiki.com/Palutena_(SSBU)
+ 241. https://www.ssbwiki.com/Palutena_(SSBU)
+ 242. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 243. https://www.ssbwiki.com/Dark_Pit_(SSBU)
+ 244. https://www.ssbwiki.com/Dark_Pit_(SSBU)
+ 245. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 246. https://www.ssbwiki.com/Wario_(SSBU)
+ 247. https://www.ssbwiki.com/Wario_(SSBU)
+ 248. https://www.ssbwiki.com/Wario_(universe)
+ 249. https://www.ssbwiki.com/Olimar_(SSBU)
+ 250. https://www.ssbwiki.com/Olimar_(SSBU)
+ 251. https://www.ssbwiki.com/Pikmin_(universe)
+ 252. https://www.ssbwiki.com/R.O.B._(SSBU)
+ 253. https://www.ssbwiki.com/R.O.B._(SSBU)
+ 254. https://www.ssbwiki.com/R.O.B._(universe)
+ 255. https://www.ssbwiki.com/Villager_(SSBU)
+ 256. https://www.ssbwiki.com/Villager_(SSBU)
+ 257. https://www.ssbwiki.com/Animal_Crossing_(universe)
+ 258. https://www.ssbwiki.com/Little_Mac_(SSBU)
+ 259. https://www.ssbwiki.com/Little_Mac_(SSBU)
+ 260. https://www.ssbwiki.com/Punch-Out!!_(universe)
+ 261. https://www.ssbwiki.com/Wii_Fit_Trainer_(SSBU)
+ 262. https://www.ssbwiki.com/Wii_Fit_Trainer_(SSBU)
+ 263. https://www.ssbwiki.com/Wii_Fit_(universe)
+ 264. https://www.ssbwiki.com/Shulk_(SSBU)
+ 265. https://www.ssbwiki.com/Shulk_(SSBU)
+ 266. https://www.ssbwiki.com/Xenoblade_(universe)
+ 267. https://www.ssbwiki.com/Duck_Hunt_(SSBU)
+ 268. https://www.ssbwiki.com/Duck_Hunt_(SSBU)
+ 269. https://www.ssbwiki.com/Duck_Hunt_(universe)
+ 270. https://www.ssbwiki.com/Snake_(SSBU)
+ 271. https://www.ssbwiki.com/Snake_(SSBU)
+ 272. https://www.ssbwiki.com/Metal_Gear_(universe)
+ 273. https://www.ssbwiki.com/Sonic_(SSBU)
+ 274. https://www.ssbwiki.com/Sonic_(SSBU)
+ 275. https://www.ssbwiki.com/Sonic_(universe)
+ 276. https://www.ssbwiki.com/Mega_Man_(SSBU)
+ 277. https://www.ssbwiki.com/Mega_Man_(SSBU)
+ 278. https://www.ssbwiki.com/Mega_Man_(universe)
+ 279. https://www.ssbwiki.com/Pac-Man_(SSBU)
+ 280. https://www.ssbwiki.com/Pac-Man_(SSBU)
+ 281. https://www.ssbwiki.com/Pac-Man_(universe)
+ 282. https://www.ssbwiki.com/Ryu_(SSBU)
+ 283. https://www.ssbwiki.com/Ryu_(SSBU)
+ 284. https://www.ssbwiki.com/Street_Fighter_(universe)
+ 285. https://www.ssbwiki.com/Cloud_(SSBU)
+ 286. https://www.ssbwiki.com/Cloud_(SSBU)
+ 287. https://www.ssbwiki.com/Final_Fantasy_(universe)
+ 288. https://www.ssbwiki.com/Bayonetta_(SSBU)
+ 289. https://www.ssbwiki.com/Bayonetta_(SSBU)
+ 290. https://www.ssbwiki.com/Bayonetta_(universe)
+ 291. https://www.ssbwiki.com/Mii_Brawler_(SSBU)
+ 292. https://www.ssbwiki.com/Mii_Brawler_(SSBU)
+ 293. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 294. https://www.ssbwiki.com/Mii_Swordfighter_(SSBU)
+ 295. https://www.ssbwiki.com/Mii_Swordfighter_(SSBU)
+ 296. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 297. https://www.ssbwiki.com/Mii_Gunner_(SSBU)
+ 298. https://www.ssbwiki.com/Mii_Gunner_(SSBU)
+ 299. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 300. https://www.ssbwiki.com/Daisy_(SSBU)
+ 301. https://www.ssbwiki.com/Daisy_(SSBU)
+ 302. https://www.ssbwiki.com/Mario_(universe)
+ 303. https://www.ssbwiki.com/Piranha_Plant_(SSBU)
+ 304. https://www.ssbwiki.com/Piranha_Plant_(SSBU)
+ 305. https://www.ssbwiki.com/Mario_(universe)
+ 306. https://www.ssbwiki.com/King_K._Rool_(SSBU)
+ 307. https://www.ssbwiki.com/King_K._Rool_(SSBU)
+ 308. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 309. https://www.ssbwiki.com/Ridley_(SSBU)
+ 310. https://www.ssbwiki.com/Ridley_(SSBU)
+ 311. https://www.ssbwiki.com/Metroid_(universe)
+ 312. https://www.ssbwiki.com/Dark_Samus_(SSBU)
+ 313. https://www.ssbwiki.com/Dark_Samus_(SSBU)
+ 314. https://www.ssbwiki.com/Metroid_(universe)
+ 315. https://www.ssbwiki.com/Incineroar_(SSBU)
+ 316. https://www.ssbwiki.com/Incineroar_(SSBU)
+ 317. https://www.ssbwiki.com/Pokémon_(universe)
+ 318. https://www.ssbwiki.com/Chrom_(SSBU)
+ 319. https://www.ssbwiki.com/Chrom_(SSBU)
+ 320. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 321. https://www.ssbwiki.com/Isabelle_(SSBU)
+ 322. https://www.ssbwiki.com/Isabelle_(SSBU)
+ 323. https://www.ssbwiki.com/Animal_Crossing_(universe)
+ 324. https://www.ssbwiki.com/Inkling_(SSBU)
+ 325. https://www.ssbwiki.com/Inkling_(SSBU)
+ 326. https://www.ssbwiki.com/Splatoon_(universe)
+ 327. https://www.ssbwiki.com/Ken_(SSBU)
+ 328. https://www.ssbwiki.com/Ken_(SSBU)
+ 329. https://www.ssbwiki.com/Street_Fighter_(universe)
+ 330. https://www.ssbwiki.com/Simon_(SSBU)
+ 331. https://www.ssbwiki.com/Simon_(SSBU)
+ 332. https://www.ssbwiki.com/Castlevania_(universe)
+ 333. https://www.ssbwiki.com/Richter_(SSBU)
+ 334. https://www.ssbwiki.com/Richter_(SSBU)
+ 335. https://www.ssbwiki.com/Castlevania_(universe)
+ 336. https://www.ssbwiki.com/Joker_(SSBU)
+ 337. https://www.ssbwiki.com/Joker_(SSBU)
+ 338. https://www.ssbwiki.com/Persona_(universe)
+ 339. https://www.ssbwiki.com/Starter_character#Super_Smash_Bros._Ultimate
+ 340. https://www.ssbwiki.com/Echo_Fighter#Clones_in_Super_Smash_Bros._Ultimate
+ 341. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&action=edit&section=3
+ 342. https://www.ssbwiki.com/Galeem
+ 343. https://www.ssbwiki.com/Galeem
+ 344. https://www.ssbwiki.com/Adventure_Mode:_World_of_Light
+ 345. https://www.ssbwiki.com/Master_Hand_(SSBU)
+ 346. https://www.ssbwiki.com/Master_Hand_(SSBU)
+ 347. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 348. https://www.ssbwiki.com/Giga_Bowser_(SSBU)
+ 349. https://www.ssbwiki.com/Giga_Bowser_(SSBU)
+ 350. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 351. https://www.ssbwiki.com/Galleom_(SSBU)
+ 352. https://www.ssbwiki.com/Galleom_(SSBU)
+ 353. https://www.ssbwiki.com/Subspace_Army
+ 354. https://www.ssbwiki.com/Rathalos_(SSBU)
+ 355. https://www.ssbwiki.com/Rathalos_(SSBU)
+ 356. https://www.ssbwiki.com/File:OtherSymbol.svg
+ 357. https://www.ssbwiki.com/Dharkon
+ 358. https://www.ssbwiki.com/Dharkon
+ 359. https://www.ssbwiki.com/Adventure_Mode:_World_of_Light
+ 360. https://www.ssbwiki.com/Crazy_Hand_(SSBU)
+ 361. https://www.ssbwiki.com/Crazy_Hand_(SSBU)
+ 362. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 363. https://www.ssbwiki.com/Marx
+ 364. https://www.ssbwiki.com/Marx
+ 365. https://www.ssbwiki.com/Kirby_(universe)
+ 366. https://www.ssbwiki.com/Ganon
+ 367. https://www.ssbwiki.com/Ganon
+ 368. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 369. https://www.ssbwiki.com/Dracula
+ 370. https://www.ssbwiki.com/Dracula
+ 371. https://www.ssbwiki.com/Castlevania_(universe)
+ 372. https://www.ssbwiki.com/Metal_Face
+ 373. https://www.ssbwiki.com/Metal_Face
+ 374. https://www.ssbwiki.com/Xenoblade_(universe)
+ 375. https://www.ssbwiki.com/Yellow_Devil
+ 376. https://www.ssbwiki.com/Yellow_Devil
+ 377. https://www.ssbwiki.com/Mega_Man_(universe)
+ 378. https://www.ssbwiki.com/Dark_Emperor
+ 379. https://www.ssbwiki.com/Dark_Emperor
+ 380. https://www.ssbwiki.com/Find_Mii_(universe)
+ 381. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&action=edit&section=4
+ 382. https://www.ssbwiki.com/Battlefield_form
+ 383. https://www.ssbwiki.com/Ω_form
+ 384. https://youtu.be/63S5HWbK6lo
+ 385. https://www.ssbwiki.com/Battlefield_(SSBU)
+ 386. https://www.ssbwiki.com/Battlefield_(SSBU)
+ 387. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 388. https://www.ssbwiki.com/Big_Battlefield_(SSBU)
+ 389. https://www.ssbwiki.com/Big_Battlefield_(SSBU)
+ 390. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 391. https://www.ssbwiki.com/Final_Destination_(SSBU)
+ 392. https://www.ssbwiki.com/Final_Destination_(SSBU)
+ 393. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 394. https://www.ssbwiki.com/New_Donk_City_Hall
+ 395. https://www.ssbwiki.com/New_Donk_City_Hall
+ 396. https://www.ssbwiki.com/Mario_(universe)
+ 397. https://www.ssbwiki.com/Great_Plateau_Tower
+ 398. https://www.ssbwiki.com/Great_Plateau_Tower
+ 399. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 400. https://www.ssbwiki.com/Moray_Towers
+ 401. https://www.ssbwiki.com/Moray_Towers
+ 402. https://www.ssbwiki.com/Splatoon_(universe)
+ 403. https://www.ssbwiki.com/Dracula's_Castle
+ 404. https://www.ssbwiki.com/Dracula's_Castle
+ 405. https://www.ssbwiki.com/Castlevania_(universe)
+ 406. https://www.ssbwiki.com/Peach's_Castle
+ 407. https://www.ssbwiki.com/Super_Smash_Bros.
+ 408. https://www.ssbwiki.com/Peach's_Castle
+ 409. https://www.ssbwiki.com/Mario_(universe)
+ 410. https://www.ssbwiki.com/Mushroom_Kingdom_(SSB)
+ 411. https://www.ssbwiki.com/Super_Smash_Bros.
+ 412. https://www.ssbwiki.com/Mushroom_Kingdom_(SSB)
+ 413. https://www.ssbwiki.com/Mario_(universe)
+ 414. https://www.ssbwiki.com/Princess_Peach's_Castle
+ 415. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 416. https://www.ssbwiki.com/Princess_Peach's_Castle
+ 417. https://www.ssbwiki.com/Mario_(universe)
+ 418. https://www.ssbwiki.com/Rainbow_Cruise
+ 419. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 420. https://www.ssbwiki.com/Rainbow_Cruise
+ 421. https://www.ssbwiki.com/Mario_(universe)
+ 422. https://www.ssbwiki.com/Mushroom_Kingdom_II
+ 423. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 424. https://www.ssbwiki.com/Mushroom_Kingdom_II
+ 425. https://www.ssbwiki.com/Mario_(universe)
+ 426. https://www.ssbwiki.com/Delfino_Plaza
+ 427. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 428. https://www.ssbwiki.com/Delfino_Plaza
+ 429. https://www.ssbwiki.com/Mario_(universe)
+ 430. https://www.ssbwiki.com/Luigi's_Mansion
+ 431. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 432. https://www.ssbwiki.com/Luigi's_Mansion
+ 433. https://www.ssbwiki.com/Mario_(universe)
+ 434. https://www.ssbwiki.com/Mushroomy_Kingdom
+ 435. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 436. https://www.ssbwiki.com/Mushroomy_Kingdom
+ 437. https://www.ssbwiki.com/Mario_(universe)
+ 438. https://www.ssbwiki.com/Mario_Circuit_(SSBB)
+ 439. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 440. https://www.ssbwiki.com/Mario_Circuit_(SSBB)
+ 441. https://www.ssbwiki.com/Mario_(universe)
+ 442. https://www.ssbwiki.com/Mario_Bros.
+ 443. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 444. https://www.ssbwiki.com/Mario_Bros.
+ 445. https://www.ssbwiki.com/Mario_(universe)
+ 446. https://www.ssbwiki.com/3D_Land
+ 447. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 448. https://www.ssbwiki.com/3D_Land
+ 449. https://www.ssbwiki.com/Mario_(universe)
+ 450. https://www.ssbwiki.com/Golden_Plains
+ 451. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 452. https://www.ssbwiki.com/Golden_Plains
+ 453. https://www.ssbwiki.com/Mario_(universe)
+ 454. https://www.ssbwiki.com/Paper_Mario
+ 455. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 456. https://www.ssbwiki.com/Paper_Mario
+ 457. https://www.ssbwiki.com/Mario_(universe)
+ 458. https://www.ssbwiki.com/Mushroom_Kingdom_U
+ 459. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 460. https://www.ssbwiki.com/Mushroom_Kingdom_U
+ 461. https://www.ssbwiki.com/Mario_(universe)
+ 462. https://www.ssbwiki.com/Mario_Galaxy
+ 463. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 464. https://www.ssbwiki.com/Mario_Galaxy
+ 465. https://www.ssbwiki.com/Mario_(universe)
+ 466. https://www.ssbwiki.com/Mario_Circuit_(SSB4)
+ 467. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 468. https://www.ssbwiki.com/Mario_Circuit_(SSB4)
+ 469. https://www.ssbwiki.com/Mario_(universe)
+ 470. https://www.ssbwiki.com/Super_Mario_Maker
+ 471. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 472. https://www.ssbwiki.com/Super_Mario_Maker
+ 473. https://www.ssbwiki.com/Mario_(universe)
+ 474. https://www.ssbwiki.com/Yoshi's_Island_(SSB)
+ 475. https://www.ssbwiki.com/Super_Smash_Bros.
+ 476. https://www.ssbwiki.com/Yoshi's_Island_(SSB)
+ 477. https://www.ssbwiki.com/Yoshi_(universe)
+ 478. https://www.ssbwiki.com/Yoshi's_Island_(SSBM)
+ 479. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 480. https://www.ssbwiki.com/Yoshi's_Island_(SSBM)
+ 481. https://www.ssbwiki.com/Yoshi_(universe)
+ 482. https://www.ssbwiki.com/Yoshi's_Story
+ 483. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 484. https://www.ssbwiki.com/Yoshi's_Story
+ 485. https://www.ssbwiki.com/Yoshi_(universe)
+ 486. https://www.ssbwiki.com/Yoshi's_Island_(SSBB)
+ 487. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 488. https://www.ssbwiki.com/Yoshi's_Island_(SSBB)
+ 489. https://www.ssbwiki.com/Yoshi_(universe)
+ 490. https://www.ssbwiki.com/Kongo_Jungle_(SSB)
+ 491. https://www.ssbwiki.com/Super_Smash_Bros.
+ 492. https://www.ssbwiki.com/Kongo_Jungle_(SSB)
+ 493. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 494. https://www.ssbwiki.com/Kongo_Falls
+ 495. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 496. https://www.ssbwiki.com/Kongo_Jungle_(SSBM)
+ 497. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 498. https://www.ssbwiki.com/Jungle_Japes
+ 499. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 500. https://www.ssbwiki.com/Jungle_Japes
+ 501. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 502. https://www.ssbwiki.com/75m
+ 503. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 504. https://www.ssbwiki.com/75m
+ 505. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 506. https://www.ssbwiki.com/Hyrule_Castle
+ 507. https://www.ssbwiki.com/Super_Smash_Bros.
+ 508. https://www.ssbwiki.com/Hyrule_Castle
+ 509. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 510. https://www.ssbwiki.com/Great_Bay
+ 511. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 512. https://www.ssbwiki.com/Great_Bay
+ 513. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 514. https://www.ssbwiki.com/Temple
+ 515. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 516. https://www.ssbwiki.com/Temple
+ 517. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 518. https://www.ssbwiki.com/Bridge_of_Eldin
+ 519. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 520. https://www.ssbwiki.com/Bridge_of_Eldin
+ 521. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 522. https://www.ssbwiki.com/Pirate_Ship
+ 523. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 524. https://www.ssbwiki.com/Pirate_Ship
+ 525. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 526. https://www.ssbwiki.com/Gerudo_Valley
+ 527. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 528. https://www.ssbwiki.com/Gerudo_Valley
+ 529. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 530. https://www.ssbwiki.com/Spirit_Train
+ 531. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 532. https://www.ssbwiki.com/Spirit_Train
+ 533. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 534. https://www.ssbwiki.com/Skyloft
+ 535. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 536. https://www.ssbwiki.com/Skyloft
+ 537. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 538. https://www.ssbwiki.com/Brinstar
+ 539. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 540. https://www.ssbwiki.com/Brinstar
+ 541. https://www.ssbwiki.com/Metroid_(universe)
+ 542. https://www.ssbwiki.com/Brinstar_Depths
+ 543. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 544. https://www.ssbwiki.com/Brinstar_Depths
+ 545. https://www.ssbwiki.com/Metroid_(universe)
+ 546. https://www.ssbwiki.com/Norfair
+ 547. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 548. https://www.ssbwiki.com/Norfair
+ 549. https://www.ssbwiki.com/Metroid_(universe)
+ 550. https://www.ssbwiki.com/Frigate_Orpheon
+ 551. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 552. https://www.ssbwiki.com/Frigate_Orpheon
+ 553. https://www.ssbwiki.com/Metroid_(universe)
+ 554. https://www.ssbwiki.com/Dream_Land_(SSB)
+ 555. https://www.ssbwiki.com/Super_Smash_Bros.
+ 556. https://www.ssbwiki.com/Dream_Land_(SSB)
+ 557. https://www.ssbwiki.com/Kirby_(universe)
+ 558. https://www.ssbwiki.com/Fountain_of_Dreams
+ 559. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 560. https://www.ssbwiki.com/Fountain_of_Dreams
+ 561. https://www.ssbwiki.com/Kirby_(universe)
+ 562. https://www.ssbwiki.com/Green_Greens
+ 563. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 564. https://www.ssbwiki.com/Green_Greens
+ 565. https://www.ssbwiki.com/Kirby_(universe)
+ 566. https://www.ssbwiki.com/Halberd
+ 567. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 568. https://www.ssbwiki.com/Halberd
+ 569. https://www.ssbwiki.com/Kirby_(universe)
+ 570. https://www.ssbwiki.com/Dream_Land_(SSB4)
+ 571. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 572. https://www.ssbwiki.com/Dream_Land_(SSB4)
+ 573. https://www.ssbwiki.com/Kirby_(universe)
+ 574. https://www.ssbwiki.com/The_Great_Cave_Offensive
+ 575. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 576. https://www.ssbwiki.com/The_Great_Cave_Offensive
+ 577. https://www.ssbwiki.com/Kirby_(universe)
+ 578. https://www.ssbwiki.com/Corneria
+ 579. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 580. https://www.ssbwiki.com/Corneria
+ 581. https://www.ssbwiki.com/Star_Fox_(universe)
+ 582. https://www.ssbwiki.com/Venom
+ 583. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 584. https://www.ssbwiki.com/Venom
+ 585. https://www.ssbwiki.com/Star_Fox_(universe)
+ 586. https://www.ssbwiki.com/Lylat_Cruise
+ 587. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 588. https://www.ssbwiki.com/Lylat_Cruise
+ 589. https://www.ssbwiki.com/Star_Fox_(universe)
+ 590. https://www.ssbwiki.com/Saffron_City
+ 591. https://www.ssbwiki.com/Super_Smash_Bros.
+ 592. https://www.ssbwiki.com/Saffron_City
+ 593. https://www.ssbwiki.com/Pokémon_(universe)
+ 594. https://www.ssbwiki.com/Pokémon_Stadium
+ 595. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 596. https://www.ssbwiki.com/Pokémon_Stadium
+ 597. https://www.ssbwiki.com/Pokémon_(universe)
+ 598. https://www.ssbwiki.com/Pokémon_Stadium_2
+ 599. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 600. https://www.ssbwiki.com/Pokémon_Stadium_2
+ 601. https://www.ssbwiki.com/Pokémon_(universe)
+ 602. https://www.ssbwiki.com/Spear_Pillar
+ 603. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 604. https://www.ssbwiki.com/Spear_Pillar
+ 605. https://www.ssbwiki.com/Pokémon_(universe)
+ 606. https://www.ssbwiki.com/Unova_Pokémon_League
+ 607. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 608. https://www.ssbwiki.com/Unova_Pokémon_League
+ 609. https://www.ssbwiki.com/Pokémon_(universe)
+ 610. https://www.ssbwiki.com/Prism_Tower
+ 611. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 612. https://www.ssbwiki.com/Prism_Tower
+ 613. https://www.ssbwiki.com/Pokémon_(universe)
+ 614. https://www.ssbwiki.com/Kalos_Pokémon_League
+ 615. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 616. https://www.ssbwiki.com/Kalos_Pokémon_League
+ 617. https://www.ssbwiki.com/Pokémon_(universe)
+ 618. https://www.ssbwiki.com/Big_Blue
+ 619. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 620. https://www.ssbwiki.com/Big_Blue
+ 621. https://www.ssbwiki.com/F-Zero_(universe)
+ 622. https://www.ssbwiki.com/Port_Town_Aero_Dive
+ 623. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 624. https://www.ssbwiki.com/Port_Town_Aero_Dive
+ 625. https://www.ssbwiki.com/F-Zero_(universe)
+ 626. https://www.ssbwiki.com/Mute_City_(SSB4)
+ 627. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 628. https://www.ssbwiki.com/Mute_City_(SSB4)
+ 629. https://www.ssbwiki.com/F-Zero_(universe)
+ 630. https://www.ssbwiki.com/Onett
+ 631. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 632. https://www.ssbwiki.com/Onett
+ 633. https://www.ssbwiki.com/EarthBound_(universe)
+ 634. https://www.ssbwiki.com/Fourside
+ 635. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 636. https://www.ssbwiki.com/Fourside
+ 637. https://www.ssbwiki.com/EarthBound_(universe)
+ 638. https://www.ssbwiki.com/New_Pork_City
+ 639. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 640. https://www.ssbwiki.com/New_Pork_City
+ 641. https://www.ssbwiki.com/EarthBound_(universe)
+ 642. https://www.ssbwiki.com/Magicant
+ 643. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 644. https://www.ssbwiki.com/Magicant
+ 645. https://www.ssbwiki.com/EarthBound_(universe)
+ 646. https://www.ssbwiki.com/Summit
+ 647. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 648. https://www.ssbwiki.com/Summit
+ 649. https://www.ssbwiki.com/Ice_Climber_(universe)
+ 650. https://www.ssbwiki.com/Castle_Siege
+ 651. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 652. https://www.ssbwiki.com/Castle_Siege
+ 653. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 654. https://www.ssbwiki.com/Arena_Ferox
+ 655. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 656. https://www.ssbwiki.com/Arena_Ferox
+ 657. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 658. https://www.ssbwiki.com/Coliseum
+ 659. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 660. https://www.ssbwiki.com/Coliseum
+ 661. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 662. https://www.ssbwiki.com/Flat_Zone_X
+ 663. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 664. https://www.ssbwiki.com/Flat_Zone_X
+ 665. https://www.ssbwiki.com/Game_&_Watch_(universe)
+ 666. https://www.ssbwiki.com/Skyworld
+ 667. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 668. https://www.ssbwiki.com/Skyworld
+ 669. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 670. https://www.ssbwiki.com/Reset_Bomb_Forest
+ 671. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 672. https://www.ssbwiki.com/Reset_Bomb_Forest
+ 673. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 674. https://www.ssbwiki.com/Palutena's_Temple
+ 675. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 676. https://www.ssbwiki.com/Palutena's_Temple
+ 677. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 678. https://www.ssbwiki.com/WarioWare,_Inc.
+ 679. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 680. https://www.ssbwiki.com/WarioWare,_Inc.
+ 681. https://www.ssbwiki.com/Wario_(universe)
+ 682. https://www.ssbwiki.com/Gamer
+ 683. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 684. https://www.ssbwiki.com/Gamer
+ 685. https://www.ssbwiki.com/Wario_(universe)
+ 686. https://www.ssbwiki.com/Distant_Planet
+ 687. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 688. https://www.ssbwiki.com/Distant_Planet
+ 689. https://www.ssbwiki.com/Pikmin_(universe)
+ 690. https://www.ssbwiki.com/Garden_of_Hope
+ 691. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 692. https://www.ssbwiki.com/Garden_of_Hope
+ 693. https://www.ssbwiki.com/Pikmin_(universe)
+ 694. https://www.ssbwiki.com/Smashville
+ 695. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 696. https://www.ssbwiki.com/Smashville
+ 697. https://www.ssbwiki.com/Animal_Crossing_(universe)
+ 698. https://www.ssbwiki.com/Tortimer_Island
+ 699. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 700. https://www.ssbwiki.com/Tortimer_Island
+ 701. https://www.ssbwiki.com/Animal_Crossing_(universe)
+ 702. https://www.ssbwiki.com/Town_and_City
+ 703. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 704. https://www.ssbwiki.com/Town_and_City
+ 705. https://www.ssbwiki.com/Animal_Crossing_(universe)
+ 706. https://www.ssbwiki.com/Boxing_Ring
+ 707. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 708. https://www.ssbwiki.com/Boxing_Ring
+ 709. https://www.ssbwiki.com/Punch-Out!!_(universe)
+ 710. https://www.ssbwiki.com/Wii_Fit_Studio
+ 711. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 712. https://www.ssbwiki.com/Wii_Fit_Studio
+ 713. https://www.ssbwiki.com/Wii_Fit_(universe)
+ 714. https://www.ssbwiki.com/Gaur_Plain
+ 715. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 716. https://www.ssbwiki.com/Gaur_Plain
+ 717. https://www.ssbwiki.com/Xenoblade_(universe)
+ 718. https://www.ssbwiki.com/Duck_Hunt_(stage)
+ 719. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 720. https://www.ssbwiki.com/Duck_Hunt_(stage)
+ 721. https://www.ssbwiki.com/Duck_Hunt_(universe)
+ 722. https://www.ssbwiki.com/Shadow_Moses_Island
+ 723. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 724. https://www.ssbwiki.com/Shadow_Moses_Island
+ 725. https://www.ssbwiki.com/Metal_Gear_(universe)
+ 726. https://www.ssbwiki.com/Green_Hill_Zone
+ 727. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 728. https://www.ssbwiki.com/Green_Hill_Zone
+ 729. https://www.ssbwiki.com/Sonic_(universe)
+ 730. https://www.ssbwiki.com/Windy_Hill_Zone
+ 731. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 732. https://www.ssbwiki.com/Windy_Hill_Zone
+ 733. https://www.ssbwiki.com/Sonic_(universe)
+ 734. https://www.ssbwiki.com/Wily_Castle
+ 735. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 736. https://www.ssbwiki.com/Wily_Castle
+ 737. https://www.ssbwiki.com/Mega_Man_(universe)
+ 738. https://www.ssbwiki.com/Pac-Land
+ 739. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 740. https://www.ssbwiki.com/Pac-Land
+ 741. https://www.ssbwiki.com/Pac-Man_(universe)
+ 742. https://www.ssbwiki.com/Suzaku_Castle
+ 743. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 744. https://www.ssbwiki.com/Suzaku_Castle
+ 745. https://www.ssbwiki.com/Street_Fighter_(universe)
+ 746. https://www.ssbwiki.com/Midgar
+ 747. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 748. https://www.ssbwiki.com/Midgar
+ 749. https://www.ssbwiki.com/Final_Fantasy_(universe)
+ 750. https://www.ssbwiki.com/Umbra_Clock_Tower
+ 751. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 752. https://www.ssbwiki.com/Umbra_Clock_Tower
+ 753. https://www.ssbwiki.com/Bayonetta_(universe)
+ 754. https://www.ssbwiki.com/Hanenbow
+ 755. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 756. https://www.ssbwiki.com/Hanenbow
+ 757. https://www.ssbwiki.com/Electroplankton_(universe)
+ 758. https://www.ssbwiki.com/PictoChat_2
+ 759. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 760. https://www.ssbwiki.com/PictoChat_2
+ 761. https://www.ssbwiki.com/Nintendo_DS_(universe)
+ 762. https://www.ssbwiki.com/Balloon_Fight
+ 763. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 764. https://www.ssbwiki.com/Balloon_Fight
+ 765. https://www.ssbwiki.com/Balloon_Fight_(universe)
+ 766. https://www.ssbwiki.com/Living_Room
+ 767. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 768. https://www.ssbwiki.com/Living_Room
+ 769. https://www.ssbwiki.com/Nintendogs_(universe)
+ 770. https://www.ssbwiki.com/Find_Mii
+ 771. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 772. https://www.ssbwiki.com/Find_Mii
+ 773. https://www.ssbwiki.com/Find_Mii_(universe)
+ 774. https://www.ssbwiki.com/Tomodachi_Life
+ 775. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 776. https://www.ssbwiki.com/Tomodachi_Life
+ 777. https://www.ssbwiki.com/Tomodachi_(universe)
+ 778. https://www.ssbwiki.com/Wrecking_Crew
+ 779. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 780. https://www.ssbwiki.com/Wrecking_Crew
+ 781. https://www.ssbwiki.com/Wrecking_Crew_(universe)
+ 782. https://www.ssbwiki.com/Pilotwings
+ 783. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 784. https://www.ssbwiki.com/Pilotwings
+ 785. https://www.ssbwiki.com/Pilotwings_(universe)
+ 786. https://www.ssbwiki.com/Wuhu_Island
+ 787. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 788. https://www.ssbwiki.com/Wuhu_Island
+ 789. https://www.ssbwiki.com/Wii_Sports_(universe)
+ 790. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&action=edit&section=5
+ 791. https://www.ssbwiki.com/Item#List_of_items
+ 792. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_note-Item_Types-2
+ 793. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_note-Item_Types-2
+ 794. https://www.ssbwiki.com/Banana_Gun
+ 795. https://www.ssbwiki.com/Banana_peel
+ 796. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 797. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 798. https://www.ssbwiki.com/Beastball
+ 799. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 800. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 801. https://www.ssbwiki.com/Black_Hole
+ 802. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 803. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 804. https://www.ssbwiki.com/Bomber
+ 805. https://www.ssbwiki.com/Kirby_(universe)
+ 806. https://www.ssbwiki.com/Kirby_(universe)
+ 807. https://www.ssbwiki.com/Death's_Scythe
+ 808. https://www.ssbwiki.com/Castlevania_(universe)
+ 809. https://www.ssbwiki.com/Castlevania_(universe)
+ 810. https://www.ssbwiki.com/Fake_Smash_Ball
+ 811. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 812. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 813. https://www.ssbwiki.com/Healing_Field
+ 814. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 815. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 816. https://www.ssbwiki.com/Healing_Sprout
+ 817. https://www.ssbwiki.com/Gooey_Bomb
+ 818. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 819. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 820. https://www.ssbwiki.com/Killing_Edge
+ 821. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 822. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 823. https://www.ssbwiki.com/Rage_Blaster
+ 824. https://www.ssbwiki.com/Damage
+ 825. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 826. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 827. https://www.ssbwiki.com/Ramblin'_Evil_Mushroom
+ 828. https://www.ssbwiki.com/EarthBound_(universe)
+ 829. https://www.ssbwiki.com/EarthBound_(universe)
+ 830. https://www.ssbwiki.com/Staff
+ 831. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 832. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 833. https://www.ssbwiki.com/Super_Launch_Star
+ 834. https://www.ssbwiki.com/Mario_(universe)
+ 835. https://www.ssbwiki.com/Mario_(universe)
+ 836. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&action=edit&section=6
+ 837. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 838. https://www.ssbwiki.com/Masahiro_Sakurai
+ 839. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_note-3
+ 840. https://www.ssbwiki.com/Bandai_Namco
+ 841. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_note-special-4
+ 842. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_note-special-4
+ 843. https://www.ssbwiki.com/Nintendo_3DS
+ 844. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_note-special-4
+ 845. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_note-5
+ 846. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_note-6
+ 847. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_note-7
+ 848. https://www.ssbwiki.com/Nintendo
+ 849. https://www.ssbwiki.com/File:JapaneseSmashTrademark.jpg
+ 850. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_note-8
+ 851. https://www.ssbwiki.com/Nintendo_Direct
+ 852. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_note-9
+ 853. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_note-10
+ 854. https://www.ssbwiki.com/Tournament:Super_Smash_Bros._Invitational_2018
+ 855. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_note-11
+ 856. https://www.ssbwiki.com/File:SmashTrademark.jpg
+ 857. https://www.ssbwiki.com/Pikmin_(universe)
+ 858. https://www.ssbwiki.com/Star_Fox_(universe)
+ 859. https://www.ssbwiki.com/F-Zero_(universe)
+ 860. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_note-12
+ 861. https://www.ssbwiki.com/Nintendo_Direct
+ 862. https://www.ssbwiki.com/Daisy_(SSBU)
+ 863. https://www.ssbwiki.com/Ridley_(SSBU)
+ 864. https://www.ssbwiki.com/Smasher:MkLeo
+ 865. https://www.ssbwiki.com/Bayonetta_(SSBU)
+ 866. https://www.ssbwiki.com/Smasher:Plup
+ 867. https://www.ssbwiki.com/Ridley_(SSBU)
+ 868. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_note-13
+ 869. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate_Official_Site
+ 870. https://www.ssbwiki.com/Tournament:CEO_2018
+ 871. https://www.ssbwiki.com/Tournament:EVO_2018
+ 872. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&action=edit&section=7
+ 873. https://www.youtube.com/watch?v=w3Gt42kVgCw
+ 874. https://www.ssbwiki.com/Nintendo_Direct
+ 875. https://www.ssbwiki.com/Nintendo_Switch
+ 876. https://www.youtube.com/watch?v=L93H7YC-83o
+ 877. https://www.ssbwiki.com/Masahiro_Sakurai
+ 878. https://www.ssbwiki.com/Tournament:EVO_2018
+ 879. https://www.youtube.com/watch?v=P-kQWJrjRV4
+ 880. https://youtu.be/CRuHg1dv8MI
+ 881. https://youtu.be/fccgHnBQ0YM
+ 882. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_note-14
+ 883. https://www.ssbwiki.com/Spirits_(menu)
+ 884. https://www.ssbwiki.com/Adventure_Mode:_World_of_Light
+ 885. https://www.ssbwiki.com/Lifelight
+ 886. https://youtu.be/WLu7e8RZoYc
+ 887. https://www.ssbwiki.com/Announcer
+ 888. https://www.ssbwiki.com/Pokémon
+ 889. https://www.ssbwiki.com/Assist_Trophies
+ 890. https://www.ssbwiki.com/Spirits_(characters)
+ 891. https://www.ssbwiki.com/Fighters_Pass
+ 892. https://www.smashbros.com/
+ 893. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&action=edit&section=8
+ 894. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&action=edit&section=9
+ 895. https://www.ssbwiki.com/Battlefield_form
+ 896. https://www.ssbwiki.com/Ω_form
+ 897. https://www.ssbwiki.com/Final_Destination
+ 898. https://www.ssbwiki.com/Stage_hazard
+ 899. https://www.ssbwiki.com/Stage_Morph
+ 900. https://www.ssbwiki.com/Alternate_costume
+ 901. https://www.ssbwiki.com/Match_timer
+ 902. https://www.ssbwiki.com/Versus_splash_screen
+ 903. https://www.ssbwiki.com/Tips
+ 904. https://www.ssbwiki.com/Damage_meter
+ 905. https://www.ssbwiki.com/Percent
+ 906. https://www.ssbwiki.com/Blast_zone
+ 907. https://www.ssbwiki.com/Little_Mac_(SSB4)
+ 908. https://www.ssbwiki.com/Power_Meter
+ 909. https://www.ssbwiki.com/Villager_(SSBU)
+ 910. https://www.ssbwiki.com/Pocket
+ 911. https://www.ssbwiki.com/Robin_(SSBU)
+ 912. https://www.ssbwiki.com/Inkling_(SSBU)
+ 913. https://www.ssbwiki.com/My_Music
+ 914. https://www.ssbwiki.com/Sound_Test
+ 915. https://www.ssbwiki.com/Squad_Strike
+ 916. https://www.ssbwiki.com/Smash_Tour
+ 917. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 918. https://www.ssbwiki.com/Smashdown
+ 919. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&action=edit&section=10
+ 920. https://www.ssbwiki.com/1v1_multiplier
+ 921. https://www.ssbwiki.com/Buffer
+ 922. https://www.ssbwiki.com/Frame
+ 923. https://www.ssbwiki.com/Short_hop
+ 924. https://www.ssbwiki.com/Aerial_attack
+ 925. https://www.ssbwiki.com/Midair_jump
+ 926. https://www.ssbwiki.com/Knockback
+ 927. https://www.ssbwiki.com/Meteor_smash
+ 928. https://www.ssbwiki.com/Sacrificial_KO
+ 929. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_note-15
+ 930. https://www.ssbwiki.com/Hitstun
+ 931. https://www.ssbwiki.com/Tumbling
+ 932. https://www.ssbwiki.com/Freeze_frame
+ 933. https://www.ssbwiki.com/Rage
+ 934. https://www.ssbwiki.com/Set_knockback
+ 935. https://www.ssbwiki.com/Stale-move_negation
+ 936. https://www.ssbwiki.com/Shield
+ 937. https://www.ssbwiki.com/Roll
+ 938. https://www.ssbwiki.com/Sidestep
+ 939. https://www.ssbwiki.com/Jump
+ 940. https://www.ssbwiki.com/Tap_jump
+ 941. https://www.ssbwiki.com/Perfect_shield
+ 942. https://www.ssbwiki.com/Shield
+ 943. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_note-16
+ 944. https://www.ssbwiki.com/Shield_platform_drop
+ 945. https://www.ssbwiki.com/Edge
+ 946. https://www.ssbwiki.com/Intangibility
+ 947. https://www.ssbwiki.com/Edge_recovery
+ 948. https://www.ssbwiki.com/Aether
+ 949. https://www.ssbwiki.com/Planking
+ 950. https://www.ssbwiki.com/Edge_sweet_spot
+ 951. https://www.ssbwiki.com/Recovery
+ 952. https://www.ssbwiki.com/Tech
+ 953. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_note-17
+ 954. https://www.ssbwiki.com/Footstool
+ 955. https://www.ssbwiki.com/Lock
+ 956. https://www.ssbwiki.com/Smash_attack
+ 957. https://www.ssbwiki.com/Swimming
+ 958. https://www.ssbwiki.com/Charizard_(SSBU)
+ 959. https://www.ssbwiki.com/Incineroar_(SSBU)
+ 960. https://www.ssbwiki.com/Inkling_(SSBU)
+ 961. https://www.ssbwiki.com/Sonic_(SSBU)
+ 962. https://www.ssbwiki.com/Stone
+ 963. https://www.ssbwiki.com/Aether
+ 964. https://www.ssbwiki.com/Bowser_Bomb
+ 965. https://www.ssbwiki.com/Super_Dedede_Jump
+ 966. https://www.ssbwiki.com/Cross-up
+ 967. https://www.ssbwiki.com/Fox_Illusion
+ 968. https://www.ssbwiki.com/Heel_Slide
+ 969. https://www.ssbwiki.com/Simon_(SSBU)
+ 970. https://www.ssbwiki.com/Richter_(SSBU)
+ 971. https://www.ssbwiki.com/Screen_KO
+ 972. https://www.ssbwiki.com/Star_KO
+ 973. https://www.ssbwiki.com/Revival_platform
+ 974. https://www.ssbwiki.com/Invincibility
+ 975. https://www.ssbwiki.com/Shield_break
+ 976. https://www.ssbwiki.com/Sudden_Death
+ 977. https://www.ssbwiki.com/Bob-omb
+ 978. https://www.ssbwiki.com/Stamina_Mode
+ 979. https://www.ssbwiki.com/Stock
+ 980. https://www.ssbwiki.com/Final_Smash_Meter
+ 981. https://www.ssbwiki.com/Rules
+ 982. https://www.ssbwiki.com/Final_Smash
+ 983. https://www.ssbwiki.com/Smash_Ball
+ 984. https://www.ssbwiki.com/Damage
+ 985. https://www.ssbwiki.com/Custom_Balance
+ 986. https://www.ssbwiki.com/Handicap
+ 987. https://www.ssbwiki.com/Damage
+ 988. https://www.ssbwiki.com/Rule
+ 989. https://www.ssbwiki.com/Self-destruct
+ 990. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&action=edit&section=11
+ 991. https://www.ssbwiki.com/Jumpsquat
+ 992. https://www.ssbwiki.com/Run
+ 993. https://www.ssbwiki.com/Walk
+ 994. https://www.ssbwiki.com/Air_speed
+ 995. https://www.ssbwiki.com/Traction
+ 996. https://www.ssbwiki.com/L-canceling
+ 997. https://www.ssbwiki.com/Perfect_pivot
+ 998. https://www.ssbwiki.com/Rolling
+ 999. https://www.ssbwiki.com/Spot_dodging
+1000. https://www.ssbwiki.com/Intangibility
+1001. https://www.ssbwiki.com/Air_dodge
+1002. https://www.ssbwiki.com/Neutral_aerial
+1003. https://www.ssbwiki.com/Helpless
+1004. https://www.ssbwiki.com/Juggle
+1005. https://www.ssbwiki.com/Wavedashing
+1006. https://www.ssbwiki.com/Dash-dancing
+1007. https://www.ssbwiki.com/Mario_(SSB4)
+1008. https://www.ssbwiki.com/Fox_(SSB4)
+1009. https://www.ssbwiki.com/Back_Slash
+1010. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&action=edit&section=12
+1011. https://www.ssbwiki.com/Neutral_attack
+1012. https://www.ssbwiki.com/Tilt_attack
+1013. https://www.ssbwiki.com/Smash_attack
+1014. https://www.ssbwiki.com/Dash_attack
+1015. https://www.ssbwiki.com/Up_smash
+1016. https://www.ssbwiki.com/Special_move
+1017. https://www.ssbwiki.com/Neutral_attack
+1018. https://www.ssbwiki.com/Jab_lock
+1019. https://www.ssbwiki.com/Ganondorf_(SSBU)
+1020. https://www.ssbwiki.com/Meta_Knight_(SSBU)
+1021. https://www.ssbwiki.com/Roy_(SSBU)
+1022. https://www.ssbwiki.com/Chrom_(SSBU)
+1023. https://www.ssbwiki.com/Jab_cancel
+1024. https://www.ssbwiki.com/Freeze_frame
+1025. https://www.ssbwiki.com/Smash_attack
+1026. https://www.ssbwiki.com/Up_smash
+1027. https://www.ssbwiki.com/Up_special
+1028. https://www.ssbwiki.com/Out_of_shield
+1029. https://www.ssbwiki.com/Aerial_attack
+1030. https://www.ssbwiki.com/Ladder_(stage_element)
+1031. https://www.ssbwiki.com/Frame_cancel
+1032. https://www.ssbwiki.com/Grab
+1033. https://www.ssbwiki.com/Grab
+1034. https://www.ssbwiki.com/Grab_release
+1035. https://www.ssbwiki.com/Port_priority
+1036. https://www.ssbwiki.com/Shield_grab
+1037. https://www.ssbwiki.com/Shieldstun
+1038. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_note-18
+1039. https://www.ssbwiki.com/Pummel
+1040. https://www.ssbwiki.com/Throw
+1041. https://www.ssbwiki.com/Edge_attack
+1042. https://www.ssbwiki.com/Charge
+1043. https://www.ssbwiki.com/Charge_Shot
+1044. https://www.ssbwiki.com/Giant_Punch
+1045. https://www.ssbwiki.com/Taunts
+1046. https://www.ssbwiki.com/Interrupt
+1047. https://www.ssbwiki.com/Luigi_(SSBU)
+1048. https://www.ssbwiki.com/Tether_recovery
+1049. https://www.ssbwiki.com/Air_dodge
+1050. https://www.ssbwiki.com/Final_Smash
+1051. https://www.ssbwiki.com/Landmaster
+1052. https://www.ssbwiki.com/Team_Star_Fox
+1053. https://www.ssbwiki.com/Octopus
+1054. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&action=edit&section=13
+1055. https://www.ssbwiki.com/Effect
+1056. https://www.ssbwiki.com/Giant_Punch
+1057. https://www.ssbwiki.com/Shield
+1058. https://www.ssbwiki.com/Special_Zoom
+1059. https://www.ssbwiki.com/Masahiro_Sakurai
+1060. https://www.ssbwiki.com/KO_Uppercut
+1061. https://www.ssbwiki.com/Finishing_Touch
+1062. https://www.ssbwiki.com/Ping
+1063. https://www.ssbwiki.com/Directional_influence
+1064. https://www.ssbwiki.com/Midair_jump
+1065. https://www.ssbwiki.com/Mash
+1066. https://www.ssbwiki.com/Stun
+1067. https://www.ssbwiki.com/Star_KO
+1068. https://www.ssbwiki.com/Footstool
+1069. https://www.ssbwiki.com/Final_Smash
+1070. https://www.ssbwiki.com/Pair_Up
+1071. https://www.ssbwiki.com/Assist_Trophies
+1072. https://www.ssbwiki.com/Results_screen
+1073. https://www.ssbwiki.com/Name
+1074. https://www.ssbwiki.com/Reflection
+1075. https://www.ssbwiki.com/Fox
+1076. https://www.ssbwiki.com/Falco
+1077. https://www.ssbwiki.com/Reflector
+1078. https://www.ssbwiki.com/Counterattack
+1079. https://www.ssbwiki.com/Flower
+1080. https://www.ssbwiki.com/Panel_de_Pon_(universe)
+1081. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&action=edit&section=14
+1082. https://www.ssbwiki.com/Items
+1083. https://www.ssbwiki.com/Banana_Peel
+1084. https://www.ssbwiki.com/Tilt_attack
+1085. https://www.ssbwiki.com/Assist_Trophy
+1086. https://www.ssbwiki.com/Poké_Ball
+1087. https://www.ssbwiki.com/Fake_Smash_Ball
+1088. https://www.ssbwiki.com/Smash_Ball
+1089. https://www.ssbwiki.com/Soccer_Ball
+1090. https://www.ssbwiki.com/Boss_Galaga
+1091. https://www.ssbwiki.com/Hammer_(item)
+1092. https://www.ssbwiki.com/Golden_Hammer
+1093. https://www.ssbwiki.com/Warp_Star
+1094. https://www.ssbwiki.com/Timer
+1095. https://www.ssbwiki.com/Blast_Box
+1096. https://www.ssbwiki.com/Trophies
+1097. https://www.ssbwiki.com/Spirits
+1098. https://www.ssbwiki.com/Sticker
+1099. https://www.ssbwiki.com/Beam_Sword
+1100. https://www.ssbwiki.com/Sandbag
+1101. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&action=edit&section=15
+1102. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&action=edit&section=16
+1103. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&action=edit&section=17
+1104. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&action=edit&section=18
+1105. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&action=edit&section=19
+1106. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&action=edit&section=20
+1107. https://www.ssbwiki.com/Super_Smash_Bros.
+1108. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1109. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1110. https://www.ssbwiki.com/Super_Smash_Bros._4
+1111. https://www.ssbwiki.com/Standard_attack
+1112. https://www.ssbwiki.com/Aerial_attack
+1113. https://www.ssbwiki.com/Tips
+1114. https://www.ssbwiki.com/Satoru_Iwata
+1115. https://www.ssbwiki.com/Announcer
+1116. https://www.ssbwiki.com/Master_Hand
+1117. https://www.ssbwiki.com/Crazy_Hand
+1118. https://www.ssbwiki.com/Super_Smash_Bros._4
+1119. https://www.ssbwiki.com/World_of_Light
+1120. https://www.ssbwiki.com/Name_Entry_glitch
+1121. https://www.ssbwiki.com/Castlevania_(universe)
+1122. https://www.ssbwiki.com/Street_Fighter_(universe)
+1123. https://www.ssbwiki.com/Clone
+1124. https://www.ssbwiki.com/Richter_(SSBU)
+1125. https://www.ssbwiki.com/Ken_(SSBU)
+1126. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+1127. https://www.ssbwiki.com/Sonic_(universe)
+1128. https://www.ssbwiki.com/Sonic_(universe)
+1129. https://www.ssbwiki.com/Mega_Man_(universe)
+1130. https://www.ssbwiki.com/Shovel_Knight_(universe)
+1131. https://www.ssbwiki.com/Charizard
+1132. https://www.ssbwiki.com/Greninja
+1133. https://www.ssbwiki.com/Lifelight
+1134. https://www.ssbwiki.com/Piranha_Plant
+1135. https://www.ssbwiki.com/Original_8
+1136. https://www.ssbwiki.com/DLC
+1137. https://www.ssbwiki.com/Super_Smash_Bros._4
+1138. https://www.ssbwiki.com/Kirby
+1139. https://www.ssbwiki.com/Castlevania_(universe)
+1140. https://www.ssbwiki.com/Persona_(universe)
+1141. https://www.ssbwiki.com/Splatoon_(universe)
+1142. https://www.ssbwiki.com/Special_move
+1143. https://www.ssbwiki.com/Super_Smash_Bros.
+1144. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1145. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1146. https://www.ssbwiki.com/Final_Smashes
+1147. https://www.ssbwiki.com/Super_Smash_Bros._4
+1148. https://www.ssbwiki.com/Announcer
+1149. https://www.ssbwiki.com/Joker
+1150. https://www.ssbwiki.com/Pikachu
+1151. https://www.ssbwiki.com/Yoshi
+1152. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_note-19
+1153. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+1154. https://www.ssbwiki.com/Trophies
+1155. https://www.ssbwiki.com/Original_12
+1156. https://www.ssbwiki.com/Splatoon_(universe)
+1157. https://www.ssbwiki.com/Castlevania_(universe)
+1158. https://www.ssbwiki.com/Ice_Climber_(universe)
+1159. https://www.ssbwiki.com/Fire_Emblem_(universe)
+1160. https://www.ssbwiki.com/Game_&_Watch_(universe)
+1161. https://www.ssbwiki.com/Persona_(universe)
+1162. https://www.ssbwiki.com/Mother_(universe)
+1163. https://www.ssbwiki.com/Kid_Icarus_(universe)
+1164. https://www.ssbwiki.com/Nintendo_Switch
+1165. https://www.ssbwiki.com/King_K._Rool
+1166. https://www.ssbwiki.com/Zero_Suit_Samus
+1167. https://www.ssbwiki.com/Dark_Samus
+1168. https://www.ssbwiki.com/Pichu
+1169. https://www.ssbwiki.com/Greninja
+1170. https://www.ssbwiki.com/Incineroar
+1171. https://www.ssbwiki.com/Roy
+1172. https://www.ssbwiki.com/Ike
+1173. https://www.ssbwiki.com/Olimar
+1174. https://www.ssbwiki.com/R.O.B.
+1175. https://www.ssbwiki.com/Wii_Fit_Trainer
+1176. https://www.ssbwiki.com/Duck_Hunt
+1177. https://www.ssbwiki.com/Richter
+1178. https://www.mariowiki.com/Charles_Martinet
+1179. https://www.ssbwiki.com/Mario
+1180. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&action=edit&section=21
+1181. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_ref-1
+1182. http://www.esrb.org/ratings/search.aspx?from=home&titleOrPublisher=Super Smash Bros
+1183. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_ref-Item_Types_2-0
+1184. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_ref-Item_Types_2-1
+1185. https://www.ssbwiki.com/Item#Types_of_items
+1186. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_ref-3
+1187. https://sourcegaming.info/2016/01/06/famitsu-news-sakurai-catching-a-breather/
+1188. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_ref-special_4-0
+1189. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_ref-special_4-1
+1190. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_ref-special_4-2
+1191. https://sourcegaming.info/2018/07/02/smash_special_complete/
+1192. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_ref-5
+1193. https://www.theverge.com/2018/6/12/17453214/super-smash-bros-ultimate-nintendo-switch-masahiro-sakurai-e3
+1194. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_ref-6
+1195. https://twitter.com/AllSourceGaming/status/1062725619270762496
+1196. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_ref-7
+1197. https://www.sourcegaming.info/2018/12/12/sakurai-tells-more-details-about-smash-ultimates-development/
+1198. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_ref-8
+1199. http://www.japanesenintendo.com/post/167397863114
+1200. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_ref-9
+1201. https://twitter.com/Sora_Sakurai/status/971885028245307392
+1202. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_ref-10
+1203. https://twitter.com/AllSourceGaming/status/971901365826940928
+1204. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_ref-11
+1205. https://sourcegaming.info/2018/05/02/compliance-and-labor-vol-542/
+1206. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_ref-12
+1207. https://twitter.com/trademark_bot/status/996151177099333637/
+1208. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_ref-13
+1209. https://twitter.com/BearUNLV/status/1006667538900512769
+1210. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_ref-14
+1211. https://twitter.com/Sora_Sakurai/status/1059958604818657282?s=19
+1212. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_ref-15
+1213. https://twitter.com/notty_jirachi/status/1073305289519116289
+1214. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_ref-16
+1215. https://www.reddit.com/r/smashbros/comments/8rgc3i/did_a_framebyframe_breakdown_of_the_invitational/?st=jii2wdxz&sh=4cc5fc06
+1216. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_ref-17
+1217. https://www.youtube.com/watch?v=Q-ge7VRRWUo
+1218. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_ref-18
+1219. https://twitter.com/ChirozDR/status/1070137066636435458
+1220. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#cite_ref-19
+1221. https://twitter.com/ZeldaUniverse/status/1009908072205160450
+1222. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&action=edit&section=22
+1223. https://www.smashbros.com/
+1224. https://www.ssbwiki.com/Template:SSBSeries
+1225. https://www.ssbwiki.com/Template_talk:SSBSeries
+1226. https://www.ssbwiki.com/index.php?title=Template:SSBSeries&action=edit
+1227. https://www.ssbwiki.com/Super_Smash_Bros._(series)
+1228. https://www.ssbwiki.com/Super_Smash_Bros.
+1229. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1230. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1231. https://www.ssbwiki.com/Super_Smash_Bros._4
+1232. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+1233. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+1234. https://www.ssbwiki.com/Smash_Controller
+1235. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&oldid=1181956
+1236. https://www.ssbwiki.com/Special:Categories
+1237. https://www.ssbwiki.com/Category:Featured_Articles
+1238. https://www.ssbwiki.com/Category:Games
+1239. https://www.ssbwiki.com/Category:Nintendo_Switch
+1240. https://www.ssbwiki.com/Category:Super_Smash_Bros._series
+1241. https://www.ssbwiki.com/Category:Super_Smash_Bros._universe
+1242. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+1243. https://www.ssbwiki.com/Talk:Super_Smash_Bros._Ultimate
+1244. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&action=edit
+1245. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&action=history
+1246. https://www.ssbwiki.com/Special:MyTalk
+1247. https://www.ssbwiki.com/Special:MyContributions
+1248. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=Super+Smash+Bros.+Ultimate
+1249. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=Super+Smash+Bros.+Ultimate
+1250. https://www.ssbwiki.com/Main_Page
+1251. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+1252. https://www.ssbwiki.com/Super_Smash_Bros._4
+1253. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1254. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1255. https://www.ssbwiki.com/Super_Smash_Bros.
+1256. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+1257. https://www.ssbwiki.com/Stage
+1258. https://www.ssbwiki.com/Mode
+1259. https://www.ssbwiki.com/Item
+1260. https://www.ssbwiki.com/Special:Random
+1261. https://www.ssbwiki.com/Forum:Index
+1262. https://www.ssbwiki.com/SmashWiki:Community_portal
+1263. https://www.ssbwiki.com/Special:RecentChanges
+1264. https://www.ssbwiki.com/Help:Contents
+1265. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
+1266. https://www.ssbwiki.com/SmashWiki:Discord_server
+1267. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
+1268. https://www.ssbwiki.com/Special:WhatLinksHere/Super_Smash_Bros._Ultimate
+1269. https://www.ssbwiki.com/Special:RecentChangesLinked/Super_Smash_Bros._Ultimate
+1270. https://www.ssbwiki.com/Special:SpecialPages
+1271. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&printable=yes
+1272. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&oldid=1181956
+1273. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&action=info
+1274. https://es.ssbwiki.com/wiki/Super_Smash_Bros._Ultimate
+1275. https://creativecommons.org/licenses/by-sa/3.0/
+1276. https://www.mediawiki.org/
+1277. https://creativecommons.org/licenses/by-sa/3.0/
+1278. https://www.porplemontage.com/privacy
+1279. https://www.ssbwiki.com/SmashWiki:About
+1280. https://www.ssbwiki.com/SmashWiki:General_disclaimer
+1281. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&mobileaction=toggle_view_mobile
+
+   Hidden links:
+1283. https://www.ssbwiki.com/File:SSBU_Character_Select.png
+1284. https://www.ssbwiki.com/File:SSBU_Character_Select.png
+1285. https://www.ssbwiki.com/File:Super_Smash_Bros_Ultimate_Box_Art_RP.png
+1286. https://www.ssbwiki.com/File:SmashUltimateDigitalVersion.jpg
+1287. https://www.ssbwiki.com/File:SSBU_Key_Art.png
+1288. https://www.ssbwiki.com/File:SSBU_Panoramic.png
+1289. https://www.ssbwiki.com/File:SSBU-English.png
+1290. https://www.ssbwiki.com/File:Dairant%C5%8D_Smash_Brothers_Special_logo.png
+1291. https://www.ssbwiki.com/File:SSB_Ultimate_TC_Logo.png
+1292. https://www.ssbwiki.com/File:SSB_Ultimate_SC_Logo.png
+1293. https://www.ssbwiki.com/File:SSB_Ultimate_KR_Logo.png
+1294. https://www.ssbwiki.com/File:SmashUltimateTitleScreen2.0.0.jpg
+1295. https://www.ssbwiki.com/File:Inkling_poster.jpg
+1296. https://www.ssbwiki.com/File:Mario_artwork_Ultimate.png
+1297. https://www.ssbwiki.com/File:Mario_and_Rathalos_artwork.jpg
+1298. https://www.ssbwiki.com/File:Simon_and_Richter_artwork.png
+1299. https://www.ssbwiki.com/File:Villager_and_Isabelle_artwork.jpg
+1300. https://www.ssbwiki.com/File:Pac-Man_artwork_Ultimate.jpg
+1301. https://www.ssbwiki.com/File:Link_Kirby_Mario_and_Cloud_artwork.png
+1302. https://www.ssbwiki.com/File:Bomberman_artwork_Ultimate.jpg
+1303. https://www.ssbwiki.com/File:Kirby_Artwork.jpg
+1304. https://www.ssbwiki.com/File:Sonic_artwork.jpg
+1305. https://www.ssbwiki.com/File:Pok%C3%A9mon_Smash_Bros.png
+1306. https://www.ssbwiki.com/File:The_Legend_of_Zelda_artwork.png
+1307. https://www.ssbwiki.com/File:Fire_Emblem_Heroes_Smash.png
+1308. https://www.ssbwiki.com/File:Fire_Emblem_Smash_Bros.png
+1309. https://www.ssbwiki.com/File:Bayonetta_Ultimate_artwork.png
+1310. https://www.ssbwiki.com/File:Snake_Ultimate_artwork.png
+1311. https://www.ssbwiki.com/File:Pit_Ultimate_artwork.png
+1312. https://www.ssbwiki.com/File:Mega_Man_Ultimate_artwork.jpg
+1313. https://www.ssbwiki.com/File:Inkling_artwork.jpg
+1314. https://www.ssbwiki.com/File:Joker_artwork.png
+1315. https://www.ssbwiki.com/File:SmashUltimateReleaseDayAllCharactersArtwork.jpg
+1316. https://www.ssbwiki.com/File:Ridley_Hits_the_Big_Time.png
+1317. https://www.ssbwiki.com/File:Simon_Lashes_Out.png
+1318. https://www.ssbwiki.com/File:Richter_Crosses_Over.png
+1319. https://www.ssbwiki.com/File:Chrom_Joins_the_Battle.png
+1320. https://www.ssbwiki.com/File:Dark_Samus_Joins_the_Battle.png
+1321. https://www.ssbwiki.com/File:King_K._Rool_Comes_Aboard.png
+1322. https://www.ssbwiki.com/File:Isabelle_Turns_Over_a_New_Leaf.png
+1323. https://www.ssbwiki.com/File:Ken_Turns_Up_the_Heat.png
+1324. https://www.ssbwiki.com/File:Incineroar_Enters_the_Ring.png
+1325. https://www.ssbwiki.com/File:Piranha_Plant_Pipes_Up.png
+1326. https://www.ssbwiki.com/Main_Page

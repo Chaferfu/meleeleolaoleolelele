@@ -1,0 +1,649 @@
+   #[1]SmashWiki (en) [2]"Special:RecentChanges" Atom feed
+
+   [3]Help
+
+Recent changes
+
+   From SmashWiki, the Super Smash Bros. wiki
+   Jump to:[4]navigation, [5]search
+
+   Track the most recent changes to the wiki on this page.
+   [6]StatusRed.png
+   -25%
+
+   Who's online: [7]Mexi, [8]Wolff, [9]Trainer Alex, [10]Capstalker, [11]NuFace, [12]Serpent King, [13]JoHNNy352, [14]Hakannakah1, [15]Deniztendo638, [16]CSR, [17]Shadowjosh85, [18]Takava, [19]Ausira, [20]Raufan, [21]BrawlMatt202, [22]Phreak 91
+
+   Staff key: [23]Administrator – [24]Bureaucrat – [25]Developer – [26]Bot
+   Select wanted pages: [27]Local Wireless, [28]Nintendo eShop, [29]Smasher:Diablo ([30]see others)
+   Pages to improve: [31]Bomberman (universe), [32]Spirit Board, [33]Challenger's Approach
+   Things to do
+   3,607
+     * [34]Active propositions
+       3
+     * [35]Move suggestions
+       3
+     * [36]Merge suggestions
+       5
+     * [37]Split suggestions
+       5
+
+     * [38]Stubs
+       106
+     * [39]General cleanup
+       78
+     * [40]Incomplete sections
+       194
+     * [41]Tournament results needed
+       464
+     * [42]Broken image links
+       3
+     * [43]Competitive expertise needed
+       930
+     * [44]Technical data needed
+       911
+     * [45]Outdated pages
+       46
+
+     * [46]Images needed
+       92
+     * [47]Low-quality images
+       67
+     * [48]Images of unconfirmed beta status
+       671
+     * [49]Videos needed
+       13
+
+     * [50]Pages of dubious notability
+       2
+     * [51]Deletion candidates
+       8
+     * [52]Speedy deletion candidates
+       6
+
+   Recent changes options
+
+   Legend:
+
+   N
+          This edit created a new page (also see [53]list of new pages)
+
+   m
+          This is a minor edit
+
+   b
+          This edit was performed by a bot
+
+   (±123)
+          The page size changed by this number of bytes
+
+   Show last [54]50 | [55]100 | [56]250 | [57]500 changes in last [58]1 | [59]3 | [60]7 | [61]14 | [62]30 days
+   [63]Hide registered users | [64]Hide anonymous users | [65]Hide my edits | [66]Show bots | [67]Hide minor edits
+   [68]Show new changes starting from 03:12, 1 February 2019
+     ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+   Namespace:      [all___________________] [ ]  Invert selection [ ]  Associated namespace
+   [69]Tag filter: ____________________ Show
+
+1 February 2019
+
+     * ([70]diff | [71]hist) . . [72]Super Smash Bros. Ultimate; 03:11 . . (+48) . . [73]JoHNNy352 ([74]talk | [75]contribs) ([76]→Trivia: Fixed an error that stated that Super Smash Bros. and Super Smash Bros. Ultimate were the only games in the series to feature hand-drawn artwork on the box. This is incorrect because Super Smash Bros. Brawl also features hand-drawn artwork...) ([77]Tags: Mobile edit, Mobile web edit)
+     * ([78]diff | [79]hist) . . [80]Sablé Prince; 03:11 . . (+323) . . [81]Capstalker ([82]talk | [83]contribs) ([84]→Spirits)
+     * ([85]diff | [86]hist) . . [87]Ghosts; 03:07 . . (+264) . . [88]Capstalker ([89]talk | [90]contribs) ([91]→In Super Smash Bros. Ultimate)
+     * ([92]diff | [93]hist) . . [94]Talk:Party Ball; 03:04 . . (+150) . . [95]96.48.239.44 ([96]talk)
+     * ([97]diff | [98]hist) . . [99]Guile; 03:04 . . (-1) . . [100]Capstalker ([101]talk | [102]contribs) ([103]→In Super Smash Bros. Ultimate)
+     * ([104]diff | [105]hist) . . [106]Guile; 03:03 . . (-1) . . [107]Capstalker ([108]talk | [109]contribs) ([110]→In Super Smash Bros. Ultimate)
+     * ([111]diff | [112]hist) . . [113]Marth (SSBU); 03:03 . . (+9) . . [114]198.72.208.170 ([115]talk) ([116]→Special Moves)
+     * ([117]diff | [118]hist) . . [119]Guile; 03:03 . . (+264) . . [120]Capstalker ([121]talk | [122]contribs) ([123]→In Super Smash Bros. Ultimate)
+     * ([124]diff | [125]hist) . . [126]Marth (SSBU); 03:02 . . (+122) . . [127]198.72.208.170 ([128]talk) ([129]→Special Moves)
+     * ([130]User creation log); 03:01 . . User account [131]JoHNNy352 ([132]talk | [133]contribs) was created
+     * ([134]diff | [135]hist) . . [136]Dark Emperor; 03:00 . . (+175) . . [137]Capstalker ([138]talk | [139]contribs) ([140]→Spirit)
+     * ([141]diff | [142]hist) . . [143]Yellow Devil; 02:58 . . (+160) . . [144]Capstalker ([145]talk | [146]contribs) ([147]→Spirit)
+     * ([148]diff | [149]hist) . . [150]Mettaur; 02:55 . . (+152) . . [151]Capstalker ([152]talk | [153]contribs) ([154]→Spirit)
+     * ([155]diff | [156]hist) . . [157]Proto Man; 02:54 . . (+162) . . [158]Capstalker ([159]talk | [160]contribs) ([161]→Spirit)
+     * ([162]diff | [163]hist) . . [164]Bass; 02:53 . . (+159) . . [165]Capstalker ([166]talk | [167]contribs) ([168]→Spirit)
+     * ([169]diff | [170]hist) . . [171]Rush; 02:51 . . (+165) . . [172]Capstalker ([173]talk | [174]contribs) ([175]→Spirit)
+     * ([176]diff | [177]hist) . . [178]Beat; 02:50 . . (+162) . . [179]Capstalker ([180]talk | [181]contribs) ([182]→Spirit)
+     * ([183]diff | [184]hist) . . [185]Star Force Mega Man; 02:47 . . (+302) . . [186]Capstalker ([187]talk | [188]contribs) ([189]→Spirits)
+     * ([190]diff | [191]hist) . . [192]MegaMan Volnutt; 02:44 . . (+165) . . [193]Capstalker ([194]talk | [195]contribs) ([196]→Spirit)
+     * ([197]diff | [198]hist) . . [199]MegaMan.EXE; 02:43 . . (+176) . . [200]Capstalker ([201]talk | [202]contribs) ([203]→Spirit)
+     * ([204]diff | [205]hist) . . [206]Ice Climbers (SSBU); 02:39 . . (+53) . . [207]CSR ([208]talk | [209]contribs) ([210]→Update History)
+     * ([211]diff | [212]hist) . . [213]X (Mega Man); 02:39 . . (+282) . . [214]Capstalker ([215]talk | [216]contribs) ([217]→Spirits)
+     * ([218]diff | [219]hist) . . [220]Elec Man; 02:36 . . (-216) . . [221]Capstalker ([222]talk | [223]contribs) ([224]→Spirit)
+     * ([225]diff | [226]hist) . . [227]Dr. Wily; 02:34 . . (+267) . . [228]Capstalker ([229]talk | [230]contribs) ([231]→Spirits)
+     * ([232]diff | [233]hist) . . [234]Zero (Mega Man); 02:32 . . (+26) . . [235]Capstalker ([236]talk | [237]contribs) ([238]→Spirits)
+     * ([239]diff | [240]hist) . . [241]Akira Yuki; 02:30 . . (-13) . . [242]Capstalker ([243]talk | [244]contribs) ([245]→Spirit)
+     * ([246]diff | [247]hist) . . [248]Zero (Mega Man); 02:29 . . (+390) . . [249]Capstalker ([250]talk | [251]contribs) ([252]→Spirits)
+     * ([253]diff | [254]hist) . . [255]Akira Yuki; 02:26 . . (+187) . . [256]Capstalker ([257]talk | [258]contribs) ([259]→Spirit)
+     * ([260]diff | [261]hist) . . [262]Downloadable content (SSBU); 02:15 . . (-113) . . [263]Capstalker ([264]talk | [265]contribs) ([266]→Spirits)
+     * ([267]diff | [268]hist) . . [269]Ganondorf (SSBM); 02:06 . . (+14) . . [270]Niayre ([271]talk | [272]contribs) ([273]→Matchups) ([274]Tags: Mobile edit, Mobile web edit)
+     * ([275]diff | [276]hist) . . [277]Downloadable content (SSB4); 02:06 . . (-26) . . [278]Capstalker ([279]talk | [280]contribs)
+     * ([281]diff | [282]hist) . . [283]Downloadable content (SSBU); 02:05 . . (-8) . . [284]Capstalker ([285]talk | [286]contribs)
+     * ([287]diff | [288]hist) . . [289]Ganondorf (SSBM); 02:05 . . (+765) . . [290]Niayre ([291]talk | [292]contribs) ([293]→Matchups) ([294]Tags: Mobile edit, Mobile web edit)
+     * ([295]diff | [296]hist) . . [297]Ganondorf (SSBM); 01:59 . . (+10) . . [298]Niayre ([299]talk | [300]contribs) ([301]→Differences from Captain Falcon) ([302]Tags: Mobile edit, Mobile web edit)
+     * ([303]diff | [304]hist) . . m [305]Wario (SSBU); 01:56 . . (-13) . . [306]Have A Rotten Day! ([307]talk | [308]contribs) ([309]→Changes from Super Smash Bros. 4)
+     * ([310]diff | [311]hist) . . [312]Ganon; 01:49 . . (+4) . . [313]184.181.102.188 ([314]talk)
+     * ([315]diff | [316]hist) . . [317]Inkling (SSBU); 01:48 . . (-9) . . [318]76.173.146.61 ([319]talk) ([320]→Attributes)
+     * ([321]diff | [322]hist) . . [323]Downloadable content (SSBU); 01:47 . . (+55) . . [324]184.181.102.188 ([325]talk) (Undid edit by [326]Ultrashroomz: Still a useful bit of info. I italicized it to let people know that it isn’t a true bundle, but rather, the full price of the game) ([327]Tag: Undo)
+     * ([328]diff | [329]hist) . . [330]Inkling (SSBU); 01:41 . . (-41) . . [331]76.173.146.61 ([332]talk) ([333]→Update History)
+     * ([334]diff | [335]hist) . . [336]Inkling (SSBU); 01:38 . . (-14) . . [337]76.173.146.61 ([338]talk)
+     * ([339]diff | [340]hist) . . [341]Beast Ganon; 01:31 . . (-25) . . [342]Capstalker ([343]talk | [344]contribs) ([345]→As a Final Smash)
+     * ([346]diff | [347]hist) . . [348]Isabelle (SSBU); 01:30 . . (+623) . . [349]184.181.102.188 ([350]talk) ([351]→Trivia)
+     * ([352]diff | [353]hist) . . [354]List of victory poses (SSBU); 01:29 . . (+1,094) . . [355]Mikoro ([356]talk | [357]contribs)
+     * ([358]diff | [359]hist) . . [360]Ryu (SSBU); 01:29 . . (+937) . . [361]Mikoro ([362]talk | [363]contribs) ([364]→Victory poses)
+     * ([365]Upload log); 01:27 . . [366]Mikoro ([367]talk | [368]contribs) uploaded [369]File:RyuVictoryPose3SSBU.gif (The third victory pose for Ryu in Ultimate [370]Category:Victory poses (SSBU) [371]Category:Ryu (SSBU) [372]Category:Animated images)
+     * ([373]Upload log); 01:25 . . [374]Mikoro ([375]talk | [376]contribs) uploaded [377]File:RyuVictoryPose2SSBU.gif (The second victory pose for Ryu in Ultimate [378]Category:Victory poses (SSBU) [379]Category:Ryu (SSBU) [380]Category:Animated images)
+     * ([381]diff | [382]hist) . . [383]Downloadable content (SSBU); 01:23 . . (-541) . . [384]Ultrashroomz ([385]talk | [386]contribs) (Undid edit by [387]184.181.102.188: We're not hear to give shopping tips, and not everyone cares to buy every character, maybe they wanna see who comes out first and then only buy one or two characters at most. Also, grammar...) ([388]Tag: Undo)
+     * ([389]Upload log); 01:23 . . [390]Mikoro ([391]talk | [392]contribs) uploaded [393]File:RyuVictoryPose1SSBU.gif (The first victory pose for Ryu in Ultimate [394]Category:Victory poses (SSBU) [395]Category:Ryu (SSBU) [396]Category:Animated images)
+     * ([397]diff | [398]hist) . . [399]Nintendo Direct; 01:22 . . (+33) . . [400]184.181.102.188 ([401]talk) ([402]→Super Smash Bros. Ultimate Directs)
+     * ([403]diff | [404]hist) . . [405]Lucina (SSBU); 01:20 . . (+1,212) . . [406]Mikoro ([407]talk | [408]contribs) ([409]→Idle poses)
+
+   Retrieved from "[410]https://www.ssbwiki.com/Special:RecentChanges"
+
+Navigation menu
+
+Views
+
+     * [411]Special page
+
+Personal tools
+
+     * Not logged in
+     * [412]Talk
+     * [413]Contributions
+     * [414]Create account
+     * [415]Log in
+
+Navigation
+
+     * [416]Main page
+     * [417]Smash Bros. Ultimate
+     * [418]Smash Bros. 4
+     * [419]Smash Bros. Brawl
+     * [420]Smash Bros. Melee
+     * [421]Smash Bros. (64)
+     * [422]Characters
+     * [423]Stages
+     * [424]Modes
+     * [425]Items
+     * [426]Random page
+
+Search
+
+   ____________________ Go  Search
+
+Participate
+
+     * [427]Forum
+     * [428]Community portal
+     * [429]Recent changes
+     * [430]Help
+     * [431]Admin noticeboard
+     * [432]Discord server
+     * [433]YouTube channel
+
+Tools
+
+     * [434]Atom
+     * [435]Special pages
+     * [436]Printable version
+
+In other languages
+
+     * [437]Español
+
+   [438]Attribution-Share Alike 3.0 Unported
+   [439]Powered by MediaWiki
+     * [440]Privacy policy
+     * [441]About SmashWiki
+     * [442]Disclaimers
+     * [443]Mobile view
+
+References
+
+   Visible links
+   1. https://www.ssbwiki.com/opensearch_desc.php
+   2. https://www.ssbwiki.com/api.php?hidebots=1&urlversion=1&days=7&limit=50&action=feedrecentchanges&feedformat=atom
+   3. https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Recent_changes
+   4. https://www.ssbwiki.com/Special:RecentChanges#column-one
+   5. https://www.ssbwiki.com/Special:RecentChanges#searchInput
+   6. https://www.ssbwiki.com/SmashWiki:SmashWiki_Status_System
+   7. https://www.ssbwiki.com/User:Mexi
+   8. https://www.ssbwiki.com/User:Wolff
+   9. https://www.ssbwiki.com/User:Trainer_Alex
+  10. https://www.ssbwiki.com/User:Capstalker
+  11. https://www.ssbwiki.com/User:NuFace
+  12. https://www.ssbwiki.com/User:Serpent_King
+  13. https://www.ssbwiki.com/User:JoHNNy352
+  14. https://www.ssbwiki.com/User:Hakannakah1
+  15. https://www.ssbwiki.com/User:Deniztendo638
+  16. https://www.ssbwiki.com/User:CSR
+  17. https://www.ssbwiki.com/User:Shadowjosh85
+  18. https://www.ssbwiki.com/User:Takava
+  19. https://www.ssbwiki.com/User:Ausira
+  20. https://www.ssbwiki.com/User:Raufan
+  21. https://www.ssbwiki.com/User:BrawlMatt202
+  22. https://www.ssbwiki.com/User:Phreak_91
+  23. https://www.ssbwiki.com/SmashWiki:Administrators
+  24. https://www.ssbwiki.com/SmashWiki:Administrators#Bureaucrats
+  25. https://www.ssbwiki.com/SmashWiki:Administrators#Developers
+  26. https://www.ssbwiki.com/SmashWiki:Bots
+  27. https://www.ssbwiki.com/index.php?title=Local_Wireless&action=edit&redlink=1
+  28. https://www.ssbwiki.com/index.php?title=Nintendo_eShop&action=edit&redlink=1
+  29. https://www.ssbwiki.com/index.php?title=Smasher:Diablo&action=edit&redlink=1
+  30. https://www.ssbwiki.com/Special:WantedPages
+  31. https://www.ssbwiki.com/Bomberman_(universe)
+  32. https://www.ssbwiki.com/Spirit_Board
+  33. https://www.ssbwiki.com/Challenger's_Approach
+  34. https://www.ssbwiki.com/Category:Proposals
+  35. https://www.ssbwiki.com/Category:Move_suggestions
+  36. https://www.ssbwiki.com/Category:Merge_suggestions
+  37. https://www.ssbwiki.com/Category:Split_suggestions
+  38. https://www.ssbwiki.com/Category:Stubs
+  39. https://www.ssbwiki.com/Category:Articles_in_need_of_cleanup
+  40. https://www.ssbwiki.com/Category:Articles_with_incomplete_sections
+  41. https://www.ssbwiki.com/Category:Articles_in_need_of_tournament_results
+  42. https://www.ssbwiki.com/Category:Pages_with_broken_file_links
+  43. https://www.ssbwiki.com/Category:Articles_requiring_competitive_expertise
+  44. https://www.ssbwiki.com/Category:Articles_requiring_technical_data
+  45. https://www.ssbwiki.com/Category:Articles_in_need_of_updating
+  46. https://www.ssbwiki.com/Category:Articles_in_need_of_images
+  47. https://www.ssbwiki.com/Category:Low-quality_images
+  48. https://www.ssbwiki.com/Category:Pre-release_images
+  49. https://www.ssbwiki.com/Category:Articles_in_need_of_videos
+  50. https://www.ssbwiki.com/Category:Candidates_for_notability-based_deletion
+  51. https://www.ssbwiki.com/Category:Candidates_for_deletion
+  52. https://www.ssbwiki.com/Category:Candidates_for_speedy_deletion
+  53. https://www.ssbwiki.com/Special:NewPages
+  54. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&limit=50
+  55. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&limit=100
+  56. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&limit=250
+  57. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&limit=500
+  58. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&days=1&from=
+  59. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&days=3&from=
+  60. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&days=7&from=
+  61. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&days=14&from=
+  62. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&days=30&from=
+  63. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&hideliu=1
+  64. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&hideanons=1
+  65. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&hidemyself=1
+  66. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&hidebots=0
+  67. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&hideminor=1
+  68. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&from=20190201081257
+  69. https://www.ssbwiki.com/Special:Tags
+  70. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&curid=82011&diff=1181956&oldid=1181737
+  71. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Ultimate&curid=82011&action=history
+  72. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+  73. https://www.ssbwiki.com/index.php?title=User:JoHNNy352&action=edit&redlink=1
+  74. https://www.ssbwiki.com/index.php?title=User_talk:JoHNNy352&action=edit&redlink=1
+  75. https://www.ssbwiki.com/Special:Contributions/JoHNNy352
+  76. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate#Trivia
+  77. https://www.ssbwiki.com/Special:Tags
+  78. https://www.ssbwiki.com/index.php?title=Sablé_Prince&curid=45917&diff=1181955&oldid=1175917
+  79. https://www.ssbwiki.com/index.php?title=Sablé_Prince&curid=45917&action=history
+  80. https://www.ssbwiki.com/Sablé_Prince
+  81. https://www.ssbwiki.com/index.php?title=User:Capstalker&action=edit&redlink=1
+  82. https://www.ssbwiki.com/User_talk:Capstalker
+  83. https://www.ssbwiki.com/Special:Contributions/Capstalker
+  84. https://www.ssbwiki.com/Sablé_Prince#Spirits
+  85. https://www.ssbwiki.com/index.php?title=Ghosts&curid=47108&diff=1181954&oldid=1177269
+  86. https://www.ssbwiki.com/index.php?title=Ghosts&curid=47108&action=history
+  87. https://www.ssbwiki.com/Ghosts
+  88. https://www.ssbwiki.com/index.php?title=User:Capstalker&action=edit&redlink=1
+  89. https://www.ssbwiki.com/User_talk:Capstalker
+  90. https://www.ssbwiki.com/Special:Contributions/Capstalker
+  91. https://www.ssbwiki.com/Ghosts#In_Super_Smash_Bros._Ultimate
+  92. https://www.ssbwiki.com/index.php?title=Talk:Party_Ball&curid=6412&diff=1181953&oldid=549915
+  93. https://www.ssbwiki.com/index.php?title=Talk:Party_Ball&curid=6412&action=history
+  94. https://www.ssbwiki.com/Talk:Party_Ball
+  95. https://www.ssbwiki.com/Special:Contributions/96.48.239.44
+  96. https://www.ssbwiki.com/index.php?title=User_talk:96.48.239.44&action=edit&redlink=1
+  97. https://www.ssbwiki.com/index.php?title=Guile&curid=87254&diff=1181952&oldid=1181951
+  98. https://www.ssbwiki.com/index.php?title=Guile&curid=87254&action=history
+  99. https://www.ssbwiki.com/Guile
+ 100. https://www.ssbwiki.com/index.php?title=User:Capstalker&action=edit&redlink=1
+ 101. https://www.ssbwiki.com/User_talk:Capstalker
+ 102. https://www.ssbwiki.com/Special:Contributions/Capstalker
+ 103. https://www.ssbwiki.com/Guile#In_Super_Smash_Bros._Ultimate
+ 104. https://www.ssbwiki.com/index.php?title=Guile&curid=87254&diff=1181951&oldid=1181949
+ 105. https://www.ssbwiki.com/index.php?title=Guile&curid=87254&action=history
+ 106. https://www.ssbwiki.com/Guile
+ 107. https://www.ssbwiki.com/index.php?title=User:Capstalker&action=edit&redlink=1
+ 108. https://www.ssbwiki.com/User_talk:Capstalker
+ 109. https://www.ssbwiki.com/Special:Contributions/Capstalker
+ 110. https://www.ssbwiki.com/Guile#In_Super_Smash_Bros._Ultimate
+ 111. https://www.ssbwiki.com/index.php?title=Marth_(SSBU)&curid=83074&diff=1181950&oldid=1181948
+ 112. https://www.ssbwiki.com/index.php?title=Marth_(SSBU)&curid=83074&action=history
+ 113. https://www.ssbwiki.com/Marth_(SSBU)
+ 114. https://www.ssbwiki.com/Special:Contributions/198.72.208.170
+ 115. https://www.ssbwiki.com/index.php?title=User_talk:198.72.208.170&action=edit&redlink=1
+ 116. https://www.ssbwiki.com/Marth_(SSBU)#Special_Moves
+ 117. https://www.ssbwiki.com/index.php?title=Guile&curid=87254&diff=1181949&oldid=1181731
+ 118. https://www.ssbwiki.com/index.php?title=Guile&curid=87254&action=history
+ 119. https://www.ssbwiki.com/Guile
+ 120. https://www.ssbwiki.com/index.php?title=User:Capstalker&action=edit&redlink=1
+ 121. https://www.ssbwiki.com/User_talk:Capstalker
+ 122. https://www.ssbwiki.com/Special:Contributions/Capstalker
+ 123. https://www.ssbwiki.com/Guile#In_Super_Smash_Bros._Ultimate
+ 124. https://www.ssbwiki.com/index.php?title=Marth_(SSBU)&curid=83074&diff=1181948&oldid=1181901
+ 125. https://www.ssbwiki.com/index.php?title=Marth_(SSBU)&curid=83074&action=history
+ 126. https://www.ssbwiki.com/Marth_(SSBU)
+ 127. https://www.ssbwiki.com/Special:Contributions/198.72.208.170
+ 128. https://www.ssbwiki.com/index.php?title=User_talk:198.72.208.170&action=edit&redlink=1
+ 129. https://www.ssbwiki.com/Marth_(SSBU)#Special_Moves
+ 130. https://www.ssbwiki.com/Special:Log/newusers
+ 131. https://www.ssbwiki.com/index.php?title=User:JoHNNy352&action=edit&redlink=1
+ 132. https://www.ssbwiki.com/index.php?title=User_talk:JoHNNy352&action=edit&redlink=1
+ 133. https://www.ssbwiki.com/Special:Contributions/JoHNNy352
+ 134. https://www.ssbwiki.com/index.php?title=Dark_Emperor&curid=39579&diff=1181947&oldid=1172887
+ 135. https://www.ssbwiki.com/index.php?title=Dark_Emperor&curid=39579&action=history
+ 136. https://www.ssbwiki.com/Dark_Emperor
+ 137. https://www.ssbwiki.com/index.php?title=User:Capstalker&action=edit&redlink=1
+ 138. https://www.ssbwiki.com/User_talk:Capstalker
+ 139. https://www.ssbwiki.com/Special:Contributions/Capstalker
+ 140. https://www.ssbwiki.com/Dark_Emperor#Spirit
+ 141. https://www.ssbwiki.com/index.php?title=Yellow_Devil&curid=50773&diff=1181946&oldid=1172880
+ 142. https://www.ssbwiki.com/index.php?title=Yellow_Devil&curid=50773&action=history
+ 143. https://www.ssbwiki.com/Yellow_Devil
+ 144. https://www.ssbwiki.com/index.php?title=User:Capstalker&action=edit&redlink=1
+ 145. https://www.ssbwiki.com/User_talk:Capstalker
+ 146. https://www.ssbwiki.com/Special:Contributions/Capstalker
+ 147. https://www.ssbwiki.com/Yellow_Devil#Spirit
+ 148. https://www.ssbwiki.com/index.php?title=Mettaur&curid=42569&diff=1181945&oldid=1176534
+ 149. https://www.ssbwiki.com/index.php?title=Mettaur&curid=42569&action=history
+ 150. https://www.ssbwiki.com/Mettaur
+ 151. https://www.ssbwiki.com/index.php?title=User:Capstalker&action=edit&redlink=1
+ 152. https://www.ssbwiki.com/User_talk:Capstalker
+ 153. https://www.ssbwiki.com/Special:Contributions/Capstalker
+ 154. https://www.ssbwiki.com/Mettaur#Spirit
+ 155. https://www.ssbwiki.com/index.php?title=Proto_Man&curid=52680&diff=1181944&oldid=1178468
+ 156. https://www.ssbwiki.com/index.php?title=Proto_Man&curid=52680&action=history
+ 157. https://www.ssbwiki.com/Proto_Man
+ 158. https://www.ssbwiki.com/index.php?title=User:Capstalker&action=edit&redlink=1
+ 159. https://www.ssbwiki.com/User_talk:Capstalker
+ 160. https://www.ssbwiki.com/Special:Contributions/Capstalker
+ 161. https://www.ssbwiki.com/Proto_Man#Spirit
+ 162. https://www.ssbwiki.com/index.php?title=Bass&curid=83264&diff=1181943&oldid=1172874
+ 163. https://www.ssbwiki.com/index.php?title=Bass&curid=83264&action=history
+ 164. https://www.ssbwiki.com/Bass
+ 165. https://www.ssbwiki.com/index.php?title=User:Capstalker&action=edit&redlink=1
+ 166. https://www.ssbwiki.com/User_talk:Capstalker
+ 167. https://www.ssbwiki.com/Special:Contributions/Capstalker
+ 168. https://www.ssbwiki.com/Bass#Spirit
+ 169. https://www.ssbwiki.com/index.php?title=Rush&curid=53121&diff=1181942&oldid=1172873
+ 170. https://www.ssbwiki.com/index.php?title=Rush&curid=53121&action=history
+ 171. https://www.ssbwiki.com/Rush
+ 172. https://www.ssbwiki.com/index.php?title=User:Capstalker&action=edit&redlink=1
+ 173. https://www.ssbwiki.com/User_talk:Capstalker
+ 174. https://www.ssbwiki.com/Special:Contributions/Capstalker
+ 175. https://www.ssbwiki.com/Rush#Spirit
+ 176. https://www.ssbwiki.com/index.php?title=Beat&curid=14906&diff=1181941&oldid=1172882
+ 177. https://www.ssbwiki.com/index.php?title=Beat&curid=14906&action=history
+ 178. https://www.ssbwiki.com/Beat
+ 179. https://www.ssbwiki.com/index.php?title=User:Capstalker&action=edit&redlink=1
+ 180. https://www.ssbwiki.com/User_talk:Capstalker
+ 181. https://www.ssbwiki.com/Special:Contributions/Capstalker
+ 182. https://www.ssbwiki.com/Beat#Spirit
+ 183. https://www.ssbwiki.com/index.php?title=Star_Force_Mega_Man&curid=56038&diff=1181940&oldid=1172878
+ 184. https://www.ssbwiki.com/index.php?title=Star_Force_Mega_Man&curid=56038&action=history
+ 185. https://www.ssbwiki.com/Star_Force_Mega_Man
+ 186. https://www.ssbwiki.com/index.php?title=User:Capstalker&action=edit&redlink=1
+ 187. https://www.ssbwiki.com/User_talk:Capstalker
+ 188. https://www.ssbwiki.com/Special:Contributions/Capstalker
+ 189. https://www.ssbwiki.com/Star_Force_Mega_Man#Spirits
+ 190. https://www.ssbwiki.com/index.php?title=MegaMan_Volnutt&curid=56036&diff=1181939&oldid=1172872
+ 191. https://www.ssbwiki.com/index.php?title=MegaMan_Volnutt&curid=56036&action=history
+ 192. https://www.ssbwiki.com/MegaMan_Volnutt
+ 193. https://www.ssbwiki.com/index.php?title=User:Capstalker&action=edit&redlink=1
+ 194. https://www.ssbwiki.com/User_talk:Capstalker
+ 195. https://www.ssbwiki.com/Special:Contributions/Capstalker
+ 196. https://www.ssbwiki.com/MegaMan_Volnutt#Spirit
+ 197. https://www.ssbwiki.com/index.php?title=MegaMan.EXE&curid=56035&diff=1181938&oldid=1172871
+ 198. https://www.ssbwiki.com/index.php?title=MegaMan.EXE&curid=56035&action=history
+ 199. https://www.ssbwiki.com/MegaMan.EXE
+ 200. https://www.ssbwiki.com/index.php?title=User:Capstalker&action=edit&redlink=1
+ 201. https://www.ssbwiki.com/User_talk:Capstalker
+ 202. https://www.ssbwiki.com/Special:Contributions/Capstalker
+ 203. https://www.ssbwiki.com/MegaMan.EXE#Spirit
+ 204. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBU)&curid=83302&diff=1181937&oldid=1181234
+ 205. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBU)&curid=83302&action=history
+ 206. https://www.ssbwiki.com/Ice_Climbers_(SSBU)
+ 207. https://www.ssbwiki.com/User:CSR
+ 208. https://www.ssbwiki.com/User_talk:CSR
+ 209. https://www.ssbwiki.com/Special:Contributions/CSR
+ 210. https://www.ssbwiki.com/Ice_Climbers_(SSBU)#Update_History
+ 211. https://www.ssbwiki.com/index.php?title=X_(Mega_Man)&curid=12605&diff=1181936&oldid=1172879
+ 212. https://www.ssbwiki.com/index.php?title=X_(Mega_Man)&curid=12605&action=history
+ 213. https://www.ssbwiki.com/X_(Mega_Man)
+ 214. https://www.ssbwiki.com/index.php?title=User:Capstalker&action=edit&redlink=1
+ 215. https://www.ssbwiki.com/User_talk:Capstalker
+ 216. https://www.ssbwiki.com/Special:Contributions/Capstalker
+ 217. https://www.ssbwiki.com/X_(Mega_Man)#Spirits
+ 218. https://www.ssbwiki.com/index.php?title=Elec_Man&curid=42554&diff=1181935&oldid=1173659
+ 219. https://www.ssbwiki.com/index.php?title=Elec_Man&curid=42554&action=history
+ 220. https://www.ssbwiki.com/Elec_Man
+ 221. https://www.ssbwiki.com/index.php?title=User:Capstalker&action=edit&redlink=1
+ 222. https://www.ssbwiki.com/User_talk:Capstalker
+ 223. https://www.ssbwiki.com/Special:Contributions/Capstalker
+ 224. https://www.ssbwiki.com/Elec_Man#Spirit
+ 225. https://www.ssbwiki.com/index.php?title=Dr._Wily&curid=56040&diff=1181934&oldid=1178379
+ 226. https://www.ssbwiki.com/index.php?title=Dr._Wily&curid=56040&action=history
+ 227. https://www.ssbwiki.com/Dr._Wily
+ 228. https://www.ssbwiki.com/index.php?title=User:Capstalker&action=edit&redlink=1
+ 229. https://www.ssbwiki.com/User_talk:Capstalker
+ 230. https://www.ssbwiki.com/Special:Contributions/Capstalker
+ 231. https://www.ssbwiki.com/Dr._Wily#Spirits
+ 232. https://www.ssbwiki.com/index.php?title=Zero_(Mega_Man)&curid=59164&diff=1181933&oldid=1181931
+ 233. https://www.ssbwiki.com/index.php?title=Zero_(Mega_Man)&curid=59164&action=history
+ 234. https://www.ssbwiki.com/Zero_(Mega_Man)
+ 235. https://www.ssbwiki.com/index.php?title=User:Capstalker&action=edit&redlink=1
+ 236. https://www.ssbwiki.com/User_talk:Capstalker
+ 237. https://www.ssbwiki.com/Special:Contributions/Capstalker
+ 238. https://www.ssbwiki.com/Zero_(Mega_Man)#Spirits
+ 239. https://www.ssbwiki.com/index.php?title=Akira_Yuki&curid=59205&diff=1181932&oldid=1181930
+ 240. https://www.ssbwiki.com/index.php?title=Akira_Yuki&curid=59205&action=history
+ 241. https://www.ssbwiki.com/Akira_Yuki
+ 242. https://www.ssbwiki.com/index.php?title=User:Capstalker&action=edit&redlink=1
+ 243. https://www.ssbwiki.com/User_talk:Capstalker
+ 244. https://www.ssbwiki.com/Special:Contributions/Capstalker
+ 245. https://www.ssbwiki.com/Akira_Yuki#Spirit
+ 246. https://www.ssbwiki.com/index.php?title=Zero_(Mega_Man)&curid=59164&diff=1181931&oldid=1172867
+ 247. https://www.ssbwiki.com/index.php?title=Zero_(Mega_Man)&curid=59164&action=history
+ 248. https://www.ssbwiki.com/Zero_(Mega_Man)
+ 249. https://www.ssbwiki.com/index.php?title=User:Capstalker&action=edit&redlink=1
+ 250. https://www.ssbwiki.com/User_talk:Capstalker
+ 251. https://www.ssbwiki.com/Special:Contributions/Capstalker
+ 252. https://www.ssbwiki.com/Zero_(Mega_Man)#Spirits
+ 253. https://www.ssbwiki.com/index.php?title=Akira_Yuki&curid=59205&diff=1181930&oldid=1175333
+ 254. https://www.ssbwiki.com/index.php?title=Akira_Yuki&curid=59205&action=history
+ 255. https://www.ssbwiki.com/Akira_Yuki
+ 256. https://www.ssbwiki.com/index.php?title=User:Capstalker&action=edit&redlink=1
+ 257. https://www.ssbwiki.com/User_talk:Capstalker
+ 258. https://www.ssbwiki.com/Special:Contributions/Capstalker
+ 259. https://www.ssbwiki.com/Akira_Yuki#Spirit
+ 260. https://www.ssbwiki.com/index.php?title=Downloadable_content_(SSBU)&curid=93429&diff=1181929&oldid=1181926
+ 261. https://www.ssbwiki.com/index.php?title=Downloadable_content_(SSBU)&curid=93429&action=history
+ 262. https://www.ssbwiki.com/Downloadable_content_(SSBU)
+ 263. https://www.ssbwiki.com/index.php?title=User:Capstalker&action=edit&redlink=1
+ 264. https://www.ssbwiki.com/User_talk:Capstalker
+ 265. https://www.ssbwiki.com/Special:Contributions/Capstalker
+ 266. https://www.ssbwiki.com/Downloadable_content_(SSBU)#Spirits
+ 267. https://www.ssbwiki.com/index.php?title=Ganondorf_(SSBM)&curid=749&diff=1181928&oldid=1181925
+ 268. https://www.ssbwiki.com/index.php?title=Ganondorf_(SSBM)&curid=749&action=history
+ 269. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 270. https://www.ssbwiki.com/User:Niayre
+ 271. https://www.ssbwiki.com/User_talk:Niayre
+ 272. https://www.ssbwiki.com/Special:Contributions/Niayre
+ 273. https://www.ssbwiki.com/Ganondorf_(SSBM)#Matchups
+ 274. https://www.ssbwiki.com/Special:Tags
+ 275. https://www.ssbwiki.com/index.php?title=Downloadable_content_(SSB4)&curid=93430&diff=1181927&oldid=1180484
+ 276. https://www.ssbwiki.com/index.php?title=Downloadable_content_(SSB4)&curid=93430&action=history
+ 277. https://www.ssbwiki.com/Downloadable_content_(SSB4)
+ 278. https://www.ssbwiki.com/index.php?title=User:Capstalker&action=edit&redlink=1
+ 279. https://www.ssbwiki.com/User_talk:Capstalker
+ 280. https://www.ssbwiki.com/Special:Contributions/Capstalker
+ 281. https://www.ssbwiki.com/index.php?title=Downloadable_content_(SSBU)&curid=93429&diff=1181926&oldid=1181920
+ 282. https://www.ssbwiki.com/index.php?title=Downloadable_content_(SSBU)&curid=93429&action=history
+ 283. https://www.ssbwiki.com/Downloadable_content_(SSBU)
+ 284. https://www.ssbwiki.com/index.php?title=User:Capstalker&action=edit&redlink=1
+ 285. https://www.ssbwiki.com/User_talk:Capstalker
+ 286. https://www.ssbwiki.com/Special:Contributions/Capstalker
+ 287. https://www.ssbwiki.com/index.php?title=Ganondorf_(SSBM)&curid=749&diff=1181925&oldid=1181924
+ 288. https://www.ssbwiki.com/index.php?title=Ganondorf_(SSBM)&curid=749&action=history
+ 289. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 290. https://www.ssbwiki.com/User:Niayre
+ 291. https://www.ssbwiki.com/User_talk:Niayre
+ 292. https://www.ssbwiki.com/Special:Contributions/Niayre
+ 293. https://www.ssbwiki.com/Ganondorf_(SSBM)#Matchups
+ 294. https://www.ssbwiki.com/Special:Tags
+ 295. https://www.ssbwiki.com/index.php?title=Ganondorf_(SSBM)&curid=749&diff=1181924&oldid=1178956
+ 296. https://www.ssbwiki.com/index.php?title=Ganondorf_(SSBM)&curid=749&action=history
+ 297. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 298. https://www.ssbwiki.com/User:Niayre
+ 299. https://www.ssbwiki.com/User_talk:Niayre
+ 300. https://www.ssbwiki.com/Special:Contributions/Niayre
+ 301. https://www.ssbwiki.com/Ganondorf_(SSBM)#Differences_from_Captain_Falcon
+ 302. https://www.ssbwiki.com/Special:Tags
+ 303. https://www.ssbwiki.com/index.php?title=Wario_(SSBU)&curid=83068&diff=1181923&oldid=1181343
+ 304. https://www.ssbwiki.com/index.php?title=Wario_(SSBU)&curid=83068&action=history
+ 305. https://www.ssbwiki.com/Wario_(SSBU)
+ 306. https://www.ssbwiki.com/User:Have_A_Rotten_Day!
+ 307. https://www.ssbwiki.com/User_talk:Have_A_Rotten_Day!
+ 308. https://www.ssbwiki.com/Special:Contributions/Have_A_Rotten_Day!
+ 309. https://www.ssbwiki.com/Wario_(SSBU)#Changes_from_Super_Smash_Bros._4
+ 310. https://www.ssbwiki.com/index.php?title=Ganon&curid=5295&diff=1181922&oldid=1181036
+ 311. https://www.ssbwiki.com/index.php?title=Ganon&curid=5295&action=history
+ 312. https://www.ssbwiki.com/Ganon
+ 313. https://www.ssbwiki.com/Special:Contributions/184.181.102.188
+ 314. https://www.ssbwiki.com/User_talk:184.181.102.188
+ 315. https://www.ssbwiki.com/index.php?title=Inkling_(SSBU)&curid=83080&diff=1181921&oldid=1181919
+ 316. https://www.ssbwiki.com/index.php?title=Inkling_(SSBU)&curid=83080&action=history
+ 317. https://www.ssbwiki.com/Inkling_(SSBU)
+ 318. https://www.ssbwiki.com/Special:Contributions/76.173.146.61
+ 319. https://www.ssbwiki.com/index.php?title=User_talk:76.173.146.61&action=edit&redlink=1
+ 320. https://www.ssbwiki.com/Inkling_(SSBU)#Attributes
+ 321. https://www.ssbwiki.com/index.php?title=Downloadable_content_(SSBU)&curid=93429&diff=1181920&oldid=1181911
+ 322. https://www.ssbwiki.com/index.php?title=Downloadable_content_(SSBU)&curid=93429&action=history
+ 323. https://www.ssbwiki.com/Downloadable_content_(SSBU)
+ 324. https://www.ssbwiki.com/Special:Contributions/184.181.102.188
+ 325. https://www.ssbwiki.com/User_talk:184.181.102.188
+ 326. https://www.ssbwiki.com/User_talk:Ultrashroomz
+ 327. https://www.ssbwiki.com/Special:Tags
+ 328. https://www.ssbwiki.com/index.php?title=Inkling_(SSBU)&curid=83080&diff=1181919&oldid=1181918
+ 329. https://www.ssbwiki.com/index.php?title=Inkling_(SSBU)&curid=83080&action=history
+ 330. https://www.ssbwiki.com/Inkling_(SSBU)
+ 331. https://www.ssbwiki.com/Special:Contributions/76.173.146.61
+ 332. https://www.ssbwiki.com/index.php?title=User_talk:76.173.146.61&action=edit&redlink=1
+ 333. https://www.ssbwiki.com/Inkling_(SSBU)#Update_History
+ 334. https://www.ssbwiki.com/index.php?title=Inkling_(SSBU)&curid=83080&diff=1181918&oldid=1181761
+ 335. https://www.ssbwiki.com/index.php?title=Inkling_(SSBU)&curid=83080&action=history
+ 336. https://www.ssbwiki.com/Inkling_(SSBU)
+ 337. https://www.ssbwiki.com/Special:Contributions/76.173.146.61
+ 338. https://www.ssbwiki.com/index.php?title=User_talk:76.173.146.61&action=edit&redlink=1
+ 339. https://www.ssbwiki.com/index.php?title=Beast_Ganon&curid=1337&diff=1181917&oldid=1181780
+ 340. https://www.ssbwiki.com/index.php?title=Beast_Ganon&curid=1337&action=history
+ 341. https://www.ssbwiki.com/Beast_Ganon
+ 342. https://www.ssbwiki.com/index.php?title=User:Capstalker&action=edit&redlink=1
+ 343. https://www.ssbwiki.com/User_talk:Capstalker
+ 344. https://www.ssbwiki.com/Special:Contributions/Capstalker
+ 345. https://www.ssbwiki.com/Beast_Ganon#As_a_Final_Smash
+ 346. https://www.ssbwiki.com/index.php?title=Isabelle_(SSBU)&curid=86063&diff=1181916&oldid=1181890
+ 347. https://www.ssbwiki.com/index.php?title=Isabelle_(SSBU)&curid=86063&action=history
+ 348. https://www.ssbwiki.com/Isabelle_(SSBU)
+ 349. https://www.ssbwiki.com/Special:Contributions/184.181.102.188
+ 350. https://www.ssbwiki.com/User_talk:184.181.102.188
+ 351. https://www.ssbwiki.com/Isabelle_(SSBU)#Trivia
+ 352. https://www.ssbwiki.com/index.php?title=List_of_victory_poses_(SSBU)&curid=90132&diff=1181915&oldid=1181862
+ 353. https://www.ssbwiki.com/index.php?title=List_of_victory_poses_(SSBU)&curid=90132&action=history
+ 354. https://www.ssbwiki.com/List_of_victory_poses_(SSBU)
+ 355. https://www.ssbwiki.com/index.php?title=User:Mikoro&action=edit&redlink=1
+ 356. https://www.ssbwiki.com/User_talk:Mikoro
+ 357. https://www.ssbwiki.com/Special:Contributions/Mikoro
+ 358. https://www.ssbwiki.com/index.php?title=Ryu_(SSBU)&curid=83240&diff=1181914&oldid=1181137
+ 359. https://www.ssbwiki.com/index.php?title=Ryu_(SSBU)&curid=83240&action=history
+ 360. https://www.ssbwiki.com/Ryu_(SSBU)
+ 361. https://www.ssbwiki.com/index.php?title=User:Mikoro&action=edit&redlink=1
+ 362. https://www.ssbwiki.com/User_talk:Mikoro
+ 363. https://www.ssbwiki.com/Special:Contributions/Mikoro
+ 364. https://www.ssbwiki.com/Ryu_(SSBU)#Victory_poses
+ 365. https://www.ssbwiki.com/Special:Log/upload
+ 366. https://www.ssbwiki.com/index.php?title=User:Mikoro&action=edit&redlink=1
+ 367. https://www.ssbwiki.com/User_talk:Mikoro
+ 368. https://www.ssbwiki.com/Special:Contributions/Mikoro
+ 369. https://www.ssbwiki.com/File:RyuVictoryPose3SSBU.gif
+ 370. https://www.ssbwiki.com/Category:Victory_poses_(SSBU)
+ 371. https://www.ssbwiki.com/Category:Ryu_(SSBU)
+ 372. https://www.ssbwiki.com/Category:Animated_images
+ 373. https://www.ssbwiki.com/Special:Log/upload
+ 374. https://www.ssbwiki.com/index.php?title=User:Mikoro&action=edit&redlink=1
+ 375. https://www.ssbwiki.com/User_talk:Mikoro
+ 376. https://www.ssbwiki.com/Special:Contributions/Mikoro
+ 377. https://www.ssbwiki.com/File:RyuVictoryPose2SSBU.gif
+ 378. https://www.ssbwiki.com/Category:Victory_poses_(SSBU)
+ 379. https://www.ssbwiki.com/Category:Ryu_(SSBU)
+ 380. https://www.ssbwiki.com/Category:Animated_images
+ 381. https://www.ssbwiki.com/index.php?title=Downloadable_content_(SSBU)&curid=93429&diff=1181911&oldid=1181907
+ 382. https://www.ssbwiki.com/index.php?title=Downloadable_content_(SSBU)&curid=93429&action=history
+ 383. https://www.ssbwiki.com/Downloadable_content_(SSBU)
+ 384. https://www.ssbwiki.com/User:Ultrashroomz
+ 385. https://www.ssbwiki.com/User_talk:Ultrashroomz
+ 386. https://www.ssbwiki.com/Special:Contributions/Ultrashroomz
+ 387. https://www.ssbwiki.com/User_talk:184.181.102.188
+ 388. https://www.ssbwiki.com/Special:Tags
+ 389. https://www.ssbwiki.com/Special:Log/upload
+ 390. https://www.ssbwiki.com/index.php?title=User:Mikoro&action=edit&redlink=1
+ 391. https://www.ssbwiki.com/User_talk:Mikoro
+ 392. https://www.ssbwiki.com/Special:Contributions/Mikoro
+ 393. https://www.ssbwiki.com/File:RyuVictoryPose1SSBU.gif
+ 394. https://www.ssbwiki.com/Category:Victory_poses_(SSBU)
+ 395. https://www.ssbwiki.com/Category:Ryu_(SSBU)
+ 396. https://www.ssbwiki.com/Category:Animated_images
+ 397. https://www.ssbwiki.com/index.php?title=Nintendo_Direct&curid=35510&diff=1181909&oldid=1175580
+ 398. https://www.ssbwiki.com/index.php?title=Nintendo_Direct&curid=35510&action=history
+ 399. https://www.ssbwiki.com/Nintendo_Direct
+ 400. https://www.ssbwiki.com/Special:Contributions/184.181.102.188
+ 401. https://www.ssbwiki.com/User_talk:184.181.102.188
+ 402. https://www.ssbwiki.com/Nintendo_Direct#Super_Smash_Bros._Ultimate_Directs
+ 403. https://www.ssbwiki.com/index.php?title=Lucina_(SSBU)&curid=83168&diff=1181908&oldid=1179434
+ 404. https://www.ssbwiki.com/index.php?title=Lucina_(SSBU)&curid=83168&action=history
+ 405. https://www.ssbwiki.com/Lucina_(SSBU)
+ 406. https://www.ssbwiki.com/index.php?title=User:Mikoro&action=edit&redlink=1
+ 407. https://www.ssbwiki.com/User_talk:Mikoro
+ 408. https://www.ssbwiki.com/Special:Contributions/Mikoro
+ 409. https://www.ssbwiki.com/Lucina_(SSBU)#Idle_poses
+ 410. https://www.ssbwiki.com/Special:RecentChanges
+ 411. https://www.ssbwiki.com/Special:RecentChanges
+ 412. https://www.ssbwiki.com/Special:MyTalk
+ 413. https://www.ssbwiki.com/Special:MyContributions
+ 414. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=Special:RecentChanges
+ 415. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=Special:RecentChanges
+ 416. https://www.ssbwiki.com/Main_Page
+ 417. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 418. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 419. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 420. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 421. https://www.ssbwiki.com/Super_Smash_Bros.
+ 422. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+ 423. https://www.ssbwiki.com/Stage
+ 424. https://www.ssbwiki.com/Mode
+ 425. https://www.ssbwiki.com/Item
+ 426. https://www.ssbwiki.com/Special:Random
+ 427. https://www.ssbwiki.com/Forum:Index
+ 428. https://www.ssbwiki.com/SmashWiki:Community_portal
+ 429. https://www.ssbwiki.com/Special:RecentChanges
+ 430. https://www.ssbwiki.com/Help:Contents
+ 431. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
+ 432. https://www.ssbwiki.com/SmashWiki:Discord_server
+ 433. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
+ 434. https://www.ssbwiki.com/api.php?hidebots=1&urlversion=1&days=7&limit=50&action=feedrecentchanges&feedformat=atom
+ 435. https://www.ssbwiki.com/Special:SpecialPages
+ 436. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&printable=yes
+ 437. https://es.ssbwiki.com/wiki/Especial:CambiosRecientes
+ 438. https://creativecommons.org/licenses/by-sa/3.0/
+ 439. https://www.mediawiki.org/
+ 440. https://www.porplemontage.com/privacy
+ 441. https://www.ssbwiki.com/SmashWiki:About
+ 442. https://www.ssbwiki.com/SmashWiki:General_disclaimer
+ 443. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&mobileaction=toggle_view_mobile
+
+   Hidden links:
+ 445. https://www.ssbwiki.com/Main_Page

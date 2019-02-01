@@ -1,0 +1,586 @@
+   #[1]Edit this page [2]SmashWiki (en) [3]SmashWiki Atom feed
+
+Tournament
+
+   From SmashWiki, the Super Smash Bros. wiki
+   Jump to:[4]navigation, [5]search
+   [6]Super Smash Bros. series [7]Competitive.png
+
+          This article is about the competitive tournament scene. For the in-game mode, see [8]Tourney (disambiguation).
+
+   Gathering smashers at the [9]Zero Challenge 2 [10]Melee tournament hosted by [11]SoCal Elite 4.
+
+   A tournament, or tourney for short, is a competition involving a group of players designed to produce an overall skill ranking of the involved players, typically by arranging them into a structured bracket where players engage in individual matches to raise or lower their ranking.
+
+   The Super Smash Bros. series has seen a large devoted competitive community since [12]Matt Deezie established the fundamentals of competitive Smash with the [13]Tournament Go series in April 2002 with [14]Super Smash Bros. Melee. The game had an active tournament scene in the years following its release, being featured at both grassroots tournaments and events run by [15]Major League Gaming and other large e-sports groups. After entering a recession following the release of [16]Super Smash Bros. Brawl, the Melee scene eventually rebounded, and began an explosive growth in popularity in 2013, fueled by the success of [17]EVO 2013 and the documentary, [18]The Smash Brothers. Although it was released on the retired GameCube platform, Melee remains extremely popular among competitive players, with a large and thriving tournament presence far exceeding that of the pre-Brawl days; these players prefer the older iteration due to its faster and more combo-oriented gameplay compared to newer Smash
+   titles.
+
+   Brawl also had a large tournament scene for its first five years, though most former Melee players disliked its slower gameplay, and even following its release, a sizeable number of players continued to stick with the faster-paced and combo-oriented gameplay of Melee. Although Brawl developed its own vibrant tournament scene after its release, beginning in 2013, the Brawl scene began a steady decline, following the explosion in popularity of Melee due to EVO 2013, the imminent release of Smash 4, and the rise of Project M; since the release of [19]Super Smash Bros. 4, Brawl currently maintains a very low tournament presence. While very few players play the game at a serious level, several large Smash tournaments, such as [20]Super Smash Con, have featured the game and attracted a sizeable amount of entrants, who generally enter the event in addition to Smash 4 or Melee.
+
+   Smash 4 has become overall more successful than Brawl was in competitive play, due in part to the game removing many of Brawl's criticized and unpopular gameplay mechanics such as the relative lack of hitstun, and having faster and more competitively-suited gameplay. Smash 4's tournament scene took off immediately upon its release, due to availability of well-developed streaming technology, social networking, and other tournament infrastructure, in addition to an already-existing Brawl fanbase that eagerly moved onto the newer game. Like Melee, the title has been featured prominently in large fighting game tournaments such as [21]EVO; it has also attracted casual players into the competitive Smash scene to a much greater extent than any of the previous Smash games.
+
+   Competitive Smash 64 has maintained a small following since the release of Melee. Despite being the oldest Smash game with the least character diversity, it still has an active and dedicated playerbase, with many players having played the game for many years. In addition to the traditional in-person tournaments, more recent play has also taken place over the Internet through services like Kaillera.
+
+   [22]Project M, a Brawl mod featuring design and gameplay like that of Melee's, has also seen a number of tournaments dedicated to it. Beginning in 2013, the game saw a rapid rise in popularity and was increasingly featured at Smash tournaments, including supermajors such as [23]Apex 2014. Initially restricted to a side-event at many tournaments, Project M later developed its own unique tournament scene, with some tournaments being devoted almost solely to the game. However, since Project M is not endorsed by Nintendo, many major e-sports organizations and large grassroots tournaments have refused to include the game in their lineups, and many streaming groups also refuse to stream PM tournaments altogether, due to fears of legal issues over the mod. Although these blows have caused the game to lose some ground to Melee and Smash 4, it is still supported by a vibrant and active community of players and tournaments, and it is still commonly featured at smaller majors and at side events at
+   larger majors.
+
+Contents
+
+     * [24]1 Locations and sizes
+     * [25]2 Prices and fees
+     * [26]3 Legal issues involving the exchange of money
+     * [27]4 Tournament formats
+          + [28]4.1 Double elimination bracket
+          + [29]4.2 Placements guide
+          + [30]4.3 Round robin
+               o [31]4.3.1 Advantages
+               o [32]4.3.2 Disadvantages
+          + [33]4.4 Pools
+          + [34]4.5 Swiss system
+               o [35]4.5.1 Modified Swiss system
+          + [36]4.6 Single elimination bracket
+          + [37]4.7 Arcadian format
+     * [38]5 Side events
+          + [39]5.1 Friendlies
+          + [40]5.2 Low and mid tier tournaments
+          + [41]5.3 Crew battles
+          + [42]5.4 Game mod tournaments
+          + [43]5.5 Free for all
+               o [44]5.5.1 All Brawl
+               o [45]5.5.2 Tournament Go
+          + [46]5.6 Salty Suite
+          + [47]5.7 amiibo Tournaments
+          + [48]5.8 Non-Smash Bros games
+     * [49]6 See also
+     * [50]7 References
+     * [51]8 External links
+
+Locations and sizes[[52]edit]
+
+          "National tournament" redirects here. For a list of national tournaments, see [53]List of national tournaments.
+
+   Tournaments are held regularly in many regions all over the world, with the largest community centered in the United States, which has not only the largest and generally most talented playerbase, but also the largest tournaments, such as [54]GENESIS and [55]EVO, which attract competition from all over the world (a feat other regions have yet to achieve). Canada, northern and western Europe (in particular the Scandinavian countries), Australia and Japan have large Smash communities as well. Smaller communities exist in Latin America and elsewhere. Major areas of tournament activity in the United States are centered around [56]Northern California, [57]Southern California, the [58]Maryland/Virginia area, the [59]Tristate Area, and [60]Florida, though most states enjoy an active tournament calendar year round.
+
+   Various terms exist for describing the size, frequency, and intent of a tournament. They include:
+     * Smashfest: A smaller event, often without an entry fee, and more friendly than competitive in nature. Smashfests often feature several different games and allow players to compete with each other in a more casual manner.
+     * STD: "Smash 'Til Dawn", An overnight tournament or smashfest where the goal is to keep playing until the sun rises (or later). [61]Smash the Record is a very large example of this.
+     * Weekly/Biweekly/Triweekly/Monthly: Repeating tournaments, usually in the same venue. Usually feature the same group of players each iteration. Depending on size as well as player strength, certain monthly events can also be classified as Regional Tournaments if not larger (such as Mayhem in California and the monthly Smash 4 events at Xanadu)
+     * Circuit event: Part of a regional circuit of tournaments, such as the Midwest Circuit. Winners are usually given points based on their placings, and an overall points winner at the end of the season is given some sort of prize.
+     * Regional tournament: A large tournament that draws significant attendance from neighboring regions. Only top professional players can usually expect to win a regional tournament.
+     * Major tournament or national tournament: A larger tournament that draws an extraordinary amount of attendance from the broader region as a whole. In North America, these tournaments attract players from across the United States and Canada, while European majors feature smashers from across the continent. Majors can draw attendance from different continents; for example, European and Japanese players often fly in to large American tournaments.
+     * Supermajor: The most prestigious tournaments in the Smash scene, featuring a huge amount of the best players from around the world. Supermajors are considered to be the most important gatherings for players in the scene, and attract the most viewership and publicity, not only from within the Smash community, but also from the larger fighting game and esports communities. Examples of current Smash-centered supermajor series include [62]GENESIS, [63]Super Smash Con, [64]The Big House, and [65]Shine; many tournaments held by larger fighting game organizations, such as [66]EVO, [67]MLG, and [68]CEO, have also become supermajors in the Smash community. [69]Apex and [70]Pound have previously been recognized as supermajor series. Tournaments can also be labeled as supermajors based on the extreme level of player talent; for example, in Melee, [71]Get On My Level 2016, as well as [72]Smash Summits and other invitationals, are often considered "supermajors" due to the fact that so many top 20
+       players attended, despite having fewer entrants than the other tournament series listed.
+
+Prices and fees[[73]edit]
+
+   Most tournaments require an entry fee from participants to play. These prices vary by region and tournament size, and differ for each type of event being entered: most bi-weekly events in Southern California charge $5 for singles and $10 total for a team, while similarly-sized east coast United States tournaments usually charge a higher amount. Entry fees go into a "pot" for an event and are awarded to the winners of that event in pre-announced amounts, usually a percentage of the pot (common payout amounts are 60% for first, 30% for second, 10% for third). Tournament directors will usually charge an extra amount, commonly referred to as a venue fee (or take money out of the pot), to help pay for any additional costs to use the venue. Venue fees usually cost about five to ten dollars, though nationals can have venue fees up to $50, especially if the tournament runs over multiple days.
+
+Legal issues involving the exchange of money[[74]edit]
+
+   Some schools and other public venues consider gaming tournaments a form of gambling and ban it as such. All tournament directors are encouraged to check with potential venues to make sure they are tolerant of players paying to enter. Several well-known tournaments have had to cancel events when a public official discovered that money was changing hands between players at the event.
+
+   Smash Bros. tournaments are often thought to be illegal in Iowa under §725.7 of the Iowa Code, which states that it is unlawful for any one to "participate in a game for any sum of money or other property of any value" other than those outlined in subsection 2.^[75][1] However nobody is known to have been arrested due to participating in an esports tournament. There have been several attempts to pass legislation to explicitly legalize fantasy sports in the state, which may have implications for esports as well.^[76][2]^[77][3] House [78]Bill 165, introduced to the Iowa House of Representatives in January 2015 attempts to create a definition for "Bona Fide Contests", that among other additions, would legalize paying tournaments for games “by player-directed movement with a video or electronic gaming device”.^[79][4] The current law allows for video machine golf tournament games, but not necessarily any other type of video game.
+
+Tournament formats[[80]edit]
+
+   There are four bracket formats used by modern Smash tournaments:
+
+Double elimination bracket[[81]edit]
+
+   The winners' bracket portion of a double elimination event.
+   The losers' bracket, where a player is placed after losing in winners' bracket.
+
+   The double elimination format is by far the most common bracket type at tournaments. A double elimination bracket is derived from the single elimination format but is split into two sections, the winners' and losers' brackets (W and L for short). The W bracket is almost identical to a single elimination bracket; however, losing in the W bracket does not eliminate a player from the tournament. They instead drop into the L bracket at a position that reflects how far they advanced into the W bracket. Anyone who loses in the L bracket (their second loss of the event) is eliminated.
+
+   The first round of the L bracket pairs two players who just lost in the first round of the W bracket. The winner of this set then plays a player who drops from the second round of W bracket due to a loss there; the player is placed in the bracket at the letter/number corresponding to the set in W bracket where they lost. (In the images at right, Champ lost at W-A and dropped into L-A.) Further L bracket rounds alternate between these two set setups: two players who survived earlier L bracket rounds play, and the winner of that faces someone dropping from W bracket.
+
+   There are three sets in a double-elimination bracket that are of special importance to participants:
+     * Winners' Bracket Finals: occurs between two players who advance to the last set in W bracket without losing. The winner of this set is guaranteed at least a second place finish, while the loser will at worst finish third. The set in W bracket marked "C" is the winners finals set in the first image at right.
+     * Losers' Bracket Finals: the loser of the winners' bracket finals plays against the one player to advance through all the L bracket rounds. The loser of this set is awarded third place overall. The set labeled "C" in the second image at right is the losers' bracket finals.
+     * Championship Set (aka Grand Finals): the end-all set of the event. The winner of this set gets first place, the loser second. The wrinkle in this is that the player from the losers' bracket must win two consecutive sets to win the championship as opposed to the winners' bracket player only requiring one – this is due to the "players are eliminated upon losing two sets" philosophy and has the side effect of discouraging players from intentionally dropping a tough set to fall into the presumed-easier losers' bracket.
+
+   These three sets usually require a greater number of individual games to be played before determining a winner. Standard tournament rules have most sets being a set of "best two of three", while the three sets above are often sets of "best three of five".
+
+   Every player is guaranteed at least two sets in a double elimination bracket, making it a popular alternative to the single elimination format. The format also affords a player the chance to make a comeback after losing once in W bracket, as well as provide a greater difference in placing, to aid with ranking players' tournament performance.
+
+   The size of a double elimination bracket is determined in the same fashion as a single elimination bracket. Half the remaining players are eliminated every two rounds of the L bracket. The total number of sets for an n-size bracket is equal to 2(n−1); thus, a double elimination bracket takes exactly twice as long to complete as a single elimination bracket (assuming the bracket is not reset).
+
+Placements guide[[82]edit]
+
+   The following is the list of placements and which stage the player was eliminated. # refers to the maximum number of players who may share the placement. [83]EVO uses a similar model for their events.
+   Place          Eliminated in          #
+   1st    N/A                           1
+   2nd    Grand finals                  1
+   3rd    Losers finals                 1
+   4th    Losers semi-finals            1
+   5th    Losers quarter-finals         2
+   7th    Losers eighths                2
+   9th    5 rounds before Grand Finals  4
+   13th   6 rounds before Grand Finals  4
+   17th   7 rounds before Grand Finals  8
+   25th   8 rounds before Grand Finals  8
+   33rd   9 rounds before Grand Finals  16
+   49th   10 rounds before Grand Finals 16
+   65th   11 rounds before Grand Finals 32
+   97th   12 rounds before Grand Finals 32
+   129th  13 rounds before Grand Finals 64
+   193rd  14 rounds before Grand Finals 64
+   257th  15 rounds before Grand Finals 128
+   385th  16 rounds before Grand Finals 128
+   513th  17 rounds before Grand Finals 256
+   769th  18 rounds before Grand Finals 256
+   1025th 19 rounds before Grand Finals 512
+   1537th 20 rounds before Grand Finals 512
+
+Round robin[[84]edit]
+
+   Round Robin is a tournament format where every player in the tournament plays every single other player. There are no brackets and no eliminations; everyone keeps playing until every matchup has been played.
+
+Advantages[[85]edit]
+
+     * They are perfectly fair, as every player plays the same people, thus preventing players from having an easier or more difficult tournament progression than other players (which is highly probable in a bracket type tournament, due to issues such as faulty [86]seeding or being placed against players who play characters that counter theirs).
+     * Seeding does not matter, and as such, TOs do not have to spend time creating a bracket while making sure it's seeded properly and balanced, thus allowing the tournament to start sooner.
+     * They are optimally accurate, as they give the maximum amount of information to base placings on.
+     * They provide the most amount of games played, spread equally among all players.
+     * Relating to the point above, they are especially useful in creating more matches and a longer tournament in the event of small turnout, thus allowing small tournaments to feel larger.
+
+Disadvantages[[87]edit]
+
+     * Round Robins take an infeasible amount of time to complete for more than a dozen or so players. The number of games that must be played increases quadratically as more players are added, meaning that Round Robins can only be used for small gatherings. For x players, the number of matches required is x(x−1)/2. To illustrate this problem, if a 256-person Round Robin was done, it would take approximately 6 days of consecutive around-the-clock smashing.
+
+   A 5-way tie in a 5-person round robin tournament.
+     * One rare but potential danger to Round Robin tournaments is the possibility of a tie. Round Robins are not assured to have a clearly cut winner like brackets do. For example, let there be 3 players, A, B, and C. A beats B, B beats C, and C beats A. Then A, B, and C all beat everyone else in the tournament. A, B, and C are then each in a three-way tie for first place. This principle is not limited to 3 players, though; it is completely possible that everyone in the entire tournament ties for first and last simultaneously.
+     * [88]Bracket manipulation is much more probable in a Round Robin, as it's significantly more feasible for a higher level player to afford intentionally losing a match or two to friends to boost their placing, while not harming his or her own placing.
+     * "Meaningless matches" can occur, when players are knocked out of contention for a money placing, or advancing to the next round of pools or bracket in the case of RR pools, before finishing all their matches, and may not care about their overall placing at the end of the tournament. All remaining matches of theirs become "meaningless", as the match outcome will have no impact on their capability to win money or secure a spot in the bracket or another round of pools. As a result, these players may not care about their remaining matches, and will either drop out (thus automatically forfeiting all remaining matches), or play their remaining matches with half-hearted effort (thus lose matches they would win otherwise). This in turn undermines the advantages a round robin brings.
+
+Pools[[89]edit]
+
+   Pools contain a subset of an entrant field, also informally known as "groups". Using this mechanism, players are split into appropriately-sized pools and do a "mini-tournament" with other participants in their pool using the pre-announced pool format, with the most common format being round-robin to yield perfectly accurate results and to give less experienced players more tournament matches. After all matches have finished, players are either seeded or eliminated in their pool based on their performance. Pools are usually used to narrow a large entrant field into a smaller subset for double elimination bracket play or for another round of pools, though they are occasionally just used to seed players in bracket without elimination. Examples of this method are:
+     * In a tournament with 160 participants, the Tournament Organizer might arrange it so that there are 32 pools of 5 players, and then the top 2 players of each pool would make the 64-man bracket.
+     * In a tournament with 48 participants, the Tournament Organizer might arrange it so that there are 8 pools of 6 players, and then the top 4 players of each pool would make the 32-man bracket.
+     * In a tournament with 224 participants, the Tournament Organizer might arrange it so that there are 32 pools of 7 players, and then the top 2 players of each pool would make the 64-man bracket.
+
+   In sufficiently large tournaments, 2 or more rounds of pools would be adequate to useful. Examples are:
+     * Apex 2012 Brawl singles – 400 participants
+          + 80 pools of 5, top 2 players of each pool advanced to a second round of pools, yielding 160 participants.
+          + 32 pools of 5, top 2 players of each pool advanced to the 64-man bracket.
+     * Zero Challenge 2 – 192 participants
+          + 32 pools of 6, top 3 players of each pool advanced to a second round of pools, yielding 96 participants.
+          + 16 pools of 6, top 4 players of each pool advanced to the 64-man bracket.
+
+   Pools are usually only employed at large tournaments. N number of entrants are split into P number of pools, and the top Y finishers in each pool are either placed into a second round of pools or seeded into a double elimination bracket, which proceeds normally. The number of entrants for the subsequent round or bracket is P × Y. Placing well in a pool gives a player a better position in a bracket or the next round of pools, giving extra incentive to strive for the top pool positions. Tournaments using pools will result in a significantly larger amount of games being played than without them. There are a total of B(B−1)/2 sets per pool, with B players per pool. Thus a round of round-robin pools with N participants total requires a grand total of N(B−1)/2 sets.
+
+Swiss system[[90]edit]
+
+   The Swiss System, as used heavily in the professional chess world, guarantees each player the same number of matches and attempts to match players against others of similar skill throughout the tournament. Swiss system tournaments are rare in the Smash community due to their complexity and the large number of matches they create.
+
+   Players are assigned matches in the first round either randomly or based on some method of seeding (an attempt to rank players in order of skill before the tournament starts). Winning this set gives a player 1 "point", and losing does not give any points. Each successive round involves pairing two players with the same number of points (attempting to avoid repeat matchups), playing out those matches, assigning points, and repeating for the next round. Swiss systems generally run until only a single person has no losses; this will occur after R rounds, where R is the base-2 logarithm of the total number of entrants, rounded upwards. Swiss brackets are sometimes run for a pre-determined number of rounds, with the winner being the person with the most points overall.
+
+Modified Swiss system[[91]edit]
+
+   While the Swiss System is rare in the Smash community, a modified version is in use at [92]SLAPAHO tournaments in Iowa City. In these tournaments, 3 to 5 rounds of preliminary swiss systems rounds are run. They are best of three, with a 2–0 victory earning 4 points, a 2–1 victory earning 3 points, a 1–2 loss earning 1 point, and a 0–2 loss earning 0 points. After a set number of preliminary rounds, the top eight players are seeded according to points, and a normal double or single elimination tournament commences.
+
+Single elimination bracket[[93]edit]
+
+   An eight-player single elimination bracket. First-round matches are on the left.
+
+   Single elimination tournaments are very uncommon for Super Smash Bros. and video games in general. Despite this, tournaments sometimes use them for side events like [94]crew battles to save time. Despite single elimination's flaws, [95]Japanese Smash 64 tournaments often use the single elimination format, even in large, national tournaments. Some early Melee tournaments used single elimination.
+
+   In a single elimination bracket, players are arranged into an hierarchical structure where matches are played between two entrants; the winner advances to play another player the next round, and the loser is eliminated from the tournament. The player who wins the very last match of the bracket, after all other entrants have been eliminated, is the winner of the event, and the person who loses the final match finishes in second place. Most sports tournaments (like the [96]NCAA Men's Division I Basketball Championship) use a single elimination format.
+
+   Single elimination brackets are often described in terms of the number of entrants playing in the bracket. Because half the remaining players are eliminated during each round of the bracket, the total number of rounds is based on the [97]base-2 logarithm of the entrant count (rounded upwards). A three-round bracket is used for 8 players, four rounds for 9 to 16 players, five rounds for 17 to 32 players, and so on. A bracket's size is usually defined as the smallest power of two that is greater than or equal to the number of entrants. Thus, a bracket with 47 entrants is referred to as a 64-man bracket, because 64 is the smallest power of two which is greater than 47. The size of the bracket also reflects the total number of matches throughout the entire bracket: for an n-size bracket, n-1 matches must be played in total.
+
+   [98]Byes are used to fill positions in the bracket when the number of entrants is not a power of two. Any player facing a bye automatically advances to the next round. Byes are usually given to the top seeds in the bracket.
+
+   Single elimination brackets are rarely used at Smash tournaments for multiple reasons. One such reason players dislike single elimination is that half the players are eliminated having only played a single match (and every player overall gets to play significantly fewer matches). Another reason is that just having one bad match or encountering one [99]bad matchup can result in a premature elimination for a player that would have placed better otherwise, thus giving less room for error, and overall less accuracy in the results. Single elimination also offers much less difference in placing, making them less useful for ranking players' performance.
+
+Arcadian format[[100]edit]
+
+   An Arcadian is a tournament format where all the ranked players from a specific region are banned from participating, therefore only allowing the unranked players to participate and for ascending players to reach the ranked territory. Arcadians still feature the same rulesets as other tournaments however. Most Arcadians also force any player to not participate even if they're not from the state. However, tournament organizers usually screen out-of-state players before they can play. Arcadians are most common at local and regional tournaments, but are still uncommon as a whole. Notably, [101]2GG: Breakthrough holds the record for the largest Arcadian tournament within the Smash series.
+
+Side events[[102]edit]
+
+   Side events are events played on the side of the primary singles/doubles tournament. They are usually done for "fun", as well as to play under conditions that couldn't be done as its own standalone event, and to potentially attract players who wouldn't attend for just the primary singles/doubles tournament. Side events, being less serious in nature, usually have a lower entry fee to enter. Common examples of side events include:
+
+Friendlies[[103]edit]
+
+          For the team attack option known as "Friendly Fire", see [104]Team Attack.
+
+   A friendly, slang for exhibition match, is a match that takes place during a tournament and at a tournament but is used for practice or just for fun in general. This means that the outcome will not be used in a tournament. A friendly match can also be an online match, usually only two people, that are friends on [105]Wi-Fi. Friendlies tend to also be used as showcases people of different coasts and to settle matchups. Friendlies come in one of 2 variants:
+     * Skittle/normal: A friendly where nothing is on the line.
+     * [106]Money match: A friendly where money is paid to the winner. Most money matches range are between 1 and 10 dollars but some of them have gone as high as 50, 100, or even 1,000 dollars.
+
+Low and mid tier tournaments[[107]edit]
+
+   A low tier tournament is a tournament that runs under standard rules, with the stipulation being players can only play low and bottom tier characters. What tiers are considered "low tier" is at TO discretion. The main purpose of a low tier tournament is to play as characters under tournament conditions that would otherwise be rare in standard tournaments, as comparatively few players use such characters in tournaments, and even fewer players, such as [108]Gimpyfish and [109]Mekos, have been able to place decently at major tournaments with low tier characters. [110]Sopo, or a single lead [111]Ice Climber is usually eligible for low-tier tournaments.
+
+   A mid tier tournament is similar to a low tier tournament, except characters in the middle tiers can be played, with those in the top and high tiers being banned. What tiers are considered "mid tier" is at TO discretion. The main purpose of mid tier tournaments is to have greater character variety than what a low tier tournament would allow, without having to see the abundance of top and high tier characters that dominate standard tournaments.
+
+Crew battles[[112]edit]
+
+          Main article: [113]Crew battle
+
+   Occasionally crew battles are run as an official side event, where they can either be two large crews competing, or an entire tournament of many crews. Crews are usually composed of members of preexisting [114]crews, players from the same region, and recruited by a draft, where a team captain drafts other players for their crew. In the past, crew battle tournaments had entry fees and payed out the top placing crews. However this practice largely ended around 2007.
+
+Game mod tournaments[[115]edit]
+
+   A common side event is a tournament played with one of the various game [116]mods of Brawl or Melee, primarily done to see how the mod plays under tournament conditions. [117]Project M remains by and far away the most common game mod to be played at tournaments, to the point of developing its own tournament scene; Brawl- and Brawl+, however, also saw appearances at side events.
+
+   Modding Melee is significantly less convenient for the end-user because the [118]Smash Stack exploit isn't available, thus fewer Melee mods have been developed. However, [119]SD Remix is a balance mod that is somewhat popular and has side tournaments run for it.
+
+Free for all[[120]edit]
+
+   Generally one of the least used if not the least used tournament ruleset. Four players all fight for themselves on their own team. Not considered a serious ruleset and will be frowned upon by most of the competitive community.
+
+All Brawl[[121]edit]
+
+   All Brawl is a more casual side event, where players compete in four-player free-for-alls, with [122]items on and every [123]stage legal. The ruleset used for [124]Apex 2012's All Brawl event was:
+     * Bracket is single elimination.
+     * 4 players per set.
+     * All stages on with stage choice set to random.
+     * All characters are set to random.
+     * Top 2 players advance.
+     * All items are on and set to medium.
+     * First player to win 2 games advances.
+     * 2nd person to advance is decided in the order of: games won, stock left in the last game, most KOs in the last game.
+
+Tournament Go[[125]edit]
+
+   Many early tournaments, most notably the [126]Tournament Go series, featured FFA tournaments. It is unknown how these worked as the brackets have been lost to time.
+
+Salty Suite[[127]edit]
+
+   A Salty Suite is usually settled between two people, often for revenge. Notable streaming groups, such as [128]VGBootCamp have hosted these types of side events at tournaments such as [129]Apex 2014 and [130]Apex 2015.
+
+   Some of these events are also counted as [131]money matches between the two.
+
+amiibo Tournaments[[132]edit]
+
+   Some Smash 4 tournaments have side events centered around [133]amiibo. Players can enter their trained amiibo into brackets against other amiibo, with no human players actually taking part in the matches. As amiibo can be fed [134]equipment to alter the properties of their attacks or otherwise gain passive bonuses, some rulesets for amiibo tournaments allow for their use on amiibo.
+
+Non-Smash Bros games[[135]edit]
+
+   Some tournaments have either official or side events in other games outside of the Smash series. Usually such tournaments would play fighting games such as [136]Street Fighter or Marvel vs. Capcom or occasionally Smash Bros. fan games. Smash tournaments are increasingly becoming fixtures at "traditional" fighting game events including prominent ones like [137]EVO or [138]CEO. Some events that are primarily focused on "esports" games like League of Legends or Counter-Strike may include Smash tournaments. Such events have included [139]Major League Gaming, [140]Press Start, and [141]DreamHack.
+
+See also[[142]edit]
+
+     * [143]List of national tournaments
+     * [144]List of largest Smash tournaments
+     * [145]Tournament director
+     * [146]Tournament legal
+     * [147]Super Smash Bros. in competitive play
+     * [148]Super Smash Bros. Melee in competitive play
+     * [149]Super Smash Bros. Brawl in competitive play
+     * [150]Super Smash Bros. 4 in competitive play
+
+References[[151]edit]
+
+    1. [152]↑ [153]http://www.gambling-law-us.com/State-Laws/Iowa/
+    2. [154]↑ [155]http://www.kleinmoynihan.com/iowa-set-to-legalize-fantasy-sports-gambling/
+    3. [156]↑ [157]http://www.kleinmoynihan.com/iowa-fantasy-sports-bill-gets-a-second-chance/
+    4. [158]↑ [159]http://blogs.duanemorris.com/gaminglaw/2015/02/09/legislation-would-legalize-esports-competition-in-iowa/
+
+External links[[160]edit]
+
+     * On Wikipedia:
+          + [161]Single elimination tournament
+          + [162]Double elimination tournament
+          + [163]Round robin tournament
+          + [164]Swiss system tournament
+     * On [165]Smashboards:
+          + [166]The ABC's of Tournament Hosting
+
+   Ads keep SmashWiki independent and free :)
+   Retrieved from "[167]https://www.ssbwiki.com/index.php?title=Tournament&oldid=1164127"
+   [168]Categories:
+     * [169]Tournaments
+     * [170]Competitive play
+
+Navigation menu
+
+Views
+
+     * [171]Article
+     * [172]Discussion
+     * [173]Edit this page
+     * [174]History
+
+Personal tools
+
+     * Not logged in
+     * [175]Talk
+     * [176]Contributions
+     * [177]Create account
+     * [178]Log in
+
+Navigation
+
+     * [179]Main page
+     * [180]Smash Bros. Ultimate
+     * [181]Smash Bros. 4
+     * [182]Smash Bros. Brawl
+     * [183]Smash Bros. Melee
+     * [184]Smash Bros. (64)
+     * [185]Characters
+     * [186]Stages
+     * [187]Modes
+     * [188]Items
+     * [189]Random page
+
+Search
+
+   ____________________ Go  Search
+
+Participate
+
+     * [190]Forum
+     * [191]Community portal
+     * [192]Recent changes
+     * [193]Help
+     * [194]Admin noticeboard
+     * [195]Discord server
+     * [196]YouTube channel
+
+Tools
+
+     * [197]What links here
+     * [198]Related changes
+     * [199]Special pages
+     * [200]Printable version
+     * [201]Permanent link
+     * [202]Page information
+
+   [203]Attribution-Share Alike 3.0 Unported
+   [204]Powered by MediaWiki
+     * This page was last edited on 3 January 2019, at 23:08.
+     * Content is available under [205]Attribution-Share Alike 3.0 Unported unless otherwise noted.
+     * [206]Privacy policy
+     * [207]About SmashWiki
+     * [208]Disclaimers
+     * [209]Mobile view
+
+References
+
+   Visible links
+   1. https://www.ssbwiki.com/index.php?title=Tournament&action=edit
+   2. https://www.ssbwiki.com/opensearch_desc.php
+   3. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&feed=atom
+   4. https://www.ssbwiki.com/Tournament#column-one
+   5. https://www.ssbwiki.com/Tournament#searchInput
+   6. https://www.ssbwiki.com/Super_Smash_Bros._(series)
+   7. https://www.ssbwiki.com/Tournament
+   8. https://www.ssbwiki.com/Tourney_(disambiguation)
+   9. https://www.ssbwiki.com/Zero_Challenge_2
+  10. https://www.ssbwiki.com/Melee
+  11. https://www.ssbwiki.com/SoCal_Elite_4
+  12. https://www.ssbwiki.com/Smasher:Matt_Deezie
+  13. https://www.ssbwiki.com/Tournament_Go
+  14. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+  15. https://www.ssbwiki.com/Major_League_Gaming
+  16. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+  17. https://www.ssbwiki.com/EVO_2013
+  18. https://www.ssbwiki.com/The_Smash_Brothers
+  19. https://www.ssbwiki.com/Super_Smash_Bros._4
+  20. https://www.ssbwiki.com/Super_Smash_Con
+  21. https://www.ssbwiki.com/EVO
+  22. https://www.ssbwiki.com/Project_M
+  23. https://www.ssbwiki.com/Apex_2014
+  24. https://www.ssbwiki.com/Tournament#Locations_and_sizes
+  25. https://www.ssbwiki.com/Tournament#Prices_and_fees
+  26. https://www.ssbwiki.com/Tournament#Legal_issues_involving_the_exchange_of_money
+  27. https://www.ssbwiki.com/Tournament#Tournament_formats
+  28. https://www.ssbwiki.com/Tournament#Double_elimination_bracket
+  29. https://www.ssbwiki.com/Tournament#Placements_guide
+  30. https://www.ssbwiki.com/Tournament#Round_robin
+  31. https://www.ssbwiki.com/Tournament#Advantages
+  32. https://www.ssbwiki.com/Tournament#Disadvantages
+  33. https://www.ssbwiki.com/Tournament#Pools
+  34. https://www.ssbwiki.com/Tournament#Swiss_system
+  35. https://www.ssbwiki.com/Tournament#Modified_Swiss_system
+  36. https://www.ssbwiki.com/Tournament#Single_elimination_bracket
+  37. https://www.ssbwiki.com/Tournament#Arcadian_format
+  38. https://www.ssbwiki.com/Tournament#Side_events
+  39. https://www.ssbwiki.com/Tournament#Friendlies
+  40. https://www.ssbwiki.com/Tournament#Low_and_mid_tier_tournaments
+  41. https://www.ssbwiki.com/Tournament#Crew_battles
+  42. https://www.ssbwiki.com/Tournament#Game_mod_tournaments
+  43. https://www.ssbwiki.com/Tournament#Free_for_all
+  44. https://www.ssbwiki.com/Tournament#All_Brawl
+  45. https://www.ssbwiki.com/Tournament#Tournament_Go
+  46. https://www.ssbwiki.com/Tournament#Salty_Suite
+  47. https://www.ssbwiki.com/Tournament#amiibo_Tournaments
+  48. https://www.ssbwiki.com/Tournament#Non-Smash_Bros_games
+  49. https://www.ssbwiki.com/Tournament#See_also
+  50. https://www.ssbwiki.com/Tournament#References
+  51. https://www.ssbwiki.com/Tournament#External_links
+  52. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=1
+  53. https://www.ssbwiki.com/List_of_national_tournaments
+  54. https://www.ssbwiki.com/GENESIS
+  55. https://www.ssbwiki.com/EVO
+  56. https://www.ssbwiki.com/Northern_California
+  57. https://www.ssbwiki.com/Southern_California
+  58. https://www.ssbwiki.com/Maryland/Virginia
+  59. https://www.ssbwiki.com/Tristate_Area
+  60. https://www.ssbwiki.com/Florida
+  61. https://www.ssbwiki.com/Smash_the_Record
+  62. https://www.ssbwiki.com/GENESIS
+  63. https://www.ssbwiki.com/Super_Smash_Con
+  64. https://www.ssbwiki.com/The_Big_House
+  65. https://www.ssbwiki.com/Shine_(tournament_series)
+  66. https://www.ssbwiki.com/EVO
+  67. https://www.ssbwiki.com/MLG
+  68. https://www.ssbwiki.com/CEO
+  69. https://www.ssbwiki.com/Apex
+  70. https://www.ssbwiki.com/Pound_(tournament_series)
+  71. https://www.ssbwiki.com/Get_On_My_Level_2016
+  72. https://www.ssbwiki.com/Smash_Summit
+  73. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=2
+  74. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=3
+  75. https://www.ssbwiki.com/Tournament#cite_note-1
+  76. https://www.ssbwiki.com/Tournament#cite_note-2
+  77. https://www.ssbwiki.com/Tournament#cite_note-3
+  78. http://coolice.legis.iowa.gov/Legislation/86thGA/Bills/HouseFiles/Introduced/HF165.html
+  79. https://www.ssbwiki.com/Tournament#cite_note-4
+  80. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=4
+  81. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=5
+  82. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=6
+  83. https://www.ssbwiki.com/EVO
+  84. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=7
+  85. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=8
+  86. https://www.ssbwiki.com/Seeding
+  87. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=9
+  88. https://www.ssbwiki.com/Bracket_manipulation
+  89. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=10
+  90. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=11
+  91. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=12
+  92. https://www.ssbwiki.com/SLAPAHO
+  93. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=13
+  94. https://www.ssbwiki.com/Crew_battle
+  95. https://www.ssbwiki.com/Tournament_legal_(DSB)
+  96. https://en.wikipedia.org/wiki/NCAA_Men's_Division_I_Basketball_Championship
+  97. https://en.wikipedia.org/wiki/logarithm
+  98. https://en.wikipedia.org/wiki/Bye_(sports)
+  99. https://www.ssbwiki.com/Counter_(matchup)
+ 100. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=14
+ 101. https://www.ssbwiki.com/2GG:_Breakthrough
+ 102. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=15
+ 103. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=16
+ 104. https://www.ssbwiki.com/Team_Attack
+ 105. https://www.ssbwiki.com/Wi-Fi
+ 106. https://www.ssbwiki.com/Money_match
+ 107. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=17
+ 108. https://www.ssbwiki.com/Smasher:Gimpyfish
+ 109. https://www.ssbwiki.com/Smasher:Mekos
+ 110. https://www.ssbwiki.com/Sopo
+ 111. https://www.ssbwiki.com/Ice_Climbers
+ 112. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=18
+ 113. https://www.ssbwiki.com/Crew_battle
+ 114. https://www.ssbwiki.com/Crew
+ 115. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=19
+ 116. https://www.ssbwiki.com/Mod
+ 117. https://www.ssbwiki.com/Project_M
+ 118. https://www.ssbwiki.com/Smash_Stack
+ 119. https://www.ssbwiki.com/SD_Remix
+ 120. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=20
+ 121. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=21
+ 122. https://www.ssbwiki.com/Item
+ 123. https://www.ssbwiki.com/Stage
+ 124. https://www.ssbwiki.com/Apex_2012
+ 125. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=22
+ 126. https://www.ssbwiki.com/Tournament_Go
+ 127. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=23
+ 128. https://www.ssbwiki.com/VGBootCamp
+ 129. https://www.ssbwiki.com/Apex_2014
+ 130. https://www.ssbwiki.com/Apex_2015
+ 131. https://www.ssbwiki.com/Money_match
+ 132. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=24
+ 133. https://www.ssbwiki.com/Amiibo
+ 134. https://www.ssbwiki.com/Equipment
+ 135. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=25
+ 136. https://www.ssbwiki.com/Street_Fighter_(universe)
+ 137. https://www.ssbwiki.com/EVO
+ 138. https://www.ssbwiki.com/CEO
+ 139. https://www.ssbwiki.com/Major_League_Gaming
+ 140. https://www.ssbwiki.com/Press_Start
+ 141. https://www.ssbwiki.com/DreamHack
+ 142. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=26
+ 143. https://www.ssbwiki.com/List_of_national_tournaments
+ 144. https://www.ssbwiki.com/List_of_largest_Smash_tournaments
+ 145. https://www.ssbwiki.com/Tournament_director
+ 146. https://www.ssbwiki.com/Tournament_legal
+ 147. https://www.ssbwiki.com/Super_Smash_Bros._in_competitive_play
+ 148. https://www.ssbwiki.com/Super_Smash_Bros._Melee_in_competitive_play
+ 149. https://www.ssbwiki.com/Super_Smash_Bros._Brawl_in_competitive_play
+ 150. https://www.ssbwiki.com/Super_Smash_Bros._4_in_competitive_play
+ 151. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=27
+ 152. https://www.ssbwiki.com/Tournament#cite_ref-1
+ 153. http://www.gambling-law-us.com/State-Laws/Iowa/
+ 154. https://www.ssbwiki.com/Tournament#cite_ref-2
+ 155. http://www.kleinmoynihan.com/iowa-set-to-legalize-fantasy-sports-gambling/
+ 156. https://www.ssbwiki.com/Tournament#cite_ref-3
+ 157. http://www.kleinmoynihan.com/iowa-fantasy-sports-bill-gets-a-second-chance/
+ 158. https://www.ssbwiki.com/Tournament#cite_ref-4
+ 159. http://blogs.duanemorris.com/gaminglaw/2015/02/09/legislation-would-legalize-esports-competition-in-iowa/
+ 160. https://www.ssbwiki.com/index.php?title=Tournament&action=edit&section=28
+ 161. https://en.wikipedia.org/wiki/Single-elimination_tournament
+ 162. https://en.wikipedia.org/wiki/Double-elimination_tournament
+ 163. https://en.wikipedia.org/wiki/Round-robin_tournament
+ 164. https://en.wikipedia.org/wiki/Swiss_system_tournament
+ 165. https://www.ssbwiki.com/Smashboards
+ 166. http://www.smashboards.com/showthread.php?t=95636
+ 167. https://www.ssbwiki.com/index.php?title=Tournament&oldid=1164127
+ 168. https://www.ssbwiki.com/Special:Categories
+ 169. https://www.ssbwiki.com/Category:Tournaments
+ 170. https://www.ssbwiki.com/Category:Competitive_play
+ 171. https://www.ssbwiki.com/Tournament
+ 172. https://www.ssbwiki.com/Talk:Tournament
+ 173. https://www.ssbwiki.com/index.php?title=Tournament&action=edit
+ 174. https://www.ssbwiki.com/index.php?title=Tournament&action=history
+ 175. https://www.ssbwiki.com/Special:MyTalk
+ 176. https://www.ssbwiki.com/Special:MyContributions
+ 177. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=Tournament
+ 178. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=Tournament
+ 179. https://www.ssbwiki.com/Main_Page
+ 180. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 181. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 182. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 183. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 184. https://www.ssbwiki.com/Super_Smash_Bros.
+ 185. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+ 186. https://www.ssbwiki.com/Stage
+ 187. https://www.ssbwiki.com/Mode
+ 188. https://www.ssbwiki.com/Item
+ 189. https://www.ssbwiki.com/Special:Random
+ 190. https://www.ssbwiki.com/Forum:Index
+ 191. https://www.ssbwiki.com/SmashWiki:Community_portal
+ 192. https://www.ssbwiki.com/Special:RecentChanges
+ 193. https://www.ssbwiki.com/Help:Contents
+ 194. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
+ 195. https://www.ssbwiki.com/SmashWiki:Discord_server
+ 196. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
+ 197. https://www.ssbwiki.com/Special:WhatLinksHere/Tournament
+ 198. https://www.ssbwiki.com/Special:RecentChangesLinked/Tournament
+ 199. https://www.ssbwiki.com/Special:SpecialPages
+ 200. https://www.ssbwiki.com/index.php?title=Tournament&printable=yes
+ 201. https://www.ssbwiki.com/index.php?title=Tournament&oldid=1164127
+ 202. https://www.ssbwiki.com/index.php?title=Tournament&action=info
+ 203. https://creativecommons.org/licenses/by-sa/3.0/
+ 204. https://www.mediawiki.org/
+ 205. https://creativecommons.org/licenses/by-sa/3.0/
+ 206. https://www.porplemontage.com/privacy
+ 207. https://www.ssbwiki.com/SmashWiki:About
+ 208. https://www.ssbwiki.com/SmashWiki:General_disclaimer
+ 209. https://www.ssbwiki.com/index.php?title=Tournament&mobileaction=toggle_view_mobile
+
+   Hidden links:
+ 211. https://www.ssbwiki.com/File:Oc2_crowd.jpg
+ 212. https://www.ssbwiki.com/File:Oc2_crowd.jpg
+ 213. https://www.ssbwiki.com/File:Double_elim_winners.gif
+ 214. https://www.ssbwiki.com/File:Double_elim_winners.gif
+ 215. https://www.ssbwiki.com/File:Double_elim_losers.gif
+ 216. https://www.ssbwiki.com/File:Double_elim_losers.gif
+ 217. https://www.ssbwiki.com/File:5_way_tie.png
+ 218. https://www.ssbwiki.com/File:5_way_tie.png
+ 219. https://www.ssbwiki.com/File:Single_elim_bracket.gif
+ 220. https://www.ssbwiki.com/File:Single_elim_bracket.gif
+ 221. https://www.ssbwiki.com/Main_Page

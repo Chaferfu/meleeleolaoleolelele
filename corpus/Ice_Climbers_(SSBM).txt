@@ -1,0 +1,853 @@
+   #[1]Edit this page [2]SmashWiki (en) [3]SmashWiki Atom feed
+
+Ice Climbers (SSBM)
+
+   From SmashWiki, the Super Smash Bros. wiki
+   Jump to:[4]navigation, [5]search
+   [6]SSBM Icon.png
+
+          This article is about the Ice Climbers' appearance in Melee. For the characters more generally, see [7]Ice Climbers; for the CPU Mode, see [8]NANA; and for other uses of "Ice Climber", see [9]Ice Climber.
+
+   Ice Climbers
+   in [10]Super Smash Bros. Melee
+   [11]Ice Climbers SSBM.jpg
+   [12]IceClimberSymbol.svg
+   [13]Universe [14]Ice Climber
+   Other Smash Bros. appearances [15]in Brawl
+   [16]in Ultimate
+   Availability [17]Starter
+   [18]Tier B (7) (North America)
+   C (8) (Europe)
+   [19]IceClimbersHeadSSBM.png
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   “ A mallet-swinging duo from the icy peaks. ”
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           —Melee's instruction manual
+
+   Announced at [20]E3 2001, the Ice Climbers (アイスクライマー, Ice Climber) are playable characters in [21]Super Smash Bros. Melee.
+
+   They rank 7th on the tier list (in the B tier), highly accredited to the usage of [22]Wobbling and [23]Desynching and the fact that the fighter is literally "two-in-one", which helps the climbers rack up damage, combo, and KO opponents; this gives the Ice Climbers one of the best grab games in Melee. Additionally, good players can quickly rack up damage with the two, and they have good approach options on the ground, due to disjointed hitboxes and two decent projectiles. The two also have a very long and floaty wavedash, aiding their approach tremendously. The Ice Climbers, however, have a poor air game, and their floatiness causes them to be vulnerable to juggling and combos. Another vulnerability is that many of their benefits are lost if the second Climber is KO'ed, including the ability to wobble.
+
+Contents
+
+     * [24]1 Attributes
+     * [25]2 Moveset
+          + [26]2.1 Taunt
+          + [27]2.2 Idle pose
+          + [28]2.3 Crowd cheer
+          + [29]2.4 Victory poses
+     * [30]3 In Competitive play
+          + [31]3.1 Matchups
+          + [32]3.2 Notable players
+               o [33]3.2.1 Active
+               o [34]3.2.2 Inactive
+          + [35]3.3 Tier placement and history
+     * [36]4 In single player modes
+          + [37]4.1 In Classic Mode
+          + [38]4.2 In Adventure Mode
+          + [39]4.3 In All-Star Mode
+          + [40]4.4 In Event Matches
+          + [41]4.5 Ending images
+     * [42]5 Trophies
+     * [43]6 Alternate costumes
+     * [44]7 Gallery
+     * [45]8 Trivia
+
+Attributes[[46]edit]
+
+   The Ice Climbers have arguably the most unusual fighting style in all of Melee; the player is tasked with controlling two characters at once, and their fighting potential becomes considerably worse should Nana (or Popo depending on which costume is selected) be KOed. Outside of this, their unique physics make them difficult to use; they boast an above average jumping height alongside low air and falling speed, and their traction is also among the lowest in the game.
+
+   As a result of their unusual gimmick, the Ice Climbers have among the most powerful ground-based approaches in the game. Disjointed hitboxes, a variety of useful tilts and smashes, and a long, floaty wavedash give the Ice Climbers a wide variety of options on the ground, especially in [47]approaching. Their most powerful tool on the ground is their [48]grab; despite having a below-average grab range, they boast low knockback throws, giving them significant chain throwing potential. They can also perform the [49]Wobbling infinite out of a grab, which is the most powerful single technique in the game if players can master it. In addition, the presence of Nana allows players to significantly rack up damage on opponents when they grab them. The presence of Nana also makes grabs and chain throws against Popo difficult to utilize, as she can potentially attack opponents during their grab to break it. Furthermore, the Ice Climbers have among the best projectiles in the game, [50]Ice Shot; it is a
+   ground-based projectile that limits the opponent's approach options, and falls off edges very quickly, allowing it to cover various low recovery options. While short-ranged, [51]Blizzard can also have approaching applications, as Popo and Nana face the same direction when the attack is used during a short-hop; it can also be used as a reliable tool to rack up damage off a grab if Nana uses it while Popo pummels.
+
+   The Ice Climbers' [52]desynching techniques also have powerful ground-based applications. Since it essentially allows the control of both Climbers to some degree, experienced players can force Nana to perform certain tasks while Popo is occupied. This includes grabbing opponents immediately after Popo has thrown them (known as a hand-off) and attacking them while Popo keeps them locked in place, among other powerful benefits. Desynching, however, requires significant practice to use consistently, making the Ice Climbers one of the most technically demanding characters in the game.
+
+   Despite a powerful ground-based approach, aerial approaches can prove to be difficult. A high jumping height, low falling speed, slow, laggy aerials, and the second lowest air speed in the game (behind only [53]Luigi) give the Ice Climbers a poor [54]SHFFL. Their low aerial and falling speeds also make pursuing airborne enemies extremely difficult. Some of the Ice Climbers' aerials have powerful applications; their down aerial keeps the enemy mostly in place due to its set knockback, allowing Popo to regrab if Nana uses it after a throw, and their neutral and back aerials are good spacing tools, with the latter having reliable KOing ability under 150%. However, due to their poor air speed and falling speed, and only one situational meteor (their forward aerial), their air game does not complement their powerful ground game overall. These various traits also give the Ice Climbers a below-average edgeguarding game, and they lack an extremely effective off-stage option. In addition, the Ice
+   Climbers have the second worst traction in the game; similar to Luigi, this makes them highly reliant on wavedashing to approach, and technical errors, such as mistimed [55]air dodges, can set them up for significant punishment. Owing to their light weight and low falling speed, the Ice Climbers are also highly vulnerable to being KOed from the upper blast line.
+
+   Players who use the Ice Climbers must also know how to prevent themselves from losing Nana, as when she is KOed, Popo cannot fight nearly as effectively. As the Ice Climbers' attacks were designed to be two-in-one, Popo's attacks alone lack damage racking ability, making it much harder to accumulate percentage on the opponent despite the power of his smash attacks. Popo also cannot perform nearly as many chaingrabs without Nana, and cannot Wobble by himself, greatly reducing the threatening nature of their usual grabs. In return, Popo is left vulnerable to chaingrabs and throw setups himself due to his low air speed and falling speed, and is limited in his recovery options; he is forced to recover with [56]Squall Hammer, which travels only horizontally. Unfortunately, most high-tiered characters have attacks, such as Fox's [57]shine and Peach's forward aerial, that can easily separate Popo from Nana. Their recovery, while long, is prone to endangering Nana, as she can either miss the ledge
+   entirely or be left vulnerable against edgeguarders. All of these flaws force Ice Climbers players to be situationally aware and abuse their powerful ground and grab games to prevent their Climbers from being separated and KOed.
+
+   The Ice Climbers also have the ability to perform the [58]Freeze glitch, which prevents their opponent from moving in any capacity when performed. Due to its [59]game-breaking potential, the tactic is banned in tournaments.
+
+Moveset[[60]edit]
+
+   The Ice Climbers' aerial attacks.
+
+   For a gallery of the Ice Climbers' hitboxes, see [61]here.
+
+          Note: A majority of the move summaries refer to the combined damage of the both Ice Climbers; with the partner usually dealing 1% less than the leader due to [62]stale move negation.
+
+          Note: Although both Ice Climbers can perform a ledge attack, they cannot perform it at the same time, as only one character is allowed on the ledge at a time.
+
+                                   Name                          Damage                                                                                                                                                                                                                                                                      Description
+     [63]Neutral attack                        1-2%                                        A horizontal swipe followed by an upward swing.
+                                               3-4%
+      [64]Forward tilt                         7-8%                                        Does a side swing with their hammers with long reach. Can [65]wobble. Can be angled up or down, but deals the same damage regardless.
+         [66]Up tilt                           0-1% (hits 1-6), 6-7% (hit 7)               Twirl their hammers above themselves, being short-ranged, but highly damaging. Can deal up to 21% damage if both Ice Climbers connect all hits and if the move is used fresh. Can [67]wobble in conjunction with back air.
+        [68]Down tilt                          4-5%                                        Swings their hammer low across the ground. One of the Ice Climbers' less damaging moves even with both their damages combined. Can [69]wobble.
+       [70]Dash attack                         8-9%                                        Sweeps upwards with their hammers while coming to a stop. Has some ending lag, but both Ice Climbers' hits add up to an impressive damage output for a dash attack.
+      [71]Forward smash                        12%-14% (head), 9%-10% (handle)             Lifts their hammers over their heads, then smash them straight down. Great damage and knockback if both Ice Climbers' connect. Can [72]wobble if staled.
+        [73]Up smash                           10%-11%                                     Swings their hammers in an arc over their heads. Excellent for getting KOs at higher percentages.
+       [74]Down smash                          11%-12%                                     Spins around and sweeps the ground with their hammers. Fast, but somewhat short ranged, good for tight [75]spacing. Good horizontal knockback. Can [76]wobble if staled.
+     [77]Neutral aerial                        7-8%                                        Twirls around in the air, hammers extended. Short ranged, but good for aerial spacing and following up with another neutral aerial if predicted right. Can [78]wobble in conjunction with back air..
+     [79]Forward aerial                        9-11% (leader), 8-10% (partner)             Hold their hammers up, then bring them down in a similar fashion to their forward smash. Can [80]meteor smash if [81]sweetspotted, which is located at the handle of their hammers.
+       [82]Back aerial                         11-12% (head), 10-11% (handle)              Turn around and does a backswing with their hammers. Can [83]wobble.
+        [84]Up aerial                          8-9% (clean), 7% (late)                     Thrust their hammers above themselves just like their up tilt, but with only one hitbox per Ice Climber.
+       [85]Down aerial                         8-9%                                        Hold their hammers below themselves and fall downwards. Has long duration and some landing lag (though [86]L-cancelling helps). This attack has extremely low [87]set knockback, and therefore cannot KO grounded opponents at any percentage. It can help prevent air [88]juggling a bit due to the slightly increased falling speed.
+          [89]Grab                             —                                           Grabs the opponent. While the lead Ice Climber is holding the opponent, the partner can attack the grabbed opponent, but will take less damage from their attacks (attacks deal half the damage they usually do).
+         [90]Pummel                            3%                                          The lead climber headbutts the opponent, whereas the player has some control over the partner while pummeling. The damage adds up quickly due to [91]desynching.
+      [92]Forward throw                        6% (hit 1), 5% (throw)                      Hits opponent forward with their hammer.
+       [93]Back throw                          7%                                          Takes opponent and flings them behind with one hand.
+        [94]Up throw                           6% (hit 1), 5% (throw)                      Throw opponent upwards, then hits them with their hammer. Powerful, though it's power costs them combo follow ups, for a throw. One of the strongest throws in the game.
+       [95]Down throw                          6%                                          Spins and then slams the opponent on the ground. The attack deals little damage, but the opponent is usually knocked right in front them, leading into many quick combos and [96]chaingrabs.
+   [97]Floor attack (front)                    6%                                          Gets up and spins their hammers.
+   [98]Floor attack (back)                     6%                                          Gets up and swipes their hammers on both sides.
+   [99]Edge attack (fast)                      6% (body), 8% (hammer)                      Quickly gets up and slams their hammers on the ground.
+   [100]Edge attack (slow)                     8% (body), 10% (hammer)                     Slowly gets up and thrusts their hammers forward.
+    [101]Neutral special    [102]Ice Shot      8-9% (hammer), 5%/4% (ice block ground/air) Each Ice Climbers fire off a block of ice that travel along the ground, bouncing off walls. If used in mid-air, the ice block falls fast until it hits the ground, and they travel very fast down slopes. It's possible for an opponent to become [103]frozen if they have high damage. Using Ice Shot at very close range can catch enemies with both the ice blocks and the hammers. The ice block can be [104]reflected and [105]absorbed. If one ice block gets reflected, the other one can cancel it out.
+      [106]Side special     [107]Squall Hammer 1-4% (loop)                                 Both Ice Climbers spin around together while moving along the ground, both their hammers extended. Hits multiple times. It can also be used as a [108]recovery move by [109]mashing the [110]B button, this causes them to rise in the air. It gains more distance if both Ice Climbers are present, though with only one Ice Climber, it's their only viable recovery option.
+       [111]Up special      [112]Belay         16%                                         The leading Ice Climber throws the partner in the air with a rope. The partner then pulls the leader upwards, covering great vertical distance. Each Ice Climber will become [113]helpless after using the move. If only one climber is present, the move gives next to no distance, meaning Squall Hammer should be used instead.
+      [114]Down special     [115]Blizzard      1-2% (loop)                                 Each Ice Climbers blows icy wind from their hands, damaging nearby opponents. When the move is used on the ground, the partner will shoot in the direction opposite of the leader. Can rack up damage and [116]freeze opponents for a small amount of time. The move can be used to perform Blizzobbling, a variation of [117]Wobbling performed with Blizzard; instead of a tilt, the partner uses Blizzard to damage the opponent while the leader pummels. This attack has [118]transcendent priority.
+
+[119]Taunt[[120]edit]
+
+     * Points their hammers diagonally upwards and shout "Yup!".
+
+   [121]IceClimbers-Taunt-SSBM.gif
+
+[122]Idle pose[[123]edit]
+
+     * Shakes hammers.
+
+   [124]Ice Climbers Idle Pose Melee.gif
+
+[125]Crowd cheer[[126]edit]
+
+                              English             Japanese
+         Cheer
+   (BUTTON) Play sound
+   [127]Ice Climbers Cheer NTSC Melee.ogg
+   (BUTTON) Play sound
+   [128]Ice Climbers Cheer JP Melee.ogg
+      Description     Ice-Climber! Ice-Climber! Ice-Climber!
+         Pitch        Group chant               Group chant
+
+[129]Victory poses[[130]edit]
+
+   (BUTTON) Play sound
+   A cover of the music that played whenever the Ice Climbers grabbed the feet of the [131]Condor at the end of a bonus level in Ice Climber.
+     * Both Ice Climbers excitedly jump up and down five times before stopping in midair.
+     * Both Ice Climbers nod to each other, then give each other a high five.
+     * Standing in front of each other, one Ice Climber moves their head to the left, while the other one moves their head to the right; they then alternate.
+
+   [132]Climbers-Victory1-SSBM.gif [133]Climbers-Victory2-SSBM.gif [134]Climbers-Victory3-SSBM.gif
+
+In [135]Competitive play[[136]edit]
+
+[137]Matchups[[138]edit]
+
+   CAPTION: [139]Super Smash Bros. Melee Character Matchups
+
+                                [140]FoxHeadSSBM.png [141]FalcoHeadSSBM.png [142]MarthHeadSSBM.png [143]SheikHeadSSBM.png [144]JigglypuffHeadSSBM.png [145]PeachHeadSSBM.png [146]IceClimbersHeadSSBM.png [147]CaptainFalconHeadSSBM.png [148]PikachuHeadSSBM.png [149]SamusHeadSSBM.png [150]DrMarioHeadSSBM.png [151]YoshiHeadSSBM.png [152]LuigiHeadSSBM.png [153]GanondorfHeadSSBM.png [154]MarioHeadSSBM.png [155]YoungLinkHeadSSBM.png [156]DonkeyKongHeadSSBM.png [157]LinkHeadSSBM.png [158]MrGame&WatchHeadSSBM.png [159]RoyHeadSSBM.png [160]MewtwoHeadSSBM.png [161]ZeldaHeadSSBM.png [162]NessHeadSSBM.png [163]PichuHeadSSBM.png [164]BowserHeadSSBM.png [165]KirbyHeadSSBM.png Avg.
+   [166]IceClimbersHeadSSBM.png [167]-1              [168]±0                [169]-1                [170]+1                [171]±0                     [172]-2                [173]Mirror match            [174]±0                        [175]+1                  [176]-1                [177]±0                  [178]+2                [179]±0                [180]-2                    [181]+1                [182]+1                    [183]+1                     [184]±0               [185]+1                       [186]+3              [187]+1                 [188]+1                [189]+2               [190]+3                [191]+2                 [192]+2                [193]+1
+
+   The Ice Climbers have good matchups all around. They are countered by two characters, soft countered by 3, have 6 even matchups, soft counter 8, counter 4, and hard counter 2. The Ice Climbers generally do well against characters who are overly reliant on [194]grabs to start their punishes, have a weight class that makes them susceptible to their own grab and [195]wobbling setups, or do not have the appropriate tools to safely separate the two Climbers, such as [196]Sheik and [197]Pikachu. They also do well against lower-tiered characters who do not have the tools to challenge their grounded mobility.
+
+   Conversely, they do not do well against characters who can zone them out, separate them, or combat their ground-based neutral game effectively, such as [198]Fox, [199]Marth, and [200]Ganondorf. They also have a hard time dealing with [201]Samus's projectiles. [202]Peach is considered the Ice Climbers' hardest counter, as not only can she separate the Ice Climbers, but can also easily KO Nana with a string of float-canceled aerials and stay out of harm's way by floating out of reach of the Ice Climbers' attacks and grabs. Regardless, the Ice Climbers still have one of the best matchup spreads in the game.
+
+   As of the current meta, their matchups have appeared to change, while still losing to Fox and Peach, the Ice Climbers have appeared to even their matchup against Marth out. This is due in part to multiple Marth players having difficulty fighting against the Ice Climbers while the different stratigies to get around Marth's zoning appeared to have increased. Their previously bad matchup against Ganodorf is unknown, but it appears to be even to a winning matchup for them.
+
+Notable players[[203]edit]
+
+          See also: [204]Category:Ice Climbers professionals (SSBM)
+          Any number following the Smasher name indicates placement on the [205]2017 SSBMRank.
+
+Active[[206]edit]
+
+     * [207]USA  [208]Admiral
+     * [209]USA  [210]ARMY (#53)
+     * [211]Japan  [212]Watch - Best Ice Climbers player in Japan ranked 20th in [213]Japan SSBM Rank 2017.
+     * [214]USA  [215]Bananas
+     * [216]USA  [217]Boback
+     * [218]USA  [219]ChuDat (#11) - widely considered to be the most notable Ice Climbers player of all time. Took sets off [220]Mang0, [221]Hungrybox, [222]Mew2King and is the only Ice Climbers player to ever take a game off [223]Armada
+     * [224]Germany  [225]Däumling - Ranked 2nd in [226]Germany 2017 and 17th in [227]Europe
+     * [228]USA  [229]Delphiki
+     * [230]USA  [231]DiplomaticTucan
+     * [232]USA  [233]dizzkidboogie (#27)
+     * [234]USA  [235]Drunksloth (#72)
+     * [236]Sweden  [237]FA0 - Ranked 3rd in Stockholm 2017, 2nd best Ice Climbers player in Sweden
+     * [238]USA  [239]Flipsy
+     * [240]Canada  [241]Fork
+     * [242]Sweden  [243]JohnnyFight - Ranked 2nd in Gothenburg 2017, best Ice Climbers player in Sweden
+     * [244]USA  [245]Myougi
+     * [246]Denmark  [247]Tomber
+     * [248]USA  [249]Trail
+
+Inactive[[250]edit]
+
+     * [251]USA  [252]Fly Amanita
+     * [253]Canada  [254]HammerTime
+     * [255]USA  [256]Nintendude (#35) Has switched to Marth
+     * [257]USA  [258]Rich Boi Rich - Has dropped Ice Climbers in favor of Fox
+     * [259]USA  [260]Wobbles - Formerly regarded as the best solo Ice Climbers Main and helped to invent "Wobbling".
+
+Tier placement and history[[261]edit]
+
+   The Ice Climbers were once a middle to low-middle tiered character, as in the beginning of Melee, professionals had not made significant discoveries with them. With the discovery of the Ice Climbers' [262]desynching combos, as well as [263]wobbling (which guarantees a stock if performed correctly), they started moving up the ranks. The growing dominance of [264]Chu Dat and then [265]Wobbles and [266]Fly Amanita inched them first to the middle tier, then to a tier of their own between the top and high tiers, where they resided for more than two years. [267]Wobbles's second place finish at [268]EVO 2013 with the Ice Climbers did not change their tier position but finally pushed them into the S tier, where they are at last recognized as a viable character for tournaments alongside the top tiered characters. With the release of the twelfth tier list, they moved up one spot, above [269]Captain Falcon, for the first time.
+
+In single player modes[[270]edit]
+
+In [271]Classic Mode[[272]edit]
+
+   Ice Climbers can appear in a one-on-one, as an ally, on a team with [273]Kirby, or as a metal opponent. Ice Climbers are fought on Icicle Mountain except in the metal battle.
+
+In [274]Adventure Mode[[275]edit]
+
+   Ice Climbers' sole appearance is on Stage 10: [276]Icicle Mountain. The player is initially tasked with navigating the stage for 51 seconds; following this, two pairs of Ice Climbers attack the player. The player must then KO both Ice Climbers to proceed to the next stage.
+
+In [277]All-Star Mode[[278]edit]
+
+   Ice Climbers and their allies are fought on [279]Icicle Mountain
+
+In [280]Event Matches[[281]edit]
+
+   Ice Climbers appear in the following Events:
+     * [282]Event 11: King of the Mountain: The player must survive for 1 minute 2 seconds on Icicle Mountain. Two pairs of Ice Climbers will hinder the player and have unlimited lives.
+     * [283]Event 21: Ice Breaker: The player must KO two Nanas (the pink Ice Climber) in a 1 stock match. All the Ice Climbers do is jump but can recover. KOing Popo (the blue Ice Climber) anytime results in a failure.
+     * [284]Event 30: All-Star Match 3: Ice Climbers is the last opponent the player must fight in this series of staged battles. Their character battles them on the [285]Icicle Mountain stage, and the player's character has 2 stock while Ice Climbers has 1. With a timer of four minutes, the player must defeat them and the other three characters with the overall time and life they have: Kirby, [286]Pikachu and [287]Ness.
+
+Ending images[[288]edit]
+
+     * Classic
+     * Adventure
+     * All-Star
+
+Trophies[[289]edit]
+
+          Ice Climbers (Classic)
+          That's Popo in the blue and Nana in the pink. These two stars of the game Ice Climber have scaled many an ice summit in their mountaineering careers. Back in their glory days, they chased eggplants, cucumbers, and other vegetables that inexplicable fell from frosty summits where a [290]condor reigned supreme. They're rarely seen apart.
+
+          + [291]Ice Climber
+          + (10/85)
+
+          Ice Climbers (Adventure)
+          This unique twosome fights together as a team. Your score will not be affected if the [292]CPU-controlled character is [293]KO'd, but a lone Ice Climber won't be able to use teamwork moves, which mini-glaciers out of their hammers, while Squall Hammer is at it's strongest when Nana and Popo combine their strength.
+
+          + B: [294]Ice Shot
+          + Smash B: [295]Squall Hammer
+
+          Ice Climbers (All-Star)
+          The colors of the Ice climbers' parkas denote who's in the lead: Nana's in pink and orange, while Popo's in green or blue. their hairstyles are also slightly different. Belay allows them to cover great distances, but doesn't give foes the chance to target their landing. Blizzard is best used in close quarters; in the fray, Nana and Popo sometimes freeze opponents.
+
+          + Up & B: [296]Belay
+          + Down & B: [297]Blizzard
+
+     * Classic, #109
+     * Adventure, #110
+     * All-Star, #111
+
+[298]Alternate costumes[[299]edit]
+
+   Nana becomes the leading, player-controlled character when using the 3rd and 4th costumes shown below. The stock icon and character select portraits for these costumes change to reflect this.
+   [300]Ice Climbers Palette (SSBM).png
+   [301]IceClimbersHeadSSBM.png [302]IceClimbersHeadGreenSSBM.png [303]IceClimbersHeadOrangeSSBM.png [304]IceClimbersHeadRedSSBM.png
+
+Gallery[[305]edit]
+
+     * Official artwork of Ice Climbers.
+     * Knocked back by [306]Captain Falcon's [307]Falcon Kick on [308]Corneria.
+     * Using [309]Belay on [310]Fourside.
+
+Trivia[[311]edit]
+
+     * The CPU level of the trailing Ice Climber is equal to the percentage of the leader, divided by 20, rounded down, and then clamped to the interval 1-9. [312][1]
+     * Changing the language to Japanese on an English copy of Melee changes the Ice Climbers name to "Ice Climber", as the Japanese language does not differentiate words as plural like in English.
+     * The Ice Climbers are tied with [313]Ganondorf for the world record in the [314]Home-Run Contest, and are the only character other than Ganondorf to have reached the max distance. Unlike Ganondorf, however, the Ice Climbers have to exploit the [315]Freeze glitch in order to be able to reach these distances in the Home-Run Contest.
+     * The Ice Climbers are the only starter character from a newly represented universe.
+     * Even though the Ice Climbers are called "Ice Climbers" in English, their English chant still says "Ice Climber" (the Japanese name of the character).
+
+   [316]v • [317]d • [318]e
+   [319]Playable characters in [320]Super Smash Bros. Melee
+   [321]Veterans  [322]Captain Falcon · [323]Donkey Kong · [324]Fox · [325]Jigglypuff · [326]Kirby · [327]Link · [328]Luigi · [329]Mario · [330]Ness · [331]Pikachu · [332]Samus · [333]Yoshi
+   [334]Newcomers [335]Bowser · [336]Dr. Mario · [337]Falco · [338]Ganondorf · Ice Climbers · [339]Marth · [340]Mewtwo · [341]Mr. Game & Watch · [342]Peach · [343]Pichu · [344]Roy · [345]Young Link · [346]Zelda ([347]Sheik)
+   [348]v • [349]d • [350]e
+   Enemies in [351]Adventure Mode ([352]SSBM)
+   [353]Mushroom Kingdom  [354]Goomba · [355]Koopa Paratroopa · [356]Koopa Troopa · [357]Yoshi Team · [358]Mario · [359]Peach · [360]Luigi
+     [361]Kongo Jungle    [362]Tiny Donkey Kongs · [363]Giant DK
+   [364]Underground Maze  [365]Octorok · [366]ReDead · [367]Like Like · [368]Links · [369]Zelda/[370]Sheik
+       [371]Brinstar      [372]Samus
+     [373]Green Greens    [374]Kirby · [375]Kirby Team · [376]Giant Kirby
+       [377]Corneria      [378]Fox · [379]Falco
+    [380]Pokémon Stadium  [381]Pikachu · [382]Jigglypuff · [383]Pichu
+   [384]F-Zero Grand Prix [385]Captain Falcon
+         [386]Onett       [387]Ness
+    [388]Icicle Mountain  [389]Topi · [390]Polar Bear · Ice Climbers
+      [391]Battlefield    [392]Fighting Wire Frames · [393]Metal Mario · [394]Metal Luigi
+   [395]Final Destination [396]Giant Bowser · [397]Giga Bowser
+   [398]v • [399]d • [400]e
+   [401]IceClimberSymbol.svg [402]Ice Climber universe
+                  [403]Characters                [404]Ice Climbers (SSBM · [405]SSBB · [406]SSBU)
+                    [407]Stages                  [408]Icicle Mountain · [409]Summit
+                    [410]Items                   [411]Vegetables
+                      Enemies                    [412]Polar Bear · [413]Topi
+                       Other                     [414]Condor
+   [415]Trophies, [416]Stickers and [417]Spirits [418]Trophies in Melee · [419]Trophies in Brawl · [420]Stickers in Brawl · [421]Spirits in Ultimate
+                       Music                     [422]Music in Brawl · [423]Music in Ultimate
+   Ads keep SmashWiki independent and free :)
+   Retrieved from "[424]https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&oldid=1181886"
+   [425]Categories:
+     * [426]Characters (SSBM)
+     * [427]Ice Climber universe
+     * [428]Ice Climbers (SSBM)
+     * [429]Trophies (SSBM)
+
+Navigation menu
+
+Views
+
+     * [430]Article
+     * [431]Discussion
+     * [432]Edit this page
+     * [433]History
+
+Personal tools
+
+     * Not logged in
+     * [434]Talk
+     * [435]Contributions
+     * [436]Create account
+     * [437]Log in
+
+Navigation
+
+     * [438]Main page
+     * [439]Smash Bros. Ultimate
+     * [440]Smash Bros. 4
+     * [441]Smash Bros. Brawl
+     * [442]Smash Bros. Melee
+     * [443]Smash Bros. (64)
+     * [444]Characters
+     * [445]Stages
+     * [446]Modes
+     * [447]Items
+     * [448]Random page
+
+Search
+
+   ____________________ Go  Search
+
+Participate
+
+     * [449]Forum
+     * [450]Community portal
+     * [451]Recent changes
+     * [452]Help
+     * [453]Admin noticeboard
+     * [454]Discord server
+     * [455]YouTube channel
+
+Tools
+
+     * [456]What links here
+     * [457]Related changes
+     * [458]Special pages
+     * [459]Printable version
+     * [460]Permanent link
+     * [461]Page information
+
+   [462]Attribution-Share Alike 3.0 Unported
+   [463]Powered by MediaWiki
+     * This page was last edited on 1 February 2019, at 00:51.
+     * Content is available under [464]Attribution-Share Alike 3.0 Unported unless otherwise noted.
+     * [465]Privacy policy
+     * [466]About SmashWiki
+     * [467]Disclaimers
+     * [468]Mobile view
+
+References
+
+   Visible links
+   1. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&action=edit
+   2. https://www.ssbwiki.com/opensearch_desc.php
+   3. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&feed=atom
+   4. https://www.ssbwiki.com/Ice_Climbers_(SSBM)#column-one
+   5. https://www.ssbwiki.com/Ice_Climbers_(SSBM)#searchInput
+   6. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+   7. https://www.ssbwiki.com/Ice_Climbers
+   8. https://www.ssbwiki.com/Debug_menu_(SSBM)#CPU_Modes
+   9. https://www.ssbwiki.com/Ice_Climber
+  10. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+  11. https://www.ssbwiki.com/File:Ice_Climbers_SSBM.jpg
+  12. https://www.ssbwiki.com/File:IceClimberSymbol.svg
+  13. https://www.ssbwiki.com/Universe
+  14. https://www.ssbwiki.com/Ice_Climber_(universe)
+  15. https://www.ssbwiki.com/Ice_Climbers_(SSBB)
+  16. https://www.ssbwiki.com/Ice_Climbers_(SSBU)
+  17. https://www.ssbwiki.com/Starter_character
+  18. https://www.ssbwiki.com/Tier_list
+  19. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+  20. https://www.ssbwiki.com/E3
+  21. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+  22. https://www.ssbwiki.com/Wobbling
+  23. https://www.ssbwiki.com/Desynching
+  24. https://www.ssbwiki.com/Ice_Climbers_(SSBM)#Attributes
+  25. https://www.ssbwiki.com/Ice_Climbers_(SSBM)#Moveset
+  26. https://www.ssbwiki.com/Ice_Climbers_(SSBM)#Taunt
+  27. https://www.ssbwiki.com/Ice_Climbers_(SSBM)#Idle_pose
+  28. https://www.ssbwiki.com/Ice_Climbers_(SSBM)#Crowd_cheer
+  29. https://www.ssbwiki.com/Ice_Climbers_(SSBM)#Victory_poses
+  30. https://www.ssbwiki.com/Ice_Climbers_(SSBM)#In_Competitive_play
+  31. https://www.ssbwiki.com/Ice_Climbers_(SSBM)#Matchups
+  32. https://www.ssbwiki.com/Ice_Climbers_(SSBM)#Notable_players
+  33. https://www.ssbwiki.com/Ice_Climbers_(SSBM)#Active
+  34. https://www.ssbwiki.com/Ice_Climbers_(SSBM)#Inactive
+  35. https://www.ssbwiki.com/Ice_Climbers_(SSBM)#Tier_placement_and_history
+  36. https://www.ssbwiki.com/Ice_Climbers_(SSBM)#In_single_player_modes
+  37. https://www.ssbwiki.com/Ice_Climbers_(SSBM)#In_Classic_Mode
+  38. https://www.ssbwiki.com/Ice_Climbers_(SSBM)#In_Adventure_Mode
+  39. https://www.ssbwiki.com/Ice_Climbers_(SSBM)#In_All-Star_Mode
+  40. https://www.ssbwiki.com/Ice_Climbers_(SSBM)#In_Event_Matches
+  41. https://www.ssbwiki.com/Ice_Climbers_(SSBM)#Ending_images
+  42. https://www.ssbwiki.com/Ice_Climbers_(SSBM)#Trophies
+  43. https://www.ssbwiki.com/Ice_Climbers_(SSBM)#Alternate_costumes
+  44. https://www.ssbwiki.com/Ice_Climbers_(SSBM)#Gallery
+  45. https://www.ssbwiki.com/Ice_Climbers_(SSBM)#Trivia
+  46. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&action=edit&section=1
+  47. https://www.ssbwiki.com/Approach
+  48. https://www.ssbwiki.com/Grab
+  49. https://www.ssbwiki.com/Wobbling
+  50. https://www.ssbwiki.com/Ice_Shot
+  51. https://www.ssbwiki.com/Blizzard
+  52. https://www.ssbwiki.com/Desynch
+  53. https://www.ssbwiki.com/Luigi_(SSBM)
+  54. https://www.ssbwiki.com/SHFFL
+  55. https://www.ssbwiki.com/Air_dodge
+  56. https://www.ssbwiki.com/Squall_Hammer
+  57. https://www.ssbwiki.com/Shine
+  58. https://www.ssbwiki.com/Freeze_glitch
+  59. https://www.ssbwiki.com/Broken
+  60. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&action=edit&section=2
+  61. https://www.ssbwiki.com/Ice_Climbers_(SSBM)/Hitboxes
+  62. https://www.ssbwiki.com/Stale_move_negation
+  63. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Neutral_attack&action=edit&redlink=1
+  64. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Forward_tilt&action=edit&redlink=1
+  65. https://www.ssbwiki.com/Wobble
+  66. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Up_tilt&action=edit&redlink=1
+  67. https://www.ssbwiki.com/Wobble
+  68. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Down_tilt&action=edit&redlink=1
+  69. https://www.ssbwiki.com/Wobble
+  70. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Dash_attack&action=edit&redlink=1
+  71. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Forward_smash&action=edit&redlink=1
+  72. https://www.ssbwiki.com/Wobble
+  73. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Up_smash&action=edit&redlink=1
+  74. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Down_smash&action=edit&redlink=1
+  75. https://www.ssbwiki.com/Spacing
+  76. https://www.ssbwiki.com/Wobble
+  77. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Neutral_aerial&action=edit&redlink=1
+  78. https://www.ssbwiki.com/Wobble
+  79. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Forward_aerial&action=edit&redlink=1
+  80. https://www.ssbwiki.com/Meteor_smash
+  81. https://www.ssbwiki.com/Sweetspot
+  82. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Back_aerial&action=edit&redlink=1
+  83. https://www.ssbwiki.com/Wobble
+  84. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Up_aerial&action=edit&redlink=1
+  85. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Down_aerial&action=edit&redlink=1
+  86. https://www.ssbwiki.com/L-cancelling
+  87. https://www.ssbwiki.com/Set_knockback
+  88. https://www.ssbwiki.com/Juggling
+  89. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Grab&action=edit&redlink=1
+  90. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Pummel&action=edit&redlink=1
+  91. https://www.ssbwiki.com/Desynching
+  92. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Forward_throw&action=edit&redlink=1
+  93. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Back_throw&action=edit&redlink=1
+  94. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Up_throw&action=edit&redlink=1
+  95. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Down_throw&action=edit&redlink=1
+  96. https://www.ssbwiki.com/Chaingrab
+  97. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Floor_attack_(front)&action=edit&redlink=1
+  98. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Floor_attack_(back)&action=edit&redlink=1
+  99. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Edge_attack_(fast)&action=edit&redlink=1
+ 100. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Edge_attack_(slow)&action=edit&redlink=1
+ 101. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Neutral_special&action=edit&redlink=1
+ 102. https://www.ssbwiki.com/Ice_Shot
+ 103. https://www.ssbwiki.com/Frozen
+ 104. https://www.ssbwiki.com/Reflect
+ 105. https://www.ssbwiki.com/Absorb
+ 106. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Side_special&action=edit&redlink=1
+ 107. https://www.ssbwiki.com/Squall_Hammer
+ 108. https://www.ssbwiki.com/Recovery
+ 109. https://www.ssbwiki.com/Button_mashing
+ 110. https://www.ssbwiki.com/B_button
+ 111. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Up_special&action=edit&redlink=1
+ 112. https://www.ssbwiki.com/Belay
+ 113. https://www.ssbwiki.com/Helpless
+ 114. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)/Down_special&action=edit&redlink=1
+ 115. https://www.ssbwiki.com/Blizzard
+ 116. https://www.ssbwiki.com/Freeze
+ 117. https://www.ssbwiki.com/Wobbling
+ 118. https://www.ssbwiki.com/Priority#Transcendent_priority
+ 119. https://www.ssbwiki.com/Taunt
+ 120. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&action=edit&section=3
+ 121. https://www.ssbwiki.com/File:IceClimbers-Taunt-SSBM.gif
+ 122. https://www.ssbwiki.com/Idle_pose
+ 123. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&action=edit&section=4
+ 124. https://www.ssbwiki.com/File:Ice_Climbers_Idle_Pose_Melee.gif
+ 125. https://www.ssbwiki.com/Crowd_cheer
+ 126. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&action=edit&section=5
+ 127. https://www.ssbwiki.com/File:Ice_Climbers_Cheer_NTSC_Melee.ogg
+ 128. https://www.ssbwiki.com/File:Ice_Climbers_Cheer_JP_Melee.ogg
+ 129. https://www.ssbwiki.com/Victory_pose
+ 130. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&action=edit&section=6
+ 131. https://www.ssbwiki.com/Condor
+ 132. https://www.ssbwiki.com/File:Climbers-Victory1-SSBM.gif
+ 133. https://www.ssbwiki.com/File:Climbers-Victory2-SSBM.gif
+ 134. https://www.ssbwiki.com/File:Climbers-Victory3-SSBM.gif
+ 135. https://www.ssbwiki.com/Competitive_play
+ 136. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&action=edit&section=7
+ 137. https://www.ssbwiki.com/Character_matchup_(SSBM)
+ 138. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&action=edit&section=8
+ 139. https://www.ssbwiki.com/Character_matchup_(SSBM)
+ 140. https://www.ssbwiki.com/Fox_(SSBM)
+ 141. https://www.ssbwiki.com/Falco_(SSBM)
+ 142. https://www.ssbwiki.com/Marth_(SSBM)
+ 143. https://www.ssbwiki.com/Sheik_(SSBM)
+ 144. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 145. https://www.ssbwiki.com/Peach_(SSBM)
+ 146. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 147. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 148. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 149. https://www.ssbwiki.com/Samus_(SSBM)
+ 150. https://www.ssbwiki.com/Dr._Mario_(SSBM)
+ 151. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 152. https://www.ssbwiki.com/Luigi_(SSBM)
+ 153. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 154. https://www.ssbwiki.com/Mario_(SSBM)
+ 155. https://www.ssbwiki.com/Young_Link_(SSBM)
+ 156. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+ 157. https://www.ssbwiki.com/Link_(SSBM)
+ 158. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSBM)
+ 159. https://www.ssbwiki.com/Roy_(SSBM)
+ 160. https://www.ssbwiki.com/Mewtwo_(SSBM)
+ 161. https://www.ssbwiki.com/Zelda_(SSBM)
+ 162. https://www.ssbwiki.com/Ness_(SSBM)
+ 163. https://www.ssbwiki.com/Pichu_(SSBM)
+ 164. https://www.ssbwiki.com/Bowser_(SSBM)
+ 165. https://www.ssbwiki.com/Kirby_(SSBM)
+ 166. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 167. https://www.ssbwiki.com/File:Matchup(-1)7T.png
+ 168. https://www.ssbwiki.com/File:Matchup(0)7T.png
+ 169. https://www.ssbwiki.com/File:Matchup(-1)7T.png
+ 170. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 171. https://www.ssbwiki.com/File:Matchup(0)7T.png
+ 172. https://www.ssbwiki.com/File:Matchup(-2)7T.png
+ 173. https://www.ssbwiki.com/File:Matchup(M)7T.png
+ 174. https://www.ssbwiki.com/File:Matchup(0)7T.png
+ 175. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 176. https://www.ssbwiki.com/File:Matchup(-1)7T.png
+ 177. https://www.ssbwiki.com/File:Matchup(0)7T.png
+ 178. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 179. https://www.ssbwiki.com/File:Matchup(0)7T.png
+ 180. https://www.ssbwiki.com/File:Matchup(-2)7T.png
+ 181. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 182. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 183. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 184. https://www.ssbwiki.com/File:Matchup(0)7T.png
+ 185. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 186. https://www.ssbwiki.com/File:Matchup(+3)7T.png
+ 187. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 188. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 189. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 190. https://www.ssbwiki.com/File:Matchup(+3)7T.png
+ 191. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 192. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 193. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 194. https://www.ssbwiki.com/Grab
+ 195. https://www.ssbwiki.com/Wobbling
+ 196. https://www.ssbwiki.com/Sheik_(SSBM)
+ 197. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 198. https://www.ssbwiki.com/Fox_(SSBM)
+ 199. https://www.ssbwiki.com/Marth_(SSBM)
+ 200. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 201. https://www.ssbwiki.com/Samus_(SSBM)
+ 202. https://www.ssbwiki.com/Peach_(SSBM)
+ 203. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&action=edit&section=9
+ 204. https://www.ssbwiki.com/Category:Ice_Climbers_professionals_(SSBM)
+ 205. https://www.ssbwiki.com/2017_SSBMRank
+ 206. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&action=edit&section=10
+ 207. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 208. https://www.ssbwiki.com/Smasher:Admiral
+ 209. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 210. https://www.ssbwiki.com/Smasher:ARMY
+ 211. https://www.ssbwiki.com/File:Flag_of_Japan.png
+ 212. https://www.ssbwiki.com/Smasher:Watch
+ 213. https://www.ssbwiki.com/Japan_SSBM_Rank_2017
+ 214. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 215. https://www.ssbwiki.com/Smasher:Bananas
+ 216. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 217. https://www.ssbwiki.com/Smasher:Boback
+ 218. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 219. https://www.ssbwiki.com/Smasher:ChuDat
+ 220. https://www.ssbwiki.com/Smasher:Mang0
+ 221. https://www.ssbwiki.com/Smasher:Hungrybox
+ 222. https://www.ssbwiki.com/Smasher:Mew2King
+ 223. https://www.ssbwiki.com/Smasher:Armada
+ 224. https://www.ssbwiki.com/File:Flag_of_Germany.png
+ 225. https://www.ssbwiki.com/Smasher:Däumling
+ 226. https://www.ssbwiki.com/German_Power_Rankings
+ 227. https://www.ssbwiki.com/European_Melee_Power_Rankings
+ 228. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 229. https://www.ssbwiki.com/Smasher:Delphiki
+ 230. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 231. https://www.ssbwiki.com/Smasher:DiplomaticTucan
+ 232. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 233. https://www.ssbwiki.com/Smasher:Dizzkidboogie
+ 234. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 235. https://www.ssbwiki.com/Smasher:Drunksloth
+ 236. https://www.ssbwiki.com/File:Flag_of_Sweden.png
+ 237. https://www.ssbwiki.com/Smasher:FA0
+ 238. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 239. https://www.ssbwiki.com/Smasher:Flipsy
+ 240. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 241. https://www.ssbwiki.com/Smasher:Fork
+ 242. https://www.ssbwiki.com/File:Flag_of_Sweden.png
+ 243. https://www.ssbwiki.com/Smasher:JohnnyFight
+ 244. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 245. https://www.ssbwiki.com/Smasher:Myougi
+ 246. https://www.ssbwiki.com/File:Flag_of_Denmark.png
+ 247. https://www.ssbwiki.com/Smasher:Tomber
+ 248. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 249. https://www.ssbwiki.com/Smasher:Trail
+ 250. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&action=edit&section=11
+ 251. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 252. https://www.ssbwiki.com/Smasher:Fly_Amanita
+ 253. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 254. https://www.ssbwiki.com/Smasher:HammerTime
+ 255. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 256. https://www.ssbwiki.com/Smasher:Nintendude
+ 257. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 258. https://www.ssbwiki.com/Smasher:Rich_Boi_Rich
+ 259. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 260. https://www.ssbwiki.com/Smasher:Wobbles
+ 261. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&action=edit&section=12
+ 262. https://www.ssbwiki.com/Desynching
+ 263. https://www.ssbwiki.com/Wobbling
+ 264. https://www.ssbwiki.com/Smasher:Chu_Dat
+ 265. https://www.ssbwiki.com/Smasher:Wobbles
+ 266. https://www.ssbwiki.com/Smasher:Fly_Amanita
+ 267. https://www.ssbwiki.com/Smasher:Wobbles
+ 268. https://www.ssbwiki.com/EVO_2013
+ 269. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 270. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&action=edit&section=13
+ 271. https://www.ssbwiki.com/Classic_Mode_(SSBM)
+ 272. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&action=edit&section=14
+ 273. https://www.ssbwiki.com/Kirby_(SSBM)
+ 274. https://www.ssbwiki.com/Adventure_Mode
+ 275. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&action=edit&section=15
+ 276. https://www.ssbwiki.com/Icicle_Mountain
+ 277. https://www.ssbwiki.com/All-Star_Mode
+ 278. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&action=edit&section=16
+ 279. https://www.ssbwiki.com/Icicle_Mountain
+ 280. https://www.ssbwiki.com/Event_Matches
+ 281. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&action=edit&section=17
+ 282. https://www.ssbwiki.com/Event_11:_King_of_the_Mountain
+ 283. https://www.ssbwiki.com/Event_21:_Ice_Breaker
+ 284. https://www.ssbwiki.com/Event_30:_All-Star_Match_3
+ 285. https://www.ssbwiki.com/Icicle_Mountain
+ 286. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 287. https://www.ssbwiki.com/Ness_(SSBM)
+ 288. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&action=edit&section=18
+ 289. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&action=edit&section=19
+ 290. https://www.ssbwiki.com/Condor
+ 291. https://www.ssbwiki.com/Ice_Climber_(game)
+ 292. https://www.ssbwiki.com/CPU
+ 293. https://www.ssbwiki.com/KO
+ 294. https://www.ssbwiki.com/Ice_Shot
+ 295. https://www.ssbwiki.com/Squall_Hammer
+ 296. https://www.ssbwiki.com/Belay
+ 297. https://www.ssbwiki.com/Blizzard
+ 298. https://www.ssbwiki.com/Alternate_costume_(SSBM)#Ice_Climbers
+ 299. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&action=edit&section=20
+ 300. https://www.ssbwiki.com/File:Ice_Climbers_Palette_(SSBM).png
+ 301. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 302. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 303. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 304. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 305. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&action=edit&section=21
+ 306. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 307. https://www.ssbwiki.com/Falcon_Kick
+ 308. https://www.ssbwiki.com/Corneria
+ 309. https://www.ssbwiki.com/Belay
+ 310. https://www.ssbwiki.com/Fourside
+ 311. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&action=edit&section=22
+ 312. http://www.reddit.com/r/SSBM/comments/34ba6b/my_friend_bigvegetabluntz_discovered_a_breakdown/
+ 313. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 314. https://www.ssbwiki.com/Home-Run_Contest
+ 315. https://www.ssbwiki.com/Freeze_glitch
+ 316. https://www.ssbwiki.com/Template:SSBMCharacters
+ 317. https://www.ssbwiki.com/Template_talk:SSBMCharacters
+ 318. https://www.ssbwiki.com/index.php?title=Template:SSBMCharacters&action=edit
+ 319. https://www.ssbwiki.com/Characters
+ 320. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 321. https://www.ssbwiki.com/Veteran
+ 322. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 323. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+ 324. https://www.ssbwiki.com/Fox_(SSBM)
+ 325. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 326. https://www.ssbwiki.com/Kirby_(SSBM)
+ 327. https://www.ssbwiki.com/Link_(SSBM)
+ 328. https://www.ssbwiki.com/Luigi_(SSBM)
+ 329. https://www.ssbwiki.com/Mario_(SSBM)
+ 330. https://www.ssbwiki.com/Ness_(SSBM)
+ 331. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 332. https://www.ssbwiki.com/Samus_(SSBM)
+ 333. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 334. https://www.ssbwiki.com/Newcomer
+ 335. https://www.ssbwiki.com/Bowser_(SSBM)
+ 336. https://www.ssbwiki.com/Dr._Mario_(SSBM)
+ 337. https://www.ssbwiki.com/Falco_(SSBM)
+ 338. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 339. https://www.ssbwiki.com/Marth_(SSBM)
+ 340. https://www.ssbwiki.com/Mewtwo_(SSBM)
+ 341. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSBM)
+ 342. https://www.ssbwiki.com/Peach_(SSBM)
+ 343. https://www.ssbwiki.com/Pichu_(SSBM)
+ 344. https://www.ssbwiki.com/Roy_(SSBM)
+ 345. https://www.ssbwiki.com/Young_Link_(SSBM)
+ 346. https://www.ssbwiki.com/Zelda_(SSBM)
+ 347. https://www.ssbwiki.com/Sheik_(SSBM)
+ 348. https://www.ssbwiki.com/Template:EnemiesAdvSSBM
+ 349. https://www.ssbwiki.com/Template_talk:EnemiesAdvSSBM
+ 350. https://www.ssbwiki.com/index.php?title=Template:EnemiesAdvSSBM&action=edit
+ 351. https://www.ssbwiki.com/Adventure_Mode
+ 352. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 353. https://www.ssbwiki.com/Mushroom_Kingdom_(Adventure_Mode)
+ 354. https://www.ssbwiki.com/Goomba
+ 355. https://www.ssbwiki.com/Koopa_Paratroopa
+ 356. https://www.ssbwiki.com/Koopa_Troopa
+ 357. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 358. https://www.ssbwiki.com/Mario_(SSBM)
+ 359. https://www.ssbwiki.com/Peach_(SSBM)
+ 360. https://www.ssbwiki.com/Luigi_(SSBM)
+ 361. https://www.ssbwiki.com/Kongo_Jungle_(SSBM)
+ 362. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+ 363. https://www.ssbwiki.com/Giant_DK
+ 364. https://www.ssbwiki.com/Underground_Maze
+ 365. https://www.ssbwiki.com/Octorok
+ 366. https://www.ssbwiki.com/ReDead
+ 367. https://www.ssbwiki.com/Like_Like
+ 368. https://www.ssbwiki.com/Link_(SSBM)
+ 369. https://www.ssbwiki.com/Zelda_(SSBM)
+ 370. https://www.ssbwiki.com/Sheik_(SSBM)
+ 371. https://www.ssbwiki.com/Brinstar
+ 372. https://www.ssbwiki.com/Samus_(SSBM)
+ 373. https://www.ssbwiki.com/Green_Greens
+ 374. https://www.ssbwiki.com/Kirby_(SSBM)
+ 375. https://www.ssbwiki.com/Copy_Abilities_(SSBM)
+ 376. https://www.ssbwiki.com/Giant_Kirby
+ 377. https://www.ssbwiki.com/Corneria
+ 378. https://www.ssbwiki.com/Fox_(SSBM)
+ 379. https://www.ssbwiki.com/Falco_(SSBM)
+ 380. https://www.ssbwiki.com/Pokémon_Stadium
+ 381. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 382. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 383. https://www.ssbwiki.com/Pichu_(SSBM)
+ 384. https://www.ssbwiki.com/F-Zero_Grand_Prix
+ 385. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 386. https://www.ssbwiki.com/Onett
+ 387. https://www.ssbwiki.com/Ness_(SSBM)
+ 388. https://www.ssbwiki.com/Icicle_Mountain
+ 389. https://www.ssbwiki.com/Topi
+ 390. https://www.ssbwiki.com/Polar_Bear
+ 391. https://www.ssbwiki.com/Battlefield_(SSBM)
+ 392. https://www.ssbwiki.com/Fighting_Wire_Frames
+ 393. https://www.ssbwiki.com/Metal_Mario
+ 394. https://www.ssbwiki.com/Metal_Bros.#Metal_Luigi
+ 395. https://www.ssbwiki.com/Final_Destination_(SSBM)
+ 396. https://www.ssbwiki.com/Giant_Bowser
+ 397. https://www.ssbwiki.com/Giga_Bowser
+ 398. https://www.ssbwiki.com/Template:Ice_Climber_universe
+ 399. https://www.ssbwiki.com/Template_talk:Ice_Climber_universe
+ 400. https://www.ssbwiki.com/index.php?title=Template:Ice_Climber_universe&action=edit
+ 401. https://www.ssbwiki.com/File:IceClimberSymbol.svg
+ 402. https://www.ssbwiki.com/Ice_Climber_(universe)
+ 403. https://www.ssbwiki.com/Character
+ 404. https://www.ssbwiki.com/Ice_Climbers
+ 405. https://www.ssbwiki.com/Ice_Climbers_(SSBB)
+ 406. https://www.ssbwiki.com/Ice_Climbers_(SSBU)
+ 407. https://www.ssbwiki.com/Stage
+ 408. https://www.ssbwiki.com/Icicle_Mountain
+ 409. https://www.ssbwiki.com/Summit
+ 410. https://www.ssbwiki.com/Item
+ 411. https://www.ssbwiki.com/Vegetables_(Ice_Climber)
+ 412. https://www.ssbwiki.com/Polar_Bear
+ 413. https://www.ssbwiki.com/Topi
+ 414. https://www.ssbwiki.com/Condor
+ 415. https://www.ssbwiki.com/Trophies
+ 416. https://www.ssbwiki.com/Sticker
+ 417. https://www.ssbwiki.com/Spirits_(characters)
+ 418. https://www.ssbwiki.com/List_of_SSBM_trophies_(Ice_Climber_series)
+ 419. https://www.ssbwiki.com/List_of_SSBB_trophies_(Ice_Climber_series)
+ 420. https://www.ssbwiki.com/List_of_stickers_(Ice_Climber_series)
+ 421. https://www.ssbwiki.com/List_of_spirits_(Ice_Climber_series)
+ 422. https://www.ssbwiki.com/List_of_SSBB_Music_(Nintendo_series)#Ice_Climber
+ 423. https://www.ssbwiki.com/List_of_SSBU_Music_(Ice_Climber_series)
+ 424. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&oldid=1181886
+ 425. https://www.ssbwiki.com/Special:Categories
+ 426. https://www.ssbwiki.com/Category:Characters_(SSBM)
+ 427. https://www.ssbwiki.com/Category:Ice_Climber_universe
+ 428. https://www.ssbwiki.com/Category:Ice_Climbers_(SSBM)
+ 429. https://www.ssbwiki.com/Category:Trophies_(SSBM)
+ 430. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 431. https://www.ssbwiki.com/Talk:Ice_Climbers_(SSBM)
+ 432. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&action=edit
+ 433. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&action=history
+ 434. https://www.ssbwiki.com/Special:MyTalk
+ 435. https://www.ssbwiki.com/Special:MyContributions
+ 436. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=Ice+Climbers+(SSBM)
+ 437. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=Ice+Climbers+(SSBM)
+ 438. https://www.ssbwiki.com/Main_Page
+ 439. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 440. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 441. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 442. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 443. https://www.ssbwiki.com/Super_Smash_Bros.
+ 444. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+ 445. https://www.ssbwiki.com/Stage
+ 446. https://www.ssbwiki.com/Mode
+ 447. https://www.ssbwiki.com/Item
+ 448. https://www.ssbwiki.com/Special:Random
+ 449. https://www.ssbwiki.com/Forum:Index
+ 450. https://www.ssbwiki.com/SmashWiki:Community_portal
+ 451. https://www.ssbwiki.com/Special:RecentChanges
+ 452. https://www.ssbwiki.com/Help:Contents
+ 453. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
+ 454. https://www.ssbwiki.com/SmashWiki:Discord_server
+ 455. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
+ 456. https://www.ssbwiki.com/Special:WhatLinksHere/Ice_Climbers_(SSBM)
+ 457. https://www.ssbwiki.com/Special:RecentChangesLinked/Ice_Climbers_(SSBM)
+ 458. https://www.ssbwiki.com/Special:SpecialPages
+ 459. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&printable=yes
+ 460. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&oldid=1181886
+ 461. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&action=info
+ 462. https://creativecommons.org/licenses/by-sa/3.0/
+ 463. https://www.mediawiki.org/
+ 464. https://creativecommons.org/licenses/by-sa/3.0/
+ 465. https://www.porplemontage.com/privacy
+ 466. https://www.ssbwiki.com/SmashWiki:About
+ 467. https://www.ssbwiki.com/SmashWiki:General_disclaimer
+ 468. https://www.ssbwiki.com/index.php?title=Ice_Climbers_(SSBM)&mobileaction=toggle_view_mobile
+
+   Hidden links:
+ 470. https://www.ssbwiki.com/File:IceClimbersAerialAttacksSSBM.png
+ 471. https://www.ssbwiki.com/File:IceClimbersAerialAttacksSSBM.png
+ 472. https://www.ssbwiki.com/File:IceClimbersThemeMelee.ogg
+ 473. https://www.ssbwiki.com/File:IceClimbersThemeMelee.ogg
+ 474. https://www.ssbwiki.com/File:IceClimbersClassicMode.jpg
+ 475. https://www.ssbwiki.com/File:IceClimbersAdventureMode.jpg
+ 476. https://www.ssbwiki.com/File:IceClimbersAllStarMode.jpg
+ 477. https://www.ssbwiki.com/File:Ice_Climber_Trophy_Melee.png
+ 478. https://www.ssbwiki.com/File:Ice_Climber_Trophy_(Smash).png
+ 479. https://www.ssbwiki.com/File:Ice_Climber_Trophy_(Smash_2).png
+ 480. https://www.ssbwiki.com/File:SSBM_Ice_Climbers_HQ.jpg
+ 481. https://www.ssbwiki.com/File:CaptainFalconClassicMode.jpg
+ 482. https://www.ssbwiki.com/File:YoshiAllStarMode.jpg
+ 483. https://www.ssbwiki.com/Main_Page

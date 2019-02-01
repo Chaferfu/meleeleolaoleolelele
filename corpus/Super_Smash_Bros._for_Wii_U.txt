@@ -1,0 +1,984 @@
+   #[1]Edit this page [2]SmashWiki (en) [3]SmashWiki Atom feed
+
+Super Smash Bros. for Wii U
+
+   From SmashWiki, the Super Smash Bros. wiki
+   Jump to:[4]navigation, [5]search
+   [6]SSB4-U Icon.png
+   Super Smash Bros. for Wii U
+   [7]Boxart-wiiu.png
+   North American boxart.
+   [8]Developer(s) [9]Bandai Namco
+   [10]Sora Ltd.
+   [11]Publisher(s) [12]Nintendo
+   [13]Designer(s) [14]Masahiro Sakurai
+   [15]Engine [16]Havok
+   Released November 21, 2014 [17]North America
+   November 28, 2014 [18]Europe ^[19][1]
+   November 28, 2014 [20]South Africa
+   November 29, 2014 [21]Australia
+   December 6, 2014 [22]Japan
+   [23]Genre(s) [24]Fighting
+   [25]Platforming
+   Mode(s) Single player, Multiplayer, Online multiplayer
+   [26]Ratings ESRB: E10+
+   PEGI: 12+ (provisional)
+
+   Super Smash Bros. for Wii U (大乱闘スマッシュブラザーズ for Wii U, Great Fray Smash Brothers for Wii U) is one of two games in the [27]Super Smash Bros. series released as part of the [28]Super Smash Bros. 4 pair, and the home console counterpart to [29]Super Smash Bros. for Nintendo 3DS. Although most gameplay elements are shared between the two versions, there are several elements which distinguish the two.
+
+   The game is playable on the [30]Wii U with a variety of [31]controller options, including the [32]Wii U GamePad, the [33]Wii U Pro Controller, the [34]GameCube controller via an adapter, and a [35]Nintendo 3DS that is running [36]the 3DS version or a [37]special app.
+
+   Super Smash Bros. for Wii U was officially released on November 21, 2014 in the Americas, and was followed by Europe on November 28, 2014, Australia and New Zealand on November 29, 2014, and Japan on December 6, 2014.
+
+Contents
+
+     * [38]1 Opening movie
+     * [39]2 Content
+          + [40]2.1 Characters
+          + [41]2.2 Multiplayer stages
+          + [42]2.3 Single-player modes
+          + [43]2.4 Multiplayer modes
+     * [44]3 Features of the Wii U version
+     * [45]4 Demo
+     * [46]5 Gallery
+     * [47]6 Trivia
+     * [48]7 References
+
+Opening movie[[49]edit]
+
+   The [50]opening movie for Super Smash Bros. for Wii U is composed of footage from both gameplay and the various [51]character introduction trailers shown since the game's reveal, barring the trailer for [52]Duck Hunt.
+
+   IFRAME: [53]https://www.youtube.com/embed/jEg86qr9Y14?
+
+Content[[54]edit]
+
+   The playable roster is the same between both versions of SSB4.
+
+Characters[[55]edit]
+
+                                        Veterans (37)
+   [56]Mario SSB4.png
+   [57]Mario
+   [58]MarioSymbol.svg [59]Luigi SSB4.png
+   [60]Luigi
+   [61]MarioSymbol.svg [62]Peach SSB4.png
+   [63]Peach
+   [64]MarioSymbol.svg [65]Bowser SSB4.png
+   [66]Bowser
+   [67]MarioSymbol.svg [68]Dr. Mario SSB4.png
+   [69]Dr. Mario
+   [70]MarioSymbol.svg [71]Yoshi SSB4.png
+   [72]Yoshi
+   [73]YoshiSymbol.svg [74]Donkey Kong SSB4.png
+   [75]Donkey Kong
+   [76]DKSymbol.svg [77]Diddy Kong SSB4.png
+   [78]Diddy Kong
+   [79]DKSymbol.svg
+   [80]Link SSB4.png
+   [81]Link
+   [82]ZeldaSymbol.svg [83]Zelda SSB4.png
+   [84]Zelda
+   [85]ZeldaSymbol.svg [86]Sheik SSB4.png
+   [87]Sheik
+   [88]ZeldaSymbol.svg [89]Ganondorf SSB4.png
+   [90]Ganondorf
+   [91]ZeldaSymbol.svg [92]Toon Link SSB4.png
+   [93]Toon Link
+   [94]ZeldaSymbol.svg [95]Samus SSB4.png
+   [96]Samus
+   [97]MetroidSymbol.svg [98]Zero Suit Samus SSB4.png
+   [99]Zero Suit Samus
+   [100]MetroidSymbol.svg [101]Kirby SSB4.png
+   [102]Kirby
+   [103]KirbySymbol.svg
+   [104]Meta Knight SSB4.png
+   [105]Meta Knight
+   [106]KirbySymbol.svg [107]King Dedede SSB4.png
+   [108]King Dedede
+   [109]KirbySymbol.svg [110]Fox SSB4.png
+   [111]Fox
+   [112]StarFoxSymbol.svg [113]Falco SSB4.png
+   [114]Falco
+   [115]StarFoxSymbol.svg [116]Pikachu SSB4.png
+   [117]Pikachu
+   [118]PokemonSymbol.svg [119]Jigglypuff SSB4.png
+   [120]Jigglypuff
+   [121]PokemonSymbol.svg [122]Mewtwo SSB4.png
+   [123]Mewtwo (DLC)
+   [124]PokemonSymbol.svg [125]Charizard SSB4.png
+   [126]Charizard
+   [127]PokemonSymbol.svg
+   [128]Lucario SSB4.png
+   [129]Lucario
+   [130]PokemonSymbol.svg [131]Captain Falcon SSB4.png
+   [132]Captain Falcon
+   [133]FZeroSymbol.svg [134]Ness SSB4.png
+   [135]Ness
+   [136]EarthboundSymbol.svg [137]Lucas SSB4.png
+   [138]Lucas (DLC)
+   [139]EarthboundSymbol.svg [140]Marth SSB4.png
+   [141]Marth
+   [142]FireEmblemSymbol.svg [143]Roy SSB4.png
+   [144]Roy (DLC)
+   [145]FireEmblemSymbol.svg [146]Ike SSB4.png
+   [147]Ike
+   [148]FireEmblemSymbol.svg [149]Mr. Game & Watch SSB4.png
+   [150]Mr. Game & Watch
+   [151]Game&WatchSymbol.svg
+   [152]Pit SSB4.png
+   [153]Pit
+   [154]KidIcarusSymbol.svg [155]Wario SSB4.png
+   [156]Wario
+   [157]WarioSymbol.svg [158]Olimar SSB4.png
+   [159]Olimar
+   [160]PikminSymbol.svg [161]R.O.B. SSB4.png
+   [162]R.O.B.
+   [163]ROBSymbol.svg [164]Sonic SSB4.png
+   [165]Sonic
+   [166]SonicSymbol.svg
+                                        Newcomers (21)
+   [167]Rosalina SSB4.png
+   [168]Rosalina & Luma
+   [169]MarioSymbol.svg [170]Bowser Jr. SSB4.png
+   [171]Bowser Jr.
+   [172]MarioSymbol.svg [173]Greninja SSB4.png
+   [174]Greninja
+   [175]PokemonSymbol.svg [176]Robin SSB4.png
+   [177]Robin
+   [178]FireEmblemSymbol.svg [179]Lucina SSB4.png
+   [180]Lucina
+   [181]FireEmblemSymbol.svg [182]Corrin SSB4.png
+   [183]Corrin (DLC)
+   [184]FireEmblemSymbol.svg [185]Palutena SSB4.png
+   [186]Palutena
+   [187]KidIcarusSymbol.svg [188]Dark Pit SSB4.png
+   [189]Dark Pit
+   [190]KidIcarusSymbol.svg
+   [191]Villager SSB4.png
+   [192]Villager
+   [193]AnimalCrossingSymbol.svg [194]Little Mac SSB4.png
+   [195]Little Mac
+   [196]PunchOutSymbol.svg [197]Wii Fit Trainer SSB4.png
+   [198]Wii Fit Trainer
+   [199]WiiFitSymbol.svg [200]Shulk SSB4.png
+   [201]Shulk
+   [202]XenobladeSymbol.svg [203]Duck Hunt SSB4.png
+   [204]Duck Hunt
+   [205]DuckHuntSymbol.svg [206]Mega Man SSB4.png
+   [207]Mega Man
+   [208]MegaManSymbol.svg [209]Pac-Man SSB4.png
+   [210]Pac-Man
+   [211]PacManSymbol.svg [212]Ryu SSB4.png
+   [213]Ryu (DLC)
+   [214]StreetFighterSymbol.svg
+   [215]Cloud SSB4.png
+   [216]Cloud (DLC)
+   [217]FinalFantasySymbol.svg [218]Bayonetta SSB4.png
+   [219]Bayonetta (DLC)
+   [220]BayonettaSymbol.svg [221]Mii Brawler SSB4.png
+   [222]Mii Brawler
+   [223]SmashBrosSymbol.svg [224]Mii Swordfighter SSB4.png
+   [225]Mii Swordfighter
+   [226]SmashBrosSymbol.svg [227]Mii Gunner SSB4.png
+   [228]Mii Gunner
+   [229]SmashBrosSymbol.svg
+
+   Bold denotes [230]unlockable characters in both versions.
+   Bolded italics denote [231]unlockable characters in the 3DS version only.
+
+Multiplayer stages[[232]edit]
+
+   The two versions of SSB4 have separate sets of available stages; only 12 stages appear in both the Wii U and 3DS versions. The stages from the Wii U version are more heavily based on home console games. The Wii U version features a total of 55 stages (46 excluding [233]DLC), consisting of 34 new stages and 21 familiar ones. The following stages are available in the Wii U version:
+   [234]BattlefieldDayNightCycle1WiiUSSB4.png
+   [235]Battlefield
+   [236]SmashBrosSymbol.svg [237]SSB4UBigBattlefield.jpg
+   [238]Big Battlefield
+   [239]SmashBrosSymbol.svg [240]SSB4 WII U Final-Destination.jpg
+   [241]Final Destination
+   [242]SmashBrosSymbol.svg [243]Mario Galaxy.jpg
+   [244]Mario Galaxy
+   [245]MarioSymbol.svg [246]SSB4UMushroomKingdomU.jpg
+   [247]Mushroom Kingdom U
+   [248]MarioSymbol.svg [249]SSB4UMarioCircuit8.jpg
+   [250]Mario Circuit
+   [251]MarioSymbol.svg [252]SuperMarioMakerWiiU.jpg
+   [253]Super Mario Maker (DLC)
+   [254]MarioSymbol.svg
+   [255]SSBUPeach'sCastle64.PNG
+   [256]Super Smash Bros. [257]Peach's Castle (64) (DLC)
+   [258]MarioSymbol.svg [259]SSB4UDelfinoPlaza.png
+   [260]Super Smash Bros. Brawl [261]Delfino Plaza
+   [262]MarioSymbol.svg [263]SSB4ULuigisMansion.png
+   [264]Super Smash Bros. Brawl [265]Luigi's Mansion
+   [266]MarioSymbol.svg [267]SSB4UMarioCircuit.jpg
+   [268]Super Smash Bros. Brawl [269]Mario Circuit (Brawl)
+   [270]MarioSymbol.svg [271]SSB4UWoollyWorld.jpg
+   [272]Woolly World
+   [273]YoshiSymbol.svg [274]SSB4UYoshisIsland.png
+   [275]Super Smash Bros. Melee [276]Yoshi's Island
+   [277]YoshiSymbol.svg [278]SSB4UJungleHijinxs.jpg
+   [279]Jungle Hijinxs
+   [280]DKSymbol.svg
+   [281]Kongo Jungle 64
+   [282]Super Smash Bros. [283]Kongo Jungle 64
+   [284]DKSymbol.svg [285]SSB4U75m.png
+   [286]Super Smash Bros. Brawl [287]75m
+   [288]DKSymbol.svg [289]SSB4USkyloft.png
+   [290]Skyloft
+   [291]ZeldaSymbol.svg [292]SSBUHyruleCastle64.PNG
+   [293]Super Smash Bros. [294]Hyrule Castle (64) (DLC)
+   [295]ZeldaSymbol.svg [296]SSB4UTemple.png
+   [297]Super Smash Bros. Melee [298]Temple
+   [299]ZeldaSymbol.svg [300]SSB4UBridgeOfEldin.png
+   [301]Super Smash Bros. Brawl [302]Bridge of Eldin
+   [303]ZeldaSymbol.svg [304]Pirate Ship Wii U.jpg
+   [305]Super Smash Bros. Brawl [306]Pirate Ship (DLC)
+   [307]ZeldaSymbol.svg
+   [308]Pyrosphere press image.jpg
+   [309]Pyrosphere
+   [310]MetroidSymbol.svg [311]SSB4UNorfair.png
+   [312]Super Smash Bros. Brawl [313]Norfair
+   [314]MetroidSymbol.svg [315]SSB4UTheGreatCaveOffensive.jpg
+   [316]The Great Cave Offensive
+   [317]KirbySymbol.svg [318]SSB4UDreamLand64.png
+   [319]Super Smash Bros. [320]Dream Land (64) (DLC)
+   [321]KirbySymbol.svg [322]SSB4UHalberd.jpg
+   [323]Super Smash Bros. Brawl [324]Halberd
+   [325]KirbySymbol.svg [326]SSB4UOrbitalGateAssault.jpg
+   [327]Orbital Gate Assault
+   [328]StarFoxSymbol.svg [329]SSB4ULylatCruise.png
+   [330]Super Smash Bros. Brawl [331]Lylat Cruise
+   [332]StarFoxSymbol.svg
+   [333]SSB4UKalosPokemonLeague.jpg
+   [334]Kalos Pokémon League
+   [335]PokemonSymbol.svg [336]SSB4UPokemonStadium2.jpg
+   [337]Super Smash Bros. Brawl [338]Pokémon Stadium 2
+   [339]PokemonSymbol.svg [340]SSB4UPortTownAeroDive.png
+   [341]Super Smash Bros. Brawl [342]Port Town Aero Dive
+   [343]FZeroSymbol.svg [344]SSB4UOnett.jpg
+   [345]Super Smash Bros. Melee [346]Onett
+   [347]EarthboundSymbol.svg [348]SSB4UColiseum.jpg
+   [349]Coliseum
+   [350]FireEmblemSymbol.svg [351]SSB4UCastleSiege.jpg
+   [352]Super Smash Bros. Brawl [353]Castle Siege
+   [354]FireEmblemSymbol.svg [355]SSB4UFlatZoneX.jpg
+   [356]Flat Zone X
+   [357]Game&WatchSymbol.svg
+   [358]PalutenasTempleWiiUFull.png
+   [359]Palutena's Temple
+   [360]KidIcarusSymbol.svg [361]SSB4USkyworld.png
+   [362]Super Smash Bros. Brawl [363]Skyworld
+   [364]KidIcarusSymbol.svg [365]SSB4UGamer.jpg
+   [366]Gamer
+   [367]WarioSymbol.svg [368]Garden of Hope press image.jpg
+   [369]Garden of Hope
+   [370]PikminSymbol.svg [371]Town and City 1.png
+   [372]Town and City
+   [373]AnimalCrossingSymbol.svg [374]SSB4USmashville.jpg
+   [375]Super Smash Bros. Brawl [376]Smashville
+   [377]AnimalCrossingSymbol.svg [378]Boxing Ring Punch Out.jpg
+   [379]Boxing Ring
+   [380]PunchOutSymbol.svg
+   [381]Wii Fit Studio press image.jpg
+   [382]Wii Fit Studio
+   [383]WiiFitSymbol.svg [384]Gaur Plain Wii U.png
+   [385]Gaur Plain
+   [386]XenobladeSymbol.svg [387]SSB4UDuckHuntStage.jpg
+   [388]Duck Hunt
+   [389]DuckHuntSymbol.svg [390]SSB4UWreckingCrew.jpg
+   [391]Wrecking Crew
+   [392]WreckingCrewSymbol.svg [393]SSB4UPilotwings.jpg
+   [394]Pilotwings
+   [395]PilotwingsSymbol.svg [396]SSB4UWuhuIsland.jpg
+   [397]Wuhu Island
+   [398]WiiSportsSymbol.svg [399]SSB4 - Miiverse.jpg
+   [400]Miiverse (DLC)
+   [401]MiiverseSymbol.svg
+   [402]Windy Hill press image.jpg
+   [403]Windy Hill Zone
+   [404]SonicSymbol.svg [405]Wilys fortress.png
+   [406]Wily Castle
+   [407]MegaManSymbol.svg [408]SSB4UPac-Land.jpg
+   [409]Pac-Land
+   [410]PacManSymbol.svg [411]SSB4WiiUSukazuCastle.png
+   [412]Suzaku Castle (DLC)
+   [413]StreetFighterSymbol.svg [414]Midgar.jpg
+   [415]Midgar (DLC)
+   [416]FinalFantasySymbol.svg [417]SSB4 - Umbra Clock Tower.png
+   [418]Umbra Clock Tower (DLC)
+   [419]BayonettaSymbol.svg
+
+   Bold denotes [420]unlockable stages.
+
+Single-player modes[[421]edit]
+
+   The main menu of the Wii U version.
+     * [422]Classic Mode
+     * [423]All-Star Mode
+     * [424]Special Orders:
+          + [425]Master Orders
+          + [426]Crazy Orders
+     * [427]Event Mode
+
+Multiplayer modes[[428]edit]
+
+     * [429]VS Mode
+     * [430]Smash Tour
+     * [431]8-Player Smash
+
+Features of the Wii U version[[432]edit]
+
+     * The Wii U version is compatible with a set of [433]amiibo figurines utilizing the Wii U GamePad and [434]near field communication. By using their respective figurine, players can give an [435]AI character [436]custom moves and level them up to level 50. The game is the first to utilize the GamePad's NFC function under the amiibo branding.
+     * The Wii U version lacks the optional dark outlines around playable characters present in the 3DS version, though still has the colored outlines for team battles.
+     * The Wii U version features different collectible [437]trophies than the 3DS version, with a greater focus on elements from home console games.
+     * The Wii U version sees the return of Brawl's [438]My Music option, with a large selection of tracks available for each stage.
+     * The Wii U version supports off TV play.
+     * Three exclusive new modes: Special Orders, 8-Player Smash, and Smash Tour.
+     * The Trophy Box is exclusive to the Wii U version.
+          + Additionally, three modes which were in Brawl but not in [439]Super Smash Bros. for Nintendo 3DS, Coin Battles, Special Smash and Event Mode, return.
+     * Ness, Jigglypuff, Ganondorf and Bowser Jr. are default characters, unlike in the 3DS version.
+
+Demo[[440]edit]
+
+   A demo of the Wii U version is available at retail stores with a Wii U kiosk. It features the entire starting roster of characters and stages, but like its 3DS counterpart, is locked to two minute time matches with items on for normal stages but turned off for Ω stages.
+
+Gallery[[441]edit]
+
+     * (BUTTON) Play sound
+       A flourished excerpt of the Smash 4 theme that plays when starting the game from the Wii U HOME Menu or Quick Menu. It can also be heard on the 3DS upon highlighting either the game or the [442]Smash Controller app from the HOME Menu.
+     * Wii U version logo.
+     * Wii U version [443]title screen.
+     * Complete Wii U group art, with additional characters.
+
+Trivia[[444]edit]
+
+     * This is the first time where Greninja, Dark Pit, Lucina, Robin, and Corrin appear on a home console.
+          + Additionally, this game is the only appearance on the Wii U (excluding Virtual Console and Super Mario Maker costumes) for the aforementioned characters, as well as Zero Suit Samus, Ness, Lucas, Marth, Ike, Roy, Mr. Game & Watch, R.O.B., Shulk, Duck Hunt, Mega Man, Ryu and Cloud.
+          + This game was also the first (but not last) appearance on the Wii U for Kirby, King Dedede, Meta Knight, Fox, Falco, Captain Falcon and Villager, excluding Virtual Console.
+     * Super Smash Bros. for Wii U is the first game in the series not to be released first in Japan.
+     * Super Smash Bros. for Wii U is currently the Wii U's [445]fastest selling title, surpassing the previous holder of the title, [446]Mario Kart 8. In North America alone, Nintendo sold over 490,000 digital and physical copies of the game in three days.
+          + Sales of the Gamecube Bundle and Adapter were so popular in the United States that there was an immediate shortage of the Adapter upon launch of the game, leading to significantly inflated prices from online dealers; at one point, [447]Amazon.com featured prices [448]in excess of $110 USD for the Adapter.
+     * This is the first game in the series where all 12 characters from the original [449]Super Smash Bros. are [450]starters.
+     * The game's Japanese release date happens to coincide with the birthday of late Nintendo president [451]Satoru Iwata.
+          + November 21st, the game's North American release date, was also the release date of [452]Super Smash Bros. Melee in Japan.
+     * Super Smash Bros. for Wii U is the first game since [453]the original to lack a new stage from the [454]F-Zero and [455]EarthBound universes.
+     * This is the first game in the series where there is only one way to hear a character's [456]Star KO scream (outside the [457]Sound Test).
+     * This is the only game in the series to not have any unlockable [458]Pokémon characters.
+          + This is also the only game in the series since Smash 64 to not have any unlockable [459]The Legend of Zelda characters.
+     * This is the only game in the series in which Vs. mode is not required for 100% completion.
+
+References[[460]edit]
+
+    1. [461]↑ Facebook Wii U Italia - [462]https://www.facebook.com/WiiUItalia/posts/697289303700437
+
+   [463]v • [464]d • [465]e
+   [466]Super Smash Bros. series
+   [467]Super Smash Bros. · [468]Super Smash Bros. Melee · [469]Super Smash Bros. Brawl · [470]Super Smash Bros. 4 ([471]for Nintendo 3DS · for Wii U  · [472]Smash Controller)  · [473]Super Smash Bros. Ultimate
+   Ads keep SmashWiki independent and free :)
+   Retrieved from "[474]https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._for_Wii_U&oldid=1176815"
+   [475]Categories:
+     * [476]Games
+     * [477]Super Smash Bros. 4
+     * [478]Super Smash Bros. universe
+     * [479]Wii U
+     * [480]Super Smash Bros. series
+
+Navigation menu
+
+Views
+
+     * [481]Article
+     * [482]Discussion
+     * [483]Edit this page
+     * [484]History
+
+Personal tools
+
+     * Not logged in
+     * [485]Talk
+     * [486]Contributions
+     * [487]Create account
+     * [488]Log in
+
+Navigation
+
+     * [489]Main page
+     * [490]Smash Bros. Ultimate
+     * [491]Smash Bros. 4
+     * [492]Smash Bros. Brawl
+     * [493]Smash Bros. Melee
+     * [494]Smash Bros. (64)
+     * [495]Characters
+     * [496]Stages
+     * [497]Modes
+     * [498]Items
+     * [499]Random page
+
+Search
+
+   ____________________ Go  Search
+
+Participate
+
+     * [500]Forum
+     * [501]Community portal
+     * [502]Recent changes
+     * [503]Help
+     * [504]Admin noticeboard
+     * [505]Discord server
+     * [506]YouTube channel
+
+Tools
+
+     * [507]What links here
+     * [508]Related changes
+     * [509]Special pages
+     * [510]Printable version
+     * [511]Permanent link
+     * [512]Page information
+
+In other languages
+
+     * [513]Español
+
+   [514]Attribution-Share Alike 3.0 Unported
+   [515]Powered by MediaWiki
+     * This page was last edited on 23 January 2019, at 12:14.
+     * Content is available under [516]Attribution-Share Alike 3.0 Unported unless otherwise noted.
+     * [517]Privacy policy
+     * [518]About SmashWiki
+     * [519]Disclaimers
+     * [520]Mobile view
+
+References
+
+   Visible links
+   1. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._for_Wii_U&action=edit
+   2. https://www.ssbwiki.com/opensearch_desc.php
+   3. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&feed=atom
+   4. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U#column-one
+   5. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U#searchInput
+   6. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+   7. https://www.ssbwiki.com/File:Boxart-wiiu.png
+   8. https://en.wikipedia.org/wiki/Video_game_developer
+   9. https://www.ssbwiki.com/Bandai_Namco
+  10. https://www.ssbwiki.com/Sora_Ltd.
+  11. https://en.wikipedia.org/wiki/Video_game_publisher
+  12. https://www.ssbwiki.com/Nintendo
+  13. https://en.wikipedia.org/wiki/Game_designer
+  14. https://www.ssbwiki.com/Masahiro_Sakurai
+  15. https://en.wikipedia.org/wiki/Game_engine
+  16. https://www.ssbwiki.com/Havok_(company/engine)
+  17. https://www.ssbwiki.com/File:Flag_of_North_America.png
+  18. https://www.ssbwiki.com/File:Flag_of_Europe.png
+  19. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U#cite_note-1
+  20. https://www.ssbwiki.com/File:Flag_of_South_Africa.png
+  21. https://www.ssbwiki.com/File:Flag_of_Australia.png
+  22. https://www.ssbwiki.com/File:Flag_of_Japan.png
+  23. https://en.wikipedia.org/wiki/Video_game_genres
+  24. https://en.wikipedia.org/wiki/Fighting_game
+  25. https://en.wikipedia.org/wiki/Platform_game
+  26. https://en.wikipedia.org/wiki/Video_game_content_rating_system
+  27. https://www.ssbwiki.com/Super_Smash_Bros._(series)
+  28. https://www.ssbwiki.com/Super_Smash_Bros._4
+  29. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+  30. https://www.ssbwiki.com/Wii_U
+  31. https://www.ssbwiki.com/Controller
+  32. https://www.ssbwiki.com/Wii_U_GamePad
+  33. https://www.ssbwiki.com/Wii_U_Pro_Controller
+  34. https://www.ssbwiki.com/GameCube_controller
+  35. https://www.ssbwiki.com/Nintendo_3DS
+  36. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+  37. https://www.ssbwiki.com/Smash_Controller
+  38. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U#Opening_movie
+  39. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U#Content
+  40. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U#Characters
+  41. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U#Multiplayer_stages
+  42. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U#Single-player_modes
+  43. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U#Multiplayer_modes
+  44. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U#Features_of_the_Wii_U_version
+  45. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U#Demo
+  46. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U#Gallery
+  47. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U#Trivia
+  48. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U#References
+  49. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._for_Wii_U&action=edit&section=1
+  50. https://www.ssbwiki.com/Opening_movie
+  51. https://www.ssbwiki.com/List_of_Super_Smash_Bros._4_character_trailers
+  52. https://www.ssbwiki.com/Duck_Hunt
+  53. https://www.youtube.com/embed/jEg86qr9Y14?
+  54. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._for_Wii_U&action=edit&section=2
+  55. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._for_Wii_U&action=edit&section=3
+  56. https://www.ssbwiki.com/Mario_(SSB4)
+  57. https://www.ssbwiki.com/Mario_(SSB4)
+  58. https://www.ssbwiki.com/Mario_(universe)
+  59. https://www.ssbwiki.com/Luigi_(SSB4)
+  60. https://www.ssbwiki.com/Luigi_(SSB4)
+  61. https://www.ssbwiki.com/Mario_(universe)
+  62. https://www.ssbwiki.com/Peach_(SSB4)
+  63. https://www.ssbwiki.com/Peach_(SSB4)
+  64. https://www.ssbwiki.com/Mario_(universe)
+  65. https://www.ssbwiki.com/Bowser_(SSB4)
+  66. https://www.ssbwiki.com/Bowser_(SSB4)
+  67. https://www.ssbwiki.com/Mario_(universe)
+  68. https://www.ssbwiki.com/Dr._Mario_(SSB4)
+  69. https://www.ssbwiki.com/Dr._Mario_(SSB4)
+  70. https://www.ssbwiki.com/Mario_(universe)
+  71. https://www.ssbwiki.com/Yoshi_(SSB4)
+  72. https://www.ssbwiki.com/Yoshi_(SSB4)
+  73. https://www.ssbwiki.com/Yoshi_(universe)
+  74. https://www.ssbwiki.com/Donkey_Kong_(SSB4)
+  75. https://www.ssbwiki.com/Donkey_Kong_(SSB4)
+  76. https://www.ssbwiki.com/Donkey_Kong_(universe)
+  77. https://www.ssbwiki.com/Diddy_Kong_(SSB4)
+  78. https://www.ssbwiki.com/Diddy_Kong_(SSB4)
+  79. https://www.ssbwiki.com/Donkey_Kong_(universe)
+  80. https://www.ssbwiki.com/Link_(SSB4)
+  81. https://www.ssbwiki.com/Link_(SSB4)
+  82. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+  83. https://www.ssbwiki.com/Zelda_(SSB4)
+  84. https://www.ssbwiki.com/Zelda_(SSB4)
+  85. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+  86. https://www.ssbwiki.com/Sheik_(SSB4)
+  87. https://www.ssbwiki.com/Sheik_(SSB4)
+  88. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+  89. https://www.ssbwiki.com/Ganondorf_(SSB4)
+  90. https://www.ssbwiki.com/Ganondorf_(SSB4)
+  91. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+  92. https://www.ssbwiki.com/Toon_Link_(SSB4)
+  93. https://www.ssbwiki.com/Toon_Link_(SSB4)
+  94. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+  95. https://www.ssbwiki.com/Samus_(SSB4)
+  96. https://www.ssbwiki.com/Samus_(SSB4)
+  97. https://www.ssbwiki.com/Metroid_(universe)
+  98. https://www.ssbwiki.com/Zero_Suit_Samus_(SSB4)
+  99. https://www.ssbwiki.com/Zero_Suit_Samus_(SSB4)
+ 100. https://www.ssbwiki.com/Metroid_(universe)
+ 101. https://www.ssbwiki.com/Kirby_(SSB4)
+ 102. https://www.ssbwiki.com/Kirby_(SSB4)
+ 103. https://www.ssbwiki.com/Kirby_(universe)
+ 104. https://www.ssbwiki.com/Meta_Knight_(SSB4)
+ 105. https://www.ssbwiki.com/Meta_Knight_(SSB4)
+ 106. https://www.ssbwiki.com/Kirby_(universe)
+ 107. https://www.ssbwiki.com/King_Dedede_(SSB4)
+ 108. https://www.ssbwiki.com/King_Dedede_(SSB4)
+ 109. https://www.ssbwiki.com/Kirby_(universe)
+ 110. https://www.ssbwiki.com/Fox_(SSB4)
+ 111. https://www.ssbwiki.com/Fox_(SSB4)
+ 112. https://www.ssbwiki.com/Star_Fox_(universe)
+ 113. https://www.ssbwiki.com/Falco_(SSB4)
+ 114. https://www.ssbwiki.com/Falco_(SSB4)
+ 115. https://www.ssbwiki.com/Star_Fox_(universe)
+ 116. https://www.ssbwiki.com/Pikachu_(SSB4)
+ 117. https://www.ssbwiki.com/Pikachu_(SSB4)
+ 118. https://www.ssbwiki.com/Pokémon_(universe)
+ 119. https://www.ssbwiki.com/Jigglypuff_(SSB4)
+ 120. https://www.ssbwiki.com/Jigglypuff_(SSB4)
+ 121. https://www.ssbwiki.com/Pokémon_(universe)
+ 122. https://www.ssbwiki.com/Mewtwo_(SSB4)
+ 123. https://www.ssbwiki.com/Mewtwo_(SSB4)
+ 124. https://www.ssbwiki.com/Pokémon_(universe)
+ 125. https://www.ssbwiki.com/Charizard_(SSB4)
+ 126. https://www.ssbwiki.com/Charizard_(SSB4)
+ 127. https://www.ssbwiki.com/Pokémon_(universe)
+ 128. https://www.ssbwiki.com/Lucario_(SSB4)
+ 129. https://www.ssbwiki.com/Lucario_(SSB4)
+ 130. https://www.ssbwiki.com/Pokémon_(universe)
+ 131. https://www.ssbwiki.com/Captain_Falcon_(SSB4)
+ 132. https://www.ssbwiki.com/Captain_Falcon_(SSB4)
+ 133. https://www.ssbwiki.com/F-Zero_(universe)
+ 134. https://www.ssbwiki.com/Ness_(SSB4)
+ 135. https://www.ssbwiki.com/Ness_(SSB4)
+ 136. https://www.ssbwiki.com/EarthBound_(universe)
+ 137. https://www.ssbwiki.com/Lucas_(SSB4)
+ 138. https://www.ssbwiki.com/Lucas_(SSB4)
+ 139. https://www.ssbwiki.com/EarthBound_(universe)
+ 140. https://www.ssbwiki.com/Marth_(SSB4)
+ 141. https://www.ssbwiki.com/Marth_(SSB4)
+ 142. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 143. https://www.ssbwiki.com/Roy_(SSB4)
+ 144. https://www.ssbwiki.com/Roy_(SSB4)
+ 145. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 146. https://www.ssbwiki.com/Ike_(SSB4)
+ 147. https://www.ssbwiki.com/Ike_(SSB4)
+ 148. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 149. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSB4)
+ 150. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSB4)
+ 151. https://www.ssbwiki.com/Game_&_Watch_(universe)
+ 152. https://www.ssbwiki.com/Pit_(SSB4)
+ 153. https://www.ssbwiki.com/Pit_(SSB4)
+ 154. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 155. https://www.ssbwiki.com/Wario_(SSB4)
+ 156. https://www.ssbwiki.com/Wario_(SSB4)
+ 157. https://www.ssbwiki.com/Wario_(universe)
+ 158. https://www.ssbwiki.com/Olimar_(SSB4)
+ 159. https://www.ssbwiki.com/Olimar_(SSB4)
+ 160. https://www.ssbwiki.com/Pikmin_(universe)
+ 161. https://www.ssbwiki.com/R.O.B._(SSB4)
+ 162. https://www.ssbwiki.com/R.O.B._(SSB4)
+ 163. https://www.ssbwiki.com/R.O.B._(universe)
+ 164. https://www.ssbwiki.com/Sonic_(SSB4)
+ 165. https://www.ssbwiki.com/Sonic_(SSB4)
+ 166. https://www.ssbwiki.com/Sonic_(universe)
+ 167. https://www.ssbwiki.com/Rosalina_&_Luma_(SSB4)
+ 168. https://www.ssbwiki.com/Rosalina_&_Luma_(SSB4)
+ 169. https://www.ssbwiki.com/Mario_(universe)
+ 170. https://www.ssbwiki.com/Bowser_Jr._(SSB4)
+ 171. https://www.ssbwiki.com/Bowser_Jr._(SSB4)
+ 172. https://www.ssbwiki.com/Mario_(universe)
+ 173. https://www.ssbwiki.com/Greninja_(SSB4)
+ 174. https://www.ssbwiki.com/Greninja_(SSB4)
+ 175. https://www.ssbwiki.com/Pokémon_(universe)
+ 176. https://www.ssbwiki.com/Robin_(SSB4)
+ 177. https://www.ssbwiki.com/Robin_(SSB4)
+ 178. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 179. https://www.ssbwiki.com/Lucina_(SSB4)
+ 180. https://www.ssbwiki.com/Lucina_(SSB4)
+ 181. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 182. https://www.ssbwiki.com/Corrin_(SSB4)
+ 183. https://www.ssbwiki.com/Corrin_(SSB4)
+ 184. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 185. https://www.ssbwiki.com/Palutena_(SSB4)
+ 186. https://www.ssbwiki.com/Palutena_(SSB4)
+ 187. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 188. https://www.ssbwiki.com/Dark_Pit_(SSB4)
+ 189. https://www.ssbwiki.com/Dark_Pit_(SSB4)
+ 190. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 191. https://www.ssbwiki.com/Villager_(SSB4)
+ 192. https://www.ssbwiki.com/Villager_(SSB4)
+ 193. https://www.ssbwiki.com/Animal_Crossing_(universe)
+ 194. https://www.ssbwiki.com/Little_Mac_(SSB4)
+ 195. https://www.ssbwiki.com/Little_Mac_(SSB4)
+ 196. https://www.ssbwiki.com/Punch-Out!!_(universe)
+ 197. https://www.ssbwiki.com/Wii_Fit_Trainer_(SSB4)
+ 198. https://www.ssbwiki.com/Wii_Fit_Trainer_(SSB4)
+ 199. https://www.ssbwiki.com/Wii_Fit_(universe)
+ 200. https://www.ssbwiki.com/Shulk_(SSB4)
+ 201. https://www.ssbwiki.com/Shulk_(SSB4)
+ 202. https://www.ssbwiki.com/Xenoblade_(universe)
+ 203. https://www.ssbwiki.com/Duck_Hunt_(SSB4)
+ 204. https://www.ssbwiki.com/Duck_Hunt_(SSB4)
+ 205. https://www.ssbwiki.com/Duck_Hunt_(universe)
+ 206. https://www.ssbwiki.com/Mega_Man_(SSB4)
+ 207. https://www.ssbwiki.com/Mega_Man_(SSB4)
+ 208. https://www.ssbwiki.com/Mega_Man_(universe)
+ 209. https://www.ssbwiki.com/Pac-Man_(SSB4)
+ 210. https://www.ssbwiki.com/Pac-Man_(SSB4)
+ 211. https://www.ssbwiki.com/Pac-Man_(universe)
+ 212. https://www.ssbwiki.com/Ryu_(SSB4)
+ 213. https://www.ssbwiki.com/Ryu_(SSB4)
+ 214. https://www.ssbwiki.com/Street_Fighter_(universe)
+ 215. https://www.ssbwiki.com/Cloud_(SSB4)
+ 216. https://www.ssbwiki.com/Cloud_(SSB4)
+ 217. https://www.ssbwiki.com/Final_Fantasy_(universe)
+ 218. https://www.ssbwiki.com/Bayonetta_(SSB4)
+ 219. https://www.ssbwiki.com/Bayonetta_(SSB4)
+ 220. https://www.ssbwiki.com/Bayonetta_(universe)
+ 221. https://www.ssbwiki.com/Mii_Brawler_(SSB4)
+ 222. https://www.ssbwiki.com/Mii_Brawler_(SSB4)
+ 223. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 224. https://www.ssbwiki.com/Mii_Swordfighter_(SSB4)
+ 225. https://www.ssbwiki.com/Mii_Swordfighter_(SSB4)
+ 226. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 227. https://www.ssbwiki.com/Mii_Gunner_(SSB4)
+ 228. https://www.ssbwiki.com/Mii_Gunner_(SSB4)
+ 229. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 230. https://www.ssbwiki.com/Unlockable_character#Super_Smash_Bros._for_Wii_U
+ 231. https://www.ssbwiki.com/Unlockable_character#Super_Smash_Bros._for_Nintendo_3DS
+ 232. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._for_Wii_U&action=edit&section=4
+ 233. https://www.ssbwiki.com/DLC
+ 234. https://www.ssbwiki.com/Battlefield_(SSB4)
+ 235. https://www.ssbwiki.com/Battlefield_(SSB4)
+ 236. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 237. https://www.ssbwiki.com/Big_Battlefield
+ 238. https://www.ssbwiki.com/Big_Battlefield
+ 239. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 240. https://www.ssbwiki.com/Final_Destination_(SSB4)
+ 241. https://www.ssbwiki.com/Final_Destination_(SSB4)
+ 242. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 243. https://www.ssbwiki.com/Mario_Galaxy
+ 244. https://www.ssbwiki.com/Mario_Galaxy
+ 245. https://www.ssbwiki.com/Mario_(universe)
+ 246. https://www.ssbwiki.com/Mushroom_Kingdom_U
+ 247. https://www.ssbwiki.com/Mushroom_Kingdom_U
+ 248. https://www.ssbwiki.com/Mario_(universe)
+ 249. https://www.ssbwiki.com/Mario_Circuit_(SSB4)
+ 250. https://www.ssbwiki.com/Mario_Circuit_(SSB4)
+ 251. https://www.ssbwiki.com/Mario_(universe)
+ 252. https://www.ssbwiki.com/Super_Mario_Maker
+ 253. https://www.ssbwiki.com/Super_Mario_Maker
+ 254. https://www.ssbwiki.com/Mario_(universe)
+ 255. https://www.ssbwiki.com/Peach's_Castle
+ 256. https://www.ssbwiki.com/Super_Smash_Bros.
+ 257. https://www.ssbwiki.com/Peach's_Castle
+ 258. https://www.ssbwiki.com/Mario_(universe)
+ 259. https://www.ssbwiki.com/Delfino_Plaza
+ 260. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 261. https://www.ssbwiki.com/Delfino_Plaza
+ 262. https://www.ssbwiki.com/Mario_(universe)
+ 263. https://www.ssbwiki.com/Luigi's_Mansion
+ 264. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 265. https://www.ssbwiki.com/Luigi's_Mansion
+ 266. https://www.ssbwiki.com/Mario_(universe)
+ 267. https://www.ssbwiki.com/Mario_Circuit_(SSBB)
+ 268. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 269. https://www.ssbwiki.com/Mario_Circuit_(SSBB)
+ 270. https://www.ssbwiki.com/Mario_(universe)
+ 271. https://www.ssbwiki.com/Woolly_World
+ 272. https://www.ssbwiki.com/Woolly_World
+ 273. https://www.ssbwiki.com/Yoshi_(universe)
+ 274. https://www.ssbwiki.com/Yoshi's_Island_(SSBM)
+ 275. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 276. https://www.ssbwiki.com/Yoshi's_Island_(SSBM)
+ 277. https://www.ssbwiki.com/Yoshi_(universe)
+ 278. https://www.ssbwiki.com/Jungle_Hijinxs
+ 279. https://www.ssbwiki.com/Jungle_Hijinxs
+ 280. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 281. https://www.ssbwiki.com/Kongo_Jungle_(SSB)
+ 282. https://www.ssbwiki.com/Super_Smash_Bros.
+ 283. https://www.ssbwiki.com/Kongo_Jungle_64
+ 284. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 285. https://www.ssbwiki.com/75m
+ 286. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 287. https://www.ssbwiki.com/75m
+ 288. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 289. https://www.ssbwiki.com/Skyloft
+ 290. https://www.ssbwiki.com/Skyloft
+ 291. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 292. https://www.ssbwiki.com/Hyrule_Castle
+ 293. https://www.ssbwiki.com/Super_Smash_Bros.
+ 294. https://www.ssbwiki.com/Hyrule_Castle
+ 295. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 296. https://www.ssbwiki.com/Temple
+ 297. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 298. https://www.ssbwiki.com/Temple
+ 299. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 300. https://www.ssbwiki.com/Bridge_of_Eldin
+ 301. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 302. https://www.ssbwiki.com/Bridge_of_Eldin
+ 303. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 304. https://www.ssbwiki.com/Pirate_Ship
+ 305. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 306. https://www.ssbwiki.com/Pirate_Ship
+ 307. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 308. https://www.ssbwiki.com/Pyrosphere
+ 309. https://www.ssbwiki.com/Pyrosphere
+ 310. https://www.ssbwiki.com/Metroid_(universe)
+ 311. https://www.ssbwiki.com/Norfair
+ 312. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 313. https://www.ssbwiki.com/Norfair
+ 314. https://www.ssbwiki.com/Metroid_(universe)
+ 315. https://www.ssbwiki.com/The_Great_Cave_Offensive
+ 316. https://www.ssbwiki.com/The_Great_Cave_Offensive
+ 317. https://www.ssbwiki.com/Kirby_(universe)
+ 318. https://www.ssbwiki.com/Dream_Land_(SSB)
+ 319. https://www.ssbwiki.com/Super_Smash_Bros.
+ 320. https://www.ssbwiki.com/Dream_Land_(SSB)
+ 321. https://www.ssbwiki.com/Kirby_(universe)
+ 322. https://www.ssbwiki.com/Halberd
+ 323. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 324. https://www.ssbwiki.com/Halberd
+ 325. https://www.ssbwiki.com/Kirby_(universe)
+ 326. https://www.ssbwiki.com/Orbital_Gate_Assault
+ 327. https://www.ssbwiki.com/Orbital_Gate_Assault
+ 328. https://www.ssbwiki.com/Star_Fox_(universe)
+ 329. https://www.ssbwiki.com/Lylat_Cruise
+ 330. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 331. https://www.ssbwiki.com/Lylat_Cruise
+ 332. https://www.ssbwiki.com/Star_Fox_(universe)
+ 333. https://www.ssbwiki.com/Kalos_Pokémon_League
+ 334. https://www.ssbwiki.com/Kalos_Pokémon_League
+ 335. https://www.ssbwiki.com/Pokémon_(universe)
+ 336. https://www.ssbwiki.com/Pokémon_Stadium_2
+ 337. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 338. https://www.ssbwiki.com/Pokémon_Stadium_2
+ 339. https://www.ssbwiki.com/Pokémon_(universe)
+ 340. https://www.ssbwiki.com/Port_Town_Aero_Dive
+ 341. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 342. https://www.ssbwiki.com/Port_Town_Aero_Dive
+ 343. https://www.ssbwiki.com/F-Zero_(universe)
+ 344. https://www.ssbwiki.com/Onett
+ 345. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 346. https://www.ssbwiki.com/Onett
+ 347. https://www.ssbwiki.com/EarthBound_(universe)
+ 348. https://www.ssbwiki.com/Coliseum
+ 349. https://www.ssbwiki.com/Coliseum
+ 350. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 351. https://www.ssbwiki.com/Castle_Siege
+ 352. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 353. https://www.ssbwiki.com/Castle_Siege
+ 354. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 355. https://www.ssbwiki.com/Flat_Zone_X
+ 356. https://www.ssbwiki.com/Flat_Zone_X
+ 357. https://www.ssbwiki.com/Game_&_Watch_(universe)
+ 358. https://www.ssbwiki.com/Palutena's_Temple
+ 359. https://www.ssbwiki.com/Palutena's_Temple
+ 360. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 361. https://www.ssbwiki.com/Skyworld
+ 362. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 363. https://www.ssbwiki.com/Skyworld
+ 364. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 365. https://www.ssbwiki.com/Gamer
+ 366. https://www.ssbwiki.com/Gamer
+ 367. https://www.ssbwiki.com/Wario_(universe)
+ 368. https://www.ssbwiki.com/Garden_of_Hope
+ 369. https://www.ssbwiki.com/Garden_of_Hope
+ 370. https://www.ssbwiki.com/Pikmin_(universe)
+ 371. https://www.ssbwiki.com/Town_and_City
+ 372. https://www.ssbwiki.com/Town_and_City
+ 373. https://www.ssbwiki.com/Animal_Crossing_(universe)
+ 374. https://www.ssbwiki.com/Smashville
+ 375. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 376. https://www.ssbwiki.com/Smashville
+ 377. https://www.ssbwiki.com/Animal_Crossing_(universe)
+ 378. https://www.ssbwiki.com/Boxing_Ring
+ 379. https://www.ssbwiki.com/Boxing_Ring
+ 380. https://www.ssbwiki.com/Punch-Out!!_(universe)
+ 381. https://www.ssbwiki.com/Wii_Fit_Studio
+ 382. https://www.ssbwiki.com/Wii_Fit_Studio
+ 383. https://www.ssbwiki.com/Wii_Fit_(universe)
+ 384. https://www.ssbwiki.com/Gaur_Plain
+ 385. https://www.ssbwiki.com/Gaur_Plain
+ 386. https://www.ssbwiki.com/Xenoblade_(universe)
+ 387. https://www.ssbwiki.com/Duck_Hunt_(stage)
+ 388. https://www.ssbwiki.com/Duck_Hunt_(stage)
+ 389. https://www.ssbwiki.com/Duck_Hunt_(universe)
+ 390. https://www.ssbwiki.com/Wrecking_Crew
+ 391. https://www.ssbwiki.com/Wrecking_Crew
+ 392. https://www.ssbwiki.com/Wrecking_Crew_(universe)
+ 393. https://www.ssbwiki.com/Pilotwings
+ 394. https://www.ssbwiki.com/Pilotwings
+ 395. https://www.ssbwiki.com/Pilotwings_(universe)
+ 396. https://www.ssbwiki.com/Wuhu_Island
+ 397. https://www.ssbwiki.com/Wuhu_Island
+ 398. https://www.ssbwiki.com/Wii_Sports_(universe)
+ 399. https://www.ssbwiki.com/Miiverse
+ 400. https://www.ssbwiki.com/Miiverse
+ 401. https://www.ssbwiki.com/Miiverse_(universe)
+ 402. https://www.ssbwiki.com/Windy_Hill_Zone
+ 403. https://www.ssbwiki.com/Windy_Hill_Zone
+ 404. https://www.ssbwiki.com/Sonic_(universe)
+ 405. https://www.ssbwiki.com/Wily_Castle
+ 406. https://www.ssbwiki.com/Wily_Castle
+ 407. https://www.ssbwiki.com/Mega_Man_(universe)
+ 408. https://www.ssbwiki.com/Pac-Land
+ 409. https://www.ssbwiki.com/Pac-Land
+ 410. https://www.ssbwiki.com/Pac-Man_(universe)
+ 411. https://www.ssbwiki.com/Suzaku_Castle
+ 412. https://www.ssbwiki.com/Suzaku_Castle
+ 413. https://www.ssbwiki.com/Street_Fighter_(universe)
+ 414. https://www.ssbwiki.com/Midgar
+ 415. https://www.ssbwiki.com/Midgar
+ 416. https://www.ssbwiki.com/Final_Fantasy_(universe)
+ 417. https://www.ssbwiki.com/Umbra_Clock_Tower
+ 418. https://www.ssbwiki.com/Umbra_Clock_Tower
+ 419. https://www.ssbwiki.com/Bayonetta_(universe)
+ 420. https://www.ssbwiki.com/Unlockable_stage#Super_Smash_Bros._for_Wii_U
+ 421. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._for_Wii_U&action=edit&section=5
+ 422. https://www.ssbwiki.com/Classic_Mode_(SSB4-Wii_U)
+ 423. https://www.ssbwiki.com/All-Star_Mode
+ 424. https://www.ssbwiki.com/Special_Orders
+ 425. https://www.ssbwiki.com/Master_Orders
+ 426. https://www.ssbwiki.com/Crazy_Orders
+ 427. https://www.ssbwiki.com/Event_Mode
+ 428. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._for_Wii_U&action=edit&section=6
+ 429. https://www.ssbwiki.com/VS_Mode
+ 430. https://www.ssbwiki.com/Smash_Tour
+ 431. https://www.ssbwiki.com/8-Player_Smash
+ 432. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._for_Wii_U&action=edit&section=7
+ 433. https://www.ssbwiki.com/Amiibo
+ 434. https://en.wikipedia.org/wiki/near_field_communication
+ 435. https://www.ssbwiki.com/AI
+ 436. https://www.ssbwiki.com/Character_customization
+ 437. https://www.ssbwiki.com/Trophy
+ 438. https://www.ssbwiki.com/My_Music
+ 439. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 440. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._for_Wii_U&action=edit&section=8
+ 441. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._for_Wii_U&action=edit&section=9
+ 442. https://www.ssbwiki.com/Smash_Controller
+ 443. https://www.ssbwiki.com/Title_screen
+ 444. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._for_Wii_U&action=edit&section=10
+ 445. http://www.gamespot.com/articles/super-smash-bros-breaks-wii-u-sales-records/1100-6423811/
+ 446. https://www.mariowiki.com/Mario_Kart_8
+ 447. https://en.wikipedia.org/wiki/Amazon.com
+ 448. http://arcadesushi.com/wii-u-gamecube-adapters-sold-out-everywhere-online-prices-skyrocket/
+ 449. https://www.ssbwiki.com/Super_Smash_Bros.
+ 450. https://www.ssbwiki.com/Starter_character
+ 451. https://www.ssbwiki.com/Satoru_Iwata
+ 452. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 453. https://www.ssbwiki.com/Super_Smash_Bros.
+ 454. https://www.ssbwiki.com/F-Zero_(universe)
+ 455. https://www.ssbwiki.com/EarthBound_(universe)
+ 456. https://www.ssbwiki.com/Star_KO
+ 457. https://www.ssbwiki.com/Sound_Test
+ 458. https://www.ssbwiki.com/Pokémon_(universe)
+ 459. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 460. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._for_Wii_U&action=edit&section=11
+ 461. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U#cite_ref-1
+ 462. https://www.facebook.com/WiiUItalia/posts/697289303700437
+ 463. https://www.ssbwiki.com/Template:SSBSeries
+ 464. https://www.ssbwiki.com/Template_talk:SSBSeries
+ 465. https://www.ssbwiki.com/index.php?title=Template:SSBSeries&action=edit
+ 466. https://www.ssbwiki.com/Super_Smash_Bros._(series)
+ 467. https://www.ssbwiki.com/Super_Smash_Bros.
+ 468. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 469. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 470. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 471. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 472. https://www.ssbwiki.com/Smash_Controller
+ 473. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 474. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._for_Wii_U&oldid=1176815
+ 475. https://www.ssbwiki.com/Special:Categories
+ 476. https://www.ssbwiki.com/Category:Games
+ 477. https://www.ssbwiki.com/Category:Super_Smash_Bros._4
+ 478. https://www.ssbwiki.com/Category:Super_Smash_Bros._universe
+ 479. https://www.ssbwiki.com/Category:Wii_U
+ 480. https://www.ssbwiki.com/Category:Super_Smash_Bros._series
+ 481. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 482. https://www.ssbwiki.com/Talk:Super_Smash_Bros._for_Wii_U
+ 483. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._for_Wii_U&action=edit
+ 484. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._for_Wii_U&action=history
+ 485. https://www.ssbwiki.com/Special:MyTalk
+ 486. https://www.ssbwiki.com/Special:MyContributions
+ 487. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=Super+Smash+Bros.+for+Wii+U
+ 488. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=Super+Smash+Bros.+for+Wii+U
+ 489. https://www.ssbwiki.com/Main_Page
+ 490. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 491. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 492. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 493. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 494. https://www.ssbwiki.com/Super_Smash_Bros.
+ 495. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+ 496. https://www.ssbwiki.com/Stage
+ 497. https://www.ssbwiki.com/Mode
+ 498. https://www.ssbwiki.com/Item
+ 499. https://www.ssbwiki.com/Special:Random
+ 500. https://www.ssbwiki.com/Forum:Index
+ 501. https://www.ssbwiki.com/SmashWiki:Community_portal
+ 502. https://www.ssbwiki.com/Special:RecentChanges
+ 503. https://www.ssbwiki.com/Help:Contents
+ 504. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
+ 505. https://www.ssbwiki.com/SmashWiki:Discord_server
+ 506. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
+ 507. https://www.ssbwiki.com/Special:WhatLinksHere/Super_Smash_Bros._for_Wii_U
+ 508. https://www.ssbwiki.com/Special:RecentChangesLinked/Super_Smash_Bros._for_Wii_U
+ 509. https://www.ssbwiki.com/Special:SpecialPages
+ 510. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._for_Wii_U&printable=yes
+ 511. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._for_Wii_U&oldid=1176815
+ 512. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._for_Wii_U&action=info
+ 513. https://es.ssbwiki.com/wiki/Super_Smash_Bros._para_Wii_U
+ 514. https://creativecommons.org/licenses/by-sa/3.0/
+ 515. https://www.mediawiki.org/
+ 516. https://creativecommons.org/licenses/by-sa/3.0/
+ 517. https://www.porplemontage.com/privacy
+ 518. https://www.ssbwiki.com/SmashWiki:About
+ 519. https://www.ssbwiki.com/SmashWiki:General_disclaimer
+ 520. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._for_Wii_U&mobileaction=toggle_view_mobile
+
+   Hidden links:
+ 522. https://www.ssbwiki.com/File:Wii_U_Main_Menu.jpg
+ 523. https://www.ssbwiki.com/File:Wii_U_Main_Menu.jpg
+ 524. https://www.ssbwiki.com/File:3DS_Menu_Jingle.ogg
+ 525. https://www.ssbwiki.com/File:SSB_Wii_U_logo.png
+ 526. https://www.ssbwiki.com/File:SmashWiiUTitle1.1.7.jpg
+ 527. https://www.ssbwiki.com/File:CompleteSmashWiiUBoxArt.jpg
+ 528. https://www.ssbwiki.com/Main_Page

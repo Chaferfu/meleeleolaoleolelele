@@ -1,0 +1,1179 @@
+   #[1]Edit this page [2]SmashWiki (en) [3]SmashWiki Atom feed
+
+Mario (SSBM)
+
+   From SmashWiki, the Super Smash Bros. wiki
+   Jump to:[4]navigation, [5]search
+   [6]SSBM Icon.png
+
+          This article is about Mario's appearance in Super Smash Bros. Melee. For the [7]clone of Mario, see [8]Dr. Mario; and for the semi-clone of Mario, see [9]Luigi, and for the character in other contexts, see [10]Mario.
+
+   Mario
+   in [11]Super Smash Bros. Melee
+   [12]Mario SSBM.jpg
+   [13]MarioSymbol(preBrawl).svg
+   [14]Universe [15]Mario
+   Other Smash Bros. appearances [16]in SSB
+   [17]in Brawl
+   [18]in SSB4
+   [19]in Ultimate
+   Availability [20]Starter
+   [21]Tier E (15) (North America)
+   E (15) (Europe)
+   [22]MarioHeadSSBM.png
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      “ A well-rounded hero who boasts a balance between offense and defence.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ”
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         —Description from Melee's manual.
+
+   Mario (マリオ, Mario) returns as a [23]starter character in [24]Super Smash Bros. Melee. He was announced at [25]E3 2001. He also has a [26]clone, [27]Dr. Mario, whom with he shares a lot of attributes and special moves. He is voiced once again by Charles Martinet, albeit via recycled voice clips from [28]Smash 64.
+
+   Mario is ranked 15th out of 26 on the current tier list, placing him in the E tier. This is very similar to his previous ranking in Smash 64, where he is ranked 7th out of 12. It also places him four places lower than his clone [29]Dr. Mario at 11th place and two places lower than his younger brother [30]Luigi. Like in Smash 64, Mario acts as a well-rounded character, with average attributes across the board. He has above average comboing ability due to the somewhat low knockback and the angles at which his moves tend to send on, and a very versatile grab game: his powerful back throw can KO most opponents with ease and [31]gimp some recoveries, while his up and down throws can [32]chain-grab. Mario also has a solid [33]edge-guarding game, with a solid projectile in his [34]Fireball, and his [35]Cape which can easily and efficiently gimp almost every other character's recovery. Mario, however, lacks a reliable finisher, with many moves with aforementioned low knockback with the exception of
+   his forward and down smash. His recovery is also predictable and short, though he can extend it, which leaves him vulnerable to being gimped by characters such as [36]Jigglypuff. His mediocre range also leaves him with trouble against characters with disjointed hitboxes such as [37]Marth. Overall, Mario has average matchups in tournament play, with favorable matchups against most lower tiered characters though having disadvantageous matchups against higher tiered characters, especially against those who can either gimp or outrange him.
+
+Contents
+
+     * [38]1 Attributes
+     * [39]2 Changes from Smash 64
+          + [40]2.1 Aesthetics
+          + [41]2.2 Attributes
+          + [42]2.3 Ground attacks
+          + [43]2.4 Aerial attacks
+          + [44]2.5 Grabs and throws
+          + [45]2.6 Special moves
+          + [46]2.7 PAL differences
+     * [47]3 Moveset
+          + [48]3.1 Taunt
+          + [49]3.2 Idle pose
+          + [50]3.3 Crowd cheer
+          + [51]3.4 Victory poses
+     * [52]4 In Competitive play
+          + [53]4.1 Matchups
+          + [54]4.2 Notable players
+               o [55]4.2.1 Active
+               o [56]4.2.2 Inactive
+          + [57]4.3 Tier placement and history
+     * [58]5 In 1-P Mode
+          + [59]5.1 Classic Mode
+          + [60]5.2 Adventure Mode
+          + [61]5.3 All-Star Mode
+          + [62]5.4 Event Matches
+          + [63]5.5 Ending Images
+     * [64]6 Trophy descriptions
+     * [65]7 Alternate costumes
+     * [66]8 Gallery
+     * [67]9 Trivia
+
+Attributes[[68]edit]
+
+   Mario using his various recovery options to recover onto the stage. This is a [69]TAS clip from [70]Perfect Control.
+
+   As a character, Mario falls under the archetype of being of an all-rounder character, with no particularly strong or weak traits; indeed, in terms of [71]weight, [72]falling speed, [73]air speed, size, and [74]dash speed, Mario tends to fall in the middle of these attributes.
+
+   One of Mario's strengths is his rather good combo ability. While not having an extremely high air or falling speed, Mario can easily and efficiently combo most other characters in the air; Mario has plenty of low lag and low knockback aerials, and the addition of a long [75]wavedash and fast ground attacks give Mario plenty of combo potential. Mario also has a good [76]SHFFL.
+
+   Mario also has an above average approach. Despite an only average air speed and dashing speed, Mario still has good options for getting closer to opponents. His Fireballs have good range and can disrupt opponents at a distance; differing terrains such as slopes and platforms can also give the Fireball many options. Mario, due to his average attributes in traction and falling speed, has a rather long and floaty wavedash; coupled with decently ranged smash attacks, Mario has good wavesmashing abilities.
+
+   Mario is also a surprisingly good edgeguarder. He has a [77]meteor smash in his forward aerial, albeit it having high [78]startup and [79]ending lag and not being too powerful, and his back aerial sends opponents on a decent angle for edgeguarding. Mario's Fireballs can also [80]gimp recoveries; its low knockback makes it effective in the regard. Most notably, however, Mario has what is likely the absolute best edgeguarding weapon in all the game: his [81]Cape. When used, it can effectively and quickly gimp almost every recovery in the game; it's especially useful against linear recoveries, such as Fox's [82]Fire Fox or Luigi's [83]Green Missile.
+
+   Mario also has a surprisingly good grab game. Despite a rather poor grab range, Mario's throws are notable for their versatility; his forward and back throws can easily set up gimp KOs, especially the latter, while his up and down throws can act as combo starters, as well as very effective chain grabs: Mario's up throw can chain grab fast fallers such as [84]Fox, [85]Falco, and [86]Captain Falcon, while his down throw can chain grab heavy characters, as well as being able to chain grab [87]Pikachu and [88]Pichu up to high percents, if not to a KO.
+
+   Mario, however, suffers from some KOing problems. He lacks particularly powerful or reliable finishers; while his forward smash has good range, coupled with a very visible and easy to land sweetspot, his other smashes are rather short ranged. Additionally, while Mario's back throw is strong, it requires grabbing the opponent first; this can be a challenge, due to Mario's poor grab range. Mario's single meteor smash is also rather unwieldy and risky to use.
+
+   Mario also suffers from a below average recovery. Super Jump Punch only grants average to slightly below average horizontal and vertical distance, while [89]Mario Tornado can only grant vertical distance if the B button is tapped quickly. Mario, however, does have some options to improve his recovery; Mario's Cape can allow him to recover from the sides, and he has the ability to wall-jump, which can act as a help on stages such as Final Destination.
+
+   Overall, Mario could be considered to be a poor-man's Marth. While both characters have great combo ability and a similar recovery, Marth has a much easier time finishing off opponents as well as having longer range in his attacks and his grab range making it much easier for Marth to chain-grab fastfallers compared to Mario.
+
+Changes from Smash 64[[90]edit]
+
+   When making the transition from Smash 64 to Melee, Mario got a mix of [91]buffs and [92]nerfs, but was neither strongly buffed or [93]nerfed. Mario is faster on the ground and he greatly benefits from the introduction of [94]air dodging giving him a solid [95]wavedash which makes his grounded movement much more solid overall. The speed of Mario's attacks has been considerably improved as most of his attacks have decreased ending lag and a decent amount of them have decreased startup lag as well. His edgeguarding has also considerably improved as his back aerial is considerably faster and his up aerial has been retooled to give it more edgeguarding potential. His new side special [96]Cape also gives him a new powerful edgeguarding tool as well as an extra tool for recovering.
+
+   As for his nerfs, Mario's damage output has been decreased and his KO power has been considerably decreased as many of his previous KO moves have been greatly weakened making it far more difficult for Mario to KO his opponents. His strongest KO moves (his forward and down smashes) while faster now have sourspots making them more difficult to use effectively. While Mario has a few new options to recover such as his cape and [97]wall jump, his recovery is overall worse (especially when relative to the cast) as his air speed is slower, he falls faster and his [98]Super Jump Punch travels less distance making him easier to edgeguard.
+
+   Overall, Mario is largely a much weaker character as his damage output is lower, his combo game is weaker in some aspects and many of his previous KO moves can no longer KO under 90-120%. In exchange, his attacks are much faster and his grounded movement has been improved especially due to the introduction of wavedashing. Mario remains in a similar spot on Melee's tier list and he overall struggles against higher tiered characters limiting his success in competitive play.
+
+Aesthetics[[99]edit]
+
+     * Change The higher quality of the [100]Nintendo GameCube console allows for a more detailed appearance of Mario. His physique looks much more similar to its official art, while his red cap and shirt are slightly darker and the seams on his overalls are more accentuated.
+
+Attributes[[101]edit]
+
+     * Buff Mario [102]walks faster (0.3 → 1.1).
+     * Buff Mario [103]dashes faster (44 → 1.5).
+     * Nerf Mario's [104]air speed is slightly slower (30 → 0.86).
+     * Change Mario [105]falls faster (44 → 1.7), improving his vertical endurance but making him easier to combo.
+     * Buff Mario can now [106]wall jump, aiding his recovery.
+     * Buff The introduction of [107]wavedashing improves Mario's movement options.
+     * Change Mario's green palette swap from Smash 64 is now accessible through normal battles instead of just Team Battles.
+     * Change Attacks are generally weaker, albeit faster.
+
+Ground attacks[[108]edit]
+
+     * Buff The first and third hit of [109]neutral attack deal more damage (2%/4% → 3%/5%).
+     * Buff Neutral attack's first and second hits now have [110]set knockback, allowing the third hit to connect reliably. All hits also have less ending lag (frame 18 → 16 (hit 1), frame 20 → 19 (hit 2), frame 26 → 23 (hit 3)).
+     * Change Third hit of neutral attack can now [111]clang.
+     * Nerf The second hit has a shorter duration (frames 3-5 → 3-4) and the final hit has more startup lag (frame 3 → 5). Mario also can no longer cancel the first hit into [112]grab.
+     * Nerf Dash attack (12% (clean), 10% (late) → 9%/7%), all tilt attacks (12%/13%/14% → 8%/9%/10% (forward), 10% (up), 12% (down) → 8% (both)) and up (19% → 15%) and down smash (17% → 16% (front), 10%/12% (back)) all deal less damage.
+     * Buff Dash attack has less startup (frame 8 → 6) and ending lag (frame 41 → 38).
+     * Nerf Dash attack deals lower knockback and its duration is one frame shorter.
+     * Change [113]Dash attack now knocks opponents behind Mario.
+     * Buff [114]Forward tilt has less startup (frame 8 → 5) and ending lag (frame 43 → 33).
+     * Nerf Forward tilt has a much shorter duration (frames 8-17 → 5-7) and down angled forward tilt now has very weak set knockback at the Sakurai angle, making it extremely punishable at any percentage.
+     * Buff [115]Up tilt has less startup (frame 5 → 4) and ending lag (frame 42 → 30) and combos more reliably at lower percentages.
+     * Nerf Up tilt has a shorter duration (frames 5-16 → 4-12).
+     * Buff Down tilt has less ending lag (frame 40 → 35).
+     * Change [116]Down tilt now hits opponents vertically instead of horizontally.
+     * Nerf Down tilt has a shorter duration (frames 5-11 → 5-8).
+     * Buff Mario has a new [117]forward smash in which he extends his palm and produces small explosion from it. It has less startup (frame 16 → 12) and ending lag (frame 54 → 42), deals 1% more damage at the sweetspot, and has more [118]range.
+     * Nerf New forward smash has a sourspot that is much weaker. Its sweetspot deals slightly less knockback as well, despite dealing more damage (30 base/100 growth → 25/95).
+     * Buff [119]Up smash has a new animation; Mario now takes a massive step forward as he leans for the headbutt. This gives it a bit more horizontal range than before.
+     * Buff Up smash has significantly less ending lag (frame 60 → 40).
+     * Nerf Up smash is much weaker (26 (base)/120 (scaling) → 32/97) and deals less damage (19% → 15%), no longer being one of Mario's reliable KO moves and is no longer the strongest up smash (this title now belongs to [120]Pikachu). It also has slightly more start-up and a much shorter hitbox duration (7-15 → 9-11).
+     * Buff [121]Down smash has less startup (frame 8 → 5) and ending lag (frame 45 → 38).
+     * Nerf Down smash deals less knockback (100 (scaling) → 75), When combined with its lower damage output, this greatly hinders its KO potential. The back hit is also drastically weaker than the front hit now.
+
+Aerial attacks[[122]edit]
+
+     * Nerf Forward, up and down aerials [123]auto-cancel later (frame 26 → 28 (forward), frame 11 → 16 (up), frame 32 → 33 (down)). Mario can no longer auto-cancel neutral, forward or down aerials in a short hop which is hindered further by the weakening of [124]L-canceling.
+     * Buff [125]Neutral aerial has much higher knockback scaling an has less ending lag (frame 50 → 46).
+     * Nerf Neutral aerial has a shorter duration (frames 3-36 → 3-32) and deals less damage (14% (clean), 11% (late) → 12%/10%).
+     * Buff New [126]forward aerial is an extended downward punch in front of him. It is a [127]meteor smash and lacks a sourspot.
+     * Nerf New forward aerial has more startup with a shorter duration (frames 11-26 → 18-22) and has more ending lag (frame 40 → 60). It is a less reliable [128]edgeguarding move overall due to the introduction of meteor canceling. It also deals less damage (16% → 15%) and knockback (10 (base), 100 (scaling) → 30/70), and has less combo potential, now being one of the weakest forward aerials, and it also has less range.
+     * Buff [129]Back aerial is more useful for [130]edgeguarding as it has less startup lag with a longer duration (frames 10-19 → 6-17) and ending lag (frame 40 → 29) making it a more effective [131]wall of pain.
+     * Nerf Back aerial deals less damage (16% (clean), 10% (late) → 11%/9%) and has lower knockback.
+     * Change Back aerial has a new animation, where Mario kicks more sideways with his right side facing up, instead of kicking backward face-down. Mario also recovers differently without curling up into a flip.
+     * Buff Up aerial has less ending lag (frame 40 → 30).
+          + Nerf Despite this, Mario can no longer perform two up aerials in a short hop due to his higher fall speed and lower short hop.
+     * Nerf [132]Up aerial has more startup lag with a shorter duration (frames 2-11 → 4-9) and deals 1% less damage (12% → 11%). The sourspot is also no longer able to combo into moves such as itself and up smash as easily.
+     * Change Up aerial's angle changed (80° (clean), 70° (late) → 55°). This improves its edgeguarding potential but hinders its juggling and combo potential.
+     * Buff Down aerial no longer has set knockback on its last hit, which combined with its new horizontal launch angle gives it the ability to set up edgeguards, and makes it a much more consistent gimping option overall. It additionally has a landing hitbox that improves its combo potential. It also has less ending lag (frame 39 → 38).
+     * Nerf [133]Down aerial has a much lower maximum damage output (24% → 10%), it can only hit the target 7 times instead of 8, and is no longer a meteor smash. It can also no longer setup moves such as up aerial and up tilt as easily due to L-canceling being less effective. Mario can also no longer perform another aerial after it in a short hop.
+
+Grabs and throws[[134]edit]
+
+     * Buff Mario now has a [135]pummel, [136]up throw and a [137]down throw, increasing his options out of a grab. He can also [138]chaingrab characters with said throws.
+     * Nerf Grabs have more startup lag (frame 6 → 7 (standing), 11 (dash)) and ending lag (frame 16 → 31 (standing), 41 (dash)).
+     * Nerf Back throw deals less damage (16% (throw)/12% (collateral) → 12% (throw)/10% (collateral)) and knockback (30 (base), 80 (scaling → 80/65), making it much weaker.
+     * Nerf Forward throw deals less damage (12% → 9%).
+
+Special moves[[139]edit]
+
+     * Buff [140]Fireball has less startup (frame 16 → 14) and ending lag (frame 46 → 44) and travels faster.
+     * Nerf Fireballs are smaller and deal 1% less damage (7% (US/PAL → 6%).
+     * Change Mario's side special, [141]Cape, allows him to deal better with [142]camping and gives him a additional recovery option while in the air. It is also a deadly edgeguarding tool, making Mario one of the best edgeguarders in the game.
+     * Buff Super Jump Punch can now be canceled with a wall jump near the apex of the move, further aiding Mario's recovery.
+     * Nerf [143]Super Jump Punch has more startup lag (frame 2 → 3), has less [144]intangibility (frames 2-5 → 3-5), gains much less distance and deals slightly less damage (15% → 14%).
+     * Buff The last hit of [145]Mario Tornado no longer has set knockback, allowing it to KO at high percentages. Mario Tornado also has less ending lag (frame 87 → 80).
+     * Nerf Mario Tornado has more startup lag (frame 1 → 8) and no longer meteor smashes. It also can only hit 8 times instead of 14, deals less damage (14% → 10%), its first hit deals no knockback, and it now has a delay before the last hit allowing foes to escape the attack more easily. Due to this, the move is now considered nearly useless outside of recovering, and as a situational vertical launcher.
+
+PAL differences[[146]edit]
+
+   Mario was nerfed in the [147]PAL version of Melee although due to many characters ranked above him being nerfed, his viability remains similar overall.
+     * Change Mario is slightly lighter (100 → 98).
+     * Nerf Mario's air speed was reduced even further (0.86 → 0.83).
+     * Nerf Fireball no longer increase speed when used off slopes at certain angles.
+
+Moveset[[148]edit]
+
+   For a gallery of Mario's hitboxes, see [149]here.
+   Mario's aerial attacks.
+     Name Damage Description
+   [150]Neutral attack   3% Punches twice, then kicks upward. Originates from Mario's standard combo in [151]Super Mario 64.
+   2%
+   5%
+   [152]Forward tilt ↗   10% Does a back spinning kick with his right leg. It comes out fast and is useful for spacing, but has low knockback. Can be angled.
+   → 9%
+   ↘ 8%
+   [153]Up tilt   8% Does a spinning uppercut. It's an effective juggler and combo starter at low percentages, and can KO at very high percentages. It is based on the Mega Glove combo in [154]Super Mario RPG.
+   [155]Down tilt   8% (foot), 9% (leg) Does a legsweep. The move itself deals very low knockback, and is only useful at high percentages.
+   [156]Dash attack   9% (clean), 7% (late) Does a baseball slide, which knocks the opponent behind Mario. Very similar animation to Mario's dashing attack from Super Mario 64.
+   [157]Forward smash ↗   19% (fire), 15% (arm) Launches a blast of fire from his palm. Its sweetspot is the fire blast and has [158]transcendental priority, and the sourspot is at Mario's arm. When sweetspotted, it has high knockback, KOing at around 70% when fully charged. Can be angled.
+   → 18% (fire), 11% (left arm), 10% (right arm)
+   ↘ 17% (fire), 13% (arm)
+   [159]Up smash Lead Headbutt 15% Headbutts upward. A fast, strong move with more range behind Mario than in front. Mario's head is intangible while the hitboxes are active.
+   [160]Down smash   16% (front), 10% (back feet), 12% (back legs) Performs a breakdancing sweep kick. Extremely fast, one of Mario's stronger moves. This is based off Mario's crouching attack from Super Mario 64.
+   [161]Neutral aerial   12% (clean), 8% (late) A [162]sex kick. Mario kicks forward. As with other sex kicks, it does weaker damage and knockback after a few frames.
+   [163]Forward aerial Meteor Knuckle 15% Throws an overhanded punch with an enlarged fist. Slow, predictable and has high [164]ending lag, but it is a [165]meteor smash, with no sourspot. Still, it is relatively weak and not very reliable to use for an [166]edgeguard, but can be used to send opponents into his forward smash.
+   [167]Back aerial   11% (clean), 9% (late) Does a dropkick. Has low startup, and can be good for [168]spacing and edgeguarding.
+   [169]Up aerial   11% Does a bicycle kick. Good move for juggling and comboing, but has low knockback.
+   [170]Down aerial   2% (hits 1-7 & landing) Performs a downwards drill kick. Hits multiple times and has a landing hitbox that deals weak knockback. All hits can deal up to ≈12.92% if they connect.
+   [171]Grab —
+   [172]Pummel   3% Headbutts opponent. Relatively slow.
+   [173]Forward throw   9% Spins around once, and throws his opponent forward with decent knockback.
+   [174]Back throw Airplane Swing 12% (throw), 8% (collateral) Similar to his throw against Bowser in Super Mario 64; spins around three times and throws his opponent backward. Surprisingly high knockback, can hit enemies mid-swing. One of the stronger back throws in the game, with KO potential under 150% near the [175]edge.
+   [176]Up throw   8% Throws his opponent upward. Good for leading into an up tilt, or starting combos at higher percentages. Can [177]chaingrab [178]fastfallers.
+   [179]Down throw   6% Throws his opponent on the ground. At lower to mid percentages, it can chaingrab characters with moderate falling speeds (such as [180]Pikachu), and at high to very high percentages, it can chaingrab fastfallers.
+   [181]Floor attack (front)   6% Gets up and punches behind him, then in front.
+   [182]Floor attack (back)   6% Swirls around in a similar fashion to his down smash.
+   [183]Edge attack (fast)   6% (body), 8% (legs) Does a somersault and then kicks upward onto the stage.
+   [184]Edge attack (slow)   10% Slowly gets up and kicks forward with one leg.
+   [185]Neutral special [186]Fireball 6% Shoots a fireball as a [187]projectile, which travels forward and loses momentum with each bounce. Because of this, they are best used in the air, and at higher locations. They can be [188]spammed, though with some difficulty, and are a decent way to [189]approach. The move can be more efficient when used in the air, falling to meet the enemy at ground level, while still moving, and negating lag.
+   [190]Side special [191]Cape Ground: 10% (close), 8% (far)
+   Air: 9% (close), 7% (far) Flicks his Cape from [192]Super Mario World forward, hitting opponents with the [193]reverse effect, as well as being able to [194]reflect projectiles. Very useful for [195]gimping certain recoveries. Slightly aids Mario's horizontal [196]recovery. Has transcendent priority.
+   [197]Up special [198]Super Jump Punch 5% (hit 1), 1% (hits 2-8), 3% (hit 9) Does a jumping uppercut diagonally upward, being a multi-hit attack that causes [199]coins to fly out of the opponent. Mainly a recovery move. Additionally, if used while Mario is directly next to a wall and the [200]control stick is flicked backward at the apex of the jump, the move will be cancelled into a [201]wall jump without making Mario [202]helpless, like the move normally does. It is also a great [203]out-of-shield option. Deals up to ≈12.92% if all hits connect.
+   [204]Down special [205]Mario Tornado 2% (hit 1), 1% (hits 2-7), 5% (hit 8 ground), 3% (hit 8 air) Does a multi-hit spinning attack, very similar to the [206]Spin Jump from Super Mario World. The final hit knocks the opponent straight up, and the move can rack up damage, though it has some [207]ending lag. It can be used for recovery by [208]rapidly tapping the [209]B button, though this requires fast reflexes. Has transcendent priority. Deals up to ≈12.01% on the ground and ≈10.19% in the air if all hits connect.
+
+[210]Taunt[[211]edit]
+
+     * Grows to a super size, as if taking a [212]Super Mushroom power-up, before shrinking again. This also increases the size of his hurtbox. The size increase stacks with special matches and actual super mushrooms. It is the second longest taunt in Melee.
+
+   [213]Mario-Taunt-SSBM.gif
+
+[214]Idle pose[[215]edit]
+
+     * Adjusts his cap.
+
+   [216]Mario Idle Pose Melee.gif
+
+[217]Crowd cheer[[218]edit]
+
+                       English     Japanese
+         Cheer
+   (BUTTON) Play sound
+   [219]Mario Cheer NTSC Melee.ogg
+   (BUTTON) Play sound
+   [220]Mario Cheer JP Melee.ogg
+      Description     Ma-ri-o!    Ma-ri-o!
+         Pitch        Group chant Group chant
+
+[221]Victory poses[[222]edit]
+
+   (BUTTON) Play sound
+   An orchestrated cover of the iconic "Level Completed" music from [223]Super Mario Bros..
+     * Winds up for a punch and steps forward while punching in front of the screen, shouting "Here we go!"
+     * Makes fire explode from his palm and strikes a pose.
+     * Does a short spin-jump and lands in a strong-man pose, shouting "Here we go!"
+
+   [224]Mario-Victory1-SSBM.gif [225]Mario-Victory2-SSBM.gif [226]Mario-Victory3-SSBM.gif
+
+In [227]Competitive play[[228]edit]
+
+[229]Matchups[[230]edit]
+
+   CAPTION: [231]Super Smash Bros. Melee Character Matchups
+
+                          [232]FoxHeadSSBM.png [233]FalcoHeadSSBM.png [234]MarthHeadSSBM.png [235]SheikHeadSSBM.png [236]JigglypuffHeadSSBM.png [237]PeachHeadSSBM.png [238]IceClimbersHeadSSBM.png [239]CaptainFalconHeadSSBM.png [240]PikachuHeadSSBM.png [241]SamusHeadSSBM.png [242]DrMarioHeadSSBM.png [243]YoshiHeadSSBM.png [244]LuigiHeadSSBM.png [245]GanondorfHeadSSBM.png [246]MarioHeadSSBM.png [247]YoungLinkHeadSSBM.png [248]DonkeyKongHeadSSBM.png [249]LinkHeadSSBM.png [250]MrGame&WatchHeadSSBM.png [251]RoyHeadSSBM.png [252]MewtwoHeadSSBM.png [253]ZeldaHeadSSBM.png [254]NessHeadSSBM.png [255]PichuHeadSSBM.png [256]BowserHeadSSBM.png [257]KirbyHeadSSBM.png Avg.
+   [258]MarioHeadSSBM.png [259]-1              [260]-1                [261]-2                [262]-1                [263]-2                     [264]-1                [265]-1                      [266]-1                        [267]+2                  [268]-1                [269]±0                  [270]+2                [271]±0                [272]-1                    [273]Mirror match      [274]+2                    [275]±0                     [276]+1               [277]+1                       [278]+2              [279]+1                 [280]±0                [281]+2               [282]+3                [283]+2                 [284]+2                [285]±0
+
+   Mario has an above-average matchup spread, as he is not as harshly countered by top tier characters like other mid-tiered characters are. He is countered by two characters ([286]Marth and [287]Jigglypuff) soft countered by eight characters, has four even matchups, soft counters three characters, counters seven (including [288]Pikachu and [289]Yoshi, despite them being 6 and 3 places higher, respectively), and hard counters one, [290]Pichu. Mario tends to struggle against characters who can space him easily or edgeguard him, such as [291]Marth and [292]Jigglypuff, and tends to do well against characters who he can combo or chaingrab (especially [293]Pichu). Overall, Mario has the tools to take on most of the cast.
+
+   In the current metagame, Mario's matchups against two characters who are higher then him, Yoshi and Pikachu, is being called into question due to their increasing dominance in the metagame while Mario's own metagame has began to stagnate. As it now stands, it is seen that he loses to those two in the current metagame instead of beating them which was originally thought. At the current moment, his clone and semi-clone are higher then he is, which is calling into question his matchups. Dr. Mario and Luigi appear to have an easier time dealing with matchups that Mario wins while also having an easier time in matchups that Mario struggles with, ex. Jigglypuff.
+
+Notable players[[294]edit]
+
+          See also: [295]Category:Mario professionals (SSBM)
+
+Active[[296]edit]
+
+     * [297]USA  [298]A Rookie - Widely considered to be the best Mario player in the world.
+     * [299]USA  [300]Eggz - Notably defeated [301]Noobking, [302]Deva, [303]Hero Sublime, [304]Silent Wolf, [305]Balloon, [306]Jamo, [307]Bladewise, and [308]Gimpyfish
+     * [309]USA  [310]Green Mario
+     * [311]USA  [312]KoopaTroopa895
+     * [313]USA  [314]Mango (under "Scorpion Master")
+     * [315]Germany  [316]SchlimmShady - The best Mario in Europe.
+     * [317]USA  [318]Wobbles
+
+Inactive[[319]edit]
+
+     * [320]USA  [321]Matt Deezie - Former Mario main, best in World when active.
+     * [322]USA  [323]Maverick - Best Mario in Florida
+     * [324]USA  [325]PPMD
+
+Tier placement and history[[326]edit]
+
+   Very early in the Melee [327]metagame, when few players knew the potential of now-top tier characters, Mario was considered one of the best characters in the game, ranking as high as 5th on the first tier list. This could be attributed to Mario's simple but effective [328]combo setups, strong attacks, low learning curve, and lack of any outstanding drawbacks due to being well-rounded, as well as his extendable [329]recovery. As the metagame advanced, however, Mario's average statistics were magnified as the potentials for many other superior characters, such as [330]Peach, [331]Captain Falcon, and the [332]Ice Climbers, were discovered. This caused Mario to slowly slip down the tier list as time progressed, as well as lose significant placing in large tournaments; eventually, [333]Mango (under the alias "Scorpion Master") was the only person who placed anywhere significant with him, but even he rarely placed high enough to earn money from playing Mario, cashing in at 25th place at [334]Apex
+   2010 instead of his usual top 8 placements when using better characters. On the current [335]tier list, he ranks 15th place in the E tier; on the other hand, his clone [336]Dr. Mario and semi-clone [337]Luigi, who were once widely considered worse than Mario, have surpassed him in ranking. In today's metagame, some players, such as Shroomed, believe Mario could potentially be better than Doctor Mario, due to his faster aerials, better recovery, and longer reach and disjoint in some of his attacks, such as Forward Smash and Down Smash.
+
+In [338]1-P Mode[[339]edit]
+
+[340]Classic Mode[[341]edit]
+
+   In Classic Mode, Mario can appear as an ally in team and giant fights, a solo, team, giant, multi, and metal opponent. In Mario's appearances, he either appears on [342]Princess Peach's Castle or [343]Rainbow Cruise. On a team with Bowser, he appears on [344]Battlefield and with Peach, he appears on [345]Mushroom Kingdom II; during the battle against Mario + Bowser on Battlefield, the stage will play the Princess Peach's Castle track.
+
+[346]Adventure Mode[[347]edit]
+
+   Mario is one of only two characters who can appear twice in Adventure Mode, alongside his brother Luigi.
+
+   In the game's Adventure Mode, Mario teams up with [348]Peach against the player in the second part of the first stage, taking place on Princess Peach's Castle. If the player finished the previous segment, [349]Mushroom Kingdom, with the remaining time registering 2 in the seconds digit, [350]Luigi will take his place in a cutscene that will trigger right before this battle.
+
+   Later on, in the second half of Stage 11, [351]Metal Mario will fight the player's character on the Battlefield stage, where he functions as simply a Mario permanently under the influence of the [352]Metal Box item. If the player unlocked Luigi, Metal Mario will be joined by [353]Metal Luigi, and they both team up on the player, making for a harder fight.
+
+[354]All-Star Mode[[355]edit]
+
+   In All-Star Mode, Mario and his allies are fought on Rainbow Cruise.
+
+[356]Event Matches[[357]edit]
+
+   Mario is featured in the following event matches:
+     * [358]Event 1: Trouble King: The player plays as Mario and fights against [359]Bowser on [360]Battlefield.
+     * [361]Event 10: All-Star Match 1: Mario is the first opponent to be fought in this series of staged battles. The player battles him on [362]Yoshi's Island, which will transition to the next stage if Mario gets defeated. With a timer of four minutes, the player must defeat him along with [363]Donkey Kong, [364]Yoshi, [365]Peach, and Bowser.
+     * [366]Event 19: Peach's Peril: Mario must protect Peach from a slightly larger Bowser on [367]Final Destination. Both Mario and Peach have 1 stock each while Bowser has infinite lives.
+     * [368]Event 22: Super Mario 128: The player chooses any character and must defeat a total of 128 tiny Marios on [369]Mushroom Kingdom II.
+     * [370]Event 25: Gargantuans: A scenario designed as a homage to [371]kaiju movies and their various tropes. On the [372]Fourside stage, with unlimited time, the player plays as a giant-sized Bowser (as "Godzilla") with 1 stock against a giant-sized Donkey Kong (as "King Kong") with 2 stock. A tiny Mario and a tiny Peach are also present in this match, who usually gets KO'd in one hit.
+     * [373]Event 31: Mario Bros. Madness: The player chooses any character and must fight Mario and [374]Luigi in a two-timed match on [375]Mushroom Kingdom. The player must have the most points within the two minutes to clear this event.
+     * [376]Event 38: Super Mario Bros. 2: The player chooses any character and must defeat Mario, Luigi, and Peach in a two-stock match on [377]Mushroom Kingdom II. Both the characters and the stage are a direct throwback to the original Super Mario Bros. 2, an NES sequel to Super Mario Bros.
+
+[378]Ending Images[[379]edit]
+
+     * Classic Mode
+     * Adventure Mode
+     * All-Star Mode
+
+Trophy descriptions[[380]edit]
+
+   In addition to the normal trophy about Mario as a character, there are two trophies about him as a fighter, unlocked by completing both [381]Adventure and [382]All-Star modes respectively with Mario on any difficulty:
+
+          Mario
+          Known worldwide as Mr. Nintendo, Mario uses his incredible jumping ability to thwart the evil Bowser time after time. While he's best known as a hero, Mario has played many roles, including racer, doctor, golfer, and villain. His tastes have changed over 20 years of gaming; he long ago swapped the colors of his shirt and overalls.
+
+          + [383]Donkey Kong Arcade 1981
+
+          Mario [Smash]
+          Mario is a character without any glaring weaknesses and plenty of strong attacks: he's even equipped with a Meteor Smash. He's a straightforward character who'll reflect the actual skills of the player. Mario's Cape will turn other characters in the opposite direction and can also reflect missile weapons.
+
+          + B: Fireball
+          + Smash B: Cape
+
+          Mario [Smash]
+          Mass determines how easily a character can be sent flying, as well as a character's physical strength: Mario's mass is the standard upon which other Smash fighters are measured. His Super Jump Punch sends foes skyward in a shower of coins, while the Mario Tornado pulls in nearby foes, spins them silly, and scatters them every which way.
+
+          + Up & B: Super Jump Punch
+          + Down & B: Mario Tornado
+
+     * Classic
+     * [Smash]
+     * [Smash]
+
+[384]Alternate costumes[[385]edit]
+
+   [386]Mario Palette (SSBM).png
+   [387]MarioHeadSSBM.png [388]MarioHeadYellowSSBM.png [389]MarioHeadBlackSSBM.png [390]MarioHeadBlueSSBM.png [391]MarioHeadGreenSSBM.png
+
+Gallery[[392]edit]
+
+     * Alternate artwork of Mario.
+     * Artwork of Mario from the [393]CSS.
+     * Mario landing on [394]Corneria.
+     * Performing [395]Mario Tornado on [396]Brinstar.
+     * Hitting [397]Ness with a [398]Super Jump Punch on [399]Kongo Jungle.
+     * Tossing a [400]Fireball on [401]Onett.
+     * Flipping [402]Kirby with his [403]Cape on [404]Mute City.
+     * Performing his [405]forward smash.
+
+Trivia[[406]edit]
+
+     * A taunting Mario with a [407]Super Mushroom in Giant Melee Mode is the largest possible character size that can be achieved without hacking.
+     * Mario's taunt is the second longest taunt out of all the characters, the longest one being [408]Young Link's.
+     * If the [409]Master Hand glitch is used in an event and sets a record, the score is shown on Mario.
+     * In the PAL Version, Mario's weight was decreased from 100 to 98. This has been carried over into future installments.
+     * Mario's taunt also expands his hitbox size, getting hit during the taunt animation causes Mario to automatically transform to back to his normal size.
+
+   [410]v • [411]d • [412]e
+   [413]Playable characters in [414]Super Smash Bros. Melee
+   [415]Veterans  [416]Captain Falcon · [417]Donkey Kong · [418]Fox · [419]Jigglypuff · [420]Kirby · [421]Link · [422]Luigi · Mario · [423]Ness · [424]Pikachu · [425]Samus · [426]Yoshi
+   [427]Newcomers [428]Bowser · [429]Dr. Mario · [430]Falco · [431]Ganondorf · [432]Ice Climbers · [433]Marth · [434]Mewtwo · [435]Mr. Game & Watch · [436]Peach · [437]Pichu · [438]Roy · [439]Young Link · [440]Zelda ([441]Sheik)
+   [442]v • [443]d • [444]e
+   Enemies in [445]Adventure Mode ([446]SSBM)
+   [447]Mushroom Kingdom  [448]Goomba · [449]Koopa Paratroopa · [450]Koopa Troopa · [451]Yoshi Team · Mario · [452]Peach · [453]Luigi
+     [454]Kongo Jungle    [455]Tiny Donkey Kongs · [456]Giant DK
+   [457]Underground Maze  [458]Octorok · [459]ReDead · [460]Like Like · [461]Links · [462]Zelda/[463]Sheik
+       [464]Brinstar      [465]Samus
+     [466]Green Greens    [467]Kirby · [468]Kirby Team · [469]Giant Kirby
+       [470]Corneria      [471]Fox · [472]Falco
+    [473]Pokémon Stadium  [474]Pikachu · [475]Jigglypuff · [476]Pichu
+   [477]F-Zero Grand Prix [478]Captain Falcon
+         [479]Onett       [480]Ness
+    [481]Icicle Mountain  [482]Topi · [483]Polar Bear · [484]Ice Climbers
+      [485]Battlefield    [486]Fighting Wire Frames · [487]Metal Mario · [488]Metal Luigi
+   [489]Final Destination [490]Giant Bowser · [491]Giga Bowser
+   [492]v • [493]d • [494]e
+   [495]MarioSymbol.svg [496]Mario universe
+   [497]Characters [498]Mario ([499]SSB · SSBM · [500]SSBB · [501]SSB4 · [502]SSBU) · [503]Luigi ([504]SSB · [505]SSBM · [506]SSBB · [507]SSB4 · [508]SSBU) · [509]Peach ([510]SSBM · [511]SSBB · [512]SSB4 · [513]SSBU) · [514]Bowser ([515]SSBM · [516]SSBB · [517]SSB4 · [518]SSBU) · [519]Dr. Mario ([520]SSBM · [521]SSB4 · [522]SSBU) · [523]Rosalina ([524]SSB4 · [525]SSBU) ([526]Luma) · [527]Bowser Jr. ([528]SSB4 · [529]SSBU) ([530]Koopalings) · [531]Daisy ([532]SSBU) · [533]Piranha Plant ([534]SSBU)
+   [535]Assist Trophies [536]Chain Chomp · [537]Flies & Hand · [538]Hammer Bro. · [539]Lakitu and Spinies · [540]Thwomp · [541]Waluigi
+   [542]Bosses [543]Metal Mario and Luigi · [544]Petey Piranha
+   [545]Stages [546]Peach's Castle · [547]Mushroom Kingdom (SSB) · [548]Princess Peach's Castle · [549]Rainbow Cruise · [550]Mushroom Kingdom (SSBM) · [551]Mushroom Kingdom II · [552]Delfino Plaza · [553]Mushroomy Kingdom · [554]Mario Circuit (SSBB) · [555]Luigi's Mansion · [556]Mario Bros. · [557]3D Land · [558]Golden Plains · [559]Rainbow Road · [560]Paper Mario · [561]Mario Galaxy · [562]Mushroom Kingdom U · [563]Mario Circuit (SSB4) · [564]Super Mario Maker · [565]New Donk City Hall
+   [566]Mushroom Kingdom (Adventure Mode)
+   [567]Items [568]Bob-omb · [569]Fire Flower · [570]Green Shell · [571]Red Shell · [572]Super Star · [573]Bullet Bill · [574]Freezie · [575]Hothead · [576]Metal Box · [577]Poison Mushroom · [578]Super Mushroom · [579]Banana Peel · [580]Golden Hammer · [581]Lightning Bolt · [582]Boomerang · [583]Fire Bar · [584]POW Block · [585]Spiny Shell · [586]Super Leaf · [587]Grass · [588]Super Launch Star
+   Enemies [589]Banzai Bill · [590]Bill Blaster · [591]Bullet Bill · [592]Flame Chomp · [593]Goomba · [594]Giant Goomba · [595]Hammer Bro. · [596]Koopa Paratroopa · [597]Koopa Troopa · [598]Lakitu · [599]Magikoopa · [600]Shy Guy · [601]Spike Top
+   Other [602]Birdo · [603]Boo · [604]Cappy · [605]F.L.U.D.D. · [606]Geno · [607]Ghosts · [608]Kamek · [609]Nabbit · [610]Pauline · [611]Pidgit · [612]Poltergust 5000 · [613]Shadow Mario · [614]Shellcreeper · [615]Shy Guy · [616]Sidestepper · [617]Toad · [618]Vegetable · [619]Warp Pipe
+   [620]Trophies, [621]Stickers and [622]Spirits [623]Trophies in Melee · [624]Trophies in Brawl · [625]Trophies in SSB4 · [626]Stickers in Brawl · [627]Spirits in Ultimate
+   Music [628]Super Mario Bros. music in Brawl · [629]Mario Kart music in Brawl · [630]Music in SSB4 · [631]Super Mario Bros. music in Ultimate · [632]Mario Kart music in Ultimate
+   Related universes [633]Donkey Kong · [634]Yoshi · [635]Wario · [636]Wrecking Crew
+   Ads keep SmashWiki independent and free :)
+   Retrieved from "[637]https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&oldid=1178324"
+   [638]Categories:
+     * [639]Characters (SSBM)
+     * [640]Mario universe
+     * [641]Mario (SSBM)
+     * [642]Trophies (SSBM)
+
+Navigation menu
+
+Views
+
+     * [643]Article
+     * [644]Discussion
+     * [645]Edit this page
+     * [646]History
+
+Personal tools
+
+     * Not logged in
+     * [647]Talk
+     * [648]Contributions
+     * [649]Create account
+     * [650]Log in
+
+Navigation
+
+     * [651]Main page
+     * [652]Smash Bros. Ultimate
+     * [653]Smash Bros. 4
+     * [654]Smash Bros. Brawl
+     * [655]Smash Bros. Melee
+     * [656]Smash Bros. (64)
+     * [657]Characters
+     * [658]Stages
+     * [659]Modes
+     * [660]Items
+     * [661]Random page
+
+Search
+
+   ____________________ Go  Search
+
+Participate
+
+     * [662]Forum
+     * [663]Community portal
+     * [664]Recent changes
+     * [665]Help
+     * [666]Admin noticeboard
+     * [667]Discord server
+     * [668]YouTube channel
+
+Tools
+
+     * [669]What links here
+     * [670]Related changes
+     * [671]Special pages
+     * [672]Printable version
+     * [673]Permanent link
+     * [674]Page information
+
+   [675]Attribution-Share Alike 3.0 Unported
+   [676]Powered by MediaWiki
+     * This page was last edited on 26 January 2019, at 16:36.
+     * Content is available under [677]Attribution-Share Alike 3.0 Unported unless otherwise noted.
+     * [678]Privacy policy
+     * [679]About SmashWiki
+     * [680]Disclaimers
+     * [681]Mobile view
+
+References
+
+   Visible links
+   1. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit
+   2. https://www.ssbwiki.com/opensearch_desc.php
+   3. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&feed=atom
+   4. https://www.ssbwiki.com/Mario_(SSBM)#column-one
+   5. https://www.ssbwiki.com/Mario_(SSBM)#searchInput
+   6. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+   7. https://www.ssbwiki.com/Clone
+   8. https://www.ssbwiki.com/Dr._Mario_(SSBM)
+   9. https://www.ssbwiki.com/Luigi_(SSBM)
+  10. https://www.ssbwiki.com/Mario
+  11. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+  12. https://www.ssbwiki.com/File:Mario_SSBM.jpg
+  13. https://www.ssbwiki.com/File:MarioSymbol(preBrawl).svg
+  14. https://www.ssbwiki.com/Universe
+  15. https://www.ssbwiki.com/Mario_(universe)
+  16. https://www.ssbwiki.com/Mario_(SSB)
+  17. https://www.ssbwiki.com/Mario_(SSBB)
+  18. https://www.ssbwiki.com/Mario_(SSB4)
+  19. https://www.ssbwiki.com/Mario_(SSBU)
+  20. https://www.ssbwiki.com/Starter_character
+  21. https://www.ssbwiki.com/Tier_list
+  22. https://www.ssbwiki.com/Mario_(SSBM)
+  23. https://www.ssbwiki.com/Starter_character
+  24. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+  25. https://www.ssbwiki.com/E3
+  26. https://www.ssbwiki.com/Clone
+  27. https://www.ssbwiki.com/Dr._Mario_(SSBM)
+  28. https://www.ssbwiki.com/Smash_64
+  29. https://www.ssbwiki.com/Dr._Mario_(SSBM)
+  30. https://www.ssbwiki.com/Luigi_(SSBM)
+  31. https://www.ssbwiki.com/Gimp
+  32. https://www.ssbwiki.com/Chain-grab
+  33. https://www.ssbwiki.com/Edge-guarding
+  34. https://www.ssbwiki.com/Fireball
+  35. https://www.ssbwiki.com/Cape
+  36. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+  37. https://www.ssbwiki.com/Marth_(SSBM)
+  38. https://www.ssbwiki.com/Mario_(SSBM)#Attributes
+  39. https://www.ssbwiki.com/Mario_(SSBM)#Changes_from_Smash_64
+  40. https://www.ssbwiki.com/Mario_(SSBM)#Aesthetics
+  41. https://www.ssbwiki.com/Mario_(SSBM)#Attributes_2
+  42. https://www.ssbwiki.com/Mario_(SSBM)#Ground_attacks
+  43. https://www.ssbwiki.com/Mario_(SSBM)#Aerial_attacks
+  44. https://www.ssbwiki.com/Mario_(SSBM)#Grabs_and_throws
+  45. https://www.ssbwiki.com/Mario_(SSBM)#Special_moves
+  46. https://www.ssbwiki.com/Mario_(SSBM)#PAL_differences
+  47. https://www.ssbwiki.com/Mario_(SSBM)#Moveset
+  48. https://www.ssbwiki.com/Mario_(SSBM)#Taunt
+  49. https://www.ssbwiki.com/Mario_(SSBM)#Idle_pose
+  50. https://www.ssbwiki.com/Mario_(SSBM)#Crowd_cheer
+  51. https://www.ssbwiki.com/Mario_(SSBM)#Victory_poses
+  52. https://www.ssbwiki.com/Mario_(SSBM)#In_Competitive_play
+  53. https://www.ssbwiki.com/Mario_(SSBM)#Matchups
+  54. https://www.ssbwiki.com/Mario_(SSBM)#Notable_players
+  55. https://www.ssbwiki.com/Mario_(SSBM)#Active
+  56. https://www.ssbwiki.com/Mario_(SSBM)#Inactive
+  57. https://www.ssbwiki.com/Mario_(SSBM)#Tier_placement_and_history
+  58. https://www.ssbwiki.com/Mario_(SSBM)#In_1-P_Mode
+  59. https://www.ssbwiki.com/Mario_(SSBM)#Classic_Mode
+  60. https://www.ssbwiki.com/Mario_(SSBM)#Adventure_Mode
+  61. https://www.ssbwiki.com/Mario_(SSBM)#All-Star_Mode
+  62. https://www.ssbwiki.com/Mario_(SSBM)#Event_Matches
+  63. https://www.ssbwiki.com/Mario_(SSBM)#Ending_Images
+  64. https://www.ssbwiki.com/Mario_(SSBM)#Trophy_descriptions
+  65. https://www.ssbwiki.com/Mario_(SSBM)#Alternate_costumes
+  66. https://www.ssbwiki.com/Mario_(SSBM)#Gallery
+  67. https://www.ssbwiki.com/Mario_(SSBM)#Trivia
+  68. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=1
+  69. https://www.ssbwiki.com/TAS
+  70. https://www.ssbwiki.com/Perfect_Control
+  71. https://www.ssbwiki.com/Weight
+  72. https://www.ssbwiki.com/Falling_speed
+  73. https://www.ssbwiki.com/Air_speed
+  74. https://www.ssbwiki.com/Dash
+  75. https://www.ssbwiki.com/Wavedash
+  76. https://www.ssbwiki.com/SHFFL
+  77. https://www.ssbwiki.com/Meteor_smash
+  78. https://www.ssbwiki.com/Startup
+  79. https://www.ssbwiki.com/Ending_lag
+  80. https://www.ssbwiki.com/Gimp
+  81. https://www.ssbwiki.com/Cape
+  82. https://www.ssbwiki.com/Fire_Fox
+  83. https://www.ssbwiki.com/Green_Missile
+  84. https://www.ssbwiki.com/Fox_(SSBM)
+  85. https://www.ssbwiki.com/Falco_(SSBM)
+  86. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+  87. https://www.ssbwiki.com/Pikachu_(SSBM)
+  88. https://www.ssbwiki.com/Pichu_(SSBM)
+  89. https://www.ssbwiki.com/Mario_Tornado
+  90. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=2
+  91. https://www.ssbwiki.com/Buff
+  92. https://www.ssbwiki.com/Nerf
+  93. https://www.ssbwiki.com/Nerf
+  94. https://www.ssbwiki.com/Air_dodging
+  95. https://www.ssbwiki.com/Wavedash
+  96. https://www.ssbwiki.com/Cape
+  97. https://www.ssbwiki.com/Wall_jump
+  98. https://www.ssbwiki.com/Super_Jump_Punch
+  99. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=3
+ 100. https://www.ssbwiki.com/Nintendo_GameCube
+ 101. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=4
+ 102. https://www.ssbwiki.com/Walk
+ 103. https://www.ssbwiki.com/Dash
+ 104. https://www.ssbwiki.com/Air_speed
+ 105. https://www.ssbwiki.com/Falling_speed
+ 106. https://www.ssbwiki.com/Wall_jump
+ 107. https://www.ssbwiki.com/Wavedashing
+ 108. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=5
+ 109. https://www.ssbwiki.com/Neutral_attack
+ 110. https://www.ssbwiki.com/Set_knockback
+ 111. https://www.ssbwiki.com/Clang
+ 112. https://www.ssbwiki.com/Grab
+ 113. https://www.ssbwiki.com/Dash_attack
+ 114. https://www.ssbwiki.com/Forward_tilt
+ 115. https://www.ssbwiki.com/Up_tilt
+ 116. https://www.ssbwiki.com/Down_tilt
+ 117. https://www.ssbwiki.com/Forward_smash
+ 118. https://www.ssbwiki.com/Range
+ 119. https://www.ssbwiki.com/Up_smash
+ 120. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 121. https://www.ssbwiki.com/Down_smash
+ 122. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=6
+ 123. https://www.ssbwiki.com/Auto-cancel
+ 124. https://www.ssbwiki.com/L-canceling
+ 125. https://www.ssbwiki.com/Neutral_aerial
+ 126. https://www.ssbwiki.com/Forward_aerial
+ 127. https://www.ssbwiki.com/Meteor_smash
+ 128. https://www.ssbwiki.com/Edgeguarding
+ 129. https://www.ssbwiki.com/Back_aerial
+ 130. https://www.ssbwiki.com/Edgeguarding
+ 131. https://www.ssbwiki.com/Wall_of_pain
+ 132. https://www.ssbwiki.com/Up_aerial
+ 133. https://www.ssbwiki.com/Down_aerial
+ 134. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=7
+ 135. https://www.ssbwiki.com/Pummel
+ 136. https://www.ssbwiki.com/Up_throw
+ 137. https://www.ssbwiki.com/Down_throw
+ 138. https://www.ssbwiki.com/Chaingrab
+ 139. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=8
+ 140. https://www.ssbwiki.com/Fireball
+ 141. https://www.ssbwiki.com/Cape
+ 142. https://www.ssbwiki.com/Camp
+ 143. https://www.ssbwiki.com/Super_Jump_Punch
+ 144. https://www.ssbwiki.com/Intangibility
+ 145. https://www.ssbwiki.com/Mario_Tornado
+ 146. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=9
+ 147. https://www.ssbwiki.com/PAL
+ 148. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=10
+ 149. https://www.ssbwiki.com/Mario_(SSBM)/Hitboxes
+ 150. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)/Neutral_attack&action=edit&redlink=1
+ 151. https://www.ssbwiki.com/Super_Mario_64
+ 152. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)/Forward_tilt&action=edit&redlink=1
+ 153. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)/Up_tilt&action=edit&redlink=1
+ 154. https://www.mariowiki.com/Super_Mario_RPG
+ 155. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)/Down_tilt&action=edit&redlink=1
+ 156. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)/Dash_attack&action=edit&redlink=1
+ 157. https://www.ssbwiki.com/Mario_(SSBM)/Forward_smash
+ 158. https://www.ssbwiki.com/Priority#Transcendent_priority
+ 159. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)/Up_smash&action=edit&redlink=1
+ 160. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)/Down_smash&action=edit&redlink=1
+ 161. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)/Neutral_aerial&action=edit&redlink=1
+ 162. https://www.ssbwiki.com/Sex_kick
+ 163. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)/Forward_aerial&action=edit&redlink=1
+ 164. https://www.ssbwiki.com/Ending_lag
+ 165. https://www.ssbwiki.com/Meteor_smash
+ 166. https://www.ssbwiki.com/Edgeguard
+ 167. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)/Back_aerial&action=edit&redlink=1
+ 168. https://www.ssbwiki.com/Spacing
+ 169. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)/Up_aerial&action=edit&redlink=1
+ 170. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)/Down_aerial&action=edit&redlink=1
+ 171. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)/Grab&action=edit&redlink=1
+ 172. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)/Pummel&action=edit&redlink=1
+ 173. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)/Forward_throw&action=edit&redlink=1
+ 174. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)/Back_throw&action=edit&redlink=1
+ 175. https://www.ssbwiki.com/Edge
+ 176. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)/Up_throw&action=edit&redlink=1
+ 177. https://www.ssbwiki.com/Chaingrab
+ 178. https://www.ssbwiki.com/Fastfaller
+ 179. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)/Down_throw&action=edit&redlink=1
+ 180. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 181. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)/Floor_attack_(front)&action=edit&redlink=1
+ 182. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)/Floor_attack_(back)&action=edit&redlink=1
+ 183. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)/Edge_attack_(fast)&action=edit&redlink=1
+ 184. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)/Edge_attack_(slow)&action=edit&redlink=1
+ 185. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)/Neutral_special&action=edit&redlink=1
+ 186. https://www.ssbwiki.com/Fireball
+ 187. https://www.ssbwiki.com/Projectile
+ 188. https://www.ssbwiki.com/Spam
+ 189. https://www.ssbwiki.com/Approach
+ 190. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)/Side_special&action=edit&redlink=1
+ 191. https://www.ssbwiki.com/Cape
+ 192. https://www.ssbwiki.com/Super_Mario_World
+ 193. https://www.ssbwiki.com/Reverse
+ 194. https://www.ssbwiki.com/Reflect
+ 195. https://www.ssbwiki.com/Gimp
+ 196. https://www.ssbwiki.com/Recovery
+ 197. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)/Up_special&action=edit&redlink=1
+ 198. https://www.ssbwiki.com/Super_Jump_Punch
+ 199. https://www.mariowiki.com/coin
+ 200. https://www.ssbwiki.com/Control_stick
+ 201. https://www.ssbwiki.com/Wall_jump
+ 202. https://www.ssbwiki.com/Helpless
+ 203. https://www.ssbwiki.com/Out_of_shield
+ 204. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)/Down_special&action=edit&redlink=1
+ 205. https://www.ssbwiki.com/Mario_Tornado
+ 206. https://www.mariowiki.com/Spin_Jump
+ 207. https://www.ssbwiki.com/Ending_lag
+ 208. https://www.ssbwiki.com/Button_mashing
+ 209. https://www.ssbwiki.com/B_button
+ 210. https://www.ssbwiki.com/Taunt
+ 211. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=11
+ 212. https://www.ssbwiki.com/Super_Mushroom
+ 213. https://www.ssbwiki.com/File:Mario-Taunt-SSBM.gif
+ 214. https://www.ssbwiki.com/Idle_pose
+ 215. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=12
+ 216. https://www.ssbwiki.com/File:Mario_Idle_Pose_Melee.gif
+ 217. https://www.ssbwiki.com/Crowd_cheer
+ 218. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=13
+ 219. https://www.ssbwiki.com/File:Mario_Cheer_NTSC_Melee.ogg
+ 220. https://www.ssbwiki.com/File:Mario_Cheer_JP_Melee.ogg
+ 221. https://www.ssbwiki.com/Victory_pose
+ 222. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=14
+ 223. https://www.ssbwiki.com/Super_Mario_Bros.
+ 224. https://www.ssbwiki.com/File:Mario-Victory1-SSBM.gif
+ 225. https://www.ssbwiki.com/File:Mario-Victory2-SSBM.gif
+ 226. https://www.ssbwiki.com/File:Mario-Victory3-SSBM.gif
+ 227. https://www.ssbwiki.com/Competitive_play
+ 228. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=15
+ 229. https://www.ssbwiki.com/Character_matchups_(SSBM)
+ 230. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=16
+ 231. https://www.ssbwiki.com/Character_matchup_(SSBM)
+ 232. https://www.ssbwiki.com/Fox_(SSBM)
+ 233. https://www.ssbwiki.com/Falco_(SSBM)
+ 234. https://www.ssbwiki.com/Marth_(SSBM)
+ 235. https://www.ssbwiki.com/Sheik_(SSBM)
+ 236. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 237. https://www.ssbwiki.com/Peach_(SSBM)
+ 238. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 239. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 240. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 241. https://www.ssbwiki.com/Samus_(SSBM)
+ 242. https://www.ssbwiki.com/Dr._Mario_(SSBM)
+ 243. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 244. https://www.ssbwiki.com/Luigi_(SSBM)
+ 245. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 246. https://www.ssbwiki.com/Mario_(SSBM)
+ 247. https://www.ssbwiki.com/Young_Link_(SSBM)
+ 248. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+ 249. https://www.ssbwiki.com/Link_(SSBM)
+ 250. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSBM)
+ 251. https://www.ssbwiki.com/Roy_(SSBM)
+ 252. https://www.ssbwiki.com/Mewtwo_(SSBM)
+ 253. https://www.ssbwiki.com/Zelda_(SSBM)
+ 254. https://www.ssbwiki.com/Ness_(SSBM)
+ 255. https://www.ssbwiki.com/Pichu_(SSBM)
+ 256. https://www.ssbwiki.com/Bowser_(SSBM)
+ 257. https://www.ssbwiki.com/Kirby_(SSBM)
+ 258. https://www.ssbwiki.com/Mario_(SSBM)
+ 259. https://www.ssbwiki.com/File:Matchup(-1)7T.png
+ 260. https://www.ssbwiki.com/File:Matchup(-1)7T.png
+ 261. https://www.ssbwiki.com/File:Matchup(-2)7T.png
+ 262. https://www.ssbwiki.com/File:Matchup(-1)7T.png
+ 263. https://www.ssbwiki.com/File:Matchup(-2)7T.png
+ 264. https://www.ssbwiki.com/File:Matchup(-1)7T.png
+ 265. https://www.ssbwiki.com/File:Matchup(-1)7T.png
+ 266. https://www.ssbwiki.com/File:Matchup(-1)7T.png
+ 267. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 268. https://www.ssbwiki.com/File:Matchup(-1)7T.png
+ 269. https://www.ssbwiki.com/File:Matchup(0)7T.png
+ 270. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 271. https://www.ssbwiki.com/File:Matchup(0)7T.png
+ 272. https://www.ssbwiki.com/File:Matchup(-1)7T.png
+ 273. https://www.ssbwiki.com/File:Matchup(M)7T.png
+ 274. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 275. https://www.ssbwiki.com/File:Matchup(0)7T.png
+ 276. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 277. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 278. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 279. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 280. https://www.ssbwiki.com/File:Matchup(0)7T.png
+ 281. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 282. https://www.ssbwiki.com/File:Matchup(+3)7T.png
+ 283. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 284. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 285. https://www.ssbwiki.com/File:Matchup(0)7T.png
+ 286. https://www.ssbwiki.com/Marth_(SSBM)
+ 287. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 288. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 289. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 290. https://www.ssbwiki.com/Pichu_(SSBM)
+ 291. https://www.ssbwiki.com/Marth_(SSBM)
+ 292. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 293. https://www.ssbwiki.com/Pichu_(SSBM)
+ 294. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=17
+ 295. https://www.ssbwiki.com/Category:Mario_professionals_(SSBM)
+ 296. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=18
+ 297. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 298. https://www.ssbwiki.com/Smasher:A_Rookie
+ 299. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 300. https://www.ssbwiki.com/Smasher:Eggz
+ 301. https://www.ssbwiki.com/index.php?title=Noobking&action=edit&redlink=1
+ 302. https://www.ssbwiki.com/index.php?title=Deva&action=edit&redlink=1
+ 303. https://www.ssbwiki.com/Hero_Sublime
+ 304. https://www.ssbwiki.com/Silent_Wolf
+ 305. https://www.ssbwiki.com/index.php?title=Balloon&action=edit&redlink=1
+ 306. https://www.ssbwiki.com/index.php?title=Jamo&action=edit&redlink=1
+ 307. https://www.ssbwiki.com/Bladewise
+ 308. https://www.ssbwiki.com/Gimpyfish
+ 309. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 310. https://www.ssbwiki.com/Smasher:Green_Mario
+ 311. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 312. https://www.ssbwiki.com/Smasher:KoopaTroopa895
+ 313. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 314. https://www.ssbwiki.com/Smasher:Mango
+ 315. https://www.ssbwiki.com/File:Flag_of_Germany.png
+ 316. https://www.ssbwiki.com/Smasher:SchlimmShady
+ 317. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 318. https://www.ssbwiki.com/Smasher:Wobbles
+ 319. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=19
+ 320. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 321. https://www.ssbwiki.com/Smasher:Matt_Deezie
+ 322. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 323. https://www.ssbwiki.com/Smasher:Maverick
+ 324. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 325. https://www.ssbwiki.com/Smasher:PPMD
+ 326. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=20
+ 327. https://www.ssbwiki.com/Metagame
+ 328. https://www.ssbwiki.com/Combo
+ 329. https://www.ssbwiki.com/Recovery
+ 330. https://www.ssbwiki.com/Peach_(SSBM)
+ 331. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 332. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 333. https://www.ssbwiki.com/Smasher:Mango
+ 334. https://www.ssbwiki.com/Apex_2010
+ 335. https://www.ssbwiki.com/Tier_list
+ 336. https://www.ssbwiki.com/Dr._Mario_(SSBM)
+ 337. https://www.ssbwiki.com/Luigi_(SSBM)
+ 338. https://www.ssbwiki.com/Solo#1-P_Mode
+ 339. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=21
+ 340. https://www.ssbwiki.com/Classic_Mode_(SSBM)
+ 341. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=22
+ 342. https://www.ssbwiki.com/Princess_Peach's_Castle
+ 343. https://www.ssbwiki.com/Rainbow_Cruise
+ 344. https://www.ssbwiki.com/Battlefield_(SSBM)
+ 345. https://www.ssbwiki.com/Mushroom_Kingdom_II
+ 346. https://www.ssbwiki.com/Adventure_Mode
+ 347. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=23
+ 348. https://www.ssbwiki.com/Peach_(SSBM)
+ 349. https://www.ssbwiki.com/Mushroom_Kingdom_(Adventure_Mode)
+ 350. https://www.ssbwiki.com/Luigi_(SSBM)
+ 351. https://www.ssbwiki.com/Metal_Mario
+ 352. https://www.ssbwiki.com/Metal_Box
+ 353. https://www.ssbwiki.com/Metal_Luigi
+ 354. https://www.ssbwiki.com/All-Star_Mode
+ 355. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=24
+ 356. https://www.ssbwiki.com/Event_Match
+ 357. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=25
+ 358. https://www.ssbwiki.com/Event_1:_Trouble_King
+ 359. https://www.ssbwiki.com/Bowser_(SSBM)
+ 360. https://www.ssbwiki.com/Battlefield_(SSBM)
+ 361. https://www.ssbwiki.com/Event_10:_All-Star_Match_1
+ 362. https://www.ssbwiki.com/Yoshi's_Island_(SSBM)
+ 363. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+ 364. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 365. https://www.ssbwiki.com/Peach_(SSBM)
+ 366. https://www.ssbwiki.com/Event_19:_Peach's_Peril
+ 367. https://www.ssbwiki.com/Final_Destination_(SSBM)
+ 368. https://www.ssbwiki.com/Event_22:_Super_Mario_128
+ 369. https://www.ssbwiki.com/Mushroom_Kingdom_II
+ 370. https://www.ssbwiki.com/Event_25:_Gargantuans
+ 371. https://en.wikipedia.org/wiki/kaiju
+ 372. https://www.ssbwiki.com/Fourside
+ 373. https://www.ssbwiki.com/Event_31:_Mario_Bros._Madness
+ 374. https://www.ssbwiki.com/Luigi_(SSBM)
+ 375. https://www.ssbwiki.com/Mushroom_Kingdom_(SSBM)
+ 376. https://www.ssbwiki.com/Event_38:_Super_Mario_Bros._2
+ 377. https://www.ssbwiki.com/Mushroom_Kingdom_II
+ 378. https://www.ssbwiki.com/Congratulations_screen#Super_Smash_Bros._Melee
+ 379. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=26
+ 380. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=27
+ 381. https://www.ssbwiki.com/Adventure_Mode
+ 382. https://www.ssbwiki.com/All-Star
+ 383. https://www.ssbwiki.com/Donkey_Kong_(game)
+ 384. https://www.ssbwiki.com/Alternate_costume_(SSBM)#Mario
+ 385. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=28
+ 386. https://www.ssbwiki.com/File:Mario_Palette_(SSBM).png
+ 387. https://www.ssbwiki.com/Mario_(SSBM)
+ 388. https://www.ssbwiki.com/Mario_(SSBM)
+ 389. https://www.ssbwiki.com/Mario_(SSBM)
+ 390. https://www.ssbwiki.com/Mario_(SSBM)
+ 391. https://www.ssbwiki.com/Mario_(SSBM)
+ 392. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=29
+ 393. https://www.ssbwiki.com/CSS
+ 394. https://www.ssbwiki.com/Corneria
+ 395. https://www.ssbwiki.com/Mario_Tornado
+ 396. https://www.ssbwiki.com/Brinstar
+ 397. https://www.ssbwiki.com/Ness_(SSBM)
+ 398. https://www.ssbwiki.com/Super_Jump_Punch
+ 399. https://www.ssbwiki.com/Kongo_Jungle_(SSBM)
+ 400. https://www.ssbwiki.com/Fireball
+ 401. https://www.ssbwiki.com/Onett
+ 402. https://www.ssbwiki.com/Kirby_(SSBM)
+ 403. https://www.ssbwiki.com/Cape
+ 404. https://www.ssbwiki.com/Mute_City
+ 405. https://www.ssbwiki.com/Forward_smash
+ 406. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit&section=30
+ 407. https://www.ssbwiki.com/Super_Mushroom
+ 408. https://www.ssbwiki.com/Young_Link_(SSBM)
+ 409. https://www.ssbwiki.com/Master_Hand_glitch
+ 410. https://www.ssbwiki.com/Template:SSBMCharacters
+ 411. https://www.ssbwiki.com/Template_talk:SSBMCharacters
+ 412. https://www.ssbwiki.com/index.php?title=Template:SSBMCharacters&action=edit
+ 413. https://www.ssbwiki.com/Characters
+ 414. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 415. https://www.ssbwiki.com/Veteran
+ 416. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 417. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+ 418. https://www.ssbwiki.com/Fox_(SSBM)
+ 419. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 420. https://www.ssbwiki.com/Kirby_(SSBM)
+ 421. https://www.ssbwiki.com/Link_(SSBM)
+ 422. https://www.ssbwiki.com/Luigi_(SSBM)
+ 423. https://www.ssbwiki.com/Ness_(SSBM)
+ 424. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 425. https://www.ssbwiki.com/Samus_(SSBM)
+ 426. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 427. https://www.ssbwiki.com/Newcomer
+ 428. https://www.ssbwiki.com/Bowser_(SSBM)
+ 429. https://www.ssbwiki.com/Dr._Mario_(SSBM)
+ 430. https://www.ssbwiki.com/Falco_(SSBM)
+ 431. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 432. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 433. https://www.ssbwiki.com/Marth_(SSBM)
+ 434. https://www.ssbwiki.com/Mewtwo_(SSBM)
+ 435. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSBM)
+ 436. https://www.ssbwiki.com/Peach_(SSBM)
+ 437. https://www.ssbwiki.com/Pichu_(SSBM)
+ 438. https://www.ssbwiki.com/Roy_(SSBM)
+ 439. https://www.ssbwiki.com/Young_Link_(SSBM)
+ 440. https://www.ssbwiki.com/Zelda_(SSBM)
+ 441. https://www.ssbwiki.com/Sheik_(SSBM)
+ 442. https://www.ssbwiki.com/Template:EnemiesAdvSSBM
+ 443. https://www.ssbwiki.com/Template_talk:EnemiesAdvSSBM
+ 444. https://www.ssbwiki.com/index.php?title=Template:EnemiesAdvSSBM&action=edit
+ 445. https://www.ssbwiki.com/Adventure_Mode
+ 446. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 447. https://www.ssbwiki.com/Mushroom_Kingdom_(Adventure_Mode)
+ 448. https://www.ssbwiki.com/Goomba
+ 449. https://www.ssbwiki.com/Koopa_Paratroopa
+ 450. https://www.ssbwiki.com/Koopa_Troopa
+ 451. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 452. https://www.ssbwiki.com/Peach_(SSBM)
+ 453. https://www.ssbwiki.com/Luigi_(SSBM)
+ 454. https://www.ssbwiki.com/Kongo_Jungle_(SSBM)
+ 455. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+ 456. https://www.ssbwiki.com/Giant_DK
+ 457. https://www.ssbwiki.com/Underground_Maze
+ 458. https://www.ssbwiki.com/Octorok
+ 459. https://www.ssbwiki.com/ReDead
+ 460. https://www.ssbwiki.com/Like_Like
+ 461. https://www.ssbwiki.com/Link_(SSBM)
+ 462. https://www.ssbwiki.com/Zelda_(SSBM)
+ 463. https://www.ssbwiki.com/Sheik_(SSBM)
+ 464. https://www.ssbwiki.com/Brinstar
+ 465. https://www.ssbwiki.com/Samus_(SSBM)
+ 466. https://www.ssbwiki.com/Green_Greens
+ 467. https://www.ssbwiki.com/Kirby_(SSBM)
+ 468. https://www.ssbwiki.com/Copy_Abilities_(SSBM)
+ 469. https://www.ssbwiki.com/Giant_Kirby
+ 470. https://www.ssbwiki.com/Corneria
+ 471. https://www.ssbwiki.com/Fox_(SSBM)
+ 472. https://www.ssbwiki.com/Falco_(SSBM)
+ 473. https://www.ssbwiki.com/Pokémon_Stadium
+ 474. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 475. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 476. https://www.ssbwiki.com/Pichu_(SSBM)
+ 477. https://www.ssbwiki.com/F-Zero_Grand_Prix
+ 478. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 479. https://www.ssbwiki.com/Onett
+ 480. https://www.ssbwiki.com/Ness_(SSBM)
+ 481. https://www.ssbwiki.com/Icicle_Mountain
+ 482. https://www.ssbwiki.com/Topi
+ 483. https://www.ssbwiki.com/Polar_Bear
+ 484. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 485. https://www.ssbwiki.com/Battlefield_(SSBM)
+ 486. https://www.ssbwiki.com/Fighting_Wire_Frames
+ 487. https://www.ssbwiki.com/Metal_Mario
+ 488. https://www.ssbwiki.com/Metal_Bros.#Metal_Luigi
+ 489. https://www.ssbwiki.com/Final_Destination_(SSBM)
+ 490. https://www.ssbwiki.com/Giant_Bowser
+ 491. https://www.ssbwiki.com/Giga_Bowser
+ 492. https://www.ssbwiki.com/Template:Mario_universe
+ 493. https://www.ssbwiki.com/Template_talk:Mario_universe
+ 494. https://www.ssbwiki.com/index.php?title=Template:Mario_universe&action=edit
+ 495. https://www.ssbwiki.com/Mario_(universe)
+ 496. https://www.ssbwiki.com/Mario_(universe)
+ 497. https://www.ssbwiki.com/Character
+ 498. https://www.ssbwiki.com/Mario
+ 499. https://www.ssbwiki.com/Mario_(SSB)
+ 500. https://www.ssbwiki.com/Mario_(SSBB)
+ 501. https://www.ssbwiki.com/Mario_(SSB4)
+ 502. https://www.ssbwiki.com/Mario_(SSBU)
+ 503. https://www.ssbwiki.com/Luigi
+ 504. https://www.ssbwiki.com/Luigi_(SSB)
+ 505. https://www.ssbwiki.com/Luigi_(SSBM)
+ 506. https://www.ssbwiki.com/Luigi_(SSBB)
+ 507. https://www.ssbwiki.com/Luigi_(SSB4)
+ 508. https://www.ssbwiki.com/Luigi_(SSBU)
+ 509. https://www.ssbwiki.com/Peach
+ 510. https://www.ssbwiki.com/Peach_(SSBM)
+ 511. https://www.ssbwiki.com/Peach_(SSBB)
+ 512. https://www.ssbwiki.com/Peach_(SSB4)
+ 513. https://www.ssbwiki.com/Peach_(SSBU)
+ 514. https://www.ssbwiki.com/Bowser
+ 515. https://www.ssbwiki.com/Bowser_(SSBM)
+ 516. https://www.ssbwiki.com/Bowser_(SSBB)
+ 517. https://www.ssbwiki.com/Bowser_(SSB4)
+ 518. https://www.ssbwiki.com/Bowser_(SSBU)
+ 519. https://www.ssbwiki.com/Dr._Mario
+ 520. https://www.ssbwiki.com/Dr._Mario_(SSBM)
+ 521. https://www.ssbwiki.com/Dr._Mario_(SSB4)
+ 522. https://www.ssbwiki.com/Dr._Mario_(SSBU)
+ 523. https://www.ssbwiki.com/Rosalina
+ 524. https://www.ssbwiki.com/Rosalina_(SSB4)
+ 525. https://www.ssbwiki.com/Rosalina_(SSBU)
+ 526. https://www.ssbwiki.com/Luma
+ 527. https://www.ssbwiki.com/Bowser_Jr.
+ 528. https://www.ssbwiki.com/Bowser_Jr._(SSB4)
+ 529. https://www.ssbwiki.com/Bowser_Jr._(SSBU)
+ 530. https://www.ssbwiki.com/Koopalings
+ 531. https://www.ssbwiki.com/Daisy
+ 532. https://www.ssbwiki.com/Daisy_(SSBU)
+ 533. https://www.ssbwiki.com/Piranha_Plant
+ 534. https://www.ssbwiki.com/Piranha_Plant_(SSBU)
+ 535. https://www.ssbwiki.com/Assist_Trophies
+ 536. https://www.ssbwiki.com/Chain_Chomp
+ 537. https://www.ssbwiki.com/Flies_&_Hand
+ 538. https://www.ssbwiki.com/Hammer_Bro.
+ 539. https://www.ssbwiki.com/Lakitu_and_Spinies
+ 540. https://www.ssbwiki.com/Thwomp
+ 541. https://www.ssbwiki.com/Waluigi
+ 542. https://www.ssbwiki.com/Boss
+ 543. https://www.ssbwiki.com/Metal_Mario
+ 544. https://www.ssbwiki.com/Petey_Piranha
+ 545. https://www.ssbwiki.com/Stage
+ 546. https://www.ssbwiki.com/Peach's_Castle
+ 547. https://www.ssbwiki.com/Mushroom_Kingdom_(SSB)
+ 548. https://www.ssbwiki.com/Princess_Peach's_Castle
+ 549. https://www.ssbwiki.com/Rainbow_Cruise
+ 550. https://www.ssbwiki.com/Mushroom_Kingdom_(SSBM)
+ 551. https://www.ssbwiki.com/Mushroom_Kingdom_II
+ 552. https://www.ssbwiki.com/Delfino_Plaza
+ 553. https://www.ssbwiki.com/Mushroomy_Kingdom
+ 554. https://www.ssbwiki.com/Mario_Circuit_(SSBB)
+ 555. https://www.ssbwiki.com/Luigi's_Mansion
+ 556. https://www.ssbwiki.com/Mario_Bros.
+ 557. https://www.ssbwiki.com/3D_Land
+ 558. https://www.ssbwiki.com/Golden_Plains
+ 559. https://www.ssbwiki.com/Rainbow_Road
+ 560. https://www.ssbwiki.com/Paper_Mario
+ 561. https://www.ssbwiki.com/Mario_Galaxy
+ 562. https://www.ssbwiki.com/Mushroom_Kingdom_U
+ 563. https://www.ssbwiki.com/Mario_Circuit_(SSB4)
+ 564. https://www.ssbwiki.com/Super_Mario_Maker
+ 565. https://www.ssbwiki.com/New_Donk_City_Hall
+ 566. https://www.ssbwiki.com/Mushroom_Kingdom_(Adventure_Mode)
+ 567. https://www.ssbwiki.com/Item
+ 568. https://www.ssbwiki.com/Bob-omb
+ 569. https://www.ssbwiki.com/Fire_Flower
+ 570. https://www.ssbwiki.com/Green_Shell
+ 571. https://www.ssbwiki.com/Red_Shell
+ 572. https://www.ssbwiki.com/Super_Star
+ 573. https://www.ssbwiki.com/Bullet_Bill_(item)
+ 574. https://www.ssbwiki.com/Freezie
+ 575. https://www.ssbwiki.com/Hothead
+ 576. https://www.ssbwiki.com/Metal_Box
+ 577. https://www.ssbwiki.com/Poison_Mushroom
+ 578. https://www.ssbwiki.com/Super_Mushroom
+ 579. https://www.ssbwiki.com/Banana_Peel
+ 580. https://www.ssbwiki.com/Golden_Hammer
+ 581. https://www.ssbwiki.com/Lightning_Bolt
+ 582. https://www.ssbwiki.com/Boomerang_(item)
+ 583. https://www.ssbwiki.com/Fire_Bar
+ 584. https://www.ssbwiki.com/POW_Block
+ 585. https://www.ssbwiki.com/Spiny_Shell
+ 586. https://www.ssbwiki.com/Super_Leaf
+ 587. https://www.ssbwiki.com/Grass_(item)
+ 588. https://www.ssbwiki.com/Super_Launch_Star
+ 589. https://www.ssbwiki.com/Banzai_Bill
+ 590. https://www.ssbwiki.com/Bill_Blaster
+ 591. https://www.ssbwiki.com/Bullet_Bill_(enemy)
+ 592. https://www.ssbwiki.com/Flame_Chomp
+ 593. https://www.ssbwiki.com/Goomba
+ 594. https://www.ssbwiki.com/Giant_Goomba
+ 595. https://www.ssbwiki.com/Hammer_Bro.
+ 596. https://www.ssbwiki.com/Koopa_Paratroopa
+ 597. https://www.ssbwiki.com/Koopa_Troopa
+ 598. https://www.ssbwiki.com/Lakitu_and_Spinies
+ 599. https://www.ssbwiki.com/Magikoopa
+ 600. https://www.ssbwiki.com/Shy_Guy
+ 601. https://www.ssbwiki.com/Spike_Top
+ 602. https://www.ssbwiki.com/Birdo
+ 603. https://www.ssbwiki.com/Boo
+ 604. https://www.ssbwiki.com/Cappy_(Mario)
+ 605. https://www.ssbwiki.com/F.L.U.D.D.
+ 606. https://www.ssbwiki.com/Geno
+ 607. https://www.ssbwiki.com/Ghosts_(Luigi's_Mansion)
+ 608. https://www.ssbwiki.com/Kamek
+ 609. https://www.ssbwiki.com/Nabbit
+ 610. https://www.ssbwiki.com/Pauline
+ 611. https://www.ssbwiki.com/Pidgit
+ 612. https://www.ssbwiki.com/Poltergust_5000
+ 613. https://www.ssbwiki.com/Shadow_Mario_Paint
+ 614. https://www.ssbwiki.com/Shellcreeper
+ 615. https://www.ssbwiki.com/Shy_Guy
+ 616. https://www.ssbwiki.com/Sidestepper
+ 617. https://www.ssbwiki.com/Toad
+ 618. https://www.ssbwiki.com/Vegetable
+ 619. https://www.ssbwiki.com/Warp_Pipe
+ 620. https://www.ssbwiki.com/Trophies
+ 621. https://www.ssbwiki.com/Sticker
+ 622. https://www.ssbwiki.com/Spirits_(characters)
+ 623. https://www.ssbwiki.com/List_of_SSBM_trophies_(Super_Mario_Bros._series)
+ 624. https://www.ssbwiki.com/List_of_SSBB_trophies_(Super_Mario_Bros._series)
+ 625. https://www.ssbwiki.com/List_of_SSB4_trophies_(Super_Mario_Bros._series)
+ 626. https://www.ssbwiki.com/List_of_stickers_(Super_Mario_Bros._series)
+ 627. https://www.ssbwiki.com/List_of_spirits_(Super_Mario_series)
+ 628. https://www.ssbwiki.com/List_of_SSBB_Music_(Super_Mario_Bros._series)
+ 629. https://www.ssbwiki.com/List_of_SSBB_Music_(Mario_Kart_series)
+ 630. https://www.ssbwiki.com/List_of_SSB4_Music_(Super_Mario_Bros._series)
+ 631. https://www.ssbwiki.com/List_of_SSBU_Music_(Super_Mario_Bros._series)
+ 632. https://www.ssbwiki.com/List_of_SSBU_Music_(Mario_Kart_series)
+ 633. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 634. https://www.ssbwiki.com/Yoshi_(universe)
+ 635. https://www.ssbwiki.com/Wario_(universe)
+ 636. https://www.ssbwiki.com/Wrecking_Crew_(universe)
+ 637. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&oldid=1178324
+ 638. https://www.ssbwiki.com/Special:Categories
+ 639. https://www.ssbwiki.com/Category:Characters_(SSBM)
+ 640. https://www.ssbwiki.com/Category:Mario_universe
+ 641. https://www.ssbwiki.com/Category:Mario_(SSBM)
+ 642. https://www.ssbwiki.com/Category:Trophies_(SSBM)
+ 643. https://www.ssbwiki.com/Mario_(SSBM)
+ 644. https://www.ssbwiki.com/Talk:Mario_(SSBM)
+ 645. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=edit
+ 646. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=history
+ 647. https://www.ssbwiki.com/Special:MyTalk
+ 648. https://www.ssbwiki.com/Special:MyContributions
+ 649. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=Mario+(SSBM)
+ 650. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=Mario+(SSBM)
+ 651. https://www.ssbwiki.com/Main_Page
+ 652. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 653. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 654. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 655. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 656. https://www.ssbwiki.com/Super_Smash_Bros.
+ 657. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+ 658. https://www.ssbwiki.com/Stage
+ 659. https://www.ssbwiki.com/Mode
+ 660. https://www.ssbwiki.com/Item
+ 661. https://www.ssbwiki.com/Special:Random
+ 662. https://www.ssbwiki.com/Forum:Index
+ 663. https://www.ssbwiki.com/SmashWiki:Community_portal
+ 664. https://www.ssbwiki.com/Special:RecentChanges
+ 665. https://www.ssbwiki.com/Help:Contents
+ 666. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
+ 667. https://www.ssbwiki.com/SmashWiki:Discord_server
+ 668. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
+ 669. https://www.ssbwiki.com/Special:WhatLinksHere/Mario_(SSBM)
+ 670. https://www.ssbwiki.com/Special:RecentChangesLinked/Mario_(SSBM)
+ 671. https://www.ssbwiki.com/Special:SpecialPages
+ 672. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&printable=yes
+ 673. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&oldid=1178324
+ 674. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&action=info
+ 675. https://creativecommons.org/licenses/by-sa/3.0/
+ 676. https://www.mediawiki.org/
+ 677. https://creativecommons.org/licenses/by-sa/3.0/
+ 678. https://www.porplemontage.com/privacy
+ 679. https://www.ssbwiki.com/SmashWiki:About
+ 680. https://www.ssbwiki.com/SmashWiki:General_disclaimer
+ 681. https://www.ssbwiki.com/index.php?title=Mario_(SSBM)&mobileaction=toggle_view_mobile
+
+   Hidden links:
+ 683. https://www.ssbwiki.com/File:Mario%27s_Recovery_Options.gif
+ 684. https://www.ssbwiki.com/File:Mario%27s_Recovery_Options.gif
+ 685. https://www.ssbwiki.com/File:MarioAerialAttacksSSBM.png
+ 686. https://www.ssbwiki.com/File:MarioAerialAttacksSSBM.png
+ 687. https://www.ssbwiki.com/File:MushroomKingdomThemeMelee.ogg
+ 688. https://www.ssbwiki.com/File:MushroomKingdomThemeMelee.ogg
+ 689. https://www.ssbwiki.com/File:MarioClassicMode.jpg
+ 690. https://www.ssbwiki.com/File:MarioAdventureMode.jpg
+ 691. https://www.ssbwiki.com/File:MarioAllStarMode.jpg
+ 692. https://www.ssbwiki.com/File:Mario_Trophy_Melee.png
+ 693. https://www.ssbwiki.com/File:Mario_Trophy_(Smash).png
+ 694. https://www.ssbwiki.com/File:Mario_Trophy_(Smash_2).png
+ 695. https://www.ssbwiki.com/File:Mario_SSBM_art.png
+ 696. https://www.ssbwiki.com/File:MarioInGameArtworkSSBM.png
+ 697. https://www.ssbwiki.com/File:Mario_Landing_SSBM.jpg
+ 698. https://www.ssbwiki.com/File:MarioTornadoMelee.jpg
+ 699. https://www.ssbwiki.com/File:Mario_SuperJumpPunchSSBM.jpg
+ 700. https://www.ssbwiki.com/File:Ssbmmario4.jpg
+ 701. https://www.ssbwiki.com/File:Mario_Cape_Kirby_SSBM.jpg
+ 702. https://www.ssbwiki.com/File:Mario_Forward_Smash_Image_SSBM.jpg
+ 703. https://www.ssbwiki.com/Main_Page

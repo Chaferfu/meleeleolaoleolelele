@@ -1,0 +1,576 @@
+   #[1]Edit this page [2]SmashWiki (en) [3]SmashWiki Atom feed
+
+Captain Falcon (PM)
+
+   From SmashWiki, the Super Smash Bros. wiki
+   Jump to:[4]navigation, [5]search
+   [6]PM Icon.png
+   [7]Captain Falcon
+   in [8]Project M
+   [9]Captain Falcon SSBB.jpg
+   [10]FZeroSymbol.svg
+   [11]Universe         [12]F-Zero
+   Base game appearance [13]Brawl
+   Moveset inspiration  [14]Captain Falcon (SSBM)
+   Alternate costume    Retro Falcon
+
+   Captain Falcon is a playable character in the [15]Brawl mod [16]Project M. He was remade to be nearly identical to his Melee counterpart in terms of attack hitboxes and animations.
+
+   Captain Falcon is currently ranked 9th out of 41 on the [17]official tier list, placing him in the top portion of the A- tier. A slight improvement of his 8th out of 26 in Melee, and a drastic improvement over his 34th out of 38 in Brawl.
+
+Contents
+
+     * [18]1 Attributes
+     * [19]2 Changes from Melee, Brawl to PM
+          + [20]2.1 Aesthetics
+          + [21]2.2 Attributes
+          + [22]2.3 Ground Attacks
+          + [23]2.4 Aerial Attacks
+          + [24]2.5 Special Moves
+     * [25]3 Revisions
+          + [26]3.1 v2.1
+          + [27]3.2 v2.5b
+          + [28]3.3 v2.6b
+          + [29]3.4 v3.0
+          + [30]3.5 v3.01
+          + [31]3.6 v3.5
+          + [32]3.7 v3.6 Beta
+     * [33]4 Moveset
+     * [34]5 In competitive play
+          + [35]5.1 Notable players
+     * [36]6 Alternate costumes
+
+Attributes[[37]edit]
+
+   Falcon's Retro Costume in Project M 3.5
+
+   Captain Falcon had the reputation of being one of the worst Brawl characters in spite of his speed and power, as Brawl's physics crippled him and resulted in a massive drop in his tier position. Because of this, he has been reverted back to his Melee incarnation, while retaining a few buffs from his Brawl iteration. Since Project M returns to the physics of Melee, Captain Falcon's combo abilities are once again efficient, as the removal of [38]hitstun canceling no longer allows opponents to air dodge like they could in Brawl. Additionally, the [39]Knee Smash, his main finisher in Melee, is once again as easy to sweetspot as it was in Melee. Captain Falcon also benefits from the normalization of [40]sidesteps; it was lackluster in Melee, but since all sidesteps were made to be roughly the same in terms of frame data in Project M, he is no longer as susceptible to pressure. However, Captain Falcon can still be considered a glass cannon because his high falling speed hinders his already poor
+   recovery and makes him susceptible to combos and gimps.
+
+   Captain Falcon fares slightly better in Project M than he did in Melee partially due to the small buffs he's received, but also partially due to the addition of many more semi-floaty characters that Falcon can easily overwhelm and combo, leading him to have good matchups against a majority of the new characters. The expanded stage list, which allows for stage bans even in best of 5 sets, also allows Captain Falcon players to avoid being hard counterpicked to his worst stage in Melee, [41]Fountain of Dreams. In addition, metagame shifts have been favorable to him. Arguably his worst matchup in Melee, [42]Falco, has been slightly nerfed and has worse matchups against the new characters, causing him to be used less often. Other characters from Melee that were difficult to handle have also been nerfed, bringing Falcon's matchups against them closer to even. Due to these factors, Falcon is acknowledged to be better relative to the cast than he was in previous games.
+
+Changes from Melee, Brawl to PM[[43]edit]
+
+   Captain Falcon was mostly reverted to his Melee version while keeping a minority of improvements from Brawl.
+
+Aesthetics[[44]edit]
+
+     * Change Up and down taunts have switched positions. When using down taunt, he now also utters a soft "Yes!" This is an otherwise unused voice clip from Brawl's sound test.
+     * Change Kneeling victory pose is now more similar to Melee's version; he will thrust his chest forward and shout while briefly emitting fire.
+
+Attributes[[45]edit]
+
+     * Buff Captain Falcon is the character most affected by Project M's dashing changes; he no longer has a more exaggerated delay before his initial dash animation than every other character (particularly when starting the dash in the opposite direction that he is facing), allowing for much easier dashing jumps than in Melee.
+     * Buff Captain Falcon [46]jumps slightly higher (3.1 → 3.23).
+     * Buff Captain Falcon's soft landing is 1 frame faster (4 frames → 3).
+
+Ground Attacks[[47]edit]
+
+     * Buff [48]Gentleman (the third hit of [49]neutral attack) is now always separated from the rapid punches, just like in the PAL version of Melee. While there is still a big window of time where pressing the attack button results in the punches, it can be avoided by [50]jab canceling. On whiff, the jab combo has to be slightly delayed to avoid using the jabs.
+     * Change The first input of neutral attack has more base knockback (0 → 1).
+
+Aerial Attacks[[51]edit]
+
+     * Change Connecting with a sweetspotted [52]Knee Smash (forward aerial) when a [53]taunt input is held results in Falcon exclaiming "Yes!", like with Falcon Dive.
+     * Change Down aerial's [54]nipple spike now uses the fire element, making it more noticeable.
+
+Special Moves[[55]edit]
+
+     * Buff [56]Falcon Punch retains its reversible ability and startup from Brawl. It can now be reversed up to 4 times, receiving a 1% damage bonus per reverse after the first one.
+          + Change Each reversal after the first one resets the move's start-up.
+     * Buff Aerial [57]Raptor Boost propels Captain Falcon with forward momentum if it lands, and retains its ability to [58]edge sweetspot from Brawl. When used towards an edge from the ground, Captain Falcon now goes into the ending animation instead of instantly becoming helpless, allowing him to still grab the edge and come back to the stage. Landing lag for a successfully connected aerial Raptor Boost has been lowered to match that of a missed aerial Raptor Boost.
+     * Buff [59]Falcon Dive retains its vertical distance, its ability to grab foes on the ledge, and its damage (deals 17%, 2% more than Melee's 15%) from Brawl. The move also has slightly higher knockback and its edge sweetspot is now located higher on Falcon's body.
+     * Buff [60]Falcon Kick is reversible, and has less endlag. Its lingering hitboxes also have much more favorable angles, making the move safer.
+
+Revisions[[61]edit]
+
+v2.1[[62]edit]
+
+     * Buff Captain Falcon's side special has a ground to air transition animation similar to Ganondorf's to allow him to grab edges backwards.
+     * Change Captain Falcon's up special throw animations were touched up
+     * Nerf Captain Falcon's dash attack can slip off edges like in Melee
+     * Change Captain Falcon's up special received physics adjustments to match Melee
+
+v2.5b[[63]edit]
+
+     * Buff Captain Falcon's neutral special is now reversible
+     * Buff Captain Falcon's neutral special turn occurs slightly later and can be performed up to four times
+     * Change Captain Falcon's hurtboxes adjusted
+     * Change Captain Falcon's dash animation cleaned up
+     * Change Captain Falcon's forward roll animation adjusted to be like Melee
+     * Change Captain Falcon's aerial attack animations cleaned up to match up with Melee timings
+     * Change Captain Falcon's up special launch fire hit graphical effects restored
+
+v2.6b[[64]edit]
+
+     * Buff Aerial side special trigger box adjusted so that the hit connects more reliably once triggered
+     * Buff Aerial side special now spikes
+     * Buff Initial dash animation length increased by 1 frame to match Melee, improving moonwalk distance slightly
+     * Nerf Turn grab animation is longer to match other turn grabs
+     * Bug fix Fixed a bug on his Ledge Rolls that caused them to not free up the edge until the animations completely ended
+     * Change Neutral special additional turns can be prevented by holding B.
+
+v3.0[[65]edit]
+
+     * Buff Side special landing lag slightly reduced if it connects with an opponent, now is the same for Side-B whiff or hit
+     * Buff Falcon Kick is now B-reversible
+     * Nerf Grounded Falcon Kick endlag is slightly longer
+
+v3.01[[66]edit]
+
+     * Buff Forward-Throw and Up-Throw have had their hitlag decreased
+     * Buff Falcon Punch hitlag decreased
+
+v3.5[[67]edit]
+
+     * Buff Up smash's IASA frames decreased by one frame.
+     * Buff Falcon Kick's recovery frames from ground to air reduced to special landing rather than hard landing.
+     * Nerf Aerial Raptor Boost knockback reduced slightly.
+     * Nerf Grounded Raptor Boost now requires the player to hold the reverse direction for Captain Falcon to grab the ledge after going offstage with it.
+     * Change Falcon Kick knockback adjusted for its later hitboxes.
+     * Change Falcon Dive knockback adjusted to use set character momentum instead of set knockback per character.
+     * Change Up taunt has more IASA frames when facing right.
+     * Change Air jump and Falcon Dive landing animations cleaned up.
+
+v3.6 Beta[[68]edit]
+
+     * Buff Powershield size multiplier: x0.73 → 0.75
+     * Change Down aerial's nipple spike now has a fire element.
+     * Change Up throw and down throw's properties match Melee throws better.
+     * Nerf Aerial Raptor Boost has been reverted back to a meteor smash.
+     * Change Aerial Falcon Kick's landing hitbox has the following changes:
+          + Nerf Only hits grounded opponents.
+          + Buff Damage: 6% → 10%
+          + Nerf Knockback growth: 83 → 35
+          + Nerf Hitbox size: 6 → 5
+
+Moveset[[69]edit]
+
+   Up to date as of version 3.6.
+   Name Damage Description
+   Neutral attack 2% Captain Falcon punches twice, then knee strikes the opponent, which is then followed by a series of rapid punches. Stopping at the knee strike is known as the [70]Gentleman.
+   3%
+   8% (clean), 6% (late)
+   1-2% (loop)
+   Forward tilt ↗ 12% (leg), 11% (body) Captain Falcon does a roundhouse kick forward. This move can be angled up or down.
+   → 11%
+   ↘ 10% (leg), 11% (body)
+   Up tilt 13% Captain Falcon brings his leg above his head and slams it down in an axe-like fashion.
+   Down tilt 12% Does a sweep kick that deals vertical knockback.
+   Dash attack 10% (clean), 7% (late) Captain Falcon does a running shoulder tackle forward, hitting any opponent in his path.
+   Forward smash ↗ 21% Captain Falcon leans back and jabs an elbow forward, dealing powerful [71]flame damage. Has slow startup, but decent reach. This move can be angled up or down.
+   → 20%
+   ↘ 19%
+   Up smash 14%/8% (hit 1), 12%/13% (hit 2) Captain Falcon performs a spinning double kick in one short hop. A fast move that has good vertical range, but poor range horizontally.
+   Down smash 18% (front), 16% (back) Captain Falcon kicks forward and then backward.
+   Neutral aerial 5-6% (hit 1), 7% (hit 2) Captain Falcon kicks forwards twice. A powerful combo tool.
+   Forward aerial [72]Knee Smash 18% (clean), 6% (late) Often simply referred to as "The Knee", Captain Falcon jabs a knee forward. During the initial frames, the entire hitbox acts as a powerful [73]Sex kick with electrical properties and great horizontal knockback. After the initial frames, it becomes a weak but sufficient [74]semi-spike.
+   Back aerial 14% (clean), 8% (late) Captain Falcon delivers a strong backhanded punch from behind.
+   Up aerial 12%/13% (clean), 10%/12 (late) Captain Falcon does a flip kick with fast start-up and good all-around range. Primary used as a combo tool.
+   Down aerial 16% Captain Falcon stomps downward with both feet. Acts as a powerful [75]meteor smash, dealing a large amount of [76]hitstun. It the attack connects within Captain Falcon's torso, it becomes a "[77]nipple spike", a powerful [78]spike that deals flame damage.
+   Grab —
+   Pummel 3% Captain Falcon knees the opponent. A fairly quick pummel.
+   Forward throw 5% (hit 1), 4% (throw) Captain Falcon punches the enemy forward.
+   Back throw 5% (hit 1), 4% (throw) Captain Falcon puts the enemy behind him and kicks.
+   Up throw 4% (hit 1), 3% (throw) Captain Falcon holds the enemy up and punches them upwards. This throw can be used to start a [79]chain grab on fast fallers at mid-high percents.
+   Down throw 7% Captain Falcon swings the foe overhead and then slams them on the ground with a single arm. This throw can be used to start a chain grab on most non-fast fallers.
+   Floor attack (front) 6% Captain Falcon gets up and flips while kicking.
+   Floor attack (back) 6% Captain Falcon stands on both hands and perfprms a spinning double kick.
+   Floor attack (trip) 5% Captain Falcon gets up and punches both sides.
+   Edge attack (fast) 9% Captain Falcon pulls himself up and kicks forward.
+   Edge attack (slow) 10% Captain Falcon slowly climbs up does an uppercut.
+   Neutral special [80]Falcon Punch 27% (close), 25% (mid), 23% (far)
+   +1% damage when reversed Captain Falcon winds up and releases his iconic fiery punch. Can be reversed up to four times, with the attack's power increasing only on the first turn. Captain Falcon's momentum will be halted the moment he unleashes the punch while airborne.
+   Side special [81]Raptor Boost 7% Captain Falcon dashes forward. If he doesn't hit an opponent, he falls over, leaving him wide open for an enemy attack. If he hits an opponent on the ground, he launches a fiery uppercut, knocking them into the air. If he hits an opponent while in midair, he punches downward, meteor smashing them. This move can be used to [82]edgehog, and works as a leapfrog recovery in midair.
+   Up special [83]Falcon Dive 5% (grab), 12% (release), 8% (escape) Captain Falcon grabs his opponent and releases them with a fiery explosion. Goes into [84]helpless if he misses but if the move connect, he's free to use the same move again without landing.
+   Down special [85]Falcon Kick 15%/12%/9% (ground), 15%/13%/11% (air), 10% (landing) Captain Falcon rushes forward with a flaming high-speed kick. If he goes off a ledge, he continues dashing forward. If started in midair, he kicks down at a diagonal angle. Restores his midair jump, making it a useful move for horizontal recovery at long distances.
+   Final Smash [86]Blue Falcon 10% (car), 20% (ram), 10% (release) Captain Falcon calls in his F-Zero racer, the Blue Falcon. The opponent is hit by the vehicle as it zooms past, sending them to an unknown F-Zero track. Captain Falcon proceeds to run them down in the Blue Falcon, resulting in high knockback.
+
+In [87]competitive play[[88]edit]
+
+Notable players[[89]edit]
+
+     * [90]USA [91]Ace
+     * [92]Argentina  [93]Blip - One of the best players in Argentina.
+     * [94]USA  [95]Bongo - Ranked 15th on the NY/NJ Project M Power Rankings. Placed 3rd at Downfall 6 after beating [96]Aidan, [97]Yung Quaff, [98]DVD and [99]Phresh.
+     * [100]USA  [101]Darc - One of the best Falcon players in the world; placed 2nd at [102]We Tech Those, 5th at [103]We Tech Those 2, and 9th at [104]SuperNova; ranked 19th on [105]PMRank 2016.
+     * [106]USA  [107]Darkflame - Has wins on [108]Coney and [109]Frozen.
+     * [110]USA  [111]Darkrain - Placed 7th at [112]Smash 'N' Splash.
+     * [113]USA  [114]DMG - Placed 9th at [115]Aftershock and 25th at [116]Low Tier City 4.
+     * [117]USA  [118]Fatality - Previously considered one of the best Captain Falcon players.
+     * [119]USA  [120]Filthy Casual - Uses Captain Falcon alongside Wolf and Fox. Placed 7th at [121]FinalBOSS and 9th at [122]EVO 2016.
+     * [123]UK  [124]Fuzzyness - Placed 3rd at [125]B.E.A.S.T 6 and 4th at [126]Heir 3 using mostly Falcon.
+     * [127]USA  [128]Gahtzu - Placed 3rd at [129]KTAR XI and 17th at [130]Paragon Los Angeles 2015.
+     * [131]Germany  [132]Ice - Placed 7th at [133]B.E.A.S.T 4 using solo Falcon.
+     * [134]Netherlands  [135]Jeapie - Very proficient Falcon player. Placed 1st at Get Stomped On! 4.
+     * [136]Sweden  [137]Leffen - Placed 1st at [138]Beauty 10 using mostly Falcon.
+     * [139]Netherlands  [140]Mickey Blue - Active at the SmashWangeningen events.
+     * [141]Canada  [142]n0ne - Placed 9th at [143]Tipped Off 11, 9th at [144]Heir 3, and 5th at Project M in The Big House 2.
+     * [145]USA  [146]ORLY - Placed 9th at [147]Kings of the North 4, 2nd at [148]Endgame, and 9th at [149]Kings of the North V.
+     * [150]USA  [151]Remo - Placed 9th at [152]Shots Fired after defeating [153]StereoKiDD and [154]CruzyCakes.
+     * [155]USA  [156]Strawhat - Placed 5th at [157]WHOBO MLG, 5th at [158]WHOBO 5 and 3rd at [159]TGC.
+     * [160]USA  [161]SonED - Ranked 12th on the MD/VA Project M Power Rankings. Placed 5th at [162]We Tech Those 2 after defeating [163]Boiko, [164]Hyperflame, and [165]DVD.
+     * [166]USA  [167]Tai - Placed 7th at [168]Forte 2.
+     * [169]USA  [170]ThundeRzReiGN - A strong co-main for ThundeRzReiGN, widely considered to be the best player in the world; won [171]Cashed Out using primarily Falcon.
+     * [172]USA  [173]Venom - The best Captain Falcon player in SoCal. Placed 2nd at [174]SuperNova. Ranked 25th on the PMRank 2016.
+
+Alternate costumes[[175]edit]
+
+   Captain Falcon's set of alternate costumes now includes a purple outfit with a tucked in scarf based off of his appearance in the original Super Smash Bros. and his appearance from F-Zero X, and a retro version inspired by his initial F-Zero appearance seen in the original SNES F-Zero.
+   Captain Falcon's alternate costumes in PM
+   [176]CaptainFalconHeadSSBB.png [177]CaptainFalconHeadBlackSSBB.png [178]CaptainFalconHeadRedSSBB.png [179]CaptainFalconHeadGreenSSBB.png [180]CaptainFalconHeadBlueSSBB.png [181]CaptainFalconHeadWhiteSSBB.png [182]CaptainFalconHeadPurplePM.png [183]CaptainFalconHeadRetroPM.png
+
+   [184]v • [185]d • [186]e
+   [187]Playable characters in [188]Project M
+   Playable characters [189]Bowser ([190]Giga Bowser) · Captain Falcon · [191]Charizard · [192]Diddy Kong · [193]Donkey Kong · [194]Falco · [195]Fox · [196]Ganondorf · [197]Ice Climbers · [198]Ike · [199]Ivysaur · [200]Jigglypuff · [201]King Dedede · [202]Kirby · [203]Link · [204]Lucario · [205]Lucas · [206]Luigi · [207]Mario · [208]Marth · [209]Meta Knight · [210]Mewtwo · [211]Mr. Game & Watch · [212]Ness · [213]Olimar · [214]Peach · [215]Pikachu · [216]Pit · [217]R.O.B. · [218]Roy · [219]Samus · [220]Sheik · [221]Snake · [222]Sonic · [223]Squirtle · [224]Toon Link · [225]Wario ([226]Wario-Man) · [227]Wolf · [228]Yoshi · [229]Zelda · [230]Zero Suit Samus
+   Ads keep SmashWiki independent and free :)
+   Retrieved from "[231]https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&oldid=1108803"
+   [232]Categories:
+     * [233]Captain Falcon
+     * [234]Characters (PM)
+
+Navigation menu
+
+Views
+
+     * [235]Article
+     * [236]Discussion
+     * [237]Edit this page
+     * [238]History
+
+Personal tools
+
+     * Not logged in
+     * [239]Talk
+     * [240]Contributions
+     * [241]Create account
+     * [242]Log in
+
+Navigation
+
+     * [243]Main page
+     * [244]Smash Bros. Ultimate
+     * [245]Smash Bros. 4
+     * [246]Smash Bros. Brawl
+     * [247]Smash Bros. Melee
+     * [248]Smash Bros. (64)
+     * [249]Characters
+     * [250]Stages
+     * [251]Modes
+     * [252]Items
+     * [253]Random page
+
+Search
+
+   ____________________ Go  Search
+
+Participate
+
+     * [254]Forum
+     * [255]Community portal
+     * [256]Recent changes
+     * [257]Help
+     * [258]Admin noticeboard
+     * [259]Discord server
+     * [260]YouTube channel
+
+Tools
+
+     * [261]What links here
+     * [262]Related changes
+     * [263]Special pages
+     * [264]Printable version
+     * [265]Permanent link
+     * [266]Page information
+
+   [267]Attribution-Share Alike 3.0 Unported
+   [268]Powered by MediaWiki
+     * This page was last edited on 31 October 2018, at 23:23.
+     * Content is available under [269]Attribution-Share Alike 3.0 Unported unless otherwise noted.
+     * [270]Privacy policy
+     * [271]About SmashWiki
+     * [272]Disclaimers
+     * [273]Mobile view
+
+References
+
+   Visible links
+   1. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&action=edit
+   2. https://www.ssbwiki.com/opensearch_desc.php
+   3. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&feed=atom
+   4. https://www.ssbwiki.com/Captain_Falcon_(PM)#column-one
+   5. https://www.ssbwiki.com/Captain_Falcon_(PM)#searchInput
+   6. https://www.ssbwiki.com/Project_M
+   7. https://www.ssbwiki.com/Captain_Falcon
+   8. https://www.ssbwiki.com/Project_M
+   9. https://www.ssbwiki.com/File:Captain_Falcon_SSBB.jpg
+  10. https://www.ssbwiki.com/File:FZeroSymbol.svg
+  11. https://www.ssbwiki.com/Universe
+  12. https://www.ssbwiki.com/F-Zero_(universe)
+  13. https://www.ssbwiki.com/Captain_Falcon_(SSBB)
+  14. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+  15. https://www.ssbwiki.com/Brawl
+  16. https://www.ssbwiki.com/Project_M
+  17. https://www.ssbwiki.com/Project_M#Tier_list
+  18. https://www.ssbwiki.com/Captain_Falcon_(PM)#Attributes
+  19. https://www.ssbwiki.com/Captain_Falcon_(PM)#Changes_from_Melee.2C_Brawl_to_PM
+  20. https://www.ssbwiki.com/Captain_Falcon_(PM)#Aesthetics
+  21. https://www.ssbwiki.com/Captain_Falcon_(PM)#Attributes_2
+  22. https://www.ssbwiki.com/Captain_Falcon_(PM)#Ground_Attacks
+  23. https://www.ssbwiki.com/Captain_Falcon_(PM)#Aerial_Attacks
+  24. https://www.ssbwiki.com/Captain_Falcon_(PM)#Special_Moves
+  25. https://www.ssbwiki.com/Captain_Falcon_(PM)#Revisions
+  26. https://www.ssbwiki.com/Captain_Falcon_(PM)#v2.1
+  27. https://www.ssbwiki.com/Captain_Falcon_(PM)#v2.5b
+  28. https://www.ssbwiki.com/Captain_Falcon_(PM)#v2.6b
+  29. https://www.ssbwiki.com/Captain_Falcon_(PM)#v3.0
+  30. https://www.ssbwiki.com/Captain_Falcon_(PM)#v3.01
+  31. https://www.ssbwiki.com/Captain_Falcon_(PM)#v3.5
+  32. https://www.ssbwiki.com/Captain_Falcon_(PM)#v3.6_Beta
+  33. https://www.ssbwiki.com/Captain_Falcon_(PM)#Moveset
+  34. https://www.ssbwiki.com/Captain_Falcon_(PM)#In_competitive_play
+  35. https://www.ssbwiki.com/Captain_Falcon_(PM)#Notable_players
+  36. https://www.ssbwiki.com/Captain_Falcon_(PM)#Alternate_costumes
+  37. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&action=edit&section=1
+  38. https://www.ssbwiki.com/Hitstun_canceling
+  39. https://www.ssbwiki.com/Knee_Smash
+  40. https://www.ssbwiki.com/Sidestep
+  41. https://www.ssbwiki.com/Fountain_of_Dreams
+  42. https://www.ssbwiki.com/Falco_(SSBM)
+  43. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&action=edit&section=2
+  44. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&action=edit&section=3
+  45. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&action=edit&section=4
+  46. https://www.ssbwiki.com/Jump
+  47. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&action=edit&section=5
+  48. https://www.ssbwiki.com/Gentleman
+  49. https://www.ssbwiki.com/Neutral_attack
+  50. https://www.ssbwiki.com/Jab_cancel
+  51. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&action=edit&section=6
+  52. https://www.ssbwiki.com/Knee_Smash
+  53. https://www.ssbwiki.com/Taunt
+  54. https://www.ssbwiki.com/Nipple_spike
+  55. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&action=edit&section=7
+  56. https://www.ssbwiki.com/Falcon_Punch
+  57. https://www.ssbwiki.com/Raptor_Boost
+  58. https://www.ssbwiki.com/Edge_sweetspot
+  59. https://www.ssbwiki.com/Falcon_Dive
+  60. https://www.ssbwiki.com/Falcon_Kick
+  61. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&action=edit&section=8
+  62. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&action=edit&section=9
+  63. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&action=edit&section=10
+  64. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&action=edit&section=11
+  65. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&action=edit&section=12
+  66. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&action=edit&section=13
+  67. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&action=edit&section=14
+  68. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&action=edit&section=15
+  69. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&action=edit&section=16
+  70. https://www.ssbwiki.com/Gentleman
+  71. https://www.ssbwiki.com/Flame
+  72. https://www.ssbwiki.com/Knee_Smash
+  73. https://www.ssbwiki.com/Sex_kick
+  74. https://www.ssbwiki.com/Semi-spike
+  75. https://www.ssbwiki.com/Meteor_smash
+  76. https://www.ssbwiki.com/Hitstun
+  77. https://www.ssbwiki.com/Nipple_spike
+  78. https://www.ssbwiki.com/Spike
+  79. https://www.ssbwiki.com/Chain_grab
+  80. https://www.ssbwiki.com/Falcon_Punch
+  81. https://www.ssbwiki.com/Raptor_Boost
+  82. https://www.ssbwiki.com/Edgehog
+  83. https://www.ssbwiki.com/Falcon_Dive
+  84. https://www.ssbwiki.com/Helpless
+  85. https://www.ssbwiki.com/Falcon_Kick
+  86. https://www.ssbwiki.com/Blue_Falcon
+  87. https://www.ssbwiki.com/Competitive_play
+  88. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&action=edit&section=17
+  89. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&action=edit&section=18
+  90. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  91. https://www.ssbwiki.com/index.php?title=Smasher:Ace_(Colorado)&action=edit&redlink=1
+  92. https://www.ssbwiki.com/File:Flag_of_Argentina.png
+  93. https://www.ssbwiki.com/Smasher:Blip
+  94. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  95. https://www.ssbwiki.com/Smasher:Bongo
+  96. https://www.ssbwiki.com/Smasher:Aidan
+  97. https://www.ssbwiki.com/Smasher:Yung_Quaff
+  98. https://www.ssbwiki.com/Smasher:DVD
+  99. https://www.ssbwiki.com/Smasher:Phresh
+ 100. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 101. https://www.ssbwiki.com/Smasher:Darc
+ 102. https://www.ssbwiki.com/We_Tech_Those
+ 103. https://www.ssbwiki.com/We_Tech_Those_2
+ 104. https://www.ssbwiki.com/SuperNova
+ 105. https://www.ssbwiki.com/PMRank_2016
+ 106. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 107. https://www.ssbwiki.com/Smasher:Darkflame
+ 108. https://www.ssbwiki.com/Smasher:Coney
+ 109. https://www.ssbwiki.com/Smasher:Frozen
+ 110. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 111. https://www.ssbwiki.com/Smasher:Darkrain
+ 112. https://www.ssbwiki.com/Smash_'N'_Splash
+ 113. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 114. https://www.ssbwiki.com/Smasher:DMG
+ 115. https://www.ssbwiki.com/Aftershock
+ 116. https://www.ssbwiki.com/Low_Tier_City_4
+ 117. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 118. https://www.ssbwiki.com/Smasher:Fatality
+ 119. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 120. https://www.ssbwiki.com/Smasher:Filthy_Casual
+ 121. https://www.ssbwiki.com/FinalBOSS
+ 122. https://www.ssbwiki.com/EVO_2016
+ 123. https://www.ssbwiki.com/File:Flag_of_United_Kingdom.png
+ 124. https://www.ssbwiki.com/Smasher:Fuzzyness
+ 125. https://www.ssbwiki.com/B.E.A.S.T_6
+ 126. https://www.ssbwiki.com/Heir_3
+ 127. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 128. https://www.ssbwiki.com/Smasher:Gahtzu
+ 129. https://www.ssbwiki.com/KTAR_XI
+ 130. https://www.ssbwiki.com/Paragon_Los_Angeles_2015
+ 131. https://www.ssbwiki.com/File:Flag_of_Germany.png
+ 132. https://www.ssbwiki.com/Smasher:Ice
+ 133. https://www.ssbwiki.com/B.E.A.S.T_4
+ 134. https://www.ssbwiki.com/File:Flag_of_The_Netherlands.png
+ 135. https://www.ssbwiki.com/Smasher:Jeapie
+ 136. https://www.ssbwiki.com/File:Flag_of_Sweden.png
+ 137. https://www.ssbwiki.com/Smasher:Leffen
+ 138. https://www.ssbwiki.com/Beauty_10
+ 139. https://www.ssbwiki.com/File:Flag_of_The_Netherlands.png
+ 140. https://www.ssbwiki.com/index.php?title=Smasher:Mickey_Blue&action=edit&redlink=1
+ 141. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 142. https://www.ssbwiki.com/Smasher:N0ne
+ 143. https://www.ssbwiki.com/Tipped_Off_11
+ 144. https://www.ssbwiki.com/Heir_3
+ 145. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 146. https://www.ssbwiki.com/Smasher:ORLY
+ 147. https://www.ssbwiki.com/Kings_of_the_North_4
+ 148. https://www.ssbwiki.com/Endgame
+ 149. https://www.ssbwiki.com/Kings_of_the_North_V
+ 150. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 151. https://www.ssbwiki.com/index.php?title=Smasher:Remo&action=edit&redlink=1
+ 152. https://www.ssbwiki.com/Shots_Fired
+ 153. https://www.ssbwiki.com/Smasher:StereoKiDD
+ 154. https://www.ssbwiki.com/index.php?title=Smasher:CruzyCakes&action=edit&redlink=1
+ 155. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 156. https://www.ssbwiki.com/index.php?title=Smasher:Strawhat&action=edit&redlink=1
+ 157. https://www.ssbwiki.com/WHOBO_MLG
+ 158. https://www.ssbwiki.com/WHOBO_5
+ 159. https://www.ssbwiki.com/TGC
+ 160. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 161. https://www.ssbwiki.com/index.php?title=Smasher:SonED&action=edit&redlink=1
+ 162. https://www.ssbwiki.com/We_Tech_Those_2
+ 163. https://www.ssbwiki.com/Smasher:Boiko
+ 164. https://www.ssbwiki.com/Smasher:Hyperflame
+ 165. https://www.ssbwiki.com/Smasher:DVD
+ 166. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 167. https://www.ssbwiki.com/Smasher:Tai
+ 168. https://www.ssbwiki.com/Forte_2
+ 169. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 170. https://www.ssbwiki.com/Smasher:ThundeRzReiGN
+ 171. https://www.ssbwiki.com/Cashed_Out
+ 172. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 173. https://www.ssbwiki.com/Smasher:Venom
+ 174. https://www.ssbwiki.com/SuperNova
+ 175. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&action=edit&section=19
+ 176. https://www.ssbwiki.com/File:CaptainFalconHeadSSBB.png
+ 177. https://www.ssbwiki.com/File:CaptainFalconHeadBlackSSBB.png
+ 178. https://www.ssbwiki.com/File:CaptainFalconHeadRedSSBB.png
+ 179. https://www.ssbwiki.com/File:CaptainFalconHeadGreenSSBB.png
+ 180. https://www.ssbwiki.com/File:CaptainFalconHeadBlueSSBB.png
+ 181. https://www.ssbwiki.com/File:CaptainFalconHeadWhiteSSBB.png
+ 182. https://www.ssbwiki.com/File:CaptainFalconHeadPurplePM.png
+ 183. https://www.ssbwiki.com/File:CaptainFalconHeadRetroPM.png
+ 184. https://www.ssbwiki.com/Template:Project_M
+ 185. https://www.ssbwiki.com/Template_talk:Project_M
+ 186. https://www.ssbwiki.com/index.php?title=Template:Project_M&action=edit
+ 187. https://www.ssbwiki.com/Characters
+ 188. https://www.ssbwiki.com/Project_M
+ 189. https://www.ssbwiki.com/Bowser_(PM)
+ 190. https://www.ssbwiki.com/Giga_Bowser
+ 191. https://www.ssbwiki.com/Charizard_(PM)
+ 192. https://www.ssbwiki.com/Diddy_Kong_(PM)
+ 193. https://www.ssbwiki.com/Donkey_Kong_(PM)
+ 194. https://www.ssbwiki.com/Falco_(PM)
+ 195. https://www.ssbwiki.com/Fox_(PM)
+ 196. https://www.ssbwiki.com/Ganondorf_(PM)
+ 197. https://www.ssbwiki.com/Ice_Climbers_(PM)
+ 198. https://www.ssbwiki.com/Ike_(PM)
+ 199. https://www.ssbwiki.com/Ivysaur_(PM)
+ 200. https://www.ssbwiki.com/Jigglypuff_(PM)
+ 201. https://www.ssbwiki.com/King_Dedede_(PM)
+ 202. https://www.ssbwiki.com/Kirby_(PM)
+ 203. https://www.ssbwiki.com/Link_(PM)
+ 204. https://www.ssbwiki.com/Lucario_(PM)
+ 205. https://www.ssbwiki.com/Lucas_(PM)
+ 206. https://www.ssbwiki.com/Luigi_(PM)
+ 207. https://www.ssbwiki.com/Mario_(PM)
+ 208. https://www.ssbwiki.com/Marth_(PM)
+ 209. https://www.ssbwiki.com/Meta_Knight_(PM)
+ 210. https://www.ssbwiki.com/Mewtwo_(PM)
+ 211. https://www.ssbwiki.com/Mr._Game_&_Watch_(PM)
+ 212. https://www.ssbwiki.com/Ness_(PM)
+ 213. https://www.ssbwiki.com/Olimar_(PM)
+ 214. https://www.ssbwiki.com/Peach_(PM)
+ 215. https://www.ssbwiki.com/Pikachu_(PM)
+ 216. https://www.ssbwiki.com/Pit_(PM)
+ 217. https://www.ssbwiki.com/R.O.B._(PM)
+ 218. https://www.ssbwiki.com/Roy_(PM)
+ 219. https://www.ssbwiki.com/Samus_(PM)
+ 220. https://www.ssbwiki.com/Sheik_(PM)
+ 221. https://www.ssbwiki.com/Snake_(PM)
+ 222. https://www.ssbwiki.com/Sonic_(PM)
+ 223. https://www.ssbwiki.com/Squirtle_(PM)
+ 224. https://www.ssbwiki.com/Toon_Link_(PM)
+ 225. https://www.ssbwiki.com/Wario_(PM)
+ 226. https://www.ssbwiki.com/Wario-Man
+ 227. https://www.ssbwiki.com/Wolf_(PM)
+ 228. https://www.ssbwiki.com/Yoshi_(PM)
+ 229. https://www.ssbwiki.com/Zelda_(PM)
+ 230. https://www.ssbwiki.com/Zero_Suit_Samus_(PM)
+ 231. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&oldid=1108803
+ 232. https://www.ssbwiki.com/Special:Categories
+ 233. https://www.ssbwiki.com/Category:Captain_Falcon
+ 234. https://www.ssbwiki.com/Category:Characters_(PM)
+ 235. https://www.ssbwiki.com/Captain_Falcon_(PM)
+ 236. https://www.ssbwiki.com/Talk:Captain_Falcon_(PM)
+ 237. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&action=edit
+ 238. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&action=history
+ 239. https://www.ssbwiki.com/Special:MyTalk
+ 240. https://www.ssbwiki.com/Special:MyContributions
+ 241. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=Captain+Falcon+(PM)
+ 242. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=Captain+Falcon+(PM)
+ 243. https://www.ssbwiki.com/Main_Page
+ 244. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 245. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 246. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 247. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 248. https://www.ssbwiki.com/Super_Smash_Bros.
+ 249. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+ 250. https://www.ssbwiki.com/Stage
+ 251. https://www.ssbwiki.com/Mode
+ 252. https://www.ssbwiki.com/Item
+ 253. https://www.ssbwiki.com/Special:Random
+ 254. https://www.ssbwiki.com/Forum:Index
+ 255. https://www.ssbwiki.com/SmashWiki:Community_portal
+ 256. https://www.ssbwiki.com/Special:RecentChanges
+ 257. https://www.ssbwiki.com/Help:Contents
+ 258. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
+ 259. https://www.ssbwiki.com/SmashWiki:Discord_server
+ 260. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
+ 261. https://www.ssbwiki.com/Special:WhatLinksHere/Captain_Falcon_(PM)
+ 262. https://www.ssbwiki.com/Special:RecentChangesLinked/Captain_Falcon_(PM)
+ 263. https://www.ssbwiki.com/Special:SpecialPages
+ 264. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&printable=yes
+ 265. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&oldid=1108803
+ 266. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&action=info
+ 267. https://creativecommons.org/licenses/by-sa/3.0/
+ 268. https://www.mediawiki.org/
+ 269. https://creativecommons.org/licenses/by-sa/3.0/
+ 270. https://www.porplemontage.com/privacy
+ 271. https://www.ssbwiki.com/SmashWiki:About
+ 272. https://www.ssbwiki.com/SmashWiki:General_disclaimer
+ 273. https://www.ssbwiki.com/index.php?title=Captain_Falcon_(PM)&mobileaction=toggle_view_mobile
+
+   Hidden links:
+ 275. https://www.ssbwiki.com/File:Retro_Captain_Falcon_PM.png
+ 276. https://www.ssbwiki.com/File:Retro_Captain_Falcon_PM.png
+ 277. https://www.ssbwiki.com/File:Captain_Falcon_Palette_(PM).png
+ 278. https://www.ssbwiki.com/Main_Page

@@ -1,0 +1,1259 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>2017 SSBMRank - SmashWiki, the Super Smash Bros. wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"2017_SSBMRank","wgTitle":"2017 SSBMRank","wgCurRevisionId":1123517,"wgRevisionId":1123517,"wgArticleId":79758,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["SSBMRank"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"2017_SSBMRank","wgRelevantArticleId":79758,"wgRequestId":"66099f2f557d4b965a2c23b0","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.monobook.styles":"ready"});mw.loader.implement("user.tokens@1wh661d",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.ReferenceTooltips","ext.gadget.VideoResizer","ext.gadget.RecentChangesRefresh","ext.gadget.Countdown"]);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<script async="" src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<!--[if IE 6]><link rel="stylesheet" href="/skins/MonoBook/resources/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/skins/MonoBook/resources/IE70Fixes.css?303" media="screen"/><![endif]-->
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=monobook"/>
+<meta name="generator" content="MediaWiki 1.31.1"/>
+<meta property="og:site_name" content="SmashWiki"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="2017 SSBMRank"/>
+<meta property="og:description" content="The 2017 SSBMRank lists the world&#039;s top 100 Super Smash Bros. Melee smashers, as compiled by Melee It On Me. They are being announced in a series of Red Bull eSports articles that are published from January 3rd, 2018 to January 16th, 2018."/>
+<meta property="og:url" content="https://www.ssbwiki.com/2017_SSBMRank"/>
+<meta name="description" content="The 2017 SSBMRank lists the world&#039;s top 100 Super Smash Bros. Melee smashers, as compiled by Melee It On Me. They are being announced in a series of Red Bull eSports articles that are published from January 3rd, 2018 to January 16th, 2018."/>
+<meta name="theme-color" content="#B8D0FB"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/index.php?title=2017_SSBMRank&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/index.php?title=2017_SSBMRank&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="SmashWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://www.ssbwiki.com/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="SmashWiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-26290530-5', 'ssbwiki.com');
+  ga('send', 'pageview');
+
+</script>
+<script async src="//tags-cdn.deployads.com/a/ssbwiki.com.js"></script>
+<style type="text/css">
+.inlineContainer { text-align: center; margin: 10px 0 2px 0; }
+.displaySmall { display: inline-block; width: 468px; }
+@media (min-width: 1100px) {
+.displaySmall { display: none !important; }
+.displayLarge { display: inline-block !important; width: 728px; } }
+</style>
+<style type="text/css">
+.ad-sticky { top: 10px !important; }
+.catlinks { margin-right: 166px; }
+</style>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=monobook&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-2017_SSBMRank rootpage-2017_SSBMRank skin-monobook action-view"><div id="globalWrapper"><div id="column-content"><div id="content" class="mw-body" role="main"><a id="top"></a><div id="siteNotice" class="mw-body-content"><div id="mw-dismissablenotice-anonplace"></div><script>(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv id=\"localNotice\" lang=\"en\" dir=\"ltr\"\u003E\u003Cdiv class=\"mw-parser-output\"\u003E\u003Ctable class=\"wikitable\" style=\"width:90%; margin:0.6em auto 0 auto; text-align:center; background:#bfefef\"\u003E\n\n\u003Ctr style=\"border:2px solid #00bfbf;\"\u003E\n\u003Ctd\u003EWelcome to \u003Ca href=\"/SmashWiki:About\" title=\"SmashWiki:About\"\u003ESmashWiki\u003C/a\u003E! \u003Ca href=\"/Special:UserLogin\" title=\"Special:UserLogin\"\u003ELogin\u003C/a\u003E or \u003Ca href=\"/Special:UserLogin/signup\" title=\"Special:UserLogin/signup\"\u003Ecreate an account\u003C/a\u003E and join the community, and don't forget to \u003Ca href=\"/SW:FIRST\" class=\"mw-redirect\" title=\"SW:FIRST\"\u003Eread this first\u003C/a\u003E!\n\u003C/td\u003E\u003C/tr\u003E\u003C/table\u003E\n\u003Ctable class=\"wikitable\" style=\"width:90%; margin:0.6em auto 0.6em auto; text-align:center; background:rgba(127,127,191,0.25);border:2px solid rgba(127,127,191,1.0)\"\u003E\n\u003Ctr\u003E\n\u003Ctd style=\"background:rgba(127,127,191,1.0)\"\u003E\u003Cb\u003ENotices\u003C/b\u003E\n\u003C/td\u003E\u003C/tr\u003E\n\u003Ctr style=\"border:2px solid rgba(127,127,191,1.0)\"\u003E\n\u003Ctd\u003ERemember to sign your talk page comments with ~~~~.\n\u003C/td\u003E\u003C/tr\u003E\u003C/table\u003E\n\u003C/div\u003E\u003C/div\u003E";}}());</script></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">2017 SSBMRank</h1><div id="bodyContent" class="mw-body-content"><div id="siteSub">From SmashWiki, the Super Smash Bros. wiki</div><div id="contentSub" lang="en" dir="ltr"></div><div id="jump-to-nav" class="mw-jump">Jump to:<a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div><!-- start content --><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div style="text-align: center; margin: -11px 0 8px 0; z-index: 4;">
+<div class="ad-tag" data-ad-name="Leaderboard1_728x90" data-ad-size="728x90"></div>
+<script>(deployads = window.deployads || []).push({});</script>
+</div>
+<table border="0" width="100%" style="margin: 0; padding: 0; table-layout: fixed;">
+<tr>
+<td valign="top" style="padding: 0; overflow: hidden;"><div class="mw-parser-output"><div id="ArticleIcons" style="position:absolute;z-index:100;right:10px;top:-30px;float:right">
+<table cellpadding="0" cellspacing="1" style="background:transparent;float:right">
+<tbody><tr>
+<td><a href="/Super_Smash_Bros._Melee" title="Super Smash Bros. Melee"><img alt="SSBM Icon.png" src="/images/thumb/e/ea/SSBM_Icon.png/24px-SSBM_Icon.png" width="24" height="24" srcset="/images/thumb/e/ea/SSBM_Icon.png/36px-SSBM_Icon.png 1.5x, /images/thumb/e/ea/SSBM_Icon.png/48px-SSBM_Icon.png 2x" /></a></td>
+<td><a href="/Tournament" title="Tournament"><img alt="Competitive.png" src="/images/thumb/5/50/Competitive.png/24px-Competitive.png" width="24" height="24" srcset="/images/thumb/5/50/Competitive.png/36px-Competitive.png 1.5x, /images/thumb/5/50/Competitive.png/48px-Competitive.png 2x" /></a>
+</td></tr></tbody></table></div>
+<p>The <b>2017 <a href="/SSBMRank" title="SSBMRank">SSBMRank</a></b> lists the world's top 100 <i><a href="/Super_Smash_Bros._Melee" title="Super Smash Bros. Melee">Super Smash Bros. Melee</a></i> <a href="/Smasher" title="Smasher">smashers</a>, as compiled by <a href="/Melee_It_On_Me" class="mw-redirect" title="Melee It On Me">Melee It On Me</a>. They are being announced in a series of Red Bull eSports articles that are published from January 3rd, 2018 to January 16th, 2018.  
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Methods"><span class="tocnumber">1</span> <span class="toctext">Methods</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Panelists"><span class="tocnumber">1.1</span> <span class="toctext">Panelists</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Rankings"><span class="tocnumber">2</span> <span class="toctext">Rankings</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#101-104_.28Just_Barely_Missed_The_Cut.29"><span class="tocnumber">2.1</span> <span class="toctext">101-104 (Just Barely Missed The Cut)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Hidden_Bosses"><span class="tocnumber">3</span> <span class="toctext">Hidden Bosses</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#List_of_Final_Nominees"><span class="tocnumber">3.1</span> <span class="toctext">List of Final Nominees</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Initial_Nominee_List_.28Players_that_were_noted.2C_but_were_not_on_the_final_ballots.29"><span class="tocnumber">3.2</span> <span class="toctext">Initial Nominee List (Players that were noted, but were not on the final ballots)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Methods">Methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=2017_SSBMRank&amp;action=edit&amp;section=1" title="Edit section: Methods">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Roughly 60 people, such as top players, community leaders, tournament seeders, and regional power rankers, were chosen to be panelists for this edition of <a href="/SSBMRank" title="SSBMRank">SSBMRank</a>. The panelists were asked to rate players based on the following criterion:<br /><i>Based on quality and quantity of results in 2017, rate each player on a scale of 1-10. Imagine if everyone entered a tournament, one hundred times. Who would perform the best?</i><br /> The tournaments were from <a href="/Eden" class="mw-redirect" title="Eden">Eden</a> to (only top 30 could be edited at this point) <a href="/The_Holiday_Bash_Smash_Invitational" class="mw-redirect" title="The Holiday Bash Smash Invitational">The Holiday Bash Smash Invitational</a>. They voted on a 1-10 scale with the best player receiving a "10" and the worst player receiving a "1". Ballots that were not scaled properly were rescaled using an algorithm. The three lowest and three highest ratings before taking the average were removed in order to reduce the variance.
+</p>
+<h3><span class="mw-headline" id="Panelists">Panelists</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=2017_SSBMRank&amp;action=edit&amp;section=2" title="Edit section: Panelists">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>Canada</b> (4) - <a href="/index.php?title=Smasher:Nate$&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Nate$ (page does not exist)">Nate$</a>, <a href="/index.php?title=Smasher:TO_Joe&amp;action=edit&amp;redlink=1" class="new" title="Smasher:TO Joe (page does not exist)">TO Joe</a>, <a href="/index.php?title=Smasher:Mosh&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Mosh (page does not exist)">Mosh</a>, <a href="/index.php?title=Smasher:PracticalTAS&amp;action=edit&amp;redlink=1" class="new" title="Smasher:PracticalTAS (page does not exist)">PracticalTAS</a> <br />
+<b>Europe</b> (6) - <a href="/Smasher:King_Funk" title="Smasher:King Funk">King Funk</a>, <a href="/index.php?title=Smasher:Mobiusman&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Mobiusman (page does not exist)">Mobiusman</a>, <a href="/Smasher:Flippy" title="Smasher:Flippy">Flippy</a>, <a href="/index.php?title=Smasher:Reverb&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Reverb (page does not exist)">Reverb</a>, <a href="/index.php?title=Smasher:Solariiii&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Solariiii (page does not exist)">solariiii</a>, <a href="/Smasher:Mahie" title="Smasher:Mahie">Mahie</a> <br />
+<b>South Korea</b> (1) - <a href="/index.php?title=Smasher:KayB&amp;action=edit&amp;redlink=1" class="new" title="Smasher:KayB (page does not exist)">KayB</a> <br />
+<b><a href="/Maryland/Virginia" class="mw-redirect" title="Maryland/Virginia">Maryland/Virginia</a></b> (4) - <a href="/Smasher:Redd" title="Smasher:Redd">Redd</a>, <a href="/Smasher:Chillin" title="Smasher:Chillin">Chillin</a>, <a href="/Smasher:Rishi" title="Smasher:Rishi">Rishi</a>, <a href="/Smasher:Fendrick_Lamar" class="mw-redirect" title="Smasher:Fendrick Lamar">Fendrick Lamar</a> <br />
+<b>Midwest</b> (5) - <a href="/Smasher:Juggleguy" title="Smasher:Juggleguy">Juggleguy</a>, <a href="/Smasher:Duck" title="Smasher:Duck">Duck</a>, <a href="/Smasher:Vro" title="Smasher:Vro">Vro</a>, <a href="/Smasher:Redd" title="Smasher:Redd">Redd</a>, <a href="/index.php?title=Smasher:Gamero&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Gamero (page does not exist)">Gamero</a> <br />
+<b>Mountain Area</b> (2) - <a href="/index.php?title=Smasher:Appel&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Appel (page does not exist)">Appel</a>, <a href="/Smasher:MattDotZeb" title="Smasher:MattDotZeb">MattDotZeb</a> <br />
+<b>New England</b> (3) - <a href="/index.php?title=Smasher:EdwinBudding&amp;action=edit&amp;redlink=1" class="new" title="Smasher:EdwinBudding (page does not exist)">EdwinBudding</a>, <a href="/index.php?title=Smasher:Gtown_Tom&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Gtown Tom (page does not exist)">Gtown Tom</a>, <a href="/Smasher:Crush" title="Smasher:Crush">Crush</a> <br />
+<b><a href="/Northern_California" title="Northern California">Northern California</a></b> (5) - <a href="/Smasher:Reno" title="Smasher:Reno">Reno</a>, <a href="/index.php?title=Smasher:DestinyFan21&amp;action=edit&amp;redlink=1" class="new" title="Smasher:DestinyFan21 (page does not exist)">DestinyFan21</a>, <a href="/Smasher:Nintendude" title="Smasher:Nintendude">Nintendude</a>, <a href="/Smasher:Dizzkidboogie" title="Smasher:Dizzkidboogie">dizzkidboogie</a>, <a href="/index.php?title=Smasher:Algebra123230&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Algebra123230 (page does not exist)">Algebra123230</a>/<a href="/index.php?title=Smasher:Dingus&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Dingus (page does not exist)">Dingus</a> (dual ballot)<br />
+<b>Pacific Northwest</b> (3) - <a href="/index.php?title=Smasher:Aiden&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Aiden (page does not exist)">Aiden</a>, <a href="/Smasher:Rustin" title="Smasher:Rustin">Rustin</a>, <a href="/Smasher:FatGoku" title="Smasher:FatGoku">FatGoku</a> <br />
+<b><a href="/Southern_California" title="Southern California">Southern California</a></b> (4) - <a href="/Smasher:Captain_Faceroll" title="Smasher:Captain Faceroll">Captain Faceroll</a>, <a href="/index.php?title=Smasher:Chroma&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Chroma (page does not exist)">Chroma</a>, <a href="/Smasher:HugS" title="Smasher:HugS">HugS</a>, <a href="/Smasher:S2J" title="Smasher:S2J">S2J</a> <br />
+<b>South</b> (5) - <a href="/index.php?title=Smasher:Gimme&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Gimme (page does not exist)">Gimme</a>, <a href="/index.php?title=Smasher:Tuesday&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Tuesday (page does not exist)">Tuesday</a>, <a href="/Smasher:SleepyK" title="Smasher:SleepyK">SleepyK</a>, <a href="/index.php?title=Smasher:Zhea&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Zhea (page does not exist)">Zhea</a>, <a href="/Smasher:Jake13" title="Smasher:Jake13">Jake13</a> <br />
+<b>Arizona</b> (1) - <a href="/Smasher:Tai" title="Smasher:Tai">Tai</a> <br />
+<b><a href="/Tristate" class="mw-redirect" title="Tristate">Tristate</a></b> (6) - <a href="/index.php?title=Smasher:Pikachu942&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Pikachu942 (page does not exist)">Pikachu942</a>/<a href="/index.php?title=Smasher:Ambisinister&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Ambisinister (page does not exist)">Ambisinister</a> (dual ballot), <a href="/Smasher:Swedish_Delight" title="Smasher:Swedish Delight">Swedish Delight</a>, <a href="/Smasher:Ryobeat" title="Smasher:Ryobeat">Ryobeat</a>, <a href="/Smasher:Slox" title="Smasher:Slox">Slox</a>, <a href="/index.php?title=Smasher:GimmeDatWheat&amp;action=edit&amp;redlink=1" class="new" title="Smasher:GimmeDatWheat (page does not exist)">GimmeDatWheat</a>, <a href="/index.php?title=Smasher:SaveAsUntitled&amp;action=edit&amp;redlink=1" class="new" title="Smasher:SaveAsUntitled (page does not exist)">SaveAsUntitled</a>
+</p>
+<h2><span class="mw-headline" id="Rankings">Rankings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=2017_SSBMRank&amp;action=edit&amp;section=3" title="Edit section: Rankings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th>Ranking</th>
+<th>Smasher</th>
+<th>Previous rank</th>
+<th>Movement</th>
+<th>Character(s)</th>
+<th>Rating
+</th></tr>
+<tr>
+<td>1</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Hungrybox" title="Smasher:Hungrybox">Hungrybox      </a></td>
+<td>2</td>
+<td>▲ 1</td>
+<td><a href="/Jigglypuff_(SSBM)" title="Jigglypuff (SSBM)"><img alt="JigglypuffHeadSSBM.png" src="/images/thumb/5/5a/JigglypuffHeadSSBM.png/20px-JigglypuffHeadSSBM.png" width="20" height="20" srcset="/images/5/5a/JigglypuffHeadSSBM.png 1.5x" /></a></td>
+<td>100
+</td></tr>
+<tr>
+<td>2</td>
+<td><a href="/File:Flag_of_Sweden.png" class="image" title="Sweden"><img alt="Sweden" src="/images/thumb/0/0e/Flag_of_Sweden.png/20px-Flag_of_Sweden.png" width="20" height="13" srcset="/images/thumb/0/0e/Flag_of_Sweden.png/30px-Flag_of_Sweden.png 1.5x, /images/thumb/0/0e/Flag_of_Sweden.png/40px-Flag_of_Sweden.png 2x" /></a> <a href="/Smasher:Armada" title="Smasher:Armada">Armada              </a></td>
+<td>1</td>
+<td>▼ 1</td>
+<td><a href="/Peach_(SSBM)" title="Peach (SSBM)"><img alt="PeachHeadSSBM.png" src="/images/thumb/3/3f/PeachHeadSSBM.png/20px-PeachHeadSSBM.png" width="20" height="20" srcset="/images/3/3f/PeachHeadSSBM.png 1.5x" /></a><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>99.2
+</td></tr>
+<tr>
+<td>3</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Mango" title="Smasher:Mango">Mango               </a></td>
+<td>3</td>
+<td>0</td>
+<td><a href="/Falco_(SSBM)" title="Falco (SSBM)"><img alt="FalcoHeadSSBM.png" src="/images/thumb/d/d6/FalcoHeadSSBM.png/20px-FalcoHeadSSBM.png" width="20" height="20" srcset="/images/d/d6/FalcoHeadSSBM.png 1.5x" /></a><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a><a href="/Mario_(SSBM)" title="Mario (SSBM)"><img alt="MarioHeadSSBM.png" src="/images/thumb/e/ec/MarioHeadSSBM.png/20px-MarioHeadSSBM.png" width="20" height="20" srcset="/images/e/ec/MarioHeadSSBM.png 1.5x" /></a><a href="/Captain_Falcon_(SSBM)" title="Captain Falcon (SSBM)"><img alt="CaptainFalconHeadSSBM.png" src="/images/thumb/5/5f/CaptainFalconHeadSSBM.png/20px-CaptainFalconHeadSSBM.png" width="20" height="20" srcset="/images/5/5f/CaptainFalconHeadSSBM.png 1.5x" /></a></td>
+<td>97.4
+</td></tr>
+<tr>
+<td>4</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Mew2King" title="Smasher:Mew2King">Mew2King            </a></td>
+<td>4</td>
+<td>0</td>
+<td><a href="/Marth_(SSBM)" title="Marth (SSBM)"><img alt="MarthHeadSSBM.png" src="/images/thumb/9/9b/MarthHeadSSBM.png/20px-MarthHeadSSBM.png" width="20" height="20" srcset="/images/9/9b/MarthHeadSSBM.png 1.5x" /></a><a href="/Sheik_(SSBM)" title="Sheik (SSBM)"><img alt="SheikHeadSSBM.png" src="/images/thumb/7/76/SheikHeadSSBM.png/20px-SheikHeadSSBM.png" width="20" height="20" srcset="/images/7/76/SheikHeadSSBM.png 1.5x" /></a><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a><a href="/Peach_(SSBM)" title="Peach (SSBM)"><img alt="PeachHeadSSBM.png" src="/images/thumb/3/3f/PeachHeadSSBM.png/20px-PeachHeadSSBM.png" width="20" height="20" srcset="/images/3/3f/PeachHeadSSBM.png 1.5x" /></a></td>
+<td>96.3
+</td></tr>
+<tr>
+<td>5</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Plup" title="Smasher:Plup">Plup                </a></td>
+<td>6</td>
+<td>▲ 1</td>
+<td><a href="/Sheik_(SSBM)" title="Sheik (SSBM)"><img alt="SheikHeadSSBM.png" src="/images/thumb/7/76/SheikHeadSSBM.png/20px-SheikHeadSSBM.png" width="20" height="20" srcset="/images/7/76/SheikHeadSSBM.png 1.5x" /></a><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a><a href="/Samus_(SSBM)" title="Samus (SSBM)"><img alt="SamusHeadSSBM.png" src="/images/thumb/f/f6/SamusHeadSSBM.png/20px-SamusHeadSSBM.png" width="20" height="20" srcset="/images/f/f6/SamusHeadSSBM.png 1.5x" /></a><a href="/Luigi_(SSBM)" title="Luigi (SSBM)"><img alt="LuigiHeadSSBM.png" src="/images/thumb/d/d1/LuigiHeadSSBM.png/20px-LuigiHeadSSBM.png" width="20" height="20" srcset="/images/d/d1/LuigiHeadSSBM.png 1.5x" /></a></td>
+<td>95.3
+</td></tr>
+<tr>
+<td>6</td>
+<td><a href="/File:Flag_of_Sweden.png" class="image" title="Sweden"><img alt="Sweden" src="/images/thumb/0/0e/Flag_of_Sweden.png/20px-Flag_of_Sweden.png" width="20" height="13" srcset="/images/thumb/0/0e/Flag_of_Sweden.png/30px-Flag_of_Sweden.png 1.5x, /images/thumb/0/0e/Flag_of_Sweden.png/40px-Flag_of_Sweden.png 2x" /></a> <a href="/Smasher:Leffen" title="Smasher:Leffen">Leffen              </a></td>
+<td>5</td>
+<td>▼ 1</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>94.9
+</td></tr>
+<tr>
+<td>7</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Axe" title="Smasher:Axe">Axe                 </a></td>
+<td>9</td>
+<td>▲ 2</td>
+<td><a href="/Pikachu_(SSBM)" title="Pikachu (SSBM)"><img alt="PikachuHeadSSBM.png" src="/images/thumb/8/88/PikachuHeadSSBM.png/20px-PikachuHeadSSBM.png" width="20" height="20" srcset="/images/8/88/PikachuHeadSSBM.png 1.5x" /></a><a href="/Falco_(SSBM)" title="Falco (SSBM)"><img alt="FalcoHeadSSBM.png" src="/images/thumb/d/d6/FalcoHeadSSBM.png/20px-FalcoHeadSSBM.png" width="20" height="20" srcset="/images/d/d6/FalcoHeadSSBM.png 1.5x" /></a><a href="/Marth_(SSBM)" title="Marth (SSBM)"><img alt="MarthHeadSSBM.png" src="/images/thumb/9/9b/MarthHeadSSBM.png/20px-MarthHeadSSBM.png" width="20" height="20" srcset="/images/9/9b/MarthHeadSSBM.png 1.5x" /></a><a href="/Young_Link_(SSBM)" title="Young Link (SSBM)"><img alt="YoungLinkHeadSSBM.png" src="/images/thumb/a/ac/YoungLinkHeadSSBM.png/20px-YoungLinkHeadSSBM.png" width="20" height="20" srcset="/images/a/ac/YoungLinkHeadSSBM.png 1.5x" /></a></td>
+<td>92.6
+</td></tr>
+<tr>
+<td>8</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Wizzrobe" title="Smasher:Wizzrobe">Wizzrobe            </a></td>
+<td>12</td>
+<td>▲ 4</td>
+<td><a href="/Captain_Falcon_(SSBM)" title="Captain Falcon (SSBM)"><img alt="CaptainFalconHeadSSBM.png" src="/images/thumb/5/5f/CaptainFalconHeadSSBM.png/20px-CaptainFalconHeadSSBM.png" width="20" height="20" srcset="/images/5/5f/CaptainFalconHeadSSBM.png 1.5x" /></a></td>
+<td>91.8
+</td></tr>
+<tr>
+<td>9</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:SFAT" title="Smasher:SFAT">SFAT                </a></td>
+<td>7</td>
+<td>▼ 2</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>91.7
+</td></tr>
+<tr>
+<td>10</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:S2J" title="Smasher:S2J">S2J                 </a></td>
+<td>16</td>
+<td>▲ 6</td>
+<td><a href="/Captain_Falcon_(SSBM)" title="Captain Falcon (SSBM)"><img alt="CaptainFalconHeadSSBM.png" src="/images/thumb/5/5f/CaptainFalconHeadSSBM.png/20px-CaptainFalconHeadSSBM.png" width="20" height="20" srcset="/images/5/5f/CaptainFalconHeadSSBM.png 1.5x" /></a><a href="/Falco_(SSBM)" title="Falco (SSBM)"><img alt="FalcoHeadSSBM.png" src="/images/thumb/d/d6/FalcoHeadSSBM.png/20px-FalcoHeadSSBM.png" width="20" height="20" srcset="/images/d/d6/FalcoHeadSSBM.png 1.5x" /></a></td>
+<td>89.4
+</td></tr>
+<tr>
+<td>11</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:ChuDat" title="Smasher:ChuDat">ChuDat              </a></td>
+<td>22</td>
+<td>▲ 11</td>
+<td><a href="/Ice_Climbers_(SSBM)" title="Ice Climbers (SSBM)"><img alt="IceClimbersHeadSSBM.png" src="/images/thumb/d/d1/IceClimbersHeadSSBM.png/20px-IceClimbersHeadSSBM.png" width="20" height="20" srcset="/images/d/d1/IceClimbersHeadSSBM.png 1.5x" /></a></td>
+<td>88.8
+</td></tr>
+<tr>
+<td>12</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Druggedfox" title="Smasher:Druggedfox">Druggedfox          </a></td>
+<td>23</td>
+<td>▲ 11</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>87.8
+</td></tr>
+<tr>
+<td>13</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Shroomed" title="Smasher:Shroomed">Shroomed            </a></td>
+<td>10</td>
+<td>▼ 3</td>
+<td><a href="/Sheik_(SSBM)" title="Sheik (SSBM)"><img alt="SheikHeadSSBM.png" src="/images/thumb/7/76/SheikHeadSSBM.png/20px-SheikHeadSSBM.png" width="20" height="20" srcset="/images/7/76/SheikHeadSSBM.png 1.5x" /></a><a href="/Marth_(SSBM)" title="Marth (SSBM)"><img alt="MarthHeadSSBM.png" src="/images/thumb/9/9b/MarthHeadSSBM.png/20px-MarthHeadSSBM.png" width="20" height="20" srcset="/images/9/9b/MarthHeadSSBM.png 1.5x" /></a></td>
+<td>87.7
+</td></tr>
+<tr>
+<td>14</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Duck" title="Smasher:Duck">Duck                </a></td>
+<td>15</td>
+<td>▲ 1</td>
+<td><a href="/Samus_(SSBM)" title="Samus (SSBM)"><img alt="SamusHeadSSBM.png" src="/images/thumb/f/f6/SamusHeadSSBM.png/20px-SamusHeadSSBM.png" width="20" height="20" srcset="/images/f/f6/SamusHeadSSBM.png 1.5x" /></a></td>
+<td>85.2
+</td></tr>
+<tr>
+<td>15</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Crush" title="Smasher:Crush">Crush               </a></td>
+<td>49</td>
+<td>▲ 34</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>85
+</td></tr>
+<tr>
+<td>16</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Swedish_Delight" title="Smasher:Swedish Delight">Swedish Delight     </a></td>
+<td>11</td>
+<td>▼ 5</td>
+<td><a href="/Sheik_(SSBM)" title="Sheik (SSBM)"><img alt="SheikHeadSSBM.png" src="/images/thumb/7/76/SheikHeadSSBM.png/20px-SheikHeadSSBM.png" width="20" height="20" srcset="/images/7/76/SheikHeadSSBM.png 1.5x" /></a><a href="/Peach_(SSBM)" title="Peach (SSBM)"><img alt="PeachHeadSSBM.png" src="/images/thumb/3/3f/PeachHeadSSBM.png/20px-PeachHeadSSBM.png" width="20" height="20" srcset="/images/3/3f/PeachHeadSSBM.png 1.5x" /></a></td>
+<td>84.8
+</td></tr>
+<tr>
+<td>17</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Lucky" title="Smasher:Lucky">Lucky               </a></td>
+<td>19</td>
+<td>▲ 2</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a><a href="/Captain_Falcon_(SSBM)" title="Captain Falcon (SSBM)"><img alt="CaptainFalconHeadSSBM.png" src="/images/thumb/5/5f/CaptainFalconHeadSSBM.png/20px-CaptainFalconHeadSSBM.png" width="20" height="20" srcset="/images/5/5f/CaptainFalconHeadSSBM.png 1.5x" /></a><a href="/Marth_(SSBM)" title="Marth (SSBM)"><img alt="MarthHeadSSBM.png" src="/images/thumb/9/9b/MarthHeadSSBM.png/20px-MarthHeadSSBM.png" width="20" height="20" srcset="/images/9/9b/MarthHeadSSBM.png 1.5x" /></a></td>
+<td>84.8
+</td></tr>
+<tr>
+<td>18</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Westballz" title="Smasher:Westballz">Westballz           </a></td>
+<td>8</td>
+<td>▼ 10</td>
+<td><a href="/Falco_(SSBM)" title="Falco (SSBM)"><img alt="FalcoHeadSSBM.png" src="/images/thumb/d/d6/FalcoHeadSSBM.png/20px-FalcoHeadSSBM.png" width="20" height="20" srcset="/images/d/d6/FalcoHeadSSBM.png 1.5x" /></a><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a><a href="/Captain_Falcon_(SSBM)" title="Captain Falcon (SSBM)"><img alt="CaptainFalconHeadSSBM.png" src="/images/thumb/5/5f/CaptainFalconHeadSSBM.png/20px-CaptainFalconHeadSSBM.png" width="20" height="20" srcset="/images/5/5f/CaptainFalconHeadSSBM.png 1.5x" /></a></td>
+<td>84.1
+</td></tr>
+<tr>
+<td>19</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:La_Luna" title="Smasher:La Luna">La Luna             </a></td>
+<td>21</td>
+<td>▲ 2</td>
+<td><a href="/Marth_(SSBM)" title="Marth (SSBM)"><img alt="MarthHeadSSBM.png" src="/images/thumb/9/9b/MarthHeadSSBM.png/20px-MarthHeadSSBM.png" width="20" height="20" srcset="/images/9/9b/MarthHeadSSBM.png 1.5x" /></a></td>
+<td>84
+</td></tr>
+<tr>
+<td>20</td>
+<td><a href="/File:Flag_of_Canada.png" class="image" title="Canada"><img alt="Canada" src="/images/thumb/b/b6/Flag_of_Canada.png/20px-Flag_of_Canada.png" width="20" height="10" srcset="/images/thumb/b/b6/Flag_of_Canada.png/30px-Flag_of_Canada.png 1.5x, /images/thumb/b/b6/Flag_of_Canada.png/40px-Flag_of_Canada.png 2x" /></a> <a href="/Smasher:N0ne" title="Smasher:N0ne">n0ne                </a></td>
+<td>18</td>
+<td>▼ 2</td>
+<td><a href="/Captain_Falcon_(SSBM)" title="Captain Falcon (SSBM)"><img alt="CaptainFalconHeadSSBM.png" src="/images/thumb/5/5f/CaptainFalconHeadSSBM.png/20px-CaptainFalconHeadSSBM.png" width="20" height="20" srcset="/images/5/5f/CaptainFalconHeadSSBM.png 1.5x" /></a><a href="/Ganondorf_(SSBM)" title="Ganondorf (SSBM)"><img alt="GanondorfHeadSSBM.png" src="/images/thumb/7/77/GanondorfHeadSSBM.png/20px-GanondorfHeadSSBM.png" width="20" height="20" srcset="/images/7/77/GanondorfHeadSSBM.png 1.5x" /></a></td>
+<td>82.6
+</td></tr>
+<tr>
+<td>21</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:PewPewU" title="Smasher:PewPewU">PewPewU             </a></td>
+<td>14</td>
+<td>▼ 7</td>
+<td><a href="/Marth_(SSBM)" title="Marth (SSBM)"><img alt="MarthHeadSSBM.png" src="/images/thumb/9/9b/MarthHeadSSBM.png/20px-MarthHeadSSBM.png" width="20" height="20" srcset="/images/9/9b/MarthHeadSSBM.png 1.5x" /></a><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>81.6
+</td></tr>
+<tr>
+<td>22</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Zain" title="Smasher:Zain">Zain                </a></td>
+<td>66</td>
+<td>▲ 44</td>
+<td><a href="/Marth_(SSBM)" title="Marth (SSBM)"><img alt="MarthHeadSSBM.png" src="/images/thumb/9/9b/MarthHeadSSBM.png/20px-MarthHeadSSBM.png" width="20" height="20" srcset="/images/9/9b/MarthHeadSSBM.png 1.5x" /></a></td>
+<td>80.3
+</td></tr>
+<tr>
+<td>23</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:HugS" title="Smasher:HugS">HugS                </a></td>
+<td>38</td>
+<td>▲ 15</td>
+<td><a href="/Samus_(SSBM)" title="Samus (SSBM)"><img alt="SamusHeadSSBM.png" src="/images/thumb/f/f6/SamusHeadSSBM.png/20px-SamusHeadSSBM.png" width="20" height="20" srcset="/images/f/f6/SamusHeadSSBM.png 1.5x" /></a></td>
+<td>79.1
+</td></tr>
+<tr>
+<td>24</td>
+<td><a href="/File:Flag_of_Japan.png" class="image" title="Japan"><img alt="Japan" src="/images/thumb/6/60/Flag_of_Japan.png/18px-Flag_of_Japan.png" width="18" height="12" class="thumbborder" srcset="/images/thumb/6/60/Flag_of_Japan.png/27px-Flag_of_Japan.png 1.5x, /images/thumb/6/60/Flag_of_Japan.png/36px-Flag_of_Japan.png 2x" /></a> <a href="/Smasher:AMSa" title="Smasher:AMSa">aMSa                </a></td>
+<td>32</td>
+<td>▲ 8</td>
+<td><a href="/Yoshi_(SSBM)" title="Yoshi (SSBM)"><img alt="YoshiHeadSSBM.png" src="/images/thumb/6/6d/YoshiHeadSSBM.png/20px-YoshiHeadSSBM.png" width="20" height="20" srcset="/images/6/6d/YoshiHeadSSBM.png 1.5x" /></a></td>
+<td>78.3
+</td></tr>
+<tr>
+<td>25</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Mike_Haze" class="mw-redirect" title="Smasher:Mike Haze">Mike Haze           </a></td>
+<td>28</td>
+<td>▲ 3</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>76.9
+</td></tr>
+<tr>
+<td>26</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:LloD" title="Smasher:LloD">lloD                </a></td>
+<td>54</td>
+<td>▲ 28</td>
+<td><a href="/Peach_(SSBM)" title="Peach (SSBM)"><img alt="PeachHeadSSBM.png" src="/images/thumb/3/3f/PeachHeadSSBM.png/20px-PeachHeadSSBM.png" width="20" height="20" srcset="/images/3/3f/PeachHeadSSBM.png 1.5x" /></a></td>
+<td>76.1
+</td></tr>
+<tr>
+<td>27</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Dizzkidboogie" title="Smasher:Dizzkidboogie">dizzkidboogie       </a></td>
+<td>27</td>
+<td>0</td>
+<td><a href="/Ice_Climbers_(SSBM)" title="Ice Climbers (SSBM)"><img alt="IceClimbersHeadSSBM.png" src="/images/thumb/d/d1/IceClimbersHeadSSBM.png/20px-IceClimbersHeadSSBM.png" width="20" height="20" srcset="/images/d/d1/IceClimbersHeadSSBM.png 1.5x" /></a></td>
+<td>75.8
+</td></tr>
+<tr>
+<td>28</td>
+<td><a href="/File:Flag_of_Germany.png" class="image" title="Germany"><img alt="Germany" src="/images/thumb/e/e6/Flag_of_Germany.png/20px-Flag_of_Germany.png" width="20" height="12" srcset="/images/thumb/e/e6/Flag_of_Germany.png/30px-Flag_of_Germany.png 1.5x, /images/thumb/e/e6/Flag_of_Germany.png/40px-Flag_of_Germany.png 2x" /></a> <a href="/Smasher:Ice" title="Smasher:Ice">Ice                 </a></td>
+<td>13</td>
+<td>▼ 15</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>75.6
+</td></tr>
+<tr>
+<td>29</td>
+<td><a href="/File:Flag_of_Canada.png" class="image" title="Canada"><img alt="Canada" src="/images/thumb/b/b6/Flag_of_Canada.png/20px-Flag_of_Canada.png" width="20" height="10" srcset="/images/thumb/b/b6/Flag_of_Canada.png/30px-Flag_of_Canada.png 1.5x, /images/thumb/b/b6/Flag_of_Canada.png/40px-Flag_of_Canada.png 2x" /></a> <a href="/Smasher:KirbyKaze" title="Smasher:KirbyKaze">KirbyKaze           </a></td>
+<td>29</td>
+<td>0</td>
+<td><a href="/Sheik_(SSBM)" title="Sheik (SSBM)"><img alt="SheikHeadSSBM.png" src="/images/thumb/7/76/SheikHeadSSBM.png/20px-SheikHeadSSBM.png" width="20" height="20" srcset="/images/7/76/SheikHeadSSBM.png 1.5x" /></a><a href="/Peach_(SSBM)" title="Peach (SSBM)"><img alt="PeachHeadSSBM.png" src="/images/thumb/3/3f/PeachHeadSSBM.png/20px-PeachHeadSSBM.png" width="20" height="20" srcset="/images/3/3f/PeachHeadSSBM.png 1.5x" /></a></td>
+<td>74.0
+</td></tr>
+<tr>
+<td>30</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Colbol" title="Smasher:Colbol">Colbol              </a></td>
+<td>25</td>
+<td>▼ 5</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a><a href="/Marth_(SSBM)" title="Marth (SSBM)"><img alt="MarthHeadSSBM.png" src="/images/thumb/9/9b/MarthHeadSSBM.png/20px-MarthHeadSSBM.png" width="20" height="20" srcset="/images/9/9b/MarthHeadSSBM.png 1.5x" /></a></td>
+<td>73.6
+</td></tr>
+<tr>
+<td>31</td>
+<td><a href="/File:Flag_of_Spain.png" class="image" title="Spain"><img alt="Spain" src="/images/thumb/4/41/Flag_of_Spain.png/20px-Flag_of_Spain.png" width="20" height="13" srcset="/images/thumb/4/41/Flag_of_Spain.png/30px-Flag_of_Spain.png 1.5x, /images/thumb/4/41/Flag_of_Spain.png/40px-Flag_of_Spain.png 2x" /></a> <a href="/Smasher:Trif" title="Smasher:Trif">Trif                </a></td>
+<td>44</td>
+<td>▲ 13</td>
+<td><a href="/Peach_(SSBM)" title="Peach (SSBM)"><img alt="PeachHeadSSBM.png" src="/images/thumb/3/3f/PeachHeadSSBM.png/20px-PeachHeadSSBM.png" width="20" height="20" srcset="/images/3/3f/PeachHeadSSBM.png 1.5x" /></a></td>
+<td>73.5
+</td></tr>
+<tr>
+<td>32</td>
+<td><a href="/File:Flag_of_Canada.png" class="image" title="Canada"><img alt="Canada" src="/images/thumb/b/b6/Flag_of_Canada.png/20px-Flag_of_Canada.png" width="20" height="10" srcset="/images/thumb/b/b6/Flag_of_Canada.png/30px-Flag_of_Canada.png 1.5x, /images/thumb/b/b6/Flag_of_Canada.png/40px-Flag_of_Canada.png 2x" /></a> <a href="/Smasher:Ryan_Ford" title="Smasher:Ryan Ford">Ryan Ford           </a></td>
+<td>48</td>
+<td>▲ 16</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a><a href="/Falco_(SSBM)" title="Falco (SSBM)"><img alt="FalcoHeadSSBM.png" src="/images/thumb/d/d6/FalcoHeadSSBM.png/20px-FalcoHeadSSBM.png" width="20" height="20" srcset="/images/d/d6/FalcoHeadSSBM.png 1.5x" /></a></td>
+<td>73.1
+</td></tr>
+<tr>
+<td>33</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Syrox" title="Smasher:Syrox">Syrox               </a></td>
+<td>67</td>
+<td>▲ 34</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>72.4
+</td></tr>
+<tr>
+<td>34</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:KJH" title="Smasher:KJH">KJH                 </a></td>
+<td>34</td>
+<td>0</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>71.2
+</td></tr>
+<tr>
+<td>35</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Nintendude" title="Smasher:Nintendude">Nintendude          </a></td>
+<td>17</td>
+<td>▼ 18</td>
+<td><a href="/Ice_Climbers_(SSBM)" title="Ice Climbers (SSBM)"><img alt="IceClimbersHeadSSBM.png" src="/images/thumb/d/d1/IceClimbersHeadSSBM.png/20px-IceClimbersHeadSSBM.png" width="20" height="20" srcset="/images/d/d1/IceClimbersHeadSSBM.png 1.5x" /></a></td>
+<td>70.7
+</td></tr>
+<tr>
+<td>36</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Rishi" title="Smasher:Rishi">Rishi               </a></td>
+<td>62</td>
+<td>▲ 26</td>
+<td><a href="/Marth_(SSBM)" title="Marth (SSBM)"><img alt="MarthHeadSSBM.png" src="/images/thumb/9/9b/MarthHeadSSBM.png/20px-MarthHeadSSBM.png" width="20" height="20" srcset="/images/9/9b/MarthHeadSSBM.png 1.5x" /></a><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>68.4
+</td></tr>
+<tr>
+<td>37</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Bladewise" title="Smasher:Bladewise">Bladewise           </a></td>
+<td>39</td>
+<td>▲ 2</td>
+<td><a href="/Peach_(SSBM)" title="Peach (SSBM)"><img alt="PeachHeadSSBM.png" src="/images/thumb/3/3f/PeachHeadSSBM.png/20px-PeachHeadSSBM.png" width="20" height="20" srcset="/images/3/3f/PeachHeadSSBM.png 1.5x" /></a></td>
+<td>67.2
+</td></tr>
+<tr>
+<td>38</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Prince_Abu" title="Smasher:Prince Abu">Prince Abu          </a></td>
+<td>42</td>
+<td>▲ 4</td>
+<td><a href="/Jigglypuff_(SSBM)" title="Jigglypuff (SSBM)"><img alt="JigglypuffHeadSSBM.png" src="/images/thumb/5/5a/JigglypuffHeadSSBM.png/20px-JigglypuffHeadSSBM.png" width="20" height="20" srcset="/images/5/5a/JigglypuffHeadSSBM.png 1.5x" /></a></td>
+<td>66.4
+</td></tr>
+<tr>
+<td>39</td>
+<td><a href="/File:Flag_of_The_Netherlands.png" class="image" title="Netherlands"><img alt="Netherlands" src="/images/thumb/5/58/Flag_of_The_Netherlands.png/20px-Flag_of_The_Netherlands.png" width="20" height="13" srcset="/images/thumb/5/58/Flag_of_The_Netherlands.png/30px-Flag_of_The_Netherlands.png 1.5x, /images/thumb/5/58/Flag_of_The_Netherlands.png/40px-Flag_of_The_Netherlands.png 2x" /></a> <a href="/Smasher:Amsah" title="Smasher:Amsah">Amsah               </a></td>
+<td>58</td>
+<td>▲ 19</td>
+<td><a href="/Sheik_(SSBM)" title="Sheik (SSBM)"><img alt="SheikHeadSSBM.png" src="/images/thumb/7/76/SheikHeadSSBM.png/20px-SheikHeadSSBM.png" width="20" height="20" srcset="/images/7/76/SheikHeadSSBM.png 1.5x" /></a></td>
+<td>66.0
+</td></tr>
+<tr>
+<td>40</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Santiago" title="Smasher:Santiago">Santiago            </a></td>
+<td>43</td>
+<td>▲ 3</td>
+<td><a href="/Falco_(SSBM)" title="Falco (SSBM)"><img alt="FalcoHeadSSBM.png" src="/images/thumb/d/d6/FalcoHeadSSBM.png/20px-FalcoHeadSSBM.png" width="20" height="20" srcset="/images/d/d6/FalcoHeadSSBM.png 1.5x" /></a><a href="/Sheik_(SSBM)" title="Sheik (SSBM)"><img alt="SheikHeadSSBM.png" src="/images/thumb/7/76/SheikHeadSSBM.png/20px-SheikHeadSSBM.png" width="20" height="20" srcset="/images/7/76/SheikHeadSSBM.png 1.5x" /></a></td>
+<td>65.9
+</td></tr>
+<tr>
+<td>41</td>
+<td><a href="/File:Flag_of_United_Kingdom.png" class="image" title="UK"><img alt="UK" src="/images/thumb/d/db/Flag_of_United_Kingdom.png/20px-Flag_of_United_Kingdom.png" width="20" height="10" srcset="/images/thumb/d/db/Flag_of_United_Kingdom.png/30px-Flag_of_United_Kingdom.png 1.5x, /images/thumb/d/db/Flag_of_United_Kingdom.png/40px-Flag_of_United_Kingdom.png 2x" /></a> <a href="/Smasher:Professor_Pro" title="Smasher:Professor Pro">Professor Pro       </a></td>
+<td>24</td>
+<td>▼ 17</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>65.5
+</td></tr>
+<tr>
+<td>42</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Slox" title="Smasher:Slox">Slox                </a></td>
+<td>51</td>
+<td>▲ 9</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a><a href="/Falco_(SSBM)" title="Falco (SSBM)"><img alt="FalcoHeadSSBM.png" src="/images/thumb/d/d6/FalcoHeadSSBM.png/20px-FalcoHeadSSBM.png" width="20" height="20" srcset="/images/d/d6/FalcoHeadSSBM.png 1.5x" /></a></td>
+<td>65.5
+</td></tr>
+<tr>
+<td>43</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Gahtzu" title="Smasher:Gahtzu">Gahtzu              </a></td>
+<td>35</td>
+<td>▼ 8</td>
+<td><a href="/Captain_Falcon_(SSBM)" title="Captain Falcon (SSBM)"><img alt="CaptainFalconHeadSSBM.png" src="/images/thumb/5/5f/CaptainFalconHeadSSBM.png/20px-CaptainFalconHeadSSBM.png" width="20" height="20" srcset="/images/5/5f/CaptainFalconHeadSSBM.png 1.5x" /></a></td>
+<td>63.4
+</td></tr>
+<tr>
+<td>44</td>
+<td><a href="/File:Flag_of_Sweden.png" class="image" title="Sweden"><img alt="Sweden" src="/images/thumb/0/0e/Flag_of_Sweden.png/20px-Flag_of_Sweden.png" width="20" height="13" srcset="/images/thumb/0/0e/Flag_of_Sweden.png/30px-Flag_of_Sweden.png 1.5x, /images/thumb/0/0e/Flag_of_Sweden.png/40px-Flag_of_Sweden.png 2x" /></a> <a href="/Smasher:Android" title="Smasher:Android">Android             </a></td>
+<td>63</td>
+<td>▲ 19</td>
+<td><a href="/Sheik_(SSBM)" title="Sheik (SSBM)"><img alt="SheikHeadSSBM.png" src="/images/thumb/7/76/SheikHeadSSBM.png/20px-SheikHeadSSBM.png" width="20" height="20" srcset="/images/7/76/SheikHeadSSBM.png 1.5x" /></a></td>
+<td>62.2
+</td></tr>
+<tr>
+<td>45</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Hax" title="Smasher:Hax">Hax                 </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>62.1
+</td></tr>
+<tr>
+<td>46</td>
+<td><a href="/File:Flag_of_Canada.png" class="image" title="Canada"><img alt="Canada" src="/images/thumb/b/b6/Flag_of_Canada.png/20px-Flag_of_Canada.png" width="20" height="10" srcset="/images/thumb/b/b6/Flag_of_Canada.png/30px-Flag_of_Canada.png 1.5x, /images/thumb/b/b6/Flag_of_Canada.png/40px-Flag_of_Canada.png 2x" /></a> <a href="/Smasher:Kage" title="Smasher:Kage">Kage                </a></td>
+<td>70</td>
+<td>▲ 24</td>
+<td><a href="/Ganondorf_(SSBM)" title="Ganondorf (SSBM)"><img alt="GanondorfHeadSSBM.png" src="/images/thumb/7/77/GanondorfHeadSSBM.png/20px-GanondorfHeadSSBM.png" width="20" height="20" srcset="/images/7/77/GanondorfHeadSSBM.png 1.5x" /></a><a href="/Captain_Falcon_(SSBM)" title="Captain Falcon (SSBM)"><img alt="CaptainFalconHeadSSBM.png" src="/images/thumb/5/5f/CaptainFalconHeadSSBM.png/20px-CaptainFalconHeadSSBM.png" width="20" height="20" srcset="/images/5/5f/CaptainFalconHeadSSBM.png 1.5x" /></a></td>
+<td>61.1
+</td></tr>
+<tr>
+<td>47</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Captain_Smuckers" title="Smasher:Captain Smuckers">Captain Smuckers    </a></td>
+<td>64</td>
+<td>▲ 17</td>
+<td><a href="/Captain_Falcon_(SSBM)" title="Captain Falcon (SSBM)"><img alt="CaptainFalconHeadSSBM.png" src="/images/thumb/5/5f/CaptainFalconHeadSSBM.png/20px-CaptainFalconHeadSSBM.png" width="20" height="20" srcset="/images/5/5f/CaptainFalconHeadSSBM.png 1.5x" /></a></td>
+<td>61.1
+</td></tr>
+<tr>
+<td>48</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:MacD" title="Smasher:MacD">MacD                </a></td>
+<td>26</td>
+<td>▼ 22</td>
+<td><a href="/Peach_(SSBM)" title="Peach (SSBM)"><img alt="PeachHeadSSBM.png" src="/images/thumb/3/3f/PeachHeadSSBM.png/20px-PeachHeadSSBM.png" width="20" height="20" srcset="/images/3/3f/PeachHeadSSBM.png 1.5x" /></a></td>
+<td>59.8
+</td></tr>
+<tr>
+<td>49</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Ginger" title="Smasher:Ginger">Ginger              </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Falco_(SSBM)" title="Falco (SSBM)"><img alt="FalcoHeadSSBM.png" src="/images/thumb/d/d6/FalcoHeadSSBM.png/20px-FalcoHeadSSBM.png" width="20" height="20" srcset="/images/d/d6/FalcoHeadSSBM.png 1.5x" /></a></td>
+<td>58.5
+</td></tr>
+<tr>
+<td>50</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Laudandus" title="Smasher:Laudandus">Laudandus           </a></td>
+<td>33</td>
+<td>▼ 17</td>
+<td><a href="/Sheik_(SSBM)" title="Sheik (SSBM)"><img alt="SheikHeadSSBM.png" src="/images/thumb/7/76/SheikHeadSSBM.png/20px-SheikHeadSSBM.png" width="20" height="20" srcset="/images/7/76/SheikHeadSSBM.png 1.5x" /></a></td>
+<td>57.7
+</td></tr>
+<tr>
+<td>51</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Kels" title="Smasher:Kels">Kels                </a></td>
+<td>55</td>
+<td>▲ 4</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a><a href="/Sheik_(SSBM)" title="Sheik (SSBM)"><img alt="SheikHeadSSBM.png" src="/images/thumb/7/76/SheikHeadSSBM.png/20px-SheikHeadSSBM.png" width="20" height="20" srcset="/images/7/76/SheikHeadSSBM.png 1.5x" /></a><a href="/Falco_(SSBM)" title="Falco (SSBM)"><img alt="FalcoHeadSSBM.png" src="/images/thumb/d/d6/FalcoHeadSSBM.png/20px-FalcoHeadSSBM.png" width="20" height="20" srcset="/images/d/d6/FalcoHeadSSBM.png 1.5x" /></a><a href="/Marth_(SSBM)" title="Marth (SSBM)"><img alt="MarthHeadSSBM.png" src="/images/thumb/9/9b/MarthHeadSSBM.png/20px-MarthHeadSSBM.png" width="20" height="20" srcset="/images/9/9b/MarthHeadSSBM.png 1.5x" /></a></td>
+<td>57.6
+</td></tr>
+<tr>
+<td>52</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Captain_Faceroll" title="Smasher:Captain Faceroll">Captain Faceroll    </a></td>
+<td>45</td>
+<td>▼ 7</td>
+<td><a href="/Sheik_(SSBM)" title="Sheik (SSBM)"><img alt="SheikHeadSSBM.png" src="/images/thumb/7/76/SheikHeadSSBM.png/20px-SheikHeadSSBM.png" width="20" height="20" srcset="/images/7/76/SheikHeadSSBM.png 1.5x" /></a></td>
+<td>57.4
+</td></tr>
+<tr>
+<td>53</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:ARMY" title="Smasher:ARMY">ARMY                </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Ice_Climbers_(SSBM)" title="Ice Climbers (SSBM)"><img alt="IceClimbersHeadSSBM.png" src="/images/thumb/d/d1/IceClimbersHeadSSBM.png/20px-IceClimbersHeadSSBM.png" width="20" height="20" srcset="/images/d/d1/IceClimbersHeadSSBM.png 1.5x" /></a><a href="/Jigglypuff_(SSBM)" title="Jigglypuff (SSBM)"><img alt="JigglypuffHeadSSBM.png" src="/images/thumb/5/5a/JigglypuffHeadSSBM.png/20px-JigglypuffHeadSSBM.png" width="20" height="20" srcset="/images/5/5a/JigglypuffHeadSSBM.png 1.5x" /></a></td>
+<td>57.3
+</td></tr>
+<tr>
+<td>54</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Junebug" title="Smasher:Junebug">Junebug             </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Sheik_(SSBM)" title="Sheik (SSBM)"><img alt="SheikHeadSSBM.png" src="/images/thumb/7/76/SheikHeadSSBM.png/20px-SheikHeadSSBM.png" width="20" height="20" srcset="/images/7/76/SheikHeadSSBM.png 1.5x" /></a></td>
+<td>55.3
+</td></tr>
+<tr>
+<td>55</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Medz" title="Smasher:Medz">Medz                </a></td>
+<td>89</td>
+<td>▲ 34</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a><a href="/Marth_(SSBM)" title="Marth (SSBM)"><img alt="MarthHeadSSBM.png" src="/images/thumb/9/9b/MarthHeadSSBM.png/20px-MarthHeadSSBM.png" width="20" height="20" srcset="/images/9/9b/MarthHeadSSBM.png 1.5x" /></a><a href="/Falco_(SSBM)" title="Falco (SSBM)"><img alt="FalcoHeadSSBM.png" src="/images/thumb/d/d6/FalcoHeadSSBM.png/20px-FalcoHeadSSBM.png" width="20" height="20" srcset="/images/d/d6/FalcoHeadSSBM.png 1.5x" /></a></td>
+<td>55.1
+</td></tr>
+<tr>
+<td>56</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Abate" title="Smasher:Abate">Abate               </a></td>
+<td>40</td>
+<td>▼ 16</td>
+<td><a href="/Luigi_(SSBM)" title="Luigi (SSBM)"><img alt="LuigiHeadSSBM.png" src="/images/thumb/d/d1/LuigiHeadSSBM.png/20px-LuigiHeadSSBM.png" width="20" height="20" srcset="/images/d/d1/LuigiHeadSSBM.png 1.5x" /></a></td>
+<td>53.8
+</td></tr>
+<tr>
+<td>57</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Chillin" title="Smasher:Chillin">Chillin             </a></td>
+<td>36</td>
+<td>▼ 21</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>50.9
+</td></tr>
+<tr>
+<td>58</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Squid" title="Smasher:Squid">Squid               </a></td>
+<td>69</td>
+<td>▲ 11</td>
+<td><a href="/Falco_(SSBM)" title="Falco (SSBM)"><img alt="FalcoHeadSSBM.png" src="/images/thumb/d/d6/FalcoHeadSSBM.png/20px-FalcoHeadSSBM.png" width="20" height="20" srcset="/images/d/d6/FalcoHeadSSBM.png 1.5x" /></a></td>
+<td>50.8
+</td></tr>
+<tr>
+<td>59</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Azusa" title="Smasher:Azusa">Azusa               </a></td>
+<td>57</td>
+<td>▼ 2</td>
+<td><a href="/Peach_(SSBM)" title="Peach (SSBM)"><img alt="PeachHeadSSBM.png" src="/images/thumb/3/3f/PeachHeadSSBM.png/20px-PeachHeadSSBM.png" width="20" height="20" srcset="/images/3/3f/PeachHeadSSBM.png 1.5x" /></a><a href="/Falco_(SSBM)" title="Falco (SSBM)"><img alt="FalcoHeadSSBM.png" src="/images/thumb/d/d6/FalcoHeadSSBM.png/20px-FalcoHeadSSBM.png" width="20" height="20" srcset="/images/d/d6/FalcoHeadSSBM.png 1.5x" /></a></td>
+<td>50.3
+</td></tr>
+<tr>
+<td>60</td>
+<td><a href="/File:Flag_of_Spain.png" class="image" title="Spain"><img alt="Spain" src="/images/thumb/4/41/Flag_of_Spain.png/20px-Flag_of_Spain.png" width="20" height="13" srcset="/images/thumb/4/41/Flag_of_Spain.png/30px-Flag_of_Spain.png 1.5x, /images/thumb/4/41/Flag_of_Spain.png/40px-Flag_of_Spain.png 2x" /></a> <a href="/Smasher:Overtriforce" title="Smasher:Overtriforce">Overtriforce        </a></td>
+<td>53</td>
+<td>▼ 7</td>
+<td><a href="/Sheik_(SSBM)" title="Sheik (SSBM)"><img alt="SheikHeadSSBM.png" src="/images/thumb/7/76/SheikHeadSSBM.png/20px-SheikHeadSSBM.png" width="20" height="20" srcset="/images/7/76/SheikHeadSSBM.png 1.5x" /></a></td>
+<td>49.7
+</td></tr>
+<tr>
+<td>61</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Spark_(Melee)" title="Smasher:Spark (Melee)">Spark               </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Sheik_(SSBM)" title="Sheik (SSBM)"><img alt="SheikHeadSSBM.png" src="/images/thumb/7/76/SheikHeadSSBM.png/20px-SheikHeadSSBM.png" width="20" height="20" srcset="/images/7/76/SheikHeadSSBM.png 1.5x" /></a></td>
+<td>48.9
+</td></tr>
+<tr>
+<td>62</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Ka-Master" title="Smasher:Ka-Master">Ka-Master           </a></td>
+<td>76</td>
+<td>▲ 14</td>
+<td><a href="/Luigi_(SSBM)" title="Luigi (SSBM)"><img alt="LuigiHeadSSBM.png" src="/images/thumb/d/d1/LuigiHeadSSBM.png/20px-LuigiHeadSSBM.png" width="20" height="20" srcset="/images/d/d1/LuigiHeadSSBM.png 1.5x" /></a><a href="/Captain_Falcon_(SSBM)" title="Captain Falcon (SSBM)"><img alt="CaptainFalconHeadSSBM.png" src="/images/thumb/5/5f/CaptainFalconHeadSSBM.png/20px-CaptainFalconHeadSSBM.png" width="20" height="20" srcset="/images/5/5f/CaptainFalconHeadSSBM.png 1.5x" /></a></td>
+<td>48.5
+</td></tr>
+<tr>
+<td>63</td>
+<td><a href="/File:Flag_of_Canada.png" class="image" title="Canada"><img alt="Canada" src="/images/thumb/b/b6/Flag_of_Canada.png/20px-Flag_of_Canada.png" width="20" height="10" srcset="/images/thumb/b/b6/Flag_of_Canada.png/30px-Flag_of_Canada.png 1.5x, /images/thumb/b/b6/Flag_of_Canada.png/40px-Flag_of_Canada.png 2x" /></a> <a href="/Smasher:Trulliam" title="Smasher:Trulliam">Trulliam            </a></td>
+<td>77</td>
+<td>▲ 14</td>
+<td><a href="/Falco_(SSBM)" title="Falco (SSBM)"><img alt="FalcoHeadSSBM.png" src="/images/thumb/d/d6/FalcoHeadSSBM.png/20px-FalcoHeadSSBM.png" width="20" height="20" srcset="/images/d/d6/FalcoHeadSSBM.png 1.5x" /></a></td>
+<td>48.0
+</td></tr>
+<tr>
+<td>64</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Cactuar" title="Smasher:Cactuar">Cactuar             </a></td>
+<td>60</td>
+<td>▼ 4</td>
+<td><a href="/Marth_(SSBM)" title="Marth (SSBM)"><img alt="MarthHeadSSBM.png" src="/images/thumb/9/9b/MarthHeadSSBM.png/20px-MarthHeadSSBM.png" width="20" height="20" srcset="/images/9/9b/MarthHeadSSBM.png 1.5x" /></a><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>47.9
+</td></tr>
+<tr>
+<td>65</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Redd" title="Smasher:Redd">Redd                </a></td>
+<td>59</td>
+<td>▼ 6</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a><a href="/Marth_(SSBM)" title="Marth (SSBM)"><img alt="MarthHeadSSBM.png" src="/images/thumb/9/9b/MarthHeadSSBM.png/20px-MarthHeadSSBM.png" width="20" height="20" srcset="/images/9/9b/MarthHeadSSBM.png 1.5x" /></a></td>
+<td>47.2
+</td></tr>
+<tr>
+<td>66</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Zhu" title="Smasher:Zhu">Zhu                 </a></td>
+<td>31</td>
+<td>▼ 35</td>
+<td><a href="/Falco_(SSBM)" title="Falco (SSBM)"><img alt="FalcoHeadSSBM.png" src="/images/thumb/d/d6/FalcoHeadSSBM.png/20px-FalcoHeadSSBM.png" width="20" height="20" srcset="/images/d/d6/FalcoHeadSSBM.png 1.5x" /></a><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>46.6
+</td></tr>
+<tr>
+<td>67</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Darkatma" title="Smasher:Darkatma">Darkatma            </a></td>
+<td>72</td>
+<td>▲ 5</td>
+<td><a href="/Sheik_(SSBM)" title="Sheik (SSBM)"><img alt="SheikHeadSSBM.png" src="/images/thumb/7/76/SheikHeadSSBM.png/20px-SheikHeadSSBM.png" width="20" height="20" srcset="/images/7/76/SheikHeadSSBM.png 1.5x" /></a><a href="/Peach_(SSBM)" title="Peach (SSBM)"><img alt="PeachHeadSSBM.png" src="/images/thumb/3/3f/PeachHeadSSBM.png/20px-PeachHeadSSBM.png" width="20" height="20" srcset="/images/3/3f/PeachHeadSSBM.png 1.5x" /></a><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>46.5
+</td></tr>
+<tr>
+<td>68</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Drephen" title="Smasher:Drephen">Drephen             </a></td>
+<td>75</td>
+<td>▲ 7</td>
+<td><a href="/Sheik_(SSBM)" title="Sheik (SSBM)"><img alt="SheikHeadSSBM.png" src="/images/thumb/7/76/SheikHeadSSBM.png/20px-SheikHeadSSBM.png" width="20" height="20" srcset="/images/7/76/SheikHeadSSBM.png 1.5x" /></a></td>
+<td>46.3
+</td></tr>
+<tr>
+<td>69</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:FatGoku" title="Smasher:FatGoku">FatGoku             </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>45.9
+</td></tr>
+<tr>
+<td>70</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Kalamazhu" title="Smasher:Kalamazhu">Kalamazhu           </a></td>
+<td>71</td>
+<td>▲ 1</td>
+<td><a href="/Peach_(SSBM)" title="Peach (SSBM)"><img alt="PeachHeadSSBM.png" src="/images/thumb/3/3f/PeachHeadSSBM.png/20px-PeachHeadSSBM.png" width="20" height="20" srcset="/images/3/3f/PeachHeadSSBM.png 1.5x" /></a></td>
+<td>45.8
+</td></tr>
+<tr>
+<td>71</td>
+<td><a href="/File:Flag_of_Mexico.png" class="image" title="Mexico"><img alt="Mexico" src="/images/thumb/1/17/Flag_of_Mexico.png/20px-Flag_of_Mexico.png" width="20" height="11" srcset="/images/thumb/1/17/Flag_of_Mexico.png/30px-Flag_of_Mexico.png 1.5x, /images/thumb/1/17/Flag_of_Mexico.png/40px-Flag_of_Mexico.png 2x" /></a> <a href="/Smasher:Eddy_Mexico" title="Smasher:Eddy Mexico">Eddy Mexico         </a></td>
+<td>56</td>
+<td>▼ 15</td>
+<td><a href="/Luigi_(SSBM)" title="Luigi (SSBM)"><img alt="LuigiHeadSSBM.png" src="/images/thumb/d/d1/LuigiHeadSSBM.png/20px-LuigiHeadSSBM.png" width="20" height="20" srcset="/images/d/d1/LuigiHeadSSBM.png 1.5x" /></a></td>
+<td>45.0
+</td></tr>
+<tr>
+<td>72</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Drunksloth" title="Smasher:Drunksloth">drunksloth          </a></td>
+<td>100</td>
+<td>▲ 28</td>
+<td><a href="/Ice_Climbers_(SSBM)" title="Ice Climbers (SSBM)"><img alt="IceClimbersHeadSSBM.png" src="/images/thumb/d/d1/IceClimbersHeadSSBM.png/20px-IceClimbersHeadSSBM.png" width="20" height="20" srcset="/images/d/d1/IceClimbersHeadSSBM.png 1.5x" /></a></td>
+<td>44.9
+</td></tr>
+<tr>
+<td>73</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Cal" title="Smasher:Cal">Cal                 </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>44.9
+</td></tr>
+<tr>
+<td>74</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:AbsentPage" title="Smasher:AbsentPage">AbsentPage          </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a><a href="/Sheik_(SSBM)" title="Sheik (SSBM)"><img alt="SheikHeadSSBM.png" src="/images/thumb/7/76/SheikHeadSSBM.png/20px-SheikHeadSSBM.png" width="20" height="20" srcset="/images/7/76/SheikHeadSSBM.png 1.5x" /></a><a href="/Marth_(SSBM)" title="Marth (SSBM)"><img alt="MarthHeadSSBM.png" src="/images/thumb/9/9b/MarthHeadSSBM.png/20px-MarthHeadSSBM.png" width="20" height="20" srcset="/images/9/9b/MarthHeadSSBM.png 1.5x" /></a></td>
+<td>44.2
+</td></tr>
+<tr>
+<td>75</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:King_Momo" title="Smasher:King Momo">King Momo           </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Falco_(SSBM)" title="Falco (SSBM)"><img alt="FalcoHeadSSBM.png" src="/images/thumb/d/d6/FalcoHeadSSBM.png/20px-FalcoHeadSSBM.png" width="20" height="20" srcset="/images/d/d6/FalcoHeadSSBM.png 1.5x" /></a></td>
+<td>43.7
+</td></tr>
+<tr>
+<td>76</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:DJ_Nintendo" title="Smasher:DJ Nintendo">DJ Nintendo         </a></td>
+<td>65</td>
+<td>▼ 11</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>43.6
+</td></tr>
+<tr>
+<td>77</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:HomeMadeWaffles" title="Smasher:HomeMadeWaffles">HomeMadeWaffles     </a></td>
+<td>80</td>
+<td>▲ 3</td>
+<td><a href="/Falco_(SSBM)" title="Falco (SSBM)"><img alt="FalcoHeadSSBM.png" src="/images/thumb/d/d6/FalcoHeadSSBM.png/20px-FalcoHeadSSBM.png" width="20" height="20" srcset="/images/d/d6/FalcoHeadSSBM.png 1.5x" /></a><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>43.6
+</td></tr>
+<tr>
+<td>78</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Lovage" title="Smasher:Lovage">Lovage              </a></td>
+<td>73</td>
+<td>▼ 5</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a><a href="/Sheik_(SSBM)" title="Sheik (SSBM)"><img alt="SheikHeadSSBM.png" src="/images/thumb/7/76/SheikHeadSSBM.png/20px-SheikHeadSSBM.png" width="20" height="20" srcset="/images/7/76/SheikHeadSSBM.png 1.5x" /></a></td>
+<td>42.6
+</td></tr>
+<tr>
+<td>79</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:MilkMan" title="Smasher:MilkMan">MilkMan             </a></td>
+<td>81</td>
+<td>▲ 2</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>41.9
+</td></tr>
+<tr>
+<td>80</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Tai" title="Smasher:Tai">Tai                 </a></td>
+<td>74</td>
+<td>▼ 6</td>
+<td><a href="/Marth_(SSBM)" title="Marth (SSBM)"><img alt="MarthHeadSSBM.png" src="/images/thumb/9/9b/MarthHeadSSBM.png/20px-MarthHeadSSBM.png" width="20" height="20" srcset="/images/9/9b/MarthHeadSSBM.png 1.5x" /></a></td>
+<td>41.7
+</td></tr>
+<tr>
+<td>81</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Rik" title="Smasher:Rik">Rik                 </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a><a href="/Falco_(SSBM)" title="Falco (SSBM)"><img alt="FalcoHeadSSBM.png" src="/images/thumb/d/d6/FalcoHeadSSBM.png/20px-FalcoHeadSSBM.png" width="20" height="20" srcset="/images/d/d6/FalcoHeadSSBM.png 1.5x" /></a></td>
+<td>41.6
+</td></tr>
+<tr>
+<td>82</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Rocky_(California)" title="Smasher:Rocky (California)">Rocky               </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Falco_(SSBM)" title="Falco (SSBM)"><img alt="FalcoHeadSSBM.png" src="/images/thumb/d/d6/FalcoHeadSSBM.png/20px-FalcoHeadSSBM.png" width="20" height="20" srcset="/images/d/d6/FalcoHeadSSBM.png 1.5x" /></a></td>
+<td>41.4
+</td></tr>
+<tr>
+<td>83</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Jerry" title="Smasher:Jerry">Jerry               </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>41.3
+</td></tr>
+<tr>
+<td>84</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:IBDW" title="Smasher:IBDW">iBDW                </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>41.2
+</td></tr>
+<tr>
+<td>85</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:KPAN" title="Smasher:KPAN">KPAN                </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Falco_(SSBM)" title="Falco (SSBM)"><img alt="FalcoHeadSSBM.png" src="/images/thumb/d/d6/FalcoHeadSSBM.png/20px-FalcoHeadSSBM.png" width="20" height="20" srcset="/images/d/d6/FalcoHeadSSBM.png 1.5x" /></a></td>
+<td>41.1
+</td></tr>
+<tr>
+<td>86</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Mojo" class="mw-redirect" title="Smasher:Mojo">Mojo                </a></td>
+<td>88</td>
+<td>▲ 2</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>40.7
+</td></tr>
+<tr>
+<td>87</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:$mike" title="Smasher:$mike">$mike               </a></td>
+<td>97</td>
+<td>▲ 10</td>
+<td><a href="/Captain_Falcon_(SSBM)" title="Captain Falcon (SSBM)"><img alt="CaptainFalconHeadSSBM.png" src="/images/thumb/5/5f/CaptainFalconHeadSSBM.png/20px-CaptainFalconHeadSSBM.png" width="20" height="20" srcset="/images/5/5f/CaptainFalconHeadSSBM.png 1.5x" /></a></td>
+<td>38.1
+</td></tr>
+<tr>
+<td>88</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Darktooth" title="Smasher:Darktooth">Darktooth           </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>37.4
+</td></tr>
+<tr>
+<td>89</td>
+<td><a href="/File:Flag_of_The_Netherlands.png" class="image" title="Netherlands"><img alt="Netherlands" src="/images/thumb/5/58/Flag_of_The_Netherlands.png/20px-Flag_of_The_Netherlands.png" width="20" height="13" srcset="/images/thumb/5/58/Flag_of_The_Netherlands.png/30px-Flag_of_The_Netherlands.png 1.5x, /images/thumb/5/58/Flag_of_The_Netherlands.png/40px-Flag_of_The_Netherlands.png 2x" /></a> <a href="/Smasher:Zgetto" title="Smasher:Zgetto">Zgetto              </a></td>
+<td>61</td>
+<td>▼ 28</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>36.8
+</td></tr>
+<tr>
+<td>90</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Blea_Gelo" title="Smasher:Blea Gelo">Blea Gelo           </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Luigi_(SSBM)" title="Luigi (SSBM)"><img alt="LuigiHeadSSBM.png" src="/images/thumb/d/d1/LuigiHeadSSBM.png/20px-LuigiHeadSSBM.png" width="20" height="20" srcset="/images/d/d1/LuigiHeadSSBM.png 1.5x" /></a></td>
+<td>36.6
+</td></tr>
+<tr>
+<td>91</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Kaeon" title="Smasher:Kaeon">Kaeon               </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>36.1
+</td></tr>
+<tr>
+<td>92</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Bobby_Frizz" title="Smasher:Bobby Frizz">Bobby Frizz         </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>35.9
+</td></tr>
+<tr>
+<td>93</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Iceman" title="Smasher:Iceman">Iceman              </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Marth_(SSBM)" title="Marth (SSBM)"><img alt="MarthHeadSSBM.png" src="/images/thumb/9/9b/MarthHeadSSBM.png/20px-MarthHeadSSBM.png" width="20" height="20" srcset="/images/9/9b/MarthHeadSSBM.png 1.5x" /></a></td>
+<td>35.3
+</td></tr>
+<tr>
+<td>94</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:L_(NorCal)" title="Smasher:L (NorCal)">L                   </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>35.3
+</td></tr>
+<tr>
+<td>95</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:NMW" title="Smasher:NMW">NMW                 </a></td>
+<td>93</td>
+<td>▼ 2</td>
+<td><a href="/Captain_Falcon_(SSBM)" title="Captain Falcon (SSBM)"><img alt="CaptainFalconHeadSSBM.png" src="/images/thumb/5/5f/CaptainFalconHeadSSBM.png/20px-CaptainFalconHeadSSBM.png" width="20" height="20" srcset="/images/5/5f/CaptainFalconHeadSSBM.png 1.5x" /></a></td>
+<td>33.2
+</td></tr>
+<tr>
+<td>96</td>
+<td><a href="/File:Flag_of_Canada.png" class="image" title="Canada"><img alt="Canada" src="/images/thumb/b/b6/Flag_of_Canada.png/20px-Flag_of_Canada.png" width="20" height="10" srcset="/images/thumb/b/b6/Flag_of_Canada.png/30px-Flag_of_Canada.png 1.5x, /images/thumb/b/b6/Flag_of_Canada.png/40px-Flag_of_Canada.png 2x" /></a> <a href="/Smasher:Moky" title="Smasher:Moky">Moky                </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>32.9
+</td></tr>
+<tr>
+<td>97</td>
+<td><a href="/File:Flag_of_Canada.png" class="image" title="Canada"><img alt="Canada" src="/images/thumb/b/b6/Flag_of_Canada.png/20px-Flag_of_Canada.png" width="20" height="10" srcset="/images/thumb/b/b6/Flag_of_Canada.png/30px-Flag_of_Canada.png 1.5x, /images/thumb/b/b6/Flag_of_Canada.png/40px-Flag_of_Canada.png 2x" /></a> <a href="/Smasher:Legend" title="Smasher:Legend">Legend              </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Jigglypuff_(SSBM)" title="Jigglypuff (SSBM)"><img alt="JigglypuffHeadSSBM.png" src="/images/thumb/5/5a/JigglypuffHeadSSBM.png/20px-JigglypuffHeadSSBM.png" width="20" height="20" srcset="/images/5/5a/JigglypuffHeadSSBM.png 1.5x" /></a><a href="/Peach_(SSBM)" title="Peach (SSBM)"><img alt="PeachHeadSSBM.png" src="/images/thumb/3/3f/PeachHeadSSBM.png/20px-PeachHeadSSBM.png" width="20" height="20" srcset="/images/3/3f/PeachHeadSSBM.png 1.5x" /></a></td>
+<td>32.6
+</td></tr>
+<tr>
+<td>98</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Zealous5000" title="Smasher:Zealous5000">Zealous5000         </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Marth_(SSBM)" title="Marth (SSBM)"><img alt="MarthHeadSSBM.png" src="/images/thumb/9/9b/MarthHeadSSBM.png/20px-MarthHeadSSBM.png" width="20" height="20" srcset="/images/9/9b/MarthHeadSSBM.png 1.5x" /></a><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>32.3
+</td></tr>
+<tr>
+<td>99</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Ralph" title="Smasher:Ralph">Ralph               </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Falco_(SSBM)" title="Falco (SSBM)"><img alt="FalcoHeadSSBM.png" src="/images/thumb/d/d6/FalcoHeadSSBM.png/20px-FalcoHeadSSBM.png" width="20" height="20" srcset="/images/d/d6/FalcoHeadSSBM.png 1.5x" /></a><a href="/Fox_(SSBM)" title="Fox (SSBM)"><img alt="FoxHeadSSBM.png" src="/images/thumb/d/db/FoxHeadSSBM.png/20px-FoxHeadSSBM.png" width="20" height="20" srcset="/images/d/db/FoxHeadSSBM.png 1.5x" /></a></td>
+<td>31.8
+</td></tr>
+<tr>
+<td>100</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:2Saint" class="mw-redirect" title="Smasher:2Saint">2Saint             </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Jigglypuff_(SSBM)" title="Jigglypuff (SSBM)"><img alt="JigglypuffHeadSSBM.png" src="/images/thumb/5/5a/JigglypuffHeadSSBM.png/20px-JigglypuffHeadSSBM.png" width="20" height="20" srcset="/images/5/5a/JigglypuffHeadSSBM.png 1.5x" /></a></td>
+<td>31.4
+</td></tr></tbody></table>
+<h3><span id="101-104_(Just_Barely_Missed_The_Cut)"></span><span class="mw-headline" id="101-104_.28Just_Barely_Missed_The_Cut.29">101-104 (Just Barely Missed The Cut)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=2017_SSBMRank&amp;action=edit&amp;section=4" title="Edit section: 101-104 (Just Barely Missed The Cut)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th>Ranking</th>
+<th>Smasher</th>
+<th>Previous rank</th>
+<th>Movement</th>
+<th>Character(s)</th>
+<th>Rating
+</th></tr>
+<tr>
+<td>101</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Reeve" title="Smasher:Reeve">Reeve              </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Marth_(SSBM)" title="Marth (SSBM)"><img alt="MarthHeadSSBM.png" src="/images/thumb/9/9b/MarthHeadSSBM.png/20px-MarthHeadSSBM.png" width="20" height="20" srcset="/images/9/9b/MarthHeadSSBM.png 1.5x" /></a></td>
+<td>31.2
+</td></tr>
+<tr>
+<td>102</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Bananas" title="Smasher:Bananas">Bananas            </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Ice_Climbers_(SSBM)" title="Ice Climbers (SSBM)"><img alt="IceClimbersHeadSSBM.png" src="/images/thumb/d/d1/IceClimbersHeadSSBM.png/20px-IceClimbersHeadSSBM.png" width="20" height="20" srcset="/images/d/d1/IceClimbersHeadSSBM.png 1.5x" /></a></td>
+<td>31.0
+</td></tr>
+<tr>
+<td>103</td>
+<td><a href="/File:Flag_of_Canada.png" class="image" title="Canada"><img alt="Canada" src="/images/thumb/b/b6/Flag_of_Canada.png/20px-Flag_of_Canada.png" width="20" height="10" srcset="/images/thumb/b/b6/Flag_of_Canada.png/30px-Flag_of_Canada.png 1.5x, /images/thumb/b/b6/Flag_of_Canada.png/40px-Flag_of_Canada.png 2x" /></a> <a href="/Smasher:Nightmare" title="Smasher:Nightmare">Nightmare          </a></td>
+<td>98</td>
+<td>▼ 5</td>
+<td><a href="/Marth_(SSBM)" title="Marth (SSBM)"><img alt="MarthHeadSSBM.png" src="/images/thumb/9/9b/MarthHeadSSBM.png/20px-MarthHeadSSBM.png" width="20" height="20" srcset="/images/9/9b/MarthHeadSSBM.png 1.5x" /></a></td>
+<td>30.4
+</td></tr>
+<tr>
+<td>104</td>
+<td><a href="/File:Flag_of_United_States.png" class="image" title="USA"><img alt="USA" src="/images/thumb/8/86/Flag_of_United_States.png/20px-Flag_of_United_States.png" width="20" height="11" srcset="/images/thumb/8/86/Flag_of_United_States.png/30px-Flag_of_United_States.png 1.5x, /images/thumb/8/86/Flag_of_United_States.png/40px-Flag_of_United_States.png 2x" /></a> <a href="/Smasher:Vro" title="Smasher:Vro">Vro                </a></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td><a href="/Marth_(SSBM)" title="Marth (SSBM)"><img alt="MarthHeadSSBM.png" src="/images/thumb/9/9b/MarthHeadSSBM.png/20px-MarthHeadSSBM.png" width="20" height="20" srcset="/images/9/9b/MarthHeadSSBM.png 1.5x" /></a></td>
+<td>30.3
+</td></tr></tbody></table>
+<div class="inlineContainer"><div class="displaySmall">
+<div class="ad-tag displaySmall" data-ad-name="Med_Leader1_468x60" data-ad-size="468x60"></div>
+<script>(deployads = window.deployads || []).push({});</script>
+</div></div><div class="inlineContainer"><div class="displayLarge" style="display: none;">
+<div class="ad-tag displayLarge" data-ad-name="Leaderboard3_728x90" data-ad-size="728x90"></div>
+<script>(deployads = window.deployads || []).push({});</script>
+</div></div><h2><span class="mw-headline" id="Hidden_Bosses">Hidden Bosses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=2017_SSBMRank&amp;action=edit&amp;section=5" title="Edit section: Hidden Bosses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Hidden Bosses were divided into two lists. The first list includes players that made it into the final ballot for SSBMRank and the second list includes the list of players who made it to the first nomination list, but were removed due to a lack of activity or a low likelihood of making the top 100 cut.
+</p>
+<h3><span class="mw-headline" id="List_of_Final_Nominees">List of Final Nominees</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=2017_SSBMRank&amp;action=edit&amp;section=6" title="Edit section: List of Final Nominees">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/Smasher:Mayb" title="Smasher:Mayb">mayb</a></li>
+<li><a href="/Smasher:Sharkz" title="Smasher:Sharkz">Sharkz</a></li>
+<li><a href="/Smasher:Ryobeat" title="Smasher:Ryobeat">Ryobeat</a></li>
+<li><a href="/Smasher:Vortex" title="Smasher:Vortex">vortex</a></li>
+<li><a href="/Smasher:A_Rookie" title="Smasher:A Rookie">A Rookie</a></li>
+<li><a href="/Smasher:Reno" title="Smasher:Reno">Reno</a></li>
+<li><a href="/Smasher:EastCoastJeff" title="Smasher:EastCoastJeff">EastCoastJeff</a></li>
+<li><a href="/Smasher:R2DLiu" title="Smasher:R2DLiu">R2DLiu</a></li>
+<li><a href="/Smasher:Bizzarro_Flame" title="Smasher:Bizzarro Flame">Bizzarro Flame</a></li>
+<li><a href="/Smasher:Stango" title="Smasher:Stango">Stango</a></li>
+<li><a href="/Smasher:Rustin" title="Smasher:Rustin">Rustin</a></li>
+<li><a href="/Smasher:HAT" title="Smasher:HAT">HAT</a></li>
+<li><a href="/Smasher:Mahie" title="Smasher:Mahie">Mahie</a></li>
+<li><a href="/Smasher:Coffeeblack" title="Smasher:Coffeeblack">Coffeeblack</a></li>
+<li><a href="/Smasher:Daydee" title="Smasher:Daydee">Daydee</a></li>
+<li><a href="/Smasher:Qerb" title="Smasher:Qerb">Qerb</a></li>
+<li><a href="/Smasher:Eikelmann" title="Smasher:Eikelmann">Eikelmann</a></li>
+<li><a href="/Smasher:Cob" title="Smasher:Cob">Cob</a></li>
+<li><a href="/Smasher:Plank" title="Smasher:Plank">Plank</a></li>
+<li><a href="/Smasher:Zorc" title="Smasher:Zorc">Zorc</a></li>
+<li><a href="/Smasher:Michael" title="Smasher:Michael">Michael</a></li></ul>
+<h3><span id="Initial_Nominee_List_(Players_that_were_noted,_but_were_not_on_the_final_ballots)"></span><span class="mw-headline" id="Initial_Nominee_List_.28Players_that_were_noted.2C_but_were_not_on_the_final_ballots.29">Initial Nominee List (Players that were noted, but were not on the final ballots)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=2017_SSBMRank&amp;action=edit&amp;section=7" title="Edit section: Initial Nominee List (Players that were noted, but were not on the final ballots)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/Smasher:4%25" title="Smasher:4%">4%</a></li>
+<li><a href="/Smasher:42nd" title="Smasher:42nd">42nd</a></li>
+<li><a href="/Smasher:Adam" title="Smasher:Adam">Adam</a></li>
+<li><a href="/Smasher:Alan" title="Smasher:Alan">Alan</a></li>
+<li><a href="/Smasher:Albert" title="Smasher:Albert">Albert</a></li>
+<li><a href="/Smasher:Alex19" title="Smasher:Alex19">Alex19</a></li>
+<li><a href="/Smasher:ALP" title="Smasher:ALP">ALP</a></li>
+<li><a href="/Smasher:Animal" title="Smasher:Animal">Animal</a></li>
+<li><a href="/Smasher:Aperture" title="Smasher:Aperture">Aperture</a></li>
+<li><a href="/Smasher:Ashtrei" title="Smasher:Ashtrei">Ashtrei</a></li>
+<li><a href="/Smasher:Atomsk" title="Smasher:Atomsk">Atomsk</a></li>
+<li><a href="/Smasher:Avalancer" class="mw-redirect" title="Smasher:Avalancer">Avalancer</a></li>
+<li><a href="/Smasher:Azzu" title="Smasher:Azzu">Azzu</a></li>
+<li><a href="/index.php?title=Smasher:Baphomet&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Baphomet (page does not exist)">Baphomet</a></li>
+<li><a href="/index.php?title=Smasher:Barraca&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Barraca (page does not exist)">Barraca</a></li>
+<li><a href="/Smasher:Baxon" title="Smasher:Baxon">Baxon</a></li>
+<li><a href="/Smasher:Belia" class="mw-redirect" title="Smasher:Belia">Belia</a></li>
+<li><a href="/Smasher:Bizzarro_Flame" title="Smasher:Bizzarro Flame">Bizzarro Flame</a></li>
+<li><a href="/Smasher:Blue_Jay" title="Smasher:Blue Jay">Blue Jay</a></li>
+<li><a href="/Smasher:Bones" title="Smasher:Bones">Bones</a></li>
+<li><a href="/Smasher:Boulevard" title="Smasher:Boulevard">Boulevard</a></li>
+<li><a href="/Smasher:Boyd" title="Smasher:Boyd">Boyd</a></li>
+<li><a href="/Smasher:CDK" title="Smasher:CDK">CDK</a></li>
+<li><a href="/Smasher:Chandy" title="Smasher:Chandy">Chandy</a></li>
+<li><a href="/index.php?title=Smasher:Chango&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Chango (page does not exist)">Chango</a></li>
+<li><a href="/index.php?title=Smasher:Chef_Rach&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Chef Rach (page does not exist)">Chef Rach</a></li>
+<li><a href="/Smasher:Chris_Best" title="Smasher:Chris Best">Chris Best</a></li>
+<li><a href="/Smasher:CIZ" class="mw-redirect" title="Smasher:CIZ">CIZ</a></li>
+<li><a href="/index.php?title=Smasher:Cloud&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Cloud (page does not exist)">Cloud</a></li>
+<li><a href="/index.php?title=Smasher:Conman&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Conman (page does not exist)">Conman</a></li>
+<li><a href="/Smasher:Cool_Lime" title="Smasher:Cool Lime">Cool Lime</a></li>
+<li><a href="/index.php?title=Smasher:Crim&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Crim (page does not exist)">Crim</a></li>
+<li><a href="/Smasher:Crunch" title="Smasher:Crunch">Crunch</a></li>
+<li><a href="/index.php?title=Smasher:Dai&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Dai (page does not exist)">Dai</a></li>
+<li><a href="/Smasher:Darrell" title="Smasher:Darrell">Darrell</a></li>
+<li><a href="/Smasher:DaShizWiz" title="Smasher:DaShizWiz">DaShizWiz</a></li>
+<li><a href="/Smasher:D%C3%A4umling" title="Smasher:Däumling">Däumling</a></li>
+<li><a href="/index.php?title=Smasher:Derdian&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Derdian (page does not exist)">Derdian</a></li>
+<li><a href="/Smasher:DjaGoF" title="Smasher:DjaGoF">DjaGoF</a></li>
+<li><a href="/Smasher:DoH" title="Smasher:DoH">DoH</a></li>
+<li><a href="/index.php?title=Smasher:DonB&amp;action=edit&amp;redlink=1" class="new" title="Smasher:DonB (page does not exist)">DonB</a></li>
+<li><a href="/Smasher:Dr._Z" title="Smasher:Dr. Z">Dr. Z</a></li>
+<li><a href="/Smasher:Dudutsai" title="Smasher:Dudutsai">dudutsai</a></li>
+<li><a href="/Smasher:Eagle" title="Smasher:Eagle">Eagle</a></li>
+<li><a href="/index.php?title=Smasher:EBay&amp;action=edit&amp;redlink=1" class="new" title="Smasher:EBay (page does not exist)">eBay</a></li>
+<li><a href="/index.php?title=Smasher:Eliott&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Eliott (page does not exist)">Eliott</a></li>
+<li><a href="/Smasher:Envy" title="Smasher:Envy">Envy</a></li>
+<li><a href="/Smasher:ESAM" title="Smasher:ESAM">ESAM</a></li>
+<li><a href="/Smasher:FA0" title="Smasher:FA0">FA0</a></li>
+<li><a href="/Smasher:Fauxhebro" title="Smasher:Fauxhebro">Fauxhebro</a></li>
+<li><a href="/Smasher:Faxx" title="Smasher:Faxx">Faxx</a></li>
+<li><a href="/Smasher:Fiction" title="Smasher:Fiction">Fiction</a></li>
+<li><a href="/Smasher:Fizz_(Colorado)" title="Smasher:Fizz (Colorado)">Fizz</a></li>
+<li><a href="/Smasher:Flipsy" title="Smasher:Flipsy">Flipsy</a></li>
+<li><a href="/index.php?title=Smasher:Fluid&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Fluid (page does not exist)">Fluid</a></li>
+<li><a href="/Smasher:Frenzy" title="Smasher:Frenzy">Frenzy</a></li>
+<li><a href="/Smasher:Frootloop" title="Smasher:Frootloop">Frootloop</a></li>
+<li><a href="/Smasher:Fuzzyness" title="Smasher:Fuzzyness">Fuzzyness</a></li>
+<li><a href="/Smasher:GaR" title="Smasher:GaR">gaR</a></li>
+<li><a href="/index.php?title=Smasher:Ginta&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Ginta (page does not exist)">Ginta</a></li>
+<li><a href="/index.php?title=Smasher:Glitch&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Glitch (page does not exist)">Glitch</a></li>
+<li><a href="/index.php?title=Smasher:Goomy&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Goomy (page does not exist)">Goomy</a></li>
+<li><a href="/Smasher:Gravy" title="Smasher:Gravy">Gravy</a></li>
+<li><a href="/Smasher:Heartstrings" title="Smasher:Heartstrings">Heartstrings</a></li>
+<li><a href="/index.php?title=Smasher:Hex&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Hex (page does not exist)">Hex</a></li>
+<li><a href="/Smasher:HiFi" title="Smasher:HiFi">HiFi</a></li>
+<li><a href="/Smasher:HT" class="mw-redirect" title="Smasher:HT">HT</a></li>
+<li><a href="/Smasher:Humpe" title="Smasher:Humpe">Humpe</a></li>
+<li><a href="/index.php?title=Smasher:Hungry_Pigeon&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Hungry Pigeon (page does not exist)">Hungry Pigeon</a></li>
+<li><a href="/index.php?title=Smasher:I4n&amp;action=edit&amp;redlink=1" class="new" title="Smasher:I4n (page does not exist)">i4n</a></li>
+<li><a href="/Smasher:Isdsar" title="Smasher:Isdsar">Isdsar</a></li>
+<li><a href="/Smasher:Jah_Ridin%27" title="Smasher:Jah Ridin&#39;">Jah Ridin'</a></li>
+<li><a href="/Smasher:Jake13" title="Smasher:Jake13">Jake13</a></li>
+<li><a href="/Smasher:Jamrun" title="Smasher:Jamrun">Jamrun</a></li>
+<li><a href="/Smasher:Jeapie" title="Smasher:Jeapie">Jeapie</a></li>
+<li><a href="/index.php?title=Smasher:Jeff_Foxworthy&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Jeff Foxworthy (page does not exist)">Jeff Foxworthy</a></li>
+<li><a href="/index.php?title=Smasher:JKJ&amp;action=edit&amp;redlink=1" class="new" title="Smasher:JKJ (page does not exist)">JKJ</a></li>
+<li><a href="/Smasher:JohnnyFight" title="Smasher:JohnnyFight">JohnnyFight</a></li>
+<li><a href="/Smasher:Josh" class="mw-redirect" title="Smasher:Josh">Josh</a></li>
+<li><a href="/index.php?title=Smasher:Juanpi&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Juanpi (page does not exist)">Juanpi</a></li>
+<li><a href="/Smasher:K-12" title="Smasher:K-12">K-12</a></li>
+<li><a href="/Smasher:Kalvar" title="Smasher:Kalvar">Kalvar</a></li>
+<li><a href="/index.php?title=Smasher:Keenan&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Keenan (page does not exist)">Keenan</a></li>
+<li><a href="/Smasher:Ken" title="Smasher:Ken">Ken</a></li>
+<li><a href="/Smasher:Lad" title="Smasher:Lad">Lad</a></li>
+<li><a href="/Smasher:Lanceinthepants" title="Smasher:Lanceinthepants">Lanceinthepants</a></li>
+<li><a href="/Smasher:Levingy" title="Smasher:Levingy">Levingy</a></li>
+<li><a href="/index.php?title=Smasher:LK&amp;action=edit&amp;redlink=1" class="new" title="Smasher:LK (page does not exist)">LK</a></li>
+<li><a href="/Smasher:LLDL" title="Smasher:LLDL">LLDL</a></li>
+<li><a href="/Smasher:Lunar_Dusk" title="Smasher:Lunar Dusk">Lunar Dusk</a></li>
+<li><a href="/Smasher:Makenshi" title="Smasher:Makenshi">Makenshi</a></li>
+<li><a href="/Smasher:MattDotZeb" title="Smasher:MattDotZeb">MattDotZeb</a></li>
+<li><a href="/index.php?title=Smasher:MegaChristmas&amp;action=edit&amp;redlink=1" class="new" title="Smasher:MegaChristmas (page does not exist)">MegaChristmas</a></li>
+<li><a href="/index.php?title=Smasher:Messenger&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Messenger (page does not exist)">Messenger</a></li>
+<li><a href="/index.php?title=Smasher:MojoMonkey&amp;action=edit&amp;redlink=1" class="new" title="Smasher:MojoMonkey (page does not exist)">MojoMonkey</a></li>
+<li><a href="/Smasher:Monib" title="Smasher:Monib">Monib</a></li>
+<li><a href="/Smasher:Morsecode762" title="Smasher:Morsecode762">Morsecode762</a></li>
+<li><a href="/Smasher:Mr._F" title="Smasher:Mr. F">Mr. F</a></li>
+<li><a href="/Smasher:MrLz" title="Smasher:MrLz">MrLz</a></li>
+<li><a href="/Smasher:MT" title="Smasher:MT">MT</a></li>
+<li><a href="/Smasher:Nakamaman" title="Smasher:Nakamaman">Nakamaman</a></li>
+<li><a href="/index.php?title=Smasher:Nerin&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Nerin (page does not exist)">Nerin</a></li>
+<li><a href="/Smasher:NY_Joey" title="Smasher:NY Joey">NY Joey</a></li>
+<li><a href="/index.php?title=Smasher:Oaty&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Oaty (page does not exist)">Oaty</a></li>
+<li><a href="/index.php?title=Smasher:OkayP.&amp;action=edit&amp;redlink=1" class="new" title="Smasher:OkayP. (page does not exist)">OkayP.</a></li>
+<li><a href="/Smasher:ORLY" title="Smasher:ORLY">ORLY</a></li>
+<li><a href="/index.php?title=Smasher:Padre&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Padre (page does not exist)">Padre</a></li>
+<li><a href="/Smasher:Pengie" title="Smasher:Pengie">Pengie</a></li>
+<li><a href="/index.php?title=Smasher:Plum&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Plum (page does not exist)">Plum</a></li>
+<li><a href="/Smasher:Porkchops" title="Smasher:Porkchops">Porkchops</a></li>
+<li><a href="/Smasher:Prinz" title="Smasher:Prinz">Prinz</a></li>
+<li><a href="/index.php?title=Smasher:Prof&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Prof (page does not exist)">prof</a></li>
+<li><a href="/index.php?title=Smasher:PRZ&amp;action=edit&amp;redlink=1" class="new" title="Smasher:PRZ (page does not exist)">PRZ</a></li>
+<li><a href="/index.php?title=Smasher:Quang&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Quang (page does not exist)">Quang</a></li>
+<li><a href="/Smasher:Reaper" title="Smasher:Reaper">Reaper</a></li>
+<li><a href="/Smasher:Reason" title="Smasher:Reason">Reason</a></li>
+<li><a href="/index.php?title=Smasher:Rick&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Rick (page does not exist)">Rick</a></li>
+<li><a href="/Smasher:RK" title="Smasher:RK">RK</a></li>
+<li><a href="/Smasher:RockCrock" title="Smasher:RockCrock">RockCrock</a></li>
+<li><a href="/Smasher:S0ft" title="Smasher:S0ft">s0ft</a></li>
+<li><a href="/Smasher:Scar" class="mw-redirect" title="Smasher:Scar">Scar</a></li>
+<li><a href="/Smasher:SchlimmShady" title="Smasher:SchlimmShady">SchlimmShady</a></li>
+<li><a href="/index.php?title=Smasher:SDJ&amp;action=edit&amp;redlink=1" class="new" title="Smasher:SDJ (page does not exist)">SDJ</a></li>
+<li><a href="/index.php?title=Smasher:SFOP&amp;action=edit&amp;redlink=1" class="new" title="Smasher:SFOP (page does not exist)">SFOP</a></li>
+<li><a href="/Smasher:Shamunt" title="Smasher:Shamunt">Shamunt</a></li>
+<li><a href="/Smasher:Shinobi" title="Smasher:Shinobi">Shinobi</a></li>
+<li><a href="/Smasher:Silent_Wolf" title="Smasher:Silent Wolf">Silent Wolf</a></li>
+<li><a href="/Smasher:SilentSpectre" title="Smasher:SilentSpectre">SilentSpectre</a></li>
+<li><a href="/Smasher:Silly_Kyle" title="Smasher:Silly Kyle">Silly Kyle</a></li>
+<li><a href="/index.php?title=Smasher:Sinbad&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Sinbad (page does not exist)">Sinbad</a></li>
+<li><a href="/index.php?title=Smasher:SluG&amp;action=edit&amp;redlink=1" class="new" title="Smasher:SluG (page does not exist)">SluG</a></li>
+<li><a href="/Smasher:SmashBob_SquarePants" title="Smasher:SmashBob SquarePants">SmashBob SquarePants</a></li>
+<li><a href="/Smasher:Sol" title="Smasher:Sol">Sol</a></li>
+<li><a href="/Smasher:Sverre" title="Smasher:Sverre">Sverre</a></li>
+<li><a href="/Smasher:Swiftbass" class="mw-redirect" title="Smasher:Swiftbass">Swiftbass</a></li>
+<li><a href="/Smasher:Taj" title="Smasher:Taj">Taj</a></li>
+<li><a href="/index.php?title=Smasher:Tempo&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Tempo (page does not exist)">Tempo</a></li>
+<li><a href="/Smasher:TheSWOOPER" title="Smasher:TheSWOOPER">TheSWOOPER</a></li>
+<li><a href="/index.php?title=Smasher:Thumbs&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Thumbs (page does not exist)">Thumbs</a></li>
+<li><a href="/Smasher:Trademark" title="Smasher:Trademark">Trademark</a></li>
+<li><a href="/index.php?title=Smasher:Tran&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Tran (page does not exist)">Tran</a></li>
+<li><a href="/index.php?title=Smasher:Tranimal&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Tranimal (page does not exist)">Tranimal</a></li>
+<li><a href="/index.php?title=Smasher:Tuesday&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Tuesday (page does not exist)">Tuesday</a></li>
+<li><a href="/Smasher:Twitch" title="Smasher:Twitch">Twitch</a></li>
+<li><a href="/Smasher:UUAA" title="Smasher:UUAA">UUAA</a></li>
+<li><a href="/Smasher:Valdo" title="Smasher:Valdo">Valdo</a></li>
+<li><a href="/index.php?title=Smasher:Vanitas&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Vanitas (page does not exist)">Vanitas</a></li>
+<li><a href="/Smasher:Vickram" title="Smasher:Vickram">Vickram</a></li>
+<li><a href="/Smasher:Vino" title="Smasher:Vino">Vino</a></li>
+<li><a href="/Smasher:Vinodh" title="Smasher:Vinodh">Vinodh</a></li>
+<li><a href="/Smasher:Vish" title="Smasher:Vish">Vish</a></li>
+<li><a href="/Smasher:Vist" title="Smasher:Vist">Vist</a></li>
+<li><a href="/index.php?title=Smasher:Voo&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Voo (page does not exist)">Voo</a></li>
+<li><a href="/index.php?title=Smasher:Voorhese&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Voorhese (page does not exist)">voorhese</a></li>
+<li><a href="/Smasher:Wavebringer" title="Smasher:Wavebringer">Wavebringer</a></li>
+<li><a href="/Smasher:Webwipe" title="Smasher:Webwipe">Webwipe</a></li>
+<li><a href="/Smasher:Wenbobular" title="Smasher:Wenbobular">Wenbobular</a></li>
+<li><a href="/Smasher:Weon-X" title="Smasher:Weon-X">Weon-X</a></li>
+<li><a href="/Smasher:XIF" title="Smasher:XIF">XIF</a></li>
+<li><a href="/index.php?title=Smasher:Yabasta&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Yabasta (page does not exist)">Yabasta</a></li>
+<li><a href="/index.php?title=Smasher:YoshiCR&amp;action=edit&amp;redlink=1" class="new" title="Smasher:YoshiCR (page does not exist)">yoshiCR</a></li>
+<li><a href="/Smasher:Zasa" title="Smasher:Zasa">Zasa</a></li>
+<li><a href="/index.php?title=Smasher:Zeo&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Zeo (page does not exist)">Zeo</a></li>
+<li><a href="/Smasher:Zoler" title="Smasher:Zoler">Zoler</a></li>
+<li><a href="/Smasher:ZoSo" title="Smasher:ZoSo">ZoSo</a></li>
+<li><a href="/index.php?title=Smasher:Zuppy&amp;action=edit&amp;redlink=1" class="new" title="Smasher:Zuppy (page does not exist)">Zuppy</a></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=2017_SSBMRank&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://www.redbull.com/us-en/ssbmrank-2017-announcement">SSBMRank 2017 Returns to Red Bull</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.redbull.com/us-en/ssbmrank-2017-theprocess">SSBMRank 2017: The Process</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.redbull.com/us-en/ssbmrank-2017-hiddenbosses">SSBMRank 2017: Hidden Bosses</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.redbull.com/us-en/ssbmrank2017-panelists">SSBMRank 2017: The List of Panelists</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.redbull.com/us-en/ssbmrank-2017-faq">SSBMRank 2017: FAQ</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.redbull.com/us-en/ssbmrank-2017-104-101">SSBMRank 2017: Just Barely Missed The Cut (104-101)</a></li>
+<li>SSBMRank 2017 on Red Bull eSports: <a rel="nofollow" class="external text" href="https://www.redbull.com/us-en/ssbmrank-2017-100-91">100-91</a>, <a rel="nofollow" class="external text" href="https://www.redbull.com/us-en/ssbmrank-2017-90-81">90-81</a>, <a rel="nofollow" class="external text" href="https://www.redbull.com/us-en/ssbmrank-2017-80-71">80-71</a>, <a rel="nofollow" class="external text" href="https://www.redbull.com/us-en/ssbmrank-2017-70-61">70-61</a>, <a rel="nofollow" class="external text" href="https://www.redbull.com/us-en/ssbmrank-2017-60-51">60-51</a>, <a rel="nofollow" class="external text" href="https://www.redbull.com/us-en/ssbmrank-2017-50-41">50-41</a>, <a rel="nofollow" class="external text" href="https://www.redbull.com/us-en/ssbmrank-2017-40-31">40-31</a>, <a rel="nofollow" class="external text" href="https://www.redbull.com/us-en/ssbmrank-2017-30-21">30-21</a>, <a rel="nofollow" class="external text" href="https://www.redbull.com/us-en/ssbmrank-2017-20-11">20-11</a>, <a rel="nofollow" class="external text" href="https://www.redbull.com/us-en/ssbmrank-2017-10-1">10-1</a></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=2017_SSBMRank&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/2013_SSBMRank" title="2013 SSBMRank">2013 SSBMRank</a></li>
+<li><a href="/2014_SSBMRank" title="2014 SSBMRank">2014 SSBMRank</a></li>
+<li><a href="/2015_SSBMRank" title="2015 SSBMRank">2015 SSBMRank</a></li>
+<li><a href="/2016_SSBMRank" title="2016 SSBMRank">2016 SSBMRank</a></li></ul>
+<p><br />
+</p>
+<table class="navbox nowraplinks mw-collapsible autocollapse" cellspacing="2">
+
+<tbody><tr>
+<th class="navbox-title" colspan="2">
+<div style="float:left;width:6em;text-align:left;"><div class="noprint plainlinks" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small;&#160;;"><a href="/Template:SSBMRank" title="Template:SSBMRank"><span title="View this template" style=";">v</span></a>&#160;•&#160;<a rel="nofollow" class="external text" href="https://www.ssbwiki.com/Template_talk:SSBMRank"><span style=";" title="Discussion about this template">d</span></a>&#160;•&#160;<a rel="nofollow" class="external text" href="https://www.ssbwiki.com/index.php?title=Template:SSBMRank&amp;action=edit"><span style=";" title="Edit this template (make sure to preview first!)">e</span></a></div></div><span style="font-size:110%"><a href="/SSBMRank" title="SSBMRank">SSBMRank</a> / <a href="/MPGR" title="MPGR">MPGR</a></span>
+</th></tr>
+<tr>
+<th class="navbox-group"><a href="/SSBMRank" title="SSBMRank">SSBMRank</a>
+</th>
+<td class="navbox-list navbox-odd" style="width:100%;text-align:left;" colspan="1"><a href="/2013_SSBMRank" title="2013 SSBMRank">2013</a><span style="font-weight:bold;">&#160;·</span> <a href="/Summer_2014_SSBMRank" title="Summer 2014 SSBMRank">Summer 2014</a><span style="font-weight:bold;">&#160;·</span> <a href="/2014_SSBMRank" title="2014 SSBMRank">2014</a><span style="font-weight:bold;">&#160;·</span> <a href="/Summer_2015_SSBMRank" title="Summer 2015 SSBMRank">Summer 2015</a><span style="font-weight:bold;">&#160;·</span> <a href="/2015_SSBMRank" title="2015 SSBMRank">2015</a><span style="font-weight:bold;">&#160;·</span> <a href="/2016_SSBMRank" title="2016 SSBMRank">2016</a><span style="font-weight:bold;">&#160;·</span> <a href="/Summer_2017_SSBMRank" title="Summer 2017 SSBMRank">Summer 2017</a><span style="font-weight:bold;">&#160;·</span> <a class="mw-selflink selflink">2017</a>
+</td></tr>
+<tr>
+<th class="navbox-group"><a href="/MPGR" title="MPGR">MPGR</a>
+</th>
+<td class="navbox-list navbox-even" style="width:100%;text-align:left;" colspan="1"><a href="/Summer_2018_MPGR" title="Summer 2018 MPGR">Summer 2018</a><span style="font-weight:bold;">&#160;·</span> <a href="/2018_MPGR" title="2018 MPGR">2018</a>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20190201043137
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 1.963 seconds
+Real time usage: 1.982 seconds
+Preprocessor visited node count: 21782/1000000
+Preprocessor generated node count: 21625/1000000
+Post‐expand include size: 80650/2097152 bytes
+Template argument size: 32301/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+ExtLoops count: 0/1000
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1195.889      1 -total
+ 77.27%  924.039    104 Template:PowerRankingsRow
+ 32.51%  388.736    154 Template:Head
+ 23.44%  280.295    342 Template:Sm
+ 16.74%  200.167    104 Template:Flag
+  8.40%  100.491    154 Template:NameToIcon
+  1.28%   15.311      1 Template:SSBMRank
+  1.11%   13.322      1 Template:Navbox
+  0.59%    7.111    104 Template:!!
+  0.44%    5.206      1 Template:ArticleIcons
+-->
+</div>
+<!-- Saved in parser cache with key ssbwiki_wiki:pcache:idhash:79758-0!canonical and timestamp 20190201043135 and revision id 1123517
+ -->
+<table width="100%" style="margin: 9px 0 -3px 0; clear: both; z-index: 4;">
+<tr>
+<td align="center" width="50%">
+<div class="ad-tag" data-ad-name="Med_Rec1_300x250" data-ad-size="300x250"></div>
+<script>(deployads = window.deployads || []).push({});</script>
+</td>
+<td align="center" width="50%">
+<div class="ad-tag" data-ad-name="Med_Rec2_300x250" data-ad-size="300x250"></div>
+<script>(deployads = window.deployads || []).push({});</script>
+</td>
+</tr>
+</table></td><td width="162px" valign="top" style="padding: 0;">
+<div style="width: 160px; height: 375px; padding-top: 225px; margin-left: 8px; background: #F9F9F9; text-align: center; font-style: italic; font-size: 24px; line-height: 26px;">Ads keep SmashWiki independent and free :)</div>
+<div style="margin: 0 -13px -597px 0; z-index: 5; position: relative; top: -600px;">
+<div class="ad-tag" data-ad-name="Tower1_160x600" data-ad-size="160x600"></div>
+<script>(deployads = window.deployads || []).push({});</script><div style="margin-top: 10px; z-index: 5;">
+<div class="ad-tag" data-ad-name="Tower2_160x600_Sticky" data-ad-size="160x600" data-ad-sticky="sidebar" data-ad-refresh="time 30s"></div>
+<script>(deployads = window.deployads || []).push({});</script>
+</div></div></td></tr></table>
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://www.ssbwiki.com/index.php?title=2017_SSBMRank&amp;oldid=1123517">https://www.ssbwiki.com/index.php?title=2017_SSBMRank&amp;oldid=1123517</a>"</div>
+<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:SSBMRank" title="Category:SSBMRank">SSBMRank</a></li></ul></div></div><!-- end content --><div class="visualClear"></div></div></div></div><div id="column-one" lang="en" dir="ltr"><h2>Navigation menu</h2><div role="navigation" class="portlet" id="p-cactions" aria-labelledby="p-cactions-label"><h3 id="p-cactions-label" lang="en" dir="ltr">Views</h3><div class="pBody"><ul lang="en" dir="ltr"><li id="ca-nstab-main" class="selected"><a href="/2017_SSBMRank" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:2017_SSBMRank&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li><li id="ca-edit"><a href="/index.php?title=2017_SSBMRank&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit this page</a></li><li id="ca-history"><a href="/index.php?title=2017_SSBMRank&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li></ul></div></div><div role="navigation" class="portlet" id="p-personal" aria-labelledby="p-personal-label"><h3 id="p-personal-label" lang="en" dir="ltr">Personal tools</h3><div class="pBody"><ul lang="en" dir="ltr"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/index.php?title=Special:CreateAccount&amp;returnto=2017+SSBMRank" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=2017+SSBMRank" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul></div></div><div class="portlet" id="p-logo" role="banner"><a href="/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a></div><div role="navigation" class="portlet generated-sidebar" id="p-Navigation" aria-labelledby="p-Navigation-label"><h3 id="p-Navigation-label" lang="en" dir="ltr">Navigation</h3><div class="pBody"><ul lang="en" dir="ltr"><li id="n-Main-page"><a href="/Main_Page">Main page</a></li><li id="n-Smash-Bros.-Ultimate"><a href="/Super_Smash_Bros._Ultimate">Smash Bros. Ultimate</a></li><li id="n-Smash-Bros.-4"><a href="/Super_Smash_Bros._4">Smash Bros. 4</a></li><li id="n-Smash-Bros.-Brawl"><a href="/Super_Smash_Bros._Brawl">Smash Bros. Brawl</a></li><li id="n-Smash-Bros.-Melee"><a href="/Super_Smash_Bros._Melee">Smash Bros. Melee</a></li><li id="n-Smash-Bros.-.2864.29"><a href="/Super_Smash_Bros.">Smash Bros. (64)</a></li><li id="n-Characters"><a href="/List_of_Super_Smash_Bros._series_characters">Characters</a></li><li id="n-Stages"><a href="/Stage">Stages</a></li><li id="n-Modes"><a href="/Mode">Modes</a></li><li id="n-Items"><a href="/Item">Items</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li></ul></div></div><div role="search" class="portlet" id="p-search"><h3 id="p-search-label" lang="en" dir="ltr"><label for="searchInput">Search</label></h3><div class="pBody" id="searchBody"><form action="/index.php" id="searchform"><input type="hidden" value="Special:Search" name="title"/><input type="search" name="search" placeholder="Search SmashWiki" title="Search SmashWiki [f]" accesskey="f" id="searchInput"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160; <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/></form></div></div><div role="navigation" class="portlet generated-sidebar" id="p-Participate" aria-labelledby="p-Participate-label"><h3 id="p-Participate-label" lang="en" dir="ltr">Participate</h3><div class="pBody"><ul lang="en" dir="ltr"><li id="n-Forum"><a href="/Forum:Index">Forum</a></li><li id="n-portal"><a href="/SmashWiki:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-Help"><a href="/Help:Contents">Help</a></li><li id="n-Admin-noticeboard"><a href="/SmashWiki:Administrators%27_noticeboard">Admin noticeboard</a></li><li id="n-Discord-server"><a href="/SmashWiki:Discord_server">Discord server</a></li><li id="n-YouTube-channel"><a href="/SmashWiki:SmashWiki_YouTube_channel">YouTube channel</a></li></ul></div></div><div role="navigation" class="portlet" id="p-tb" aria-labelledby="p-tb-label"><h3 id="p-tb-label" lang="en" dir="ltr">Tools</h3><div class="pBody"><ul lang="en" dir="ltr"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/2017_SSBMRank" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/2017_SSBMRank" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/index.php?title=2017_SSBMRank&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=2017_SSBMRank&amp;oldid=1123517" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=2017_SSBMRank&amp;action=info" title="More information about this page">Page information</a></li></ul></div></div></div><!-- end of the left (by default at least) column --><div class="visualClear"></div><div id="footer" role="contentinfo" lang="en" dir="ltr"><div id="f-copyrightico" class="footer-icons"><a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Attribution-Share Alike 3.0 Unported" width="88" height="31"/></a></div><div id="f-poweredbyico" class="footer-icons"><a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></div><ul id="f-list"><li id="lastmod"> This page was last edited on 14 November 2018, at 08:25.</li><li id="copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Attribution-Share Alike 3.0 Unported</a> unless otherwise noted.</li><li id="privacy"><a href="https://www.porplemontage.com/privacy" class="extiw" title="porple:privacy">Privacy policy</a></li><li id="about"><a href="/SmashWiki:About" title="SmashWiki:About">About SmashWiki</a></li><li id="disclaimer"><a href="/SmashWiki:General_disclaimer" title="SmashWiki:General disclaimer">Disclaimers</a></li><li id="mobileview"><a href="https://www.ssbwiki.com/index.php?title=2017_SSBMRank&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li></ul></div></div><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.963","walltime":"1.982","ppvisitednodes":{"value":21782,"limit":1000000},"ppgeneratednodes":{"value":21625,"limit":1000000},"postexpandincludesize":{"value":80650,"limit":2097152},"templateargumentsize":{"value":32301,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00% 1195.889      1 -total"," 77.27%  924.039    104 Template:PowerRankingsRow"," 32.51%  388.736    154 Template:Head"," 23.44%  280.295    342 Template:Sm"," 16.74%  200.167    104 Template:Flag","  8.40%  100.491    154 Template:NameToIcon","  1.28%   15.311      1 Template:SSBMRank","  1.11%   13.322      1 Template:Navbox","  0.59%    7.111    104 Template:!!","  0.44%    5.206      1 Template:ArticleIcons"]},"cachereport":{"timestamp":"20190201043137","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":2125});});</script></body><!-- Cached 20190201043137 -->
+</html>

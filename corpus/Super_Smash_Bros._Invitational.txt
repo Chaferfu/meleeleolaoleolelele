@@ -1,0 +1,652 @@
+   #[1]Edit this page [2]SmashWiki (en) [3]SmashWiki Atom feed
+
+Tournament:Super Smash Bros. Invitational
+
+   From SmashWiki, the Super Smash Bros. wiki
+   (Redirected from [4]Super Smash Bros. Invitational)
+   Jump to:[5]navigation, [6]search
+   [7]SSB4-U Icon.png [8]Competitive.png
+   Super Smash Bros. Invitational
+   [9]E3 2014 Invitational.png
+   Info
+   Dates June 10, 2014
+   Venue [10]NOKIA Theatre
+   Address/City 777 Chick Hearn Court
+   Los Angeles, California [11]USA
+   Attendance 16
+   Entry fees —
+   Pot size(s) $500
+   Results
+   [12]Super Smash Bros. for Wii U winners [13]Chile  [14]ZeRo
+   Staff
+   [15]Director(s) [16]Nintendo
+
+   The Super Smash Bros. Invitational was a [17]Super Smash Bros. for Wii U tournament hosted by [18]Nintendo. To commemorate the release of Super Smash Bros. 4, and the Super Smash Bros. series as a whole, Nintendo [19]announced and subsequently hosted the tournament during [20]E3 2014, at the [21]NOKIA Theatre in Los Angeles, California. The host of the event was [22]Geoff Keighley^[23][1], while [24]Reggie Fils-Aime made an additional appearance at the conclusion at the event to present the winner with a trophy.
+
+   The game played was [25]Super Smash Bros. for Wii U, marking the first time that the game was playable to the public. Sixteen top professional players, whose experience included [26]Super Smash Bros. Melee, [27]Super Smash Bros. Brawl and even [28]Project M, were invited to participate. Intended to be more an exhibition of the game than a standard tournament, the event featured some non-standard rules, such as the inclusion of items in some matches, in order to demonstrate multiple aspects of gameplay that were previously unrevealed.
+
+   The tournament had 3,000 in-person spectators, with costumed fans receiving priority seating;^[29][2] all spectators were given flipboards with the official art of all playable characters in order to vote on who their favourite player in a match was.
+
+   The entirety of the tournament was also streamed live on Nintendo's [30]official Twitch account, with professional Smash commentators announcing and commentating both the live event and video footage.
+
+   [31]A video contest was also held prior to the contest, where the winner of which would be awarded a VIP trip to the event and have the opportunity to play one of the tournament winners. The winner was revealed to be [32]justinanthonylennox.
+
+Contents
+
+     * [33]1 Players
+     * [34]2 Announcers
+     * [35]3 Available characters
+     * [36]4 Ruleset
+     * [37]5 Results
+          + [38]5.1 Invitational Tournament
+          + [39]5.2 Fan-Favorite Tournament
+          + [40]5.3 Celebrity Rumble
+     * [41]6 References
+     * [42]7 External links
+
+Players[[43]edit]
+
+   The following players participated in the tournament, listed in the order in which characters were selected.^[44][3]
+                                                    Smasher                                                                    Character played
+   [45]USA Sam "[46]Peachyhime" McNaughton [47]PeachHeadSSBB.png                                             [48]VillagerHeadSSB4-U.png [49]Villager
+   [50]USA Juan "[51]Hungrybox" Debiedma [52]JigglypuffHeadSSBM.png                                          [53]KirbyHeadSSB4-U.png [54]Kirby
+   [55]USA Hendrick "[56]DJ Nintendo" Pilar [57]FoxHeadSSBM.png [58]SamusHeadSSBM.png [59]BowserHeadSSBM.png [60]BowserHeadSSB4-U.png [61]Bowser
+   [62]USA Lilian "[63]milktea" Chen [64]PeachHeadSSBM.png                                                   [65]PikachuHeadSSB4-U.png [66]Pikachu
+   [67]Chile Gonzalo "[68]ZeRo" Barrios [69]FoxHeadSSBM.png [70]MetaKnightHeadSSBB.png                       [71]ZeroSuitSamusHeadSSB4-U.png [72]Zero Suit Samus
+   [73]USA Hugo "[74]HugS" Gonzalez [75]SamusHeadSSBM.png                                                    [76]MegaManHeadSSB4-U.png [77]Mega Man
+   [78]USA Kevin "[79]PPMD" Nanney [80]FalcoHeadSSBM.png [81]MarthHeadSSBM.png                               [82]FoxHeadSSB4-U.png [83]Fox
+   [84]USA Kris "[85]Toph" Aldenderfer [86]FoxHeadSSBM.png                                                   [87]PitHeadSSB4-U.png [88]Pit
+   [89]USA Cristin "[90]Crismas" DeSaro [91]PeachHeadSSBM.png                                                [92]ZeldaHeadSSB4-U.png [93]Zelda
+   [94]USA Ken "[95]Ken" Hoang [96]MarthHeadSSBM.png                                                         [97]MarthHeadSSB4-U.png [98]Marth
+   [99]USA Kevin "[100]PewPewU" Toy [101]MarthHeadSSBM.png                                                   [102]MarioHeadSSB4-U.png [103]Mario
+   [104]USA McCain "[105]MacD" LaVelle [106]PeachHeadSSBM.png                                                [107]GreninjaHeadSSB4-U.png [108]Greninja
+   [109]Japan Masaya "[110]aMSa" Chikamoto [111]YoshiHeadSSBM.png                                            [112]OlimarHeadSSB4-U.png [113]Olimar
+   [114]USA Daniel "[115]KoreanDJ" Jung [116]MarthHeadSSBM.png [117]FoxHeadSSBM.png                          [118]Rosalina&LumaHeadSSB4-U.png [119]Rosalina
+   [120]USA Neha "[121]Lilo" Chhetri [122]PeachHeadSSBM.png                                                  [123]WiiFitTrainerHeadSSB4-U.png [124]Wii Fit Trainer
+   [125]USA Dakota "[126]Rapture" Lasky [127]MetaKnightHeadSSBB.png [128]KirbyHeadSSBB.png                   [129]LittleMacHeadSSB4-U.png [130]Little Mac
+     * milktea, HugS, Ken, and KoreanDJ revealed.
+     * Lilo, DJ Nintendo, Toph, and PeachyHime revealed.
+     * Hungrybox, PewPewU, PPMD, and TheRapture revealed.
+     * Crismas, MacD, aMSa, and ZeRo revealed.
+
+Announcers[[131]edit]
+
+   Between matches, host Geoff Keighley narrated previews to the various matches, as well as provided color commentary; the matches themselves were commentated by: ^[132][4]
+     * D'Ron "[133]D1" Maingrette
+     * Wynton "[134]Prog" Smith
+     * Bobby "[135]Scar" Scarnewman
+
+     * Geoff Keighley is revealed as host.
+     * Prog is revealed as a commentator.
+     * D1 is revealed as a commentator.
+     * Scar is revealed as a commentator.
+
+Available characters[[136]edit]
+
+   Most characters that were revealed at the time of the tournament's original announcement at the end of April were playable, including all six confirmed newcomers, though several confirmed veterans were omitted.
+   [137]MarioIcon(SSB4-U).png
+   [138]Mario [139]RosalinaIcon(SSB4-U).png
+   [140]Rosalina [141]BowserIcon(SSB4-U).png
+   [142]Bowser [143]DonkeyKongIcon(SSB4-U).png
+   [144]Donkey Kong [145]LinkIcon(SSB4-U).png
+   [146]Link [147]ZeldaIcon(SSB4-U).png
+   [148]Zelda [149]SamusIcon(SSB4-U).png
+   [150]Samus [151]ZeroSuitSamusIcon(SSB4-U).png
+   [152]Zero Suit Samus [153]KirbyIcon(SSB4-U).png
+   [154]Kirby [155]FoxIcon(SSB4-U).png
+   [156]Fox
+   [157]PikachuIcon(SSB4-U).png
+   [158]Pikachu [159]GreninjaIcon(SSB4-U).png
+   [160]Greninja [161]MarthIcon(SSB4-U).png
+   [162]Marth [163]PitIcon(SSB4-U).png
+   [164]Pit [165]OlimarIcon(SSB4-U).png
+   [166]Olimar [167]LittleMacIcon(SSB4-U).png
+   [168]Little Mac [169]VillagerIcon(SSB4-U).png
+   [170]Villager [171]WiiFitTrainerIcon(SSB4-U).png
+   [172]Wii Fit Trainer [173]SonicIcon(SSB4-U).png
+   [174]Sonic [175]MegaManIcon(SSB4-U).png
+   [176]Mega Man
+
+   No player picked [177]Donkey Kong, [178]Link, [179]Samus, or [180]Sonic.
+
+Ruleset[[181]edit]
+
+   The following rules were in effect:^[182][5]
+     * Before the tournament began, all competitors chose characters in random order. Characters could not be chosen by multiple players, and players could not switch characters midway through the tournament.
+     * Each match was a four player free-for-all, with all players having four [183]stocks, as well as a five minute [184]timer. The top two players in terms of score advanced. A tie between two players was decided by which player [185]KOed more players; if this was insufficient, the tie would then be broken by fan vote.
+     * The finals took place on [186]Battlefield, with both players having four stocks and the time at 8 minutes, as an explicit homage to the competitive Smash community.
+     * [187]Items were on medium for round 1, low for rounds 2 and 3, and off for the final.
+
+Results[[188]edit]
+
+Invitational Tournament[[189]edit]
+
+   The winner of the Invitational Tournament was Gonzalo "ZeRo" Barrios who played as [190]Zero Suit Samus.
+
+   CAPTION: Quarterfinal 1
+
+   [191]GreninjaHeadSSB4-U.png  MacD    Eliminated
+   [192]OlimarHeadSSB4-U.png    aMSa    Advanced
+   [193]ZeldaHeadSSB4-U.png     Crismas Eliminated
+   [194]LittleMacHeadSSB4-U.png Rapture Advanced
+
+   CAPTION: Quarterfinal 2
+
+   [195]BowserHeadSSB4-U.png        DJ Nintendo Eliminated
+   [196]ZeroSuitSamusHeadSSB4-U.png ZeRo        Advanced
+   [197]Rosalina&LumaHeadSSB4-U.png KoreanDJ    Advanced
+   [198]FoxHeadSSB4-U.png           PPMD        Eliminated
+
+   CAPTION: Quarterfinal 3
+
+   [199]MarioHeadSSB4-U.png         PewPewU Advanced
+   [200]WiiFitTrainerHeadSSB4-U.png Lilo    Advanced
+   [201]PitHeadSSB4-U.png           Toph    Eliminated
+   [202]MarthHeadSSB4-U.png         Ken     Eliminated
+
+   CAPTION: Quarterfinal 4
+
+   [203]VillagerHeadSSB4-U.png Peachyhime Advanced
+   [204]PikachuHeadSSB4-U.png  milktea    Eliminated
+   [205]KirbyHeadSSB4-U.png    Hungrybox  Advanced
+   [206]MegaManHeadSSB4-U.png  HugS       Eliminated
+
+   CAPTION: Semifinal 1
+
+   [207]OlimarHeadSSB4-U.png        aMSa     Advanced
+   [208]LittleMacHeadSSB4-U.png     Rapture  Eliminated
+   [209]ZeroSuitSamusHeadSSB4-U.png ZeRo     Advanced
+   [210]Rosalina&LumaHeadSSB4-U.png KoreanDJ Eliminated
+
+   CAPTION: Semifinal 2
+
+   [211]MarioHeadSSB4-U.png         PewPewU    Eliminated
+   [212]WiiFitTrainerHeadSSB4-U.png Lilo       Advanced
+   [213]KirbyHeadSSB4-U.png         Hungrybox  Advanced
+   [214]VillagerHeadSSB4-U.png      Peachyhime Eliminated
+
+   CAPTION: Final
+
+   [215]ZeroSuitSamusHeadSSB4-U.png ZeRo      Advanced
+   [216]OlimarHeadSSB4-U.png        aMSa      Eliminated
+   [217]KirbyHeadSSB4-U.png         Hungrybox Advanced
+   [218]WiiFitTrainerHeadSSB4-U.png Lilo      Eliminated
+
+   CAPTION: Grand Final
+
+   [219]ZeroSuitSamusHeadSSB4-U.png ZeRo      Winner
+   [220]KirbyHeadSSB4-U.png         Hungrybox Runner-up
+
+   Full results:
+   1. Gonzalo "ZeRo" Barrios
+   2. Juan "Hungrybox" Debiedma
+   3. Masaya "aMSa" Chikamoto
+   3. Neha "Lilo" Chhetri
+   5. Kevin "PewPewU" Toy
+   5. Sam "Peachyhime" McNaughton
+   5. Dakota "Rapture" Lasky
+   5. Daniel "KoreanDJ" Jung
+   9. Hendrick "DJ Nintendo" Pilar
+   9. Kris "Toph" Aldenderfer
+   9. Lilian "milktea" Wei
+   9. Cristin "Crismas" DeSaro
+   9. Kevin "PPMD" Nanney
+   9. Hugo "HugS" Gonzalez
+   9. McCain "MacD" LaVelle
+   9. Ken "Ken" Hoang
+
+Fan-Favorite Tournament[[221]edit]
+
+   Between matches, the audience chose a fighter of the previous round, regardless of the match results, and the fighter with the most votes was transferred to the Fan-Favorite Tournament. The winner of the tournament was Kevin "PPMD" Nanney, who played as [222]Fox.
+
+   CAPTION: Fan-Favorite Round 1
+
+   [223]GreninjaHeadSSB4-U.png MacD Eliminated
+   [224]FoxHeadSSB4-U.png      PPMD Advanced
+   [225]MarthHeadSSB4-U.png    Ken  Eliminated
+   [226]MegaManHeadSSB4-U.png  HugS Advanced
+
+   CAPTION: Fan-Favorite Round 2
+
+   [227]FoxHeadSSB4-U.png           PPMD     Advanced
+   [228]MegaManHeadSSB4-U.png       HugS     Advanced
+   [229]MarioHeadSSB4-U.png         PewPewU  Eliminated
+   [230]Rosalina&LumaHeadSSB4-U.png KoreanDJ Eliminated
+
+   CAPTION: Fan-Favorite Final
+
+   [231]FoxHeadSSB4-U.png     PPMD Winner
+   [232]MegaManHeadSSB4-U.png HugS Runner-up
+
+   Full results:
+   1. Kevin "PPMD" Nanney
+   2. Hugo "HugS" Gonzalez
+   3. Kevin "PewPewU" Toy
+   3. Daniel "KoreanDJ" Jung
+   5. McCain "MacD" LaVelle
+   5. Ken "Ken" Hoang
+
+Celebrity Rumble[[233]edit]
+
+   In addition to the aforementioned tournaments, four celebrities competed in a "celebrity rumble". The match took place at [234]Town and City. The competitors included:
+
+   CAPTION: Celebrity Rumble
+
+   [235]BowserHeadSSB4-U.png   [236]Keegan Allen ([237]Pretty Little Liars)            Winner
+   [238]GreninjaHeadSSB4-U.png [239]Zelda Williams (several Nintendo commercials)      Runner-up
+   [240]LinkHeadSSB4-U.png     [241]Stephen Lunsford ([242]Kamen Rider: Dragon Knight) Third place
+   [243]KirbyHeadSSB4-U.png    [244]Erin Sanders ([245]Zoey 101)                       Fourth place
+
+   Full results:
+   1. Keegan Allen
+   2. Zelda Williams
+   3. Stephen Lunsford
+   4. Erin Sanders
+
+References[[246]edit]
+
+    1. [247]↑ [248]http://www.youtube.com/watch?v=eMQySEjyCUw&t=1m30s
+    2. [249]↑ [250]http://www.gonintendo.com/s/228622-nintendo-invites-public-to-super-smash-bros-invitational
+    3. [251]↑ [252]http://wiiudaily.com/2014/05/nintendo-announces-super-smash-bros-players/
+    4. [253]↑ [254]http://www.youtube.com/watch?v=eMQySEjyCUw&t=1m19s
+    5. [255]↑ [256]http://e3.nintendo.com/tournament/info/
+
+External links[[257]edit]
+
+     * [258]Official website for the event
+     * [259]Highlight reel of the tournament released by Nintendo
+     * [260]Full broadcast of the event
+     * [261]People's Challenger Faceoff Recap
+
+   Retrieved from "[262]https://www.ssbwiki.com/index.php?title=Tournament:Super_Smash_Bros._Invitational&oldid=1042747"
+   [263]Categories:
+     * [264]Nintendo-sponsored tournaments
+     * [265]Southern California tournaments
+     * [266]2014 tournaments
+     * [267]Invitationals
+     * [268]Events
+
+Navigation menu
+
+Views
+
+     * [269]Tournament
+     * [270]Discussion
+     * [271]Edit this page
+     * [272]History
+
+Personal tools
+
+     * Not logged in
+     * [273]Talk
+     * [274]Contributions
+     * [275]Create account
+     * [276]Log in
+
+Navigation
+
+     * [277]Main page
+     * [278]Smash Bros. Ultimate
+     * [279]Smash Bros. 4
+     * [280]Smash Bros. Brawl
+     * [281]Smash Bros. Melee
+     * [282]Smash Bros. (64)
+     * [283]Characters
+     * [284]Stages
+     * [285]Modes
+     * [286]Items
+     * [287]Random page
+
+Search
+
+   ____________________ Go  Search
+
+Participate
+
+     * [288]Forum
+     * [289]Community portal
+     * [290]Recent changes
+     * [291]Help
+     * [292]Admin noticeboard
+     * [293]Discord server
+     * [294]YouTube channel
+
+Tools
+
+     * [295]What links here
+     * [296]Related changes
+     * [297]Special pages
+     * [298]Printable version
+     * [299]Permanent link
+     * [300]Page information
+
+   [301]Attribution-Share Alike 3.0 Unported
+   [302]Powered by MediaWiki
+     * This page was last edited on 20 May 2018, at 20:56.
+     * Content is available under [303]Attribution-Share Alike 3.0 Unported unless otherwise noted.
+     * [304]Privacy policy
+     * [305]About SmashWiki
+     * [306]Disclaimers
+     * [307]Mobile view
+
+References
+
+   Visible links
+   1. https://www.ssbwiki.com/index.php?title=Tournament:Super_Smash_Bros._Invitational&action=edit
+   2. https://www.ssbwiki.com/opensearch_desc.php
+   3. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&feed=atom
+   4. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Invitational&redirect=no
+   5. https://www.ssbwiki.com/Super_Smash_Bros._Invitational#column-one
+   6. https://www.ssbwiki.com/Super_Smash_Bros._Invitational#searchInput
+   7. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+   8. https://www.ssbwiki.com/Tournament
+   9. https://www.ssbwiki.com/File:E3_2014_Invitational.png
+  10. https://en.wikipedia.org/wiki/Nokia_Theatre_L.A._Live
+  11. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  12. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+  13. https://www.ssbwiki.com/File:Flag_of_Chile.png
+  14. https://www.ssbwiki.com/Smasher:ZeRo
+  15. https://www.ssbwiki.com/Tournament_director
+  16. https://www.ssbwiki.com/Nintendo
+  17. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+  18. https://www.ssbwiki.com/Nintendo
+  19. https://www.youtube.com/watch?v=eMQySEjyCUw
+  20. https://www.ssbwiki.com/E3_2014
+  21. https://en.wikipedia.org/wiki/Nokia_Theatre_L.A._Live
+  22. https://en.wikipedia.org/wiki/Geoff_Keighley
+  23. https://www.ssbwiki.com/Super_Smash_Bros._Invitational#cite_note-1
+  24. https://en.wikipedia.org/wiki/Reggie_Fils-Aime
+  25. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+  26. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+  27. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+  28. https://www.ssbwiki.com/Project_M
+  29. https://www.ssbwiki.com/Super_Smash_Bros._Invitational#cite_note-2
+  30. http://www.twitch.tv/nintendo/
+  31. http://e3.nintendo.com/invitational/rules.html
+  32. http://instagram.com/justinanthonylennox
+  33. https://www.ssbwiki.com/Super_Smash_Bros._Invitational#Players
+  34. https://www.ssbwiki.com/Super_Smash_Bros._Invitational#Announcers
+  35. https://www.ssbwiki.com/Super_Smash_Bros._Invitational#Available_characters
+  36. https://www.ssbwiki.com/Super_Smash_Bros._Invitational#Ruleset
+  37. https://www.ssbwiki.com/Super_Smash_Bros._Invitational#Results
+  38. https://www.ssbwiki.com/Super_Smash_Bros._Invitational#Invitational_Tournament
+  39. https://www.ssbwiki.com/Super_Smash_Bros._Invitational#Fan-Favorite_Tournament
+  40. https://www.ssbwiki.com/Super_Smash_Bros._Invitational#Celebrity_Rumble
+  41. https://www.ssbwiki.com/Super_Smash_Bros._Invitational#References
+  42. https://www.ssbwiki.com/Super_Smash_Bros._Invitational#External_links
+  43. https://www.ssbwiki.com/index.php?title=Tournament:Super_Smash_Bros._Invitational&action=edit&section=1
+  44. https://www.ssbwiki.com/Super_Smash_Bros._Invitational#cite_note-3
+  45. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  46. https://www.ssbwiki.com/Smasher:Peachyhime
+  47. https://www.ssbwiki.com/Peach_(PM)
+  48. https://www.ssbwiki.com/Villager_(SSB4)
+  49. https://www.ssbwiki.com/Villager_(SSB4)
+  50. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  51. https://www.ssbwiki.com/Smasher:Hungrybox
+  52. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+  53. https://www.ssbwiki.com/Kirby_(SSB4)
+  54. https://www.ssbwiki.com/Kirby_(SSB4)
+  55. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  56. https://www.ssbwiki.com/Smasher:DJ_Nintendo
+  57. https://www.ssbwiki.com/Fox_(SSBM)
+  58. https://www.ssbwiki.com/Samus_(SSBM)
+  59. https://www.ssbwiki.com/Bowser_(SSBM)
+  60. https://www.ssbwiki.com/Bowser_(SSB4)
+  61. https://www.ssbwiki.com/Bowser_(SSB4)
+  62. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  63. https://www.ssbwiki.com/Smasher:Milktea
+  64. https://www.ssbwiki.com/Peach_(SSBM)
+  65. https://www.ssbwiki.com/Pikachu_(SSB4)
+  66. https://www.ssbwiki.com/Pikachu_(SSB4)
+  67. https://www.ssbwiki.com/File:Flag_of_Chile.png
+  68. https://www.ssbwiki.com/Smasher:ZeRo
+  69. https://www.ssbwiki.com/Fox_(SSBM)
+  70. https://www.ssbwiki.com/Meta_Knight_(SSBB)
+  71. https://www.ssbwiki.com/Zero_Suit_Samus_(SSB4)
+  72. https://www.ssbwiki.com/Zero_Suit_Samus_(SSB4)
+  73. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  74. https://www.ssbwiki.com/Smasher:HugS
+  75. https://www.ssbwiki.com/Samus_(SSBM)
+  76. https://www.ssbwiki.com/Mega_Man_(SSB4)
+  77. https://www.ssbwiki.com/Mega_Man_(SSB4)
+  78. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  79. https://www.ssbwiki.com/Smasher:PPMD
+  80. https://www.ssbwiki.com/Falco_(SSBM)
+  81. https://www.ssbwiki.com/Marth_(SSBM)
+  82. https://www.ssbwiki.com/Fox_(SSB4)
+  83. https://www.ssbwiki.com/Fox_(SSB4)
+  84. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  85. https://www.ssbwiki.com/Smasher:Toph
+  86. https://www.ssbwiki.com/Fox_(SSBM)
+  87. https://www.ssbwiki.com/Pit_(SSB4)
+  88. https://www.ssbwiki.com/Pit_(SSB4)
+  89. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  90. https://www.ssbwiki.com/Smasher:Crismas
+  91. https://www.ssbwiki.com/Peach_(SSBM)
+  92. https://www.ssbwiki.com/Zelda_(SSB4)
+  93. https://www.ssbwiki.com/Zelda_(SSB4)
+  94. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  95. https://www.ssbwiki.com/Smasher:Ken
+  96. https://www.ssbwiki.com/Marth_(SSBM)
+  97. https://www.ssbwiki.com/Marth_(SSB4)
+  98. https://www.ssbwiki.com/Marth_(SSB4)
+  99. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 100. https://www.ssbwiki.com/Smasher:PewPewU
+ 101. https://www.ssbwiki.com/Marth_(SSBM)
+ 102. https://www.ssbwiki.com/Mario_(SSB4)
+ 103. https://www.ssbwiki.com/Mario_(SSB4)
+ 104. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 105. https://www.ssbwiki.com/Smasher:MacD
+ 106. https://www.ssbwiki.com/Peach_(SSBM)
+ 107. https://www.ssbwiki.com/Greninja_(SSB4)
+ 108. https://www.ssbwiki.com/Greninja_(SSB4)
+ 109. https://www.ssbwiki.com/File:Flag_of_Japan.png
+ 110. https://www.ssbwiki.com/Smasher:AMSa
+ 111. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 112. https://www.ssbwiki.com/Olimar_(SSB4)
+ 113. https://www.ssbwiki.com/Olimar_(SSB4)
+ 114. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 115. https://www.ssbwiki.com/Smasher:KoreanDJ
+ 116. https://www.ssbwiki.com/Marth_(SSBM)
+ 117. https://www.ssbwiki.com/Fox_(SSBM)
+ 118. https://www.ssbwiki.com/Rosalina_(SSB4)
+ 119. https://www.ssbwiki.com/Rosalina_(SSB4)
+ 120. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 121. https://www.ssbwiki.com/Smasher:Lilo
+ 122. https://www.ssbwiki.com/Peach_(SSBM)
+ 123. https://www.ssbwiki.com/Wii_Fit_Trainer_(SSB4)
+ 124. https://www.ssbwiki.com/Wii_Fit_Trainer_(SSB4)
+ 125. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 126. https://www.ssbwiki.com/Smasher:Rapture
+ 127. https://www.ssbwiki.com/Meta_Knight_(SSBB)
+ 128. https://www.ssbwiki.com/Kirby_(SSBB)
+ 129. https://www.ssbwiki.com/Little_Mac_(SSB4)
+ 130. https://www.ssbwiki.com/Little_Mac_(SSB4)
+ 131. https://www.ssbwiki.com/index.php?title=Tournament:Super_Smash_Bros._Invitational&action=edit&section=2
+ 132. https://www.ssbwiki.com/Super_Smash_Bros._Invitational#cite_note-4
+ 133. https://www.ssbwiki.com/Smasher:D1
+ 134. https://www.ssbwiki.com/Smasher:Prog
+ 135. https://www.ssbwiki.com/Smasher:Scar
+ 136. https://www.ssbwiki.com/index.php?title=Tournament:Super_Smash_Bros._Invitational&action=edit&section=3
+ 137. https://www.ssbwiki.com/Mario_(SSB4)
+ 138. https://www.ssbwiki.com/Mario_(SSB4)
+ 139. https://www.ssbwiki.com/Rosalina_(SSB4)
+ 140. https://www.ssbwiki.com/Rosalina_(SSB4)
+ 141. https://www.ssbwiki.com/Bowser_(SSB4)
+ 142. https://www.ssbwiki.com/Bowser_(SSB4)
+ 143. https://www.ssbwiki.com/Donkey_Kong_(SSB4)
+ 144. https://www.ssbwiki.com/Donkey_Kong_(SSB4)
+ 145. https://www.ssbwiki.com/Link_(SSB4)
+ 146. https://www.ssbwiki.com/Link_(SSB4)
+ 147. https://www.ssbwiki.com/Zelda_(SSB4)
+ 148. https://www.ssbwiki.com/Zelda_(SSB4)
+ 149. https://www.ssbwiki.com/Samus_(SSB4)
+ 150. https://www.ssbwiki.com/Samus_(SSB4)
+ 151. https://www.ssbwiki.com/Zero_Suit_Samus_(SSB4)
+ 152. https://www.ssbwiki.com/Zero_Suit_Samus_(SSB4)
+ 153. https://www.ssbwiki.com/Kirby_(SSB4)
+ 154. https://www.ssbwiki.com/Kirby_(SSB4)
+ 155. https://www.ssbwiki.com/Fox_(SSB4)
+ 156. https://www.ssbwiki.com/Fox_(SSB4)
+ 157. https://www.ssbwiki.com/Pikachu_(SSB4)
+ 158. https://www.ssbwiki.com/Pikachu_(SSB4)
+ 159. https://www.ssbwiki.com/Greninja_(SSB4)
+ 160. https://www.ssbwiki.com/Greninja_(SSB4)
+ 161. https://www.ssbwiki.com/Marth_(SSB4)
+ 162. https://www.ssbwiki.com/Marth_(SSB4)
+ 163. https://www.ssbwiki.com/Pit_(SSB4)
+ 164. https://www.ssbwiki.com/Pit_(SSB4)
+ 165. https://www.ssbwiki.com/Olimar_(SSB4)
+ 166. https://www.ssbwiki.com/Olimar_(SSB4)
+ 167. https://www.ssbwiki.com/Little_Mac_(SSB4)
+ 168. https://www.ssbwiki.com/Little_Mac_(SSB4)
+ 169. https://www.ssbwiki.com/Villager_(SSB4)
+ 170. https://www.ssbwiki.com/Villager_(SSB4)
+ 171. https://www.ssbwiki.com/Wii_Fit_Trainer_(SSB4)
+ 172. https://www.ssbwiki.com/Wii_Fit_Trainer_(SSB4)
+ 173. https://www.ssbwiki.com/Sonic_(SSB4)
+ 174. https://www.ssbwiki.com/Sonic_(SSB4)
+ 175. https://www.ssbwiki.com/Mega_Man_(SSB4)
+ 176. https://www.ssbwiki.com/Mega_Man_(SSB4)
+ 177. https://www.ssbwiki.com/Donkey_Kong_(SSB4)
+ 178. https://www.ssbwiki.com/Link_(SSB4)
+ 179. https://www.ssbwiki.com/Samus_(SSB4)
+ 180. https://www.ssbwiki.com/Sonic_(SSB4)
+ 181. https://www.ssbwiki.com/index.php?title=Tournament:Super_Smash_Bros._Invitational&action=edit&section=4
+ 182. https://www.ssbwiki.com/Super_Smash_Bros._Invitational#cite_note-5
+ 183. https://www.ssbwiki.com/Stock
+ 184. https://www.ssbwiki.com/Time
+ 185. https://www.ssbwiki.com/KO
+ 186. https://www.ssbwiki.com/Battlefield_(SSB4)
+ 187. https://www.ssbwiki.com/Item
+ 188. https://www.ssbwiki.com/index.php?title=Tournament:Super_Smash_Bros._Invitational&action=edit&section=5
+ 189. https://www.ssbwiki.com/index.php?title=Tournament:Super_Smash_Bros._Invitational&action=edit&section=6
+ 190. https://www.ssbwiki.com/Zero_Suit_Samus_(SSB4)
+ 191. https://www.ssbwiki.com/Greninja_(SSB4)
+ 192. https://www.ssbwiki.com/Olimar_(SSB4)
+ 193. https://www.ssbwiki.com/Zelda_(SSB4)
+ 194. https://www.ssbwiki.com/Little_Mac_(SSB4)
+ 195. https://www.ssbwiki.com/Bowser_(SSB4)
+ 196. https://www.ssbwiki.com/Zero_Suit_Samus_(SSB4)
+ 197. https://www.ssbwiki.com/Rosalina_(SSB4)
+ 198. https://www.ssbwiki.com/Fox_(SSB4)
+ 199. https://www.ssbwiki.com/Mario_(SSB4)
+ 200. https://www.ssbwiki.com/Wii_Fit_Trainer_(SSB4)
+ 201. https://www.ssbwiki.com/Pit_(SSB4)
+ 202. https://www.ssbwiki.com/Marth_(SSB4)
+ 203. https://www.ssbwiki.com/Villager_(SSB4)
+ 204. https://www.ssbwiki.com/Pikachu_(SSB4)
+ 205. https://www.ssbwiki.com/Kirby_(SSB4)
+ 206. https://www.ssbwiki.com/Mega_Man_(SSB4)
+ 207. https://www.ssbwiki.com/Olimar_(SSB4)
+ 208. https://www.ssbwiki.com/Little_Mac_(SSB4)
+ 209. https://www.ssbwiki.com/Zero_Suit_Samus_(SSB4)
+ 210. https://www.ssbwiki.com/Rosalina_(SSB4)
+ 211. https://www.ssbwiki.com/Mario_(SSB4)
+ 212. https://www.ssbwiki.com/Wii_Fit_Trainer_(SSB4)
+ 213. https://www.ssbwiki.com/Kirby_(SSB4)
+ 214. https://www.ssbwiki.com/Villager_(SSB4)
+ 215. https://www.ssbwiki.com/Zero_Suit_Samus_(SSB4)
+ 216. https://www.ssbwiki.com/Olimar_(SSB4)
+ 217. https://www.ssbwiki.com/Kirby_(SSB4)
+ 218. https://www.ssbwiki.com/Wii_Fit_Trainer_(SSB4)
+ 219. https://www.ssbwiki.com/Zero_Suit_Samus_(SSB4)
+ 220. https://www.ssbwiki.com/Kirby_(SSB4)
+ 221. https://www.ssbwiki.com/index.php?title=Tournament:Super_Smash_Bros._Invitational&action=edit&section=7
+ 222. https://www.ssbwiki.com/Fox_(SSB4)
+ 223. https://www.ssbwiki.com/Greninja_(SSB4)
+ 224. https://www.ssbwiki.com/Fox_(SSB4)
+ 225. https://www.ssbwiki.com/Marth_(SSB4)
+ 226. https://www.ssbwiki.com/Mega_Man_(SSB4)
+ 227. https://www.ssbwiki.com/Fox_(SSB4)
+ 228. https://www.ssbwiki.com/Mega_Man_(SSB4)
+ 229. https://www.ssbwiki.com/Mario_(SSB4)
+ 230. https://www.ssbwiki.com/Rosalina_(SSB4)
+ 231. https://www.ssbwiki.com/Fox_(SSB4)
+ 232. https://www.ssbwiki.com/Mega_Man_(SSB4)
+ 233. https://www.ssbwiki.com/index.php?title=Tournament:Super_Smash_Bros._Invitational&action=edit&section=8
+ 234. https://www.ssbwiki.com/Town_and_City
+ 235. https://www.ssbwiki.com/Bowser_(SSB4)
+ 236. https://en.wikipedia.org/wiki/Keegan_Allen
+ 237. https://en.wikipedia.org/wiki/Pretty_Little_Liars
+ 238. https://www.ssbwiki.com/Greninja_(SSB4)
+ 239. https://en.wikipedia.org/wiki/Zelda_Williams
+ 240. https://www.ssbwiki.com/Link_(SSB4)
+ 241. https://en.wikipedia.org/wiki/Stephen_Lunsford
+ 242. https://en.wikipedia.org/wiki/Kamen_Rider:_Dragon_Knight
+ 243. https://www.ssbwiki.com/Kirby_(SSB4)
+ 244. https://en.wikipedia.org/wiki/Erin_Sanders
+ 245. https://en.wikipedia.org/wiki/Zoey_101
+ 246. https://www.ssbwiki.com/index.php?title=Tournament:Super_Smash_Bros._Invitational&action=edit&section=9
+ 247. https://www.ssbwiki.com/Super_Smash_Bros._Invitational#cite_ref-1
+ 248. http://www.youtube.com/watch?v=eMQySEjyCUw&t=1m30s
+ 249. https://www.ssbwiki.com/Super_Smash_Bros._Invitational#cite_ref-2
+ 250. http://www.gonintendo.com/s/228622-nintendo-invites-public-to-super-smash-bros-invitational
+ 251. https://www.ssbwiki.com/Super_Smash_Bros._Invitational#cite_ref-3
+ 252. http://wiiudaily.com/2014/05/nintendo-announces-super-smash-bros-players/
+ 253. https://www.ssbwiki.com/Super_Smash_Bros._Invitational#cite_ref-4
+ 254. http://www.youtube.com/watch?v=eMQySEjyCUw&t=1m19s
+ 255. https://www.ssbwiki.com/Super_Smash_Bros._Invitational#cite_ref-5
+ 256. http://e3.nintendo.com/tournament/info/
+ 257. https://www.ssbwiki.com/index.php?title=Tournament:Super_Smash_Bros._Invitational&action=edit&section=10
+ 258. http://e3.nintendo.com/tournament/
+ 259. https://www.youtube.com/watch?v=F7UQU7Jzc04
+ 260. https://www.youtube.com/watch?v=AK8En6dIdAg
+ 261. https://www.youtube.com/watch?v=lcVloLgoJHA
+ 262. https://www.ssbwiki.com/index.php?title=Tournament:Super_Smash_Bros._Invitational&oldid=1042747
+ 263. https://www.ssbwiki.com/Special:Categories
+ 264. https://www.ssbwiki.com/Category:Nintendo-sponsored_tournaments
+ 265. https://www.ssbwiki.com/Category:Southern_California_tournaments
+ 266. https://www.ssbwiki.com/Category:2014_tournaments
+ 267. https://www.ssbwiki.com/Category:Invitationals
+ 268. https://www.ssbwiki.com/Category:Events
+ 269. https://www.ssbwiki.com/Tournament:Super_Smash_Bros._Invitational
+ 270. https://www.ssbwiki.com/Tournament_talk:Super_Smash_Bros._Invitational
+ 271. https://www.ssbwiki.com/index.php?title=Tournament:Super_Smash_Bros._Invitational&action=edit
+ 272. https://www.ssbwiki.com/index.php?title=Tournament:Super_Smash_Bros._Invitational&action=history
+ 273. https://www.ssbwiki.com/Special:MyTalk
+ 274. https://www.ssbwiki.com/Special:MyContributions
+ 275. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=Tournament:Super+Smash+Bros.+Invitational
+ 276. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=Tournament:Super+Smash+Bros.+Invitational
+ 277. https://www.ssbwiki.com/Main_Page
+ 278. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 279. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 280. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 281. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 282. https://www.ssbwiki.com/Super_Smash_Bros.
+ 283. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+ 284. https://www.ssbwiki.com/Stage
+ 285. https://www.ssbwiki.com/Mode
+ 286. https://www.ssbwiki.com/Item
+ 287. https://www.ssbwiki.com/Special:Random
+ 288. https://www.ssbwiki.com/Forum:Index
+ 289. https://www.ssbwiki.com/SmashWiki:Community_portal
+ 290. https://www.ssbwiki.com/Special:RecentChanges
+ 291. https://www.ssbwiki.com/Help:Contents
+ 292. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
+ 293. https://www.ssbwiki.com/SmashWiki:Discord_server
+ 294. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
+ 295. https://www.ssbwiki.com/Special:WhatLinksHere/Tournament:Super_Smash_Bros._Invitational
+ 296. https://www.ssbwiki.com/Special:RecentChangesLinked/Tournament:Super_Smash_Bros._Invitational
+ 297. https://www.ssbwiki.com/Special:SpecialPages
+ 298. https://www.ssbwiki.com/index.php?title=Tournament:Super_Smash_Bros._Invitational&printable=yes
+ 299. https://www.ssbwiki.com/index.php?title=Tournament:Super_Smash_Bros._Invitational&oldid=1042747
+ 300. https://www.ssbwiki.com/index.php?title=Tournament:Super_Smash_Bros._Invitational&action=info
+ 301. https://creativecommons.org/licenses/by-sa/3.0/
+ 302. https://www.mediawiki.org/
+ 303. https://creativecommons.org/licenses/by-sa/3.0/
+ 304. https://www.porplemontage.com/privacy
+ 305. https://www.ssbwiki.com/SmashWiki:About
+ 306. https://www.ssbwiki.com/SmashWiki:General_disclaimer
+ 307. https://www.ssbwiki.com/index.php?title=Tournament:Super_Smash_Bros._Invitational&mobileaction=toggle_view_mobile
+
+   Hidden links:
+ 309. https://www.ssbwiki.com/File:InvitedPlayers1.png
+ 310. https://www.ssbwiki.com/File:InvitedPlayers2.png
+ 311. https://www.ssbwiki.com/File:InvitedPlayers3.png
+ 312. https://www.ssbwiki.com/File:InvitedPlayers4.png
+ 313. https://www.ssbwiki.com/File:Keighley_splash_art.png
+ 314. https://www.ssbwiki.com/File:Prog_Speaks_Up.png
+ 315. https://www.ssbwiki.com/File:D1_Answers_Call.png
+ 316. https://www.ssbwiki.com/File:Scar_Mic%27d_Up.png
+ 317. https://www.ssbwiki.com/Main_Page

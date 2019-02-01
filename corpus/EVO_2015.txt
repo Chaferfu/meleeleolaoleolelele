@@ -1,0 +1,1400 @@
+   #[1]Edit this page [2]SmashWiki (en) [3]SmashWiki Atom feed
+
+Tournament:EVO 2015
+
+   From SmashWiki, the Super Smash Bros. wiki
+   (Redirected from [4]EVO 2015)
+   Jump to:[5]navigation, [6]search
+   [7]SSBM Icon.png [8]SSB4-U Icon.png [9]Competitive.png
+   EVO 2015
+   [10]EVOLogo2013.png
+   Info
+   Dates July 17th-19th, 2015
+   Venue Bally's/Paris Hotel and Casino
+   Address/City 3655 S Las Vegas Blvd
+   Las Vegas, Nevada [11]USA
+   Attendance 3,284
+   Entry fees Melee singles: $10
+   Smash Wii U singles: $10
+   Pot size(s) Melee singles: $18,690.00
+   Smash Wii U singles: $19,260.00
+   Results
+   [12]Super Smash Bros. Melee winners [13]Sweden  [14]Armada 1v1
+   [15]USA  [16]PewPewU & [17]USA  [18]SFAT 2v2
+   [19]Super Smash Bros. for Wii U winners [20]Chile  [21]ZeRo
+   Staff
+   [22]Director(s) [23]Mr. Wizard
+
+   Evolution 2015, or simply EVO 2015, was the 14th edition of the [24]Evolution Championship Series, a fighting game tournament held annually in Las Vegas, Nevada, which took place on July 17th to 19th, 2015 at the [25]Bally's Las Vegas / [26]Paris Las Vegas Casino. It featured [27]Super Smash Bros. Melee and [28]Super Smash Bros. for Wii U singles, as well as a Melee doubles side-event.
+
+   EVO 2015 currently stands as the [29]second largest Melee and Smash 4 tournament to date, with 1,926 entrants for Smash 4, 1,869 entrants for Melee, and 3,284 unique players across both games. Contrary to expectations that there would be a large overlap on the player base for both games, [30]Joey Cuellar, EVO's tournament director, confirmed that only 517 players entered both games, an overlap of only 16%.^[31][1]^[32][2]
+
+   EVO 2015 allowed [33]custom special moves in Super Smash Bros. for Wii U by utilizing the [34]Official Custom Moveset Project, and was notably the last major tournament to use the project. Furthermore, several of the game's [35]DLC characters, [36]Lucas, [37]Roy, and [38]Ryu, were not allowed due to their then-recent release^[39][3].
+
+Contents
+
+     * [40]1 Official game lineup
+     * [41]2 Ruleset
+          + [42]2.1 Super Smash Bros. Melee
+               o [43]2.1.1 Stage list
+          + [44]2.2 Super Smash Bros. for Wii U
+               o [45]2.2.1 Stage list
+     * [46]3 Results
+          + [47]3.1 Super Smash Bros. Melee singles
+          + [48]3.2 Super Smash Bros. for Wii U singles
+          + [49]3.3 Side events
+               o [50]3.3.1 Super Smash Bros. Melee doubles
+               o [51]3.3.2 Super Smash Bros. for Wii U doubles
+               o [52]3.3.3 Project M singles
+               o [53]3.3.4 Smash Wii U East Coast vs. West Coast crew battle
+               o [54]3.3.5 Melee Tristate vs. MD/VA crew battle
+               o [55]3.3.6 Salty Suite
+     * [56]4 Trivia
+     * [57]5 External links
+     * [58]6 References
+
+Official game lineup[[59]edit]
+
+   The official game lineup for EVO 2015 was announced on January 20th, by Joey Cuellar, during a live stream on Twitch.tv, with Mike Ross as host. Notably for this year's edition was the inclusion of two Smash games on the official lineup, for the first time, with the return of [60]Super Smash Bros. Melee alongside [61]Super Smash Bros. for Wii U. The decision to include both games was made after continued interest in Melee was noted by the staff, following the release of Super Smash Bros. for Wii U, with the record breaking numbers for [62]Apex 2015.^[63][4]
+    Finals                Game               Entrants Pot Size
+   Sunday   [64]Ultra Street Fighter IV      2,227    $72,270
+   Sunday   [65]Ultimate Marvel vs. Capcom 3 816      $9,060
+   Sunday   [66]Super Smash Bros. Melee      1,869    $18,690
+   Sunday   [67]Mortal Kombat X              1,162    $61,620
+   Sunday   [68]Guilty Gear Xrd Sign         968      $19,680
+   Saturday [69]Killer Instinct              397      $53,970
+   Saturday [70]Tekken 7                     458      $34,580
+   Saturday [71]Super Smash Bros. for Wii U  1,926    $19,260
+   Friday   [72]Persona 4 Arena Ultimax      437      $14,370
+     * All pot prize values were taken from [73][6].
+
+Ruleset[[74]edit]
+
+[75]Super Smash Bros. Melee[[76]edit]
+
+     * Items are set to off and none. Pause disabled
+     * 4 [77]stocks and 8 minute [78]time limit.
+     * 2/3 games; 3/5 for Winner's, Loser's, and Grand Finals
+     * [79]Wobbling is allowed. The freeze glitch and infinite stalling are banned however.
+     * First stage is decided by banning from the Starter Stages in P1-P2-P2-P1 order.
+     * Winning player is not locked into the same character for the next match, but has to pick before loser selects character.
+     * In a Best of 3 match, a player can ban 1 stage upon winning a game. In a Best of 5 match however, there are no stage bans.
+     * Maximum allowed time between games is 60 seconds. Any player violating this rule will be issued a loss.
+     * [80]Dave's Stupid Rule: A player cannot counterpick the last stage he/she won on unless mutually agreed to by both players.
+
+Stage list[[81]edit]
+
+          Starter             Counterpick
+   [82]Battlefield        [83]Pokémon Stadium
+   [84]Dream Land
+   [85]Final Destination
+   [86]Fountain of Dreams
+   [87]Yoshi's Story
+
+Super Smash Bros. for Wii U[[88]edit]
+
+     * Items are set to off and none. [89]Pause and [90]handicap are disabled. [91]Launch rate is 1.0.
+     * 2 stocks and 6 minute time limit.
+     * 2/3 games; 3/5 for Winner's, Loser's, and Grand Finals
+     * Customs are legal and must follow the [92]Official Custom Moveset Project. Equipment however is turned off.
+     * [93]Lucas, [94]Roy, and [95]Ryu are banned. [96]Amiibo are also banned.
+     * All Ω form of stages are banned.
+     * Order of events:Pick characters, then stage striking, then custom move selection.
+     * First stage is decided by (Rock-Paper-Scissors) best of 1. Winner strikes, then loser strikes, then winner, then loser, then winner. (P1-P2-P1-P2-P1)
+     * Following stages decided by winner banning two stages from all stages and then loser choosing.
+     * Winning player is not locked into the same character for the next match, but has to pick before loser selects character.
+     * Maximum allowed time between games is 60 seconds. Any player violating this rule will be issued a loss.
+     * [97]Dave's Stupid Rule: A player cannot counterpick the last stage he/she won on unless mutually agreed to by both players.
+     * You may not play on a stage that is not on the available stages list. This will result in a double disqualification.
+     * Maximum allowed time between games is 60 seconds. Any player violating this rule will be issued a loss.
+     * Sudden Death with a tied percentage/stock count will NOT determine the outcome of a tied game. A playoff match with 1 stock/2 minutes will determine the winner.
+     * Allowed controllers: [98]Wii U Pro Controller & [99]GameCube Controller.
+     * There will be no loading anything on to the tournament consoles.
+
+Stage list[[100]edit]
+
+               Starter                 Counterpick
+   [101]Battlefield ([102]Miiverse) [103]Castle Siege
+   [104]Final Destination           [105]Delfino Plaza
+   [106]Lylat Cruise                [107]Duck Hunt
+   [108]Smashville                  [109]Halberd
+   [110]Town and City
+
+Results[[111]edit]
+
+[112]Super Smash Bros. Melee singles[[113]edit]
+
+   (1,869 entrants)
+   [114]Top 32 Bracket
+   [115]Grand Finals
+   Place              Name                                         Character(s)                            Earnings
+   1st   [116]Sweden  [117]Armada       [118]PeachHeadSSBM.png [119]FoxHeadSSBM.png                        $11,214
+   2nd   [120]USA  [121]Hungrybox       [122]JigglypuffHeadSSBM.png                                        $3,738
+   3rd   [123]USA  [124]PPMD            [125]FalcoHeadSSBM.png [126]MarthHeadSSBM.png                      $1,869
+   4th   [127]USA  [128]Plup            [129]SheikHeadSSBM.png [130]SamusHeadSSBM.png                      $747.60
+   5th   [131]USA  [132]Mango           [133]FoxHeadSSBM.png [134]FalcoHeadSSBM.png                        $373.80
+   5th   [135]Sweden  [136]Leffen       [137]FoxHeadSSBM.png                                               $373.80
+   7th   [138]USA  [139]ChuDat          [140]IceClimbersHeadSSBM.png                                       $186.90
+   7th   [141]USA  [142]Axe             [143]PikachuHeadSSBM.png                                           $186.90
+   9th   [144]Germany  [145]Ice         [146]FoxHeadSSBM.png
+   9th   [147]USA  [148]PewPewU         [149]MarthHeadSSBM.png
+   9th   [150]USA  [151]HugS            [152]SamusHeadSSBM.png
+   9th   [153]USA  [154]DruggedFox      [155]SheikHeadSSBM.png
+   13th  [156]USA  [157]Ken             [158]MarthHeadSSBM.png
+   13th  [159]USA  [160]Lucky           [161]FoxHeadSSBM.png
+   13th  [162]USA  [163]Westballz       [164]FalcoHeadSSBM.png [165]CaptainFalconHeadSSBM.png
+   13th  [166]USA  [167]Duck            [168]SamusHeadSSBM.png
+   17th  [169]USA  [170]Fly Amanita     [171]IceClimbersHeadSSBM.png
+   17th  [172]USA  [173]Santiago        [174]FoxHeadSSBM.png
+   17th  [175]USA  [176]SFAT            [177]FoxHeadSSBM.png
+   17th  [178]USA  [179]Hax             [180]FoxHeadSSBM.png
+   17th  [181]USA  [182]Silent Wolf     [183]FoxHeadSSBM.png
+   17th  [184]Mexico  [185]JAVI         [186]FoxHeadSSBM.png
+   17th  [187]USA  [188]S2J             [189]CaptainFalconHeadSSBM.png
+   17th  [190]USA  [191]MacD            [192]PeachHeadSSBM.png
+   25th  [193]USA  [194]Reno            [195]SheikHeadSSBM.png
+   25th  [196]USA  [197]Shroomed        [198]SheikHeadSSBM.png
+   25th  [199]USA  [200]DJ Nintendo     [201]FoxHeadSSBM.png [202]PikachuHeadSSBM.png
+   25th  [203]Japan  [204]aMSa          [205]YoshiHeadSSBM.png
+   25th  [206]USA  [207]Laudandus       [208]SheikHeadSSBM.png
+   25th  [209]USA  [210]Darkrain        [211]CaptainFalconHeadSSBM.png
+   25th  [212]USA  [213]Zanguzen        [214]FalcoHeadSSBM.png
+   25th  [215]Mexico  [216]Eddy Mexico  [217]LuigiHeadSSBM.png
+   33rd  [218]USA  [219]Azen            [220]MarthHeadSSBM.png [221]FalcoHeadSSBM.png
+   33rd  [222]USA  [223]Lovage          [224]FoxHeadSSBM.png
+   33rd  [225]USA  [226]Kalamazhu       [227]PeachHeadSSBM.png
+   33rd  [228]USA  [229]Darkatma        [230]SheikHeadSSBM.png
+   33rd  [231]USA  [232]Zhu             [233]FalcoHeadSSBM.png
+   33rd  [234]USA  [235]Vish            [236]CaptainFalconHeadSSBM.png
+   33rd  [237]USA  [238]Kira            [239]SheikHeadSSBM.png
+   33rd  [240]Mexico  [241]Far!         [242]FalcoHeadSSBM.png
+   33rd  [243]USA  [244]Swedish Delight [245]SheikHeadSSBM.png
+   33rd  [246]USA  [247]OkamiBW         [248]SheikHeadSSBM.png
+   33rd  [249]USA  [250]Wizzrobe        [251]CaptainFalconHeadSSBM.png
+   33rd  [252]USA  [253]Animal          [254]FoxHeadSSBM.png
+   33rd  [255]USA  [256]Darrell         [257]SamusHeadSSBM.png
+   33rd  [258]USA  [259]Azusa           [260]PeachHeadSSBM.png
+   33rd  [261]USA  [262]Frootloop       [263]FalcoHeadSSBM.png
+   33rd  [264]USA  [265]The Moon        [266]MarthHeadSSBM.png
+   49th  [267]USA  [268]Tafokints       [269]SheikHeadSSBM.png [270]FoxHeadSSBM.png
+   49th  [271]USA  [272]Forward         [273]FalcoHeadSSBM.png [274]FoxHeadSSBM.png [275]PeachHeadSSBM.png
+   49th  [276]USA  [277]Lord            [278]CaptainFalconHeadSSBM.png
+   49th  [279]USA  [280]Mike Haze       [281]FoxHeadSSBM.png
+   49th  [282]USA  [283]KPan            [284]FalcoHeadSSBM.png
+   49th  [285]USA  [286]Cactuar         [287]FoxHeadSSBM.png
+   49th  [288]USA  [289]Prince Abu      [290]JigglypuffHeadSSBM.png
+   49th  [291]USA  [292]Blea Gelo       [293]LuigiHeadSSBM.png
+   49th  [294]USA  [295]Drephen         [296]SheikHeadSSBM.png
+   49th  [297]USA  [298]Crush           [299]FoxHeadSSBM.png
+   49th  [300]USA  [301]Redd            [302]FoxHeadSSBM.png
+   49th  [303]USA  [304]Fat Goku        [305]FoxHeadSSBM.png
+   49th  [306]USA  [307]NY Joey         [308]FalcoHeadSSBM.png
+   49th  [309]USA  [310]Dart!           [311]MarthHeadSSBM.png
+   49th  [312]USA  [313]Light           [314]PeachHeadSSBM.png
+   49th  [315]USA  [316]Colbol          [317]FoxHeadSSBM.png [318]MarthHeadSSBM.png
+
+[319]Super Smash Bros. for Wii U singles[[320]edit]
+
+   (1,926 entrants)
+   [321]Grand Finals
+   [322]Top 32 bracket (winners' side)
+   [323]Top 32 bracket (losers' side)
+   Place               Name                                                   Character(s)                                     Earnings
+   1st   [324]Chile  [325]ZeRo            [326]SheikHeadSSB4-U.png [327]DiddyKongHeadSSB4-U.png                                $11,556
+   2nd   [328]Netherlands  [329]Mr. R     [330]SheikHeadSSB4-U.png                                                             $3,852
+   3rd   [331]USA  [332]Nairo             [333]ZeroSuitSamusHeadSSB4-U.png                                                     $1,926
+   4th   [334]Japan  [335]Abadango        [336]Pac-ManHeadSSB4-U.png [337]WarioHeadSSB4-U.png [338]Rosalina&LumaHeadSSB4-U.png $770.40
+   5th   [339]USA  [340]Dabuz             [341]Rosalina&LumaHeadSSB4-U.png [342]OlimarHeadSSB4-U.png                           $385.20
+   5th   [343]Canada  [344]Ally           [345]MarioHeadSSB4-U.png                                                             $385.20
+   7th   [346]USA  [347]ESAM              [348]PikachuHeadSSB4-U.png                                                           $192.60
+   7th   [349]USA  [350]FOW               [351]NessHeadSSB4-U.png                                                              $192.60
+   9th   [352]USA  [353]Larry Lurr        [354]SheikHeadSSB4-U.png [355]FoxHeadSSB4-U.png
+   9th   [356]Japan  [357]RAIN            [358]SheikHeadSSB4-U.png
+   9th   [359]USA [360]SS                 [361]VillagerHeadSSB4-U.png
+   9th   [362]USA  [363]StaticManny       [364]SonicHeadSSB4-U.png
+   13th  [365]USA  [366]False             [367]SheikHeadSSB4-U.png
+   13th  [368]USA  [369]Dapuffster        [370]MiiBrawlerHeadSSB4-U.png
+   13th  [371]Mexico  [372]Regi           [373]MrGame&WatchHeadSSB4-U.png
+   13th  [374]USA  [375]Mocha             [376]SonicHeadSSB4-U.png
+   17th  [377]USA  [378]8BitMan           [379]ROBHeadSSB4-U.png
+   17th  [380]USA  [381]John Numbers      [382]WiiFitTrainerHeadSSB4-U.png
+   17th  [383]USA  [384]Tyrant            [385]MetaKnightHeadSSB4-U.png
+   17th  [386]USA  [387]MJG               [388]VillagerHeadSSB4-U.png
+   17th  [389]USA  [390]Angel Cortes      [391]DiddyKongHeadSSB4-U.png
+   17th  [392]USA  [393]Bloodcross        [394]FoxHeadSSB4-U.png
+   17th  [395]USA  [396]CaptAwesum        [397]VillagerHeadSSB4-U.png
+   17th  [398]USA  [399]MVD               [400]DiddyKongHeadSSB4-U.png
+   25th  [401]USA  [402]Trevonte          [403]SheikHeadSSB4-U.png [404]PalutenaHeadSSB4-U.png
+   25th  [405]USA  [406]Shaky             [407]NessHeadSSB4-U.png
+   25th  [408]USA  [409]Salem             [410]SheikHeadSSB4-U.png [411]ZeroSuitSamusHeadSSB4-U.png [412]LucinaHeadSSB4-U.png
+   25th  [413]USA  [414]Mr. ConCon        [415]LuigiHeadSSB4-U.png
+   25th  [416]USA  [417]falln             [418]Rosalina&LumaHeadSSB4-U.png
+   25th  [419]USA  [420]Vinnie            [421]SheikHeadSSB4-U.png
+   25th  [422]USA  [423]Wii Twerk Trainer [424]WiiFitTrainerHeadSSB4-U.png [425]MiiGunnerHeadSSB4-U.png
+   25th  [426]USA  [427]Tweek             [428]BowserJrHeadSSB4-U.png
+   33rd  [429]USA  [430]Denti             [431]SheikHeadSSB4-U.png
+   33rd  [432]USA  [433]6WX               [434]SonicHeadSSB4-U.png
+   33rd
+   33rd  [435]USA  [436]Anuar             [437]WarioHeadSSB4-U.png [438]VillagerHeadSSB4-U.png
+   33rd  [439]USA  [440]Cacogen           [441]SheikHeadSSB4-U.png
+   33rd  [442]USA  [443]True Blue         [444]SonicHeadSSB4-U.png
+   33rd  [445]USA  [446]Tearbear          [447]CaptainFalconHeadSSB4-U.png
+   33rd  [448]USA  [449]RiotLettuce       [450]DonkeyKongHeadSSB4-U.png
+   33rd  [451]USA  [452]NAKAT             [453]FoxHeadSSB4-U.png [454]NessHeadSSB4-U.png [455]PikachuHeadSSB4-U.png
+   33rd  [456]Japan  [457]aMSa            [458]GreninjaHeadSSB4-U.png
+   33rd  [459]USA  [460]Will              [461]DonkeyKongHeadSSB4-U.png
+   33rd  [462]USA  [463]Jodi Bleek        [464]GreninjaHeadSSB4-U.png
+   33rd  [465]USA  [466]K9                [467]SheikHeadSSB4-U.png
+   33rd  [468]USA  [469]NickRiddle        [470]MiiBrawlerHeadSSB4-U.png
+   33rd  [471]USA  [472]Zenyou            [473]MarioHeadSSB4-U.png
+   33rd  [474]USA  [475]Zex               [476]SheikHeadSSB4-U.png
+   49th  [477]Japan  [478]Mr.II           [479]RobinHeadSSB4-U.png
+   49th  [480]USA  [481]VoiD              [482]SheikHeadSSB4-U.png
+   49th  [483]USA  [484]Seagull Joe       [485]SonicHeadSSB4-U.png
+   49th  [486]USA  [487]AirVault          [488]SheikHeadSSB4-U.png
+   49th  [489]USA  [490]AeroLink          [491]PalutenaHeadSSB4-U.png
+   49th  [492]USA  [493]Kinzer            [494]SonicHeadSSB4-U.png
+   49th  [495]USA  [496]Rich Brown        [497]LuigiHeadSSB4-U.png
+   49th  [498]USA  [499]Ito               [500]MetaKnightHeadSSB4-U.png
+   49th  [501]El Salvador  [502]Luisfer   [503]DiddyKongHeadSSB4-U.png
+   49th  [504]USA  [505]Jtails            [506]DiddyKongHeadSSB4-U.png
+   49th
+   49th
+   49th
+   49th
+   49th
+   49th
+
+Side events[[507]edit]
+
+Super Smash Bros. Melee doubles[[508]edit]
+
+   (82 teams)
+   [509]Bracket
+   Place              Name                              Character(s)                            Name                               Character(s)                 Earnings
+   1st   [510]USA  [511]PewPewU         [512]MarthHeadSSBM.png                      [513]USA  [514]SFAT           [515]FoxHeadSSBM.png
+   2nd   [516]Sweden  [517]Armada       [518]FoxHeadSSBM.png [519]PeachHeadSSBM.png [520]Germany  [521]Ice        [522]FoxHeadSSBM.png
+   3rd   [523]USA  [524]Hungrybox       [525]JigglypuffHeadSSBM.png                 [526]USA  [527]Plup           [528]SheikHeadSSBM.png [529]SamusHeadSSBM.png
+   4th   [530]USA  [531]Frootloop       [532]FalcoHeadSSBM.png                      [533]USA  [534]Darkatma       [535]SheikHeadSSBM.png
+   5th   [536]USA  [537]Chillin         [538]FoxHeadSSBM.png                        [539]USA  [540]Azen           [541]MarthHeadSSBM.png
+   5th   [542]USA  [543]Axe             [544]PikachuHeadSSBM.png                    [545]USA  [546]Medz           [547]FoxHeadSSBM.png
+   7th   [548]USA  [549]Swedish Delight [550]SheikHeadSSBM.png                      [551]USA  [552]Nintendude     [553]IceClimbersHeadSSBM.png
+   7th   [554]Canada  [555]Kage         [556]GanondorfHeadSSBM.png                  [557]USA  [558]Bizzarro Flame [559]GanondorfHeadSSBM.png
+   9th   [560]USA  [561]Shroomed        [562]SheikHeadSSBM.png                      [563]USA  [564]Alan           [565]PeachHeadSSBM.png
+   9th   [566]USA  [567]Mango           [568]FoxHeadSSBM.png                        [569]USA  [570]Lucky          [571]FoxHeadSSBM.png
+   9th   [572]USA  [573]Kalamazhu       [574]PeachHeadSSBM.png                      [575]USA  [576]dizzkidboogie  [577]IceClimbersHeadSSBM.png
+   9th   [578]USA  [579]Darkrain        [580]CaptainFalconHeadSSBM.png              [581]USA  [582]Dart!          [583]MarthHeadSSBM.png
+   13th  [584]USA  [585]Cyrain          [586]FoxHeadSSBM.png                        [587]USA  [588]Milkman        [589]FoxHeadSSBM.png
+   13th  [590]USA  [591]Tafokints       [592]SheikHeadSSBM.png                      [593]USA  [594]Redd           [595]FoxHeadSSBM.png
+   13th  [596]USA  [597]Duck            [598]SamusHeadSSBM.png                      [599]USA  [600]Prince Abu     [601]JigglypuffHeadSSBM.png
+   13th  [602]USA  [603]Flow            [604]JigglypuffHeadSSBM.png                 [605]USA  [606]s0ft           [607]JigglypuffHeadSSBM.png
+
+Super Smash Bros. for Wii U doubles[[608]edit]
+
+   (96 teams)
+   [609]Bracket
+
+   Due to time constraints, the tournament was stopped at top 16, and all of the respective teams were paid out equally.
+   Place             Name                                    Character(s)                                    Name                         Character(s)                  Earnings
+   —     [610]USA  [611]FOW           [612]NessHeadSSB4-U.png                                   [613]USA  [614]MJG              [615]VillagerHeadSSB4-U.png      $265.00 ($132.50 each)
+   —     [616]USA  [617]Nairo         [618]ZeroSuitSamusHeadSSB4-U.png [619]ZeldaHeadSSB4-U.png [620]USA  [621]Shaky            [622]NessHeadSSB4-U.png          $265.00 ($132.50 each)
+   —     [623]USA  [624]Nakat         [625]NessHeadSSB4-U.png [626]FoxHeadSSB4-U.png            [627]USA  [628]False            [629]SheikHeadSSB4-U.png         $265.00 ($132.50 each)
+   —     [630]USA  [631]Vinnie        [632]SheikHeadSSB4-U.png                                  [633]USA  [634]Will             [635]SheikHeadSSB4-U.png         $265.00 ($132.50 each)
+   —     [636]Chile  [637]ZeRo        [638]DiddyKongHeadSSB4-U.png                              [639]USA  [640]Anti             [641]MarioHeadSSB4-U.png         $265.00 ($132.50 each)
+   —     [642]USA  [643]AeroLink      [644]PalutenaHeadSSB4-U.png                               [645]USA  [646]iiGGy            [647]Rosalina&LumaHeadSSB4-U.png $265.00 ($132.50 each)
+   —     [648]Netherlands  [649]Mr. R [650]SheikHeadSSB4-U.png                                  [651]Canada  [652]Ally          [653]MarioHeadSSB4-U.png         $265.00 ($132.50 each)
+   —     [654]USA  [655]John Numbers  [656]WiiFitTrainerHeadSSB4-U.png                          [657]USA  [658]CaptAwesum       [659]VillagerHeadSSB4-U.png      $265.00 ($132.50 each)
+   —     [660]USA  [661]Ito           [662]MetaKnightHeadSSB4-U.png                             [663]USA  [664]Forbidden_Arikie [665]SonicHeadSSB4-U.png         $265.00 ($132.50 each)
+   —     [666]Japan  [667]Nyanko      [668]DonkeyKongHeadSSB4-U.png                             [669]Japan  [670]Nietono        [671]MiiBrawlerHeadSSB4-U.png    $265.00 ($132.50 each)
+   —     [672]Japan  [673]aMSa        [674]GreninjaHeadSSB4-U.png                               [675]Japan  [676]Mr.II          [677]RobinHeadSSB4-U.png         $265.00 ($132.50 each)
+   —     [678]USA  [679]ZFLY          [680]LittleMacHeadSSB4-U.png                              [681]USA  [682]Matt Hazard      [683]GanondorfHeadSSB4-U.png     $265.00 ($132.50 each)
+   —     [684]USA  [685]Xzax          [686]MarioHeadSSB4-U.png                                  [687]USA  [688]6WX              [689]SonicHeadSSB4-U.png         $265.00 ($132.50 each)
+   —     [690]USA  [691]Z             [692]PikachuHeadSSB4-U.png                                [693]USA  [694]Lycan            [695]DiddyKongHeadSSB4-U.png     $265.00 ($132.50 each)
+   —     [696]USA [697]SS             [698]VillagerHeadSSB4-U.png                               [699]USA  [700]K9               [701]SheikHeadSSB4-U.png         $265.00 ($132.50 each)
+   —     [702]USA  [703]Hino          [704]BowserJrHeadSSB4-U.png                               [705]USA  [706]Kinzer           [707]SonicHeadSSB4-U.png         $265.00 ($132.50 each)
+
+[708]Project M singles[[709]edit]
+
+   (172 entrants)
+   [710]Bracket
+   Place            Name                      Character(s)         Earnings
+   1st   [711]USA  [712]iPunchKidsz  [713]LucarioHeadSSBB.png
+   2nd   [714]USA  [715]Bladewise    [716]PeachHeadSSBB.png
+   3rd   [717]USA  [718]MrLz         [719]MrGame&WatchHeadSSBB.png
+   4th   [720]USA  [721]Lucky        [722]FoxHeadSSBB.png
+   5th   [723]USA  [724]KiraFlax     [725]CharizardHeadSSBB.png
+   5th   [726]USA  [727]lloD         [728]PeachHeadSSBB.png
+   7th   [729]Canada  [730]Alphicans [731]FoxHeadSSBB.png
+   7th   [732]USA  [733]Seagull Joe  [734]DiddyKongHeadSSBB.png
+
+Smash Wii U East Coast vs. West Coast crew battle[[735]edit]
+
+    EC Player              Character            Stocks Taken    WC Player              Character           Stocks Taken
+   [736]Nakat  [737]NessHeadSSB4-U.png          8            [738]Larry Lurr [739]FoxHeadSSB4-U.png        1
+   [740]Jtails [741]DiddyKongHeadSSB4-U.png     5            [742]Xzax       [743]MarioHeadSSB4-U.png      1
+   [744]Shaky  [745]NessHeadSSB4-U.png          3            [746]VoiD       [747]SheikHeadSSB4-U.png      2
+   [748]Dabuz  [749]Rosalina&LumaHeadSSB4-U.png 2            [750]Tyrant     [751]MetaKnightHeadSSB4-U.png 1
+   [752]Vinnie [753]SheikHeadSSB4-U.png         2            [754]AeroLink   [755]PalutenaHeadSSB4-U.png   2
+   [756]Ally   [757]MarioHeadSSB4-U.png         3            [758]FOW        [759]NessHeadSSB4-U.png       4
+   [760]False  [761]LuigiHeadSSB4-U.png         1            [762]ZeRo       [763]SheikHeadSSB4-U.png      5
+   [764]Nairo  [765]ZeroSuitSamusHeadSSB4-U.png —            [766]Mr. ConCon [767]LuigiHeadSSB4-U.png      2
+   Total                                        24           Total                                         18
+
+Melee Tristate vs. MD/VA crew battle[[768]edit]
+
+     Tristate Player           Character       Stocks Taken  MD/VA Player             Character          Stocks Taken
+   [769]Zanguzen        [770]FalcoHeadSSBM.png 6            [771]Nintendude [772]IceClimbersHeadSSBM.png 2
+   [773]Reno            [774]SheikHeadSSBM.png 3            [775]lloD       [776]PeachHeadSSBM.png       3
+   [777]Swedish Delight [778]PeachHeadSSBM.png 5            [779]ChuDat     [780]IceClimbersHeadSSBM.png 4
+   [781]G$              [782]FalcoHeadSSBM.png 5            [783]Milkman    [784]FoxHeadSSBM.png         4
+   [785]DJ Nintendo     [786]FoxHeadSSBM.png   2            [787]Redd       [788]FoxHeadSSBM.png         4
+   [789]The Moon        [790]MarthHeadSSBM.png 3            [791]Chillin    [792]FoxHeadSSBM.png         4
+   Total                                       24           Total                                        21
+
+Salty Suite[[793]edit]
+
+   The Salty Suite was run by VGBootCamp during the after hours of Saturday, and featured various money matches and other exhibition sets.
+           Winner                           Character(s)                              Loser                                    Character(s)                       Score       Amount
+   [794]USA  [795]Mango   [796]FoxHeadSSBM.png                            [797]Sweden  [798]Leffen      [799]FoxHeadSSBM.png                                      3-2   HTC Nexus 9 tablet
+   [800]USA  [801]Axe     [802]PikachuHeadSSBM.png [803]FalcoHeadSSBM.png [804]Japan  [805]aMSa         [806]YoshiHeadSSBM.png                                    3-1
+   [807]Canada  [808]Kage [809]GanondorfHeadSSBM.png                      [810]USA  [811]Bizzarro Flame [812]GanondorfHeadSSBM.png                                5-0   $100
+   [813]USA  [814]Gahtzu  [815]CaptainFalconHeadSSBM.png                  [816]USA  [817]Mike Haze      [818]FoxHeadSSBM.png                                      2-1
+   [819]USA  [820]Gahtzu  [821]CaptainFalconHeadSSBM.png                  [822]Canada  [823]Kage        [824]GanondorfHeadSSBM.png [825]CaptainFalconHeadSSBM.png 3-2
+
+Trivia[[826]edit]
+
+     * [827]ZeRo, who won the [828]Super Smash Bros. for Wii U event, did not lose a single game in tournament.
+     * Nintendo of America marketing manager and translator [829]Bill Trinen registered to participate in the SSB4 tournament, under the tag "Th | trintroll",^[830][5] with the "Th" crew tag apparently standing for [831]Treehouse. However, due to the passing of [832]Satoru Iwata, president of Nintendo, Trinen changed his plans and did not attend, as EVO was held on the same weekend as Iwata's funeral.^[833][6]
+          + In response to Satoru Iwata's passing, a moment of silence was held before Smash 4's top 8.
+     * MadCatz once again gave out gold FightSticks for EVO winners this year. The top 3 of each official EVO game, including both Smash games, received one.^[834][7]^[835][8]^[836][9]
+     * After receiving his 5th place medal in [837]Melee singles, [838]Mango took it off and threw it into the crowd.
+     * [839]Plup humorously forgot to appear on stage to receive his medal with the rest of the top 8 players.
+     * [840]PC Chris did not attend the tournament, although imposters attended in the Melee and Smash 4 tournaments using his name.
+     * This tournament marks highest ever placing of a [841]Pac-Man main at a Smash 4 national, with [842]Abadango placing 4th.
+
+External links[[843]edit]
+
+     * [844]Official website
+     * [845]Event photography
+     * [846]List of available custom move combinations
+
+References[[847]edit]
+
+    1. [848]↑ [849]Smash Registration statistics. Joey "MrWizard" Cuellar, EVO 2015's tournament director. Retrieved on 2015-07-01.
+    2. [850]↑ [851]Smash Registration statistics. One Frame Link. Retrieved on 2015-07-26.
+    3. [852]↑ [853]Why Roy, Ryu and Lucas are banned at EVO 2015. Joey "MrWizard" Cuellar, EVO 2015's tournament director. Retrieved on 2015-06-22.
+    4. [854]↑ [855]Evolution 2015 Games Reveal. Twitch. Retrieved on 2015-06-23.
+    5. [856]↑ [857][1]
+    6. [858]↑ [859][2]
+    7. [860]↑ [861][3]
+    8. [862]↑ [863][4]
+    9. [864]↑ [865][5]
+
+   [866]v • [867]d • [868]e
+   [869]EVO
+    World Championships  [870]EVO World 2007 · [871]EVO 2008 · [872]EVO 2009 · [873]EVO 2013 · [874]EVO 2014 · [875]EVO 2015 · [876]EVO 2016 · [877]EVO 2017 · [878]EVO 2018
+   [879]EVO 2007 circuit [880]EVO South · [881]EVO East · [882]EVO North · [883]EVO West
+         EVO Japan       [884]EVO Japan 2018
+   Retrieved from "[885]https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&oldid=1095450"
+   [886]Categories:
+     * [887]2015 tournaments
+     * [888]Nevada tournaments
+     * [889]National tournaments
+
+Navigation menu
+
+Views
+
+     * [890]Tournament
+     * [891]Discussion
+     * [892]Edit this page
+     * [893]History
+
+Personal tools
+
+     * Not logged in
+     * [894]Talk
+     * [895]Contributions
+     * [896]Create account
+     * [897]Log in
+
+Navigation
+
+     * [898]Main page
+     * [899]Smash Bros. Ultimate
+     * [900]Smash Bros. 4
+     * [901]Smash Bros. Brawl
+     * [902]Smash Bros. Melee
+     * [903]Smash Bros. (64)
+     * [904]Characters
+     * [905]Stages
+     * [906]Modes
+     * [907]Items
+     * [908]Random page
+
+Search
+
+   ____________________ Go  Search
+
+Participate
+
+     * [909]Forum
+     * [910]Community portal
+     * [911]Recent changes
+     * [912]Help
+     * [913]Admin noticeboard
+     * [914]Discord server
+     * [915]YouTube channel
+
+Tools
+
+     * [916]What links here
+     * [917]Related changes
+     * [918]Special pages
+     * [919]Printable version
+     * [920]Permanent link
+     * [921]Page information
+
+   [922]Attribution-Share Alike 3.0 Unported
+   [923]Powered by MediaWiki
+     * This page was last edited on 21 September 2018, at 13:38.
+     * Content is available under [924]Attribution-Share Alike 3.0 Unported unless otherwise noted.
+     * [925]Privacy policy
+     * [926]About SmashWiki
+     * [927]Disclaimers
+     * [928]Mobile view
+
+References
+
+   Visible links
+   1. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&action=edit
+   2. https://www.ssbwiki.com/opensearch_desc.php
+   3. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&feed=atom
+   4. https://www.ssbwiki.com/index.php?title=EVO_2015&redirect=no
+   5. https://www.ssbwiki.com/EVO_2015#column-one
+   6. https://www.ssbwiki.com/EVO_2015#searchInput
+   7. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+   8. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+   9. https://www.ssbwiki.com/Tournament
+  10. https://www.ssbwiki.com/File:EVOLogo2013.png
+  11. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  12. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+  13. https://www.ssbwiki.com/File:Flag_of_Sweden.png
+  14. https://www.ssbwiki.com/Smasher:Armada
+  15. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  16. https://www.ssbwiki.com/Smasher:PewPewU
+  17. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  18. https://www.ssbwiki.com/Smasher:SFAT
+  19. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+  20. https://www.ssbwiki.com/File:Flag_of_Chile.png
+  21. https://www.ssbwiki.com/Smasher:ZeRo
+  22. https://www.ssbwiki.com/Tournament_director
+  23. https://www.ssbwiki.com/Smasher:Mr._Wizard
+  24. https://www.ssbwiki.com/EVO
+  25. https://en.wikipedia.org/wiki/Bally's_Las_Vegas
+  26. https://en.wikipedia.org/wiki/Paris_Las_Vegas
+  27. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+  28. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+  29. https://www.ssbwiki.com/List_of_largest_Smash_tournaments
+  30. https://www.ssbwiki.com/Joey_Cuellar
+  31. https://www.ssbwiki.com/EVO_2015#cite_note-1
+  32. https://www.ssbwiki.com/EVO_2015#cite_note-2
+  33. https://www.ssbwiki.com/Character_customization
+  34. https://www.ssbwiki.com/Official_Custom_Moveset_Project
+  35. https://www.ssbwiki.com/DLC
+  36. https://www.ssbwiki.com/Lucas_(SSB4)
+  37. https://www.ssbwiki.com/Roy_(SSB4)
+  38. https://www.ssbwiki.com/Ryu_(SSB4)
+  39. https://www.ssbwiki.com/EVO_2015#cite_note-3
+  40. https://www.ssbwiki.com/EVO_2015#Official_game_lineup
+  41. https://www.ssbwiki.com/EVO_2015#Ruleset
+  42. https://www.ssbwiki.com/EVO_2015#Super_Smash_Bros._Melee
+  43. https://www.ssbwiki.com/EVO_2015#Stage_list
+  44. https://www.ssbwiki.com/EVO_2015#Super_Smash_Bros._for_Wii_U
+  45. https://www.ssbwiki.com/EVO_2015#Stage_list_2
+  46. https://www.ssbwiki.com/EVO_2015#Results
+  47. https://www.ssbwiki.com/EVO_2015#Super_Smash_Bros._Melee_singles
+  48. https://www.ssbwiki.com/EVO_2015#Super_Smash_Bros._for_Wii_U_singles
+  49. https://www.ssbwiki.com/EVO_2015#Side_events
+  50. https://www.ssbwiki.com/EVO_2015#Super_Smash_Bros._Melee_doubles
+  51. https://www.ssbwiki.com/EVO_2015#Super_Smash_Bros._for_Wii_U_doubles
+  52. https://www.ssbwiki.com/EVO_2015#Project_M_singles
+  53. https://www.ssbwiki.com/EVO_2015#Smash_Wii_U_East_Coast_vs._West_Coast_crew_battle
+  54. https://www.ssbwiki.com/EVO_2015#Melee_Tristate_vs._MD.2FVA_crew_battle
+  55. https://www.ssbwiki.com/EVO_2015#Salty_Suite
+  56. https://www.ssbwiki.com/EVO_2015#Trivia
+  57. https://www.ssbwiki.com/EVO_2015#External_links
+  58. https://www.ssbwiki.com/EVO_2015#References
+  59. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&action=edit&section=1
+  60. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+  61. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+  62. https://www.ssbwiki.com/Apex_2015
+  63. https://www.ssbwiki.com/EVO_2015#cite_note-4
+  64. https://en.wikipedia.org/wiki/Street_Fighter_IV#Ultra_Street_Fighter_IV
+  65. https://en.wikipedia.org/wiki/Ultimate_Marvel_vs._Capcom_3
+  66. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+  67. https://en.wikipedia.org/wiki/Mortal_Kombat_X
+  68. https://en.wikipedia.org/wiki/Guilty_Gear_Xrd_Sign
+  69. https://en.wikipedia.org/wiki/Killer_Instinct_(2013_video_game)
+  70. https://en.wikipedia.org/wiki/Tekken_7
+  71. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+  72. https://en.wikipedia.org/wiki/Persona_4_Arena_Ultimax
+  73. http://www.esportsearnings.com/organizations/116-evolution-championship-series|esportsearnings.com
+  74. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&action=edit&section=2
+  75. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+  76. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&action=edit&section=3
+  77. https://www.ssbwiki.com/Stock
+  78. https://www.ssbwiki.com/Match_timer
+  79. https://www.ssbwiki.com/Wobbling
+  80. https://www.ssbwiki.com/Dave's_Stupid_Rule
+  81. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&action=edit&section=4
+  82. https://www.ssbwiki.com/Battlefield_(SSBM)
+  83. https://www.ssbwiki.com/Pokémon_Stadium
+  84. https://www.ssbwiki.com/Dream_Land_(SSB)
+  85. https://www.ssbwiki.com/Final_Destination_(SSBM)
+  86. https://www.ssbwiki.com/Fountain_of_Dreams
+  87. https://www.ssbwiki.com/Yoshi's_Story
+  88. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&action=edit&section=5
+  89. https://www.ssbwiki.com/Pause
+  90. https://www.ssbwiki.com/Handicap
+  91. https://www.ssbwiki.com/Launch_rate
+  92. https://www.ssbwiki.com/Official_Custom_Moveset_Project
+  93. https://www.ssbwiki.com/Lucas_(SSB4)
+  94. https://www.ssbwiki.com/Roy_(SSB4)
+  95. https://www.ssbwiki.com/Ryu_(SSB4)
+  96. https://www.ssbwiki.com/Amiibo
+  97. https://www.ssbwiki.com/Dave's_Stupid_Rule
+  98. https://www.ssbwiki.com/Wii_U_Pro_Controller
+  99. https://www.ssbwiki.com/GameCube_Controller
+ 100. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&action=edit&section=6
+ 101. https://www.ssbwiki.com/Battlefield_(SSB4)
+ 102. https://www.ssbwiki.com/Miiverse_(stage)
+ 103. https://www.ssbwiki.com/Castle_Siege
+ 104. https://www.ssbwiki.com/Final_Destination_(SSB4)
+ 105. https://www.ssbwiki.com/Delfino_Plaza
+ 106. https://www.ssbwiki.com/Lylat_Cruise
+ 107. https://www.ssbwiki.com/Duck_Hunt_(stage)
+ 108. https://www.ssbwiki.com/Smashville
+ 109. https://www.ssbwiki.com/Halberd
+ 110. https://www.ssbwiki.com/Town_and_City
+ 111. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&action=edit&section=7
+ 112. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 113. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&action=edit&section=8
+ 114. http://wiki.teamliquid.net/smash/EVO_2015/Melee/Singles_Bracket
+ 115. https://www.youtube.com/watch?v=Ea9_nwcN37I
+ 116. https://www.ssbwiki.com/File:Flag_of_Sweden.png
+ 117. https://www.ssbwiki.com/Smasher:Armada
+ 118. https://www.ssbwiki.com/Peach_(SSBM)
+ 119. https://www.ssbwiki.com/Fox_(SSBM)
+ 120. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 121. https://www.ssbwiki.com/Smasher:Hungrybox
+ 122. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 123. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 124. https://www.ssbwiki.com/Smasher:PPMD
+ 125. https://www.ssbwiki.com/Falco_(SSBM)
+ 126. https://www.ssbwiki.com/Marth_(SSBM)
+ 127. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 128. https://www.ssbwiki.com/Smasher:Plup
+ 129. https://www.ssbwiki.com/Sheik_(SSBM)
+ 130. https://www.ssbwiki.com/Samus_(SSBM)
+ 131. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 132. https://www.ssbwiki.com/Smasher:Mango
+ 133. https://www.ssbwiki.com/Fox_(SSBM)
+ 134. https://www.ssbwiki.com/Falco_(SSBM)
+ 135. https://www.ssbwiki.com/File:Flag_of_Sweden.png
+ 136. https://www.ssbwiki.com/Smasher:Leffen
+ 137. https://www.ssbwiki.com/Fox_(SSBM)
+ 138. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 139. https://www.ssbwiki.com/Smasher:ChuDat
+ 140. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 141. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 142. https://www.ssbwiki.com/Smasher:Axe
+ 143. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 144. https://www.ssbwiki.com/File:Flag_of_Germany.png
+ 145. https://www.ssbwiki.com/Smasher:Ice
+ 146. https://www.ssbwiki.com/Fox_(SSBM)
+ 147. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 148. https://www.ssbwiki.com/Smasher:PewPewU
+ 149. https://www.ssbwiki.com/Marth_(SSBM)
+ 150. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 151. https://www.ssbwiki.com/Smasher:HugS
+ 152. https://www.ssbwiki.com/Samus_(SSBM)
+ 153. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 154. https://www.ssbwiki.com/Smasher:DruggedFox
+ 155. https://www.ssbwiki.com/Sheik_(SSBM)
+ 156. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 157. https://www.ssbwiki.com/Smasher:Ken
+ 158. https://www.ssbwiki.com/Marth_(SSBM)
+ 159. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 160. https://www.ssbwiki.com/Smasher:Lucky
+ 161. https://www.ssbwiki.com/Fox_(SSBM)
+ 162. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 163. https://www.ssbwiki.com/Smasher:Westballz
+ 164. https://www.ssbwiki.com/Falco_(SSBM)
+ 165. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 166. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 167. https://www.ssbwiki.com/Smasher:Duck
+ 168. https://www.ssbwiki.com/Samus_(SSBM)
+ 169. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 170. https://www.ssbwiki.com/Smasher:Fly_Amanita
+ 171. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 172. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 173. https://www.ssbwiki.com/Smasher:Santiago
+ 174. https://www.ssbwiki.com/Fox_(SSBM)
+ 175. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 176. https://www.ssbwiki.com/Smasher:SFAT
+ 177. https://www.ssbwiki.com/Fox_(SSBM)
+ 178. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 179. https://www.ssbwiki.com/Smasher:Hax
+ 180. https://www.ssbwiki.com/Fox_(SSBM)
+ 181. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 182. https://www.ssbwiki.com/Smasher:Silent_Wolf
+ 183. https://www.ssbwiki.com/Fox_(SSBM)
+ 184. https://www.ssbwiki.com/File:Flag_of_Mexico.png
+ 185. https://www.ssbwiki.com/Smasher:JAVI
+ 186. https://www.ssbwiki.com/Fox_(SSBM)
+ 187. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 188. https://www.ssbwiki.com/Smasher:S2J
+ 189. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 190. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 191. https://www.ssbwiki.com/Smasher:MacD
+ 192. https://www.ssbwiki.com/Peach_(SSBM)
+ 193. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 194. https://www.ssbwiki.com/Smasher:Reno
+ 195. https://www.ssbwiki.com/Sheik_(SSBM)
+ 196. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 197. https://www.ssbwiki.com/Smasher:Shroomed
+ 198. https://www.ssbwiki.com/Sheik_(SSBM)
+ 199. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 200. https://www.ssbwiki.com/Smasher:DJ_Nintendo
+ 201. https://www.ssbwiki.com/Fox_(SSBM)
+ 202. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 203. https://www.ssbwiki.com/File:Flag_of_Japan.png
+ 204. https://www.ssbwiki.com/Smasher:AMSa
+ 205. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 206. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 207. https://www.ssbwiki.com/Smasher:Laudandus
+ 208. https://www.ssbwiki.com/Sheik_(SSBM)
+ 209. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 210. https://www.ssbwiki.com/Smasher:Darkrain
+ 211. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 212. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 213. https://www.ssbwiki.com/Smasher:Zanguzen
+ 214. https://www.ssbwiki.com/Falco_(SSBM)
+ 215. https://www.ssbwiki.com/File:Flag_of_Mexico.png
+ 216. https://www.ssbwiki.com/Smasher:Eddy_Mexico
+ 217. https://www.ssbwiki.com/Luigi_(SSBM)
+ 218. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 219. https://www.ssbwiki.com/Smasher:Azen
+ 220. https://www.ssbwiki.com/Marth_(SSBM)
+ 221. https://www.ssbwiki.com/Falco_(SSBM)
+ 222. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 223. https://www.ssbwiki.com/Smasher:Lovage
+ 224. https://www.ssbwiki.com/Fox_(SSBM)
+ 225. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 226. https://www.ssbwiki.com/Smasher:Kalamazhu
+ 227. https://www.ssbwiki.com/Peach_(SSBM)
+ 228. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 229. https://www.ssbwiki.com/Smasher:Darkatma
+ 230. https://www.ssbwiki.com/Sheik_(SSBM)
+ 231. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 232. https://www.ssbwiki.com/Smasher:Zhu
+ 233. https://www.ssbwiki.com/Falco_(SSBM)
+ 234. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 235. https://www.ssbwiki.com/Smasher:Vish
+ 236. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 237. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 238. https://www.ssbwiki.com/Smasher:Kira
+ 239. https://www.ssbwiki.com/Sheik_(SSBM)
+ 240. https://www.ssbwiki.com/File:Flag_of_Mexico.png
+ 241. https://www.ssbwiki.com/Smasher:Far!
+ 242. https://www.ssbwiki.com/Falco_(SSBM)
+ 243. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 244. https://www.ssbwiki.com/Smasher:Swedish_Delight
+ 245. https://www.ssbwiki.com/Sheik_(SSBM)
+ 246. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 247. https://www.ssbwiki.com/Smasher:OkamiBW
+ 248. https://www.ssbwiki.com/Sheik_(SSBM)
+ 249. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 250. https://www.ssbwiki.com/Smasher:Wizzrobe
+ 251. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 252. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 253. https://www.ssbwiki.com/Smasher:Animal
+ 254. https://www.ssbwiki.com/Fox_(SSBM)
+ 255. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 256. https://www.ssbwiki.com/Smasher:Darrell
+ 257. https://www.ssbwiki.com/Samus_(SSBM)
+ 258. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 259. https://www.ssbwiki.com/Smasher:Azusa
+ 260. https://www.ssbwiki.com/Peach_(SSBM)
+ 261. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 262. https://www.ssbwiki.com/Smasher:Frootloop
+ 263. https://www.ssbwiki.com/Falco_(SSBM)
+ 264. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 265. https://www.ssbwiki.com/Smasher:The_Moon
+ 266. https://www.ssbwiki.com/Marth_(SSBM)
+ 267. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 268. https://www.ssbwiki.com/Smasher:Tafokints
+ 269. https://www.ssbwiki.com/Sheik_(SSBM)
+ 270. https://www.ssbwiki.com/Fox_(SSBM)
+ 271. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 272. https://www.ssbwiki.com/Smasher:Forward
+ 273. https://www.ssbwiki.com/Falco_(SSBM)
+ 274. https://www.ssbwiki.com/Fox_(SSBM)
+ 275. https://www.ssbwiki.com/Peach_(SSBM)
+ 276. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 277. https://www.ssbwiki.com/Smasher:Lord
+ 278. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 279. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 280. https://www.ssbwiki.com/Smasher:Mike_Haze
+ 281. https://www.ssbwiki.com/Fox_(SSBM)
+ 282. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 283. https://www.ssbwiki.com/Smasher:KPan
+ 284. https://www.ssbwiki.com/Falco_(SSBM)
+ 285. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 286. https://www.ssbwiki.com/Smasher:Cactuar
+ 287. https://www.ssbwiki.com/Fox_(SSBM)
+ 288. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 289. https://www.ssbwiki.com/Smasher:Prince_Abu
+ 290. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 291. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 292. https://www.ssbwiki.com/Smasher:Blea_Gelo
+ 293. https://www.ssbwiki.com/Luigi_(SSBM)
+ 294. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 295. https://www.ssbwiki.com/Smasher:Drephen
+ 296. https://www.ssbwiki.com/Sheik_(SSBM)
+ 297. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 298. https://www.ssbwiki.com/Smasher:Crush
+ 299. https://www.ssbwiki.com/Fox_(SSBM)
+ 300. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 301. https://www.ssbwiki.com/Smasher:Redd
+ 302. https://www.ssbwiki.com/Fox_(SSBM)
+ 303. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 304. https://www.ssbwiki.com/Smasher:Fat_Goku
+ 305. https://www.ssbwiki.com/Fox_(SSBM)
+ 306. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 307. https://www.ssbwiki.com/Smasher:NY_Joey
+ 308. https://www.ssbwiki.com/Falco_(SSBM)
+ 309. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 310. https://www.ssbwiki.com/Smasher:Dart!
+ 311. https://www.ssbwiki.com/Marth_(SSBM)
+ 312. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 313. https://www.ssbwiki.com/Smasher:Light
+ 314. https://www.ssbwiki.com/Peach_(SSBM)
+ 315. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 316. https://www.ssbwiki.com/Smasher:Colbol
+ 317. https://www.ssbwiki.com/Fox_(SSBM)
+ 318. https://www.ssbwiki.com/Marth_(SSBM)
+ 319. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 320. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&action=edit&section=9
+ 321. https://www.youtube.com/watch?v=JrxZaPGlMh4
+ 322. https://www.ssbwiki.com/images/0/0e/Evo2k15_ssb4_top_32_winners.png
+ 323. https://www.ssbwiki.com/images/a/aa/Evo2k15_ssb4_top_32_losers.png
+ 324. https://www.ssbwiki.com/File:Flag_of_Chile.png
+ 325. https://www.ssbwiki.com/Smasher:ZeRo
+ 326. https://www.ssbwiki.com/Sheik_(SSB4)
+ 327. https://www.ssbwiki.com/Diddy_Kong_(SSB4)
+ 328. https://www.ssbwiki.com/File:Flag_of_The_Netherlands.png
+ 329. https://www.ssbwiki.com/Smasher:Mr._R
+ 330. https://www.ssbwiki.com/Sheik_(SSB4)
+ 331. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 332. https://www.ssbwiki.com/Smasher:Nairo
+ 333. https://www.ssbwiki.com/Zero_Suit_Samus_(SSB4)
+ 334. https://www.ssbwiki.com/File:Flag_of_Japan.png
+ 335. https://www.ssbwiki.com/Smasher:Abadango
+ 336. https://www.ssbwiki.com/Pac-Man_(SSB4)
+ 337. https://www.ssbwiki.com/Wario_(SSB4)
+ 338. https://www.ssbwiki.com/Rosalina_(SSB4)
+ 339. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 340. https://www.ssbwiki.com/Smasher:Dabuz
+ 341. https://www.ssbwiki.com/Rosalina_(SSB4)
+ 342. https://www.ssbwiki.com/Olimar_(SSB4)
+ 343. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 344. https://www.ssbwiki.com/Smasher:Ally
+ 345. https://www.ssbwiki.com/Mario_(SSB4)
+ 346. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 347. https://www.ssbwiki.com/Smasher:ESAM
+ 348. https://www.ssbwiki.com/Pikachu_(SSB4)
+ 349. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 350. https://www.ssbwiki.com/Smasher:FOW
+ 351. https://www.ssbwiki.com/Ness_(SSB4)
+ 352. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 353. https://www.ssbwiki.com/Smasher:Larry_Lurr
+ 354. https://www.ssbwiki.com/Sheik_(SSB4)
+ 355. https://www.ssbwiki.com/Fox_(SSB4)
+ 356. https://www.ssbwiki.com/File:Flag_of_Japan.png
+ 357. https://www.ssbwiki.com/Smasher:RAIN
+ 358. https://www.ssbwiki.com/Sheik_(SSB4)
+ 359. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 360. https://www.ssbwiki.com/Smasher:SS_(Arizona)
+ 361. https://www.ssbwiki.com/Villager_(SSB4)
+ 362. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 363. https://www.ssbwiki.com/Smasher:StaticManny
+ 364. https://www.ssbwiki.com/Sonic_(SSB4)
+ 365. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 366. https://www.ssbwiki.com/Smasher:False
+ 367. https://www.ssbwiki.com/Sheik_(SSB4)
+ 368. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 369. https://www.ssbwiki.com/Smasher:Dapuffster
+ 370. https://www.ssbwiki.com/Mii_Brawler_(SSB4)
+ 371. https://www.ssbwiki.com/File:Flag_of_Mexico.png
+ 372. https://www.ssbwiki.com/Smasher:Regi
+ 373. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSB4)
+ 374. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 375. https://www.ssbwiki.com/index.php?title=Smasher:Mocha&action=edit&redlink=1
+ 376. https://www.ssbwiki.com/Sonic_(SSB4)
+ 377. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 378. https://www.ssbwiki.com/Smasher:8BitMan
+ 379. https://www.ssbwiki.com/ROB_(SSB4)
+ 380. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 381. https://www.ssbwiki.com/Smasher:John_Numbers
+ 382. https://www.ssbwiki.com/Wii_Fit_Trainer_(SSB4)
+ 383. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 384. https://www.ssbwiki.com/Smasher:Tyrant
+ 385. https://www.ssbwiki.com/Meta_Knight_(SSB4)
+ 386. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 387. https://www.ssbwiki.com/Smasher:MJG
+ 388. https://www.ssbwiki.com/Villager_(SSB4)
+ 389. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 390. https://www.ssbwiki.com/Smasher:Angel_Cortes
+ 391. https://www.ssbwiki.com/Diddy_Kong_(SSB4)
+ 392. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 393. https://www.ssbwiki.com/Smasher:Bloodcross
+ 394. https://www.ssbwiki.com/Fox_(SSB4)
+ 395. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 396. https://www.ssbwiki.com/Smasher:CaptAwesum
+ 397. https://www.ssbwiki.com/Villager_(SSB4)
+ 398. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 399. https://www.ssbwiki.com/Smasher:MVD
+ 400. https://www.ssbwiki.com/Diddy_Kong_(SSB4)
+ 401. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 402. https://www.ssbwiki.com/Smasher:Trevonte
+ 403. https://www.ssbwiki.com/Sheik_(SSB4)
+ 404. https://www.ssbwiki.com/Palutena_(SSB4)
+ 405. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 406. https://www.ssbwiki.com/Smasher:Shaky
+ 407. https://www.ssbwiki.com/Ness_(SSB4)
+ 408. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 409. https://www.ssbwiki.com/Smasher:Salem
+ 410. https://www.ssbwiki.com/Sheik_(SSB4)
+ 411. https://www.ssbwiki.com/Zero_Suit_Samus_(SSB4)
+ 412. https://www.ssbwiki.com/Lucina_(SSB4)
+ 413. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 414. https://www.ssbwiki.com/Smasher:Mr._ConCon
+ 415. https://www.ssbwiki.com/Luigi_(SSB4)
+ 416. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 417. https://www.ssbwiki.com/Smasher:Falln
+ 418. https://www.ssbwiki.com/Rosalina_(SSB4)
+ 419. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 420. https://www.ssbwiki.com/Smasher:Vinnie
+ 421. https://www.ssbwiki.com/Sheik_(SSB4)
+ 422. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 423. https://www.ssbwiki.com/Smasher:Wii_Twerk_Trainer
+ 424. https://www.ssbwiki.com/Wii_Fit_Trainer_(SSB4)
+ 425. https://www.ssbwiki.com/Mii_Gunner_(SSB4)
+ 426. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 427. https://www.ssbwiki.com/Smasher:Tweek
+ 428. https://www.ssbwiki.com/Bowser_Jr._(SSB4)
+ 429. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 430. https://www.ssbwiki.com/Smasher:Denti
+ 431. https://www.ssbwiki.com/Sheik_(SSB4)
+ 432. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 433. https://www.ssbwiki.com/Smasher:6WX
+ 434. https://www.ssbwiki.com/Sonic_(SSB4)
+ 435. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 436. https://www.ssbwiki.com/index.php?title=Smasher:Anuar&action=edit&redlink=1
+ 437. https://www.ssbwiki.com/Wario_(SSB4)
+ 438. https://www.ssbwiki.com/Villager_(SSB4)
+ 439. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 440. https://www.ssbwiki.com/Smasher:Cacogen
+ 441. https://www.ssbwiki.com/Sheik_(SSB4)
+ 442. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 443. https://www.ssbwiki.com/Smasher:True_Blue
+ 444. https://www.ssbwiki.com/Sonic_(SSB4)
+ 445. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 446. https://www.ssbwiki.com/Smasher:Tearbear
+ 447. https://www.ssbwiki.com/Captain_Falcon_(SSB4)
+ 448. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 449. https://www.ssbwiki.com/Smasher:RiotLettuce
+ 450. https://www.ssbwiki.com/Donkey_Kong_(SSB4)
+ 451. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 452. https://www.ssbwiki.com/Smasher:NAKAT
+ 453. https://www.ssbwiki.com/Fox_(SSB4)
+ 454. https://www.ssbwiki.com/Ness_(SSB4)
+ 455. https://www.ssbwiki.com/Pikachu_(SSB4)
+ 456. https://www.ssbwiki.com/File:Flag_of_Japan.png
+ 457. https://www.ssbwiki.com/Smasher:AMSa
+ 458. https://www.ssbwiki.com/Greninja_(SSB4)
+ 459. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 460. https://www.ssbwiki.com/Smasher:Will
+ 461. https://www.ssbwiki.com/Donkey_Kong_(SSB4)
+ 462. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 463. https://www.ssbwiki.com/Smasher:Jodi_Bleek
+ 464. https://www.ssbwiki.com/Greninja_(SSB4)
+ 465. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 466. https://www.ssbwiki.com/Smasher:K9
+ 467. https://www.ssbwiki.com/Sheik_(SSB4)
+ 468. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 469. https://www.ssbwiki.com/Smasher:NickRiddle
+ 470. https://www.ssbwiki.com/Mii_Brawler_(SSB4)
+ 471. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 472. https://www.ssbwiki.com/Smasher:Zenyou
+ 473. https://www.ssbwiki.com/Mario_(SSB4)
+ 474. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 475. https://www.ssbwiki.com/Smasher:Zex
+ 476. https://www.ssbwiki.com/Sheik_(SSB4)
+ 477. https://www.ssbwiki.com/File:Flag_of_Japan.png
+ 478. https://www.ssbwiki.com/Smasher:Mr.II
+ 479. https://www.ssbwiki.com/Robin_(SSB4)
+ 480. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 481. https://www.ssbwiki.com/Smasher:VoiD
+ 482. https://www.ssbwiki.com/Sheik_(SSB4)
+ 483. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 484. https://www.ssbwiki.com/Smasher:Seagull_Joe
+ 485. https://www.ssbwiki.com/Sonic_(SSB4)
+ 486. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 487. https://www.ssbwiki.com/Smasher:AirVault
+ 488. https://www.ssbwiki.com/Sheik_(SSB4)
+ 489. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 490. https://www.ssbwiki.com/Smasher:AeroLink
+ 491. https://www.ssbwiki.com/Palutena_(SSB4)
+ 492. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 493. https://www.ssbwiki.com/Smasher:Kinzer
+ 494. https://www.ssbwiki.com/Sonic_(SSB4)
+ 495. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 496. https://www.ssbwiki.com/Smasher:Rich_Brown
+ 497. https://www.ssbwiki.com/Luigi_(SSB4)
+ 498. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 499. https://www.ssbwiki.com/Smasher:Ito
+ 500. https://www.ssbwiki.com/Meta_Knight_(SSB4)
+ 501. https://www.ssbwiki.com/File:Flag_of_El_Salvador.png
+ 502. https://www.ssbwiki.com/Smasher:Luisfer
+ 503. https://www.ssbwiki.com/Diddy_Kong_(SSB4)
+ 504. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 505. https://www.ssbwiki.com/Smasher:Jtails
+ 506. https://www.ssbwiki.com/Diddy_Kong_(SSB4)
+ 507. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&action=edit&section=10
+ 508. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&action=edit&section=11
+ 509. https://smash.gg/tournament/evo-2015-doubles/brackets
+ 510. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 511. https://www.ssbwiki.com/Smasher:PewPewU
+ 512. https://www.ssbwiki.com/Marth_(SSBM)
+ 513. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 514. https://www.ssbwiki.com/Smasher:SFAT
+ 515. https://www.ssbwiki.com/Fox_(SSBM)
+ 516. https://www.ssbwiki.com/File:Flag_of_Sweden.png
+ 517. https://www.ssbwiki.com/Smasher:Armada
+ 518. https://www.ssbwiki.com/Fox_(SSBM)
+ 519. https://www.ssbwiki.com/Peach_(SSBM)
+ 520. https://www.ssbwiki.com/File:Flag_of_Germany.png
+ 521. https://www.ssbwiki.com/Smasher:Ice
+ 522. https://www.ssbwiki.com/Fox_(SSBM)
+ 523. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 524. https://www.ssbwiki.com/Smasher:Hungrybox
+ 525. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 526. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 527. https://www.ssbwiki.com/Smasher:Plup
+ 528. https://www.ssbwiki.com/Sheik_(SSBM)
+ 529. https://www.ssbwiki.com/Samus_(SSBM)
+ 530. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 531. https://www.ssbwiki.com/Smasher:Frootloop
+ 532. https://www.ssbwiki.com/Falco_(SSBM)
+ 533. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 534. https://www.ssbwiki.com/Smasher:Darkatma
+ 535. https://www.ssbwiki.com/Sheik_(SSBM)
+ 536. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 537. https://www.ssbwiki.com/Smasher:Chillin
+ 538. https://www.ssbwiki.com/Fox_(SSBM)
+ 539. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 540. https://www.ssbwiki.com/Smasher:Azen
+ 541. https://www.ssbwiki.com/Marth_(SSBM)
+ 542. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 543. https://www.ssbwiki.com/Smasher:Axe
+ 544. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 545. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 546. https://www.ssbwiki.com/Smasher:Medz
+ 547. https://www.ssbwiki.com/Fox_(SSBM)
+ 548. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 549. https://www.ssbwiki.com/Smasher:Swedish_Delight
+ 550. https://www.ssbwiki.com/Sheik_(SSBM)
+ 551. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 552. https://www.ssbwiki.com/Smasher:Nintendude
+ 553. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 554. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 555. https://www.ssbwiki.com/Smasher:Kage
+ 556. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 557. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 558. https://www.ssbwiki.com/Smasher:Bizzarro_Flame
+ 559. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 560. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 561. https://www.ssbwiki.com/Smasher:Shroomed
+ 562. https://www.ssbwiki.com/Sheik_(SSBM)
+ 563. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 564. https://www.ssbwiki.com/Smasher:Alan
+ 565. https://www.ssbwiki.com/Peach_(SSBM)
+ 566. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 567. https://www.ssbwiki.com/Smasher:Mango
+ 568. https://www.ssbwiki.com/Fox_(SSBM)
+ 569. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 570. https://www.ssbwiki.com/Smasher:Lucky
+ 571. https://www.ssbwiki.com/Fox_(SSBM)
+ 572. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 573. https://www.ssbwiki.com/Smasher:Kalamazhu
+ 574. https://www.ssbwiki.com/Peach_(SSBM)
+ 575. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 576. https://www.ssbwiki.com/Smasher:Dizzkidboogie
+ 577. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 578. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 579. https://www.ssbwiki.com/Smasher:Darkrain
+ 580. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 581. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 582. https://www.ssbwiki.com/Smasher:Dart!
+ 583. https://www.ssbwiki.com/Marth_(SSBM)
+ 584. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 585. https://www.ssbwiki.com/Smasher:Cyrain
+ 586. https://www.ssbwiki.com/Fox_(SSBM)
+ 587. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 588. https://www.ssbwiki.com/Smasher:Milkman
+ 589. https://www.ssbwiki.com/Fox_(SSBM)
+ 590. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 591. https://www.ssbwiki.com/Smasher:Tafokints
+ 592. https://www.ssbwiki.com/Sheik_(SSBM)
+ 593. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 594. https://www.ssbwiki.com/Smasher:Redd
+ 595. https://www.ssbwiki.com/Fox_(SSBM)
+ 596. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 597. https://www.ssbwiki.com/Smasher:Duck
+ 598. https://www.ssbwiki.com/Samus_(SSBM)
+ 599. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 600. https://www.ssbwiki.com/Smasher:Prince_Abu
+ 601. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 602. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 603. https://www.ssbwiki.com/Smasher:Flow
+ 604. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 605. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 606. https://www.ssbwiki.com/Smasher:S0ft
+ 607. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 608. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&action=edit&section=12
+ 609. http://challonge.com/EVO2015Smash4Doubles
+ 610. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 611. https://www.ssbwiki.com/Smasher:FOW
+ 612. https://www.ssbwiki.com/Ness_(SSB4)
+ 613. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 614. https://www.ssbwiki.com/Smasher:MJG
+ 615. https://www.ssbwiki.com/Villager_(SSB4)
+ 616. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 617. https://www.ssbwiki.com/Smasher:Nairo
+ 618. https://www.ssbwiki.com/Zero_Suit_Samus_(SSB4)
+ 619. https://www.ssbwiki.com/Zelda_(SSB4)
+ 620. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 621. https://www.ssbwiki.com/Smasher:Shaky
+ 622. https://www.ssbwiki.com/Ness_(SSB4)
+ 623. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 624. https://www.ssbwiki.com/Smasher:Nakat
+ 625. https://www.ssbwiki.com/Ness_(SSB4)
+ 626. https://www.ssbwiki.com/Fox_(SSB4)
+ 627. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 628. https://www.ssbwiki.com/Smasher:False
+ 629. https://www.ssbwiki.com/Sheik_(SSB4)
+ 630. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 631. https://www.ssbwiki.com/Smasher:Vinnie
+ 632. https://www.ssbwiki.com/Sheik_(SSB4)
+ 633. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 634. https://www.ssbwiki.com/Smasher:Will
+ 635. https://www.ssbwiki.com/Sheik_(SSB4)
+ 636. https://www.ssbwiki.com/File:Flag_of_Chile.png
+ 637. https://www.ssbwiki.com/Smasher:ZeRo
+ 638. https://www.ssbwiki.com/Diddy_Kong_(SSB4)
+ 639. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 640. https://www.ssbwiki.com/Smasher:Anti
+ 641. https://www.ssbwiki.com/Mario_(SSB4)
+ 642. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 643. https://www.ssbwiki.com/Smasher:AeroLink
+ 644. https://www.ssbwiki.com/Palutena_(SSB4)
+ 645. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 646. https://www.ssbwiki.com/index.php?title=Smasher:IiGGy&action=edit&redlink=1
+ 647. https://www.ssbwiki.com/Rosalina_&_Luma_(SSB4)
+ 648. https://www.ssbwiki.com/File:Flag_of_The_Netherlands.png
+ 649. https://www.ssbwiki.com/Smasher:Mr._R
+ 650. https://www.ssbwiki.com/Sheik_(SSB4)
+ 651. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 652. https://www.ssbwiki.com/Smasher:Ally
+ 653. https://www.ssbwiki.com/Mario_(SSB4)
+ 654. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 655. https://www.ssbwiki.com/Smasher:John_Numbers
+ 656. https://www.ssbwiki.com/Wii_Fit_Trainer_(SSB4)
+ 657. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 658. https://www.ssbwiki.com/Smasher:CaptAwesum
+ 659. https://www.ssbwiki.com/Villager_(SSB4)
+ 660. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 661. https://www.ssbwiki.com/Smasher:Ito
+ 662. https://www.ssbwiki.com/Meta_Knight_(SSB4)
+ 663. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 664. https://www.ssbwiki.com/index.php?title=Smasher:Forbidden_Arikie&action=edit&redlink=1
+ 665. https://www.ssbwiki.com/Sonic_(SSB4)
+ 666. https://www.ssbwiki.com/File:Flag_of_Japan.png
+ 667. https://www.ssbwiki.com/Smasher:Nyanko
+ 668. https://www.ssbwiki.com/Donkey_Kong_(SSB4)
+ 669. https://www.ssbwiki.com/File:Flag_of_Japan.png
+ 670. https://www.ssbwiki.com/Smasher:Nietono
+ 671. https://www.ssbwiki.com/Mii_Brawler_(SSB4)
+ 672. https://www.ssbwiki.com/File:Flag_of_Japan.png
+ 673. https://www.ssbwiki.com/Smasher:AMSa
+ 674. https://www.ssbwiki.com/Greninja_(SSB4)
+ 675. https://www.ssbwiki.com/File:Flag_of_Japan.png
+ 676. https://www.ssbwiki.com/Smasher:Mr.II
+ 677. https://www.ssbwiki.com/Robin_(SSB4)
+ 678. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 679. https://www.ssbwiki.com/index.php?title=Smasher:ZFLY&action=edit&redlink=1
+ 680. https://www.ssbwiki.com/Little_Mac_(SSB4)
+ 681. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 682. https://www.ssbwiki.com/index.php?title=Smasher:Matt_Hazard&action=edit&redlink=1
+ 683. https://www.ssbwiki.com/Ganondorf_(SSB4)
+ 684. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 685. https://www.ssbwiki.com/Smasher:Xzax
+ 686. https://www.ssbwiki.com/Mario_(SSB4)
+ 687. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 688. https://www.ssbwiki.com/Smasher:6WX
+ 689. https://www.ssbwiki.com/Sonic_(SSB4)
+ 690. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 691. https://www.ssbwiki.com/Smasher:Z
+ 692. https://www.ssbwiki.com/Pikachu_(SSB4)
+ 693. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 694. https://www.ssbwiki.com/Smasher:Lycan
+ 695. https://www.ssbwiki.com/Diddy_Kong_(SSB4)
+ 696. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 697. https://www.ssbwiki.com/Smasher:SS_(Arizona)
+ 698. https://www.ssbwiki.com/Villager_(SSB4)
+ 699. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 700. https://www.ssbwiki.com/Smasher:K9
+ 701. https://www.ssbwiki.com/Sheik_(SSB4)
+ 702. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 703. https://www.ssbwiki.com/index.php?title=Smasher:Hino&action=edit&redlink=1
+ 704. https://www.ssbwiki.com/Bowser_Jr._(SSB4)
+ 705. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 706. https://www.ssbwiki.com/Smasher:Kinzer
+ 707. https://www.ssbwiki.com/Sonic_(SSB4)
+ 708. https://www.ssbwiki.com/Project_M
+ 709. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&action=edit&section=13
+ 710. http://challonge.com/PMatEvo
+ 711. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 712. https://www.ssbwiki.com/Smasher:IPunchKidsz
+ 713. https://www.ssbwiki.com/Lucario_(PM)
+ 714. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 715. https://www.ssbwiki.com/Smasher:Bladewise
+ 716. https://www.ssbwiki.com/Peach_(PM)
+ 717. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 718. https://www.ssbwiki.com/Smasher:MrLz
+ 719. https://www.ssbwiki.com/Mr._Game_&_Watch_(PM)
+ 720. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 721. https://www.ssbwiki.com/Smasher:Lucky
+ 722. https://www.ssbwiki.com/Fox_(PM)
+ 723. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 724. https://www.ssbwiki.com/Smasher:KiraFlax
+ 725. https://www.ssbwiki.com/Charizard_(PM)
+ 726. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 727. https://www.ssbwiki.com/Smasher:LloD
+ 728. https://www.ssbwiki.com/Peach_(PM)
+ 729. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 730. https://www.ssbwiki.com/Smasher:Alphicans
+ 731. https://www.ssbwiki.com/Fox_(PM)
+ 732. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 733. https://www.ssbwiki.com/Smasher:Seagull_Joe
+ 734. https://www.ssbwiki.com/Diddy_Kong_(PM)
+ 735. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&action=edit&section=14
+ 736. https://www.ssbwiki.com/Smasher:Nakat
+ 737. https://www.ssbwiki.com/Ness_(SSB4)
+ 738. https://www.ssbwiki.com/Smasher:Larry_Lurr
+ 739. https://www.ssbwiki.com/Fox_(SSB4)
+ 740. https://www.ssbwiki.com/Smasher:Jtails
+ 741. https://www.ssbwiki.com/Diddy_Kong_(SSB4)
+ 742. https://www.ssbwiki.com/Smasher:Xzax
+ 743. https://www.ssbwiki.com/Mario_(SSB4)
+ 744. https://www.ssbwiki.com/Smasher:Shaky
+ 745. https://www.ssbwiki.com/Ness_(SSB4)
+ 746. https://www.ssbwiki.com/Smasher:VoiD
+ 747. https://www.ssbwiki.com/Sheik_(SSB4)
+ 748. https://www.ssbwiki.com/Smasher:Dabuz
+ 749. https://www.ssbwiki.com/Rosalina_(SSB4)
+ 750. https://www.ssbwiki.com/Smasher:Tyrant
+ 751. https://www.ssbwiki.com/Meta_Knight_(SSB4)
+ 752. https://www.ssbwiki.com/Smasher:Vinnie
+ 753. https://www.ssbwiki.com/Sheik_(SSB4)
+ 754. https://www.ssbwiki.com/Smasher:AeroLink
+ 755. https://www.ssbwiki.com/Palutena_(SSB4)
+ 756. https://www.ssbwiki.com/Smasher:Ally
+ 757. https://www.ssbwiki.com/Mario_(SSB4)
+ 758. https://www.ssbwiki.com/Smasher:FOW
+ 759. https://www.ssbwiki.com/Ness_(SSB4)
+ 760. https://www.ssbwiki.com/Smasher:False
+ 761. https://www.ssbwiki.com/Luigi_(SSB4)
+ 762. https://www.ssbwiki.com/Smasher:ZeRo
+ 763. https://www.ssbwiki.com/Sheik_(SSB4)
+ 764. https://www.ssbwiki.com/Smasher:Nairo
+ 765. https://www.ssbwiki.com/Zero_Suit_Samus_(SSB4)
+ 766. https://www.ssbwiki.com/Smasher:Mr._ConCon
+ 767. https://www.ssbwiki.com/Luigi_(SSB4)
+ 768. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&action=edit&section=15
+ 769. https://www.ssbwiki.com/Smasher:Zanguzen
+ 770. https://www.ssbwiki.com/Falco_(SSBM)
+ 771. https://www.ssbwiki.com/Smasher:Nintendude
+ 772. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 773. https://www.ssbwiki.com/Smasher:Reno
+ 774. https://www.ssbwiki.com/Sheik_(SSBM)
+ 775. https://www.ssbwiki.com/Smasher:LloD
+ 776. https://www.ssbwiki.com/Peach_(SSBM)
+ 777. https://www.ssbwiki.com/Smasher:Swedish_Delight
+ 778. https://www.ssbwiki.com/Peach_(SSBM)
+ 779. https://www.ssbwiki.com/Smasher:ChuDat
+ 780. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 781. https://www.ssbwiki.com/Smasher:G$
+ 782. https://www.ssbwiki.com/Falco_(SSBM)
+ 783. https://www.ssbwiki.com/Smasher:Milkman
+ 784. https://www.ssbwiki.com/Fox_(SSBM)
+ 785. https://www.ssbwiki.com/Smasher:DJ_Nintendo
+ 786. https://www.ssbwiki.com/Fox_(SSBM)
+ 787. https://www.ssbwiki.com/Smasher:Redd
+ 788. https://www.ssbwiki.com/Fox_(SSBM)
+ 789. https://www.ssbwiki.com/Smasher:The_Moon
+ 790. https://www.ssbwiki.com/Marth_(SSBM)
+ 791. https://www.ssbwiki.com/Smasher:Chillin
+ 792. https://www.ssbwiki.com/Fox_(SSBM)
+ 793. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&action=edit&section=16
+ 794. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 795. https://www.ssbwiki.com/Smasher:Mango
+ 796. https://www.ssbwiki.com/Fox_(SSBM)
+ 797. https://www.ssbwiki.com/File:Flag_of_Sweden.png
+ 798. https://www.ssbwiki.com/Smasher:Leffen
+ 799. https://www.ssbwiki.com/Fox_(SSBM)
+ 800. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 801. https://www.ssbwiki.com/Smasher:Axe
+ 802. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 803. https://www.ssbwiki.com/Falco_(SSBM)
+ 804. https://www.ssbwiki.com/File:Flag_of_Japan.png
+ 805. https://www.ssbwiki.com/Smasher:AMSa
+ 806. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 807. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 808. https://www.ssbwiki.com/Smasher:Kage
+ 809. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 810. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 811. https://www.ssbwiki.com/Smasher:Bizzarro_Flame
+ 812. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 813. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 814. https://www.ssbwiki.com/Smasher:Gahtzu
+ 815. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 816. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 817. https://www.ssbwiki.com/Smasher:Mike_Haze
+ 818. https://www.ssbwiki.com/Fox_(SSBM)
+ 819. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 820. https://www.ssbwiki.com/Smasher:Gahtzu
+ 821. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 822. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 823. https://www.ssbwiki.com/Smasher:Kage
+ 824. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 825. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 826. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&action=edit&section=17
+ 827. https://www.ssbwiki.com/Smasher:ZeRo
+ 828. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 829. https://en.wikipedia.org/wiki/Bill_Trinen
+ 830. https://www.ssbwiki.com/EVO_2015#cite_note-5
+ 831. https://www.mariowiki.com/Treehouse
+ 832. https://www.ssbwiki.com/Satoru_Iwata
+ 833. https://www.ssbwiki.com/EVO_2015#cite_note-6
+ 834. https://www.ssbwiki.com/EVO_2015#cite_note-7
+ 835. https://www.ssbwiki.com/EVO_2015#cite_note-8
+ 836. https://www.ssbwiki.com/EVO_2015#cite_note-9
+ 837. https://www.ssbwiki.com/Melee
+ 838. https://www.ssbwiki.com/Smasher:Mango
+ 839. https://www.ssbwiki.com/Smasher:Plup
+ 840. https://www.ssbwiki.com/Smasher:PC_Chris
+ 841. https://www.ssbwiki.com/Pac-Man_(SSB4)
+ 842. https://www.ssbwiki.com/Smasher:Abadango
+ 843. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&action=edit&section=18
+ 844. http://evo.shoryuken.com/
+ 845. http://gallery.rmpaul.com/Esports/Evo-2015
+ 846. https://docs.google.com/spreadsheets/d/13sH3F_-MsF-ymosxVIO6VLHJNoMs0pJgUJEicwLypWs/htmlview?sle=true
+ 847. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&action=edit&section=19
+ 848. https://www.ssbwiki.com/EVO_2015#cite_ref-1
+ 849. https://twitter.com/EvilMrWizard/status/616145092873596928
+ 850. https://www.ssbwiki.com/EVO_2015#cite_ref-2
+ 851. https://twitter.com/OneFrameLink/status/616627483320950784
+ 852. https://www.ssbwiki.com/EVO_2015#cite_ref-3
+ 853. https://twitter.com/EvilMrWizard/status/610484724033662976
+ 854. https://www.ssbwiki.com/EVO_2015#cite_ref-4
+ 855. https://www.youtube.com/watch?v=kjiscOndons&feature=youtu.be&t=35m51s
+ 856. https://www.ssbwiki.com/EVO_2015#cite_ref-5
+ 857. https://twitter.com/trintran/status/617001138672406528
+ 858. https://www.ssbwiki.com/EVO_2015#cite_ref-6
+ 859. https://twitter.com/trintran/status/621360923702235136
+ 860. https://www.ssbwiki.com/EVO_2015#cite_ref-7
+ 861. https://twitter.com/EvilMrWizard/status/616755929061552128
+ 862. https://www.ssbwiki.com/EVO_2015#cite_ref-8
+ 863. https://twitter.com/EvilMrWizard/status/616756329676300288
+ 864. https://www.ssbwiki.com/EVO_2015#cite_ref-9
+ 865. https://twitter.com/EvilMrWizard/status/616756934025195520
+ 866. https://www.ssbwiki.com/Template:EVO
+ 867. https://www.ssbwiki.com/Template_talk:EVO
+ 868. https://www.ssbwiki.com/index.php?title=Template:EVO&action=edit
+ 869. https://www.ssbwiki.com/EVO
+ 870. https://www.ssbwiki.com/EVO_World_2007
+ 871. https://www.ssbwiki.com/EVO_2008
+ 872. https://www.ssbwiki.com/EVO_2009
+ 873. https://www.ssbwiki.com/EVO_2013
+ 874. https://www.ssbwiki.com/EVO_2014
+ 875. https://www.ssbwiki.com/EVO_2015
+ 876. https://www.ssbwiki.com/EVO_2016
+ 877. https://www.ssbwiki.com/EVO_2017
+ 878. https://www.ssbwiki.com/EVO_2018
+ 879. https://www.ssbwiki.com/EVO_2007_circuit
+ 880. https://www.ssbwiki.com/EVO_South
+ 881. https://www.ssbwiki.com/EVO_East
+ 882. https://www.ssbwiki.com/EVO_North
+ 883. https://www.ssbwiki.com/EVO_West
+ 884. https://www.ssbwiki.com/EVO_Japan_2018
+ 885. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&oldid=1095450
+ 886. https://www.ssbwiki.com/Special:Categories
+ 887. https://www.ssbwiki.com/Category:2015_tournaments
+ 888. https://www.ssbwiki.com/Category:Nevada_tournaments
+ 889. https://www.ssbwiki.com/Category:National_tournaments
+ 890. https://www.ssbwiki.com/Tournament:EVO_2015
+ 891. https://www.ssbwiki.com/Tournament_talk:EVO_2015
+ 892. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&action=edit
+ 893. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&action=history
+ 894. https://www.ssbwiki.com/Special:MyTalk
+ 895. https://www.ssbwiki.com/Special:MyContributions
+ 896. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=Tournament:EVO+2015
+ 897. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=Tournament:EVO+2015
+ 898. https://www.ssbwiki.com/Main_Page
+ 899. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 900. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 901. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 902. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 903. https://www.ssbwiki.com/Super_Smash_Bros.
+ 904. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+ 905. https://www.ssbwiki.com/Stage
+ 906. https://www.ssbwiki.com/Mode
+ 907. https://www.ssbwiki.com/Item
+ 908. https://www.ssbwiki.com/Special:Random
+ 909. https://www.ssbwiki.com/Forum:Index
+ 910. https://www.ssbwiki.com/SmashWiki:Community_portal
+ 911. https://www.ssbwiki.com/Special:RecentChanges
+ 912. https://www.ssbwiki.com/Help:Contents
+ 913. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
+ 914. https://www.ssbwiki.com/SmashWiki:Discord_server
+ 915. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
+ 916. https://www.ssbwiki.com/Special:WhatLinksHere/Tournament:EVO_2015
+ 917. https://www.ssbwiki.com/Special:RecentChangesLinked/Tournament:EVO_2015
+ 918. https://www.ssbwiki.com/Special:SpecialPages
+ 919. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&printable=yes
+ 920. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&oldid=1095450
+ 921. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&action=info
+ 922. https://creativecommons.org/licenses/by-sa/3.0/
+ 923. https://www.mediawiki.org/
+ 924. https://creativecommons.org/licenses/by-sa/3.0/
+ 925. https://www.porplemontage.com/privacy
+ 926. https://www.ssbwiki.com/SmashWiki:About
+ 927. https://www.ssbwiki.com/SmashWiki:General_disclaimer
+ 928. https://www.ssbwiki.com/index.php?title=Tournament:EVO_2015&mobileaction=toggle_view_mobile
+
+   Hidden links:
+ 930. https://www.ssbwiki.com/Main_Page

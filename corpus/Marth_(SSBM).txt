@@ -1,0 +1,1026 @@
+   #[1]Edit this page [2]SmashWiki (en) [3]SmashWiki Atom feed
+
+Marth (SSBM)
+
+   From SmashWiki, the Super Smash Bros. wiki
+   Jump to:[4]navigation, [5]search
+   [6]SSBM Icon.png
+
+          This article is about Marth's appearance in Super Smash Bros. Melee. For the character in other contexts, see [7]Marth.
+
+   Marth
+   in [8]Super Smash Bros. Melee
+   [9]Marth SSBM.jpg
+   [10]FireEmblemSymbol.svg
+   [11]Universe [12]Fire Emblem
+   Other Smash Bros. appearances [13]in Brawl
+   [14]in SSB4
+   [15]in Ultimate
+   Availability [16]Unlockable
+   [17]Tier S (3) (North America)
+   S (2) (Europe)
+   [18]MarthHeadSSBM.png
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                          “ Marth is a magnificent swordsman. While his swordplay is faster than that of [19]Link, he lacks power, and his quickness is offset by a marginal endurance. ”
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        —Description from Marth's trophy.
+
+   Marth (マルス, Marth) debuted in the first game of the [20]Fire Emblem series, [21]Fire Emblem: Shadow Dragon and the Blade of Light (Ankoku Ryuu to Hikari no Tsurugi). Marth was placed in [22]Super Smash Bros. Melee due to heavy requests from Japanese players; as his games had never been released outside of Japan prior to Melee, his character was among the most obscure in the game in other regions. His popularity as a character, alongside [23]Roy, eventually caused Nintendo to begin releasing the Fire Emblem games internationally; the first internationally released game came two years after Melee. He is voiced in Japanese by [24]Hikaru Midorikawa, who reprises his role from [25]the 1996 animated adaptation of Fire Emblem: Mystery of the Emblem; as Fire Emblem had, at that point, yet to officially make its debut overseas (aside from dubs of the animated adaptation), Marth's Japanese voice is used in all regions.
+
+   Marth currently ranks 3rd on the Melee [26]tier list, in the S tier. Marth has many powerful tools at his disposal, including fast overall startup in his attacks, long and [27]disjointed [28]range, large amounts of additional power at the [29]tip of his blade, very potent [30]juggling and [31]combo ability, the longest non-disjointed [32]grab range, and great [33]edgeguarding capabilities. Marth also has a multitude of good movement options to approach and pressure with; his [34]dash-dance and [35]wavedash are among the longest in the game, complementing his already-impressive range extremely well. Marth also has many options to KO his opponents and finish combos, such as his down aerial (a very potent spike when sweetspotted, and the closer to the notorious [36]Ken Combo) and forward smash.
+
+   On the downside, his ability to punish [37]approaches is somewhat limited in comparison to other top-tier characters due to his lack of a projectile and the short hitbox duration of his moves. Marth also has lackluster defensive properties; his weight makes him very easy to combo while not providing sufficient knockback resistance to survive heavy hits at kill-percent, and his [38]out of shield game is notoriously poor despite his attacks' fast startups. His [39]recovery is also problematic; while it is extendable with his side special and can end with a fast up special that covers decent distance, it is also rather predictable. However, Marth's main weakness is the fact that most of his moves have considerable endlag and are thus very punishable if whiffed. As such, Marth is very susceptible to momentum shifts; a punished move puts Marth in a defensive position where he has few options to retake the advantage.
+
+   Despite his low technical learning curve, many consider Marth to be one of the most difficult characters to play at high levels due to the intricate [40]spacing ability required of top-level players to overcome his aforementioned flaws. Regardless of these flaws, Marth has excellent matchups against many characters, including six that are nearly unloseable.
+
+Contents
+
+     * [41]1 How to unlock
+     * [42]2 Attributes
+          + [43]2.1 PAL differences
+     * [44]3 Moveset
+          + [45]3.1 Taunt
+          + [46]3.2 Idle pose
+          + [47]3.3 Crowd cheer
+          + [48]3.4 Victory poses
+     * [49]4 In competitive play
+          + [50]4.1 Matchups
+          + [51]4.2 Notable players
+               o [52]4.2.1 Active
+               o [53]4.2.2 Inactive
+          + [54]4.3 Tier placement and history
+               o [55]4.3.1 PAL viability
+     * [56]5 In single-player modes
+          + [57]5.1 In Classic Mode
+          + [58]5.2 In Adventure Mode
+          + [59]5.3 In All-Star Mode
+          + [60]5.4 In Event Matches
+          + [61]5.5 Ending images
+     * [62]6 Japanese translations
+     * [63]7 Trophy descriptions
+     * [64]8 Alternate costumes
+     * [65]9 Gallery
+     * [66]10 Trivia
+     * [67]11 External Links
+
+How to unlock[[68]edit]
+
+   To unlock Marth, players have to use all fourteen starter characters in VS. matches, complete or fail [69]Classic Mode or [70]Adventure Mode with all fourteen starter characters, or play 400 VS. matches.
+
+   Upon completing this, Marth will be fought on the [71]Fountain of Dreams stage, with the track "Fire Emblem" playing.
+
+Attributes[[72]edit]
+
+   The majority of Marth's moveset, if chained together, can be highly effective at edgeguarding.
+
+   Marth falls under the fighter archetype of being mobile, with the ability to easily outmaneuver most of his opponents; Marth has a very fast [73]dashing speed, a long [74]wavedash (specifically the fourth longest in the game) and rather good [75]jumping speed, with average [76]falling speed, contributing to a good [77]SHFFL. With a large [78]dash-dance window and a [79]disjointed [80]hitbox, Marth has great [81]approach options in this game, both on the ground and in the air.
+
+   Marth's primary strength is his range in his normal attacks; the Falchion grants Marth a very large disjointed hitbox that can allow him to safely attack from a distance. Additionally, the tip of the Falchion, its sweetspot, is remarkably easy to connect, making Marth stronger when he is further from his opponent. In addition to this, Marth's attacks are very quick in terms of startup lag, and his long wavedash and dash-dance allow him to further extend his already long reach. This long hitbox with a far away sweetspot also contributes to Marth's superb combo game.
+
+   In addition to his disjointed range, Marth has a fantastic [82]combo and [83]juggle ability; despite a slightly below average [84]air speed, with a combination of good jumping prowess, and an average falling speed, as well as quick, low lag, high-ranged, easy-to-sweetspot aerials, Marth has among the best air games in Melee, and a great combo ability. Additionally, Marth's [85]grab game is also good, as mentioned before due to a surprisingly long grab range (the longest of the non-grapple grabs, thanks to it extending far past his hand). His [86]throws possess low damage and knockback, allowing him to chain his throws into each other and combo into other attacks. In particular, his up throw can [87]chain throw most [88]fast fallers at low to mid percentages, and it can directly segue into an up tilt or an aerial, and can be used for KOing at high percents on a platform due to being the third strongest up throw in the game. Marth's long dash-dance also makes him a superb [89]tech-chaser.
+
+   Marth's primary flaw is his lack of kill options. While Marth's tipper mechanic on his [90]forward smash can kill at virtually any percent, almost none of the rest his moveset has huge knockback. This forces Marth to rely on killing at early percents (fortunately, this is something Marth is very good at). However, if Marth fails to do so, he suffers from something known by the Melee community as Marth Syndrome. Commonly used when regarding Marth, Marth Syndrome is a term used to show Marth's lackluster killing power. As stated before, if Marth fails to kill his opponent early (before ~100%), it may take upwards of another 25-50%, sometimes 75% when regarding [91]Dream Land N64, to kill them.
+
+   Another problem for Marth is his lack of defensive options. His weight does not enable him to survive powerful attacks, while also being enough to be vulnerable to combos such as Fox's [92]waveshine combos in NTSC regions (although he is light enough to not be waveshined in PAL regions). More significantly, while Marth's attacks are very fast in terms of startup, they travel in predictable, low-duration arcs and have high ending lag (his down aerial is an example of this, having the quickest startup lag but among the highest ending lag for a spike or meteor smash). This leads to Marth having a terrible [93]out of shield game due to the low duration and high ending lag of his moves, while also being open to punishment. Marth also requires significant knowledge of spacing with his aerials in order to properly combo. For most of his attacks, the sweetspot hitboxes have the lowest priority, so they only hit if none of the weaker hitboxes connect on that frame. As such, Marth requires
+   significant knowledge of hitbox spacing with his moves due to the non-tipper and tipper hitboxes of Marth's moves having very different knockback values and angles. In many cases, a specific hitbox is needed to extend the punish.
+
+   Luckily, Marth does have some powerful attacks; some of these attacks are very fast and have high range, such as his up tilt, while others can KO at close ranges, such as the Reverse [94]Dolphin Slash technique. Marth's forward smash is feared due to its high speed and power when tipped, with the capability to "break" through some [95]projectiles found in the game thanks to its priority; it also works well when wave-smashed, due to Marth's long wavedash. Marth's down tilt and [96]Shield Breaker act as good [97]edgeguarding options, with the former being a [98]semi-spike and the latter have a large hitbox. Most notable, however, is his [99]down aerial, which acts as a powerful [100]spike in NTSC regions, and an equally powerful [101]meteor smash in PAL regions; it can KO reliably even as low as 40%, and many of Marth's attacks can easily combo into his down air, most notably his [102]forward aerial as part of the [103]Ken Combo. Marth also has access to a grounded meteor in his [104]Dancing
+   Blade. While its uses for KOing are somewhat situational, it can set up tech-chases well, as well as free [105]jab resets.
+
+   Overall, Marth's long reach, excellent combos, and powerful finishers result in him being a very potent character in the current metagame. A Marth player must be wary of his weaknesses and spacing, but due to his low technical learning curve, Marth is an effective character to pick up and play.
+
+PAL differences[[106]edit]
+
+   Like some other characters, Marth received some changes in the [107]PAL version of Melee, which slightly [108]nerfed him overall, as he lost the ability to reliably KO and edgeguard with his down aerial. However, because other top-tier characters, such as [109]Fox and [110]Sheik, were noticeably nerfed, Marth has an easier time fighting against them, improving his matchup spread overall. As such, he is considered to be better relative to most of the top-tier cast in PAL than in NTSC, which reflects in his [111]PAL tier list placement, where he is ranked 2nd instead of his current 3rd place.
+     * Nerf Down aerial is no longer a [112]spike but a [113]meteor smash, meaning it can be [114]meteor cancelled, making it a less effective and reliable finisher.
+     * Nerf Air speed has been slightly lowered from 0.9 to 0.85.
+     * Buff [115]Weight has been lowered from 87 to 85. While this can be seen as a nerf by slightly hindering his survivability, this change also makes him immune to [116]Fox's [117]waveshine combos; in the NTSC regions, his weight is just above the threshold to allow him to be waveshined.
+
+Moveset[[118]edit]
+
+   Marth's aerial attacks
+
+   For a gallery of Marth's hitboxes, see [119]here.
+   For simplicity, if, for example, Marth's blade does 4% damage while the tip does 6%, and the attack has no other hitboxes, it is written as 4%/6%.
+     Name Damage Description
+   [120]Neutral attack   4%/6% Slashes the Falchion twice in front of himself. Useful for both offensive and defensive [121]spacing, especially when used with wavedashing due to the move's non-committal nature with regards to movement. The first hit of jab is highly useful for [122]edgeguarding linear recoveries, while the second hit can be used to cover many unorthodox recovery options when combined with the first jab (such as a shortened [123]Fox Illusion or [124]Falco Phantasm). If Marth is wearing a [125]Bunny Hood, he performs both jabs at twice the speed.
+   4%/6%
+   [126]Forward tilt   9%/13% A fast upward swipe while leaning forward. Has good horizontal reach.
+   [127]Up tilt   Clean: 9% (blade), 12% (tip), 8% (body)
+   Late: 10% (blade), 13% (tip), 9% (body) Swings his sword in a large arc above his head, with a large hitbox that can peg opponents behind him. This move has many varied uses; most notably, it can interrupt hasty attacks and juggle and trap opponents in conjunction with a forward smash, a neutral aerial, or an up aerial on top of platforms. It can also set up aerial combos. At high percentages, it is an effective KO move, KOing reliably at 130% and above when tippered.
+   [128]Down tilt   9% (blade), 10% (tip), 8% (body) A quick crouching Falchion poke. As it pokes out and is a [129]semi-spike, it is very useful for edgeguarding, and is also a staple in Marth's neutral game as it can safely be used to interrupt dash-dancing and wavedashing approaches or follow-ups. It may lead into a grab follow-up below 100%. It also has the property of having a high amount of [130]interruptibility frames. Because of this property Marth is unable to shield as quickly as if he were to do anything else such as dashing or performing smash attacks.
+   [131]Dash attack   11% (blade), 12% (tip), 9% (body) A quick upward sweeping diagonal slash with high range and relatively high damage. Depending on where on the sword it connects, it can either send opponents behind him, in front of him or above him. Very good for setting up combos, but has high ending lag.
+   [132]Forward smash Dragon Killer 14%/20% Rotates body counterclockwise with a strong arc-like swing from his head to the ground. Very fast and long ranged. The knockback of the move is strongest on the tipper hitbox of the sword, otherwise being rather weak when untippered.
+   [133]Up smash Justice Sword 8% (sides), 15% (blade), 18% (tip) A quick, direct upward thrust. The move has very weak sourspots next to Marth if used on the ground, so it is not a reliable KO move on grounded enemies next to Marth, but it can act as a surprise KO option on enemies directly above him in the air or on platforms. Oddly, the Falchion's tip doesn't have a hitbox at all; the "tipper" hitbox is instead located at the middle of the blade.
+   [134]Down smash   11%/16% (both sides) Sweeps his sword on the ground towards the front, then towards the back. If tippered, it sends opponents upward with high vertical knockback, [135]Star KOing opponents at high percentages, and is the strongest down smash in the game and 3rd most powerful smash attack overall (only behind [136]Bowser's forward smash and [137]Pikachu's up smash). If hit at the base, it sends opponents with low horizontal knockback, but it can still KO at high percentages. It is generally not a safe option to use in most situations, as the attack has a fair amount of ending lag and takes longer to fully execute than his other smash attacks (despite having the fastest amount of start-up out of his smash attacks).
+   [138]Neutral aerial   4% (hit 1), 10% (hit 2) Two horizontal slashes around himself. Both hits connect easily, and can follow up into each other. Oddly enough, both the tipper hitbox and the non-tipper hitbox deal the same damage and knockback; the only difference between the 2 hitboxes is the sound effect.
+   [139]Forward aerial   10% (blade), 13% (tip), 9% (body) Does a forward vertical slash downwards. It is considered Marth's most versatile aerial as it is his fastest and has the most combo potential. It also has the least ending lag of all his aerials and it is his safest aerial on shield since it deals 7 frames of shield stun and has 7 frames of endlag; Marth can dash-dance away after doing this move on shield. Because of its ability to link into virtually any other of Marth's moves, it is an ideal move to set up edgeguarding. The move however has a very short duration and thus despite its speed, it is unsafe if spammed in neutral.
+   [140]Back aerial About Face 10% (blade), 13% (tip), 9% (body) Slashes the Falchion from bottom to top behind him in an inward swipe. The attack has the unusual property of turning Marth around when used in the air; in this regard, his back aerial can be used to potentially set up a [141]Ken Combo or can be used to quickly steal a ledge.
+   [142]Up aerial   10% (blade), 13% (tip), 9% (body) A forward-to-back upward wide sword slash ending in a full delayed somersault. It is not particularly powerful regardless of where on the sword it hits, but conversely it shows no mercy juggling opponents when combined with forward smash, up tilt, and other aerials.
+   [143]Down aerial   10% (blade), 13% (tip), 9% (body) A forward-to-back outward sword slash downwards. The attack, when [144]sweetspotted, sends opponents flying downward. In [145]NTSC regions, the attack is a [146]spike, while [147]PAL regions, it's a [148]meteor smash. Due to its high ending lag and Marth's lackluster recovery, the attack is of high risk if used offstage at a low altitude. Regardless, the move is extremely useful anywhere else on the stage due to its long horizontal reach making it a great tech chase option (for reading rolls) as well as an out of shield option. This is the primary finish to a Ken Combo.
+   [149]Grab   — Marth grabs the opponent with his free hand. It's the 4th longest grab range overall and the single longest non-tether grab.
+   [150]Pummel   3% Knees the opponent.
+   [151]Forward throw   4% Trips the opponent with his leg as he pushes them forward.
+   [152]Back throw   4% Pulls opponents behind him and extends his leg simultaneously.
+   [153]Up throw   4% A powerful upward throw with one arm. Can chain throw fast fallers at low percentages, and is the third strongest up throw in the game.
+   [154]Down throw   5% Slams the opponent to the ground, sending them behind him. Can set up a tippered forward smash at low percentages.
+   [155]Floor attack (front)   6% Sweeps his sword on the ground, front to back.
+   [156]Floor attack (back)   6% A quick stab to the left followed by a horizontal slash to the right.
+   [157]Edge attack (fast)   8% (sword), 6% (hilt) Flips onto ledge with a quick downward diagonal slash downwards. Hitbox only exists on Marth's right arm arm and his sword, meaning that foes close to the ledge Marth is hanging on can avoid the attack.
+   [158]Edge attack (slow)   8% (sword), 6% (hilt) Slowly gets up and performs a quick horizontal slice upwards. Just like his quick edge attack, opponents can avoid the attack if they are close to the ledge Marth is currently hanging on.
+   [159]Neutral special [160]Shield Breaker 7-27%, 28% (fully charged) Marth holds the Falchion over his head before doing a powerful overhead slash in a similar fashion to his forward smash. When the move is fully charged, it will break any shield in one hit, unless the attack is [161]perfect shielded. This attack has [162]transcendent priority.
+   [163]Side special [164]Dancing Blade Varies A sequence of Falchion slashes with several variations based on [165]control stick inputs. All variations have transcendent priority. Upward slashes are trailed blue, standard slashes are trailed red, and downward slashes are trailed green.
+   [166]Up special [167]Dolphin Slash 10% (startup blade & body), 13% (startup tip), 7% (leap blade & tip), 6% (leap body) A high-speed jumping uppercut slash that can be reversed before frame 6. Has many uses, but is very risky to use due to the large degree of vulnerability Marth receives if the move is whiffed. The move is easily used in the middle of a combo (though DI must be correctly read); it can be used as an alternative (instead of a down air) to finish a Ken Combo. It is also Marth's fastest option to punish rolls (provided he is close enough) as well as his fastest [168]out of shield option. This attack has transcendent priority.
+   [169]Down special [170]Counter 7% Assumes a defensive stance and retaliates against incoming attacks. The damage and knockback of the attack will always be the same, regardless on what attack is being countered.
+
+   CAPTION: Dancing Blade
+
+           Hit                  Damage                                              Description
+   First Hit (Neutral)  4%                       Does a vertical slash, has little knockback: incapable of KOing.
+   Second Hit (Up)      5%                       Does an upwards slash.
+   Second Hit (Neutral) 5%                       Does a stab, has a little more knockback then the first slash, but still not much.
+   Third Hit (Up)       6%                       Does a weak vertical slash.
+   Third Hit (Neutral)  10%                      Does a fairly powerful horizontal slash. KOs at around 120%.
+   Third Hit (Down)     10%                      Stabs at the ground. Decent KO option. Has an unorthodox meteor smash hitbox.
+   Fourth Hit (Up)      10%                      Does a very powerful jumping slash. KOs at around 100%.
+   Fourth Hit (Neutral) 14%                      Does a very powerful vertical slash. KOs at around 100%
+   Fourth Hit (Down)    3% (hit 1-4), 5% (hit 5) Does a flurry of lower stabs. The last hit launches opponents away.
+
+[171]Taunt[[172]edit]
+
+     * Twirls his sword, then raises it in front of him, saying, "みんな、見ていてくれ！" ("Everyone, please watch me!")
+
+   [173]Marth-Taunt-SSBM.gif
+
+[174]Idle pose[[175]edit]
+
+     * Brushes hair out of his face.
+
+   [176]Marth Idle Pose Melee.gif
+
+[177]Crowd cheer[[178]edit]
+
+                            English        Japanese
+         Cheer
+   (BUTTON) Play sound
+   [179]Marth Cheer NTSC Melee.ogg
+   (BUTTON) Play sound
+   [180]Marth Cheer JP Melee.ogg
+      Description     Marth! Marth! Marth! Ma-ru-su!
+         Pitch        Group chant          Female
+
+[181]Victory poses[[182]edit]
+
+   (BUTTON) Play sound
+   A rendition of a portion of the main theme of the Fire Emblem series.
+     * Turns with pride, spins the Falchion, then clashes it to the ground and says "僕は負ける訳には行かないんだ!", which translates to: "I cannot afford to lose!"
+     * Sheaths his sword and says "今回は僕の勝ちだね?", which translates to: "This time it's my victory, isn't it?"
+     * Poses with his sword sheathed and his right arm out and says "今日も生き延びることが出来た。", which translates to: "Today I have survived."
+
+   [183]Marth-Victory1-SSBM.gif [184]Marth-Victory2-SSBM.gif [185]Marth-Victory3-SSBM.gif
+
+In [186]competitive play[[187]edit]
+
+[188]Matchups[[189]edit]
+
+   CAPTION: [190]Super Smash Bros. Melee Character Matchups
+
+                          [191]FoxHeadSSBM.png [192]FalcoHeadSSBM.png [193]MarthHeadSSBM.png [194]SheikHeadSSBM.png [195]JigglypuffHeadSSBM.png [196]PeachHeadSSBM.png [197]IceClimbersHeadSSBM.png [198]CaptainFalconHeadSSBM.png [199]PikachuHeadSSBM.png [200]SamusHeadSSBM.png [201]DrMarioHeadSSBM.png [202]YoshiHeadSSBM.png [203]LuigiHeadSSBM.png [204]GanondorfHeadSSBM.png [205]MarioHeadSSBM.png [206]YoungLinkHeadSSBM.png [207]DonkeyKongHeadSSBM.png [208]LinkHeadSSBM.png [209]MrGame&WatchHeadSSBM.png [210]RoyHeadSSBM.png [211]MewtwoHeadSSBM.png [212]ZeldaHeadSSBM.png [213]NessHeadSSBM.png [214]PichuHeadSSBM.png [215]BowserHeadSSBM.png [216]KirbyHeadSSBM.png Avg.
+   [217]MarthHeadSSBM.png [218]±0              [219]±0                [220]Mirror match      [221]-1                [222]-1                     [223]+1                [224]+1                      [225]±0                        [226]+2                  [227]+1                [228]+2                  [229]+2                [230]+2                [231]±0                    [232]+2                [233]+2                    [234]+2                     [235]+2               [236]+3                       [237]+2              [238]+3                 [239]+2                [240]+3               [241]+3                [242]+3                 [243]+3                [244]+2
+
+   According to the most recent matchup chart in 2010, Marth is [245]soft countered by two characters, has four even matchups, soft counters three characters, [246]counters ten, and [247]hard counters six.
+
+   Due to Marth's very favorable attributes for forcing openings, such as his quick down tilt and long dash dance, Marth has the advantage against characters who lack strong tools of their own to combat him in the [248]neutral game. Characters such as [249]Mario, [250]Zelda, and many other low-tiered characters do not have the means to match his speed and range near the ground, and at high levels of play, are unable to get many openings outside of poor matchup knowledge or poor execution from the Marth player. Marth also has very strong punishes against the majority of the cast, and can cover the vast majority of edgeguarding situations in the game with the proper execution. Characters with linear recoveries, such as [251]Luigi, can thus struggle once sent off-stage against Marth.
+
+   However, Marth is the perfect combo weight for several characters to exploit. Marth may win the neutral game against these characters, such as [252]Captain Falcon, [253]Jigglypuff, and [254]Sheik, but once they find an opening, they can punish Marth much harder than he can in return, and in some cases, even KO him outright. Thus, these matchups are close to even or slightly disadvantageous for Marth due to how carefully he must play. On the other hand, Marth finds himself in a roughly reversed situation against [255]Fox and [256]Falco, two of the only characters who can dictate the pace of neutral against him; while he has an easier combo game on them, they hold a significant advantage in neutral with their superior speed and strong projectile, respectively, keeping their matchups close to even.
+
+   In the modern metagame, advancements in Marth's punish game have mostly evened out his matchup against Sheik and Jigglypuff. At the highest level, the Sheik matchup is considered even, although not easy to play for Marth, while the Jigglypuff matchup is slightly disadvantageous at worst for him. Marth is now considered by many to be a soft counter to [257]Falco (and sometimes even [258]Fox), as the risk-reward in that matchup is considered to be against Falco due to how easily he can be dismantled after a single mistake. Paradoxically, Marth's weakest performances at the top level have recently been against two of the mid-tiers that he has long been considered to beat: [259]Pikachu and [260]Yoshi. While Marth theoretically still wins against Pikachu, [261]Axe's knowledge in the matchup has led him to be highly successful against Marth players, exploiting Pikachu's tricky recovery and ability to push Marth horizontally away from the stage, where he struggles to recover from. Yoshi's
+   character strengths actually seem to work very well against Marth, causing many to think that the matchup is even at best for Marth; Yoshi cannot be comboed easily due to his weight and floatiness, and cannot be edgeguarded easily due to his double jump armor, taking away key advantages that Marth has against other characters.
+
+   All things considered, Marth is one of the most difficult matchups for many of the characters in Melee, with not many characters having the tools to properly deal with him at the highest level of play.
+
+Notable players[[262]edit]
+
+          See also: [263]Category:Marth professionals (SSBM)
+          Any number following the Smasher name indicates placement on the [264]2017 SSBMRank.
+
+Active[[265]edit]
+
+     * [266]USA  [267]ARC - Marth solo main from Texas; known as a prime innovator of Marth tech and matchup knowledge.
+     * [268]USA  [269]Colbol (#30) - One of the strongest players in Florida; dual mains with Fox.
+     * [270]Canada  [271]I.B - Considered the best active Marth in Canada.
+     * [272]USA  [273]Iceman (#93) - The best Marth in Washington.
+     * [274]USA  [275]Jakenshaken - The best Marth player in Ohio. Has wins over Cal, Squid, Rik.
+     * [276]USA  [277]Ken - Ranked player in SoCal. Was commonly referred to as the "King of Smash" and undisputed best smasher from 2002 through 2007. Invented and named the Ken combo.
+     * [278]USA  [279]La Luna (#19) - One of the 2 best Marth players in Tristate.
+     * [280]France  [281]Mahie - Currently ranked #2 on the French Melee Power Rankings, he is considered the best Marth in France.
+     * [282]USA  [283]Mango (#3) - One of the [284]Five Gods; loosely secondaries Marth.
+     * [285]USA  [286]Mew2King (#4) - One of the [287]Five Gods. Widely considered to be one of the best Marth players of all time. Has contributed largely to the advancement of his metagame, along with [288]PPMD.
+     * [289]USA  [290]PewPewU (#21) - The best Marth player in California. Widely known for his proficiency in doubles with static partner [291]SFAT.
+     * [292]Germany  [293]reaper - The best Marth player in Europe.
+     * [294]USA  [295]Reeve (#101) - The best player in Kentucky.
+     * [296]USA  [297]Rishi (#36) - The best Marth player in Tristate with wins over many local threats. He was initially known for being a strong Netplay player.
+     * [298]Japan  [299]Rudolph - The #2 ranked player in Japan and best Marth in the country. Co-mains with Fox.
+     * [300]USA  [301]Shroomed (#13) - Primarily mains Sheik, but has a strong Marth that sees the most use on certain stages or character counterpicks.
+     * [302]USA  [303]Tai (#80) - The best Marth player in Arizona; known for his creative combos and movement.
+     * [304]USA  [305]Zain (#22) - One of the 2 best Marth players in the world with wins over renowned players such as [306]Mang0, [307]Hungrybox, [308]Plup, and [309]Leffen. Considered the best Marth solo main in the world.
+
+Inactive[[310]edit]
+
+     * [311]USA  [312]Azen - Top old-school Marth player from MD/VA. Considered one of the best on the East Coast in the pre-Brawl era.
+     * [313]USA  [314]Bob$ - Former Dr. Mario main who used Marth to great success later in his career before retiring.
+     * [315]USA  [316]Dart! - Marth solo main from the Midwest, renowned for his prowess in the [317]Captain Falcon matchup.
+     * [318]USA  [319]DruggedFox - Used to have a strong Marth secondary for the Fox/Falco matchup on [320]Final Destination.
+     * [321]USA  [322]Fiction - One of the strongest players in Southern California; dual mains with Fox. Semi-inactive due to a hand injury.
+     * [323]USA  [324]KDJ - Triple-mained with Fox and Sheik before retiring. Considered one of the strongest Melee players in the pre-Brawl era.
+     * [325]USA  [326]PPMD - One of the [327]Five Gods. Considered the best Marth in the neutral game and against floaty characters, and among the two greatest Marth players, alongside [328]Mew2King. Currently inactive due to health reasons.
+     * [329]USA  [330]Taj - Dual mained with [331]Mewtwo. Currently semi-retired.
+     * [332]USA  [333]ZoSo - The best Marth in New England. Is currently semi-active and remains unranked in New England due to inactivity.
+
+Tier placement and history[[334]edit]
+
+   Very early in the Melee [335]metagame, Marth was seen as a character that relied too much on [336]rolling and [337]C-stick abuse, traits that led to a negative low-level perception of him despite his then-high-tier placement. Shortly before the third tier list iteration (June 2003), [338]Ken won [339]Tournament Go 4 with Marth, introducing the uses of [340]dash-dancing, [341]chain throwing, and a higher focus on [342]spacing and [343]aerial combat, including the creation of the infamous [344]Ken Combo. Later, Ken incorporated other advanced techniques, such as [345]wavedashing, into Marth's metagame, and showed how powerfully he could punish enemies off small mistakes and reads. Because of this, Ken is credited for largely improving Marth's metagame. Ken, and a handful of other top Marth mains such as [346]Azen, are credited for moving Marth up to the top tier for years to come, usually around the second to fourth highest spot on the list. Marth's first drop into the high tier since then
+   was in the eighth tier list (July 2006), where he dropped to fourth place. However, in the ninth tier list (October 2008), he again moved up to second place, in what became his highest tier placing in all the tier lists.
+
+   In the post-Brawl metagame, however, professional opinions of Marth began declining. After [347]Mew2King's absolute dominance with Marth for a short time span around Brawl's release, Marth's placement in tournaments began to fall, as newer players learned to exploit his weaknesses, and many Marth mains, including Ken and Azen, became inactive from competitive Melee. Mew2King himself eventually switched to playing primarily [348]Sheik, and up-and-coming Marth players, such as [349]Tai and [350]PewPewU, frequently struggled to make an impact at tournaments. This led to players questioning Marth's true viability in the metagame, which conicided with a drop to fifth place on the tenth tier list in September of 2010, and a fourth place finish on the eleventh tier list in July of 2013. Upon briefly returning to the scene in 2012, Ken notably claimed that Marth was a mid-tier character who lost in every important top-tier matchup. Mew2King's personal tier list in 2014 also decisively ranked Marth
+   as fifth, claiming that while Marth could punish the entire cast solidly, he got punished too easily in return, leading to losing matchups against Fox, Falco, Sheik, and Jigglypuff on all non-[351]Final Destination stages.
+
+   Despite this, new innovations in the modern metagame by the aforementioned PewPewU and [352]PPMD, as well as arguments centered around [353]Marth's frame data, as compiled by various community members such as [354]Kadano, have maintained Marth's viability and changed several opinions concerning his tier placement. PPMD's victory at [355]Apex 2015, where he beat several top Fox players using primarily Marth, showed that despite Marth's more apparent weaknesses today, he is still a character who can win large, top-level tournaments. Reflecting this, the twelfth and most recent tier list released in December of 2015 ranks Marth as third, underneath Falco and Fox, respectively.
+
+PAL viability[[356]edit]
+
+   Cleanup.png This article or section may require a [357]cleanup.
+   The editor who added this tag believes this page should be cleaned up for the following reason: So as to not sound like everyone's potential was known in 2002
+   You can discuss this issue on the [358]talk page or [359]edit this page to improve it.
+
+   Like several other top-tier characters, Marth was nerfed in the PAL version of Melee. His down aerial, a powerful spike in NTSC, had its launch angle changed in PAL, making it an equally powerful meteor smash. As one of Marth's staple moves can now be [360]meteor canceled, impairing his ability to finish off opponents quickly and throwing a wrench in the consistency of the infamous Ken Combo, it may seem as if Marth is worse in PAL overall. However, Marth still retains many other options to KO enemies, and has several other potent (albeit less reliable) options to substitute for down aerial in the aforementioned Ken Combo and other combos, such as his neutral aerial or a reverse [361]Dolphin Slash. Marth was also made slightly lighter, which slightly impairs his survivability, but allows him to escape several of [362]Fox's waveshine follow-ups. The most notable option loss for Fox is waveshine to [363]grab, which greatly impairs Fox's ability to rack up damage on Marth by converting from a
+   shine and forces Fox players to use weaker options instead.
+
+   Because some other top-tier characters, such as Fox or [364]Sheik, were nerfed more significantly than he was, Marth has a much easier time fighting against them than he does in NTSC versions, as he maintains almost all of the advantages he has against those characters, while losing several of the shortcomings that made those matchups difficult. Aside from the aforementioned loss of several waveshine follow-ups for Fox, Marth also able to edgeguard Fox more efficiently, due to the nerf in [365]Fire Fox's recovery distance. Sheik's disadvantages in the neutral game are still prevalent against Marth, as she must still cope with his range. However, Sheik's grab is much less of a punishment threat than it is in NTSC, as its launch angle does not guarantee KO setups (such as forward or up aerials) in PAL. These new advantages, as well as various other changes to Marth's matchups, make Marth arguably stronger relative to the cast than he is in NTSC. This is reflected in the PAL tier list, where
+   Marth is ranked 2nd, a decent improvement over his recent positions in the NTSC list.
+
+   Despite Marth's theoretical superiority in PAL, there exist very few notable Marth mains in PAL regions, with [366]reaper, [367]Mahie and [368]Salepate being the extent of his current representation; both Mahie and Salepate have also struggled to make an impact outside of France. Furthermore, [369]Ice, once considered one of Europe's best Marth mains, later chose to exclusively main Fox to improve his standings in tournaments.
+
+In single-player modes[[370]edit]
+
+In [371]Classic Mode[[372]edit]
+
+   In Classic Mode, Marth can appear in one-on-one matches, team battles alongside [373]Link and [374]Zelda, and as a metal opponent in the mode's penultimate stage. In his appearances, bar his metal match, Marth appears on [375]Great Bay. On a team with Zelda, he appears on [376]Temple. In all such instances, the track "Fire Emblem" plays on the stage, which does not occur in any other mode. Unusually, this does not happen when fighting Marth + Link, during which it will still play the "Great Bay" theme.
+
+In [377]Adventure Mode[[378]edit]
+
+   Marth makes no appearances in the game's single-player Adventure Mode. Music associated with him, however, can play in the [379]Underground Maze.
+
+In [380]All-Star Mode[[381]edit]
+
+   In All-Star Mode, Marth and his allies are fought on [382]Fountain of Dreams, as Marth was not designated a specific home stage. When fought on the stage, the track "Fire Emblem" plays instead of the standard music.
+
+In [383]Event Matches[[384]edit]
+
+   Marth appears in multiple Event Matches:
+     * [385]Event 40: All-Star Match 4: Marth is the first opponent fought in this series of staged battles. The selected character battles him on the [386]Temple stage with a stock of 2 while Marth has 1. With a timer of four minutes, the player must defeat him and the other four characters one-by-one with the overall time and damage: [387]Luigi, [388]Jigglypuff, [389]Mewtwo, and [390]Mr. Game & Watch.
+     * [391]Event 41: En Garde!: A one-on-one battle between the player as Marth and the enemy [392]Link on the Temple stage, with the two characters having 2 stock each and unlimited time.
+     * [393]Event 46: Fire Emblem Pride: The player battles and must defeat a team of Marth and Roy in an untimed match in the Hyrule Temple stage, with all three characters receiving 3 stock.
+
+Ending images[[394]edit]
+
+     * Classic Mode.
+     * Adventure Mode.
+     * All-Star Mode.
+
+Japanese translations[[395]edit]
+
+   Marth is considered to be more verbose than Roy in the games, speaking in the [396]Results screen, in his taunt and during his Counter if it activates.
+     * Marth's taunt in battle is "皆、見ていてくれ！" "Minna, miteite kure!" which translates to "Everyone, please watch me!".
+     * Marth's counter move is performed while saying "そこだ！！" "Soko da!", "させるものか！" "Saseru mono ka!", or "見切った！" "Mikitta!" which roughly translates to "There!", "I won't allow that!", and "I saw through (your attack)!" respectively.
+     * Marth's three victory statements are:
+          + "今回は僕の勝ちだね。" "Konkai wa boku no kachi da ne?" which translates to "This time it's my victory, isn't it?"
+          + "今日も生き延びることが出来た。" "Kyou mo ikinobiru koto ga dekita", which translates to "Today, I have survived." (Possibly referencing the permanent death system in his own series)
+          + "僕は負ける訳には行かないんだ。" "Boku wa makeru wake-ni wa ikanain'da!" which translates to "There's no way I can lose!"
+     * In the Debug Menu of the game, Marth has an additional phrase that he does not say in the game: "レッツダンス！" "Rettsu dansu!", the English phrase "Let's Dance!" approximated phonetically in Japanese.
+
+Trophy descriptions[[397]edit]
+
+   In addition to the normal trophy about Marth as a character, there are two trophies about him as a fighter, unlocked by completing the Classic, Adventure and All-Star modes respectively with Marth on any difficulty.
+
+          Marth (Classic):
+          The betrayed prince of the Kingdom of Altea, the blood of the hero Anri flows in Marth's veins. He was forced into exile when the kingdom of Dolua invaded Altea. Then, wielding his divine sword Falchion, he led a revolt and defeated the dark dragon Medeus. Afterwards, Altea was annihilated by King Hardin of Akanea.
+
+          + Fire Emblem
+          + Japan Only
+
+          Marth (Adventure):
+          Marth is a magnificent swordsman. While his swordplay is faster than that of [398]Link, he lacks power, and his quickness is offset by a marginal endurance. His Shield Breaker gains power the longer it's held. The Dancing Blade combination uses both the Control Stick and the B Button to produce a series of up to four attacks.
+
+          + B: [399]Shield Breaker
+          + Smash B: [400]Dancing Blade
+
+          Marth (All-Star):
+          The tip of Marth's blade causes the most damage, so you should try to create adequate distance between you and your enemy to gracefully strike with that point. Marth's Dolphin Slash is fast and powerful, but it leaves him vulnerable upon landing. Marth uses Counter to block a foe's attack and deal a return strike. If you're fighting a Counter-happy Marth, grab him.
+
+          + Up & B: [401]Dolphin Slash
+          + Down & B: [402]Counter
+
+     * Marth [Classic Mode] trophy
+     * Marth [Smash, Adventure Mode] trophy
+     * Marth [Smash, All-Star Mode] trophy
+
+[403]Alternate costumes[[404]edit]
+
+   [405]Marth Palette (SSBM).png
+   [406]MarthHeadSSBM.png [407]MarthHeadRedSSBM.png [408]MarthHeadGreenSSBM.png [409]MarthHeadBlackSSBM.png [410]MarthHeadWhiteSSBM.png
+
+Gallery[[411]edit]
+
+     * Official artwork of Marth.
+     * Posing with [412]Roy on [413]Princess Peach's Castle.
+     * [414]Dashing towards Roy and [415]Link on [416]Temple.
+
+Trivia[[417]edit]
+
+     * Marth is the only newcomer and unlockable character to have a clone.
+     * Marth and [418]Roy are the only characters in Melee that speak Japanese in all language versions of the game.
+     * Marth and [419]Roy are the only playable characters in Melee that do not have a stage representing their universe, though hacked data shows that [420]one was planned.
+          + As a result of not having a stage, Marth is fought on the [421]Fountain of Dreams in All-Star Mode and his character unlock battle. In Event Matches, he appears in [422]Temple, and in Classic Mode, he appears on [423]Great Bay.
+     * Marth, [424]Roy, [425]Peach and [426]Kirby (After absorbing Peach) are the only characters in Melee with a special move that can counter.
+     * Along with [427]Roy, Marth was originally planned to be a Japan-exclusive character in Super Smash Bros. Melee, but was kept in all versions on request of an employee at Nintendo of America.^([428]citation needed) Global interest in the Fire Emblem series began as a result of their success in Super Smash Bros. Melee.
+     * All of Marth's aerial attacks when tippered deal the same amount of damage (13% damage); he is the only character in the game to have this trait.
+     * In the [429]debug menu, Marth is known as "MARS" likely to keep the game close to his Japanese pronunciation.
+          + Coincidently, this coincides with his name in the Fire Emblem OVA, which was based off of the third game in the series, Mystery of the Emblem, which revolves around Marth's adventures.
+     * The fan-made term "Marthritis" (derived from the diagnosis [430]Arthritis) references the inability for a Marth player to easily combo into a kill move at high percents.
+
+External Links[[431]edit]
+
+     * [432]Translation of official character page on Source Gaming
+     * [433]Official character page on the Japanese Melee website
+     * [434]Are You a Marth Player? by [435]Kira
+
+   [436]v • [437]d • [438]e
+   [439]Playable characters in [440]Super Smash Bros. Melee
+   [441]Veterans  [442]Captain Falcon · [443]Donkey Kong · [444]Fox · [445]Jigglypuff · [446]Kirby · [447]Link · [448]Luigi · [449]Mario · [450]Ness · [451]Pikachu · [452]Samus · [453]Yoshi
+   [454]Newcomers [455]Bowser · [456]Dr. Mario · [457]Falco · [458]Ganondorf · [459]Ice Climbers · Marth · [460]Mewtwo · [461]Mr. Game & Watch · [462]Peach · [463]Pichu · [464]Roy · [465]Young Link · [466]Zelda ([467]Sheik)
+   [468]v • [469]d • [470]e
+   [471]FireEmblemSymbol.svg [472]Fire Emblem universe
+                  [473]Characters                [474]Marth (SSBM · [475]SSBB · [476]SSB4 · [477]SSBU) · [478]Roy ([479]SSBM · [480]SSB4 · [481]SSBU) · [482]Ike ([483]SSBB · [484]SSB4 · [485]SSBU) · [486]Lucina ([487]SSB4 · [488]SSBU) · [489]Robin ([490]SSB4 · [491]SSBU) · [492]Corrin ([493]SSB4 · [494]SSBU) · [495]Chrom ([496]SSBU)
+               [497]Assist Trophies              [498]Lyn · [499]Black Knight · [500]Tiki
+                    [501]Stages                  [502]Castle Siege · [503]Arena Ferox · [504]Coliseum
+                    [505]Items                   [506]Killing Edge
+   [507]Trophies, [508]Stickers and [509]Spirits [510]Trophies in Melee · [511]Trophies in Brawl · [512]Trophies in SSB4 · [513]Stickers in Brawl · [514]Spirits in Ultimate
+                       Music                     [515]Music in Brawl · [516]Music in SSB4 · [517]Music in Ultimate
+   Ads keep SmashWiki independent and free :)
+   Retrieved from "[518]https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&oldid=1180557"
+   [519]Categories:
+     * [520]Articles in need of cleanup
+     * [521]Articles with unsourced statements
+     * [522]Characters (SSBM)
+     * [523]Fire Emblem universe
+     * [524]Marth (SSBM)
+     * [525]Trophies (SSBM)
+
+Navigation menu
+
+Views
+
+     * [526]Article
+     * [527]Discussion
+     * [528]Edit this page
+     * [529]History
+
+Personal tools
+
+     * Not logged in
+     * [530]Talk
+     * [531]Contributions
+     * [532]Create account
+     * [533]Log in
+
+Navigation
+
+     * [534]Main page
+     * [535]Smash Bros. Ultimate
+     * [536]Smash Bros. 4
+     * [537]Smash Bros. Brawl
+     * [538]Smash Bros. Melee
+     * [539]Smash Bros. (64)
+     * [540]Characters
+     * [541]Stages
+     * [542]Modes
+     * [543]Items
+     * [544]Random page
+
+Search
+
+   ____________________ Go  Search
+
+Participate
+
+     * [545]Forum
+     * [546]Community portal
+     * [547]Recent changes
+     * [548]Help
+     * [549]Admin noticeboard
+     * [550]Discord server
+     * [551]YouTube channel
+
+Tools
+
+     * [552]What links here
+     * [553]Related changes
+     * [554]Special pages
+     * [555]Printable version
+     * [556]Permanent link
+     * [557]Page information
+
+   [558]Attribution-Share Alike 3.0 Unported
+   [559]Powered by MediaWiki
+     * This page was last edited on 30 January 2019, at 17:52.
+     * Content is available under [560]Attribution-Share Alike 3.0 Unported unless otherwise noted.
+     * [561]Privacy policy
+     * [562]About SmashWiki
+     * [563]Disclaimers
+     * [564]Mobile view
+
+References
+
+   Visible links
+   1. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit
+   2. https://www.ssbwiki.com/opensearch_desc.php
+   3. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&feed=atom
+   4. https://www.ssbwiki.com/Marth_(SSBM)#column-one
+   5. https://www.ssbwiki.com/Marth_(SSBM)#searchInput
+   6. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+   7. https://www.ssbwiki.com/Marth
+   8. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+   9. https://www.ssbwiki.com/File:Marth_SSBM.jpg
+  10. https://www.ssbwiki.com/File:FireEmblemSymbol.svg
+  11. https://www.ssbwiki.com/Universe
+  12. https://www.ssbwiki.com/Fire_Emblem_(universe)
+  13. https://www.ssbwiki.com/Marth_(SSBB)
+  14. https://www.ssbwiki.com/Marth_(SSB4)
+  15. https://www.ssbwiki.com/Marth_(SSBU)
+  16. https://www.ssbwiki.com/Unlockable_character
+  17. https://www.ssbwiki.com/Tier_list
+  18. https://www.ssbwiki.com/Marth_(SSBM)
+  19. https://www.ssbwiki.com/Link_(SSBM)
+  20. https://www.ssbwiki.com/Fire_Emblem_(universe)
+  21. https://www.ssbwiki.com/Fire_Emblem:_Shadow_Dragon_and_the_Blade_of_Light
+  22. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+  23. https://www.ssbwiki.com/Roy_(SSBM)
+  24. https://en.wikipedia.org/wiki/Hikaru_Midorikawa
+  25. https://fireemblemwiki.org/wiki/Fire_Emblem:_Mystery_of_the_Emblem_(anime)
+  26. https://www.ssbwiki.com/Tier_list
+  27. https://www.ssbwiki.com/Disjointed
+  28. https://www.ssbwiki.com/Range
+  29. https://www.ssbwiki.com/Sweet_spot_(hitbox)
+  30. https://www.ssbwiki.com/Juggling
+  31. https://www.ssbwiki.com/Combo
+  32. https://www.ssbwiki.com/Grab
+  33. https://www.ssbwiki.com/Edgeguarding
+  34. https://www.ssbwiki.com/Dash-dance
+  35. https://www.ssbwiki.com/Wavedash
+  36. https://www.ssbwiki.com/Ken_Combo
+  37. https://www.ssbwiki.com/Approach
+  38. https://www.ssbwiki.com/Out_of_shield
+  39. https://www.ssbwiki.com/Recovery
+  40. https://www.ssbwiki.com/Spacing
+  41. https://www.ssbwiki.com/Marth_(SSBM)#How_to_unlock
+  42. https://www.ssbwiki.com/Marth_(SSBM)#Attributes
+  43. https://www.ssbwiki.com/Marth_(SSBM)#PAL_differences
+  44. https://www.ssbwiki.com/Marth_(SSBM)#Moveset
+  45. https://www.ssbwiki.com/Marth_(SSBM)#Taunt
+  46. https://www.ssbwiki.com/Marth_(SSBM)#Idle_pose
+  47. https://www.ssbwiki.com/Marth_(SSBM)#Crowd_cheer
+  48. https://www.ssbwiki.com/Marth_(SSBM)#Victory_poses
+  49. https://www.ssbwiki.com/Marth_(SSBM)#In_competitive_play
+  50. https://www.ssbwiki.com/Marth_(SSBM)#Matchups
+  51. https://www.ssbwiki.com/Marth_(SSBM)#Notable_players
+  52. https://www.ssbwiki.com/Marth_(SSBM)#Active
+  53. https://www.ssbwiki.com/Marth_(SSBM)#Inactive
+  54. https://www.ssbwiki.com/Marth_(SSBM)#Tier_placement_and_history
+  55. https://www.ssbwiki.com/Marth_(SSBM)#PAL_viability
+  56. https://www.ssbwiki.com/Marth_(SSBM)#In_single-player_modes
+  57. https://www.ssbwiki.com/Marth_(SSBM)#In_Classic_Mode
+  58. https://www.ssbwiki.com/Marth_(SSBM)#In_Adventure_Mode
+  59. https://www.ssbwiki.com/Marth_(SSBM)#In_All-Star_Mode
+  60. https://www.ssbwiki.com/Marth_(SSBM)#In_Event_Matches
+  61. https://www.ssbwiki.com/Marth_(SSBM)#Ending_images
+  62. https://www.ssbwiki.com/Marth_(SSBM)#Japanese_translations
+  63. https://www.ssbwiki.com/Marth_(SSBM)#Trophy_descriptions
+  64. https://www.ssbwiki.com/Marth_(SSBM)#Alternate_costumes
+  65. https://www.ssbwiki.com/Marth_(SSBM)#Gallery
+  66. https://www.ssbwiki.com/Marth_(SSBM)#Trivia
+  67. https://www.ssbwiki.com/Marth_(SSBM)#External_Links
+  68. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=1
+  69. https://www.ssbwiki.com/Classic_Mode_(SSBM)
+  70. https://www.ssbwiki.com/Adventure_Mode_(SSBM)
+  71. https://www.ssbwiki.com/Fountain_of_Dreams
+  72. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=2
+  73. https://www.ssbwiki.com/Dashing
+  74. https://www.ssbwiki.com/Wavedash
+  75. https://www.ssbwiki.com/Jumping
+  76. https://www.ssbwiki.com/Falling_speed
+  77. https://www.ssbwiki.com/SHFFL
+  78. https://www.ssbwiki.com/Dash-dance
+  79. https://www.ssbwiki.com/Disjointed
+  80. https://www.ssbwiki.com/Hitbox
+  81. https://www.ssbwiki.com/Approach
+  82. https://www.ssbwiki.com/Combo
+  83. https://www.ssbwiki.com/Juggle
+  84. https://www.ssbwiki.com/Air_speed
+  85. https://www.ssbwiki.com/Grab
+  86. https://www.ssbwiki.com/Throw
+  87. https://www.ssbwiki.com/Chain_throw
+  88. https://www.ssbwiki.com/Fast_faller
+  89. https://www.ssbwiki.com/Tech-chase
+  90. https://www.ssbwiki.com/Marth_(SSBM)/Forward_smash
+  91. https://www.ssbwiki.com/Dream_Land_(SSB)
+  92. https://www.ssbwiki.com/Waveshine
+  93. https://www.ssbwiki.com/Out_of_shield
+  94. https://www.ssbwiki.com/Dolphin_Slash
+  95. https://www.ssbwiki.com/Projectile
+  96. https://www.ssbwiki.com/Shield_Breaker
+  97. https://www.ssbwiki.com/Edgeguarding
+  98. https://www.ssbwiki.com/Semi-spike
+  99. https://www.ssbwiki.com/Marth_(SSBM)/Down_aerial
+ 100. https://www.ssbwiki.com/Spike
+ 101. https://www.ssbwiki.com/Meteor_smash
+ 102. https://www.ssbwiki.com/Marth_(SSBM)/Forward_aerial
+ 103. https://www.ssbwiki.com/Ken_Combo
+ 104. https://www.ssbwiki.com/Dancing_Blade
+ 105. https://www.ssbwiki.com/Jab_reset
+ 106. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=3
+ 107. https://www.ssbwiki.com/PAL
+ 108. https://www.ssbwiki.com/Nerf
+ 109. https://www.ssbwiki.com/Fox_(SSBM)
+ 110. https://www.ssbwiki.com/Sheik_(SSBM)
+ 111. https://www.ssbwiki.com/PAL_tier_list
+ 112. https://www.ssbwiki.com/Spike
+ 113. https://www.ssbwiki.com/Meteor_smash
+ 114. https://www.ssbwiki.com/Meteor_cancel
+ 115. https://www.ssbwiki.com/Weight
+ 116. https://www.ssbwiki.com/Fox_(SSBM)
+ 117. https://www.ssbwiki.com/Waveshine
+ 118. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=4
+ 119. https://www.ssbwiki.com/Marth_(SSBM)/Hitboxes
+ 120. https://www.ssbwiki.com/Marth_(SSBM)/Neutral_attack
+ 121. https://www.ssbwiki.com/Spacing
+ 122. https://www.ssbwiki.com/Edgeguarding
+ 123. https://www.ssbwiki.com/Fox_Illusion
+ 124. https://www.ssbwiki.com/Falco_Phantasm
+ 125. https://www.ssbwiki.com/Bunny_Hood
+ 126. https://www.ssbwiki.com/Marth_(SSBM)/Forward_tilt
+ 127. https://www.ssbwiki.com/Marth_(SSBM)/Up_tilt
+ 128. https://www.ssbwiki.com/Marth_(SSBM)/Down_tilt
+ 129. https://www.ssbwiki.com/Semi-spike
+ 130. https://www.ssbwiki.com/Interruptibility
+ 131. https://www.ssbwiki.com/Marth_(SSBM)/Dash_attack
+ 132. https://www.ssbwiki.com/Marth_(SSBM)/Forward_smash
+ 133. https://www.ssbwiki.com/Marth_(SSBM)/Up_smash
+ 134. https://www.ssbwiki.com/Marth_(SSBM)/Down_smash
+ 135. https://www.ssbwiki.com/Star_KO
+ 136. https://www.ssbwiki.com/Bowser_(SSBM)
+ 137. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 138. https://www.ssbwiki.com/Marth_(SSBM)/Neutral_aerial
+ 139. https://www.ssbwiki.com/Marth_(SSBM)/Forward_aerial
+ 140. https://www.ssbwiki.com/Marth_(SSBM)/Back_aerial
+ 141. https://www.ssbwiki.com/Ken_Combo
+ 142. https://www.ssbwiki.com/Marth_(SSBM)/Up_aerial
+ 143. https://www.ssbwiki.com/Marth_(SSBM)/Down_aerial
+ 144. https://www.ssbwiki.com/Sweetspot
+ 145. https://www.ssbwiki.com/NTSC
+ 146. https://www.ssbwiki.com/Spike
+ 147. https://www.ssbwiki.com/PAL
+ 148. https://www.ssbwiki.com/Meteor_smash
+ 149. https://www.ssbwiki.com/Marth_(SSBM)/Grab
+ 150. https://www.ssbwiki.com/Marth_(SSBM)/Pummel
+ 151. https://www.ssbwiki.com/Marth_(SSBM)/Forward_throw
+ 152. https://www.ssbwiki.com/Marth_(SSBM)/Back_throw
+ 153. https://www.ssbwiki.com/Marth_(SSBM)/Up_throw
+ 154. https://www.ssbwiki.com/Marth_(SSBM)/Down_throw
+ 155. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)/Floor_attack_(front)&action=edit&redlink=1
+ 156. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)/Floor_attack_(back)&action=edit&redlink=1
+ 157. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)/Edge_attack_(fast)&action=edit&redlink=1
+ 158. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)/Edge_attack_(slow)&action=edit&redlink=1
+ 159. https://www.ssbwiki.com/Marth_(SSBM)/Neutral_special
+ 160. https://www.ssbwiki.com/Shield_Breaker
+ 161. https://www.ssbwiki.com/Perfect_shield
+ 162. https://www.ssbwiki.com/Transcendent_priority
+ 163. https://www.ssbwiki.com/Marth_(SSBM)/Side_special
+ 164. https://www.ssbwiki.com/Dancing_Blade
+ 165. https://www.ssbwiki.com/Control_stick
+ 166. https://www.ssbwiki.com/Marth_(SSBM)/Up_special
+ 167. https://www.ssbwiki.com/Dolphin_Slash
+ 168. https://www.ssbwiki.com/Out_of_shield
+ 169. https://www.ssbwiki.com/Marth_(SSBM)/Down_special
+ 170. https://www.ssbwiki.com/Counter
+ 171. https://www.ssbwiki.com/Taunt
+ 172. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=5
+ 173. https://www.ssbwiki.com/File:Marth-Taunt-SSBM.gif
+ 174. https://www.ssbwiki.com/Idle_pose
+ 175. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=6
+ 176. https://www.ssbwiki.com/File:Marth_Idle_Pose_Melee.gif
+ 177. https://www.ssbwiki.com/Crowd_cheer
+ 178. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=7
+ 179. https://www.ssbwiki.com/File:Marth_Cheer_NTSC_Melee.ogg
+ 180. https://www.ssbwiki.com/File:Marth_Cheer_JP_Melee.ogg
+ 181. https://www.ssbwiki.com/Victory_pose
+ 182. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=8
+ 183. https://www.ssbwiki.com/File:Marth-Victory1-SSBM.gif
+ 184. https://www.ssbwiki.com/File:Marth-Victory2-SSBM.gif
+ 185. https://www.ssbwiki.com/File:Marth-Victory3-SSBM.gif
+ 186. https://www.ssbwiki.com/Competitive_play
+ 187. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=9
+ 188. https://www.ssbwiki.com/Character_matchups_(SSBM)
+ 189. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=10
+ 190. https://www.ssbwiki.com/Character_matchup_(SSBM)
+ 191. https://www.ssbwiki.com/Fox_(SSBM)
+ 192. https://www.ssbwiki.com/Falco_(SSBM)
+ 193. https://www.ssbwiki.com/Marth_(SSBM)
+ 194. https://www.ssbwiki.com/Sheik_(SSBM)
+ 195. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 196. https://www.ssbwiki.com/Peach_(SSBM)
+ 197. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 198. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 199. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 200. https://www.ssbwiki.com/Samus_(SSBM)
+ 201. https://www.ssbwiki.com/Dr._Mario_(SSBM)
+ 202. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 203. https://www.ssbwiki.com/Luigi_(SSBM)
+ 204. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 205. https://www.ssbwiki.com/Mario_(SSBM)
+ 206. https://www.ssbwiki.com/Young_Link_(SSBM)
+ 207. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+ 208. https://www.ssbwiki.com/Link_(SSBM)
+ 209. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSBM)
+ 210. https://www.ssbwiki.com/Roy_(SSBM)
+ 211. https://www.ssbwiki.com/Mewtwo_(SSBM)
+ 212. https://www.ssbwiki.com/Zelda_(SSBM)
+ 213. https://www.ssbwiki.com/Ness_(SSBM)
+ 214. https://www.ssbwiki.com/Pichu_(SSBM)
+ 215. https://www.ssbwiki.com/Bowser_(SSBM)
+ 216. https://www.ssbwiki.com/Kirby_(SSBM)
+ 217. https://www.ssbwiki.com/Marth_(SSBM)
+ 218. https://www.ssbwiki.com/File:Matchup(0)7T.png
+ 219. https://www.ssbwiki.com/File:Matchup(0)7T.png
+ 220. https://www.ssbwiki.com/File:Matchup(M)7T.png
+ 221. https://www.ssbwiki.com/File:Matchup(-1)7T.png
+ 222. https://www.ssbwiki.com/File:Matchup(-1)7T.png
+ 223. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 224. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 225. https://www.ssbwiki.com/File:Matchup(0)7T.png
+ 226. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 227. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 228. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 229. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 230. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 231. https://www.ssbwiki.com/File:Matchup(0)7T.png
+ 232. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 233. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 234. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 235. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 236. https://www.ssbwiki.com/File:Matchup(+3)7T.png
+ 237. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 238. https://www.ssbwiki.com/File:Matchup(+3)7T.png
+ 239. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 240. https://www.ssbwiki.com/File:Matchup(+3)7T.png
+ 241. https://www.ssbwiki.com/File:Matchup(+3)7T.png
+ 242. https://www.ssbwiki.com/File:Matchup(+3)7T.png
+ 243. https://www.ssbwiki.com/File:Matchup(+3)7T.png
+ 244. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 245. https://www.ssbwiki.com/Soft_counter
+ 246. https://www.ssbwiki.com/Counter_(matchup)
+ 247. https://www.ssbwiki.com/Hard_counter
+ 248. https://www.ssbwiki.com/Neutral_game
+ 249. https://www.ssbwiki.com/Mario_(SSBM)
+ 250. https://www.ssbwiki.com/Zelda_(SSBM)
+ 251. https://www.ssbwiki.com/Luigi_(SSBM)
+ 252. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 253. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 254. https://www.ssbwiki.com/Sheik_(SSBM)
+ 255. https://www.ssbwiki.com/Fox_(SSBM)
+ 256. https://www.ssbwiki.com/Falco_(SSBM)
+ 257. https://www.ssbwiki.com/Falco_(SSBM)
+ 258. https://www.ssbwiki.com/Fox_(SSBM)
+ 259. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 260. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 261. https://www.ssbwiki.com/Smasher:Axe
+ 262. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=11
+ 263. https://www.ssbwiki.com/Category:Marth_professionals_(SSBM)
+ 264. https://www.ssbwiki.com/2017_SSBMRank
+ 265. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=12
+ 266. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 267. https://www.ssbwiki.com/Smasher:ARC
+ 268. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 269. https://www.ssbwiki.com/Smasher:Colbol
+ 270. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 271. https://www.ssbwiki.com/Smasher:I.B
+ 272. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 273. https://www.ssbwiki.com/Smasher:Iceman
+ 274. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 275. https://www.ssbwiki.com/Smasher:Jakenshaken
+ 276. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 277. https://www.ssbwiki.com/Smasher:Ken
+ 278. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 279. https://www.ssbwiki.com/Smasher:La_Luna
+ 280. https://www.ssbwiki.com/File:Flag_of_France.png
+ 281. https://www.ssbwiki.com/Smasher:Mahie
+ 282. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 283. https://www.ssbwiki.com/Smasher:Mango
+ 284. https://www.ssbwiki.com/Five_Gods
+ 285. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 286. https://www.ssbwiki.com/Smasher:Mew2King
+ 287. https://www.ssbwiki.com/Five_Gods
+ 288. https://www.ssbwiki.com/Smasher:PPMD
+ 289. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 290. https://www.ssbwiki.com/Smasher:PewPewU
+ 291. https://www.ssbwiki.com/Smasher:SFAT
+ 292. https://www.ssbwiki.com/File:Flag_of_Germany.png
+ 293. https://www.ssbwiki.com/Smasher:Reaper
+ 294. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 295. https://www.ssbwiki.com/Smasher:Reeve
+ 296. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 297. https://www.ssbwiki.com/Smasher:Rishi
+ 298. https://www.ssbwiki.com/File:Flag_of_Japan.png
+ 299. https://www.ssbwiki.com/Smasher:Rudolph
+ 300. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 301. https://www.ssbwiki.com/Smasher:Shroomed
+ 302. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 303. https://www.ssbwiki.com/Smasher:Tai
+ 304. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 305. https://www.ssbwiki.com/Smasher:Zain
+ 306. https://www.ssbwiki.com/Smasher:Mang0
+ 307. https://www.ssbwiki.com/Smasher:Hungrybox
+ 308. https://www.ssbwiki.com/Smasher:Plup
+ 309. https://www.ssbwiki.com/Smasher:Leffen
+ 310. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=13
+ 311. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 312. https://www.ssbwiki.com/Smasher:Azen
+ 313. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 314. https://www.ssbwiki.com/Smasher:Bob$
+ 315. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 316. https://www.ssbwiki.com/Smasher:Dart!
+ 317. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 318. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 319. https://www.ssbwiki.com/Smasher:DruggedFox
+ 320. https://www.ssbwiki.com/Final_Destination
+ 321. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 322. https://www.ssbwiki.com/Smasher:Fiction
+ 323. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 324. https://www.ssbwiki.com/Smasher:KDJ
+ 325. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 326. https://www.ssbwiki.com/Smasher:PPMD
+ 327. https://www.ssbwiki.com/Five_Gods
+ 328. https://www.ssbwiki.com/Smasher:Mew2King
+ 329. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 330. https://www.ssbwiki.com/Smasher:Taj
+ 331. https://www.ssbwiki.com/Mewtwo_(SSBM)
+ 332. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 333. https://www.ssbwiki.com/Smasher:ZoSo
+ 334. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=14
+ 335. https://www.ssbwiki.com/Metagame
+ 336. https://www.ssbwiki.com/Rolling
+ 337. https://www.ssbwiki.com/C-stick
+ 338. https://www.ssbwiki.com/Smasher:Ken
+ 339. https://www.ssbwiki.com/Tournament_Go
+ 340. https://www.ssbwiki.com/Dash-dancing
+ 341. https://www.ssbwiki.com/Chain_throwing
+ 342. https://www.ssbwiki.com/Spacing
+ 343. https://www.ssbwiki.com/Aerial
+ 344. https://www.ssbwiki.com/Ken_Combo
+ 345. https://www.ssbwiki.com/Wavedashing
+ 346. https://www.ssbwiki.com/Smasher:Azen
+ 347. https://www.ssbwiki.com/Smasher:Mew2King
+ 348. https://www.ssbwiki.com/Sheik_(SSBM)
+ 349. https://www.ssbwiki.com/Smasher:Tai
+ 350. https://www.ssbwiki.com/Smasher:PewPewU
+ 351. https://www.ssbwiki.com/Final_Destination
+ 352. https://www.ssbwiki.com/Smasher:PPMD
+ 353. http://smashboards.com/threads/kadano’s-perfect-marth-class—advanced-frame-data-application.337035/
+ 354. https://www.ssbwiki.com/Smasher:Kadano
+ 355. https://www.ssbwiki.com/Apex_2015
+ 356. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=15
+ 357. https://www.ssbwiki.com/SmashWiki:Cleanup
+ 358. https://www.ssbwiki.com/Talk:Marth_(SSBM)
+ 359. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit
+ 360. https://www.ssbwiki.com/Meteor_cancel
+ 361. https://www.ssbwiki.com/Dolphin_Slash
+ 362. https://www.ssbwiki.com/Fox_(SSBM)
+ 363. https://www.ssbwiki.com/Grab
+ 364. https://www.ssbwiki.com/Sheik_(SSBM)
+ 365. https://www.ssbwiki.com/Fire_Fox
+ 366. https://www.ssbwiki.com/Smasher:Reaper
+ 367. https://www.ssbwiki.com/Smasher:Mahie
+ 368. https://www.ssbwiki.com/Smasher:Salepate
+ 369. https://www.ssbwiki.com/Smasher:Ice
+ 370. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=16
+ 371. https://www.ssbwiki.com/Classic_Mode_(SSBM)
+ 372. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=17
+ 373. https://www.ssbwiki.com/Link_(SSBM)
+ 374. https://www.ssbwiki.com/Zelda_(SSBM)
+ 375. https://www.ssbwiki.com/Great_Bay
+ 376. https://www.ssbwiki.com/Temple
+ 377. https://www.ssbwiki.com/Adventure_Mode
+ 378. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=18
+ 379. https://www.ssbwiki.com/Underground_Maze
+ 380. https://www.ssbwiki.com/All-Star_Mode
+ 381. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=19
+ 382. https://www.ssbwiki.com/Fountain_of_Dreams
+ 383. https://www.ssbwiki.com/Event_Matches
+ 384. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=20
+ 385. https://www.ssbwiki.com/Event_40:_All-Star_Match_4
+ 386. https://www.ssbwiki.com/Temple
+ 387. https://www.ssbwiki.com/Luigi_(SSBM)
+ 388. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 389. https://www.ssbwiki.com/Mewtwo_(SSBM)
+ 390. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSBM)
+ 391. https://www.ssbwiki.com/Event_41:_En_Garde!
+ 392. https://www.ssbwiki.com/Link_(SSBM)
+ 393. https://www.ssbwiki.com/Event_46:_Fire_Emblem_Pride
+ 394. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=21
+ 395. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=22
+ 396. https://www.ssbwiki.com/Results_screen
+ 397. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=23
+ 398. https://www.ssbwiki.com/Link
+ 399. https://www.ssbwiki.com/Shield_Breaker
+ 400. https://www.ssbwiki.com/Dancing_Blade
+ 401. https://www.ssbwiki.com/Dolphin_Slash
+ 402. https://www.ssbwiki.com/Counter
+ 403. https://www.ssbwiki.com/Alternate_costume_(SSBM)#Marth
+ 404. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=24
+ 405. https://www.ssbwiki.com/File:Marth_Palette_(SSBM).png
+ 406. https://www.ssbwiki.com/Marth_(SSBM)
+ 407. https://www.ssbwiki.com/Marth_(SSBM)
+ 408. https://www.ssbwiki.com/Marth_(SSBM)
+ 409. https://www.ssbwiki.com/Marth_(SSBM)
+ 410. https://www.ssbwiki.com/Marth_(SSBM)
+ 411. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=25
+ 412. https://www.ssbwiki.com/Roy_(SSBM)
+ 413. https://www.ssbwiki.com/Princess_Peach's_Castle
+ 414. https://www.ssbwiki.com/Dash
+ 415. https://www.ssbwiki.com/Link_(SSBM)
+ 416. https://www.ssbwiki.com/Temple
+ 417. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=26
+ 418. https://www.ssbwiki.com/Roy_(SSBM)
+ 419. https://www.ssbwiki.com/Roy_(SSBM)
+ 420. https://www.ssbwiki.com/AKANEIA
+ 421. https://www.ssbwiki.com/Fountain_of_Dreams
+ 422. https://www.ssbwiki.com/Temple
+ 423. https://www.ssbwiki.com/Great_Bay
+ 424. https://www.ssbwiki.com/Roy_(SSBM)
+ 425. https://www.ssbwiki.com/Peach_(SSBM)
+ 426. https://www.ssbwiki.com/Kirby_(SSBM)
+ 427. https://www.ssbwiki.com/Roy_(SSBM)
+ 428. https://www.ssbwiki.com/SmashWiki:Citation
+ 429. https://www.ssbwiki.com/Debug_menu_(SSBM)
+ 430. https://en.wikipedia.org/wiki/Arthritis
+ 431. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit&section=27
+ 432. http://sourcegaming.info/2016/01/21/melee-marth/
+ 433. https://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/1204/index.html
+ 434. http://m.youtube.com/watch?v=IiVzSzuuv88
+ 435. https://www.ssbwiki.com/Kira
+ 436. https://www.ssbwiki.com/Template:SSBMCharacters
+ 437. https://www.ssbwiki.com/Template_talk:SSBMCharacters
+ 438. https://www.ssbwiki.com/index.php?title=Template:SSBMCharacters&action=edit
+ 439. https://www.ssbwiki.com/Characters
+ 440. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 441. https://www.ssbwiki.com/Veteran
+ 442. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 443. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+ 444. https://www.ssbwiki.com/Fox_(SSBM)
+ 445. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 446. https://www.ssbwiki.com/Kirby_(SSBM)
+ 447. https://www.ssbwiki.com/Link_(SSBM)
+ 448. https://www.ssbwiki.com/Luigi_(SSBM)
+ 449. https://www.ssbwiki.com/Mario_(SSBM)
+ 450. https://www.ssbwiki.com/Ness_(SSBM)
+ 451. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 452. https://www.ssbwiki.com/Samus_(SSBM)
+ 453. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 454. https://www.ssbwiki.com/Newcomer
+ 455. https://www.ssbwiki.com/Bowser_(SSBM)
+ 456. https://www.ssbwiki.com/Dr._Mario_(SSBM)
+ 457. https://www.ssbwiki.com/Falco_(SSBM)
+ 458. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 459. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 460. https://www.ssbwiki.com/Mewtwo_(SSBM)
+ 461. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSBM)
+ 462. https://www.ssbwiki.com/Peach_(SSBM)
+ 463. https://www.ssbwiki.com/Pichu_(SSBM)
+ 464. https://www.ssbwiki.com/Roy_(SSBM)
+ 465. https://www.ssbwiki.com/Young_Link_(SSBM)
+ 466. https://www.ssbwiki.com/Zelda_(SSBM)
+ 467. https://www.ssbwiki.com/Sheik_(SSBM)
+ 468. https://www.ssbwiki.com/Template:Fire_Emblem_universe
+ 469. https://www.ssbwiki.com/Template_talk:Fire_Emblem_universe
+ 470. https://www.ssbwiki.com/index.php?title=Template:Fire_Emblem_universe&action=edit
+ 471. https://www.ssbwiki.com/File:FireEmblemSymbol.svg
+ 472. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 473. https://www.ssbwiki.com/Character
+ 474. https://www.ssbwiki.com/Marth
+ 475. https://www.ssbwiki.com/Marth_(SSBB)
+ 476. https://www.ssbwiki.com/Marth_(SSB4)
+ 477. https://www.ssbwiki.com/Marth_(SSBU)
+ 478. https://www.ssbwiki.com/Roy
+ 479. https://www.ssbwiki.com/Roy_(SSBM)
+ 480. https://www.ssbwiki.com/Roy_(SSB4)
+ 481. https://www.ssbwiki.com/Roy_(SSBU)
+ 482. https://www.ssbwiki.com/Ike
+ 483. https://www.ssbwiki.com/Ike_(SSBB)
+ 484. https://www.ssbwiki.com/Ike_(SSB4)
+ 485. https://www.ssbwiki.com/Ike_(SSBU)
+ 486. https://www.ssbwiki.com/Lucina
+ 487. https://www.ssbwiki.com/Lucina_(SSB4)
+ 488. https://www.ssbwiki.com/Lucina_(SSBU)
+ 489. https://www.ssbwiki.com/Robin
+ 490. https://www.ssbwiki.com/Robin_(SSB4)
+ 491. https://www.ssbwiki.com/Robin_(SSBU)
+ 492. https://www.ssbwiki.com/Corrin
+ 493. https://www.ssbwiki.com/Corrin_(SSB4)
+ 494. https://www.ssbwiki.com/Corrin_(SSBU)
+ 495. https://www.ssbwiki.com/Chrom
+ 496. https://www.ssbwiki.com/Chrom_(SSBU)
+ 497. https://www.ssbwiki.com/Assist_Trophies
+ 498. https://www.ssbwiki.com/Lyn
+ 499. https://www.ssbwiki.com/Black_Knight
+ 500. https://www.ssbwiki.com/Tiki
+ 501. https://www.ssbwiki.com/Stage
+ 502. https://www.ssbwiki.com/Castle_Siege
+ 503. https://www.ssbwiki.com/Arena_Ferox
+ 504. https://www.ssbwiki.com/Coliseum
+ 505. https://www.ssbwiki.com/Item
+ 506. https://www.ssbwiki.com/Killing_Edge
+ 507. https://www.ssbwiki.com/Trophies
+ 508. https://www.ssbwiki.com/Sticker
+ 509. https://www.ssbwiki.com/Spirits_(characters)
+ 510. https://www.ssbwiki.com/List_of_SSBM_trophies_(Fire_Emblem_series)
+ 511. https://www.ssbwiki.com/List_of_SSBB_trophies_(Fire_Emblem_series)
+ 512. https://www.ssbwiki.com/List_of_SSB4_trophies_(Fire_Emblem_series)
+ 513. https://www.ssbwiki.com/List_of_stickers_(Fire_Emblem_series)
+ 514. https://www.ssbwiki.com/List_of_spirits_(Fire_Emblem_series)
+ 515. https://www.ssbwiki.com/List_of_SSBB_Music_(Fire_Emblem_series)
+ 516. https://www.ssbwiki.com/List_of_SSB4_Music_(Fire_Emblem_series)
+ 517. https://www.ssbwiki.com/List_of_SSBU_Music_(Fire_Emblem_series)
+ 518. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&oldid=1180557
+ 519. https://www.ssbwiki.com/Special:Categories
+ 520. https://www.ssbwiki.com/Category:Articles_in_need_of_cleanup
+ 521. https://www.ssbwiki.com/Category:Articles_with_unsourced_statements
+ 522. https://www.ssbwiki.com/Category:Characters_(SSBM)
+ 523. https://www.ssbwiki.com/Category:Fire_Emblem_universe
+ 524. https://www.ssbwiki.com/Category:Marth_(SSBM)
+ 525. https://www.ssbwiki.com/Category:Trophies_(SSBM)
+ 526. https://www.ssbwiki.com/Marth_(SSBM)
+ 527. https://www.ssbwiki.com/Talk:Marth_(SSBM)
+ 528. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=edit
+ 529. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=history
+ 530. https://www.ssbwiki.com/Special:MyTalk
+ 531. https://www.ssbwiki.com/Special:MyContributions
+ 532. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=Marth+(SSBM)
+ 533. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=Marth+(SSBM)
+ 534. https://www.ssbwiki.com/Main_Page
+ 535. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 536. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 537. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 538. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 539. https://www.ssbwiki.com/Super_Smash_Bros.
+ 540. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+ 541. https://www.ssbwiki.com/Stage
+ 542. https://www.ssbwiki.com/Mode
+ 543. https://www.ssbwiki.com/Item
+ 544. https://www.ssbwiki.com/Special:Random
+ 545. https://www.ssbwiki.com/Forum:Index
+ 546. https://www.ssbwiki.com/SmashWiki:Community_portal
+ 547. https://www.ssbwiki.com/Special:RecentChanges
+ 548. https://www.ssbwiki.com/Help:Contents
+ 549. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
+ 550. https://www.ssbwiki.com/SmashWiki:Discord_server
+ 551. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
+ 552. https://www.ssbwiki.com/Special:WhatLinksHere/Marth_(SSBM)
+ 553. https://www.ssbwiki.com/Special:RecentChangesLinked/Marth_(SSBM)
+ 554. https://www.ssbwiki.com/Special:SpecialPages
+ 555. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&printable=yes
+ 556. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&oldid=1180557
+ 557. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&action=info
+ 558. https://creativecommons.org/licenses/by-sa/3.0/
+ 559. https://www.mediawiki.org/
+ 560. https://creativecommons.org/licenses/by-sa/3.0/
+ 561. https://www.porplemontage.com/privacy
+ 562. https://www.ssbwiki.com/SmashWiki:About
+ 563. https://www.ssbwiki.com/SmashWiki:General_disclaimer
+ 564. https://www.ssbwiki.com/index.php?title=Marth_(SSBM)&mobileaction=toggle_view_mobile
+
+   Hidden links:
+ 566. https://www.ssbwiki.com/File:MarthGimpTaj.gif
+ 567. https://www.ssbwiki.com/File:MarthGimpTaj.gif
+ 568. https://www.ssbwiki.com/File:MarthAerialAttacksSSBM.png
+ 569. https://www.ssbwiki.com/File:MarthAerialAttacksSSBM.png
+ 570. https://www.ssbwiki.com/File:FireEmblemThemeMelee.ogg
+ 571. https://www.ssbwiki.com/File:FireEmblemThemeMelee.ogg
+ 572. https://www.ssbwiki.com/File:MarthClassicMode.jpg
+ 573. https://www.ssbwiki.com/File:MarthAdventureMode.jpg
+ 574. https://www.ssbwiki.com/File:MarthAllStarMode.jpg
+ 575. https://www.ssbwiki.com/File:Marth_Trophy_Melee.png
+ 576. https://www.ssbwiki.com/File:Marth_Trophy_(Smash).png
+ 577. https://www.ssbwiki.com/File:Marth_Trophy_(Smash_2).png
+ 578. https://www.ssbwiki.com/File:SSBM_Marth_HQ.png
+ 579. https://www.ssbwiki.com/File:RoyClassicMode.jpg
+ 580. https://www.ssbwiki.com/File:RoyAllStarMode.jpg
+ 581. https://www.ssbwiki.com/Main_Page

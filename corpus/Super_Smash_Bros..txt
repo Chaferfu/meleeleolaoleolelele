@@ -1,0 +1,759 @@
+   #[1]Edit this page [2]SmashWiki (en) [3]SmashWiki Atom feed
+
+Super Smash Bros.
+
+   From SmashWiki, the Super Smash Bros. wiki
+   Jump to:[4]navigation, [5]search
+   [6]SSB64 Icon.png [7]This is a featured article. Click for more information.
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        “ Something's gone wrong in the happy-go-lucky world of Nintendo! ”
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            —North American commercial
+
+          For the articles about the series and universe respectively, see [8]Super Smash Bros. (series) and [9]Super Smash Bros. (universe).
+
+   Super Smash Bros.
+   [10]SSB64 box.png
+   [11]Developer(s) [12]HAL Laboratory, Inc.
+   [13]Publisher(s) [14]Nintendo
+   [15]Designer(s) [16]Masahiro Sakurai
+   Released [17]Nintendo 64:
+   [18]Japan January 21, 1999
+   [19]North America April 26, 1999
+   [20]Europe November 19, 1999
+   [21]iQue Player:
+   [22]China November 15, 2005
+   [23]Virtual Console:
+   [24]Japan January 20, 2009
+   [25]Europe June 12, 2009
+   [26]North America December 21, 2009
+   [27]Genre(s) [28]Fighting game
+   [29]Platforming
+   Mode(s) [30]Single-player, [31]multiplayer (2-4)
+   [32]Ratings [33]ESRB: E
+   [34]PEGI: 7
+   [35]OFLC: G8+
+   [36]Platform(s) [37]Nintendo 64
+   [38]iQue Player
+   [39]Virtual Console
+   Media 128 megabit [40]cartridge
+   [41]Flash Card (China)
+
+   Super Smash Bros., released in Japan as Nintendo All Star! Dairantō Smash Brothers (ニンテンドウオールスター! 大乱闘スマッシュブラザーズ, Nintendo All-Star! Great Fray Smash Brothers), often shortened to "SSB", retronymously "Smash 64" or "SSB64", is the first game of the [42]Super Smash Bros. series.
+
+   The game released in Japan on January 21st, 1999, in North America on April 26th, 1999, and in Europe on November 19th, 1999. The game is playable on [43]Nintendo 64, and is available on the [44]Wii's [45]Virtual Console. It was later released on the [46]iQue Player in China on November 15, 2005. The Virtual Console version released on January 20th, 2009 in Japan, a day before its 10-year anniversary, and later, 2009 in Europe and North America, respectively. Since the Wii Shop Channel in its entirety has been is discontinued, the only way to obtain the game now is by purchasing a used copy.
+
+Contents
+
+     * [47]1 Opening movie
+     * [48]2 Characters
+     * [49]3 Stages
+          + [50]3.1 Stages
+          + [51]3.2 1P Game-only stages
+          + [52]3.3 Non-playable stages
+     * [53]4 Modes
+          + [54]4.1 1-Player
+          + [55]4.2 Multi-player
+     * [56]5 Tournament play
+     * [57]6 Development
+     * [58]7 Reception
+     * [59]8 Gallery
+     * [60]9 Differences from later Super Smash Bros. games
+     * [61]10 Trivia
+     * [62]11 External links
+     * [63]12 References
+
+Opening movie[[64]edit]
+
+   The [65]opening movie in Super Smash Bros., unlike later games in the Super Smash Bros. series, completely lacks pre-rendered footage, instead opting to render everything in real-time.
+
+   When the opening movie starts, two random [66]starter characters are chosen to be placed by [67]Master Hand on top of a desk, which transitions to a scenery resembling [68]Peach's Castle. This process is repeated every time the opening movie is played.
+
+   At the end of the opening movie, the figures of the four [69]unlockable characters are quickly shown against a white background. If a character hasn't been unlocked, it will simply be shown as a silhouette; reversely, they will be deobfuscated once unlocked.
+
+   After this, the opening movie directly segues into the title screen, a trend which would be followed by future installments, along with the [70]announcer calling out the game's title.
+
+   IFRAME: [71]https://www.youtube.com/embed/cYvoDkIS7e4?
+
+Characters[[72]edit]
+
+   Official artwork of the default cast of Smash 64.
+   The character-selection screen of Super Smash Bros. (all characters unlocked).
+
+   There are twelve playable [73]characters in Super Smash Bros., eight of which are available from the [74]start, and four of which are [75]unlockable.
+
+   The most amount of slots are given to the [76]Mario and [77]Pokémon universes with each getting two characters: [78]Mario alongside his brother [79]Luigi, and [80]Pikachu and [81]Jigglypuff, respectively, with the latter characters in both universes being unlockable.
+
+   Two more slots are given to reoccurring Mario characters [82]Donkey Kong and [83]Yoshi as representatives of their sub-universes, [84]Donkey Kong and [85]Yoshi respectively.
+
+   The remaining starter characters are [86]Link, [87]Samus, [88]Kirby and [89]Fox from [90]The Legend of Zelda, [91]Metroid, [92]Kirby and [93]Star Fox universes respectively. Along with Luigi and Jigglypuff, two more characters are unlockable, being [94]Ness and [95]Captain Falcon from the [96]EarthBound and [97]F-Zero universes respectively.
+                                             Newcomers (12)
+   [98]Luigi SSB.png
+   [99]Luigi
+   [100]MarioSymbol(preBrawl).svg [101]Mario SSB.png
+   [102]Mario
+   [103]MarioSymbol(preBrawl).svg [104]Donkey Kong SSB.png
+   [105]Donkey Kong
+   [106]DKSymbol(preBrawl).svg [107]Link SSB.png
+   [108]Link
+   [109]ZeldaSymbol.svg [110]Samus SSB.png
+   [111]Samus
+   [112]MetroidSymbol(preBrawl).svg [113]Captain Falcon SSB.png
+   [114]Captain Falcon
+   [115]FZeroSymbol.svg
+   [116]Ness SSB.png
+   [117]Ness
+   [118]EarthboundSymbol(preBrawl).svg [119]Yoshi SSB.png
+   [120]Yoshi
+   [121]YoshiSymbol(preBrawl).svg [122]Kirby SSB.png
+   [123]Kirby
+   [124]KirbySymbol.svg [125]Fox SSB.png
+   [126]Fox
+   [127]StarFoxSymbol(preBrawl).svg [128]Pikachu SSB.png
+   [129]Pikachu
+   [130]PokemonSymbol(preBrawl).svg [131]Jigglypuff SSB.png
+   [132]Jigglypuff
+   [133]PokemonSymbol(preBrawl).svg
+
+   Bold denotes [134]unlockable characters.
+
+Stages[[135]edit]
+
+   The stages of Super Smash Bros.
+
+[136]Stages[[137]edit]
+
+                                             Stages
+   [138]PeachCastleSSB.jpg
+   [139]Peach's Castle
+   [140]MarioSymbol(preBrawl).svg [141]CongoJungle.png
+   [142]Congo Jungle
+   [143]DKSymbol(preBrawl).svg [144]HyruleCastleSSB.png
+   [145]Hyrule Castle
+   [146]ZeldaSymbol.svg [147]PlanetZebesSSB.png
+   [148]Planet Zebes
+   [149]MetroidSymbol(preBrawl).svg [150]MushroomKingdom64.jpg
+   [151]Mushroom Kingdom
+   [152]MarioSymbol(preBrawl).svg
+   [153]YoshisStorySSB.png
+   [154]Yoshi's Island
+   [155]YoshiSymbol(preBrawl).svg [156]DreamLandSSB.png
+   [157]Dream Land
+   [158]KirbySymbol.svg [159]SectorZSSB.png
+   [160]Sector Z
+   [161]StarFoxSymbol(preBrawl).svg [162]SaffronCitySSB.png
+   [163]Saffron City
+   [164]PokemonSymbol(preBrawl).svg
+
+   Shown in bold, Mushroom Kingdom is the only unlockable stage in Super Smash Bros.
+
+1P Game-only stages[[165]edit]
+
+                                                              1P Game-only stages
+   [166]Mario Target Smash SSB.jpg
+   [167]Break the Targets
+   [168]SmashBrosSymbol.svg [169]Mario's board the platforms.jpg
+   [170]Board the Platforms
+   [171]SmashBrosSymbol.svg [172]MetaCrystal.png
+   [173]Meta Crystal
+   [174]MetalMarioSymbol.svg [175]SmashBrosSymbol.svg [176]Rttf64.JPG
+   [177]Race to the Finish
+   [178]SmashBrosSymbol.svg [179]Battlefield 64.png
+   [180]Battlefield
+   [181]SmashBrosSymbol.svg [182]FinalDestinationSSB.png
+   [183]Final Destination
+   [184]SmashBrosSymbol.svg
+
+   These stages only appear in the 1P Game.
+
+Non-playable stages[[185]edit]
+
+                                                    Non-playable stages
+   [186]KirbyBeta1N64.png
+   [187]Small
+   [188]KirbySymbol.svg [189]SmashBrosSymbol.svg [190]KirbyBeta2.png
+   [191]New
+   [192]KirbySymbol.svg [193]SmashBrosSymbol.svg [194]Tutorial Stage SSB.png
+   [195]Tutorial Stage
+   [196]KirbySymbol.svg [197]SmashBrosSymbol.svg
+
+   These stages cannot be unlocked or played on in any way without hacking.
+
+Modes[[198]edit]
+
+1-Player[[199]edit]
+
+     * [200]1P Game
+     * [201]Training mode
+     * [202]Break the Targets
+     * [203]Board the Platforms
+
+Multi-player[[204]edit]
+
+     * [205]Versus Mode
+
+[206]Tournament play[[207]edit]
+
+   Main article: [208]Tournament legal (SSB)
+
+   Unlike its successors, Super Smash Bros. never enjoyed a large professional competitive scene in North America. However, interest in the game has been renewed in recent years with the popularity of its sequels. Players can play Super Smash Bros. online through [209]Kaillera using the [210]Project64k emulator. Recently, there have been more and more tournaments of Super Smash Bros. due to an influx of new players. Most Super Smash Bros. tournaments are paired up with Melee events and most (offline) SSB tournaments are located in California, Canada, New Jersey or Peru.
+
+   The standard tournament rules differ little from that of Melee. The most common standard tournament rules are as follows:
+     * The required number of victories to win are generally the best of 3 matches; the only exceptions are finals, in which the number of matches is 5 or 7.
+     * Double eliminations are in place.
+     * 4 [211]stock with a 8-minute time limit, if it is possible; the original game does not support placing a time limit on stock matches, but emulators and [212]mods can implement one.
+     * [213]Items are disabled.
+     * [214]Handicaps are off.
+     * The first match is played on Dream Land.
+
+     * For the first match, characters are chosen double-blind - at the same time, so that neither player knows their opponent's character beforehand.
+     * Players may re-pick [215]characters after each match. However, the loser of each match gets to pick last (known as slob picks).
+
+Development[[216]edit]
+
+   [217]Masahiro Sakurai was interested in making a fighting game for four players. His initial design for the game was called Kakuto-Geemu Ryuoh ([218]Dragon King: The Fighting Game)^[219][1], which featured simple characters. After presenting the game to co-worker [220]Satoru Iwata, he helped Sakurai continue on with the project. Sakurai understood that many fighting games did not sell well, so he tried to make his game original.^[221][1] His first idea was to include famous Nintendo characters and put them into the fray.^[222][1] Knowing he would not get permission to do so, Sakurai created a prototype of the game without sanction from Nintendo and did not inform them until he was sure the game was well-balanced.^[223][1] The prototype he presented featured [224]Mario, [225]Donkey Kong, [226]Samus Aran, and [227]Fox McCloud as playable characters. The idea was later approved.^[228][1]^[229][2]
+
+   Super Smash Bros. features music from some of Nintendo's most popular gaming franchises. While many tracks are new arrangements for the game, some songs are taken directly from their sources. The music for Super Smash Bros. was composed by Hirokazu Ando, who later returned as sound and music director for [230]Super Smash Bros. Melee. A [231]complete soundtrack was released on CD in Japan through Teichiku Records in 2001.^[232][3]
+
+Reception[[233]edit]
+
+             SSB reviews
+    Publication   Score
+   Famitsu        31 of 40^[234][4]
+   GameSpot       7.5 of 10^[235][5]
+   IGN            8.5 of 10^[236][6]
+   Nintendo Power 7.7 of 10^[237][7]
+   Compilations of multiple reviews
+   Metacritic     79 of 100^[238][8]
+   Game Rankings  78.81%^[239][7]
+                Awards
+   IGN "Best Fighting Game"
+
+   Super Smash Bros. was a commercial success, selling 5 million copies worldwide with 2.93 million sold in the United States and 1.97 million copies sold in Japan. It was the 5th best selling game for the [240]Nintendo 64. Reviews were mostly positive, with many critics praising the game's addictive and fun multiplayer gameplay and simple controls, but it was criticized as well, mainly due to the game's lack of content and somewhat limited single player mode.
+
+Gallery[[241]edit]
+
+     * English logo.
+     * Super Smash Bros. U.S. box art (Player's Choice version)
+     * Super Smash Bros. Japanese box art
+     * Super Smash Bros. PAL box art
+     * Super Smash Bros. Chinese box art
+     * Group artwork
+     * Group artwork depicting [242]Kirby, [243]Mario, [244]Fox and [245]Link, including some items like [246]Bob-omb, [247]Star Rod and the [248]Fan.
+     * English title screen
+     * Japanese title screen
+     * Chinese title screen
+
+Differences from later Super Smash Bros. games[[249]edit]
+
+   Super Smash Bros. is the only game in the series with the following distinctions:
+     * Using the phrases "Game Set" and "Time Up" in matches in all regions. Later games use the phrases "Game!" and "Time!" in the English version, while each one still uses "Game Set" and "Time Up" in the Japanese version.
+     * Lacking stages from the [250]F-Zero and [251]EarthBound universes.
+     * Introducing new characters from the [252]Yoshi and [253]F-Zero universes.
+     * Not having [254]Bowser as the heaviest character, as he did not make his first playable appearance until Melee. Rather, the heaviest character is [255]Donkey Kong.
+     * Featuring only playable protagonists. However, two characters had previously appeared as antagonists -- [256]Donkey Kong in [257]Donkey Kong, its [258]Game & Watch counterpart, Donkey Kong 3 and Donkey Kong (Game Boy), and [259]Mario in Donkey Kong Jr. and Donkey Kong Circus.
+     * Being rated "E" for Everyone by the ESRB, as its successors [260]Super Smash Bros. Melee and [261]Super Smash Bros. Brawl would be rated "T" for Teen, and [262]Super Smash Bros. 4 and [263]Super Smash Bros. Ultimate would be rated "E10+" for players who are aged ten and over. As a result, it is also the only game not to share its ESRB rating with another game in the franchise.
+     * Showing the stage's 3D model when highlighted on the Stage Selection screen, as well as restricting the cursor to the squares depicting the stage.
+     * Not having Battlefield and Final Destination as normally playable stages.
+     * Not allowing characters to grab ledges from behind in any way.
+     * Not include [264]Side special moves moves, as these would be added in later games.
+
+Trivia[[265]edit]
+
+     * The starting eight characters are placed in the order of when they first appeared in their respective debut titles on the character selection screen, starting with the oldest, [266]Mario and [267]Donkey Kong, and ending with the most recent, [268]Pikachu. This same order is used when listing the cast of the original Super Smash Bros. in later games, such as when organizing [269]trophies. This chronological ordering also applies to the four unlockable characters on the character selection screen, though this is only relative to each other and not the other characters.
+     * Super Smash Bros. marks the first appearances of [270]Samus, [271]Kirby, and [272]Ness in 3D.
+          + Additionally, this game is the only [273]Nintendo 64 title in which Samus or Ness appears.
+     * This game has the least amount of [274]unlockable characters, at four, and also has the least amount of [275]unlockable stages (out of games that have them), at [276]one.
+     * This game is one of two that uses 2D illustrations on the box art, alongside [277]Super Smash Bros. Ultimate.
+     * If the player achieves No Miss x11 at the end of classic mode, on the victory screen the announcer will say "Incredible!" instead of congratulations.
+
+External links[[278]edit]
+
+     * [279]Official Japanese Super Smash Bros. website
+     * [280]Official English Super Smash Bros. website (archived)
+     * [281]Official Japanese Virtual Console Super Smash Bros. website
+     * [282]Official European Super Smash Bros. game page
+     * [283]Official North American Virtual Console Super Smash Bros. game page
+     * [284]Official Chinese Super Smash Bros. website
+
+References[[285]edit]
+
+    1. ↑ ^[286]1.0 ^[287]1.1 ^[288]1.2 ^[289]1.3 ^[290]1.4 [291]Iwata Asks: Super Smash Bros. Brawl. Nintendo. Retrieved on 2008-01-31.
+    2. [292]↑ [293]社長が訊く『大乱闘スマッシュブラザーズX』 (Japanese). Nintendo. Retrieved on 2008-01-31.
+    3. [294]↑ [295]Nintendo All-Star! Dairanto Smash Brothers Original Soundtrack. Soundtrack Central (2002-01-17). Retrieved on 2008-04-16.
+    4. [296]↑ ニンテンドウ64 - ニンテンドウオールスター!大乱闘スマッシュブラザーズ. Weekly Famitsu. No.915 Pt.2. Pg.32. 30 June 2006.
+    5. [297]↑ Gerstmann, Jeff (1999-02-18). [298]Super Smash Bros. Review. GameSpot. Retrieved on 2008-04-26.
+    6. [299]↑ Schneider, Peer (1999-04-27). [300]Super Smash Bros. Review. IGN. Retrieved on 2008-04-26.
+    7. ↑ ^[301]7.0 ^[302]7.1 [303]Super Smash Bros. Reviews. GameRankings. Retrieved on 2013-07-14.
+    8. [304]↑ [305]Super Smash Bros. (n64: 1999): Reviews. Metacritic. Retrieved on 2013-07-14.
+
+   [306]v • [307]d • [308]e
+   [309]Super Smash Bros. series
+   Super Smash Bros. · [310]Super Smash Bros. Melee · [311]Super Smash Bros. Brawl · [312]Super Smash Bros. 4 ([313]for Nintendo 3DS · [314]for Wii U  · [315]Smash Controller)  · [316]Super Smash Bros. Ultimate
+
+   WikipediaSymbol.svg This page uses content from [317]Wikipedia. The original article was at [318]Super Smash Bros.. The list of authors can be seen in [319]their page's history. As with [320]SmashWiki, the text of Wikipedia is available under the [321]Creative Commons Attribution-ShareAlike 3.0 Unported Licence.
+   Ads keep SmashWiki independent and free :)
+   Retrieved from "[322]https://www.ssbwiki.com/index.php?title=Super_Smash_Bros.&oldid=1181838"
+   [323]Categories:
+     * [324]Featured Articles
+     * [325]Games
+     * [326]Super Smash Bros.
+     * [327]Super Smash Bros. universe
+     * [328]Super Smash Bros. series
+
+Navigation menu
+
+Views
+
+     * [329]Article
+     * [330]Discussion
+     * [331]Edit this page
+     * [332]History
+
+Personal tools
+
+     * Not logged in
+     * [333]Talk
+     * [334]Contributions
+     * [335]Create account
+     * [336]Log in
+
+Navigation
+
+     * [337]Main page
+     * [338]Smash Bros. Ultimate
+     * [339]Smash Bros. 4
+     * [340]Smash Bros. Brawl
+     * [341]Smash Bros. Melee
+     * [342]Smash Bros. (64)
+     * [343]Characters
+     * [344]Stages
+     * [345]Modes
+     * [346]Items
+     * [347]Random page
+
+Search
+
+   ____________________ Go  Search
+
+Participate
+
+     * [348]Forum
+     * [349]Community portal
+     * [350]Recent changes
+     * [351]Help
+     * [352]Admin noticeboard
+     * [353]Discord server
+     * [354]YouTube channel
+
+Tools
+
+     * [355]What links here
+     * [356]Related changes
+     * [357]Special pages
+     * [358]Printable version
+     * [359]Permanent link
+     * [360]Page information
+
+In other languages
+
+     * [361]Español
+
+   [362]Attribution-Share Alike 3.0 Unported
+   [363]Powered by MediaWiki
+     * This page was last edited on 31 January 2019, at 23:48.
+     * Content is available under [364]Attribution-Share Alike 3.0 Unported unless otherwise noted.
+     * [365]Privacy policy
+     * [366]About SmashWiki
+     * [367]Disclaimers
+     * [368]Mobile view
+
+References
+
+   Visible links
+   1. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros.&action=edit
+   2. https://www.ssbwiki.com/opensearch_desc.php
+   3. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&feed=atom
+   4. https://www.ssbwiki.com/Super_Smash_Bros.#column-one
+   5. https://www.ssbwiki.com/Super_Smash_Bros.#searchInput
+   6. https://www.ssbwiki.com/Super_Smash_Bros.
+   7. https://www.ssbwiki.com/SmashWiki:Featured_content
+   8. https://www.ssbwiki.com/Super_Smash_Bros._(series)
+   9. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+  10. https://www.ssbwiki.com/File:SSB64_box.png
+  11. https://en.wikipedia.org/wiki/Video_game_developer
+  12. https://www.ssbwiki.com/HAL_Laboratory
+  13. https://en.wikipedia.org/wiki/Video_game_publisher
+  14. https://www.ssbwiki.com/Nintendo
+  15. https://en.wikipedia.org/wiki/Game_designer
+  16. https://www.ssbwiki.com/Masahiro_Sakurai
+  17. https://www.ssbwiki.com/Nintendo_64
+  18. https://www.ssbwiki.com/File:Flag_of_Japan.png
+  19. https://www.ssbwiki.com/File:Flag_of_North_America.png
+  20. https://www.ssbwiki.com/File:Flag_of_Europe.png
+  21. https://www.ssbwiki.com/IQue_Player
+  22. https://www.ssbwiki.com/File:Flag_of_China.png
+  23. https://www.ssbwiki.com/Virtual_Console
+  24. https://www.ssbwiki.com/File:Flag_of_Japan.png
+  25. https://www.ssbwiki.com/File:Flag_of_Europe.png
+  26. https://www.ssbwiki.com/File:Flag_of_North_America.png
+  27. https://en.wikipedia.org/wiki/Video_game_genres
+  28. https://en.wikipedia.org/wiki/Fighting_game
+  29. https://en.wikipedia.org/wiki/Platform_game
+  30. https://en.wikipedia.org/wiki/Single-player
+  31. https://en.wikipedia.org/wiki/Multiplayer_video_game
+  32. https://en.wikipedia.org/wiki/Video_game_content_rating_system
+  33. https://en.wikipedia.org/wiki/Entertainment_Software_Rating_Board
+  34. https://en.wikipedia.org/wiki/Pan_European_Game_Information
+  35. https://en.wikipedia.org/wiki/Office_of_Film_and_Literature_Classification_(Australia)
+  36. https://en.wikipedia.org/wiki/Video_game#Platforms
+  37. https://www.ssbwiki.com/Nintendo_64
+  38. https://www.ssbwiki.com/IQue_Player
+  39. https://www.ssbwiki.com/Virtual_Console
+  40. https://en.wikipedia.org/wiki/Cartridge_(electronics)
+  41. https://en.wikipedia.org/wiki/Flash_memory
+  42. https://www.ssbwiki.com/Super_Smash_Bros._(series)
+  43. https://www.ssbwiki.com/Nintendo_64
+  44. https://www.ssbwiki.com/Wii
+  45. https://www.ssbwiki.com/Virtual_Console
+  46. https://www.ssbwiki.com/IQue_Player
+  47. https://www.ssbwiki.com/Super_Smash_Bros.#Opening_movie
+  48. https://www.ssbwiki.com/Super_Smash_Bros.#Characters
+  49. https://www.ssbwiki.com/Super_Smash_Bros.#Stages
+  50. https://www.ssbwiki.com/Super_Smash_Bros.#Stages_2
+  51. https://www.ssbwiki.com/Super_Smash_Bros.#1P_Game-only_stages
+  52. https://www.ssbwiki.com/Super_Smash_Bros.#Non-playable_stages
+  53. https://www.ssbwiki.com/Super_Smash_Bros.#Modes
+  54. https://www.ssbwiki.com/Super_Smash_Bros.#1-Player
+  55. https://www.ssbwiki.com/Super_Smash_Bros.#Multi-player
+  56. https://www.ssbwiki.com/Super_Smash_Bros.#Tournament_play
+  57. https://www.ssbwiki.com/Super_Smash_Bros.#Development
+  58. https://www.ssbwiki.com/Super_Smash_Bros.#Reception
+  59. https://www.ssbwiki.com/Super_Smash_Bros.#Gallery
+  60. https://www.ssbwiki.com/Super_Smash_Bros.#Differences_from_later_Super_Smash_Bros._games
+  61. https://www.ssbwiki.com/Super_Smash_Bros.#Trivia
+  62. https://www.ssbwiki.com/Super_Smash_Bros.#External_links
+  63. https://www.ssbwiki.com/Super_Smash_Bros.#References
+  64. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros.&action=edit&section=1
+  65. https://www.ssbwiki.com/Opening_movie
+  66. https://www.ssbwiki.com/Starter_character
+  67. https://www.ssbwiki.com/Master_Hand_(SSB)
+  68. https://www.ssbwiki.com/Peach's_Castle
+  69. https://www.ssbwiki.com/Unlockable_character
+  70. https://www.ssbwiki.com/Announcer
+  71. https://www.youtube.com/embed/cYvoDkIS7e4?
+  72. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros.&action=edit&section=2
+  73. https://www.ssbwiki.com/Character
+  74. https://www.ssbwiki.com/Starter_character
+  75. https://www.ssbwiki.com/Unlockable_character
+  76. https://www.ssbwiki.com/Mario_(universe)
+  77. https://www.ssbwiki.com/Pokémon_(universe)
+  78. https://www.ssbwiki.com/Mario
+  79. https://www.ssbwiki.com/Luigi
+  80. https://www.ssbwiki.com/Pikachu
+  81. https://www.ssbwiki.com/Jigglypuff
+  82. https://www.ssbwiki.com/Donkey_Kong
+  83. https://www.ssbwiki.com/Yoshi
+  84. https://www.ssbwiki.com/Donkey_Kong_(universe)
+  85. https://www.ssbwiki.com/Yoshi_(universe)
+  86. https://www.ssbwiki.com/Link
+  87. https://www.ssbwiki.com/Samus
+  88. https://www.ssbwiki.com/Kirby
+  89. https://www.ssbwiki.com/Fox
+  90. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+  91. https://www.ssbwiki.com/Metroid_(universe)
+  92. https://www.ssbwiki.com/Kirby_(universe)
+  93. https://www.ssbwiki.com/Star_Fox_(universe)
+  94. https://www.ssbwiki.com/Ness
+  95. https://www.ssbwiki.com/Captain_Falcon
+  96. https://www.ssbwiki.com/EarthBound_(universe)
+  97. https://www.ssbwiki.com/F-Zero_(universe)
+  98. https://www.ssbwiki.com/Luigi_(SSB)
+  99. https://www.ssbwiki.com/Luigi_(SSB)
+ 100. https://www.ssbwiki.com/Mario_(universe)
+ 101. https://www.ssbwiki.com/Mario_(SSB)
+ 102. https://www.ssbwiki.com/Mario_(SSB)
+ 103. https://www.ssbwiki.com/Mario_(universe)
+ 104. https://www.ssbwiki.com/Donkey_Kong_(SSB)
+ 105. https://www.ssbwiki.com/Donkey_Kong_(SSB)
+ 106. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 107. https://www.ssbwiki.com/Link_(SSB)
+ 108. https://www.ssbwiki.com/Link_(SSB)
+ 109. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 110. https://www.ssbwiki.com/Samus_(SSB)
+ 111. https://www.ssbwiki.com/Samus_(SSB)
+ 112. https://www.ssbwiki.com/Metroid_(universe)
+ 113. https://www.ssbwiki.com/Captain_Falcon_(SSB)
+ 114. https://www.ssbwiki.com/Captain_Falcon_(SSB)
+ 115. https://www.ssbwiki.com/F-Zero_(universe)
+ 116. https://www.ssbwiki.com/Ness_(SSB)
+ 117. https://www.ssbwiki.com/Ness_(SSB)
+ 118. https://www.ssbwiki.com/EarthBound_(universe)
+ 119. https://www.ssbwiki.com/Yoshi_(SSB)
+ 120. https://www.ssbwiki.com/Yoshi_(SSB)
+ 121. https://www.ssbwiki.com/Yoshi_(universe)
+ 122. https://www.ssbwiki.com/Kirby_(SSB)
+ 123. https://www.ssbwiki.com/Kirby_(SSB)
+ 124. https://www.ssbwiki.com/Kirby_(universe)
+ 125. https://www.ssbwiki.com/Fox_(SSB)
+ 126. https://www.ssbwiki.com/Fox_(SSB)
+ 127. https://www.ssbwiki.com/Star_Fox_(universe)
+ 128. https://www.ssbwiki.com/Pikachu_(SSB)
+ 129. https://www.ssbwiki.com/Pikachu_(SSB)
+ 130. https://www.ssbwiki.com/Pokémon_(universe)
+ 131. https://www.ssbwiki.com/Jigglypuff_(SSB)
+ 132. https://www.ssbwiki.com/Jigglypuff_(SSB)
+ 133. https://www.ssbwiki.com/Pokémon_(universe)
+ 134. https://www.ssbwiki.com/Unlockable_character#Super_Smash_Bros.
+ 135. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros.&action=edit&section=3
+ 136. https://www.ssbwiki.com/Stages
+ 137. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros.&action=edit&section=4
+ 138. https://www.ssbwiki.com/Peach's_Castle
+ 139. https://www.ssbwiki.com/Peach's_Castle
+ 140. https://www.ssbwiki.com/Mario_(universe)
+ 141. https://www.ssbwiki.com/Kongo_Jungle_(SSB)
+ 142. https://www.ssbwiki.com/Kongo_Jungle_(SSB)
+ 143. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 144. https://www.ssbwiki.com/Hyrule_Castle
+ 145. https://www.ssbwiki.com/Hyrule_Castle
+ 146. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 147. https://www.ssbwiki.com/Planet_Zebes
+ 148. https://www.ssbwiki.com/Planet_Zebes
+ 149. https://www.ssbwiki.com/Metroid_(universe)
+ 150. https://www.ssbwiki.com/Mushroom_Kingdom_(SSB)
+ 151. https://www.ssbwiki.com/Mushroom_Kingdom_(SSB)
+ 152. https://www.ssbwiki.com/Mario_(universe)
+ 153. https://www.ssbwiki.com/Yoshi's_Island_(SSB)
+ 154. https://www.ssbwiki.com/Yoshi's_Island_(SSB)
+ 155. https://www.ssbwiki.com/Yoshi_(universe)
+ 156. https://www.ssbwiki.com/Dream_Land_(SSB)
+ 157. https://www.ssbwiki.com/Dream_Land_(SSB)
+ 158. https://www.ssbwiki.com/Kirby_(universe)
+ 159. https://www.ssbwiki.com/Sector_Z
+ 160. https://www.ssbwiki.com/Sector_Z
+ 161. https://www.ssbwiki.com/Star_Fox_(universe)
+ 162. https://www.ssbwiki.com/Saffron_City
+ 163. https://www.ssbwiki.com/Saffron_City
+ 164. https://www.ssbwiki.com/Pokémon_(universe)
+ 165. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros.&action=edit&section=5
+ 166. https://www.ssbwiki.com/Break_the_Targets
+ 167. https://www.ssbwiki.com/Break_the_Targets
+ 168. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 169. https://www.ssbwiki.com/Board_the_Platforms
+ 170. https://www.ssbwiki.com/Board_the_Platforms
+ 171. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 172. https://www.ssbwiki.com/Meta_Crystal
+ 173. https://www.ssbwiki.com/Meta_Crystal
+ 174. https://www.ssbwiki.com/Mario_(universe)
+ 175. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 176. https://www.ssbwiki.com/Race_to_the_Finish_(SSB)
+ 177. https://www.ssbwiki.com/Race_to_the_Finish_(SSB)
+ 178. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 179. https://www.ssbwiki.com/Battlefield_(SSB)
+ 180. https://www.ssbwiki.com/Battlefield_(SSB)
+ 181. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 182. https://www.ssbwiki.com/Final_Destination_(SSB)
+ 183. https://www.ssbwiki.com/Final_Destination_(SSB)
+ 184. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 185. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros.&action=edit&section=6
+ 186. https://www.ssbwiki.com/Kirby_Beta_Stage_1
+ 187. https://www.ssbwiki.com/Small
+ 188. https://www.ssbwiki.com/Kirby_(universe)
+ 189. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 190. https://www.ssbwiki.com/Kirby_Beta_Stage_2
+ 191. https://www.ssbwiki.com/New
+ 192. https://www.ssbwiki.com/Kirby_(universe)
+ 193. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 194. https://www.ssbwiki.com/Tutorial_Stage
+ 195. https://www.ssbwiki.com/Tutorial_Stage
+ 196. https://www.ssbwiki.com/Kirby_(universe)
+ 197. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 198. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros.&action=edit&section=7
+ 199. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros.&action=edit&section=8
+ 200. https://www.ssbwiki.com/1P_Game
+ 201. https://www.ssbwiki.com/Training_mode
+ 202. https://www.ssbwiki.com/Target_Test
+ 203. https://www.ssbwiki.com/Board_the_Platforms
+ 204. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros.&action=edit&section=9
+ 205. https://www.ssbwiki.com/Versus_Mode
+ 206. https://www.ssbwiki.com/Tournament
+ 207. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros.&action=edit&section=10
+ 208. https://www.ssbwiki.com/Tournament_legal_(SSB)
+ 209. https://en.wikipedia.org/wiki/Kaillera
+ 210. https://www.ssbwiki.com/Project64k
+ 211. https://www.ssbwiki.com/Stock
+ 212. https://www.ssbwiki.com/Mod
+ 213. https://www.ssbwiki.com/Items
+ 214. https://www.ssbwiki.com/Handicap
+ 215. https://www.ssbwiki.com/Character
+ 216. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros.&action=edit&section=11
+ 217. https://www.ssbwiki.com/Masahiro_Sakurai
+ 218. https://www.ssbwiki.com/Dragon_King:_The_Fighting_Game
+ 219. https://www.ssbwiki.com/Super_Smash_Bros.#cite_note-Hobby-1
+ 220. https://www.ssbwiki.com/Satoru_Iwata
+ 221. https://www.ssbwiki.com/Super_Smash_Bros.#cite_note-Hobby-1
+ 222. https://www.ssbwiki.com/Super_Smash_Bros.#cite_note-Hobby-1
+ 223. https://www.ssbwiki.com/Super_Smash_Bros.#cite_note-Hobby-1
+ 224. https://www.ssbwiki.com/Mario
+ 225. https://www.ssbwiki.com/Donkey_Kong
+ 226. https://www.ssbwiki.com/Samus_Aran
+ 227. https://www.ssbwiki.com/Fox_McCloud
+ 228. https://www.ssbwiki.com/Super_Smash_Bros.#cite_note-Hobby-1
+ 229. https://www.ssbwiki.com/Super_Smash_Bros.#cite_note-2
+ 230. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 231. https://www.ssbwiki.com/Nintendo_All-Star!_Dairantō_Smash_Brothers_OST
+ 232. https://www.ssbwiki.com/Super_Smash_Bros.#cite_note-3
+ 233. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros.&action=edit&section=12
+ 234. https://www.ssbwiki.com/Super_Smash_Bros.#cite_note-4
+ 235. https://www.ssbwiki.com/Super_Smash_Bros.#cite_note-Spot-5
+ 236. https://www.ssbwiki.com/Super_Smash_Bros.#cite_note-IGN-6
+ 237. https://www.ssbwiki.com/Super_Smash_Bros.#cite_note-GameRankings-7
+ 238. https://www.ssbwiki.com/Super_Smash_Bros.#cite_note-8
+ 239. https://www.ssbwiki.com/Super_Smash_Bros.#cite_note-GameRankings-7
+ 240. https://www.ssbwiki.com/Nintendo_64
+ 241. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros.&action=edit&section=13
+ 242. https://www.ssbwiki.com/Kirby_(SSB)
+ 243. https://www.ssbwiki.com/Mario_(SSB)
+ 244. https://www.ssbwiki.com/Fox_(SSB)
+ 245. https://www.ssbwiki.com/Link_(SSB)
+ 246. https://www.ssbwiki.com/Bob-omb
+ 247. https://www.ssbwiki.com/Star_Rod
+ 248. https://www.ssbwiki.com/Fan
+ 249. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros.&action=edit&section=14
+ 250. https://www.ssbwiki.com/F-Zero_(universe)
+ 251. https://www.ssbwiki.com/EarthBound_(universe)
+ 252. https://www.ssbwiki.com/Yoshi_(universe)
+ 253. https://www.ssbwiki.com/F-Zero_(universe)
+ 254. https://www.ssbwiki.com/Bowser
+ 255. https://www.ssbwiki.com/Donkey_Kong_(SSB)
+ 256. https://www.ssbwiki.com/Donkey_Kong
+ 257. https://www.ssbwiki.com/Donkey_Kong_(game)
+ 258. https://www.ssbwiki.com/Game_&_Watch_(universe)
+ 259. https://www.ssbwiki.com/Mario
+ 260. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 261. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 262. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 263. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 264. https://www.ssbwiki.com/Side_special_move
+ 265. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros.&action=edit&section=15
+ 266. https://www.ssbwiki.com/Mario
+ 267. https://www.ssbwiki.com/Donkey_Kong
+ 268. https://www.ssbwiki.com/Pikachu
+ 269. https://www.ssbwiki.com/Trophy
+ 270. https://www.ssbwiki.com/Samus
+ 271. https://www.ssbwiki.com/Kirby
+ 272. https://www.ssbwiki.com/Ness
+ 273. https://www.ssbwiki.com/Nintendo_64
+ 274. https://www.ssbwiki.com/Unlockable_character
+ 275. https://www.ssbwiki.com/Unlockable_stage
+ 276. https://www.ssbwiki.com/Mushroom_Kingdom_(SSB)
+ 277. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 278. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros.&action=edit&section=16
+ 279. http://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/
+ 280. http://web.archive.org/web/19991117175759/http://smashbros.com/
+ 281. https://www.nintendo.co.jp/wii/vc/vc_dsb/index.html
+ 282. https://www.nintendo.co.uk/Games/Nintendo-64/Super-Smash-Bros--269756.html
+ 283. https://www.nintendo.com/games/detail/vq2LDXcejXQ2vNjNkcQAv6ylA5y9lMzu
+ 284. https://www.ique.com/games/12021.htm
+ 285. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros.&action=edit&section=17
+ 286. https://www.ssbwiki.com/Super_Smash_Bros.#cite_ref-Hobby_1-0
+ 287. https://www.ssbwiki.com/Super_Smash_Bros.#cite_ref-Hobby_1-1
+ 288. https://www.ssbwiki.com/Super_Smash_Bros.#cite_ref-Hobby_1-2
+ 289. https://www.ssbwiki.com/Super_Smash_Bros.#cite_ref-Hobby_1-3
+ 290. https://www.ssbwiki.com/Super_Smash_Bros.#cite_ref-Hobby_1-4
+ 291. http://iwataasks.nintendo.com/interviews/#/wii/ssbb/6/0
+ 292. https://www.ssbwiki.com/Super_Smash_Bros.#cite_ref-2
+ 293. http://www.nintendo.co.jp/wii/interview/rsbj/vol7/index.html
+ 294. https://www.ssbwiki.com/Super_Smash_Bros.#cite_ref-3
+ 295. http://www.soundtrackcentral.com/cds/supersmashbrothers_ost.htm
+ 296. https://www.ssbwiki.com/Super_Smash_Bros.#cite_ref-4
+ 297. https://www.ssbwiki.com/Super_Smash_Bros.#cite_ref-Spot_5-0
+ 298. http://www.gamespot.com/n64/action/supersmashbros/review.html
+ 299. https://www.ssbwiki.com/Super_Smash_Bros.#cite_ref-IGN_6-0
+ 300. http://ign64.ign.com/articles/160/160494p1.html
+ 301. https://www.ssbwiki.com/Super_Smash_Bros.#cite_ref-GameRankings_7-0
+ 302. https://www.ssbwiki.com/Super_Smash_Bros.#cite_ref-GameRankings_7-1
+ 303. http://www.gamerankings.com/htmlpages4/198854.asp
+ 304. https://www.ssbwiki.com/Super_Smash_Bros.#cite_ref-8
+ 305. http://www.metacritic.com/game/nintendo-64/super-smash-bros
+ 306. https://www.ssbwiki.com/Template:SSBSeries
+ 307. https://www.ssbwiki.com/Template_talk:SSBSeries
+ 308. https://www.ssbwiki.com/index.php?title=Template:SSBSeries&action=edit
+ 309. https://www.ssbwiki.com/Super_Smash_Bros._(series)
+ 310. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 311. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 312. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 313. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 314. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 315. https://www.ssbwiki.com/Smash_Controller
+ 316. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 317. http://en.wikipedia.org/wiki/Main_Page
+ 318. https://en.wikipedia.org/wiki/Super_Smash_Bros.
+ 319. http://en.wikipedia.org/w/index.php?title=Super_Smash_Bros.&action=history
+ 320. https://www.ssbwiki.com/SmashWiki:About
+ 321. https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+ 322. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros.&oldid=1181838
+ 323. https://www.ssbwiki.com/Special:Categories
+ 324. https://www.ssbwiki.com/Category:Featured_Articles
+ 325. https://www.ssbwiki.com/Category:Games
+ 326. https://www.ssbwiki.com/Category:Super_Smash_Bros.
+ 327. https://www.ssbwiki.com/Category:Super_Smash_Bros._universe
+ 328. https://www.ssbwiki.com/Category:Super_Smash_Bros._series
+ 329. https://www.ssbwiki.com/Super_Smash_Bros.
+ 330. https://www.ssbwiki.com/Talk:Super_Smash_Bros.
+ 331. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros.&action=edit
+ 332. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros.&action=history
+ 333. https://www.ssbwiki.com/Special:MyTalk
+ 334. https://www.ssbwiki.com/Special:MyContributions
+ 335. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=Super+Smash+Bros.
+ 336. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=Super+Smash+Bros.
+ 337. https://www.ssbwiki.com/Main_Page
+ 338. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 339. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 340. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 341. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 342. https://www.ssbwiki.com/Super_Smash_Bros.
+ 343. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+ 344. https://www.ssbwiki.com/Stage
+ 345. https://www.ssbwiki.com/Mode
+ 346. https://www.ssbwiki.com/Item
+ 347. https://www.ssbwiki.com/Special:Random
+ 348. https://www.ssbwiki.com/Forum:Index
+ 349. https://www.ssbwiki.com/SmashWiki:Community_portal
+ 350. https://www.ssbwiki.com/Special:RecentChanges
+ 351. https://www.ssbwiki.com/Help:Contents
+ 352. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
+ 353. https://www.ssbwiki.com/SmashWiki:Discord_server
+ 354. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
+ 355. https://www.ssbwiki.com/Special:WhatLinksHere/Super_Smash_Bros.
+ 356. https://www.ssbwiki.com/Special:RecentChangesLinked/Super_Smash_Bros.
+ 357. https://www.ssbwiki.com/Special:SpecialPages
+ 358. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros.&printable=yes
+ 359. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros.&oldid=1181838
+ 360. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros.&action=info
+ 361. https://es.ssbwiki.com/wiki/Super_Smash_Bros.
+ 362. https://creativecommons.org/licenses/by-sa/3.0/
+ 363. https://www.mediawiki.org/
+ 364. https://creativecommons.org/licenses/by-sa/3.0/
+ 365. https://www.porplemontage.com/privacy
+ 366. https://www.ssbwiki.com/SmashWiki:About
+ 367. https://www.ssbwiki.com/SmashWiki:General_disclaimer
+ 368. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros.&mobileaction=toggle_view_mobile
+
+   Hidden links:
+ 370. https://www.ssbwiki.com/File:SSBCast.jpg
+ 371. https://www.ssbwiki.com/File:SSBCast.jpg
+ 372. https://www.ssbwiki.com/File:Super_Smash_Select.png
+ 373. https://www.ssbwiki.com/File:Super_Smash_Select.png
+ 374. https://www.ssbwiki.com/File:SSB64_Stage_Select.png
+ 375. https://www.ssbwiki.com/File:SSB64_Stage_Select.png
+ 376. https://www.ssbwiki.com/File:SSB64Logo.jpg
+ 377. https://www.ssbwiki.com/File:StatesSSBpchoice.jpg
+ 378. https://www.ssbwiki.com/File:Box_ssb_j.jpg
+ 379. https://www.ssbwiki.com/File:Box_ssb_pal.jpg
+ 380. https://www.ssbwiki.com/File:Smash64iQueBox.png
+ 381. https://www.ssbwiki.com/File:SSBVerticalArtwork.png
+ 382. https://www.ssbwiki.com/File:Smash_Bros..png
+ 383. https://www.ssbwiki.com/File:SSB64Title.png
+ 384. https://www.ssbwiki.com/File:SSB64TitleJP.png
+ 385. https://www.ssbwiki.com/File:SSB64TitleCH.png
+ 386. https://www.ssbwiki.com/Main_Page

@@ -1,0 +1,1191 @@
+   #[1]Edit this page [2]SmashWiki (en) [3]SmashWiki Atom feed
+
+Falco (SSBM)
+
+   From SmashWiki, the Super Smash Bros. wiki
+   Jump to:[4]navigation, [5]search
+   [6]SSBM Icon.png
+
+          This article is about Falco's appearance in Super Smash Bros. Melee. For the character in other contexts, see [7]Falco Lombardi.
+
+   Falco
+   in [8]Super Smash Bros. Melee
+   [9]Falco SSBM.jpg
+   [10]StarFoxSymbol(preBrawl).svg
+   [11]Universe [12]Star Fox
+   Other Smash Bros. appearances [13]in Brawl
+   [14]in SSB4
+   [15]in Ultimate
+   Availability [16]Unlockable
+   [17]Tier S (2) (North America)
+   S (3) (Europe)
+   [18]FalcoHeadSSBM.png
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                         “ Where his leader, Fox, has blinding speed, Falco has his own distinct skills and advantages. ”
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        —Description from Falco's trophy.
+
+   Falco (ファルコ, Falco) is a [19]hidden character in [20]Super Smash Bros. Melee. He is a clone of [21]Fox, with many of the same moves. However, some of his moves have different properties, making their playstyles somewhat different.
+
+   Falco is currently ranked 2nd on the Melee tier list, making him the highest ranked unlockable character, clone character, and newcomer all while this being his best placement in the series marginally. Falco has many combo openers and the options to extend them, most notably a frame 1 launcher in his [22]Reflector and a frame 5 [23]down aerial that spikes powerfully. These tools allow him to easily chain together highly damaging strings that are hard to [24]DI out of. He also possesses very effective edgeguarding options, such as his back air, forward and down smashes, and his aforementioned down air. Falco also has one of the best neutral game options among the entire cast with his [25]Blaster, as it allows him to pressure from afar and approach noncommittally.
+
+   Falco, however, is not flawless; he suffers from being light yet having extremely high falling speed and low horizontal air speed. These flaws make him extremely vulnerable to chaingrabs and combos, while his low weight makes him among the easiest to KO horizontally. Additionally, both of his recovery options travel very short distances, giving Falco one of the worst recoveries in the game. Regardless of these flaws, Falco's strengths greatly overwhelm his weaknesses and he has amazing matchups, lacking any negative ones (making him and Fox in Melee, [26]Pikachu in Smash 64 and [27]Meta Knight in Brawl the only characters with no negative matchups) and having only a handful that are considered even.
+
+Contents
+
+     * [28]1 How to Unlock
+     * [29]2 Attributes
+          + [30]2.1 Similarities with Fox from Super Smash Bros.
+          + [31]2.2 PAL differences
+     * [32]3 Differences with Fox
+          + [33]3.1 Aesthetics
+          + [34]3.2 Attributes
+          + [35]3.3 Ground attacks
+          + [36]3.4 Aerial attacks
+          + [37]3.5 Grabs and throws
+          + [38]3.6 Special moves
+     * [39]4 Moveset
+          + [40]4.1 Taunt
+          + [41]4.2 Idle poses
+          + [42]4.3 Crowd cheer
+          + [43]4.4 Victory poses
+     * [44]5 In Competitive play
+          + [45]5.1 Matchups
+          + [46]5.2 Notable players
+               o [47]5.2.1 Active
+               o [48]5.2.2 Inactive
+          + [49]5.3 Tier placement and history
+               o [50]5.3.1 PAL viability
+     * [51]6 In Single-Player Modes
+          + [52]6.1 In Classic Mode
+          + [53]6.2 In Adventure Mode
+          + [54]6.3 In All-Star Mode
+          + [55]6.4 In Event Matches
+          + [56]6.5 Ending images
+     * [57]7 Trophy descriptions
+     * [58]8 Alternate costumes
+     * [59]9 Trivia
+
+How to Unlock[[60]edit]
+
+   Players can unlock Falco by completing 100-Man Melee with any character within any time limit. Alternatively, players can take part in 300 VS. matches to unlock him.
+
+   When being fought, Falco will appear on [61]Battlefield, with the music from [62]Corneria playing.
+
+Attributes[[63]edit]
+
+   Due to being a clone of Fox, he possess a similar archetype: he possesses rather high speed to quickly overwhelm the opponent as well as a slew of effective finishers both on the ground and in the air. Contrary to what Falco's in-game trophy says, he does not sacrifice offensive power at all to gain increased jumping prowess; in fact, Falco seems to have gained even more options for KOs, attacks, and combos at a variety of percentages over Fox. Falco's attributes include high [64]traction (giving Falco a somewhat short but quick wavedash), the highest [65]falling speed in the game, and low [66]air speed without momentum from his dash accounted for.
+
+   Falco's primary strength is his raw ability to KO without compromising too much speed or [67]combo ability; many of Falco's KOing moves are very fast yet powerful with relatively low startup and ending lag. Falco's sliding forward smash covers a good distance, KOs easily at 90% and makes for a good edgeguard option. Falco's down smash is a powerful semi-spike that is also useful for edgeguarding. Falco's down tilt can KO some characters at as low as 90%; although it is a short ranged attack, it also comes out quickly. Falco's aerial KOing options are also highly varied; Falco's neutral and back aerial attacks are fast with high knockback and duration, and his down aerial is among the most feared attacks in the game; with no sourspot, high speed, spike properties, and a long duration, Falco can quickly and efficiently KO almost any character at low percentages if used correctly. A grounded down aerial can easily combo into a forward smash for yet another deadly KO option.
+
+   Falco's [68]approach is also highly effective; with a very versatile projectile in his [69]Blaster, Falco can perform the [70]short hop laser technique, either as a pressure option or as a way to approach. Performing this technique close to opponents almost guarantees free grabs, smashes, or ways to start shine combos. Coupled with low-lag aerials, a short short hop and a high falling speed, Falco has among the best SHFFLs in the game, giving him an incredible aerial approach. On the ground, many of Falco's attacks, while short-ranged, pack good power and relatively low ending lag; despite a short wavedash and an average dashing speed, Falco can still use these two to his advantage, with them being integral to his superb combo ability.
+
+   Falco sacrifices a bit of his clone's speed for power, but still excels at performing devastating combos. Many of Falco's approach options also make for great combo starters as well. The core of Falco's combo ability lies in his good SHFFLs and ability to waveshine. Falco's primary form of comboing comes in the form of his [71]pillar, which is notorious for wearing [72]shields down quickly. Pillaring, in its most basic form, is simply chaining the upward vertical knockback of Falco's shine into the spiking hitboxes of his down aerial. To keep his moves fresh, Falco can combo into his other moves, most notably his down and up tilts, wavesmashes, his up throw, and his back and neutral aerials. Falco's down tilt and up throw are viable substitutes for his shine, while his up tilt racks up damage and segues directly into more shines. His smashes also rack up damage quickly but also make excellent KO options after enough beatings from the pillars have been dealt. Jump-canceled shines combo
+   directly into back aerials and neutral aerials. Should the opponent DI close the ground, Falco can chase his opponents with multiple waveshines, depending on the direction. Falco can alternatively wear down shields by weaving back and forth with waveshining.
+
+   Additionally, Falco's grab and throw game is decent. Falco's grab range is above-average (tenth longest in the game), and his throws have multiple options; his down throw can potentially combo into a down tilt or start a shine combo, his up throw can start up aerial combos, and his forward and back throws can start edgeguards. However, although he can chain throw floaty characters with his forward throw, he lacks a reliable chain throw, his throws have poor damage output, and his down throw can be teched, leaving him vulnerable. Furthermore, unlike Fox's up throw, which can reliably set up into aerials at certain percents, Falco has a harder time securing follow-ups from his up-throw. This is because the lasers Falco shoots during his up throw animation have hitstun; and therefore, they can be [73]SDI'd by the opponent.
+
+   Falco's properties, however, also compose his weaknesses. As with Fox, Falco is light (the 6th lightest character in the game), and is therefore able to be KO'd through the sidelines without difficulty, despite Falco being difficult to KO through the ceiling because of said falling speed. Additionally, despite his high jumps and ability to [74]wall jump, Falco's recovery is among the worst in the game; due to a low air speed and a high falling speed, Falco cannot maneuver effectively off-stage. His up special move, [75]Fire Bird, is also short and easy to gimp; due to its linear nature, attacks such as [76]Marth's [77]Counter, [78]Link's [79]Spin Attack, and [80]Mario's [81]Cape can easily knock Falco away from the ledge when using the moves. Additionally, due to its inability to harm attackers while it charges, Falco is vulnerable to any attack while using the move, particularly meteor smashes or spikes; with correct timing, opponents with reliable spikes, such as Marth or even another
+   Falco, can easily gimp his recovery. As such, Falco is primarily reliant on his side special, [82]Falco Phantasm to recover; however, even that doesn't travel a significant distance, and it still suffers from the linear problems of Fire Bird. To his merit, however, Falco can angle his Fire Bird in many different directions, and he can additionally shorten his Falco Phantasm to avoid going on stage and into the edge, mixing up his recovery options and leaving the opponent guessing. Additionally, Falco's recovery moves have slightly shorter startup lag than Fox's, which can be useful when mixing up the opponent.
+
+   Falco's high falling speed also makes him a target for chain throws, especially from characters such as Marth and Peach, though it also gives him the 3rd highest vertical endurance among Melee characters, despite being tied for being the 5th lightest character in the game (only [83]Captain Falcon and [84]Donkey Kong, two much heavier characters by comparison, surpass him in this regard). Falco, along with Fox, has the dubious distinction of having an entire combo named for KOing him easily simply due to his high falling speed (the [85]space animal slayer).
+
+   Overall, Falco can be considered to be a slower, but stronger and more combo-heavy version of Fox; while his overall speed is only average among the other characters in the game, his attack speed remains very fast and he can easily land very damaging combos in a short amount of time, sometimes even leading to death for the other player if they cannot DI correctly. Combined with relatively safe approaches against nearly every character in the game, it is possible to make defending against Falco difficult, even at top-level play. Falco has many tools for offense and defense, so players should use his arsenal accordingly to gain the upper hand.
+
+Similarities with [86]Fox from [87]Super Smash Bros.[[88]edit]
+
+   It has been said that Falco's play-style in Melee is very similar to [89]Fox's in Super Smash Bros. His special moves are arguably the most obvious. Below is the list of similarities:
+     * Buff Both Fox in Smash 64 and Falco in Melee are heavier than Fox in Melee.
+     * Change Both blasters are slower and cause hitstun.
+     * Change Both [90]Fire Bird and Smash 64 [91]Fire Fox travel less distance, but are more likely to KO.
+     * Change Fire Bird can KO at the top at a reasonable percent, but does not have a hitbox while it is charging.
+     * Buff Forward smashes are much stronger (Fox's in Smash 64 is a little stronger than Falco's in Melee).
+     * Buff Down smashes have more semi-spike ability due to their stronger knockback.
+     * Buff Down tilts are close in damage (13% and 12%) and both produce decent vertical knockback, both being much stronger than Fox's down tilt in Melee.
+     * Change Up aerials are easier to sweetspot, but are weaker.
+
+PAL differences[[92]edit]
+
+   Like some other characters, Falco received minor changes in the [93]PAL version of Melee. Although these changes slightly nerf him, they do not significantly impact his competitive viability.
+     * Nerf The latter half of down aerial doesn't [94]spike but instead hits opponents on the [95]Sakurai angle with drastically lower horizontal knockback, halving the time the move is able to spike.
+     * Nerf Fox can now tech out of Falco's [96]down throw due to him being lighter.
+
+Differences with [97]Fox[[98]edit]
+
+   Data.png This article or section may require additional technical data.
+   The editor who added this tag elaborates: All valid frame data differences between the two.
+   You can discuss this issue on the [99]talk page or [100]edit this page to improve it.
+
+   It is difficult to determine whether Falco is better or worse than Fox, as they are top-tiered [101]clones. Falco is heavier and falls faster than Fox does, aiding in his vertical endurance. Falco's combo ability, particularly against fastfallers, is superior to Fox's; his [102]shine and down aerial can extend combos in ways that Fox's moves cannot. Additionally, Falco's [103]lasers are quite powerful in neutral because they cause hitstun, allowing them to be used as a powerful disruption and approach tool in the [104]neutral game instead of just a passive maneuver to rack up damage.
+
+   However, Falco's ground mobility is inferior to Fox's, as he has slower ground speed and a shorter [105]wavedash. Additionally, his recovery moves, despite possessing more power, travel much shorter distances than Fox's; while this does allow for a safer near-stage recovery, it makes it impossible to recover from afar. Fox's [106]shine and down aerial can lead into an up smash, and up throw can lead to almost any aerial. However, since most of Falco's moves are geared towards comboing, he lacks many of these guaranteed setups into his own KO moves. This is especially prevalent against floaty characters, such as [107]Jigglypuff and [108]Peach; Fox hard counters them due to the ease in which he can combo them, then KO them vertically, while Falco must rely on his superior neutral game and edgeguards to keep the match even.
+
+   Overall, Falco's strategy at top-level play differs considerably from Fox's. Falco is more reliant on stage control and punishes; he is more suited to locking the foe down with lasers and damaging, guaranteed combos, and must maintain stage control at all times due to his poor recovery. Fox, on the other hand, is more reliant on edgeguarding and neutral resets due to the launch angle of his shine and his shorter, usually simpler punishes. Thus, while Falco and Fox may be indistinguishable from each other at low-level play, their general playstyles vary drastically at the tournament level.
+
+Aesthetics[[109]edit]
+
+     * Change Falco's taunt, idle pose, sleep, and victory animations are different from Fox's.
+
+Attributes[[110]edit]
+
+     * Change Falco is taller than Fox, giving him more reach, but makes him easier to hit.
+     * Buff Falco has better [111]jumping prowess than Fox.
+     * Change Falco has more jump-squat frames than Fox (3 frames → 5 frames), making his [112]SHFFL slower, but easier to perform.
+     * Buff Falco has a much higher [113]wall jump than Fox.
+     * Nerf Falco [114]walks (1.6 → 1.4) slower than Fox.
+     * Nerf Falco [115]dashes (2.2 → 1.5) significantly slower than Fox.
+     * Nerf Falco's [116]wavedash is slightly shorter than Fox's.
+     * Buff Falco's [117]rolls cover more distance than Fox's.
+     * Change Falco is heavier than Fox (75 → 80), allowing him to survive slightly longer, though he is still one of the lightest characters in the game.
+     * Change Falco falls faster than Fox (2.8 → 3.1). Combined with his heavier weight, it grants Falco much better vertical endurance. However, his faster falling speed makes him more susceptible to combos and [118]chaingrabs and worsens his already poor recovery.
+     * Change Falco has less [119]gravity than Fox (0.23 → 0.17).
+
+Ground attacks[[120]edit]
+
+     * Change The second hit of Falco's jab has a different angle than Fox's (70 → 50).
+     * Buff Falco's [121]dash attack deals more damage than Fox's (7%/5% → 9%/6%).
+     * Buff Falco's [122]forward tilt has a slightly longer duration than Fox's (frame 5-8 → frame 5-9).
+     * Change Falco's [123]up tilt deals overall less damage (12% (foot grounded)/9% (leg & foot aerial) → 9% (consistent)) and knockback (18 base/140 scaling → 30/120) than Fox's. This makes it unable to KO at realistic percentages, but makes it a much more reliable combo tool.
+     * Buff Falco's [124]down tilt deals more damage (10% → 13%), making it much stronger than Fox's and a viable KO move at high percents.
+     * Nerf Falco's down tilt has less range than Fox's.
+     * Buff Falco's [125]forward smash deals more damage (15%/12% → 17%/14%) than Fox's, although its knockback was compensated (10 base/105 scaling → 40/90).
+     * Nerf Falco's forward smash has a slightly shorter duration than Fox's (frame 12-23 → frame 12-22).
+     * Buff Falco's [126]up smash has one more [127]intangible frame on his head (frame 1-10 → frame 1-11).
+     * Nerf Falco's up smash deals less damage (18%/13% → 14%/12%) and knockback (30 base/112 scaling → 25 base/100), making it drastically weaker than Fox's. It also has a shorter duration (frame 7-18 → frame 7-16) and more ending lag.
+          + Buff However, its weaker knockback makes it a much better combo move.
+     * Buff Falco's [128]down smash deals more damage (15%/13%/12% → 16%/13%) and has more knockback scaling (65 → 70) than Fox's. It also gains more intangibility frames on his legs (frame 6 → frame 1-6).
+
+Aerial attacks[[129]edit]
+
+     * Buff Falco's [130]neutral aerial and [131]back aerial have more reach than Fox's.
+     * Buff Falco's back aerial can autocancel in a short hop.
+     * Buff The first four hits of Falco's [132]forward aerial deal more damage than Fox (7% (hit 1), 5% (hit 2), 6% (hit 3), 4% (hit 4) → 9% (hit 1), 8% (hit 2), 7% (hit 3), 5% (hit 4)), thus, giving it more damage than Fox's if all hits connect (23% → 29%). It can also autocancel in a full hop due to Falco's higher jumping height.
+     * Buff The first hit of Falco's [133]up aerial has different knockback properties (134 fixed knockback/120 scaling → 40/30 base/20 scaling), making it overall easier to connect with the second hit than Fox's.
+     * Nerf The second hit of Falco's up aerial is weaker (40 base/116 scaling → 22/30 base/120/20 scaling) and deals less damage (first hit 5%/second hit 13%: 18% total → 6%/10: 16% total) overall than Fox's, hindering its KO potential.
+     * Change Each hit of Falco's up aerial has different knockback angles (first hit 92°/second hit 85° → 90°/70°/90°).
+     * Buff Due to Falco's [134]down aerial lacking multi-hit properties, it spikes opponents considerably more powerfully than Fox's (30 base/0 scaling → 10/20 base/100 scaling), significantly improving its edgeguarding potential and granting it KO potential.
+          + Buff Despite dealing much less damage than Fox's, Falco's down aerial has much more combo potential when combined with his shine.
+
+Grabs and throws[[135]edit]
+
+     * Buff Falco's [136]grab range is longer than Fox's.
+     * Buff Falco's [137]forward throw can chaingrab more efficiently than Fox's because of his longer grab range.
+     * Nerf Falco's [138]back and [139]down throws are weaker than Fox's in damage and knockback output, with down throw being harder to meteor smash on the edge.
+          + Buff However, this considerably increases down throw's combo ability.
+     * Nerf Falco's [140]up throw has less combo potential, with a followup often being dependent on the opponent's directional influence.
+
+Special moves[[141]edit]
+
+     * Buff Falco's [142]Blaster deals more damage than Fox's and causes opponents to flinch, allowing for better combo setups and better capability at hindering an opponent's approach. It also fires faster when airborne and the lasers cover much more distance.
+     * Change Falco's Blaster animation is different. Whereas Fox holds it straight with both hands, Falco holds it sideways with one wing next to his head.
+     * Buff Falco's [143]Falco Phantasm travels faster and possesses meteor smash capabilities.
+     * Change Falco Phantasm does not travel as far as Fox Illusion, hindering its recovery potential, but improving its safety near ledges. Falco Phantasm, however, has significantly more ending lag than Fox illusion.
+     * Buff Falco's [144]Fire Bird deals more damage (14% → 16%) and has much more base knockback (60 → 80) than [145]Fire Fox, granting it KO potential.
+     * Nerf Fire Bird's recovery distance is much shorter, travelling only half the length of Fire Fox. Fire Bird also lacks Fire Fox's charging hitboxes, making edgeguarding Falco much easier, especially with [146]meteor smashes and [147]spikes. These changes drastically reduce its recovery potential.
+     * Change Fire Bird's animation differs slightly from that of Fire Fox; Falco does not spin during the travelling section of the move, whereas Fox does.
+     * Change Falco's [148]Reflector sends opponents straight vertically, making it extremely useful for on-stage combos that can be hard to escape from, unlike Fox's, which instead semi-spikes the opponent, allowing for neutral resets, edgeguards, and guaranteed KO setups.
+     * Buff Falco's Reflector deals more damage than Fox's (5% → 8%).
+     * Nerf Falco's Reflector has less range than Fox's.
+
+Moveset[[149]edit]
+
+   Falco's aerial attacks
+
+   For a gallery of Falco's hitboxes, see [150]here.
+                                    Name                                   Damage                                                                                                                                                                                                                                                                                                                                                                                                                                         Description
+     [151]Neutral attack                         4%                                                         Two quick jabs, which can easily be [152]jab canceled into each other or other moves. The second jab moves Falco slightly forward and is followed by a flurry of fast kicks.
+                                                 4%
+                                                 1% (loop)
+      [153]Forward tilt                          9%                                                         Sticks his foot out to the side. Fast, and has impressive range for a tilt. Can [154]gimp opponents, though has limited use outside this. This move can be aimed up or down.
+         [155]Up tilt                            9%                                                         Flips his leg behind him. Short range, but very fast, and has incredible combo ability, being a great move that can quickly knock opponents into the air and follow up with aerials or a Shine. Considered one of the best up tilts in the game, after Marth, due to said combo ability.
+        [156]Down tilt                           13%                                                        Swipes his tail in front of him. Although it has somewhat short range (shorter behind him than in the front), it has unusually high damage and knockback for a tilt. It knocks opponents straight upwards. It can KO some characters at as low as 90% if fresh. The strongest down tilt in the game along with Mr. Game & Watch.
+       [157]Dash attack                          9% (clean), 6% (late)                                      Runs forward and sticks his leg out. Sends opponents upwards.
+      [158]Forward smash                         17% (clean), 14% (late)                                    Flips his body in front and kicks in front of him. Similar to [159]Fox's forward smash, but much stronger, usually KOing at around 90-110%. A good option against an opponent who is trying to get on the ledge, especially if they are above 100% damage. Considered to be one of the best forward smashes in the game, after Marth.
+        [160]Up smash                            14% (clean), 12% (late)                                    Does a bicycle kick. It is drastically weaker than Fox's up smash, but is a better juggler. However, there are usually better options available for knocking opponents into the air (like an up tilt or a Shine). It can also hit behind Falco, albeit with significantly lower knockback. Falco's head is intangible during the early part of the animation.
+       [161]Down smash                           16% (feet), 13% (legs)                                     Does a quick split. High KO power, and with high knockback and [162]semi-spike properties, it is an excellent edgeguarder, though it has rather short range. Both of Falco's legs are intangible whenever he starts up the move, even while he's charging, all the way until the hitboxes come out.
+     [163]Neutral aerial                         12% (clean), 9% (late)                                     A simple [164]sex kick. Has high knockback when it first comes out, and it comes out quickly, good in a short hop. Not as good as Fox's due to the way shine works but still an amazing move.
+     [165]Forward aerial                         9% (hit 1), 8% (hit 2), 7% (hit 3), 5% (hit 4), 3% (hit 5) Kicks forward five times. The move as high duration due to the number of kicks, and it is very difficult to connect all the hits. It also gives Falco quite a short time to react with another jump or recovery. Does incredible damage if all hits connect, much more than Fox's.
+       [166]Back aerial                          15% (clean right leg), 9% (clean left leg, late)           Does a quick no-look kick backwards while recovering in a turn, with sex kick properties. Good KO power, and great for [167]edgeguarding. Has more range than Fox's but riskier to use offstage due to his faster falling speed and worse recovery, still one of the best back airs in the game.
+        [168]Up aerial                           6% (hit 1), 10% (hit 2)                                    Whips his tail up and kicks immediately after. Can deal up to 15% damage if both hits connect. Weaker than Fox's up air, but still a powerful KO move (especially on floaties) and will kill near the top blast zone under 100%.
+       [169]Down aerial                          12% (clean), 9% (late)                                     Spins around in place at a downwards angle while extending one foot. An extremely strong [170]spike that can set up and follow out of Shine combos and KO characters quickly and efficiently. However, it is of extreme risk to use offstage, due to Falco's poor vertical recovery. Regardless, it is an excellent KO move and is among the most feared attacks in the game, with no [171]sourspot and the hitbox lasting all of the move (however, in the PAL version of the game, the second half of the move produces weak horizontal knockback). Widely considered to be the best down air in the game due to it's quick speed, spike properties, approaching ability, combo ability, amazing power, and good range.
+          [172]Grab                              —                                                          Ranked as tenth largest grab range in the game.
+         [173]Pummel                             3%                                                         Knees opponent.
+      [174]Forward throw                         4% (hit 1), 3% (throw)                                     Punches opponent. Can force opponents offstage for edgeguarding, but other than that, it doesn't have many comboing follow-ups. Can chaingrab floaty characters at low percentages.
+       [175]Back throw                           2% (throw), 2% (shots)                                     Throws opponent backwards, then fires three shots from his Blaster. Can force opponents offstage for edgeguarding, but other than that, not too useful. It is possible to [176]tech-chase an opponent with this move, depending on their DI.
+        [177]Up throw                            2% (throw), 2% (shots)                                     Tosses opponent upwards, then fires three shots from his Blaster. Excellent for setting up an aerial combo (most particularly an up aerial or neutral aerial), but can be DI'd out of at higher percentages.
+       [178]Down throw                           1% (shots), 1% (throw)                                     Slams opponent onto the floor, then shoots them four times with his Blaster. If the player can predict the opponent's reaction, an up tilt is possible. This move can also set up a Shine combo. However, the move is relatively easy to tech out of. Like Fox's down throw, it [179]meteor smashes over the ledge if Falco grabs the opponent at the very edge of the platform, however, it is much weaker. This throw, unlike Fox's, has the strange ability to chain throw extremely light characters, such as [180]Pichu and [181]Mr. Game & Watch.
+   [182]Floor attack (front)                     6%                                                         Gets up and kicks on both sides.
+   [183]Floor attack (back)                      6%                                                         Punches forwards, then kicks backwards.
+   [184]Edge attack (fast)                       6% (body), 8% (legs)                                       Throws himself onto the stage with both feet sticking out.
+   [185]Edge attack (slow)                       6% (body), 8% (legs)                                       Slowly gets up and kicks in front.
+     [186]Neutral special    [187]Blaster        3%                                                         Falco fires a laser from his Blaster. Not nearly as fast as Fox's, but is more powerful and makes the opponent flinch. For this reason, it is excellent for stopping approaching opponents, and the lag can be canceled if the move is done during a short hop and Falco fastfalls to the ground (referred to as [188]short hop laser. Can also stop opponents when they are offstage. If Falco does a short hop laser close to an opponent, they will be stunned momentarily, allowing Falco to get an easy grab or start an aerial combo with a up tilt or a Shine. This attack has [189]transcendent priority. Considered to either be one of the best or the best projectile in the game and the best neutral special because of its approach and combo ability, as well as strong pressure offstage.
+      [190]Side special      [191]Falco Phantasm 7%                                                         Falco dashes forward, leaving an afterimage behind him. Falco's quickest and safest horizontal recovery move. If it hits an opponent in midair, it is a very weak meteor smash. If B is quickly pressed again just after starting the move, it will be canceled and Falco will not dash forward. This also stops him in midair.
+       [192]Up special       [193]Fire Bird      16%                                                        Falco charges up in flames and blasts off in a direction, which can be controlled with the [194]control stick. Unreliable as an attack due to the charge time. Used for vertical recovery, however it travels a much shorter distance than Fox's [195]Fire Fox. Unlike Fire Fox, it cannot damage opponents during the charge, leaving Falco vulnerable to [196]meteor smashes during the charge - with the right timing, it is even possible to meteor smash Falco when he is moving.
+      [197]Down special      [198]Reflector      8% (startup), 1.5x damage for reflected projectiles        Falco's Reflector (informally referred to as the Shine) works just like Fox's, reflecting any projectiles that hit it right back at the opponent who fired them for more damage and knockback. Unlike Fox's Shine, it doesn't send the opponent on a semi-spike trajectory; rather, it knocks them straight upwards. This makes the move very useful for knocking opponents into the air and starting aerial combos, on par with the up tilt. Can be jump cancelled, to avoid the ending lag, which can lead to double or multi-shines, as well as pillaring combos. This allows Falco to use it repeatedly to wear down shields, continue aerial combos or save a teammate in doubles. Considered to be one of the best moves in the game and the best down special along with Fox due to its great combo ability along with down air.
+
+[199]Taunt[[200]edit]
+
+     * Spins once and crosses one arm while scoffing. In the Japanese version, he speaks one of two phrases: 俺の獲物に手を出すな！ ("Get your hands off my prey!") or 逃がすかよ！ ("Are you running away?!")
+     * Smash taunt: Falco can do a [201]Star Fox conversation that can only be used on [202]Corneria or [203]Venom by quickly tapping Down on the [204]control pad (for one frame). This taunt can only be used once per match.
+
+             Taunt                        Smash taunt
+   [205]Falco-Taunt-SSBM.gif [206]Taunts-Melee-Falco-SmashTaunt.png
+
+[207]Idle poses[[208]edit]
+
+     * Turns slightly to the side. Unlike in future installments, this is Falco's intital idle pose, meaning he will always perform this animation even if he is holding an item.
+     * Turns slightly to the side and waves his hand in front of his face.
+
+   [209]Falco Idle Pose Melee 1.gif [210]Falco Idle Pose Melee 2.gif
+
+[211]Crowd cheer[[212]edit]
+
+                          English      Japanese
+         Cheer
+   (BUTTON) Play sound
+   [213]Falco Cheer NTSC Melee.ogg
+   (BUTTON) Play sound
+   [214]Falco Cheer JP Melee.ogg
+      Description     Faaalll-cooo...! Fal-co!
+         Pitch        Deep male        Male
+
+[215]Victory poses[[216]edit]
+
+   (BUTTON) Play sound
+   A rendition of a portion of the main theme of Star Fox 64.
+     * Does a bunch of kicks and says "Mission Complete!"
+     * Jumps high into the air and poses on the ground, scoffing. In the Japanese version, he may say either 逃がすかよ！ ("Are you running away?!") or 敵機撃墜！ ("Enemy fighter shot down!").
+     * Crossing his arms, he looks upward and says "Mission Complete!"; 俺の獲物に手を出すな！ which translates to "Get your hands off my prey!". This quote would later be translated into English for Brawl and SSB4.
+
+   [217]Falco-Victory1-SSBM.gif [218]Falco-Victory2-SSBM.gif [219]Falco-Victory3-SSBM.gif
+
+In [220]Competitive play[[221]edit]
+
+[222]Matchups[[223]edit]
+
+   CAPTION: [224]Super Smash Bros. Melee Character Matchups
+
+                          [225]FoxHeadSSBM.png [226]FalcoHeadSSBM.png [227]MarthHeadSSBM.png [228]SheikHeadSSBM.png [229]JigglypuffHeadSSBM.png [230]PeachHeadSSBM.png [231]IceClimbersHeadSSBM.png [232]CaptainFalconHeadSSBM.png [233]PikachuHeadSSBM.png [234]SamusHeadSSBM.png [235]DrMarioHeadSSBM.png [236]YoshiHeadSSBM.png [237]LuigiHeadSSBM.png [238]GanondorfHeadSSBM.png [239]MarioHeadSSBM.png [240]YoungLinkHeadSSBM.png [241]DonkeyKongHeadSSBM.png [242]LinkHeadSSBM.png [243]MrGame&WatchHeadSSBM.png [244]RoyHeadSSBM.png [245]MewtwoHeadSSBM.png [246]ZeldaHeadSSBM.png [247]NessHeadSSBM.png [248]PichuHeadSSBM.png [249]BowserHeadSSBM.png [250]KirbyHeadSSBM.png Avg.
+   [251]FalcoHeadSSBM.png [252]±0              [253]Mirror match      [254]±0                [255]±0                [256]±0                     [257]±0                [258]±0                      [259]+2                        [260]+2                  [261]±0                [262]+1                  [263]+3                [264]+2                [265]+1                    [266]+1                [267]+3                    [268]+2                     [269]+3               [270]+2                       [271]+2              [272]+3                 [273]+2                [274]+3               [275]+3                [276]+3                 [277]+3                [278]+2
+
+   Falco is one of two characters in the game to have no disadvantageous matchups whatsoever, along with [279]Fox, but has more even matchups than most other top tier characters. Falco has seven even matchups, [280]soft counters three characters, [281]counters seven, and [282]hard counters eight. He has the tools to beat every character, though he is particularly vulnerable to [283]chaingrabs from characters such as [284]Marth and [285]Peach, and is very easy to [286]gimp and [287]edgeguard. These disadvantages give him some trouble against characters who have effective edgeguarding tools, such as [288]Jigglypuff, Marth, and Fox. He tends to do well against characters who do not have the tools to properly respond to his [289]combo openers, such as [290]Captain Falcon, and does very well against characters with a lack of reliable horizontal finishers and/or edgeguarding ability, such as [291]Young Link. Overall, Falco's matchup spread is among the best in the game.
+
+   Some topics of constant debate in the current metagame are Falco's matchups against Fox and Marth. Falco is one of the only characters in the game that can be argued to have a winning matchup against Fox. His lasers allow him to restrict Fox's movement, and his shine followups on Fox are generally easier to execute than extended combos from Fox against Falco. However, Fox edgeguards Falco much more easily, and the advantages that Falco's lasers provide diminish as players improve and learn counterplay against it. At the top level, though, both characters can usually heavily damage (if not KO) the other as soon as they force an opening. Marth, on the other hand, was long thought to have a close to even matchup against Falco, owing to Falco's superior neutral game. However, Falco mains have been struggling to defeat Marths of similar level in recent times, as he is punished far harder for making a mistake and can easily be gimped at low percentages by Marth. This suggests that risk-reward of
+   interactions in the matchup is against Falco, and many now consider Marth to be a soft counter to him. Two matchups that Falco used to dominate in, though still winning matchups, are no longered looked at as so, with the two characters, Yoshi and Pikachu, metagame advancing in recent years. Pikachu's chain grab and strong edge guarding game having caused players to no longer consider Falco to destroy the character, though the matchup is still considered to be in Falco's favor due to his strong neutral tools and strong punishment game. Another match that was considered unlosable was to Yoshi, who in recent years, his own metagame has been improving. Yoshi has a strong punishment game, strong tools to send Falco off stage to his doom or to set up an edge guard along with having tools to projectile camp Falco himself from the ledge. Though Falco still wins the matchup due to his strong projectile game, strong combo game and having certain tools to break Yoshi's double jump armor which leaves
+   the matchup slightly in Falco's favor, but not considered as unbeatable as it once was.
+
+Notable players[[292]edit]
+
+          See also: [293]Category:Falco professionals (SSBM)
+          Any number following the Smasher name indicates placement on the [294]2016 SSBMRank.
+
+Active[[295]edit]
+
+     * [296]USA  [297]Axe (#9) Pikachu main that loosely secondaries Falco together with Marth and Young Link.
+     * [298]France  [299]Baxon Ranked 4th in [300]France and 17th in [301]Europe 2016
+     * [302]Canada  [303]Blunted_Object10 Ranked 4th in [304]British Columbia Power Rankings
+     * [305]USA  [306]Bobby Big Ballz Ranked 9th in [307]MD/VA
+     * [308]Sweden  [309]Calle W Ranked 13th in [310]Europe 2016
+     * [311]USA  [312]DaShizWiz 30th on [313]2013 SSBM Player Rankings, recently got back into the scene
+     * [314]United Kingdom  [315]Frenzy Ranked 35th in [316]Europe
+     * [317]USA  [318]Ginger Ranked 3rd in [319]Michigan Power Rankings 2017, has a victory over [320]DruggedFox
+     * [321]USA  [322]HomeMadeWaffles (#80) Ranked 15th in [323]NorCal Power Rankings 2017
+     * [324]USA  [325]King Momo Ranked 6th in [326]Central Florida
+     * [327]Japan  [328]Kounotori Ranked 8th in [329]Japan 2017 and was ranked 91st on the [330]2013 SSBMRank.
+     * [331]USA  [332]KPAN Ranked 2nd in [333]Georgia Power Rankings Summer 2017
+     * [334]USA  [335]Larry Lurr Ranked 87th and 36th on the [336]2013 SSBMRank and [337]2014 SSBMRank.
+     * [338]Finland  [339]Levingy Ranked 31st in [340]Europe
+     * [341]USA  [342]Mango (#3) One of the [343]Five Gods. Duals mains Fox and Falco. Known for his aggressive playstyle.
+     * [344]USA  [345]MattDotZeb Ranked 8th on New England.
+     * [346]USA  [347]Porkchops (#94) Ranked 1st in [348]South Florida
+     * [349]USA  [350]Ralph Ranked 12th in [351]NorCal Power Rankings 2017, was ranked 76th on the [352]2015 SSBMRank
+     * [353]USA  [354]Santiago Ranked 9th in [355]SoCal Power Rankings 2017
+     * [356]Canada  [357]Sion Ranked 1st in [358]British Columbia Power Rankings 2017
+     * [359]USA  [360]Squid (#69) Ranked 10th in [361]SoCal Power Rankings 2017
+     * [362]Japan  [363]Tapioka Ranked 7th in [364]Japan 2017
+     * [365]USA  [366]TheRealThing #1 in NEOH and best falco from ohio. Win over Mikehaze, Bananas, and Reeve
+     * [367]USA  [368]th0rn Ranked 4th on the [369]New England Power Rankings, was ranked 38th on the [370]2013 SSBMRank
+     * [371]Canada  [372]Trulliam (#77) Ranked 3rd in [373]Southern Ontario Power Rankings 2016
+     * [374]USA  [375]Westballz (#8) Known for his extremely technical and sometimes over-stylish playstyle.
+     * [376]Mexico  [377]Yu Ranked 3rd in [378]Japan 2017
+     * [379]USA  [380]Zanguzen (#90) Old school player that recently got active again
+     * [381]USA  [382]Zhu (#31)
+     * [383]Norway  [384]Zorc Ranked 1st in [385]Norway
+
+Inactive[[386]edit]
+
+     * [387]Canada  [388]Bam
+     * [389]Japan  [390]Bombsoldier One of the most influental Falcos of all time, known for his match against [391]Ken, created zero-to-death combos
+     * [392]USA  [393]Dope
+     * [394]USA  [395]DruggedFox (#23) Now mains Fox
+     * [396]USA  [397]Forward
+     * [398]USA  [399]Frootloop (#78) Now mains Fox
+     * [400]USA  [401]Justin Junio
+     * [402]USA  [403]Lambchops
+     * [404]USA  [405]PC Chris Once considered one of the best players in the world
+     * [406]USA  [407]PPMD (on hiatus) One of the [408]Five Gods, once considered one of the best players in the world, known for his analytical and effective playstyle
+     * [409]Netherlands  [410]Remen Was ranked 4th in [411]Dutch Power Rankings from 2007 to 2015.
+     * [412]USA  [413]Rob$
+     * [414]USA  [415]Sultan of Samitude Best Falco main in the early meta, retired 2005
+     * [416]USA  [417]StriCNYN3
+
+Tier placement and history[[418]edit]
+
+   Throughout the Melee tier lists, Falco has always been in the high/top tiers along with [419]Fox and [420]Sheik, with his lowest position being fifth place. In the beginning of Melee's metagame, Falco players had not yet discovered his strong combo potential. As such, they relied only on zoning out the opponent with his [421]Blaster in the [422]neutral game, while largely ignoring his punish game. While this defensive style of play was reasonably effective and gave Falco the results he needed to stay in the high tiers, Falco was widely considered to be not only inferior to Fox, but to other top tiers such as Sheik and [423]Marth as well, as those characters' metagames were advancing faster than his.
+
+   However, this perception changed drastically after the [424]Jack Garden Tournament, where players worldwide were introduced to [425]Bombsoldier and his extremely aggressive interpretation of what was once considered a purely defensive character. Falco players soon realized that their approach to the character was suboptimal, and began implementing many of Bombsoldier's strategies into their own game. In turn, Falco's results began improving dramatically. New Falco mains, most notably [426]PC Chris, soon began pushing him to levels of play exceeding that of even Bombsoldier's. PC Chris was even able to win some of the most prestigious tournaments at the time, proving that Falco had all the tools to succeed and come out on top at the highest level of play.
+
+   With PC Chris retiring soon after Brawl was released in 2008, and with the concurrent rise of [427]KoreanDJ and [428]Mew2King (who both played Fox, among other characters), Falco saw a dip in popularity for a brief period of time. There was noticeable debate over his position at 2nd on the tier list, and he fell to 4th in a 2008 revision. However, his metagame was revitalized by new world class players, such as [429]Mango, [430]PPMD, [431]Westballz, and [432]DaShizWiz, who all gave Falco results at the top level once again. Falco players continued to place extremely well, and for some time until 2014, even won more large tournaments than Fox players. This led some players at the time, [433]such as Mew2King, to believe that Falco was a better character than Fox, with the argument that Falco succeeds in notable tournaments more consistently than Fox, while Fox's perceived superiority was based more on potential than performance.
+
+   However, since then, there have been very few majors, if any, won by a Falco main; Fox players have since taken 1st place in many more majors, even in PAL. This is mainly due to [434]PPMD's hiatus, the rise of Fox mains such as [435]Leffen, and more top players electing to pick Fox in high-level tournament matches for his superior matchups against [436]floaty characters. The Falco counterplay metagame has also advanced considerably, as professionals have greatly improved their [437]DI and [438]powershielding skills that make it much harder for Falco players to win the neutral game and combo opponents. As such, while it is agreed that Falco can still succeed at the top level, his position at 2nd in the tier list is once again extremely debatable.
+
+PAL viability[[439]edit]
+
+   Like several other characters who, by coincidence, would years later be known to be top tier, Falco was nerfed in the PAL version of Melee. His powerful down aerial spike now only has the spike hitbox during the first 10 frames of the move, while the weaker hitbox sends opponents on the [440]Sakurai angle instead. This makes timing Falco's down aerial more key to success in tournament play. However, this nerf does not significantly affect him, as most Falco professionals train to hit with the strong hitbox anyway, and the duration of said hitbox is still enough to approach the enemy with it and wear down shields. Thus, Falco's viability in PAL is more or less the same as in NTSC, barring a slightly easier matchup against [441]Fox due to Fox's own nerfs in that version.
+
+In Single-Player Modes[[442]edit]
+
+In [443]Classic Mode[[444]edit]
+
+   When unlocked, Falco can appear either in ordinary one-on-one matches, in a team with Fox or [445]Captain Falcon, as an ally in team and giant battles, or as a metal opponent in the game's penultimate battle. With the exception of being on a team with Captain Falcon and the metal battle, Falco appears on either [446]Corneria or [447]Venom.
+
+In [448]Adventure Mode[[449]edit]
+
+   In the game's Adventure Mode, Falco can appear in Part 2 of Stage 6; when unlocked, the player has the possibility of fighting against Falco in the stage, instead of Fox again. However, Falco wears the red [450]Alternate costume (his first alternate costume); instead of default color.
+
+In [451]All-Star Mode[[452]edit]
+
+   In All-Star Mode, Falco and his allies are fought on Venom.
+
+In [453]Event Matches[[454]edit]
+
+   Falco appears in the following event matches:
+     * [455]Event 23: Slippy's Invention: In this event, the player must fight against Fox and Falco on Venom, in a standard two stock match; however, the two are under the effects of a Cloaking Device during the entire match, though they can still be damaged.
+     * [456]Event 32: Target Acquired: As Falco, the player must KO [457]Jigglypuff as many times as possible in one minute on Corneria. However, Arwings also fire frequently at the stage, and Falco must KO Jigglypuff more often than the Arwings to win the event.
+     * [458]Event 36: Space Travelers: As [459]Ness, the player must defeat five opponents in a row: [460]Samus, [461]Kirby, [462]Fox, Captain Falcon, and Falco. In the first three opponents, the fights are done on [463]Fourside; after this, the player is then sent to [464]Battlefield to fight against the last two.
+     * [465]Event 43: Birds of Prey: In this event, the player, as Fox, must fight against a team of Falco and Captain Falcon on the stage [466]Big Blue. Everyone has two lives, but there is also a time limit of two minutes.
+     * [467]Event 49: All-Star Match Deluxe: Falco is the second opponent fought in this series of staged battles. The selected character battles him on the [468]Venom stage with a stock of 2 while Falco has 1. With a timer of four minutes, the player must defeat him and the other five characters one-by-one with the overall time and damage: [469]Dr. Mario, [470]Pichu, [471]Young Link, [472]Roy and [473]Ganondorf.
+
+Ending images[[474]edit]
+
+     * Classic Mode.
+     * Adventure Mode.
+     * All-Star Mode.
+
+Trophy descriptions[[475]edit]
+
+          Falco
+          "Star Fox team pilot, Falco's constant air of casual indifference belies his precise piloting skills. He avoids discussion of what he did before joining the team, but many consider it likely that his past was filled with reckless behavior. He's not much for cooperation, but he does respect those more skilled than he is."
+          Game: [476]Star Fox [03/93]
+
+          Falco [Smash]
+          "Where his leader, Fox, has blinding speed, Falco has his own distinct skills and advantages. He has both a higher jump and a longer reach than Fox, and although his Blaster lacks rapid-fire capabilities, it strikes with shocking force. Unlike Fox, Falco can stop enemies in their tracks with his Blaster fire."
+
+          + B: [477]Blaster
+          + Smash B: [478]Falco Phantasm
+
+          Falco [Smash]
+          "Falco's amazing jumping abilities have many merits, but it's vital to realize that it comes at the cost of some attack power and defensive strength. He falls at a high speed, which disrupts potential attackers, but this also prevents successful recoveries occasionally. Hit an opponent with Reflector, and he or she will fly straight up; this is Falco's quickest attack. "
+
+          + Up & B: [479]Fire Bird
+          + Down & B: [480]Reflector
+
+     * Classic
+     * [Smash]
+     * [Smash]
+
+[481]Alternate costumes[[482]edit]
+
+   [483]Falco Palette (SSBM).png
+   [484]FalcoHeadSSBM.png [485]FalcoHeadRedSSBM.png [486]FalcoHeadBlueSSBM.png [487]FalcoHeadGreenSSBM.png
+
+Trivia[[488]edit]
+
+     * Falco's voice actors, Ben Cullum and Hisao Egawa, are credited in the [489]credits even if he has not been unlocked yet. This is due to his appearance in the intermission of the [490]Corneria stage in [491]Adventure Mode.
+     * Falco is the only character who isn't first on his respective tier list that has no disadvantageous matchups.
+     * Super Smash Bros. Melee is the only game where Falco is not fought in his home stages when being unlocked, instead he is fought in [492]Battlefield.
+
+   [493]v • [494]d • [495]e
+   [496]Playable characters in [497]Super Smash Bros. Melee
+   [498]Veterans  [499]Captain Falcon · [500]Donkey Kong · [501]Fox · [502]Jigglypuff · [503]Kirby · [504]Link · [505]Luigi · [506]Mario · [507]Ness · [508]Pikachu · [509]Samus · [510]Yoshi
+   [511]Newcomers [512]Bowser · [513]Dr. Mario · Falco · [514]Ganondorf · [515]Ice Climbers · [516]Marth · [517]Mewtwo · [518]Mr. Game & Watch · [519]Peach · [520]Pichu · [521]Roy · [522]Young Link · [523]Zelda ([524]Sheik)
+   [525]v • [526]d • [527]e
+   Enemies in [528]Adventure Mode ([529]SSBM)
+   [530]Mushroom Kingdom  [531]Goomba · [532]Koopa Paratroopa · [533]Koopa Troopa · [534]Yoshi Team · [535]Mario · [536]Peach · [537]Luigi
+     [538]Kongo Jungle    [539]Tiny Donkey Kongs · [540]Giant DK
+   [541]Underground Maze  [542]Octorok · [543]ReDead · [544]Like Like · [545]Links · [546]Zelda/[547]Sheik
+       [548]Brinstar      [549]Samus
+     [550]Green Greens    [551]Kirby · [552]Kirby Team · [553]Giant Kirby
+       [554]Corneria      [555]Fox · Falco
+    [556]Pokémon Stadium  [557]Pikachu · [558]Jigglypuff · [559]Pichu
+   [560]F-Zero Grand Prix [561]Captain Falcon
+         [562]Onett       [563]Ness
+    [564]Icicle Mountain  [565]Topi · [566]Polar Bear · [567]Ice Climbers
+      [568]Battlefield    [569]Fighting Wire Frames · [570]Metal Mario · [571]Metal Luigi
+   [572]Final Destination [573]Giant Bowser · [574]Giga Bowser
+   [575]v • [576]d • [577]e
+   [578]StarFoxSymbol.svg [579]Star Fox universe
+                  [580]Characters                 [581]Fox ([582]SSB · [583]SSBM · [584]SSBB · [585]SSB4 · [586]SSBU) · [587]Falco (SSBM · [588]SSBB · [589]SSB4 · [590]SSBU) · [591]Wolf ([592]SSBB · [593]SSBU)
+                [594]Assist Trophies              [595]Andross · [596]Krystal
+                    [597]Stages                   [598]Sector Z · [599]Corneria · [600]Venom · [601]Lylat Cruise · [602]Orbital Gate Assault
+                     [603]Items                   [604]Smart Bomb
+                       Other                      [605]Leon Powalski · [606]Panther Caroso · [607]Peppy Hare · [608]ROB 64 · [609]Slippy Toad
+                      Vehicles                    [610]Arwing · [611]Great Fox · [612]Wolfen
+   [613]Trophies, [614]Stickers, and [615]Spirits [616]Trophies in Melee · [617]Trophies in Brawl · [618]Trophies in SSB4 · [619]Stickers in Brawl · [620]Spirits in Ultimate
+                       Music                      [621]Music in Brawl · [622]Music in SSB4 · [623]Music in Ultimate
+   Ads keep SmashWiki independent and free :)
+   Retrieved from "[624]https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&oldid=1171480"
+   [625]Categories:
+     * [626]Articles requiring technical data
+     * [627]Characters (SSBM)
+     * [628]Star Fox universe
+     * [629]Falco (SSBM)
+     * [630]Trophies (SSBM)
+
+Navigation menu
+
+Views
+
+     * [631]Article
+     * [632]Discussion
+     * [633]Edit this page
+     * [634]History
+
+Personal tools
+
+     * Not logged in
+     * [635]Talk
+     * [636]Contributions
+     * [637]Create account
+     * [638]Log in
+
+Navigation
+
+     * [639]Main page
+     * [640]Smash Bros. Ultimate
+     * [641]Smash Bros. 4
+     * [642]Smash Bros. Brawl
+     * [643]Smash Bros. Melee
+     * [644]Smash Bros. (64)
+     * [645]Characters
+     * [646]Stages
+     * [647]Modes
+     * [648]Items
+     * [649]Random page
+
+Search
+
+   ____________________ Go  Search
+
+Participate
+
+     * [650]Forum
+     * [651]Community portal
+     * [652]Recent changes
+     * [653]Help
+     * [654]Admin noticeboard
+     * [655]Discord server
+     * [656]YouTube channel
+
+Tools
+
+     * [657]What links here
+     * [658]Related changes
+     * [659]Special pages
+     * [660]Printable version
+     * [661]Permanent link
+     * [662]Page information
+
+   [663]Attribution-Share Alike 3.0 Unported
+   [664]Powered by MediaWiki
+     * This page was last edited on 15 January 2019, at 18:49.
+     * Content is available under [665]Attribution-Share Alike 3.0 Unported unless otherwise noted.
+     * [666]Privacy policy
+     * [667]About SmashWiki
+     * [668]Disclaimers
+     * [669]Mobile view
+
+References
+
+   Visible links
+   1. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit
+   2. https://www.ssbwiki.com/opensearch_desc.php
+   3. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&feed=atom
+   4. https://www.ssbwiki.com/Falco_(SSBM)#column-one
+   5. https://www.ssbwiki.com/Falco_(SSBM)#searchInput
+   6. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+   7. https://www.ssbwiki.com/Falco_Lombardi
+   8. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+   9. https://www.ssbwiki.com/File:Falco_SSBM.jpg
+  10. https://www.ssbwiki.com/File:StarFoxSymbol(preBrawl).svg
+  11. https://www.ssbwiki.com/Universe
+  12. https://www.ssbwiki.com/Star_Fox_(universe)
+  13. https://www.ssbwiki.com/Falco_(SSBB)
+  14. https://www.ssbwiki.com/Falco_(SSB4)
+  15. https://www.ssbwiki.com/Falco_(SSBU)
+  16. https://www.ssbwiki.com/Unlockable_character
+  17. https://www.ssbwiki.com/Tier_list
+  18. https://www.ssbwiki.com/Falco_(SSBM)
+  19. https://www.ssbwiki.com/Unlockable_character
+  20. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+  21. https://www.ssbwiki.com/Fox_(SSBM)
+  22. https://www.ssbwiki.com/Reflector
+  23. https://www.ssbwiki.com/Down_aerial
+  24. https://www.ssbwiki.com/DI
+  25. https://www.ssbwiki.com/Blaster_(Falco)
+  26. https://www.ssbwiki.com/Pikachu_(SSB)
+  27. https://www.ssbwiki.com/Meta_Knight_(SSBB)
+  28. https://www.ssbwiki.com/Falco_(SSBM)#How_to_Unlock
+  29. https://www.ssbwiki.com/Falco_(SSBM)#Attributes
+  30. https://www.ssbwiki.com/Falco_(SSBM)#Similarities_with_Fox_from_Super_Smash_Bros.
+  31. https://www.ssbwiki.com/Falco_(SSBM)#PAL_differences
+  32. https://www.ssbwiki.com/Falco_(SSBM)#Differences_with_Fox
+  33. https://www.ssbwiki.com/Falco_(SSBM)#Aesthetics
+  34. https://www.ssbwiki.com/Falco_(SSBM)#Attributes_2
+  35. https://www.ssbwiki.com/Falco_(SSBM)#Ground_attacks
+  36. https://www.ssbwiki.com/Falco_(SSBM)#Aerial_attacks
+  37. https://www.ssbwiki.com/Falco_(SSBM)#Grabs_and_throws
+  38. https://www.ssbwiki.com/Falco_(SSBM)#Special_moves
+  39. https://www.ssbwiki.com/Falco_(SSBM)#Moveset
+  40. https://www.ssbwiki.com/Falco_(SSBM)#Taunt
+  41. https://www.ssbwiki.com/Falco_(SSBM)#Idle_poses
+  42. https://www.ssbwiki.com/Falco_(SSBM)#Crowd_cheer
+  43. https://www.ssbwiki.com/Falco_(SSBM)#Victory_poses
+  44. https://www.ssbwiki.com/Falco_(SSBM)#In_Competitive_play
+  45. https://www.ssbwiki.com/Falco_(SSBM)#Matchups
+  46. https://www.ssbwiki.com/Falco_(SSBM)#Notable_players
+  47. https://www.ssbwiki.com/Falco_(SSBM)#Active
+  48. https://www.ssbwiki.com/Falco_(SSBM)#Inactive
+  49. https://www.ssbwiki.com/Falco_(SSBM)#Tier_placement_and_history
+  50. https://www.ssbwiki.com/Falco_(SSBM)#PAL_viability
+  51. https://www.ssbwiki.com/Falco_(SSBM)#In_Single-Player_Modes
+  52. https://www.ssbwiki.com/Falco_(SSBM)#In_Classic_Mode
+  53. https://www.ssbwiki.com/Falco_(SSBM)#In_Adventure_Mode
+  54. https://www.ssbwiki.com/Falco_(SSBM)#In_All-Star_Mode
+  55. https://www.ssbwiki.com/Falco_(SSBM)#In_Event_Matches
+  56. https://www.ssbwiki.com/Falco_(SSBM)#Ending_images
+  57. https://www.ssbwiki.com/Falco_(SSBM)#Trophy_descriptions
+  58. https://www.ssbwiki.com/Falco_(SSBM)#Alternate_costumes
+  59. https://www.ssbwiki.com/Falco_(SSBM)#Trivia
+  60. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=1
+  61. https://www.ssbwiki.com/Battlefield_(SSBM)
+  62. https://www.ssbwiki.com/Corneria
+  63. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=2
+  64. https://www.ssbwiki.com/Traction
+  65. https://www.ssbwiki.com/Falling_speed
+  66. https://www.ssbwiki.com/Air_speed
+  67. https://www.ssbwiki.com/Combo
+  68. https://www.ssbwiki.com/Approach
+  69. https://www.ssbwiki.com/Blaster_(Falco)
+  70. https://www.ssbwiki.com/Short_hop_laser
+  71. https://www.ssbwiki.com/Pillar
+  72. https://www.ssbwiki.com/Shield
+  73. https://www.ssbwiki.com/Smash_DI
+  74. https://www.ssbwiki.com/Wall_jump
+  75. https://www.ssbwiki.com/Fire_Bird
+  76. https://www.ssbwiki.com/Marth_(SSBM)
+  77. https://www.ssbwiki.com/Counter
+  78. https://www.ssbwiki.com/Link_(SSBM)
+  79. https://www.ssbwiki.com/Spin_Attack
+  80. https://www.ssbwiki.com/Mario_(SSBM)
+  81. https://www.ssbwiki.com/Cape
+  82. https://www.ssbwiki.com/Falco_Phantasm
+  83. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+  84. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+  85. https://www.ssbwiki.com/Space_animal_slayer
+  86. https://www.ssbwiki.com/Fox_(SSB)
+  87. https://www.ssbwiki.com/Super_Smash_Bros.
+  88. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=3
+  89. https://www.ssbwiki.com/Fox_(SSB)
+  90. https://www.ssbwiki.com/Fire_Bird
+  91. https://www.ssbwiki.com/Fire_Fox
+  92. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=4
+  93. https://www.ssbwiki.com/PAL
+  94. https://www.ssbwiki.com/Spike
+  95. https://www.ssbwiki.com/Sakurai_angle
+  96. https://www.ssbwiki.com/Down_throw
+  97. https://www.ssbwiki.com/Fox_(SSBM)
+  98. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=5
+  99. https://www.ssbwiki.com/Talk:Falco_(SSBM)
+ 100. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit
+ 101. https://www.ssbwiki.com/Clone
+ 102. https://www.ssbwiki.com/Shine
+ 103. https://www.ssbwiki.com/Blaster
+ 104. https://www.ssbwiki.com/Neutral_game
+ 105. https://www.ssbwiki.com/Wavedash
+ 106. https://www.ssbwiki.com/Shine
+ 107. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 108. https://www.ssbwiki.com/Peach_(SSBM)
+ 109. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=6
+ 110. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=7
+ 111. https://www.ssbwiki.com/Jumping
+ 112. https://www.ssbwiki.com/SHFFL
+ 113. https://www.ssbwiki.com/Wall_jump
+ 114. https://www.ssbwiki.com/Walk
+ 115. https://www.ssbwiki.com/Dash
+ 116. https://www.ssbwiki.com/Wavedash
+ 117. https://www.ssbwiki.com/Roll
+ 118. https://www.ssbwiki.com/Chaingrabs
+ 119. https://www.ssbwiki.com/Gravity
+ 120. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=8
+ 121. https://www.ssbwiki.com/Dash_attack
+ 122. https://www.ssbwiki.com/Forward_tilt
+ 123. https://www.ssbwiki.com/Up_tilt
+ 124. https://www.ssbwiki.com/Down_tilt
+ 125. https://www.ssbwiki.com/Forward_smash
+ 126. https://www.ssbwiki.com/Up_smash
+ 127. https://www.ssbwiki.com/Intangible
+ 128. https://www.ssbwiki.com/Down_smash
+ 129. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=9
+ 130. https://www.ssbwiki.com/Neutral_aerial
+ 131. https://www.ssbwiki.com/Back_aerial
+ 132. https://www.ssbwiki.com/Forward_aerial
+ 133. https://www.ssbwiki.com/Up_aerial
+ 134. https://www.ssbwiki.com/Down_aerial
+ 135. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=10
+ 136. https://www.ssbwiki.com/Grab
+ 137. https://www.ssbwiki.com/Forward_throw
+ 138. https://www.ssbwiki.com/Back_throw
+ 139. https://www.ssbwiki.com/Down_throw
+ 140. https://www.ssbwiki.com/Up_throw
+ 141. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=11
+ 142. https://www.ssbwiki.com/Blaster
+ 143. https://www.ssbwiki.com/Falco_Phantasm
+ 144. https://www.ssbwiki.com/Fire_Bird
+ 145. https://www.ssbwiki.com/Fire_Fox
+ 146. https://www.ssbwiki.com/Meteor_smash
+ 147. https://www.ssbwiki.com/Spike
+ 148. https://www.ssbwiki.com/Reflector_(Falco)
+ 149. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=12
+ 150. https://www.ssbwiki.com/Falco_(SSBM)/Hitboxes
+ 151. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)/Neutral_attack&action=edit&redlink=1
+ 152. https://www.ssbwiki.com/Jab_cancel
+ 153. https://www.ssbwiki.com/Falco_(SSBM)/Forward_tilt
+ 154. https://www.ssbwiki.com/Gimp
+ 155. https://www.ssbwiki.com/Falco_(SSBM)/Up_tilt
+ 156. https://www.ssbwiki.com/Falco_(SSBM)/Down_tilt
+ 157. https://www.ssbwiki.com/Falco_(SSBM)/Dash_attack
+ 158. https://www.ssbwiki.com/Falco_(SSBM)/Forward_smash
+ 159. https://www.ssbwiki.com/Fox_(SSBM)
+ 160. https://www.ssbwiki.com/Falco_(SSBM)/Up_smash
+ 161. https://www.ssbwiki.com/Falco_(SSBM)/Down_smash
+ 162. https://www.ssbwiki.com/Semi-spike
+ 163. https://www.ssbwiki.com/Falco_(SSBM)/Neutral_aerial
+ 164. https://www.ssbwiki.com/Sex_kick
+ 165. https://www.ssbwiki.com/Falco_(SSBM)/Forward_aerial
+ 166. https://www.ssbwiki.com/Falco_(SSBM)/Back_aerial
+ 167. https://www.ssbwiki.com/Edgeguarding
+ 168. https://www.ssbwiki.com/Falco_(SSBM)/Up_aerial
+ 169. https://www.ssbwiki.com/Falco_(SSBM)/Down_aerial
+ 170. https://www.ssbwiki.com/Spike
+ 171. https://www.ssbwiki.com/Sourspot
+ 172. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)/Grab&action=edit&redlink=1
+ 173. https://www.ssbwiki.com/Falco_(SSBM)/Pummel
+ 174. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)/Forward_throw&action=edit&redlink=1
+ 175. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)/Back_throw&action=edit&redlink=1
+ 176. https://www.ssbwiki.com/Tech-chase
+ 177. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)/Up_throw&action=edit&redlink=1
+ 178. https://www.ssbwiki.com/Falco_(SSBM)/Down_throw
+ 179. https://www.ssbwiki.com/Meteor_smash
+ 180. https://www.ssbwiki.com/Pichu_(SSBM)
+ 181. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSBM)
+ 182. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)/Floor_attack_(front)&action=edit&redlink=1
+ 183. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)/Floor_attack_(back)&action=edit&redlink=1
+ 184. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)/Edge_attack_(fast)&action=edit&redlink=1
+ 185. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)/Edge_attack_(slow)&action=edit&redlink=1
+ 186. https://www.ssbwiki.com/Falco_(SSBM)/Neutral_special
+ 187. https://www.ssbwiki.com/Blaster_(Falco)
+ 188. https://www.ssbwiki.com/Short_hop_laser
+ 189. https://www.ssbwiki.com/Priority#transcendent_priority
+ 190. https://www.ssbwiki.com/Falco_(SSBM)/Side_special
+ 191. https://www.ssbwiki.com/Falco_Phantasm
+ 192. https://www.ssbwiki.com/Falco_(SSBM)/Up_special
+ 193. https://www.ssbwiki.com/Fire_Bird
+ 194. https://www.ssbwiki.com/Control_stick
+ 195. https://www.ssbwiki.com/Fire_Fox
+ 196. https://www.ssbwiki.com/Meteor_smash
+ 197. https://www.ssbwiki.com/Falco_(SSBM)/Down_special
+ 198. https://www.ssbwiki.com/Reflector_(Falco)
+ 199. https://www.ssbwiki.com/Taunt
+ 200. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=13
+ 201. https://www.ssbwiki.com/Star_Fox's_Conversations
+ 202. https://www.ssbwiki.com/Corneria
+ 203. https://www.ssbwiki.com/Venom
+ 204. https://www.ssbwiki.com/Control_pad
+ 205. https://www.ssbwiki.com/File:Falco-Taunt-SSBM.gif
+ 206. https://www.ssbwiki.com/File:Taunts-Melee-Falco-SmashTaunt.png
+ 207. https://www.ssbwiki.com/Idle_pose
+ 208. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=14
+ 209. https://www.ssbwiki.com/File:Falco_Idle_Pose_Melee_1.gif
+ 210. https://www.ssbwiki.com/File:Falco_Idle_Pose_Melee_2.gif
+ 211. https://www.ssbwiki.com/Crowd_cheer
+ 212. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=15
+ 213. https://www.ssbwiki.com/File:Falco_Cheer_NTSC_Melee.ogg
+ 214. https://www.ssbwiki.com/File:Falco_Cheer_JP_Melee.ogg
+ 215. https://www.ssbwiki.com/Victory_pose
+ 216. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=16
+ 217. https://www.ssbwiki.com/File:Falco-Victory1-SSBM.gif
+ 218. https://www.ssbwiki.com/File:Falco-Victory2-SSBM.gif
+ 219. https://www.ssbwiki.com/File:Falco-Victory3-SSBM.gif
+ 220. https://www.ssbwiki.com/Competitive_play
+ 221. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=17
+ 222. https://www.ssbwiki.com/Character_matchups_(SSBM)
+ 223. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=18
+ 224. https://www.ssbwiki.com/Character_matchup_(SSBM)
+ 225. https://www.ssbwiki.com/Fox_(SSBM)
+ 226. https://www.ssbwiki.com/Falco_(SSBM)
+ 227. https://www.ssbwiki.com/Marth_(SSBM)
+ 228. https://www.ssbwiki.com/Sheik_(SSBM)
+ 229. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 230. https://www.ssbwiki.com/Peach_(SSBM)
+ 231. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 232. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 233. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 234. https://www.ssbwiki.com/Samus_(SSBM)
+ 235. https://www.ssbwiki.com/Dr._Mario_(SSBM)
+ 236. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 237. https://www.ssbwiki.com/Luigi_(SSBM)
+ 238. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 239. https://www.ssbwiki.com/Mario_(SSBM)
+ 240. https://www.ssbwiki.com/Young_Link_(SSBM)
+ 241. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+ 242. https://www.ssbwiki.com/Link_(SSBM)
+ 243. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSBM)
+ 244. https://www.ssbwiki.com/Roy_(SSBM)
+ 245. https://www.ssbwiki.com/Mewtwo_(SSBM)
+ 246. https://www.ssbwiki.com/Zelda_(SSBM)
+ 247. https://www.ssbwiki.com/Ness_(SSBM)
+ 248. https://www.ssbwiki.com/Pichu_(SSBM)
+ 249. https://www.ssbwiki.com/Bowser_(SSBM)
+ 250. https://www.ssbwiki.com/Kirby_(SSBM)
+ 251. https://www.ssbwiki.com/Falco_(SSBM)
+ 252. https://www.ssbwiki.com/File:Matchup(0)7T.png
+ 253. https://www.ssbwiki.com/File:Matchup(M)7T.png
+ 254. https://www.ssbwiki.com/File:Matchup(0)7T.png
+ 255. https://www.ssbwiki.com/File:Matchup(0)7T.png
+ 256. https://www.ssbwiki.com/File:Matchup(0)7T.png
+ 257. https://www.ssbwiki.com/File:Matchup(0)7T.png
+ 258. https://www.ssbwiki.com/File:Matchup(0)7T.png
+ 259. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 260. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 261. https://www.ssbwiki.com/File:Matchup(0)7T.png
+ 262. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 263. https://www.ssbwiki.com/File:Matchup(+3)7T.png
+ 264. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 265. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 266. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 267. https://www.ssbwiki.com/File:Matchup(+3)7T.png
+ 268. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 269. https://www.ssbwiki.com/File:Matchup(+3)7T.png
+ 270. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 271. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 272. https://www.ssbwiki.com/File:Matchup(+3)7T.png
+ 273. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 274. https://www.ssbwiki.com/File:Matchup(+3)7T.png
+ 275. https://www.ssbwiki.com/File:Matchup(+3)7T.png
+ 276. https://www.ssbwiki.com/File:Matchup(+3)7T.png
+ 277. https://www.ssbwiki.com/File:Matchup(+3)7T.png
+ 278. https://www.ssbwiki.com/File:Matchup(+2)7T.png
+ 279. https://www.ssbwiki.com/Fox_(SSBM)
+ 280. https://www.ssbwiki.com/Soft_counter
+ 281. https://www.ssbwiki.com/Counter_(matchup)
+ 282. https://www.ssbwiki.com/Hard_counter
+ 283. https://www.ssbwiki.com/Chaingrab
+ 284. https://www.ssbwiki.com/Marth_(SSBM)
+ 285. https://www.ssbwiki.com/Peach_(SSBM)
+ 286. https://www.ssbwiki.com/Gimp
+ 287. https://www.ssbwiki.com/Edgeguard
+ 288. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 289. https://www.ssbwiki.com/Combo
+ 290. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 291. https://www.ssbwiki.com/Young_Link_(SSBM)
+ 292. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=19
+ 293. https://www.ssbwiki.com/Category:Falco_professionals_(SSBM)
+ 294. https://www.ssbwiki.com/2016_SSBMRank
+ 295. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=20
+ 296. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 297. https://www.ssbwiki.com/Smasher:Axe
+ 298. https://www.ssbwiki.com/File:Flag_of_France.png
+ 299. https://www.ssbwiki.com/Smasher:Baxon
+ 300. https://www.ssbwiki.com/French_Power_Rankings
+ 301. https://www.ssbwiki.com/European_Melee_Power_Rankings
+ 302. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 303. https://www.ssbwiki.com/Smasher:Blunted_Object10
+ 304. https://www.ssbwiki.com/British_Columbia_Power_Rankings
+ 305. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 306. https://www.ssbwiki.com/Smasher:Bobby_Big_Ballz
+ 307. https://www.ssbwiki.com/MD/VA_Power_Rankings
+ 308. https://www.ssbwiki.com/File:Flag_of_Sweden.png
+ 309. https://www.ssbwiki.com/Smasher:Calle_W
+ 310. https://www.ssbwiki.com/European_Melee_Power_Rankings
+ 311. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 312. https://www.ssbwiki.com/Smasher:DaShizWiz
+ 313. https://www.ssbwiki.com/2013_SSBM_Player_Rankings
+ 314. https://www.ssbwiki.com/File:Flag_of_United_Kingdom.png
+ 315. https://www.ssbwiki.com/Smasher:Frenzy
+ 316. https://www.ssbwiki.com/European_Melee_Power_Rankings
+ 317. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 318. https://www.ssbwiki.com/Smasher:Ginger
+ 319. https://www.ssbwiki.com/Michigan_Power_Rankings
+ 320. https://www.ssbwiki.com/Smasher:DruggedFox
+ 321. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 322. https://www.ssbwiki.com/Smasher:HomeMadeWaffles
+ 323. https://www.ssbwiki.com/NorCal_Power_Rankings
+ 324. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 325. https://www.ssbwiki.com/Smasher:King_Momo
+ 326. https://www.ssbwiki.com/Florida_Power_Rankings
+ 327. https://www.ssbwiki.com/File:Flag_of_Japan.png
+ 328. https://www.ssbwiki.com/Smasher:Kounotori
+ 329. https://www.ssbwiki.com/Japan_SSBM_Rank_2017
+ 330. https://www.ssbwiki.com/2013_SSBMRank
+ 331. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 332. https://www.ssbwiki.com/Smasher:KPAN
+ 333. https://www.ssbwiki.com/Georgia_Power_Rankings
+ 334. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 335. https://www.ssbwiki.com/Smasher:Larry_Lurr
+ 336. https://www.ssbwiki.com/2013_SSBMRank
+ 337. https://www.ssbwiki.com/2014_SSBMRank
+ 338. https://www.ssbwiki.com/File:Flag_of_Finland.png
+ 339. https://www.ssbwiki.com/Smasher:Levingy
+ 340. https://www.ssbwiki.com/European_Melee_Power_Rankings
+ 341. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 342. https://www.ssbwiki.com/Smasher:Mango
+ 343. https://www.ssbwiki.com/Five_Gods
+ 344. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 345. https://www.ssbwiki.com/Smasher:MattDotZeb
+ 346. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 347. https://www.ssbwiki.com/Smasher:Porkchops
+ 348. https://www.ssbwiki.com/Florida_Power_Rankings
+ 349. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 350. https://www.ssbwiki.com/Smasher:Ralph
+ 351. https://www.ssbwiki.com/NorCal_Power_Rankings
+ 352. https://www.ssbwiki.com/2015_SSBMRank
+ 353. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 354. https://www.ssbwiki.com/Smasher:Santiago
+ 355. https://www.ssbwiki.com/SoCal_Power_Rankings
+ 356. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 357. https://www.ssbwiki.com/Smasher:Sion
+ 358. https://www.ssbwiki.com/British_Columbia_Power_Rankings
+ 359. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 360. https://www.ssbwiki.com/Smasher:Squid
+ 361. https://www.ssbwiki.com/SoCal_Power_Rankings
+ 362. https://www.ssbwiki.com/File:Flag_of_Japan.png
+ 363. https://www.ssbwiki.com/Smasher:Tapioka
+ 364. https://www.ssbwiki.com/Japan_SSBM_Rank_2017
+ 365. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 366. https://www.ssbwiki.com/Smasher:TheRealThing
+ 367. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 368. https://www.ssbwiki.com/Smasher:Th0rn
+ 369. https://www.ssbwiki.com/New_England_Power_Rankings
+ 370. https://www.ssbwiki.com/2013_SSBMRank
+ 371. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 372. https://www.ssbwiki.com/Smasher:Trulliam
+ 373. https://www.ssbwiki.com/Southern_Ontario_Power_Rankings
+ 374. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 375. https://www.ssbwiki.com/Smasher:Westballz
+ 376. https://www.ssbwiki.com/File:Flag_of_Mexico.png
+ 377. https://www.ssbwiki.com/Smasher:Yu
+ 378. https://www.ssbwiki.com/Japan_SSBM_Rank_2017
+ 379. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 380. https://www.ssbwiki.com/Smasher:Zanguzen
+ 381. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 382. https://www.ssbwiki.com/Smasher:Zhu
+ 383. https://www.ssbwiki.com/File:Flag_of_Norway.png
+ 384. https://www.ssbwiki.com/Smasher:Zorc
+ 385. https://www.ssbwiki.com/Norwegian_Power_Rankings
+ 386. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=21
+ 387. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 388. https://www.ssbwiki.com/Smasher:Bam
+ 389. https://www.ssbwiki.com/File:Flag_of_Japan.png
+ 390. https://www.ssbwiki.com/Smasher:Bombsoldier
+ 391. https://www.ssbwiki.com/Smasher:Ken
+ 392. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 393. https://www.ssbwiki.com/Smasher:Dope
+ 394. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 395. https://www.ssbwiki.com/Smasher:DruggedFox
+ 396. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 397. https://www.ssbwiki.com/Smasher:Forward
+ 398. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 399. https://www.ssbwiki.com/Smasher:Frootloop
+ 400. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 401. https://www.ssbwiki.com/Smasher:Justin_Junio
+ 402. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 403. https://www.ssbwiki.com/Smasher:Lambchops
+ 404. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 405. https://www.ssbwiki.com/Smasher:PC_Chris
+ 406. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 407. https://www.ssbwiki.com/Smasher:PPMD
+ 408. https://www.ssbwiki.com/Five_Gods
+ 409. https://www.ssbwiki.com/File:Flag_of_The_Netherlands.png
+ 410. https://www.ssbwiki.com/Smasher:Remen
+ 411. https://www.ssbwiki.com/Dutch_Power_Rankings
+ 412. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 413. https://www.ssbwiki.com/Smasher:Rob$
+ 414. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 415. https://www.ssbwiki.com/Smasher:Sultan_of_Samitude
+ 416. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 417. https://www.ssbwiki.com/Smasher:StriCNYN3
+ 418. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=22
+ 419. https://www.ssbwiki.com/Fox_(SSBM)
+ 420. https://www.ssbwiki.com/Sheik_(SSBM)
+ 421. https://www.ssbwiki.com/Blaster
+ 422. https://www.ssbwiki.com/Neutral_game
+ 423. https://www.ssbwiki.com/Marth_(SSBM)
+ 424. https://www.ssbwiki.com/Jack_Garden_Tournament
+ 425. https://www.ssbwiki.com/Smasher:Bombsoldier
+ 426. https://www.ssbwiki.com/Smasher:PC_Chris
+ 427. https://www.ssbwiki.com/Smasher:KoreanDJ
+ 428. https://www.ssbwiki.com/Smasher:Mew2King
+ 429. https://www.ssbwiki.com/Smasher:Mango
+ 430. https://www.ssbwiki.com/Smasher:PPMD
+ 431. https://www.ssbwiki.com/Smasher:Westballz
+ 432. https://www.ssbwiki.com/Smasher:DaShizWiz
+ 433. http://www.eventhubs.com/news/2014/may/08/if-final-destination-was-only-stage-melee-marth-would-be-best-character-mew2kings-top-5-super-smash-bros-tier-list-pt3/
+ 434. https://www.ssbwiki.com/Smasher:PPMD
+ 435. https://www.ssbwiki.com/Smasher:Leffen
+ 436. https://www.ssbwiki.com/Floaty
+ 437. https://www.ssbwiki.com/DI
+ 438. https://www.ssbwiki.com/Powershielding
+ 439. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=23
+ 440. https://www.ssbwiki.com/Sakurai_angle
+ 441. https://www.ssbwiki.com/Fox_(SSBM)
+ 442. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=24
+ 443. https://www.ssbwiki.com/Classic_Mode_(SSBM)
+ 444. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=25
+ 445. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 446. https://www.ssbwiki.com/Corneria
+ 447. https://www.ssbwiki.com/Venom
+ 448. https://www.ssbwiki.com/Adventure_Mode
+ 449. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=26
+ 450. https://www.ssbwiki.com/Alternate_costume
+ 451. https://www.ssbwiki.com/All-Star_Mode
+ 452. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=27
+ 453. https://www.ssbwiki.com/Event_Matches
+ 454. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=28
+ 455. https://www.ssbwiki.com/Event_23:_Slippy's_Invention
+ 456. https://www.ssbwiki.com/Event_32:_Target_Acquired
+ 457. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 458. https://www.ssbwiki.com/Event_36:_Space_Travelers
+ 459. https://www.ssbwiki.com/Ness_(SSBM)
+ 460. https://www.ssbwiki.com/Samus_(SSBM)
+ 461. https://www.ssbwiki.com/Kirby_(SSBM)
+ 462. https://www.ssbwiki.com/Fox_(SSBM)
+ 463. https://www.ssbwiki.com/Fourside
+ 464. https://www.ssbwiki.com/Battlefield_(SSBM)
+ 465. https://www.ssbwiki.com/Event_43:_Birds_of_Prey
+ 466. https://www.ssbwiki.com/Big_Blue
+ 467. https://www.ssbwiki.com/Event_49:_All-Star_Match_Deluxe
+ 468. https://www.ssbwiki.com/Venom
+ 469. https://www.ssbwiki.com/Dr._Mario_(SSBM)
+ 470. https://www.ssbwiki.com/Pichu_(SSBM)
+ 471. https://www.ssbwiki.com/Young_Link_(SSBM)
+ 472. https://www.ssbwiki.com/Roy_(SSBM)
+ 473. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 474. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=29
+ 475. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=30
+ 476. https://starfoxwiki.info/wiki/Star_Fox_(game)
+ 477. https://www.ssbwiki.com/Blaster_(Falco)
+ 478. https://www.ssbwiki.com/Falco_Phantasm
+ 479. https://www.ssbwiki.com/Fire_Bird
+ 480. https://www.ssbwiki.com/Reflector_(Falco)
+ 481. https://www.ssbwiki.com/Alternate_costume_(SSBM)#Falco
+ 482. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=31
+ 483. https://www.ssbwiki.com/File:Falco_Palette_(SSBM).png
+ 484. https://www.ssbwiki.com/Falco_(SSBM)
+ 485. https://www.ssbwiki.com/Falco_(SSBM)
+ 486. https://www.ssbwiki.com/Falco_(SSBM)
+ 487. https://www.ssbwiki.com/Falco_(SSBM)
+ 488. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit&section=32
+ 489. https://www.ssbwiki.com/Credits
+ 490. https://www.ssbwiki.com/Corneria
+ 491. https://www.ssbwiki.com/Adventure_Mode
+ 492. https://www.ssbwiki.com/Battlefield_(SSBM)
+ 493. https://www.ssbwiki.com/Template:SSBMCharacters
+ 494. https://www.ssbwiki.com/Template_talk:SSBMCharacters
+ 495. https://www.ssbwiki.com/index.php?title=Template:SSBMCharacters&action=edit
+ 496. https://www.ssbwiki.com/Characters
+ 497. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 498. https://www.ssbwiki.com/Veteran
+ 499. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 500. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+ 501. https://www.ssbwiki.com/Fox_(SSBM)
+ 502. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 503. https://www.ssbwiki.com/Kirby_(SSBM)
+ 504. https://www.ssbwiki.com/Link_(SSBM)
+ 505. https://www.ssbwiki.com/Luigi_(SSBM)
+ 506. https://www.ssbwiki.com/Mario_(SSBM)
+ 507. https://www.ssbwiki.com/Ness_(SSBM)
+ 508. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 509. https://www.ssbwiki.com/Samus_(SSBM)
+ 510. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 511. https://www.ssbwiki.com/Newcomer
+ 512. https://www.ssbwiki.com/Bowser_(SSBM)
+ 513. https://www.ssbwiki.com/Dr._Mario_(SSBM)
+ 514. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 515. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 516. https://www.ssbwiki.com/Marth_(SSBM)
+ 517. https://www.ssbwiki.com/Mewtwo_(SSBM)
+ 518. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSBM)
+ 519. https://www.ssbwiki.com/Peach_(SSBM)
+ 520. https://www.ssbwiki.com/Pichu_(SSBM)
+ 521. https://www.ssbwiki.com/Roy_(SSBM)
+ 522. https://www.ssbwiki.com/Young_Link_(SSBM)
+ 523. https://www.ssbwiki.com/Zelda_(SSBM)
+ 524. https://www.ssbwiki.com/Sheik_(SSBM)
+ 525. https://www.ssbwiki.com/Template:EnemiesAdvSSBM
+ 526. https://www.ssbwiki.com/Template_talk:EnemiesAdvSSBM
+ 527. https://www.ssbwiki.com/index.php?title=Template:EnemiesAdvSSBM&action=edit
+ 528. https://www.ssbwiki.com/Adventure_Mode
+ 529. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 530. https://www.ssbwiki.com/Mushroom_Kingdom_(Adventure_Mode)
+ 531. https://www.ssbwiki.com/Goomba
+ 532. https://www.ssbwiki.com/Koopa_Paratroopa
+ 533. https://www.ssbwiki.com/Koopa_Troopa
+ 534. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 535. https://www.ssbwiki.com/Mario_(SSBM)
+ 536. https://www.ssbwiki.com/Peach_(SSBM)
+ 537. https://www.ssbwiki.com/Luigi_(SSBM)
+ 538. https://www.ssbwiki.com/Kongo_Jungle_(SSBM)
+ 539. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+ 540. https://www.ssbwiki.com/Giant_DK
+ 541. https://www.ssbwiki.com/Underground_Maze
+ 542. https://www.ssbwiki.com/Octorok
+ 543. https://www.ssbwiki.com/ReDead
+ 544. https://www.ssbwiki.com/Like_Like
+ 545. https://www.ssbwiki.com/Link_(SSBM)
+ 546. https://www.ssbwiki.com/Zelda_(SSBM)
+ 547. https://www.ssbwiki.com/Sheik_(SSBM)
+ 548. https://www.ssbwiki.com/Brinstar
+ 549. https://www.ssbwiki.com/Samus_(SSBM)
+ 550. https://www.ssbwiki.com/Green_Greens
+ 551. https://www.ssbwiki.com/Kirby_(SSBM)
+ 552. https://www.ssbwiki.com/Copy_Abilities_(SSBM)
+ 553. https://www.ssbwiki.com/Giant_Kirby
+ 554. https://www.ssbwiki.com/Corneria
+ 555. https://www.ssbwiki.com/Fox_(SSBM)
+ 556. https://www.ssbwiki.com/Pokémon_Stadium
+ 557. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 558. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 559. https://www.ssbwiki.com/Pichu_(SSBM)
+ 560. https://www.ssbwiki.com/F-Zero_Grand_Prix
+ 561. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 562. https://www.ssbwiki.com/Onett
+ 563. https://www.ssbwiki.com/Ness_(SSBM)
+ 564. https://www.ssbwiki.com/Icicle_Mountain
+ 565. https://www.ssbwiki.com/Topi
+ 566. https://www.ssbwiki.com/Polar_Bear
+ 567. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 568. https://www.ssbwiki.com/Battlefield_(SSBM)
+ 569. https://www.ssbwiki.com/Fighting_Wire_Frames
+ 570. https://www.ssbwiki.com/Metal_Mario
+ 571. https://www.ssbwiki.com/Metal_Bros.#Metal_Luigi
+ 572. https://www.ssbwiki.com/Final_Destination_(SSBM)
+ 573. https://www.ssbwiki.com/Giant_Bowser
+ 574. https://www.ssbwiki.com/Giga_Bowser
+ 575. https://www.ssbwiki.com/Template:Star_Fox_universe
+ 576. https://www.ssbwiki.com/Template_talk:Star_Fox_universe
+ 577. https://www.ssbwiki.com/index.php?title=Template:Star_Fox_universe&action=edit
+ 578. https://www.ssbwiki.com/File:StarFoxSymbol.svg
+ 579. https://www.ssbwiki.com/Star_Fox_(universe)
+ 580. https://www.ssbwiki.com/Character
+ 581. https://www.ssbwiki.com/Fox
+ 582. https://www.ssbwiki.com/Fox_(SSB)
+ 583. https://www.ssbwiki.com/Fox_(SSBM)
+ 584. https://www.ssbwiki.com/Fox_(SSBB)
+ 585. https://www.ssbwiki.com/Fox_(SSB4)
+ 586. https://www.ssbwiki.com/Fox_(SSBU)
+ 587. https://www.ssbwiki.com/Falco
+ 588. https://www.ssbwiki.com/Falco_(SSBB)
+ 589. https://www.ssbwiki.com/Falco_(SSB4)
+ 590. https://www.ssbwiki.com/Falco_(SSBU)
+ 591. https://www.ssbwiki.com/Wolf
+ 592. https://www.ssbwiki.com/Wolf_(SSBB)
+ 593. https://www.ssbwiki.com/Wolf_(SSBU)
+ 594. https://www.ssbwiki.com/Assist_Trophies
+ 595. https://www.ssbwiki.com/Andross
+ 596. https://www.ssbwiki.com/Krystal
+ 597. https://www.ssbwiki.com/Stage
+ 598. https://www.ssbwiki.com/Sector_Z
+ 599. https://www.ssbwiki.com/Corneria
+ 600. https://www.ssbwiki.com/Venom
+ 601. https://www.ssbwiki.com/Lylat_Cruise
+ 602. https://www.ssbwiki.com/Orbital_Gate_Assault
+ 603. https://www.ssbwiki.com/Item
+ 604. https://www.ssbwiki.com/Smart_Bomb
+ 605. https://www.ssbwiki.com/Leon_Powalski
+ 606. https://www.ssbwiki.com/Panther_Caroso
+ 607. https://www.ssbwiki.com/Peppy_Hare
+ 608. https://www.ssbwiki.com/ROB_64
+ 609. https://www.ssbwiki.com/Slippy_Toad
+ 610. https://www.ssbwiki.com/Arwing
+ 611. https://www.ssbwiki.com/Great_Fox
+ 612. https://www.ssbwiki.com/Wolfen
+ 613. https://www.ssbwiki.com/Trophies
+ 614. https://www.ssbwiki.com/Sticker
+ 615. https://www.ssbwiki.com/Spirits_(characters)
+ 616. https://www.ssbwiki.com/List_of_SSBM_trophies_(Star_Fox_series)
+ 617. https://www.ssbwiki.com/List_of_SSBB_trophies_(Star_Fox_series)
+ 618. https://www.ssbwiki.com/List_of_SSB4_trophies_(Star_Fox_series)
+ 619. https://www.ssbwiki.com/List_of_stickers_(Star_Fox_series)
+ 620. https://www.ssbwiki.com/List_of_spirits_(Star_Fox_series)
+ 621. https://www.ssbwiki.com/List_of_SSBB_Music_(Star_Fox_series)
+ 622. https://www.ssbwiki.com/List_of_SSB4_Music_(Star_Fox_series)
+ 623. https://www.ssbwiki.com/List_of_SSBU_Music_(Star_Fox_series)
+ 624. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&oldid=1171480
+ 625. https://www.ssbwiki.com/Special:Categories
+ 626. https://www.ssbwiki.com/Category:Articles_requiring_technical_data
+ 627. https://www.ssbwiki.com/Category:Characters_(SSBM)
+ 628. https://www.ssbwiki.com/Category:Star_Fox_universe
+ 629. https://www.ssbwiki.com/Category:Falco_(SSBM)
+ 630. https://www.ssbwiki.com/Category:Trophies_(SSBM)
+ 631. https://www.ssbwiki.com/Falco_(SSBM)
+ 632. https://www.ssbwiki.com/Talk:Falco_(SSBM)
+ 633. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=edit
+ 634. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=history
+ 635. https://www.ssbwiki.com/Special:MyTalk
+ 636. https://www.ssbwiki.com/Special:MyContributions
+ 637. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=Falco+(SSBM)
+ 638. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=Falco+(SSBM)
+ 639. https://www.ssbwiki.com/Main_Page
+ 640. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 641. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 642. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 643. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 644. https://www.ssbwiki.com/Super_Smash_Bros.
+ 645. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+ 646. https://www.ssbwiki.com/Stage
+ 647. https://www.ssbwiki.com/Mode
+ 648. https://www.ssbwiki.com/Item
+ 649. https://www.ssbwiki.com/Special:Random
+ 650. https://www.ssbwiki.com/Forum:Index
+ 651. https://www.ssbwiki.com/SmashWiki:Community_portal
+ 652. https://www.ssbwiki.com/Special:RecentChanges
+ 653. https://www.ssbwiki.com/Help:Contents
+ 654. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
+ 655. https://www.ssbwiki.com/SmashWiki:Discord_server
+ 656. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
+ 657. https://www.ssbwiki.com/Special:WhatLinksHere/Falco_(SSBM)
+ 658. https://www.ssbwiki.com/Special:RecentChangesLinked/Falco_(SSBM)
+ 659. https://www.ssbwiki.com/Special:SpecialPages
+ 660. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&printable=yes
+ 661. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&oldid=1171480
+ 662. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&action=info
+ 663. https://creativecommons.org/licenses/by-sa/3.0/
+ 664. https://www.mediawiki.org/
+ 665. https://creativecommons.org/licenses/by-sa/3.0/
+ 666. https://www.porplemontage.com/privacy
+ 667. https://www.ssbwiki.com/SmashWiki:About
+ 668. https://www.ssbwiki.com/SmashWiki:General_disclaimer
+ 669. https://www.ssbwiki.com/index.php?title=Falco_(SSBM)&mobileaction=toggle_view_mobile
+
+   Hidden links:
+ 671. https://www.ssbwiki.com/File:FalcoAerialAttacksSSBM.png
+ 672. https://www.ssbwiki.com/File:FalcoAerialAttacksSSBM.png
+ 673. https://www.ssbwiki.com/File:StarFoxThemeMelee.ogg
+ 674. https://www.ssbwiki.com/File:StarFoxThemeMelee.ogg
+ 675. https://www.ssbwiki.com/File:FalcoClassicMode.jpg
+ 676. https://www.ssbwiki.com/File:FalcoAdventureMode.jpg
+ 677. https://www.ssbwiki.com/File:FalcoAllStarMode.jpg
+ 678. https://www.ssbwiki.com/File:Falco_Trophy_Melee.png
+ 679. https://www.ssbwiki.com/File:Falco_Trophy_(Smash).png
+ 680. https://www.ssbwiki.com/File:Falco_Trophy_(Smash_2).png
+ 681. https://www.ssbwiki.com/Main_Page

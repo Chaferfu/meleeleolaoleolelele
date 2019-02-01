@@ -1,0 +1,990 @@
+   #[1]Edit this page [2]SmashWiki (en) [3]SmashWiki Atom feed
+
+Ness (SSBM)
+
+   From SmashWiki, the Super Smash Bros. wiki
+   Jump to:[4]navigation, [5]search
+   [6]SSBM Icon.png
+
+          This article is about Ness's appearance in Super Smash Bros. Melee. For the character in other contexts, see [7]Ness.
+
+   Ness
+   in [8]Super Smash Bros. Melee
+   [9]Ness
+   [10]EarthboundSymbol(preBrawl).svg
+   [11]Universe [12]EarthBound
+   Other Smash Bros. appearances [13]in SSB
+   [14]in Brawl
+   [15]in SSB4
+   [16]in Ultimate
+   Availability [17]Starter
+   [18]Tier F (23) (North America)
+   H (23) (Europe)
+   [19]NessHeadSSBM.png
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  “ A psychic boy with a distinct midair jump. ”
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        —Description from Melee's manual.
+
+   Ness (ネス, Ness) is a [20]default character in [21]Super Smash Bros. Melee. Announced at [22]E3 2001, he was originally going to be replaced by [23]Lucas from [24]Mother 3; the ultimate cancellation of the game for the Nintendo 64, however, caused [25]Masahiro Sakurai to retain Ness.
+
+   He is currently ranked 23rd out of 26 on the [26]tier list, placing within the F tier. This is a slight fall from his already very low placement in Smash 64, where he was 10th out of 12 characters in the NTSC Version, and is a significant drop from his high tier placement in Smash 64, where he was 5th in the Japanese version, and his worst placement to date. While still having fantastic throws and a great aerial game thanks to his double jump cancel, Ness has a poor approach on the ground due to significant range issues in most of his attacks; his recovery is also easy to intercept and edgeguard against, and he also has significant trouble KOing opponents, due to his surprisingly weak KO power and due to his aforementioned poor range. As a result of these significant weaknesses, Ness has very poor [27]matchups, with six nearly unwinnable, one even (against [28]Yoshi), and only three slightly favorable (against [29]Bowser, [30]Kirby, and [31]Pichu). In addition, Ness currently ranks one spot
+   away from the bottom tier in Melee, making him non-viable in tournament play.
+
+Contents
+
+     * [32]1 Attributes
+     * [33]2 Changes from Smash 64 to Melee
+          + [34]2.1 Aesthetics
+          + [35]2.2 Attributes
+          + [36]2.3 Ground Attacks
+          + [37]2.4 Aerial Attacks
+          + [38]2.5 Grabs and Throws
+          + [39]2.6 Special Moves
+     * [40]3 Moveset
+          + [41]3.1 Taunt
+          + [42]3.2 Idle pose
+          + [43]3.3 Crowd cheer
+          + [44]3.4 Victory poses
+     * [45]4 In Competitive play
+          + [46]4.1 Matchups
+          + [47]4.2 Notable players
+               o [48]4.2.1 Active
+               o [49]4.2.2 Inactive
+          + [50]4.3 Tier placement and history
+     * [51]5 In 1-P Mode
+          + [52]5.1 Classic Mode
+          + [53]5.2 Adventure Mode
+          + [54]5.3 All-Star Mode
+          + [55]5.4 Event Matches
+          + [56]5.5 Ending images
+     * [57]6 Trophy descriptions
+     * [58]7 Alternate costumes
+     * [59]8 Gallery
+     * [60]9 Trivia
+
+Attributes[[61]edit]
+
+   Ness is an unusual blend of character archetypes; many of his attributes are unique in comparison to other characters, such as his projectiles, his [62]recovery and his midair [63]jump. Ness has above average [64]traction and a moderately low [65]falling speed, giving him an above-average [66]wavedash that is relatively quick. Ness is a projectile-heavy character, as he has 3 projectiles: [67]PK Flash, [68]PK Fire and [69]PK Thunder, while also having a healing move in his [70]PSI Magnet.
+
+   Arguably Ness's greatest strength is his combo game. Despite a poor [71]SHFFL due to his high short hop and low falling speed, Ness has many ways to pressure and combo in the air thanks to his [72]double jump cancel (often abbreviated DJC). By cancelling out of his midair jump with an aerial, Ness can quickly and efficiently use his multiple aerial attacks; this is especially important considering the utility of his aerial attacks. His [73]neutral aerial and [74]forward aerial attacks acting as potential combo starters (especially the latter) and his back, up and down air attacks serve as good KO moves. Due to this, his air approach is considered to be much better than his ground approach.
+
+   Although Ness has a poor ground approach, he still boasts two effective options: his grab game and the [75]Yo-yo glitch. Ness' throws all have excellent utility; his forward throw has extremely high base knockback, making it ideal for starting edgeguards. His down throw is a decent combo starter, having potential to lead into his DJC'd aerials. His up throw is a decent chain grab and can be used in conjunction with PK Thunder to rack up damage or play mindgames. Finally, his back throw is the strongest throw in the game, making it a deadly KOing option. As for the Yo-yo glitch, Ness is the only character to have access to this technique. It is initiated through his up smash, and can be used to attack or grab with near limitless range or attach certain single-hitbox attacks to Ness's body. This can significantly increase Ness' range and options when performed properly.
+
+   Ness' greatest flaw, however, is his significant range problems. All of his attacks (especially his tilts) have little range or small hitboxes, making hitting an opponent very difficult. Although wavedashing can help out this problem somewhat, Ness' ground based options have too little utility overall to benefit noticeably. When combined with his somewhat slow movement, Ness has significant trouble approaching opponents. Thus, his dash attack is considered to be his only reliable ground approach option, due to its decent range unlike most of his other attacks. Also, Ness's grab has the second shortest range in all of the game (only to [76]Pikachu), thus making it difficult for him to take advantage of his versatile throws, while his dash grab is extremely laggy and barely improves its range. Finally, against opponents with particularly good spacing games, most notoriously [77]Marth, Ness can be easily overwhelmed in his attempts to approach opponents in the air despite the power of his DJC.
+
+   Assuming he can approach his opponents, Ness suffers from noticeable KOing problems, largely due to his poor power and range. He possesses arguably the worst set of smash attacks in the game: his up and down smashes are the weakest of their kind and his forward smash needs to be sweetspotted at the tip of the bat to KO effectively. His back, up and down aerials are powerful, but their poor reach make them difficult to land, while his down aerial is rather slow. Finally, Ness' back throw is his most powerful finisher, but it is held back by his aforementioned poor grab range.
+
+   Ness' special moveset also has some problems: it is rather situational overall. PK Flash boasts extreme power when fully charged and is great for punishing poorly positioned opponents offstage, but it is limited to edgeguarding due to it being very slow and difficult to land. PK Fire can trap opponents and leave them open for follow-ups, and can even gimp fast-fallers. However, it has short reach for a projectile and is very easy to SDI out of, making it easy to punish. PK Thunder is Ness' most useful special move; it is unique for controlling a thunder ball which can be moved in any direction, allowing for mindgames, offstage gimps, and even a powerful KOing option in PK Thunder 2. However it has one critical flaw: the player loses control of Ness during the move, leaving him open to extremely powerful attacks if he can't hit the opponent quick enough. Finally, PSI Magnet can heal Ness and put him in a better position defensively, but it is rather slow and completely dependent on the
+   opposing character, as it only absorbs energy-based projectiles.
+
+   Outside of his poor approach, Ness also suffers from an easily gimpable recovery. Ness's recovery has its merits; he has the second highest midair jump in the game (second to only Yoshi) and his midair jump has unusual properties in its trajectory; PK Thunder 2 also grants a rather long distance, with a moderately large sweetspot and a long period of invincibility frames. The move is also very risky to block due to possessing KO power that reliably KOs at 90%. Despite these benefits, however, Ness's recovery still is cited as arguably the worst in the game, in spite of its long length, due to possessing many notable flaws. If Ness uses an aerial to fend off edgeguarders, his double jump is cancelled and can prevent him from recovering if unable to act soon enough. PK Thunder's projectile instantly disappears upon hitting opponents, and this is very easily abusable by edgeguarders, further worsened by PK Thunder 2's slow startup. In the process of having to start PK Thunder 2, characters
+   with good recoveries (such as [78]Jigglypuff or [79]Samus) can merely jump into the projectile and take minor knockback and damage, immediately sending Ness into a state of [80]helplessness, though this is a risky strategy. Projectiles such as [81]Link's Boomerangs and the [82]Ice Climbers' [83]Ice Shot can easily disrupt the projectile as well, and in these cases, damage is not even inflicted to the opponent. PK Thunder 2 also suffers from a number of problems. Notably, it is difficult to angle correctly, and it can easily curve under lips of stages, most notably on [84]Battlefield. Its linear nature can also make it easy to read and edgeguard for many characters, despite the invincibility frames found within it, and attacks like Mario's [85]Cape or Link's [86]Spin Attack can easily intercept the attack as Ness charges to the stage. Finally, PK Thunder 2 has significant ending lag, and if Ness recovers directly onto the stage after using it, opponents can easily capitalise on this ending
+   lag by landing a powerful hit on Ness that he cannot hope to counter.
+
+Changes from Smash 64 to Melee[[87]edit]
+
+   Ness received a mix of buffs and nerfs in his transition from Smash 64 to Melee. However, because his flaws were not properly addressed in the previous installment, he is considered to be [88]nerfed overall.
+
+   Ness received a number of helpful buffs; his range was increased as a whole to help alleviate his main flaw from the previous game. His mobility has been drastically improved, possessing a much faster dashing speed and air speed, making it much easier for him to approach and chase opponents. His weight was also significantly increased, improving his on-stage endurance, while his slower falling speed makes him harder to combo. Ness also retains his powerful combo game in his DJC, despite being slightly weakened. However, he has new combo options as well; his forward aerial can now chain into itself and other aerials while his dash attack has many different follow-up options depending on where it hits, (while also having greatly increased range), and he now has an up and down throw, giving him two good setup and combo throws. The most notable buff that Ness received, however, was the addition of the Yo-yo glitch. When performed correctly, Ness has access to much greater range, as well as new
+   mindgames.
+
+   However, Ness also received significant nerfs in other important areas. His down aerial, his most notable combo finisher, has drastically more startup and ending lag, and the addition of meteor cancelling makes it significantly easier to survive against. This removes most of its KO potential and completely removes its use in shield break combos and DJC combos in general, significantly hurting his damage racking ability. Despite being known for his poor recovery, PK Thunder is even more unreliable due to its much shorter distance and new angling issues, while retaining its previous issues from Smash 64; this makes Ness' recovery arguably the worst in the game. Ness also has much lower power, especially in his smash attacks, as his forward smash requires sweetspotting while his up and down smashes have lost all of their KO power. Finally, while the overall range in his attacks has increased, it is arguably even worse relative to the cast due to the larger competition, and thus can still be
+   easily and quickly overwhelmed when approaching opponents.
+
+   Because of these nerfs, the buffs Ness received have almost been nullified by the aforementioned nerfs and remains at a disadvantage among the rest of the cast in Melee and as a result, he is one of the characters that have been clearly nerfed alongside [89]Yoshi, [90]Pikachu, and [91]Kirby.
+
+Aesthetics[[92]edit]
+
+     * Change Ness's grounded jump is no longer psychokinetic.
+     * Change Ness has new voice samples.
+     * Change Ness's cap is turned right.
+     * Change Ness's backpack is two strapped.
+     * Change Ness now has a blue hue in his eyes.
+     * Change Ness's default costume have been slightly changed (red cap has blue instead of purple, beige and blue striped shirt and blue shorts instead of yellow/purple and purple, blue cap has purple instead of violet, tan and purple striped shirt and purple shorts instead of yellow/violet and violet, and orange and brown striped shirt and green shorts instead of light green/orange and orange like Mario's team battle costume.)
+     * Change Ness now faces the screen if he uses his [93]taunt while facing left. It also has a new voice clip.
+
+Attributes[[94]edit]
+
+     * Change Ness is significantly heavier (81.818 → 94), which improves his endurance, but makes him easier to combo.
+     * Buff Air speed (28 → 0.93) and dashing speed (40 → 1.4) were greatly improved.
+     * Nerf Ness's walking speed is slightly slower (0.28 → 0.84).
+     * Change Ness is significantly [95]floatier (55 → 1.83), hindering his vertical endurance, but also makes him harder to combo.
+
+Ground Attacks[[96]edit]
+
+     * Buff The first hit of Ness' neutral attack deals more damage (2% → 3%).
+     * Nerf All three hits of neutral attack have more startup (frame 2 → 3 (hit 1), frame 3 → 4 (hit 2), frame 6 → 7 (hit 3)) and ending lag (frame 18 → 20 (hit 1), frame 20 → 21 (hit 2), frame 25 → 31 (hit 3)). The second and third hits also have a shorter duration (frames 3-5 → 4-5 (hit 2), frames 6-11 → 7-10 (hit 3)). Ness can also no longer cancel the first hit of neutral attack into grab.
+     * Buff Forward tilt is much stronger dealing more damage (9%/10%/11% → 10%/11%/12%).
+     * Buff Up tilt has less ending lag (frame 35 → 32).
+     * Nerf Up tilt has a much shorter duration (frames 5-19 → 5-9).
+     * Buff Down tilt is much faster with less startup (frame 4 → 3) and ending lag due to having [97]IASA frames (frame 14 → 8) and can now infinite.
+     * Nerf Down tilt has a shorter duration (frames 4-8 → 3-5).
+     * Buff Dash attack is now a multi-hitting move that does slightly more damage (12% (clean), 9% (late) → 12.28%) and has significantly more range, combo potential and overall utility.
+     * Change His dash attack has become psychokinetic.
+     * Nerf Each hit of dash attack only has a duration of 1 frame and each hit has high base knockback making it extremely difficult to connect properly. It also has more ending lag (frame 38 → 40).
+     * Buff Forward smash now has longer reach and has less startup lag (frame 18 → 16). All hitboxes also deal much more damage (14% → 18%/20%/22%/24%).
+     * Nerf Forward smash deals less knockback (70 (base), 65 (scaling) → 50/62) and its tipper hitbox is much weaker, KOing around 18% later, and it now has 3 drastically weaker sourspots on the base of his bat that can't KO until 150%. It also has a shorter duration (frames 18-21 → 16-17).
+     * Buff Ness now has access to the Yo-yo glitch.
+     * Buff Up and down smash have less startup lag (frame 13 → 12). Up smash also has a longer duration (frames 13-25 → 12-31).
+     * Nerf His up and down smashes have less reach, deal drastically less damage (17%/15% → 9% (up), 19% → 11%/7% (down)) and they have been drastically weakened to the point where the strongest hitboxes (the initial hitbox) can't KO until 200% while the swinging parts can no longer KO even well past Sudden Death. Down smash also has a shorter duration (frames 13-52 → 12-31) and both have more ending lag (frame 40 → 50 (up), frame 55 → 59 (down)).
+
+Aerial Attacks[[98]edit]
+
+     * Change Ness has a new neutral aerial: a spin. It deals 3% less damage on both hitboxes, making it worse for damage racking. However, this change makes it combo better, when combined with its new hitboxes.
+     * Buff New neutral aerial has less ending lag (frame 40 → 36) and [99]auto-cancels earlier (frame 33 → 27).
+     * Nerf New neutral aerial has a shorter duration (frames 5-39 → 5-23).
+     * Buff Forward aerial has less startup (frame 10 → 8) and ending lag (frame 42 → 40), does more damage (12% (clean), 10% (late) → 15.74%), has more range and has much better combo potential as it can now chain into itself or other aerials from low to K.O. percents.
+     * Change His back and forward aerial have become psychokinetic. His forward aerial is now a multi hitting move.
+     * Nerf Forward aerial is less reliable due to being a multi-hit and it auto-cancels later (frame 26 → 30).
+     * Buff Back aerial has less ending lag (frame 40 → 36).
+     * Nerf Back aerial auto-cancels later (frame 19 → 25).
+     * Buff Up aerial has more reach with a bigger hitbox.
+     * Nerf Ness's head when doing his up aerial is no longer intangible. Up aerial also deals less damage (15% → 13%), has a shorter duration (frames 8-16 → 8-11) and no longer auto-cancels for its entire duration making it auto-cancel later (frame 27) and giving it more landing lag (4 frames → 19). This is further exacerbated with the weakening of [100]L-canceling.
+     * Buff Down aerial has much higher base knockback (10/0 → 90), making it a deadly 0-death KO tool if not [101]meteor cancelled.
+     * Nerf Ness's down aerial deals 3% less damage (15% → 12%), no longer deals extra shield damage and like most other meteor smashes, now has drastically increased start-up lag and a shorter duration (frames 4-20 → 20-28). It also has twice the amount of ending lag (frame 30 → 60) no longer being possible to perform twice in a short hop or even out of a full height double jump and it no longer auto-cancels while the hitbox is out giving it more landing lag (4 frames → 28). The addition of meteor cancelling, when combined with its new angle allowing it to be meteor canceled (-90° → 280°) and its much lower knockback scaling (120 → 70), makes the attack much easier to survive at higher percents. This drastically worsens the move's utility and reliability, removing its use in combos while being much more unreliable as a finisher.
+
+Grabs and Throws[[102]edit]
+
+     * Nerf Grabs have more startup lag (frame 6 → 8 (standing), 10 (dash)) and ending lag (frame 16 → 31 (standing), 41 (dash)).
+     * Nerf [103]Forward and [104]back throw deal 5% less damage (16% → 11%) hindering their KO potential. The former also has drastically lower knockback scaling and cannot KO reliably until well beyond Sudden Death. The latter has much lower base knockback and less KO potential although it still remains one of the most potent throws in the game.
+     * Buff Ness has been given an [105]up throw, a [106]down throw, and a [107]pummel, providing him with more options.
+
+Special Moves[[108]edit]
+
+     * Change Ness now has a new neutral special: [109]PK Flash. A chargeable green ball of light that increases in power and moves downward the longer the button is held. Once it reaches full power, it explodes, dealing huge knockback.
+     * Nerf [110]PK Fire travels a smaller distance, and it is now considerably easier to SDI out of.
+     * Change PK Fire is moved to Ness's side special.
+     * Buff Ness's [111]PK Thunder travels faster and deals 2% more damage (6% → 8%).
+     * Nerf Ness's PK Thunder 2 travels a much shorter distance,deals less damage when hitting an opponent (30% → 25%), is significantly weaker (now KOing in the 75% range), now has a drastically weaker late hitbox which deals 5% less damage than the normal hitbox and can't KO until roughly 130%, and has a lot more ending and landing lag, now having around 60 frames (or 1 second) of lag if he uses PK Thunder 2 on the ground or if he lands while in the middle of the animation of PK Thunder 2. As such, Ness's recovery is considered to be much worse overall.
+     * Change The crowd no longer gasps when Ness hits himself with PK Thunder.
+     * Buff [112]PSI Magnet has less startup lag (frame 15 → 10).
+     * Change The color of PSI Magnet is now blue instead of green.
+     * Change The crowd no longer cheers when Ness absorbs a projectile with PSI Magnet.
+     * Nerf PSI Magnet has 10 frames extra frames of ending lag.
+
+Moveset[[113]edit]
+
+   For a gallery of Ness's hitboxes, see [114]here.
+   Ness's aerial attacks
+                                  Name                                               Damage                                                                                                                                                                                                                                                                                    Description
+     [115]Neutral attack                     3%                                                                                      Punches forward twice, then kicks.
+                                             2%
+                                             4%
+   [116]Forward tilt   ↗                     12%                                                                                     Does a roundhouse kick forward. Can be angled up or down.
+                       →                     11%
+                       ↘                     10%
+         [117]Up tilt                        7%                                                                                      Thrusts both his hands upward. Ness's head is intangible during the early part of the animation. Can combo into itself and DJC'd up aerials.
+        [118]Down tilt                       3%                                                                                      Thrusts his leg downward, then pivots his foot to hit the opponent. Can combo into itself by mashing the [119]A button after the move is executed, and is an infinite against a wall.
+       [120]Dash attack                      5% (hit 1), 4% (hits 2-3) (≈12.28% total)                                               Throws his hands forward, sending three sparks PSI energy in front of himself. Good, disjointed range. 1st hit powerfully semi-spikes opponents, 2nd hit does very weak vertical knockback and the last hit deals powerful vertical knockback.
+      [121]Forward smash                     18% (body), 20% (bat base), 22% (bat mid), 24% (bat tip)                                Swings his bat forward. Has high knockback and damage at the tip of the bat, but has very weak knockback for a smash attack when untipped and has a little bit of start-up lag. The bat can [122]reflect projectiles.
+        [123]Up smash                        9% (startup), 4% (charging), 6% (attack)                                                Does a variation on the "around-the-world" yo-yo trick, swinging his yo-yo above his head. Has good range and speed. Used to perform the extremely powerful [124]Yo-yo Glitch, but doesn't have any utility outside of it. Like his down smash, this attack is incapable of K.O.ing unless his opponent is over 200%, and the swinging part even has almost non-existent knockback not K.O.ing until at least 500%. The attack has a hitbox while charging.
+       [125]Down smash                       11% (startup), 4% (charging), 7% (attack)                                               Sends his yo-yo backwards and "walks-the-dog" with it before pulling the yo-yo back. Has good range and speed, however, this attack is incapable of K.O.ing unless his opponent is over 180%. More powerful than the up smash in terms of knockback, but still extremely weak. The attack has a hitbox while charging. The swinging part of the attack has barely any base knockback and can't K.O. until the 430% range.
+     [126]Neutral aerial                     11% (clean), 8% (late)                                                                  Spins around, arms stretched out. Has good knockback and is very fast with high combo potential. Poor range.
+     [127]Forward aerial                     3% (hits 1-4), 5% (hit 5) (≈15.74% total)                                               Throws both his hands forward, sending multiple sparks PSI energy in front of himself. Is a fast, multi-hitting move, with good range and high knockback on the last hit K.O.ing under 130% off-stage. Generally used as a [128]spacing move and can chain into itself several times at low to high percents.
+       [129]Back aerial                      16% (clean), 10% (late)                                                                 Thrusts both his feet backwards. If sweetspotted, it electrifies the opponent, dealing massive damage. Is fast with very high knockback albeit somewhat poor range. Can shield poke if fastfall'd out of a DJC. The fourth most powerful back aerial in the game.
+        [130]Up aerial                       13%                                                                                     Headbutts upward. Has amazing juggling potential when DJC'd and a good KO move with very low lag, but poor range. Unlike in Smash 64, Ness`s head is no longer intangible.
+       [131]Down aerial                      12%                                                                                     Pulls his legs to his body before stomping downwards. Is a [132]meteor smash, and has a decent amount of start-up lag. Great range, extremely high knockback at 0% (most powerful meteor smash at 0% in Melee), but it also has very low knockback scaling, being unable to KO grounded opponents at even 200%, and is relatively easy to meteor cancel. It also has no IASA frames (being interrupted on the same frame as Mario's forward aerial, but Mario's seem slower compared to Ness's).
+          [133]Grab                          —
+         [134]Pummel                         3%                                                                                      Headbutts the opponent.
+      [135]Forward throw                     11%                                                                                     Psychically throws the opponent forward. Very strong base knockback, but very low knockback scaling.
+       [136]Back throw                       11%                                                                                     Psychically throws the opponent behind him. Has extremely low base knockback but very high knockback scaling. This is Ness's strongest throw and the second strongest throw in the game (second to [137]Mewtwo's up throw), KOing reliably at 130% and above.
+        [138]Up throw                        10%                                                                                     Psychically spins the opponent above his head and throws them upwards. Can chaingrab [139]Fox, [140]Falco and [141]Captain Falcon at low % and has a decent amount of followups. Good knockback.
+       [142]Down throw                       1% (hits 1-5), 4% (throw)                                                               Slams the opponent to the ground and hits them with fire. Low knockback but allows a decent amount of followups, including being able to lead into an up aerial to KO.
+   [143]Floor attack (front)                 6%                                                                                      Punches on both sides whilst getting up.
+   [144]Floor attack (back)                  6%                                                                                      Gets up and does a sweep kick with both feet.
+   [145]Edge attack (fast)                   8%                                                                                      Somersaults onto the stage, and kicks upwards with both feet.
+   [146]Edge attack (slow)                   10%                                                                                     Slowly picks himself up and does a jump kick.
+     [147]Neutral special    [148]PK Flash   11-36%                                                                                  A sphere of green light appears above Ness. As the attack button is held, the sphere moves downwards and increases in power and size, until the attack button is released or until it is fully charged, it explodes. Has [149]transcendent priority.
+      [150]Side special      [151]PK Fire    2% (lightning), 3% (pillar hit 1), 2% (pillar hits 2-7)                                 Fires a yellow, lightning-bolt shaped projectile that travels in a straight line until it hits an enemy or destructible portion of a stage, at which point it explodes into flames. The bolt has a [152]hurtbox, which is what activates the pillar upon contact; the surrounding [153]hitbox deals 2% and little vertical knockback, although only rarely does it ever actually hit. The spawned pillar also has a hurtbox which slowly shrinks in size.
+       [154]Up special       [155]PK Thunder 8% (thunder head), 1% (thunder tail), 25% (PK Thunder 2 clean), 20% (PK Thunder 2 late) Creates a stream of lightning that can be aimed into opponents to deal damage with the head and stun with the tail. Aiming the head into Ness himself will launch him in a trajectory opposite to the side he was hit on, which is referred to as [156]PK Thunder 2. PK Thunder 2 has intangibility frames during the first half of the move. PK Thunder has transcendent priority.
+      [157]Down special      [158]PSI Magnet 0%, heals 2.0x the damage of absorbed projectiles                                       Creates a blue energy field around him which allows him to absorb all energy-based projectiles. It can be held.
+
+[159]Taunt[[160]edit]
+
+     * Turns to the screen and nods his head while saying "Okay".
+
+   [161]Ness-Taunt-SSBM.gif
+
+[162]Idle pose[[163]edit]
+
+     * Looks from side to side.
+
+   [164]Ness Idle Pose Melee.gif
+
+[165]Crowd cheer[[166]edit]
+
+                         English         Japanese
+         Cheer
+   (BUTTON) Play sound
+   [167]Ness Cheer NTSC Melee.ogg
+   (BUTTON) Play sound
+   [168]Ness Cheer JP Melee.ogg
+      Description     Ness Ness Ness! Ness Ness Ness!
+         Pitch        Group chant     Group chant
+
+[169]Victory poses[[170]edit]
+
+   (BUTTON) Play sound
+   An orchestrated version of the final four Soundstone Melodies from [171]EarthBound.
+     * Looks to the left and right of him, then places an arm on the back of his head in a bashful manner.
+     * Swings around his bat four times, then poses with it.
+     * Jumps up and down twice, places arms on waist, and says "Okay!"
+
+   [172]Ness-Victory1-SSBM.gif [173]Ness-Victory2-SSBM.gif [174]Ness-Victory3-SSBM.gif
+
+In [175]Competitive play[[176]edit]
+
+[177]Matchups[[178]edit]
+
+   CAPTION: [179]Super Smash Bros. Melee Character Matchups
+
+                         [180]FoxHeadSSBM.png [181]FalcoHeadSSBM.png [182]MarthHeadSSBM.png [183]SheikHeadSSBM.png [184]JigglypuffHeadSSBM.png [185]PeachHeadSSBM.png [186]IceClimbersHeadSSBM.png [187]CaptainFalconHeadSSBM.png [188]PikachuHeadSSBM.png [189]SamusHeadSSBM.png [190]DrMarioHeadSSBM.png [191]YoshiHeadSSBM.png [192]LuigiHeadSSBM.png [193]GanondorfHeadSSBM.png [194]MarioHeadSSBM.png [195]YoungLinkHeadSSBM.png [196]DonkeyKongHeadSSBM.png [197]LinkHeadSSBM.png [198]MrGame&WatchHeadSSBM.png [199]RoyHeadSSBM.png [200]MewtwoHeadSSBM.png [201]ZeldaHeadSSBM.png [202]NessHeadSSBM.png [203]PichuHeadSSBM.png [204]BowserHeadSSBM.png [205]KirbyHeadSSBM.png Avg.
+   [206]NessHeadSSBM.png [207]-3              [208]-3                [209]-3                [210]-3                [211]-3                     [212]-2                [213]-2                      [214]-3                        [215]-2                  [216]-2                [217]-1                  [218]±0                [219]-2                [220]-2                    [221]-2                [222]-2                    [223]-2                     [224]-1               [225]-1                       [226]-1              [227]-1                 [228]-1                [229]Mirror match     [230]+1                [231]+1                 [232]+1                [233]-2
+
+   In the most recent revision of the character matchup chart, Ness has one of the worst matchup spreads in the game. He only soft counters three characters and has only one even matchup, against [234]Yoshi, while he is soft countered by six, countered by nine, and hard countered by six. His poor KOing power, range, approach, and recovery are all exploitable, leading to some problematic matchups against characters such as Sheik, Peach, Marth, or Fox. [235]Sheik can chaingrab him to KO percents and finish him off with edgeguarding, [236]Jigglypuff can gimp Ness's recovery with low-risk aerials, and also combo him with a Wall Of Pain, and Ness also struggles with characters with great KOing moves and combo ability like [237]Fox and [238]Captain Falcon. Marth's high range also outreaches and edgeguardes many of Ness's attacks. Overall, Ness suffers from terrible matchups, and the advantageous matchups he does have are against characters considered to be non-viable.
+
+Notable players[[239]edit]
+
+          See also: [240]Category:Ness professionals (SSBM)
+
+Active[[241]edit]
+
+     * [242]USA  [243]Hungrybox - One of the [244]Five Gods. Uses Ness as a secondary and/or sandbagging character. Using Ness, Hungrybox has taken games off of [245]The Moon at [246]Shuffle V and took a set off of [247]HugS at [248]Smash the Record 2016 and placed 9th. At [249]Canada Cup 2016, a gauntlet exhibition was held in which Hungrybox's Ness was pitted against several attendees.
+     * [250]USA  [251]Jim Jam Flim Flam - Best Ness in Arizona.
+     * [252]USA  [253]Nihlus - Best Ness main in Texas.
+     * [254]USA  [255]Simna ibn Sind - Placed 13th at [256]EVO 2007 and 17th at [257]Super Champ Combo. Currently only attends [258]EVO and [259]GENESIS, funded by his Twitch Livestream donations. Simna ibn Sind is also known to be the person who discovered the [260]Thunder Jacket.
+     * [261]USA  [262]Kalvar - Uses Ness as a secondary. Has won tournaments in Massachusetts using Ness and Marth.
+
+Inactive[[263]edit]
+
+     * [264]USA  [265]Mofo - One of the most influential Ness mains known for discovering many [266]glitches such as the [267]Star Jacket, [268]Spike Jacket and the [269]yoyo stack glitch. Considered the best Ness in the world from 2009 to 2014 before retiring, has taken a set off [270]Gravy and [271]Captain Smuckers.
+     * [272]Japan  [273]Nessby - Best Ness in Japan prior to his retirement.
+     * [274]Canada  [275]VRud - Best Ness in Canada before switching to [276]Falco.
+
+Tier placement and history[[277]edit]
+
+   Ness was initially viewed as low-mid tier character in the metagame, with a peak of 15th place on the second tier list. Following this, however, Ness's standing on the tier list constantly fell down to the lower tiers, with most players noticing that his [278]nerfs from [279]Super Smash Bros. severely impaired his KO power and his already poor linear, predictable recovery; this was especially noted in the earlier Smash 64 metagame, as Ness was initially viewed as a top-tiered character.
+
+   On the current tier list, Ness places at 23rd, in the F tier, and he is considered almost non-viable for tournament play. Dedicated Ness players are rare in the current metagame, with most Ness players often using him as a situational counterpick; [280]Hungrybox only used Ness once in all of [281]Apex 2013, in an attempt to counter [282]Armada's [283]Young Link, and he mostly used [284]Jigglypuff for the rest of the tournament. Other players of Ness are semi-active and generally do not place very well with him.
+
+In [285]1-P Mode[[286]edit]
+
+[287]Classic Mode[[288]edit]
+
+   In Classic Mode, Ness can appear as an ordinary opponent, as an ally or opponent in the team battles, alongside [289]Yoshi, [290]Peach, or [291]Mewtwo, as a member of a multi-character battle, or as a metal opponent. In Ness's appearance, he appears on either [292]Onett or [293]Fourside (if unlocked) as a regular opponent and on [294]Battlefield as a metal opponent. When on a team with Yoshi, he appears on [295]Yoshi's Island.
+
+[296]Adventure Mode[[297]edit]
+
+   Ness's appearance in the [298]Adventure Mode is in Stage 9: Onett. In the stage, the player must fight against three computer players, each one being Ness, on Onett; in the fight, the only item that appear is [299]Mr. Saturn. The player must defeat all three opponents within five minutes to continue.
+
+[300]All-Star Mode[[301]edit]
+
+   Ness and his allies are fought on [302]Onett.
+
+[303]Event Matches[[304]edit]
+
+   Ness is featured in the following event matches:
+     * [305]Event 5: Spare Change: the player controls Ness and fights [306]Captain Falcon in a coin battle on Onett. The player must collect 200 coins within 80 seconds in order to clear the event.
+     * [307]Event 30: All-Star Match 3: Ness is the third opponent to be fought in this series of staged battles. The player battles him on [308]Onett, which will transition to the next stage if Ness gets defeated. With a timer of four minutes, the player must defeat him along with [309]Kirby, [310]Pikachu and the [311]Ice Climbers.
+     * [312]Event 36: Space Travelers: As Ness, the player must defeat [313]Samus, Kirby, [314]Fox, Captain Falcon, and [315]Falco. The player battles the first three characters on [316]Fourside and battles the last two on [317]Battlefield.
+
+Ending images[[318]edit]
+
+     * Classic Mode
+     * Adventure Mode
+     * All-Star Mode
+
+Trophy descriptions[[319]edit]
+
+   In addition to the normal trophy about Ness as a character, there are two trophies about him as a fighter, unlocked by completing both [320]Adventure and [321]All-Star modes respectively with Ness on any difficulty:
+
+          Ness
+          Ness is a young boy who's mastered the psychic power known as PSI. Ness was living a normal life in the suburbs of Onett until a meteor crashed into a nearby mountain and sent him on a wild adventure. Believing in the ultimate powers of wisdom, courage, and friendship, Ness proves that some heroes come in small packages.
+
+          + EarthBound 06/95
+
+          Ness [Smash]
+          The key to mastering Ness is controlling his unique midair jump, which makes up for what he lacks in speed. His PK Flash attack may seem weak at first glance, but it grows more powerful the longer you hold down the B Button. To do a lot of damage with PK Fire, try to burn your opponent as many times as possible.
+
+          + B: PK Flash
+          + Smash B: PK Fire
+
+          Ness [Smash]
+          Ness's mind is his best weapon. PK Thunder is a PSI missile weapon that can be guided using the Control Stick, and if Ness hits himself with it, he turns into a living missile capable of doing massive damage. This move can also be used for recovery. PSI Magnet turns energy missile attacks into health; try out certain Pokémon for stamina replenishment.
+
+          + Up & B: PK Thunder
+          + Down & B: PSI Magnet
+
+     * Classic
+     * [Smash]
+     * [Smash]
+
+[322]Alternate costumes[[323]edit]
+
+   [324]Ness Palette (SSBM).png
+   [325]NessHeadSSBM.png [326]NessHeadYellowSSBM.png [327]NessHeadBlueSSBM.png [328]NessHeadGreenSSBM.png
+
+Gallery[[329]edit]
+
+     * Official artwork of Ness
+     * Standing with [330]Donkey Kong, [331]Kirby, and [332]Luigi on [333]Great Bay
+     * Posing with Kirby on [334]Temple
+     * [335]Taunting with Kirby and Pikachu on Temple
+     * Using [336]PSI Magnet near [337]Mewtwo on [338]Final Destination
+
+Trivia[[339]edit]
+
+   The yoyo's texture.
+   The "Electric Ness" glitch being performed.
+     * Ness is one of three characters whose neutral special changed during his jump to Melee, the others being [340]Link and [341]Jigglypuff. In the original Super Smash Bros., his neutral special was PK Fire; from Melee onward, he now uses PK Flash. As with the other two, his original neutral special remains in the game, having been transfered to the newly added side special move slot.
+     * If one looks closely at Ness's Yoyo, he or she can see the words DOLPHIN LOOP, with it being made by HALLAB NINTENDO in 2001 (Melee’s release year). Dolphin being a reference to the [342]Gamecube's codename, and the "makers" a reference to the developer and publisher of Melee respectively. His bat reads NETT SPORTS.
+     * Hitting Ness as he's using [343]PK Thunder can cause his body to constantly produce sparks afterward, though these sparks only provide a cosmetic effect. This glitch continues until he gets KOed, shields, or performs PK Thunder again.
+     * Ness's [344]amiibo description on the North American [345]amiibo website is based on his trophy description from Melee.
+
+   [346]v • [347]d • [348]e
+   [349]Playable characters in [350]Super Smash Bros. Melee
+   [351]Veterans  [352]Captain Falcon · [353]Donkey Kong · [354]Fox · [355]Jigglypuff · [356]Kirby · [357]Link · [358]Luigi · [359]Mario · Ness · [360]Pikachu · [361]Samus · [362]Yoshi
+   [363]Newcomers [364]Bowser · [365]Dr. Mario · [366]Falco · [367]Ganondorf · [368]Ice Climbers · [369]Marth · [370]Mewtwo · [371]Mr. Game & Watch · [372]Peach · [373]Pichu · [374]Roy · [375]Young Link · [376]Zelda ([377]Sheik)
+   [378]v • [379]d • [380]e
+   Enemies in [381]Adventure Mode ([382]SSBM)
+   [383]Mushroom Kingdom  [384]Goomba · [385]Koopa Paratroopa · [386]Koopa Troopa · [387]Yoshi Team · [388]Mario · [389]Peach · [390]Luigi
+     [391]Kongo Jungle    [392]Tiny Donkey Kongs · [393]Giant DK
+   [394]Underground Maze  [395]Octorok · [396]ReDead · [397]Like Like · [398]Links · [399]Zelda/[400]Sheik
+       [401]Brinstar      [402]Samus
+     [403]Green Greens    [404]Kirby · [405]Kirby Team · [406]Giant Kirby
+       [407]Corneria      [408]Fox · [409]Falco
+    [410]Pokémon Stadium  [411]Pikachu · [412]Jigglypuff · [413]Pichu
+   [414]F-Zero Grand Prix [415]Captain Falcon
+         [416]Onett       Ness
+    [417]Icicle Mountain  [418]Topi · [419]Polar Bear · [420]Ice Climbers
+      [421]Battlefield    [422]Fighting Wire Frames · [423]Metal Mario · [424]Metal Luigi
+   [425]Final Destination [426]Giant Bowser · [427]Giga Bowser
+   [428]v • [429]d • [430]e
+   [431]EarthboundSymbol.svg [432]EarthBound (Mother) universe
+                  [433]Characters                [434]Ness ([435]SSB · SSBM · [436]SSBB · [437]SSB4 · [438]SSBU) · [439]Lucas ([440]SSBB · [441]SSB4 · [442]SSBU)
+               [443]Assist Trophies              [444]Jeff · [445]Starman
+                    [446]Bosses                  [447]Porky Minch · [448]Porky Statue
+                    [449]Stages                  [450]Onett · [451]Fourside · [452]New Pork City · [453]Magicant
+                    [454]Items                   [455]Franklin Badge · [456]Mr. Saturn · [457]Ramblin' Evil Mushroom
+                      Enemies                    [458]Devil Car · [459]Starman
+                 Other characters                [460]Boney · [461]Flying Man · [462]Kumatora · [463]Paula · [464]Poo · [465]Rope Snake · [466]Ultimate Chimera
+   [467]Trophies, [468]Stickers and [469]Spirits [470]Trophies in Melee · [471]Trophies in Brawl · [472]Trophies in SSB4 · [473]Stickers in Brawl · [474]Spirits in Ultimate
+                       Music                     [475]Music in Brawl · [476]Music in SSB4 · [477]Music in Ultimate
+   Ads keep SmashWiki independent and free :)
+   Retrieved from "[478]https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&oldid=1170969"
+   [479]Categories:
+     * [480]Characters (SSBM)
+     * [481]EarthBound universe
+     * [482]Ness (SSBM)
+     * [483]Trophies (SSBM)
+
+Navigation menu
+
+Views
+
+     * [484]Article
+     * [485]Discussion
+     * [486]Edit this page
+     * [487]History
+
+Personal tools
+
+     * Not logged in
+     * [488]Talk
+     * [489]Contributions
+     * [490]Create account
+     * [491]Log in
+
+Navigation
+
+     * [492]Main page
+     * [493]Smash Bros. Ultimate
+     * [494]Smash Bros. 4
+     * [495]Smash Bros. Brawl
+     * [496]Smash Bros. Melee
+     * [497]Smash Bros. (64)
+     * [498]Characters
+     * [499]Stages
+     * [500]Modes
+     * [501]Items
+     * [502]Random page
+
+Search
+
+   ____________________ Go  Search
+
+Participate
+
+     * [503]Forum
+     * [504]Community portal
+     * [505]Recent changes
+     * [506]Help
+     * [507]Admin noticeboard
+     * [508]Discord server
+     * [509]YouTube channel
+
+Tools
+
+     * [510]What links here
+     * [511]Related changes
+     * [512]Special pages
+     * [513]Printable version
+     * [514]Permanent link
+     * [515]Page information
+
+   [516]Attribution-Share Alike 3.0 Unported
+   [517]Powered by MediaWiki
+     * This page was last edited on 14 January 2019, at 17:25.
+     * Content is available under [518]Attribution-Share Alike 3.0 Unported unless otherwise noted.
+     * [519]Privacy policy
+     * [520]About SmashWiki
+     * [521]Disclaimers
+     * [522]Mobile view
+
+References
+
+   Visible links
+   1. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit
+   2. https://www.ssbwiki.com/opensearch_desc.php
+   3. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&feed=atom
+   4. https://www.ssbwiki.com/Ness_(SSBM)#column-one
+   5. https://www.ssbwiki.com/Ness_(SSBM)#searchInput
+   6. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+   7. https://www.ssbwiki.com/Ness
+   8. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+   9. https://www.ssbwiki.com/File:Ness_SSBM.jpg
+  10. https://www.ssbwiki.com/File:EarthboundSymbol(preBrawl).svg
+  11. https://www.ssbwiki.com/Universe
+  12. https://www.ssbwiki.com/EarthBound_(universe)
+  13. https://www.ssbwiki.com/Ness_(SSB)
+  14. https://www.ssbwiki.com/Ness_(SSBB)
+  15. https://www.ssbwiki.com/Ness_(SSB4)
+  16. https://www.ssbwiki.com/Ness_(SSBU)
+  17. https://www.ssbwiki.com/Starter_character
+  18. https://www.ssbwiki.com/Tier_list
+  19. https://www.ssbwiki.com/Ness_(SSBM)
+  20. https://www.ssbwiki.com/Default_character
+  21. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+  22. https://www.ssbwiki.com/E3
+  23. https://www.ssbwiki.com/Lucas
+  24. https://www.ssbwiki.com/Mother_3
+  25. https://www.ssbwiki.com/Masahiro_Sakurai
+  26. https://www.ssbwiki.com/Tier_list
+  27. https://www.ssbwiki.com/Matchup
+  28. https://www.ssbwiki.com/Yoshi_(SSBM)
+  29. https://www.ssbwiki.com/Bowser_(SSBM)
+  30. https://www.ssbwiki.com/Kirby_(SSBM)
+  31. https://www.ssbwiki.com/Pichu_(SSBM)
+  32. https://www.ssbwiki.com/Ness_(SSBM)#Attributes
+  33. https://www.ssbwiki.com/Ness_(SSBM)#Changes_from_Smash_64_to_Melee
+  34. https://www.ssbwiki.com/Ness_(SSBM)#Aesthetics
+  35. https://www.ssbwiki.com/Ness_(SSBM)#Attributes_2
+  36. https://www.ssbwiki.com/Ness_(SSBM)#Ground_Attacks
+  37. https://www.ssbwiki.com/Ness_(SSBM)#Aerial_Attacks
+  38. https://www.ssbwiki.com/Ness_(SSBM)#Grabs_and_Throws
+  39. https://www.ssbwiki.com/Ness_(SSBM)#Special_Moves
+  40. https://www.ssbwiki.com/Ness_(SSBM)#Moveset
+  41. https://www.ssbwiki.com/Ness_(SSBM)#Taunt
+  42. https://www.ssbwiki.com/Ness_(SSBM)#Idle_pose
+  43. https://www.ssbwiki.com/Ness_(SSBM)#Crowd_cheer
+  44. https://www.ssbwiki.com/Ness_(SSBM)#Victory_poses
+  45. https://www.ssbwiki.com/Ness_(SSBM)#In_Competitive_play
+  46. https://www.ssbwiki.com/Ness_(SSBM)#Matchups
+  47. https://www.ssbwiki.com/Ness_(SSBM)#Notable_players
+  48. https://www.ssbwiki.com/Ness_(SSBM)#Active
+  49. https://www.ssbwiki.com/Ness_(SSBM)#Inactive
+  50. https://www.ssbwiki.com/Ness_(SSBM)#Tier_placement_and_history
+  51. https://www.ssbwiki.com/Ness_(SSBM)#In_1-P_Mode
+  52. https://www.ssbwiki.com/Ness_(SSBM)#Classic_Mode
+  53. https://www.ssbwiki.com/Ness_(SSBM)#Adventure_Mode
+  54. https://www.ssbwiki.com/Ness_(SSBM)#All-Star_Mode
+  55. https://www.ssbwiki.com/Ness_(SSBM)#Event_Matches
+  56. https://www.ssbwiki.com/Ness_(SSBM)#Ending_images
+  57. https://www.ssbwiki.com/Ness_(SSBM)#Trophy_descriptions
+  58. https://www.ssbwiki.com/Ness_(SSBM)#Alternate_costumes
+  59. https://www.ssbwiki.com/Ness_(SSBM)#Gallery
+  60. https://www.ssbwiki.com/Ness_(SSBM)#Trivia
+  61. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=1
+  62. https://www.ssbwiki.com/Recovery
+  63. https://www.ssbwiki.com/Jump
+  64. https://www.ssbwiki.com/Traction
+  65. https://www.ssbwiki.com/Falling_speed
+  66. https://www.ssbwiki.com/Wavedash
+  67. https://www.ssbwiki.com/PK_Flash
+  68. https://www.ssbwiki.com/PK_Fire
+  69. https://www.ssbwiki.com/PK_Thunder
+  70. https://www.ssbwiki.com/PSI_Magnet
+  71. https://www.ssbwiki.com/SHFFL
+  72. https://www.ssbwiki.com/Double_jump_cancel
+  73. https://www.ssbwiki.com/Neutral_aerial
+  74. https://www.ssbwiki.com/Forward_aerial
+  75. https://www.ssbwiki.com/Yo-yo_glitch
+  76. https://www.ssbwiki.com/Pikachu_(SSBM)
+  77. https://www.ssbwiki.com/Marth_(SSBM)
+  78. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+  79. https://www.ssbwiki.com/Samus_(SSBM)
+  80. https://www.ssbwiki.com/Helplessness
+  81. https://www.ssbwiki.com/Link_(SSBM)
+  82. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+  83. https://www.ssbwiki.com/Ice_Shot
+  84. https://www.ssbwiki.com/Battlefield_(SSBM)
+  85. https://www.ssbwiki.com/Cape
+  86. https://www.ssbwiki.com/Spin_Attack
+  87. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=2
+  88. https://www.ssbwiki.com/Nerf
+  89. https://www.ssbwiki.com/Yoshi_(SSBM)
+  90. https://www.ssbwiki.com/Pikachu_(SSBM)
+  91. https://www.ssbwiki.com/Kirby_(SSBM)
+  92. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=3
+  93. https://www.ssbwiki.com/Taunt
+  94. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=4
+  95. https://www.ssbwiki.com/Falling_speed
+  96. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=5
+  97. https://www.ssbwiki.com/IASA
+  98. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=6
+  99. https://www.ssbwiki.com/Auto-cancel
+ 100. https://www.ssbwiki.com/L-canceling
+ 101. https://www.ssbwiki.com/Meteor_canceling
+ 102. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=7
+ 103. https://www.ssbwiki.com/Forward_throw
+ 104. https://www.ssbwiki.com/Back_throw
+ 105. https://www.ssbwiki.com/Up_throw
+ 106. https://www.ssbwiki.com/Down_throw
+ 107. https://www.ssbwiki.com/Pummel
+ 108. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=8
+ 109. https://www.ssbwiki.com/PK_Flash
+ 110. https://www.ssbwiki.com/PK_Fire
+ 111. https://www.ssbwiki.com/PK_Thunder
+ 112. https://www.ssbwiki.com/PSI_Magnet
+ 113. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=9
+ 114. https://www.ssbwiki.com/Ness_(SSBM)/Hitboxes
+ 115. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)/Neutral_attack&action=edit&redlink=1
+ 116. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)/Forward_tilt&action=edit&redlink=1
+ 117. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)/Up_tilt&action=edit&redlink=1
+ 118. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)/Down_tilt&action=edit&redlink=1
+ 119. https://www.ssbwiki.com/A_button
+ 120. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)/Dash_attack&action=edit&redlink=1
+ 121. https://www.ssbwiki.com/Ness_(SSBM)/Forward_smash
+ 122. https://www.ssbwiki.com/Reflect
+ 123. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)/Up_smash&action=edit&redlink=1
+ 124. https://www.ssbwiki.com/Yo-yo_Glitch
+ 125. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)/Down_smash&action=edit&redlink=1
+ 126. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)/Neutral_aerial&action=edit&redlink=1
+ 127. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)/Forward_aerial&action=edit&redlink=1
+ 128. https://www.ssbwiki.com/Spacing
+ 129. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)/Back_aerial&action=edit&redlink=1
+ 130. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)/Up_aerial&action=edit&redlink=1
+ 131. https://www.ssbwiki.com/Ness_(SSBM)/Down_aerial
+ 132. https://www.ssbwiki.com/Meteor_smash
+ 133. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)/Grab&action=edit&redlink=1
+ 134. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)/Pummel&action=edit&redlink=1
+ 135. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)/Forward_throw&action=edit&redlink=1
+ 136. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)/Back_throw&action=edit&redlink=1
+ 137. https://www.ssbwiki.com/Mewtwo_(SSBM)
+ 138. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)/Up_throw&action=edit&redlink=1
+ 139. https://www.ssbwiki.com/Fox
+ 140. https://www.ssbwiki.com/Falco
+ 141. https://www.ssbwiki.com/Captain_Falcon
+ 142. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)/Down_throw&action=edit&redlink=1
+ 143. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)/Floor_attack_(front)&action=edit&redlink=1
+ 144. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)/Floor_attack_(back)&action=edit&redlink=1
+ 145. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)/Edge_attack_(fast)&action=edit&redlink=1
+ 146. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)/Edge_attack_(slow)&action=edit&redlink=1
+ 147. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)/Neutral_special&action=edit&redlink=1
+ 148. https://www.ssbwiki.com/PK_Flash
+ 149. https://www.ssbwiki.com/Priority#Transcendent_priority
+ 150. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)/Side_special&action=edit&redlink=1
+ 151. https://www.ssbwiki.com/PK_Fire
+ 152. https://www.ssbwiki.com/Hurtbox
+ 153. https://www.ssbwiki.com/Hitbox
+ 154. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)/Up_special&action=edit&redlink=1
+ 155. https://www.ssbwiki.com/PK_Thunder
+ 156. https://www.ssbwiki.com/PK_Thunder_2
+ 157. https://www.ssbwiki.com/Ness_(SSBM)/Down_special
+ 158. https://www.ssbwiki.com/PSI_Magnet
+ 159. https://www.ssbwiki.com/Taunt
+ 160. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=10
+ 161. https://www.ssbwiki.com/File:Ness-Taunt-SSBM.gif
+ 162. https://www.ssbwiki.com/Idle_pose
+ 163. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=11
+ 164. https://www.ssbwiki.com/File:Ness_Idle_Pose_Melee.gif
+ 165. https://www.ssbwiki.com/Crowd_cheer
+ 166. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=12
+ 167. https://www.ssbwiki.com/File:Ness_Cheer_NTSC_Melee.ogg
+ 168. https://www.ssbwiki.com/File:Ness_Cheer_JP_Melee.ogg
+ 169. https://www.ssbwiki.com/Victory_pose
+ 170. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=13
+ 171. https://www.ssbwiki.com/EarthBound_(game)
+ 172. https://www.ssbwiki.com/File:Ness-Victory1-SSBM.gif
+ 173. https://www.ssbwiki.com/File:Ness-Victory2-SSBM.gif
+ 174. https://www.ssbwiki.com/File:Ness-Victory3-SSBM.gif
+ 175. https://www.ssbwiki.com/Competitive_play
+ 176. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=14
+ 177. https://www.ssbwiki.com/Character_matchups_(SSBM)
+ 178. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=15
+ 179. https://www.ssbwiki.com/Character_matchup_(SSBM)
+ 180. https://www.ssbwiki.com/Fox_(SSBM)
+ 181. https://www.ssbwiki.com/Falco_(SSBM)
+ 182. https://www.ssbwiki.com/Marth_(SSBM)
+ 183. https://www.ssbwiki.com/Sheik_(SSBM)
+ 184. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 185. https://www.ssbwiki.com/Peach_(SSBM)
+ 186. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 187. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 188. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 189. https://www.ssbwiki.com/Samus_(SSBM)
+ 190. https://www.ssbwiki.com/Dr._Mario_(SSBM)
+ 191. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 192. https://www.ssbwiki.com/Luigi_(SSBM)
+ 193. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 194. https://www.ssbwiki.com/Mario_(SSBM)
+ 195. https://www.ssbwiki.com/Young_Link_(SSBM)
+ 196. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+ 197. https://www.ssbwiki.com/Link_(SSBM)
+ 198. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSBM)
+ 199. https://www.ssbwiki.com/Roy_(SSBM)
+ 200. https://www.ssbwiki.com/Mewtwo_(SSBM)
+ 201. https://www.ssbwiki.com/Zelda_(SSBM)
+ 202. https://www.ssbwiki.com/Ness_(SSBM)
+ 203. https://www.ssbwiki.com/Pichu_(SSBM)
+ 204. https://www.ssbwiki.com/Bowser_(SSBM)
+ 205. https://www.ssbwiki.com/Kirby_(SSBM)
+ 206. https://www.ssbwiki.com/Ness_(SSBM)
+ 207. https://www.ssbwiki.com/File:Matchup(-3)7T.png
+ 208. https://www.ssbwiki.com/File:Matchup(-3)7T.png
+ 209. https://www.ssbwiki.com/File:Matchup(-3)7T.png
+ 210. https://www.ssbwiki.com/File:Matchup(-3)7T.png
+ 211. https://www.ssbwiki.com/File:Matchup(-3)7T.png
+ 212. https://www.ssbwiki.com/File:Matchup(-2)7T.png
+ 213. https://www.ssbwiki.com/File:Matchup(-2)7T.png
+ 214. https://www.ssbwiki.com/File:Matchup(-3)7T.png
+ 215. https://www.ssbwiki.com/File:Matchup(-2)7T.png
+ 216. https://www.ssbwiki.com/File:Matchup(-2)7T.png
+ 217. https://www.ssbwiki.com/File:Matchup(-1)7T.png
+ 218. https://www.ssbwiki.com/File:Matchup(0)7T.png
+ 219. https://www.ssbwiki.com/File:Matchup(-2)7T.png
+ 220. https://www.ssbwiki.com/File:Matchup(-2)7T.png
+ 221. https://www.ssbwiki.com/File:Matchup(-2)7T.png
+ 222. https://www.ssbwiki.com/File:Matchup(-2)7T.png
+ 223. https://www.ssbwiki.com/File:Matchup(-2)7T.png
+ 224. https://www.ssbwiki.com/File:Matchup(-1)7T.png
+ 225. https://www.ssbwiki.com/File:Matchup(-1)7T.png
+ 226. https://www.ssbwiki.com/File:Matchup(-1)7T.png
+ 227. https://www.ssbwiki.com/File:Matchup(-1)7T.png
+ 228. https://www.ssbwiki.com/File:Matchup(-1)7T.png
+ 229. https://www.ssbwiki.com/File:Matchup(M)7T.png
+ 230. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 231. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 232. https://www.ssbwiki.com/File:Matchup(+1)7T.png
+ 233. https://www.ssbwiki.com/File:Matchup(-2)7T.png
+ 234. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 235. https://www.ssbwiki.com/Sheik_(SSBM)
+ 236. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 237. https://www.ssbwiki.com/Fox_(SSBM)
+ 238. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 239. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=16
+ 240. https://www.ssbwiki.com/Category:Ness_professionals_(SSBM)
+ 241. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=17
+ 242. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 243. https://www.ssbwiki.com/Smasher:Hungrybox
+ 244. https://www.ssbwiki.com/Five_Gods
+ 245. https://www.ssbwiki.com/The_Moon
+ 246. https://www.ssbwiki.com/Shuffle_V
+ 247. https://www.ssbwiki.com/HugS
+ 248. https://www.ssbwiki.com/Smash_the_Record_2016
+ 249. https://www.ssbwiki.com/Canada_Cup_2016
+ 250. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 251. https://www.ssbwiki.com/Smasher:Jim_Jam_Flim_Flam
+ 252. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 253. https://www.ssbwiki.com/Smasher:Nihlus
+ 254. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 255. https://www.ssbwiki.com/Smasher:Simna_ibn_Sind
+ 256. https://www.ssbwiki.com/EVO_2007
+ 257. https://www.ssbwiki.com/Super_Champ_Combo
+ 258. https://www.ssbwiki.com/EVO
+ 259. https://www.ssbwiki.com/GENESIS_(tournament_series)
+ 260. https://www.ssbwiki.com/Thunder_Jacket
+ 261. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 262. https://www.ssbwiki.com/Smasher:Kalvar
+ 263. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=18
+ 264. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 265. https://www.ssbwiki.com/Smasher:Mofo
+ 266. https://www.ssbwiki.com/Glitch
+ 267. https://www.ssbwiki.com/Star_Jacket
+ 268. https://www.ssbwiki.com/Spike_Jacket
+ 269. https://www.ssbwiki.com/Yoyo_stack_glitch
+ 270. https://www.ssbwiki.com/Smasher:Gravy
+ 271. https://www.ssbwiki.com/Smasher:Captain_Smuckers
+ 272. https://www.ssbwiki.com/File:Flag_of_Japan.png
+ 273. https://www.ssbwiki.com/Smasher:Nessby
+ 274. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 275. https://www.ssbwiki.com/index.php?title=Smasher:VRud&action=edit&redlink=1
+ 276. https://www.ssbwiki.com/Falco_(SSBM)
+ 277. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=19
+ 278. https://www.ssbwiki.com/Nerf
+ 279. https://www.ssbwiki.com/Super_Smash_Bros.
+ 280. https://www.ssbwiki.com/Smasher:Hungrybox
+ 281. https://www.ssbwiki.com/Apex_2013
+ 282. https://www.ssbwiki.com/Smasher:Armada
+ 283. https://www.ssbwiki.com/Young_Link_(SSBM)
+ 284. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 285. https://www.ssbwiki.com/Solo#1-P_Mode
+ 286. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=20
+ 287. https://www.ssbwiki.com/Classic_Mode_(SSBM)
+ 288. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=21
+ 289. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 290. https://www.ssbwiki.com/Peach_(SSBM)
+ 291. https://www.ssbwiki.com/Mewtwo_(SSBM)
+ 292. https://www.ssbwiki.com/Onett
+ 293. https://www.ssbwiki.com/Fourside
+ 294. https://www.ssbwiki.com/Battlefield_(SSBM)
+ 295. https://www.ssbwiki.com/Yoshi's_Island_(SSBM)
+ 296. https://www.ssbwiki.com/Adventure_Mode
+ 297. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=22
+ 298. https://www.ssbwiki.com/Adventure_Mode
+ 299. https://www.ssbwiki.com/Mr._Saturn
+ 300. https://www.ssbwiki.com/All-Star_Mode
+ 301. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=23
+ 302. https://www.ssbwiki.com/Onett
+ 303. https://www.ssbwiki.com/Event_Matches
+ 304. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=24
+ 305. https://www.ssbwiki.com/Event_5:_Spare_Change
+ 306. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 307. https://www.ssbwiki.com/Event_30:_All-Star_Match_3
+ 308. https://www.ssbwiki.com/Onett
+ 309. https://www.ssbwiki.com/Kirby_(SSBM)
+ 310. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 311. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 312. https://www.ssbwiki.com/Event_36:_Space_Travelers
+ 313. https://www.ssbwiki.com/Samus_(SSBM)
+ 314. https://www.ssbwiki.com/Fox_(SSBM)
+ 315. https://www.ssbwiki.com/Falco_(SSBM)
+ 316. https://www.ssbwiki.com/Fourside
+ 317. https://www.ssbwiki.com/Battlefield_(SSBM)
+ 318. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=25
+ 319. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=26
+ 320. https://www.ssbwiki.com/Adventure_Mode
+ 321. https://www.ssbwiki.com/All-Star
+ 322. https://www.ssbwiki.com/Alternate_costume_(SSBM)#Ness
+ 323. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=27
+ 324. https://www.ssbwiki.com/File:Ness_Palette_(SSBM).png
+ 325. https://www.ssbwiki.com/Ness_(SSBM)
+ 326. https://www.ssbwiki.com/Ness_(SSBM)
+ 327. https://www.ssbwiki.com/Ness_(SSBM)
+ 328. https://www.ssbwiki.com/Ness_(SSBM)
+ 329. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=28
+ 330. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+ 331. https://www.ssbwiki.com/Kirby_(SSBM)
+ 332. https://www.ssbwiki.com/Luigi_(SSBM)
+ 333. https://www.ssbwiki.com/Great_Bay
+ 334. https://www.ssbwiki.com/Temple
+ 335. https://www.ssbwiki.com/Taunt
+ 336. https://www.ssbwiki.com/PSI_Magnet
+ 337. https://www.ssbwiki.com/Mewtwo_(SSBM)
+ 338. https://www.ssbwiki.com/Final_Destination
+ 339. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit&section=29
+ 340. https://www.ssbwiki.com/Link
+ 341. https://www.ssbwiki.com/Jigglypuff
+ 342. https://www.ssbwiki.com/Gamecube
+ 343. https://www.ssbwiki.com/PK_Thunder
+ 344. http://www.nintendo.com/amiibo/detail/ness-amiibo-super-smash-bros-series
+ 345. https://www.ssbwiki.com/Amiibo
+ 346. https://www.ssbwiki.com/Template:SSBMCharacters
+ 347. https://www.ssbwiki.com/Template_talk:SSBMCharacters
+ 348. https://www.ssbwiki.com/index.php?title=Template:SSBMCharacters&action=edit
+ 349. https://www.ssbwiki.com/Characters
+ 350. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 351. https://www.ssbwiki.com/Veteran
+ 352. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 353. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+ 354. https://www.ssbwiki.com/Fox_(SSBM)
+ 355. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 356. https://www.ssbwiki.com/Kirby_(SSBM)
+ 357. https://www.ssbwiki.com/Link_(SSBM)
+ 358. https://www.ssbwiki.com/Luigi_(SSBM)
+ 359. https://www.ssbwiki.com/Mario_(SSBM)
+ 360. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 361. https://www.ssbwiki.com/Samus_(SSBM)
+ 362. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 363. https://www.ssbwiki.com/Newcomer
+ 364. https://www.ssbwiki.com/Bowser_(SSBM)
+ 365. https://www.ssbwiki.com/Dr._Mario_(SSBM)
+ 366. https://www.ssbwiki.com/Falco_(SSBM)
+ 367. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 368. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 369. https://www.ssbwiki.com/Marth_(SSBM)
+ 370. https://www.ssbwiki.com/Mewtwo_(SSBM)
+ 371. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSBM)
+ 372. https://www.ssbwiki.com/Peach_(SSBM)
+ 373. https://www.ssbwiki.com/Pichu_(SSBM)
+ 374. https://www.ssbwiki.com/Roy_(SSBM)
+ 375. https://www.ssbwiki.com/Young_Link_(SSBM)
+ 376. https://www.ssbwiki.com/Zelda_(SSBM)
+ 377. https://www.ssbwiki.com/Sheik_(SSBM)
+ 378. https://www.ssbwiki.com/Template:EnemiesAdvSSBM
+ 379. https://www.ssbwiki.com/Template_talk:EnemiesAdvSSBM
+ 380. https://www.ssbwiki.com/index.php?title=Template:EnemiesAdvSSBM&action=edit
+ 381. https://www.ssbwiki.com/Adventure_Mode
+ 382. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 383. https://www.ssbwiki.com/Mushroom_Kingdom_(Adventure_Mode)
+ 384. https://www.ssbwiki.com/Goomba
+ 385. https://www.ssbwiki.com/Koopa_Paratroopa
+ 386. https://www.ssbwiki.com/Koopa_Troopa
+ 387. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 388. https://www.ssbwiki.com/Mario_(SSBM)
+ 389. https://www.ssbwiki.com/Peach_(SSBM)
+ 390. https://www.ssbwiki.com/Luigi_(SSBM)
+ 391. https://www.ssbwiki.com/Kongo_Jungle_(SSBM)
+ 392. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+ 393. https://www.ssbwiki.com/Giant_DK
+ 394. https://www.ssbwiki.com/Underground_Maze
+ 395. https://www.ssbwiki.com/Octorok
+ 396. https://www.ssbwiki.com/ReDead
+ 397. https://www.ssbwiki.com/Like_Like
+ 398. https://www.ssbwiki.com/Link_(SSBM)
+ 399. https://www.ssbwiki.com/Zelda_(SSBM)
+ 400. https://www.ssbwiki.com/Sheik_(SSBM)
+ 401. https://www.ssbwiki.com/Brinstar
+ 402. https://www.ssbwiki.com/Samus_(SSBM)
+ 403. https://www.ssbwiki.com/Green_Greens
+ 404. https://www.ssbwiki.com/Kirby_(SSBM)
+ 405. https://www.ssbwiki.com/Copy_Abilities_(SSBM)
+ 406. https://www.ssbwiki.com/Giant_Kirby
+ 407. https://www.ssbwiki.com/Corneria
+ 408. https://www.ssbwiki.com/Fox_(SSBM)
+ 409. https://www.ssbwiki.com/Falco_(SSBM)
+ 410. https://www.ssbwiki.com/Pokémon_Stadium
+ 411. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 412. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 413. https://www.ssbwiki.com/Pichu_(SSBM)
+ 414. https://www.ssbwiki.com/F-Zero_Grand_Prix
+ 415. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 416. https://www.ssbwiki.com/Onett
+ 417. https://www.ssbwiki.com/Icicle_Mountain
+ 418. https://www.ssbwiki.com/Topi
+ 419. https://www.ssbwiki.com/Polar_Bear
+ 420. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 421. https://www.ssbwiki.com/Battlefield_(SSBM)
+ 422. https://www.ssbwiki.com/Fighting_Wire_Frames
+ 423. https://www.ssbwiki.com/Metal_Mario
+ 424. https://www.ssbwiki.com/Metal_Bros.#Metal_Luigi
+ 425. https://www.ssbwiki.com/Final_Destination_(SSBM)
+ 426. https://www.ssbwiki.com/Giant_Bowser
+ 427. https://www.ssbwiki.com/Giga_Bowser
+ 428. https://www.ssbwiki.com/Template:EarthBound_universe
+ 429. https://www.ssbwiki.com/Template_talk:EarthBound_universe
+ 430. https://www.ssbwiki.com/index.php?title=Template:EarthBound_universe&action=edit
+ 431. https://www.ssbwiki.com/File:EarthboundSymbol.svg
+ 432. https://www.ssbwiki.com/EarthBound_(universe)
+ 433. https://www.ssbwiki.com/Character
+ 434. https://www.ssbwiki.com/Ness
+ 435. https://www.ssbwiki.com/Ness_(SSB)
+ 436. https://www.ssbwiki.com/Ness_(SSBB)
+ 437. https://www.ssbwiki.com/Ness_(SSB4)
+ 438. https://www.ssbwiki.com/Ness_(SSBU)
+ 439. https://www.ssbwiki.com/Lucas
+ 440. https://www.ssbwiki.com/Lucas_(SSBB)
+ 441. https://www.ssbwiki.com/Lucas_(SSB4)
+ 442. https://www.ssbwiki.com/Lucas_(SSBU)
+ 443. https://www.ssbwiki.com/Assist_Trophies
+ 444. https://www.ssbwiki.com/Jeff
+ 445. https://www.ssbwiki.com/Starman_(EarthBound)
+ 446. https://www.ssbwiki.com/Boss
+ 447. https://www.ssbwiki.com/Porky_Minch
+ 448. https://www.ssbwiki.com/Porky_Statue
+ 449. https://www.ssbwiki.com/Stage
+ 450. https://www.ssbwiki.com/Onett
+ 451. https://www.ssbwiki.com/Fourside
+ 452. https://www.ssbwiki.com/New_Pork_City
+ 453. https://www.ssbwiki.com/Magicant
+ 454. https://www.ssbwiki.com/Item
+ 455. https://www.ssbwiki.com/Franklin_Badge
+ 456. https://www.ssbwiki.com/Mr._Saturn
+ 457. https://www.ssbwiki.com/Ramblin'_Evil_Mushroom
+ 458. https://www.ssbwiki.com/Devil_Car
+ 459. https://www.ssbwiki.com/Starman_(EarthBound)
+ 460. https://www.ssbwiki.com/Boney
+ 461. https://www.ssbwiki.com/Flying_Man
+ 462. https://www.ssbwiki.com/Kumatora
+ 463. https://www.ssbwiki.com/Paula
+ 464. https://www.ssbwiki.com/Poo
+ 465. https://www.ssbwiki.com/Rope_Snake
+ 466. https://www.ssbwiki.com/Ultimate_Chimera
+ 467. https://www.ssbwiki.com/Trophies
+ 468. https://www.ssbwiki.com/Sticker
+ 469. https://www.ssbwiki.com/Spirits_(characters)
+ 470. https://www.ssbwiki.com/List_of_SSBM_trophies_(EarthBound_series)
+ 471. https://www.ssbwiki.com/List_of_SSBB_trophies_(EarthBound_series)
+ 472. https://www.ssbwiki.com/List_of_SSB4_trophies_(EarthBound_series)
+ 473. https://www.ssbwiki.com/List_of_stickers_(EarthBound_series)
+ 474. https://www.ssbwiki.com/List_of_spirits_(EarthBound_series)
+ 475. https://www.ssbwiki.com/List_of_SSBB_Music_(EarthBound_series)
+ 476. https://www.ssbwiki.com/List_of_SSB4_Music_(EarthBound_series)
+ 477. https://www.ssbwiki.com/List_of_SSBU_Music_(EarthBound_series)
+ 478. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&oldid=1170969
+ 479. https://www.ssbwiki.com/Special:Categories
+ 480. https://www.ssbwiki.com/Category:Characters_(SSBM)
+ 481. https://www.ssbwiki.com/Category:EarthBound_universe
+ 482. https://www.ssbwiki.com/Category:Ness_(SSBM)
+ 483. https://www.ssbwiki.com/Category:Trophies_(SSBM)
+ 484. https://www.ssbwiki.com/Ness_(SSBM)
+ 485. https://www.ssbwiki.com/Talk:Ness_(SSBM)
+ 486. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=edit
+ 487. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=history
+ 488. https://www.ssbwiki.com/Special:MyTalk
+ 489. https://www.ssbwiki.com/Special:MyContributions
+ 490. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=Ness+(SSBM)
+ 491. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=Ness+(SSBM)
+ 492. https://www.ssbwiki.com/Main_Page
+ 493. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 494. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 495. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 496. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 497. https://www.ssbwiki.com/Super_Smash_Bros.
+ 498. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+ 499. https://www.ssbwiki.com/Stage
+ 500. https://www.ssbwiki.com/Mode
+ 501. https://www.ssbwiki.com/Item
+ 502. https://www.ssbwiki.com/Special:Random
+ 503. https://www.ssbwiki.com/Forum:Index
+ 504. https://www.ssbwiki.com/SmashWiki:Community_portal
+ 505. https://www.ssbwiki.com/Special:RecentChanges
+ 506. https://www.ssbwiki.com/Help:Contents
+ 507. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
+ 508. https://www.ssbwiki.com/SmashWiki:Discord_server
+ 509. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
+ 510. https://www.ssbwiki.com/Special:WhatLinksHere/Ness_(SSBM)
+ 511. https://www.ssbwiki.com/Special:RecentChangesLinked/Ness_(SSBM)
+ 512. https://www.ssbwiki.com/Special:SpecialPages
+ 513. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&printable=yes
+ 514. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&oldid=1170969
+ 515. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&action=info
+ 516. https://creativecommons.org/licenses/by-sa/3.0/
+ 517. https://www.mediawiki.org/
+ 518. https://creativecommons.org/licenses/by-sa/3.0/
+ 519. https://www.porplemontage.com/privacy
+ 520. https://www.ssbwiki.com/SmashWiki:About
+ 521. https://www.ssbwiki.com/SmashWiki:General_disclaimer
+ 522. https://www.ssbwiki.com/index.php?title=Ness_(SSBM)&mobileaction=toggle_view_mobile
+
+   Hidden links:
+ 524. https://www.ssbwiki.com/File:NessAerialAttacksSSBM.png
+ 525. https://www.ssbwiki.com/File:NessAerialAttacksSSBM.png
+ 526. https://www.ssbwiki.com/File:Ness_Victory.ogg
+ 527. https://www.ssbwiki.com/File:Ness_Victory.ogg
+ 528. https://www.ssbwiki.com/File:NessClassicMode.jpg
+ 529. https://www.ssbwiki.com/File:NessAdventureMode.jpg
+ 530. https://www.ssbwiki.com/File:NessAllStarMode.jpg
+ 531. https://www.ssbwiki.com/File:Ness_Trophy_Melee.png
+ 532. https://www.ssbwiki.com/File:Ness_Trophy_(Smash).png
+ 533. https://www.ssbwiki.com/File:Ness_Trophy_(Smash)_2.png
+ 534. https://www.ssbwiki.com/File:SSBM_Ness_HQ.jpg
+ 535. https://www.ssbwiki.com/File:LuigiAdventureMode.jpg
+ 536. https://www.ssbwiki.com/File:KirbyAdventureMode.jpg
+ 537. https://www.ssbwiki.com/File:FoxAdventureMode.jpg
+ 538. https://www.ssbwiki.com/File:MewtwoAllStarMode.jpg
+ 539. https://www.ssbwiki.com/File:SSBM-Nessyoyo.png
+ 540. https://www.ssbwiki.com/File:SSBM-Nessyoyo.png
+ 541. https://www.ssbwiki.com/File:Elnessjabsmaller.gif
+ 542. https://www.ssbwiki.com/File:Elnessjabsmaller.gif
+ 543. https://www.ssbwiki.com/Main_Page

@@ -1,0 +1,315 @@
+   #[1]SmashWiki (en) [2]SmashWiki Atom feed
+
+   [3]Help
+
+Special pages
+
+   From SmashWiki, the Super Smash Bros. wiki
+   Jump to:[4]navigation, [5]search
+
+Maintenance reports
+
+     * [6]Broken redirects
+     * [7]Dead-end pages
+     * [8]Double redirects
+     * [9]Long pages
+     * [10]Oldest pages
+     * [11]Orphaned pages
+     * [12]Pages with the fewest revisions
+     * [13]Pages without language links
+     * [14]Protected pages
+     * [15]Protected titles
+     * [16]Short pages
+     * [17]Uncategorized categories
+     * [18]Uncategorized images
+     * [19]Uncategorized pages
+     * [20]Uncategorized templates
+     * [21]Unused categories
+     * [22]Unused images
+     * [23]Unused templates
+     * [24]Wanted categories
+     * [25]Wanted images
+     * [26]Wanted pages
+     * [27]Wanted templates
+
+Lists of pages
+
+     * [28]All pages
+     * [29]All pages with prefix
+     * [30]Categories
+     * [31]List of redirects
+     * [32]Pages with a page property
+     * [33]Search
+     * [34]Tracking categories
+
+Login / create account
+
+     * [35]Create account
+     * [36]Log in
+
+Users and rights
+
+     * [37]Active users list
+     * [38]Autoblocks
+     * [39]Blocked users
+     * [40]Bot passwords
+     * [41]Change credentials
+     * [42]Change or remove email address
+     * [43]Grants
+     * [44]Preferences
+     * [45]Remove credentials
+     * [46]Reset password
+     * [47]Reset tokens
+     * [48]User contributions
+     * [49]User group rights
+     * [50]User list
+     * [51]User rights
+
+Recent changes and logs
+
+     * [52]Logs
+     * [53]New images
+     * [54]New pages
+     * [55]Recent changes
+     * [56]Related changes
+     * [57]Valid change tags
+     * [58]Watchlist
+
+Media reports and uploads
+
+     * [59]Duplicate image search
+     * [60]File list
+     * [61]List of files with duplicates
+     * [62]MIME search
+     * [63]Media statistics
+
+Data and tools
+
+     * [64]API sandbox
+     * [65]Book sources
+     * [66]Expand templates
+     * [67]Gadget usage statistics
+     * [68]Gadgets
+     * [69]Statistics
+     * [70]System messages
+     * [71]Version
+     * [72]View interwiki data
+
+Redirecting special pages
+
+     * [73]Differences
+     * [74]External links search
+     * [75]Permanent link
+     * [76]Random page
+     * [77]Random page in category
+     * [78]Random redirect
+     * [79]Random root page
+     * [80]Redirect by file, user, page, revision, or log ID
+
+High use pages
+
+     * [81]Most linked-to categories
+     * [82]Most linked-to images
+     * [83]Most linked-to pages
+     * [84]Most transcluded pages
+     * [85]Pages with the most categories
+     * [86]Pages with the most interwikis
+     * [87]Pages with the most revisions
+
+Page tools
+
+     * [88]Compare pages
+     * [89]Export pages
+     * [90]What links here
+
+Other special pages
+
+     * [91]Edit count
+     * [92]Who's online
+
+   Retrieved from "[93]https://www.ssbwiki.com/Special:SpecialPages"
+
+Navigation menu
+
+Views
+
+     * [94]Special page
+
+Personal tools
+
+     * Not logged in
+     * [95]Talk
+     * [96]Contributions
+     * [97]Create account
+     * [98]Log in
+
+Navigation
+
+     * [99]Main page
+     * [100]Smash Bros. Ultimate
+     * [101]Smash Bros. 4
+     * [102]Smash Bros. Brawl
+     * [103]Smash Bros. Melee
+     * [104]Smash Bros. (64)
+     * [105]Characters
+     * [106]Stages
+     * [107]Modes
+     * [108]Items
+     * [109]Random page
+
+Search
+
+   ____________________ Go  Search
+
+Participate
+
+     * [110]Forum
+     * [111]Community portal
+     * [112]Recent changes
+     * [113]Help
+     * [114]Admin noticeboard
+     * [115]Discord server
+     * [116]YouTube channel
+
+Tools
+
+     * [117]Special pages
+     * [118]Printable version
+
+   [119]Attribution-Share Alike 3.0 Unported
+   [120]Powered by MediaWiki
+     * [121]Privacy policy
+     * [122]About SmashWiki
+     * [123]Disclaimers
+     * [124]Mobile view
+
+References
+
+   Visible links
+   1. https://www.ssbwiki.com/opensearch_desc.php
+   2. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&feed=atom
+   3. https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Special_pages
+   4. https://www.ssbwiki.com/Special:SpecialPages#column-one
+   5. https://www.ssbwiki.com/Special:SpecialPages#searchInput
+   6. https://www.ssbwiki.com/Special:BrokenRedirects
+   7. https://www.ssbwiki.com/Special:DeadendPages
+   8. https://www.ssbwiki.com/Special:DoubleRedirects
+   9. https://www.ssbwiki.com/Special:LongPages
+  10. https://www.ssbwiki.com/Special:AncientPages
+  11. https://www.ssbwiki.com/Special:LonelyPages
+  12. https://www.ssbwiki.com/Special:FewestRevisions
+  13. https://www.ssbwiki.com/Special:WithoutInterwiki
+  14. https://www.ssbwiki.com/Special:ProtectedPages
+  15. https://www.ssbwiki.com/Special:ProtectedTitles
+  16. https://www.ssbwiki.com/Special:ShortPages
+  17. https://www.ssbwiki.com/Special:UncategorizedCategories
+  18. https://www.ssbwiki.com/Special:UncategorizedFiles
+  19. https://www.ssbwiki.com/Special:UncategorizedPages
+  20. https://www.ssbwiki.com/Special:UncategorizedTemplates
+  21. https://www.ssbwiki.com/Special:UnusedCategories
+  22. https://www.ssbwiki.com/Special:UnusedFiles
+  23. https://www.ssbwiki.com/Special:UnusedTemplates
+  24. https://www.ssbwiki.com/Special:WantedCategories
+  25. https://www.ssbwiki.com/Special:WantedFiles
+  26. https://www.ssbwiki.com/Special:WantedPages
+  27. https://www.ssbwiki.com/Special:WantedTemplates
+  28. https://www.ssbwiki.com/Special:AllPages
+  29. https://www.ssbwiki.com/Special:PrefixIndex
+  30. https://www.ssbwiki.com/Special:Categories
+  31. https://www.ssbwiki.com/Special:ListRedirects
+  32. https://www.ssbwiki.com/Special:PagesWithProp
+  33. https://www.ssbwiki.com/Special:Search
+  34. https://www.ssbwiki.com/Special:TrackingCategories
+  35. https://www.ssbwiki.com/Special:CreateAccount
+  36. https://www.ssbwiki.com/Special:UserLogin
+  37. https://www.ssbwiki.com/Special:ActiveUsers
+  38. https://www.ssbwiki.com/Special:AutoblockList
+  39. https://www.ssbwiki.com/Special:BlockList
+  40. https://www.ssbwiki.com/Special:BotPasswords
+  41. https://www.ssbwiki.com/Special:ChangeCredentials
+  42. https://www.ssbwiki.com/Special:ChangeEmail
+  43. https://www.ssbwiki.com/Special:ListGrants
+  44. https://www.ssbwiki.com/Special:Preferences
+  45. https://www.ssbwiki.com/Special:RemoveCredentials
+  46. https://www.ssbwiki.com/Special:PasswordReset
+  47. https://www.ssbwiki.com/Special:ResetTokens
+  48. https://www.ssbwiki.com/Special:Contributions
+  49. https://www.ssbwiki.com/Special:ListGroupRights
+  50. https://www.ssbwiki.com/Special:ListUsers
+  51. https://www.ssbwiki.com/Special:UserRights
+  52. https://www.ssbwiki.com/Special:Log
+  53. https://www.ssbwiki.com/Special:NewFiles
+  54. https://www.ssbwiki.com/Special:NewPages
+  55. https://www.ssbwiki.com/Special:RecentChanges
+  56. https://www.ssbwiki.com/Special:RecentChangesLinked
+  57. https://www.ssbwiki.com/Special:Tags
+  58. https://www.ssbwiki.com/Special:Watchlist
+  59. https://www.ssbwiki.com/Special:FileDuplicateSearch
+  60. https://www.ssbwiki.com/Special:ListFiles
+  61. https://www.ssbwiki.com/Special:ListDuplicatedFiles
+  62. https://www.ssbwiki.com/Special:MIMESearch
+  63. https://www.ssbwiki.com/Special:MediaStatistics
+  64. https://www.ssbwiki.com/Special:ApiSandbox
+  65. https://www.ssbwiki.com/Special:BookSources
+  66. https://www.ssbwiki.com/Special:ExpandTemplates
+  67. https://www.ssbwiki.com/Special:GadgetUsage
+  68. https://www.ssbwiki.com/Special:Gadgets
+  69. https://www.ssbwiki.com/Special:Statistics
+  70. https://www.ssbwiki.com/Special:AllMessages
+  71. https://www.ssbwiki.com/Special:Version
+  72. https://www.ssbwiki.com/Special:Interwiki
+  73. https://www.ssbwiki.com/Special:Diff
+  74. https://www.ssbwiki.com/Special:LinkSearch
+  75. https://www.ssbwiki.com/Special:PermanentLink
+  76. https://www.ssbwiki.com/Special:Random
+  77. https://www.ssbwiki.com/Special:RandomInCategory
+  78. https://www.ssbwiki.com/Special:RandomRedirect
+  79. https://www.ssbwiki.com/Special:RandomRootpage
+  80. https://www.ssbwiki.com/Special:Redirect
+  81. https://www.ssbwiki.com/Special:MostLinkedCategories
+  82. https://www.ssbwiki.com/Special:MostLinkedFiles
+  83. https://www.ssbwiki.com/Special:MostLinkedPages
+  84. https://www.ssbwiki.com/Special:MostTranscludedPages
+  85. https://www.ssbwiki.com/Special:MostCategories
+  86. https://www.ssbwiki.com/Special:MostInterwikis
+  87. https://www.ssbwiki.com/Special:MostRevisions
+  88. https://www.ssbwiki.com/Special:ComparePages
+  89. https://www.ssbwiki.com/Special:Export
+  90. https://www.ssbwiki.com/Special:WhatLinksHere
+  91. https://www.ssbwiki.com/Special:Editcount
+  92. https://www.ssbwiki.com/Special:WhosOnline
+  93. https://www.ssbwiki.com/Special:SpecialPages
+  94. https://www.ssbwiki.com/Special:SpecialPages
+  95. https://www.ssbwiki.com/Special:MyTalk
+  96. https://www.ssbwiki.com/Special:MyContributions
+  97. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=Special:SpecialPages
+  98. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=Special:SpecialPages
+  99. https://www.ssbwiki.com/Main_Page
+ 100. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 101. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 102. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 103. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 104. https://www.ssbwiki.com/Super_Smash_Bros.
+ 105. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+ 106. https://www.ssbwiki.com/Stage
+ 107. https://www.ssbwiki.com/Mode
+ 108. https://www.ssbwiki.com/Item
+ 109. https://www.ssbwiki.com/Special:Random
+ 110. https://www.ssbwiki.com/Forum:Index
+ 111. https://www.ssbwiki.com/SmashWiki:Community_portal
+ 112. https://www.ssbwiki.com/Special:RecentChanges
+ 113. https://www.ssbwiki.com/Help:Contents
+ 114. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
+ 115. https://www.ssbwiki.com/SmashWiki:Discord_server
+ 116. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
+ 117. https://www.ssbwiki.com/Special:SpecialPages
+ 118. https://www.ssbwiki.com/index.php?title=Special:SpecialPages&printable=yes
+ 119. https://creativecommons.org/licenses/by-sa/3.0/
+ 120. https://www.mediawiki.org/
+ 121. https://www.porplemontage.com/privacy
+ 122. https://www.ssbwiki.com/SmashWiki:About
+ 123. https://www.ssbwiki.com/SmashWiki:General_disclaimer
+ 124. https://www.ssbwiki.com/index.php?title=Special:SpecialPages&mobileaction=toggle_view_mobile
+
+   Hidden links:
+ 126. https://www.ssbwiki.com/Main_Page

@@ -1,0 +1,1264 @@
+   #[1]Edit this page [2]SmashWiki (en) [3]SmashWiki Atom feed
+
+Super Smash Bros. Melee
+
+   From SmashWiki, the Super Smash Bros. wiki
+   (Redirected from [4]Melee)
+   Jump to:[5]navigation, [6]search
+   [7]SSBM Icon.png [8]This is a featured article. Click for more information.
+
+                                                                                                                                                                                                                                                                                                                                                                                                                    “ Within Nintendo, we've had a lot of discussion about which of our most popular characters should be ready to appear in games when Nintendo GameCube comes to market. We think we've got a great answer. ”
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                           —[9]Shigeru Miyamoto moments before the Melee trailer was unveiled to the public at E3 2001.
+
+   Super Smash Bros. Melee
+   [10]North American cover art
+   [11]Developer(s) [12]HAL Laboratory
+   [13]Intelligent Systems
+   [14]Publisher(s) [15]Nintendo
+   [16]Designer(s) [17]Masahiro Sakurai
+   Released [18]Japan November 21, 2001
+   [19]North America December 3, 2001
+   [20]Europe May 24, 2002
+   [21]Australia May 31, 2002
+   [22]Genre(s) [23]Fighting game
+   [24]Platforming
+   Mode(s) [25]Single-player, [26]Multiplayer (2-4)
+   [27]Ratings [28]ESRB: T
+   [29]ELSPA: 11+
+   [30]ELSPA: 3+ (re-rating)
+   [31]PEGI: 3+
+   [32]OFLC: G8+
+   [33]Platform(s) [34]Nintendo GameCube
+   Media [35]GameCube Optical Disc
+   System requirements 11 blocks of memory (an additional 2 or more blocks are needed for each snapshot saved)
+   Input methods [36]GameCube controller
+
+          "Melee" redirects here. For the game mode, see [37]Versus Mode.
+
+   Super Smash Bros. Melee (大乱闘 スマッシュ ブラザーズ ＤＸ, Great Fray Smash Brothers Deluxe), often shortened to "SSBM" or "Melee", is a 2.5D fighting game for the Nintendo GameCube. It was released on November 21st, 2001 in Japan, and December 3rd, 2001 in North America, shortly after GameCube's launch, and then on the following year in Europe and Australia on May 24th, 2002 and May 31st, 2002 respectively. It is the second game in the [38]Super Smash Bros. series, following its predecessor, [39]Super Smash Bros., and was succeeded by [40]Super Smash Bros. Brawl, [41]Super Smash Bros. 4 and [42]Super Smash Bros. Ultimate.
+
+   Like Super Smash Bros., Melee features [43]gameplay unique from that of other fighting games. Compared to characters in other fighting games, Melee characters have simple movesets and lack complicated button inputs and lengthy [44]natural combos. Instead Melee emphasizes movement and ringouts. Indeed, [45]edge-guarding in Melee takes on much more significance than it does in most other games due to copious mid-air jumps and other methods of reaching the edge unfettered. The game has sold over seven million copies and is the best-selling GameCube game. Melee is also one of the two games in the Super Smash Bros. series to be rated T by the ESRB, with the other being its sequel, Super Smash Bros. Brawl.
+
+Contents
+
+     * [46]1 Opening movie
+     * [47]2 Characters
+          + [48]2.1 List of characters
+          + [49]2.2 Non-playable characters
+     * [50]3 Stages
+          + [51]3.1 1-player stages
+     * [52]4 Modes
+          + [53]4.1 1-Player
+          + [54]4.2 Multi-Player
+          + [55]4.3 Action Replay
+     * [56]5 Unlockables
+     * [57]6 Development
+     * [58]7 Reception
+     * [59]8 Changes from the original
+          + [60]8.1 Gameplay and game mechanics
+          + [61]8.2 Game modes
+          + [62]8.3 Aesthetic
+          + [63]8.4 Data
+     * [64]9 Tournament play
+     * [65]10 Gallery
+     * [66]11 Trivia
+     * [67]12 References
+     * [68]13 External links
+
+Opening movie[[69]edit]
+
+   The [70]opening movie of Melee mostly uses FMV scenes from its E3 2001 trailer along with some scenes of actual gameplay.
+
+   The FMV scenes were given particularly high attention by the developing team; according to Sakurai, the team wanted to create an entire, high-quality FMV sequence in the game in order to highlight the then newly-released GameCube console's graphical power in comparison to previous consoles. The development team worked in three different animations studios in Tokyo, Japan to finish the FMV opening.
+
+   In addition, continuing the trend started in the previous game, the opening also directly segues into the title screen with the [71]announcer calling out the game's title.
+
+   The E3 trailer has also been found: [72]early opening. In this sequence, the clips of actual gameplay had been considerably changed from the final version.
+
+   It is the first pre-rendered cutscene in the series.
+
+   IFRAME: [73]https://www.youtube.com/embed/RXs4-M-ZiOg?
+
+Characters[[74]edit]
+
+   The character-selection screen of Super Smash Bros. Melee (which includes all 26 characters unlocked).
+   Main article: [75]List of Super Smash Bros. series characters
+
+   The cast of 25 playable characters, 26 including [76]Zelda's alter ego [77]Sheik, includes all 12 characters from [78]Super Smash Bros. and 13 newcomers (14 counting Sheik). Of these, 14 are available from the start of play (15 if Sheik is included), including all the [79]veteran characters except [80]Jigglypuff and [81]Luigi and 11 more which can be unlocked.
+
+   Of the new characters, the greatest number are from [82]The Legend of Zelda universe if Zelda/Sheik are counted as two characters to go with [83]Ganondorf and [84]Young Link, although the [85]Mario series also takes three new character slots for [86]Bowser, [87]Princess Peach and [88]Dr. Mario added. On top of these, two universes add two characters each, with the [89]Fire Emblem series making its Smash Bros. debut with [90]Marth and [91]Roy (with Roy making his debut in any game), and the [92]Pokémon universe adding [93]Pichu and [94]Mewtwo to its two existing characters. The three other characters added are [95]Falco, a second character from the [96]Star Fox series, [97]Mr. Game & Watch, and the [98]Ice Climbers from two highly venerable Nintendo series.
+
+List of characters[[99]edit]
+
+                                                       Veterans (12)
+   [100]Mario SSBM.jpg
+   [101]Mario
+   [102]MarioSymbol(preBrawl).svg [103]Luigi SSBM.jpg
+   [104]Luigi
+   [105]MarioSymbol(preBrawl).svg [106]Yoshi SSBM.jpg
+   [107]Yoshi
+   [108]YoshiSymbol(preBrawl).svg [109]Donkey Kong SSBM.jpg
+   [110]Donkey Kong
+   [111]DKSymbol(preBrawl).svg [112]Link SSBM.jpg
+   [113]Link
+   [114]ZeldaSymbol.svg [115]Samus SSBM.jpg
+   [116]Samus
+   [117]MetroidSymbol(preBrawl).svg [118]Kirby SSBM.jpg
+   [119]Kirby
+   [120]KirbySymbol.svg
+   [121]Fox SSBM.jpg
+   [122]Fox
+   [123]StarFoxSymbol(preBrawl).svg [124]Pikachu SSBM.jpg
+   [125]Pikachu
+   [126]PokemonSymbol(preBrawl).svg [127]Jigglypuff SSBM.jpg
+   [128]Jigglypuff
+   [129]PokemonSymbol(preBrawl).svg [130]Captain Falcon SSBM.jpg
+   [131]Captain Falcon
+   [132]FZeroSymbol.svg [133]Ness SSBM.jpg
+   [134]Ness
+   [135]EarthboundSymbol(preBrawl).svg
+                                                      Newcomers (14)
+   [136]Peach SSBM.jpg
+   [137]Peach
+   [138]MarioSymbol(preBrawl).svg [139]Bowser SSBM.jpg
+   [140]Bowser
+   [141]MarioSymbol(preBrawl).svg [142]Dr. Mario SSBM.jpg
+   [143]Dr. Mario
+   [144]MarioSymbol(preBrawl).svg [145]Zelda SSBM.jpg [146]Sheik SSBM.jpg
+   [147]Zelda/[148]Sheik
+   [149]ZeldaSymbol.svg [150]Young Link SSBM.jpg
+   [151]Young Link
+   [152]ZeldaSymbol.svg [153]Ganondorf SSBM.jpg
+   [154]Ganondorf
+   [155]ZeldaSymbol.svg
+   [156]Falco SSBM.jpg
+   [157]Falco
+   [158]StarFoxSymbol(preBrawl).svg [159]Pichu SSBM.jpg
+   [160]Pichu
+   [161]PokemonSymbol(preBrawl).svg [162]Mewtwo SSBM.jpg
+   [163]Mewtwo
+   [164]PokemonSymbol(preBrawl).svg [165]Ice Climbers SSBM.jpg
+   [166]Ice Climbers
+   [167]IceClimberSymbol.svg [168]Marth SSBM.jpg
+   [169]Marth
+   [170]FireEmblemSymbol.svg [171]Roy SSBM.jpg
+   [172]Roy
+   [173]FireEmblemSymbol.svg [174]Mr. Game & Watch SSBM.jpg
+   [175]Mr. Game & Watch
+   [176]Game&WatchSymbol(preBrawl).svg
+
+   Bold denotes [177]unlockable characters.
+
+Non-playable characters[[178]edit]
+
+                                          Bosses
+   [179]Master Hand Melee Trophy.png
+   [180]Master Hand (playable with [181]glitch)
+   [182]SmashBrosSymbol.svg [183]Crazy Hand Melee Trophy.png
+   [184]Crazy Hand
+   [185]SmashBrosSymbol.svg [186]Giga Bowser Melee Trophy.png
+   [187]Giga Bowser
+   [188]SmashBrosSymbol.svg
+                                        Non-bosses
+   [189]SSBM Sandbag.png
+   [190]Sandbag
+   [191]SmashBrosSymbol.svg [192]Fighting Wire Frames Trophy.png
+   [193]Fighting Wire Frames
+   [194]SmashBrosSymbol.svg
+
+Stages[[195]edit]
+
+   There are eighteen [196]starter stages and eleven more which can be unlocked.
+                                                                   Starter stages
+   [197]Mushroom Kingdom I Melee.png
+   [198]Mushroom Kingdom
+   [199]MarioSymbol(preBrawl).svg [200]PCastleMelee.jpg
+   [201]Princess Peach's Castle
+   [202]MarioSymbol(preBrawl).svg [203]Rainbow Cruise.jpg
+   [204]Rainbow Cruise
+   [205]MarioSymbol(preBrawl).svg [206]YoshisIslandSSBM.jpg
+   [207]Yoshi's Island
+   [208]YoshiSymbol(preBrawl).svg [209]Yoshi'sStory.PNG
+   [210]Yoshi's Story
+   [211]YoshiSymbol(preBrawl).svg
+   [212]Kongojungle.jpg
+   [213]Kongo Jungle
+   [214]DKSymbol(preBrawl).svg [215]JungleJapes.jpg
+   [216]Jungle Japes
+   [217]DKSymbol(preBrawl).svg [218]Great bay.jpg
+   [219]Great Bay
+   [220]ZeldaSymbol.svg [221]Hyrule Temple.jpg
+   [222]Temple
+   [223]ZeldaSymbol.svg [224]Brinstar brawl.jpg
+   [225]Brinstar
+   [226]MetroidSymbol(preBrawl).svg
+   [227]Fountainofdreams.jpg
+   [228]Fountain of Dreams
+   [229]KirbySymbol.svg [230]Greengreens.jpg
+   [231]Green Greens
+   [232]KirbySymbol.svg [233]Corneria full.jpg
+   [234]Corneria
+   [235]StarFoxSymbol(preBrawl).svg [236]Venom.jpg
+   [237]Venom
+   [238]StarFoxSymbol(preBrawl).svg [239]Pokemonstadium.jpg
+   [240]Pokémon Stadium
+   [241]PokemonSymbol(preBrawl).svg
+   [242]MuteCity.jpg
+   [243]Mute City
+   [244]FZeroSymbol.svg [245]Onett.jpg
+   [246]Onett
+   [247]EarthboundSymbol(preBrawl).svg [248]IcicleMountain.jpg
+   [249]Icicle Mountain
+   [250]IceClimberSymbol.svg
+                                                                  Unlockable stages
+   [251]Battlefieldssbm.jpg
+   [252]Battlefield
+   [253]SpecialStagesSymbol.svg [254]Final Destination Melee.png
+   [255]Final Destination
+   [256]SmashBrosSymbol.svg [257]Mushroom Kingdom II Melee.png
+   [258]Mushroom Kingdom II
+   [259]MarioSymbol(preBrawl).svg [260]Yoshi's Island Melee.png
+   [261]Super Smash Bros. [262]Yoshi's Island
+   [263]YoshiSymbol(preBrawl).svg [264]OLDKJ-NRML-SSBM.png
+   [265]Super Smash Bros. [266]Kongo Jungle
+   [267]DKSymbol(preBrawl).svg
+   [268]Brinstardepths.jpg
+   [269]Brinstar Depths
+   [270]MetroidSymbol(preBrawl).svg [271]OLDDL-NRML-SSBM.jpg
+   [272]Super Smash Bros. [273]Dream Land
+   [274]KirbySymbol.svg [275]PokeFloats.jpg
+   [276]Poké Floats
+   [277]PokemonSymbol(preBrawl).svg [278]Bigblue.jpg
+   [279]Big Blue
+   [280]FZeroSymbol.svg [281]Fourside Melee.png
+   [282]Fourside
+   [283]EarthboundSymbol(preBrawl).svg
+   [284]Flatzone copy.jpg
+   [285]Flat Zone
+   [286]Game&WatchSymbol(preBrawl).svg
+
+1-player stages[[287]edit]
+
+   These stages cannot be unlocked, and can only be played under certain circumstances.
+     * [288]Target Test Stages
+     * [289]Snag the Trophies
+     * [290]Race to the Finish
+     * [291]Mushroom Kingdom
+     * [292]Underground Maze
+     * [293]Brinstar Escape Shaft
+     * [294]F-Zero Grand Prix
+     * [295]Rest Station
+     * [296]Home-Run Stadium
+     * [297]Majora's Mask
+     * [298]Goomba
+     * [299]Entei
+
+Modes[[300]edit]
+
+   The main menu.
+
+1-Player[[301]edit]
+
+     * [302]Classic Mode
+     * [303]Adventure Mode
+     * [304]All-Star Mode (must be unlocked)
+     * [305]Event Match
+     * [306]Stadium
+          + [307]Home-Run Contest
+          + [308]Target Test
+          + [309]Multi-Man Melee
+     * [310]Training
+
+Multi-Player[[311]edit]
+
+     * [312]Versus Mode
+     * [313]Special Melee
+          + [314]Camera Mode
+          + [315]Super Sudden Death
+          + [316]Giant Melee
+          + Tiny Melee
+          + Invisible Melee
+          + Slo-Mo Melee
+          + Fixed-Camera Mode
+          + Single-Button Melee
+          + Lightning Melee
+          + [317]Stamina Mode
+     * [318]Tournament Mode
+
+Action Replay[[319]edit]
+
+     * [320]Debug menu
+
+Unlockables[[321]edit]
+
+   The game featured several points to be unlocked, most of which include the [322]trophies, unlockable characters and stages. Some of them are unlocked by a special way, like achieving a certain distance on the [323]Home-Run Contest, while others are obtained by the [324]Lottery. For a full list, see [325]List of unlockables (SSBM).
+
+   Some unlockable elements in SSBM were left out, but can be seen with an Action Replay cheat disc. See [326]Debug menu for more details.
+
+Development[[327]edit]
+
+   [328]HAL Laboratory developed Super Smash Bros. Melee, with [329]Masahiro Sakurai as the head of production. The game was one of the first games released on the [330]Nintendo GameCube and highlighted the advancement in graphics from the [331]Nintendo 64. The developers wanted to pay homage to the debut of the GameCube by making an opening FMV sequence that would attract people's attention to the graphics.^[332][1] HAL worked with three separate graphic houses in Tokyo to make the opening sequence. On their official website, the developers posted screen shots and information highlighting and explaining the attention to physics and detail in the game, with references to changes from its predecessor.^[333][2] The game was in development for 13 months, and Sakurai called his lifestyle during this period "destructive" with no holidays and short weekends.^[334][3] Unlike the experimental first [335]Super Smash Bros., he felt great pressure to deliver a quality sequel, claiming it was the "biggest
+   project I had ever led up to that point". Despite the painful development cycle, Sakurai proudly called it "the sharpest game in the series... it just felt really good to play", even compared to its successor, [336]Super Smash Bros. Brawl.^[337][3]
+
+   On the game's official Japanese website, the developers explain reasons for making particular characters playable and explain why some characters were not available as playable characters upon release. Initially, the development team wanted to replace Ness with [338]Lucas, the main character of [339]Mother 3, but retained Ness in consideration of delays.^[340][4] The game's creators later included Lucas in the game's sequel, [341]Super Smash Bros. Brawl.^[342][5]^[343][6] Video game developer [344]Hideo Kojima originally requested the inclusion of [345]Solid Snake to Sakurai, but the game was too far into development. As with Lucas, development time allowed for his inclusion in Brawl.^[346][7] Marth and Roy were initially intended to be playable exclusively in the Japanese version of Super Smash Bros. Melee. However, they received favorable attention during the game's North American localization, leading to the decision for the developers to include them in the Western
+   version.^[347][8]^[348][9] Additionally, Sakurai stated that the development team had suggested characters from four other games to represent the Famicom or NES era until the developers decided that the [349]Ice Climbers would be in the game.^[350][10] The developers have noted characters that have very similar moves to each other on the website;^[351][11] such characters have been referred to as "clones" in the media.^[352][12]
+
+   Nintendo presented the game at the [353]Electronic Entertainment Expo (E3) event of 2001 as a playable demonstration.^[354][13] The next major exposition of the game came in August 2001 at Spaceworld, when Nintendo displayed a playable demo that updated from the previous demo displayed at E3. Nintendo offered a playable tournament of the games for fans in which a GameCube and Super Smash Bros. Melee were prizes for the winner.^[355][14] Before the game's release, the Japanese official website included weekly updates, including screenshots and character profiles.^[356][15]^[357][16] Nintendo followed this trend with Super Smash Bros. Brawl, in which there were daily updates by the game's developer, Masahiro Sakurai.^[358][17] Japanese gaming magazine Famitsu reported that Nintendo advertised the game in between showings of the Pokémon the First Movie across movie theaters in Japan.^[359][18] In January 2003, Super Smash Bros Melee became part of the Player's Choice, a marketing label used by
+   Nintendo to promote video games that have sold more than a million copies.^[360][19] In August 2005, Nintendo bundled the game with the Nintendo GameCube for $99.99.^[361][20]
+
+Reception[[362]edit]
+
+                 Melee reviews
+          Publication         Score
+   Edge Magazine              6/10
+   Eurogamer                  10/10^[363][21]
+   Famitsu                    37/40
+   GameSpot                   8.9/10^[364][22]
+   IGN                        9.6/10^[365][23]
+   Nintendo Power             5/5 ^[366][24]
+   Official Nintendo Magazine 95%
+        Compilations of multiple reviews
+   Metacritic                 92/100^[367][24]
+   Game Rankings              90.52%^[368][25]
+
+   Melee was well-received in many quarters and is the GameCube's top-selling game, selling about 7.09 million copies worldwide as of December 31, 2009. It was the fastest-selling GameCube game in Japan and sold 358,525 copies within four days of its release. In North America, it sold 250,000 copies within nine days of its release. It was the first GameCube game to sell over a million copies, an achievement reached only two months after its release.
+
+   Melee has received critical acclaim from reviewers, and has received high rankings on many gaming sites, such as [369]GameRankings, [370]IGN, and [371]GameSpot. [372]GameSpy commented in their review that "you'll have a pretty hard time finding a more enjoyable multiplayer experience on any other console".^[373][26] Reviewers compared the game favorably to the original [374]Super Smash Bros., commonly due to the large amount of new content added to the sequel, with IGN's [375]Fran Mirabella III saying it was "in an entirely different league than the N64 version".^[376][27] The improved graphics were also welcomed, and GameSpot said that "the character models are pleasantly full-bodied, and the quality of their textures is amazing".^[377][28] Planet GameCube's Mike Sklens also rated it as "one of the best sounding games ever",^[378][29] while GameSpot's Greg Kasavin commented that "it all sounds brilliant".^[379][28]
+
+   Super Smash Bros. Melee has received many gaming awards. GameSpy chose it as Best Fighting GameCube Game in their "Best of 2001" awards^[380][30], IGN's reader choice chose it as [381]Game of the Year,^[382][31], [383]Electronic Gaming Monthly chose it as Best Multiplayer and Best GameCube Game,^[384][32], and GameSpot chose Melee as the Best GameCube Game and tenth best game of the year.^[385][33]^[386][34].
+
+   Despite overall positive reception, common criticisms of gameplay included the controls' over-sensitivity^[387][26] and "hyper-responsiveness", with characters easily dashing and precise movements difficult to perform,^[388][28], as well as the fast-paced gameplay, with Nintendo Spin's Clark Nielson stating that "Melee was too fast for its own good".^[389][35] Many gamers additionally criticized the game for being too similar to the original, and GameCritics.com's Caleb Hale called it "every bit as good as its Nintendo 64 predecessor. The game doesn't expand much past that point".^[390][36]
+
+Changes from the original[[391]edit]
+
+   While Melee mainly follows the same formula introduced in the [392]original game by retaining most elements, several differences exist between the two games. The following list, while not all-inclusive, notes several of the changes. Note that this list does not include obvious changes, such as a different button scheme/controller and Melee-only characters and items.
+
+Gameplay and game mechanics[[393]edit]
+
+     * The general pacing of the game has been increased; [394]freeze frames have been reduced, KOs off the top [395]blast line finish sooner, and characters move faster in general, as [396]gravity and [397]falling speed values have been made higher, and more forward momentum is now conserved from a [398]dash when jumping.
+     * [399]Hitboxes now use spheres and tubes instead of rectangular prisms.
+     * [400]Damage is now dealt and tracked with decimal numbers instead of integers, making moves of any damage equally vulnerable to [401]staleness.
+     * [402]Stale-move negation has been redesigned; moves now feature a gradual drop in power if used repeatedly instead of a single large drop in power when used once, and using a move less frequently but still often gives less of a penalty then using the move the same number of times consecutively. For consecutive hitting attacks, once the first hit connects, all others become one level more stale.
+     * [403]Weight differences have been made less drastic; characters heavier than [404]Mario are lighter, while characters lighter than Mario are heavier, so overall weight is slightly less of a factor in knockback.
+     * The amount of [405]hitstun a character suffers has been decreased, being reduced from x0.533 the amount of knockback to x0.4.
+     * Midair characters can now drop through [406]soft platforms by holding down on the Control Stick, improving aerial movement.
+     * [407]Directional influence revamped: in addition to shifting into a direction while in hitlag ([408]SDI), characters can also alter the angle they are launched into by holding into a direction, as well as get a weaker additional shift into the direction the Control Stick is held (ASDI).
+     * Most [409]aerial attacks have been decreased in damage. All of them now have unique landing animations, and [410]L-canceling now just halves the landing lag of an aerial rather than making the character assume their regular landing animation. Characters can now, however, [411]fast fall at any time during aerials, so they can be L-canceled earlier, introducing the highly-competitive [412]SHFFL and allowing character to perform more extensive combos within Melee's new physics.
+     * [413]Smash attacks can now be charged for extra damage and knockback. Most smash attacks have received a power decrease to balance this out.
+     * [414]Meteor smashes can now be canceled (with a loud swishing sound and the character glowing briefly white while doing so), though [415]certain moves "fall through the cracks" and cannot be. Moves that can meteor smash are also generally much slower in all aspects.
+     * [416]Angling forward tilts and smashes now either increases or reduces their damage, depending on the angle, but most of them now have less angles.
+     * Characters now have a [417]side special move, bringing the total number of special moves per character to 4. Some veterans gain a new move for their side special, while others (like Link, Ness and Jigglypuff) gain a new [418]neutral special, with their old one becoming the side special.
+     * [419]Shields now last for a shorter time, and characters now take longer to drop them, though they receive less [420]shieldstun from attacks. The game now uses two different sounds for when a shield is broken by either an opponent or the character itself, the former being higher-pitched.
+     * Characters can now [421]sidestep dodge and [422]air dodge, which results in the addition of [423]wavedashing, as well as making [424]shield platform dropping more difficult.
+     * Characters can now [425]powershield and lightshield (the latter function makes a character`s shield bigger than usual, but they slide farther from shielding attacks).
+     * Characters can now [426]tech on walls, ceilings and ledges.
+     * Characters hanging on [427]ledges can now get up by jumping from them, and they can also be [428]sweetspotted during the ending lag of [429]recovery moves. Characters can prevent grabbing them by holding the Control Stick down.
+     * Characters now have a unique animation for running [430]grabs, which is generally slower and farther reaching than their standing/walking grab.
+     * [431]Jump-canceled grabs are implemented: dashing characters can now use their regular grabs by preparing a jump and then grabbing before leaving the ground, making them faster and with longer reach, depending on the characters' [432]dash speed and [433]traction.
+     * Grabs can now be escaped should the grabber wait too long before throwing, with the time until escaping dependent on the grabbed character's damage (the more damage they have, the longer they can be held). Grabs now have increased ending lag, so they cannot be used in repeated succession as effectively.
+     * Characters now have an [434]up throw and a [435]down throw in addition to a [436]pummel. Some veterans have had throws reassigned (for example, Kirby and Jigglypuff's old [437]forward throws are now their up throws, Captain Falcon's old forward throw is now his down throw, and they have gained new forward throws).
+          + Throws are additionally weaker in general, with less damage and knockback, and most throws are now meant to start combos instead of being KO moves. This, combined with the introduction of up and down throws, introduces many more options for [438]chain throws. The majority of [439]throws now also have variable speed depending on the opponent's weight (lighter characters are thrown faster), and many others also consist of two hits, with the first hit being able to damage nearby opponents.
+     * Certain characters can now use their extended grab in midair to [440]wall grapple.
+     * Certain characters can now [441]wall jump.
+     * [442]Moonwalking is possible (with Captain Falcon being the most prolific user of it).
+     * If an already struck character is hit by another attack 10 frames afterwards while still in hitstun, the [443]knockback power and angle of both attacks is scaled for the second hit, rather than being completely replaced.
+     * [444]Tumbling can be stopped by quickly tapping the Control Stick sideways.
+     * Characters can now only be KO'd by the top [445]blast line if they are in hitstun when sent upwards, and foes on extensive team battles (such as in [446]Multi-Man Melee) now cannot be Star KO'd nor Screen KO'd, making them significantly faster.
+     * Items can now be grabbed before coming to rest, and can also now be grabbed by aerial characters.
+     * All characters can walk while holding a heavy item, though very slowly; Donkey Kong remains the only one who can jump and walk at a normal speed while carrying them. They can also be thrown upwards and downwards, like regular items.
+     * Healing items can now be consumed while wielding a battering item, such as the [447]Beam Sword.
+
+Game modes[[448]edit]
+
+     * A stock match can now have a maximum time limit set. Many other additional rules have also been added, such as removing stages from random selection, controlling the way in which stages are chosen, and altering the battles' [449]damage ratio.
+     * Bonuses can now be earned in both single player modes and multiplayer matches. Some old bonuses have been removed while [450]many more have been added, bringing the total from 57 to 249.
+     * [451]1P Game is now known as [452]Classic Mode, with the opponents before the final stage now being random rather than always the same, and various other single player modes such as [453]Adventure Mode and [454]All-Star Mode have been added.
+     * [455]Training mode now has many more options, such as battling with more than one CPU, adjusting their damage percentage, or even controlling them by a human player if additional controllers are plugged in. The longest [456]combo achieved with each character is also saved afterwards.
+     * [457]Special Melees have been introduced, which include battling with [458]giant or [459]invisible characters, using [460]stamina as opposed to damage, and even battling at a faster or slower speed. A [461]Tournament mode has also been added.
+     * The [462]Board the Platforms bonus game has been removed, with the [463]Snag the Trophies bonus game being introduced, and [464]Race to the Finish being revamped.
+     * [465]Trophies have been added, which can be collected in the [466]Lottery, 1P modes or by specific means, then viewed in detailed ways. All characters also have three trophies of themselves, replacing the previous game's biographies.
+     * [467]Coins are now used for [468]continuing on 1P modes and earning trophies: these are obtained by winning battles on either regular 1P or Versus modes, the amount depending on how long they take.
+
+Aesthetic[[469]edit]
+
+     * Unique [470]on-screen appearances have been removed; all characters share the same animation of a trophy coming to life.
+     * The camera controls on the pause screen have been extended to allow freedom of focusing on other characters. A Camera Mode has been introduced where players can additionally slide it across the stage and take snapshots, which are saved into the Memory Card occupying additional slots.
+     * Players can now use personalized [471]names for battles, which also get records saved.
+     * The [472]match timer will now show hundredths of a second (XX:XX.xx). In addition, the [473]final five seconds of the match will appear onscreen and while the announcer counts down, the numbers will get bigger.
+
+Data[[474]edit]
+
+     * Records are not saved if a match is forfeited.
+     * More complex records are saved by the game, such as the total of times it has been turned on, current characters with the most [475]KOs, [476]falls and [477]SDs, or even the total distance walked by all characters.
+
+Tournament play[[478]edit]
+
+   Main article: [479]Super Smash Bros. Melee in competitive play
+
+   Melee is widely known for its large and intricate [480]tournament scene. The birth of the tournament scene occurred with the creation of the [481]Tournament Go series in 2002. Melee has since been featured in the championships of many grand-scale fighting game tournaments, such as [482]Major League Gaming in 2004, 2005, 2006, and 2014, and [483]EVO in 2007, 2013, 2014, 2015, 2016, 2017, and 2018.
+
+   The community has constructed a set of [484]standard tournament rules to regulate tournament play. While rulesets may vary between different tournaments, generally universal gameplay rules include all matches being played via [485]timed [486]stock (four stocks and eight minutes), and restrictions on legal [487]stages. These regulations are enacted to ensure that gameplay at the highest level remains fair and interesting.
+
+Gallery[[488]edit]
+
+     * The entire cast of Melee, excluding [489]Sheik, [490]Zelda's alter ego.
+     * Super Smash Bros. Melee Japanese box art.
+     * Super Smash Bros. Melee European box art.
+     * Super Smash Bros. Melee as seen on the cover of the 151st issue of Nintendo Power.
+     * English logo.
+     * English title screen.
+     * Japanese title screen.
+
+Trivia[[491]edit]
+
+     * As a near-launch title for the system, Super Smash Bros. Melee marks the first appearance on the [492]Nintendo GameCube for 23 out of the 26 playable characters; the exceptions being Mario, Luigi, and Bowser, who had appeared in Luigi's Mansion (the latter after a fashion, as his appearance in said game was actually an elaborate animated suit controlled by King Boo). As only Luigi was playable in said game, he is also the only character who was playable on the GameCube in a game before Melee.
+          + This also marked the first playable appearance for [493]Sheik, [494]Ganondorf, and [495]Roy in any series, as well as Roy's first appearance in any game. Princess Zelda, who was playable in two of the notorious CDi games, Zelda: the Wand of Gamelon, and Zelda's Adventure, respectively, makes her playable debut in an official Nintendo game here.
+          + Melee is also the only major GameCube appearance for [496]Ness, [497]Marth, Roy, [498]Ice Climbers, and [499]Mr. Game & Watch.
+     * Despite there being 5 "?"-marked character boxes initially, there are a total of 11 unlockable characters, with the ones not marked by a "?" being [500]clones. Given that Melee directly identifies these characters as clones by how they're presented on the selection screen, this raises interesting questions about how they were treated by the development team.
+          + Oddly, on the [501]character selection screen, when Luigi is unlocked, Luigi takes his place next to Mario and then he relocates Pikachu to the bottom row.
+     * Melee introduces four [502]The Legend of Zelda series newcomers, which is more series newcomers than any other universe has in the game.
+          + It is tied with the [503]Pokémon series, which introduced four newcomers in Brawl.
+     * Not counting Ganondorf, being able to regain his midair jump via an aerial [504]Wizard's Foot, Melee is the only game in the series not to have introduced a new playable character with multiple double jumps.
+          + Melee is also the only installment in the series which grants the ability of multiple double jumps to a veteran who lacked it in the previous game, if one counts [505]Captain Falcon's aerial Falcon Kick, which is fundamentally the same as Wizard's Foot.
+     * Melee is currently the only game in the series where a veteran is ranked #1 on its respective [506]tier list, being [507]Fox.
+     * Not counting [508]the original game, Melee is the only game with more newcomers than veterans.
+     * Melee is the first game in the series to receive "T" ESRB rating.
+          + Melee is also the first game in the series to have a early box art that shows a "RP" rating.
+               o This is also so far the only game in the series where a stage is used in the box art.
+     * Melee is the only game where characters don't have unique [509]on-screen appearances.
+     * As of Ultimate, 6 of the stages that debuted in Melee have appeared in every installment (counting the 3DS and Wii U versions of Smash 4 as one entity) since, with those being, [510]Yoshi's Island (SSBM), [511]Jungle Japes, [512]Temple, [513]Brinstar, [514]Corneria, and [515]Onett.
+     * This would be the last game to have [516]Donkey Kong, [517]Samus, [518]Kirby, and [519]Ness as the sole representatives of their universes.
+     * Prior to Ultimate, which made including every character from the series its highest priority, Melee was the only sequel in the series to not cut any characters from its predecessor.
+     * Melee is the only game to have more than one character debuting in it to have [520]Echo Fighters based off them in Ultimate.
+
+References[[521]edit]
+
+    1. [522]↑ [523]Smash Bros. FMV Explained. IGN (2001-08-31). Retrieved on 2007-11-24.
+    2. [524]↑ [525]A Detailed Melee. IGN (2001-09-07). Retrieved on 2007-11-24.
+    3. ↑ ^[526]3.0 ^[527]3.1 George, Richard. [528]Super Smash Bros Creator: "Melee The Sharpest". IGN.
+    4. [529]↑ Masahiro Sakurai (2001-07-17). [530]Super Smash Bros. Melee (Japanese). [531]Nintendo. Retrieved on 2007-11-24.
+    5. [532]↑ Masahiro Sakurai (2007-10-01). [533]Super Smash Bros. Brawl—Lucas. [534]Nintendo. Retrieved on 2007-11-24.
+    6. [535]↑ Masahiro Sakurai (2001-09-21). [536]Super Smash Bros. Brawl—Snake. [537]Nintendo. Retrieved on 2007-11-24.
+    7. [538]↑ [539]E306 Super Smash Bros. Brawl Q&A. Kotaku (2007-05-11). Retrieved on 2007-12-30.
+    8. [540]↑ Masahiro Sakurai (2002-01-15). [541]Super Smash Bros. Melee—Roy (Japanese). [542]Nintendo. Retrieved on 2007-11-24.
+    9. [543]↑ Masahiro Sakurai (2001-12-14). [544]Super Smash Bros. Melee—Marth (Japanese). [545]Nintendo. Retrieved on 2007-11-24.
+   10. [546]↑ Masahiro Sakurai (2001-10-09). [547]Super Smash Bros. Melee—Ice Climbers (Japanese). [548]Nintendo. Retrieved on 2007-11-24. “The four games considered were [549]Balloon Fight ("the balloon would be easily blown"), [550]Urban Champion ("seem too small"), [551]Clu Clu Land ("they know how to fight?") and [552]Excitebike ("would have to jump")”
+   11. [553]↑ [554]Roy (Japanese). [555]Nintendo (2002-01-15). Retrieved on 2008-01-11.
+   12. [556]↑ [557]IGN: Super Smash Bros. Melee. IGN (2002-01-10). Retrieved on 2008-01-11.
+   13. [558]↑ [559]IGN: E3: Hands-on Impressions for Super Smash bros Melee. IGN (2001-05-17). Retrieved on 2007-11-24.
+   14. [560]↑ [561]IGN: Spaceworld 2001: Super Smash Bros Melee hands-on. IGN (2001-08-25). Retrieved on 2007-11-24.
+   15. [562]↑ [563]Super Smashing Moves. IGN (2001-07-19). Retrieved on 2007-11-24.
+   16. [564]↑ [565]Super Smash Bros. Melee (Japanese). [566]Nintendo. Retrieved on 2007-11-24.
+   17. [567]↑ [568]Super Smash Bros. Brawl. [569]Nintendo. Retrieved on 2007-11-24.
+   18. [570]↑ [571]Nintendo kicks-off GameCube hype in Japan. IGN (2001-07-12). Retrieved on 2007-11-24.
+   19. [572]↑ [573]Nintendo Expands Player's Choice Line-up. IGN (2003-01-23). Retrieved on 2007-11-24.
+   20. [574]↑ Casamassina, Matt (2005-07-07). [575]Super Smash Bros. Bundle. IGN. Retrieved on 2007-11-24.
+   21. [576]↑ [577]http://www.eurogamer.net/articles/r_ssbm_gc
+   22. [578]↑ [579]http://www.gamespot.com/reviews/super-smash-bros-melee-review/1900-2829090/
+   23. [580]↑ [581]http://uk.cube.ign.com/articles/166/166387p1.html
+   24. ↑ ^[582]24.0 ^[583]24.1 [584]http://www.metacritic.com/game/gamecube/super-smash-bros-melee
+   25. [585]↑ [586]http://www.gamerankings.com/gamecube/516492-super-smash-bros-melee/index.html
+   26. ↑ ^[587]26.0 ^[588]26.1 Williams, Bryn (2001-12-03). [589]Super GameSpy: Smash Bros Melee review. [590]GameSpy. Retrieved on 2013-06-05.
+   27. [591]↑ Mirabella III, Fran (2001-12-03). [592]IGN: Super Smash Bros Melee review. IGN. Retrieved on 2013-06-05.
+   28. ↑ ^[593]28.0 ^[594]28.1 ^[595]28.2 Lopez, Miguel (2001-12-01). [596]Super Smash Bros Melee for GameCube review—GameSpot. [597]GameSpot. Retrieved on 2013-06-05.
+   29. [598]↑ Sklens, Mike (2001-12-18). [599]Nintendo World Report: Smash Bros Melee review. [600]Nintendo World Report. Retrieved on 2013-06-05.
+   30. [601]↑ [602]GameCube Fighting Game of the Year: Super Smash Bros. Melee. [603]GameSpy. Archived from [604]the original on December 20, 2007. Retrieved on 2013-06-05.
+   31. [605]↑ [606]Insider: Reader's Choice awards. IGN (2001-01-19). Archived from [607]the original on 2004-08-13. Retrieved on 2013-06-05.
+   32. [608]↑ [609]2001 "Gamers' Choice Awards". Ziff Davis, [610]Electronic Gaming Monthly (April 2002). Archived from [611]the original on 2008-03-06.
+   33. [612]↑ [613]The Best and Worst of 2001: Best GameCube Game. GameSpot. Retrieved on 2007-12-23.
+   34. [614]↑ [615]The Best and Worst of 2001: The Top Ten Video Games of the Year. GameSpot. Retrieved on 2013-06-05.
+   35. [616]↑ Nielsen, Clark (2007-05-27). [617]The Games We Hate. Nintendo Spin. Retrieved on 2013-06-05.
+   36. [618]↑ Hale, Caleb (2002-02-20). [619]GameCritics.com: Smash Bros :Melee review. GameCritics.com. Archived from [620]the original on 2007-12-31. Retrieved on 2013-06-05.
+
+External links[[621]edit]
+
+     * [622]Wikipedia's Super Smash Bros. Melee article
+     * [623]Official Japanese Super Smash Bros. Melee website
+     * [624]Official English Super Smash Bros. Melee website (Archived)
+     * [625]First announcement
+
+   [626]v • [627]d • [628]e
+   [629]Super Smash Bros. series
+   [630]Super Smash Bros. · Super Smash Bros. Melee · [631]Super Smash Bros. Brawl · [632]Super Smash Bros. 4 ([633]for Nintendo 3DS · [634]for Wii U  · [635]Smash Controller)  · [636]Super Smash Bros. Ultimate
+   WikipediaSymbol.svg This page uses content from [637]Wikipedia. The original article was at [638]Super Smash Bros. Melee. The list of authors can be seen in [639]their page's history. As with [640]SmashWiki, the text of Wikipedia is available under the [641]Creative Commons Attribution-ShareAlike 3.0 Unported Licence.
+   Ads keep SmashWiki independent and free :)
+   Retrieved from "[642]https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&oldid=1176799"
+   [643]Categories:
+     * [644]Featured Articles
+     * [645]Games
+     * [646]Super Smash Bros. Melee
+     * [647]Super Smash Bros. universe
+     * [648]Super Smash Bros. series
+
+Navigation menu
+
+Views
+
+     * [649]Article
+     * [650]Discussion
+     * [651]Edit this page
+     * [652]History
+
+Personal tools
+
+     * Not logged in
+     * [653]Talk
+     * [654]Contributions
+     * [655]Create account
+     * [656]Log in
+
+Navigation
+
+     * [657]Main page
+     * [658]Smash Bros. Ultimate
+     * [659]Smash Bros. 4
+     * [660]Smash Bros. Brawl
+     * [661]Smash Bros. Melee
+     * [662]Smash Bros. (64)
+     * [663]Characters
+     * [664]Stages
+     * [665]Modes
+     * [666]Items
+     * [667]Random page
+
+Search
+
+   ____________________ Go  Search
+
+Participate
+
+     * [668]Forum
+     * [669]Community portal
+     * [670]Recent changes
+     * [671]Help
+     * [672]Admin noticeboard
+     * [673]Discord server
+     * [674]YouTube channel
+
+Tools
+
+     * [675]What links here
+     * [676]Related changes
+     * [677]Special pages
+     * [678]Printable version
+     * [679]Permanent link
+     * [680]Page information
+
+In other languages
+
+     * [681]Español
+
+   [682]Attribution-Share Alike 3.0 Unported
+   [683]Powered by MediaWiki
+     * This page was last edited on 23 January 2019, at 11:04.
+     * Content is available under [684]Attribution-Share Alike 3.0 Unported unless otherwise noted.
+     * [685]Privacy policy
+     * [686]About SmashWiki
+     * [687]Disclaimers
+     * [688]Mobile view
+
+References
+
+   Visible links
+   1. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=edit
+   2. https://www.ssbwiki.com/opensearch_desc.php
+   3. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&feed=atom
+   4. https://www.ssbwiki.com/index.php?title=Melee&redirect=no
+   5. https://www.ssbwiki.com/Melee#column-one
+   6. https://www.ssbwiki.com/Melee#searchInput
+   7. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+   8. https://www.ssbwiki.com/SmashWiki:Featured_content
+   9. https://www.ssbwiki.com/Shigeru_Miyamoto
+  10. https://www.ssbwiki.com/File:SsbmBoxart.jpg
+  11. https://en.wikipedia.org/wiki/Video_game_developer
+  12. https://www.ssbwiki.com/HAL_Laboratory
+  13. https://www.ssbwiki.com/Intelligent_Systems
+  14. https://en.wikipedia.org/wiki/Video_game_publisher
+  15. https://www.ssbwiki.com/Nintendo
+  16. https://en.wikipedia.org/wiki/Game_designer
+  17. https://www.ssbwiki.com/Masahiro_Sakurai
+  18. https://www.ssbwiki.com/File:Flag_of_Japan.png
+  19. https://www.ssbwiki.com/File:Flag_of_North_America.png
+  20. https://www.ssbwiki.com/File:Flag_of_Europe.png
+  21. https://www.ssbwiki.com/File:Flag_of_Australia.png
+  22. https://en.wikipedia.org/wiki/Video_game_genres
+  23. https://en.wikipedia.org/wiki/Fighting_game
+  24. https://en.wikipedia.org/wiki/Platform_game
+  25. https://en.wikipedia.org/wiki/Single-player
+  26. https://en.wikipedia.org/wiki/multiplayer_video_game
+  27. https://en.wikipedia.org/wiki/Video_game_content_rating_system
+  28. https://en.wikipedia.org/wiki/Entertainment_Software_Rating_Board
+  29. https://en.wikipedia.org/wiki/Entertainment_and_Leisure_Software_Publishers_Association
+  30. https://en.wikipedia.org/wiki/Entertainment_and_Leisure_Software_Publishers_Association
+  31. https://en.wikipedia.org/wiki/Pan_European_Game_Information
+  32. https://en.wikipedia.org/wiki/Office_of_Film_and_Literature_Classification_(Australia)
+  33. https://en.wikipedia.org/wiki/Video_game#Platforms
+  34. https://www.ssbwiki.com/Nintendo_GameCube
+  35. https://en.wikipedia.org/wiki/Nintendo_optical_discs
+  36. https://www.ssbwiki.com/GameCube_controller
+  37. https://www.ssbwiki.com/Versus_Mode#Versus_Mode_in_Super_Smash_Bros._Melee
+  38. https://www.ssbwiki.com/Super_Smash_Bros._(series)
+  39. https://www.ssbwiki.com/Super_Smash_Bros.
+  40. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+  41. https://www.ssbwiki.com/Super_Smash_Bros._4
+  42. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+  43. https://www.ssbwiki.com/Gameplay
+  44. https://www.ssbwiki.com/Natural_combo
+  45. https://www.ssbwiki.com/Edge-guarding
+  46. https://www.ssbwiki.com/Melee#Opening_movie
+  47. https://www.ssbwiki.com/Melee#Characters
+  48. https://www.ssbwiki.com/Melee#List_of_characters
+  49. https://www.ssbwiki.com/Melee#Non-playable_characters
+  50. https://www.ssbwiki.com/Melee#Stages
+  51. https://www.ssbwiki.com/Melee#1-player_stages
+  52. https://www.ssbwiki.com/Melee#Modes
+  53. https://www.ssbwiki.com/Melee#1-Player
+  54. https://www.ssbwiki.com/Melee#Multi-Player
+  55. https://www.ssbwiki.com/Melee#Action_Replay
+  56. https://www.ssbwiki.com/Melee#Unlockables
+  57. https://www.ssbwiki.com/Melee#Development
+  58. https://www.ssbwiki.com/Melee#Reception
+  59. https://www.ssbwiki.com/Melee#Changes_from_the_original
+  60. https://www.ssbwiki.com/Melee#Gameplay_and_game_mechanics
+  61. https://www.ssbwiki.com/Melee#Game_modes
+  62. https://www.ssbwiki.com/Melee#Aesthetic
+  63. https://www.ssbwiki.com/Melee#Data
+  64. https://www.ssbwiki.com/Melee#Tournament_play
+  65. https://www.ssbwiki.com/Melee#Gallery
+  66. https://www.ssbwiki.com/Melee#Trivia
+  67. https://www.ssbwiki.com/Melee#References
+  68. https://www.ssbwiki.com/Melee#External_links
+  69. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=edit&section=1
+  70. https://www.ssbwiki.com/Opening_movie
+  71. https://www.ssbwiki.com/Announcer
+  72. http://www.ssbwiki.com/Beta_elements_(SSBM)#Aesthetics
+  73. https://www.youtube.com/embed/RXs4-M-ZiOg?
+  74. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=edit&section=2
+  75. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+  76. https://www.ssbwiki.com/Zelda
+  77. https://www.ssbwiki.com/Sheik
+  78. https://www.ssbwiki.com/Super_Smash_Bros.
+  79. https://www.ssbwiki.com/Veteran
+  80. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+  81. https://www.ssbwiki.com/Luigi_(SSBM)
+  82. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+  83. https://www.ssbwiki.com/Ganondorf
+  84. https://www.ssbwiki.com/Young_Link
+  85. https://www.ssbwiki.com/Mario_(universe)
+  86. https://www.ssbwiki.com/Bowser
+  87. https://www.ssbwiki.com/Princess_Peach
+  88. https://www.ssbwiki.com/Dr._Mario
+  89. https://www.ssbwiki.com/Fire_Emblem_(universe)
+  90. https://www.ssbwiki.com/Marth
+  91. https://www.ssbwiki.com/Roy
+  92. https://www.ssbwiki.com/Pokémon_(universe)
+  93. https://www.ssbwiki.com/Pichu
+  94. https://www.ssbwiki.com/Mewtwo
+  95. https://www.ssbwiki.com/Falco
+  96. https://www.ssbwiki.com/Star_Fox_(universe)
+  97. https://www.ssbwiki.com/Mr._Game_&_Watch
+  98. https://www.ssbwiki.com/Ice_Climbers
+  99. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=edit&section=3
+ 100. https://www.ssbwiki.com/Mario_(SSBM)
+ 101. https://www.ssbwiki.com/Mario_(SSBM)
+ 102. https://www.ssbwiki.com/Mario_(universe)
+ 103. https://www.ssbwiki.com/Luigi_(SSBM)
+ 104. https://www.ssbwiki.com/Luigi_(SSBM)
+ 105. https://www.ssbwiki.com/Mario_(universe)
+ 106. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 107. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 108. https://www.ssbwiki.com/Yoshi_(universe)
+ 109. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+ 110. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+ 111. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 112. https://www.ssbwiki.com/Link_(SSBM)
+ 113. https://www.ssbwiki.com/Link_(SSBM)
+ 114. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 115. https://www.ssbwiki.com/Samus_(SSBM)
+ 116. https://www.ssbwiki.com/Samus_(SSBM)
+ 117. https://www.ssbwiki.com/Metroid_(universe)
+ 118. https://www.ssbwiki.com/Kirby_(SSBM)
+ 119. https://www.ssbwiki.com/Kirby_(SSBM)
+ 120. https://www.ssbwiki.com/Kirby_(universe)
+ 121. https://www.ssbwiki.com/Fox_(SSBM)
+ 122. https://www.ssbwiki.com/Fox_(SSBM)
+ 123. https://www.ssbwiki.com/Star_Fox_(universe)
+ 124. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 125. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 126. https://www.ssbwiki.com/Pokémon_(universe)
+ 127. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 128. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 129. https://www.ssbwiki.com/Pokémon_(universe)
+ 130. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 131. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 132. https://www.ssbwiki.com/F-Zero_(universe)
+ 133. https://www.ssbwiki.com/Ness_(SSBM)
+ 134. https://www.ssbwiki.com/Ness_(SSBM)
+ 135. https://www.ssbwiki.com/EarthBound_(universe)
+ 136. https://www.ssbwiki.com/Peach_(SSBM)
+ 137. https://www.ssbwiki.com/Peach_(SSBM)
+ 138. https://www.ssbwiki.com/Mario_(universe)
+ 139. https://www.ssbwiki.com/Bowser_(SSBM)
+ 140. https://www.ssbwiki.com/Bowser_(SSBM)
+ 141. https://www.ssbwiki.com/Mario_(universe)
+ 142. https://www.ssbwiki.com/Dr._Mario_(SSBM)
+ 143. https://www.ssbwiki.com/Dr._Mario_(SSBM)
+ 144. https://www.ssbwiki.com/Mario_(universe)
+ 145. https://www.ssbwiki.com/Zelda_(SSBM)
+ 146. https://www.ssbwiki.com/Sheik_(SSBM)
+ 147. https://www.ssbwiki.com/Zelda_(SSBM)
+ 148. https://www.ssbwiki.com/Sheik_(SSBM)
+ 149. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 150. https://www.ssbwiki.com/Young_Link_(SSBM)
+ 151. https://www.ssbwiki.com/Young_Link_(SSBM)
+ 152. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 153. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 154. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 155. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 156. https://www.ssbwiki.com/Falco_(SSBM)
+ 157. https://www.ssbwiki.com/Falco_(SSBM)
+ 158. https://www.ssbwiki.com/Star_Fox_(universe)
+ 159. https://www.ssbwiki.com/Pichu_(SSBM)
+ 160. https://www.ssbwiki.com/Pichu_(SSBM)
+ 161. https://www.ssbwiki.com/Pokémon_(universe)
+ 162. https://www.ssbwiki.com/Mewtwo_(SSBM)
+ 163. https://www.ssbwiki.com/Mewtwo_(SSBM)
+ 164. https://www.ssbwiki.com/Pokémon_(universe)
+ 165. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 166. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 167. https://www.ssbwiki.com/Ice_Climber_(universe)
+ 168. https://www.ssbwiki.com/Marth_(SSBM)
+ 169. https://www.ssbwiki.com/Marth_(SSBM)
+ 170. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 171. https://www.ssbwiki.com/Roy_(SSBM)
+ 172. https://www.ssbwiki.com/Roy_(SSBM)
+ 173. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 174. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSBM)
+ 175. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSBM)
+ 176. https://www.ssbwiki.com/Game_&_Watch_(universe)
+ 177. https://www.ssbwiki.com/Unlockable_character#Super_Smash_Bros._Melee
+ 178. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=edit&section=4
+ 179. https://www.ssbwiki.com/Master_Hand_(SSBM)
+ 180. https://www.ssbwiki.com/Master_Hand_(SSBM)
+ 181. https://www.ssbwiki.com/Master_Hand_glitch
+ 182. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 183. https://www.ssbwiki.com/Crazy_Hand_(SSBM)
+ 184. https://www.ssbwiki.com/Crazy_Hand_(SSBM)
+ 185. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 186. https://www.ssbwiki.com/Giga_Bowser
+ 187. https://www.ssbwiki.com/Giga_Bowser
+ 188. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 189. https://www.ssbwiki.com/Sandbag
+ 190. https://www.ssbwiki.com/Sandbag
+ 191. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 192. https://www.ssbwiki.com/Fighting_Wire_Frames
+ 193. https://www.ssbwiki.com/Fighting_Wire_Frames
+ 194. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 195. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=edit&section=5
+ 196. https://www.ssbwiki.com/Starter_stage
+ 197. https://www.ssbwiki.com/Mushroom_Kingdom_(SSBM)
+ 198. https://www.ssbwiki.com/Mushroom_Kingdom_(SSBM)
+ 199. https://www.ssbwiki.com/Mario_(universe)
+ 200. https://www.ssbwiki.com/Princess_Peach's_Castle
+ 201. https://www.ssbwiki.com/Princess_Peach's_Castle
+ 202. https://www.ssbwiki.com/Mario_(universe)
+ 203. https://www.ssbwiki.com/Rainbow_Cruise
+ 204. https://www.ssbwiki.com/Rainbow_Cruise
+ 205. https://www.ssbwiki.com/Mario_(universe)
+ 206. https://www.ssbwiki.com/Yoshi's_Island_(SSBM)
+ 207. https://www.ssbwiki.com/Yoshi's_Island_(SSBM)
+ 208. https://www.ssbwiki.com/Yoshi_(universe)
+ 209. https://www.ssbwiki.com/Yoshi's_Story
+ 210. https://www.ssbwiki.com/Yoshi's_Story
+ 211. https://www.ssbwiki.com/Yoshi_(universe)
+ 212. https://www.ssbwiki.com/Kongo_Jungle_(SSBM)
+ 213. https://www.ssbwiki.com/Kongo_Jungle_(SSBM)
+ 214. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 215. https://www.ssbwiki.com/Jungle_Japes
+ 216. https://www.ssbwiki.com/Jungle_Japes
+ 217. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 218. https://www.ssbwiki.com/Great_Bay
+ 219. https://www.ssbwiki.com/Great_Bay
+ 220. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 221. https://www.ssbwiki.com/Temple
+ 222. https://www.ssbwiki.com/Temple
+ 223. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 224. https://www.ssbwiki.com/Brinstar
+ 225. https://www.ssbwiki.com/Brinstar
+ 226. https://www.ssbwiki.com/Metroid_(universe)
+ 227. https://www.ssbwiki.com/Fountain_of_Dreams
+ 228. https://www.ssbwiki.com/Fountain_of_Dreams
+ 229. https://www.ssbwiki.com/Kirby_(universe)
+ 230. https://www.ssbwiki.com/Green_Greens
+ 231. https://www.ssbwiki.com/Green_Greens
+ 232. https://www.ssbwiki.com/Kirby_(universe)
+ 233. https://www.ssbwiki.com/Corneria
+ 234. https://www.ssbwiki.com/Corneria
+ 235. https://www.ssbwiki.com/Star_Fox_(universe)
+ 236. https://www.ssbwiki.com/Venom
+ 237. https://www.ssbwiki.com/Venom
+ 238. https://www.ssbwiki.com/Star_Fox_(universe)
+ 239. https://www.ssbwiki.com/Pokémon_Stadium
+ 240. https://www.ssbwiki.com/Pokémon_Stadium
+ 241. https://www.ssbwiki.com/Pokémon_(universe)
+ 242. https://www.ssbwiki.com/Mute_City_(SSBM)
+ 243. https://www.ssbwiki.com/Mute_City_(SSBM)
+ 244. https://www.ssbwiki.com/F-Zero_(universe)
+ 245. https://www.ssbwiki.com/Onett
+ 246. https://www.ssbwiki.com/Onett
+ 247. https://www.ssbwiki.com/EarthBound_(universe)
+ 248. https://www.ssbwiki.com/Icicle_Mountain
+ 249. https://www.ssbwiki.com/Icicle_Mountain
+ 250. https://www.ssbwiki.com/Ice_Climber_(universe)
+ 251. https://www.ssbwiki.com/Battlefield_(SSBM)
+ 252. https://www.ssbwiki.com/Battlefield_(SSBM)
+ 253. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 254. https://www.ssbwiki.com/Final_Destination_(SSBM)
+ 255. https://www.ssbwiki.com/Final_Destination_(SSBM)
+ 256. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 257. https://www.ssbwiki.com/Mushroom_Kingdom_II
+ 258. https://www.ssbwiki.com/Mushroom_Kingdom_II
+ 259. https://www.ssbwiki.com/Mario_(universe)
+ 260. https://www.ssbwiki.com/Yoshi's_Island_(SSB)
+ 261. https://www.ssbwiki.com/Super_Smash_Bros.
+ 262. https://www.ssbwiki.com/Yoshi's_Island_(SSB)
+ 263. https://www.ssbwiki.com/Yoshi_(universe)
+ 264. https://www.ssbwiki.com/Kongo_Jungle_(SSB)
+ 265. https://www.ssbwiki.com/Super_Smash_Bros.
+ 266. https://www.ssbwiki.com/Kongo_Jungle_(SSB)
+ 267. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 268. https://www.ssbwiki.com/Brinstar_Depths
+ 269. https://www.ssbwiki.com/Brinstar_Depths
+ 270. https://www.ssbwiki.com/Metroid_(universe)
+ 271. https://www.ssbwiki.com/Dream_Land_(SSB)
+ 272. https://www.ssbwiki.com/Super_Smash_Bros.
+ 273. https://www.ssbwiki.com/Dream_Land_(SSB)
+ 274. https://www.ssbwiki.com/Kirby_(universe)
+ 275. https://www.ssbwiki.com/Poké_Floats
+ 276. https://www.ssbwiki.com/Poké_Floats
+ 277. https://www.ssbwiki.com/Pokémon_(universe)
+ 278. https://www.ssbwiki.com/Big_Blue
+ 279. https://www.ssbwiki.com/Big_Blue
+ 280. https://www.ssbwiki.com/F-Zero_(universe)
+ 281. https://www.ssbwiki.com/Fourside
+ 282. https://www.ssbwiki.com/Fourside
+ 283. https://www.ssbwiki.com/EarthBound_(universe)
+ 284. https://www.ssbwiki.com/Flat_Zone
+ 285. https://www.ssbwiki.com/Flat_Zone
+ 286. https://www.ssbwiki.com/Game_&_Watch_(universe)
+ 287. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=edit&section=6
+ 288. https://www.ssbwiki.com/Target_Test
+ 289. https://www.ssbwiki.com/Snag_the_Trophies
+ 290. https://www.ssbwiki.com/Race_to_the_Finish_(SSBM)
+ 291. https://www.ssbwiki.com/Mushroom_Kingdom_(Adventure_Mode)
+ 292. https://www.ssbwiki.com/Underground_Maze
+ 293. https://www.ssbwiki.com/Brinstar_Escape_Shaft
+ 294. https://www.ssbwiki.com/F-Zero_Grand_Prix
+ 295. https://www.ssbwiki.com/Rest_Station
+ 296. https://www.ssbwiki.com/Home-Run_Stadium
+ 297. https://www.ssbwiki.com/Majora's_Mask
+ 298. https://www.ssbwiki.com/Goomba_(stage)
+ 299. https://www.ssbwiki.com/Entei_(stage)
+ 300. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=edit&section=7
+ 301. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=edit&section=8
+ 302. https://www.ssbwiki.com/Classic_Mode_(SSBM)
+ 303. https://www.ssbwiki.com/Adventure_Mode_(SSBM)
+ 304. https://www.ssbwiki.com/All-Star_Mode
+ 305. https://www.ssbwiki.com/Event_mode
+ 306. https://www.ssbwiki.com/Stadium
+ 307. https://www.ssbwiki.com/Home-Run_Contest
+ 308. https://www.ssbwiki.com/Target_Test
+ 309. https://www.ssbwiki.com/Multi-Man_Melee
+ 310. https://www.ssbwiki.com/Training
+ 311. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=edit&section=9
+ 312. https://www.ssbwiki.com/Versus_Mode
+ 313. https://www.ssbwiki.com/Special_Melee
+ 314. https://www.ssbwiki.com/Camera_Mode
+ 315. https://www.ssbwiki.com/Super_Sudden_Death
+ 316. https://www.ssbwiki.com/Special_Melee
+ 317. https://www.ssbwiki.com/Stamina_Mode
+ 318. https://www.ssbwiki.com/Tournament_Mode
+ 319. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=edit&section=10
+ 320. https://www.ssbwiki.com/Debug_menu_(SSBM)
+ 321. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=edit&section=11
+ 322. https://www.ssbwiki.com/Trophies
+ 323. https://www.ssbwiki.com/Home-Run_Contest
+ 324. https://www.ssbwiki.com/Lottery
+ 325. https://www.ssbwiki.com/List_of_unlockables_(SSBM)
+ 326. https://www.ssbwiki.com/Debug_menu
+ 327. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=edit&section=12
+ 328. https://www.ssbwiki.com/HAL_Laboratory
+ 329. https://www.ssbwiki.com/Masahiro_Sakurai
+ 330. https://www.ssbwiki.com/Nintendo_GameCube
+ 331. https://www.ssbwiki.com/Nintendo_64
+ 332. https://www.ssbwiki.com/Melee#cite_note-1
+ 333. https://www.ssbwiki.com/Melee#cite_note-2
+ 334. https://www.ssbwiki.com/Melee#cite_note-sharpest-3
+ 335. https://www.ssbwiki.com/Super_Smash_Bros.
+ 336. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 337. https://www.ssbwiki.com/Melee#cite_note-sharpest-3
+ 338. https://www.ssbwiki.com/Lucas
+ 339. https://www.ssbwiki.com/Mother_3
+ 340. https://www.ssbwiki.com/Melee#cite_note-4
+ 341. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 342. https://www.ssbwiki.com/Melee#cite_note-5
+ 343. https://www.ssbwiki.com/Melee#cite_note-6
+ 344. https://www.ssbwiki.com/Hideo_Kojima
+ 345. https://www.ssbwiki.com/Solid_Snake
+ 346. https://www.ssbwiki.com/Melee#cite_note-7
+ 347. https://www.ssbwiki.com/Melee#cite_note-8
+ 348. https://www.ssbwiki.com/Melee#cite_note-9
+ 349. https://www.ssbwiki.com/Ice_Climber
+ 350. https://www.ssbwiki.com/Melee#cite_note-10
+ 351. https://www.ssbwiki.com/Melee#cite_note-11
+ 352. https://www.ssbwiki.com/Melee#cite_note-12
+ 353. https://www.ssbwiki.com/Electronic_Entertainment_Expo
+ 354. https://www.ssbwiki.com/Melee#cite_note-13
+ 355. https://www.ssbwiki.com/Melee#cite_note-14
+ 356. https://www.ssbwiki.com/Melee#cite_note-15
+ 357. https://www.ssbwiki.com/Melee#cite_note-16
+ 358. https://www.ssbwiki.com/Melee#cite_note-17
+ 359. https://www.ssbwiki.com/Melee#cite_note-18
+ 360. https://www.ssbwiki.com/Melee#cite_note-19
+ 361. https://www.ssbwiki.com/Melee#cite_note-20
+ 362. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=edit&section=13
+ 363. https://www.ssbwiki.com/Melee#cite_note-Eurogamer-21
+ 364. https://www.ssbwiki.com/Melee#cite_note-GameSpot-22
+ 365. https://www.ssbwiki.com/Melee#cite_note-Ign-23
+ 366. https://www.ssbwiki.com/Melee#cite_note-metacritic-24
+ 367. https://www.ssbwiki.com/Melee#cite_note-metacritic-24
+ 368. https://www.ssbwiki.com/Melee#cite_note-GameRankings-25
+ 369. https://en.wikipedia.org/wiki/GameRankings
+ 370. https://en.wikipedia.org/wiki/IGN
+ 371. https://en.wikipedia.org/wiki/GameSpot
+ 372. https://en.wikipedia.org/wiki/GameSpy
+ 373. https://www.ssbwiki.com/Melee#cite_note-Gamespy-26
+ 374. https://www.ssbwiki.com/Super_Smash_Bros.
+ 375. https://en.wikipedia.org/wiki/Fran_Mirabella_III
+ 376. https://www.ssbwiki.com/Melee#cite_note-IGN-27
+ 377. https://www.ssbwiki.com/Melee#cite_note-Gamespot-28
+ 378. https://www.ssbwiki.com/Melee#cite_note-29
+ 379. https://www.ssbwiki.com/Melee#cite_note-Gamespot-28
+ 380. https://www.ssbwiki.com/Melee#cite_note-30
+ 381. https://en.wikipedia.org/wiki/Game_of_the_Year
+ 382. https://www.ssbwiki.com/Melee#cite_note-31
+ 383. https://en.wikipedia.org/wiki/Electronic_Gaming_Monthly
+ 384. https://www.ssbwiki.com/Melee#cite_note-32
+ 385. https://www.ssbwiki.com/Melee#cite_note-33
+ 386. https://www.ssbwiki.com/Melee#cite_note-34
+ 387. https://www.ssbwiki.com/Melee#cite_note-Gamespy-26
+ 388. https://www.ssbwiki.com/Melee#cite_note-Gamespot-28
+ 389. https://www.ssbwiki.com/Melee#cite_note-35
+ 390. https://www.ssbwiki.com/Melee#cite_note-36
+ 391. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=edit&section=14
+ 392. https://www.ssbwiki.com/Super_Smash_Bros.
+ 393. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=edit&section=15
+ 394. https://www.ssbwiki.com/Freeze_frame
+ 395. https://www.ssbwiki.com/Blast_line
+ 396. https://www.ssbwiki.com/Gravity
+ 397. https://www.ssbwiki.com/Falling_speed
+ 398. https://www.ssbwiki.com/Dash
+ 399. https://www.ssbwiki.com/Hitbox
+ 400. https://www.ssbwiki.com/Damage
+ 401. https://www.ssbwiki.com/Stale
+ 402. https://www.ssbwiki.com/Stale-move_negation
+ 403. https://www.ssbwiki.com/Weight
+ 404. https://www.ssbwiki.com/Mario
+ 405. https://www.ssbwiki.com/Hitstun
+ 406. https://www.ssbwiki.com/Soft_platform
+ 407. https://www.ssbwiki.com/Directional_influence
+ 408. https://www.ssbwiki.com/SDI
+ 409. https://www.ssbwiki.com/Aerial_attack
+ 410. https://www.ssbwiki.com/L-canceling
+ 411. https://www.ssbwiki.com/Fast_fall
+ 412. https://www.ssbwiki.com/SHFFL
+ 413. https://www.ssbwiki.com/Smash_attack
+ 414. https://www.ssbwiki.com/Meteor_smash
+ 415. https://www.ssbwiki.com/Spike
+ 416. https://www.ssbwiki.com/Angling
+ 417. https://www.ssbwiki.com/Side_special_move
+ 418. https://www.ssbwiki.com/Neutral_special
+ 419. https://www.ssbwiki.com/Shield
+ 420. https://www.ssbwiki.com/Shieldstun
+ 421. https://www.ssbwiki.com/Sidestep
+ 422. https://www.ssbwiki.com/Air_dodge
+ 423. https://www.ssbwiki.com/Wavedashing
+ 424. https://www.ssbwiki.com/Shield_platform_drop
+ 425. https://www.ssbwiki.com/Powershield
+ 426. https://www.ssbwiki.com/Tech
+ 427. https://www.ssbwiki.com/Ledge
+ 428. https://www.ssbwiki.com/Edge_sweetspot
+ 429. https://www.ssbwiki.com/Recovery
+ 430. https://www.ssbwiki.com/Grab
+ 431. https://www.ssbwiki.com/Jump-canceled_grab
+ 432. https://www.ssbwiki.com/Dashing
+ 433. https://www.ssbwiki.com/Traction
+ 434. https://www.ssbwiki.com/Up_throw
+ 435. https://www.ssbwiki.com/Down_throw
+ 436. https://www.ssbwiki.com/Pummel
+ 437. https://www.ssbwiki.com/Forward_throw
+ 438. https://www.ssbwiki.com/Chain_throw
+ 439. https://www.ssbwiki.com/Throw
+ 440. https://www.ssbwiki.com/Wall_grapple
+ 441. https://www.ssbwiki.com/Wall_jump
+ 442. https://www.ssbwiki.com/Moonwalk
+ 443. https://www.ssbwiki.com/Knockback
+ 444. https://www.ssbwiki.com/Tumbling
+ 445. https://www.ssbwiki.com/Blast_line
+ 446. https://www.ssbwiki.com/Multi-Man_Melee
+ 447. https://www.ssbwiki.com/Beam_Sword
+ 448. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=edit&section=16
+ 449. https://www.ssbwiki.com/Damage_Ratio
+ 450. https://www.ssbwiki.com/List_of_bonuses
+ 451. https://www.ssbwiki.com/1P_Game
+ 452. https://www.ssbwiki.com/Classic_Mode_(SSBM)
+ 453. https://www.ssbwiki.com/Adventure_Mode_(SSBM)
+ 454. https://www.ssbwiki.com/All-Star_Mode
+ 455. https://www.ssbwiki.com/Training
+ 456. https://www.ssbwiki.com/Combo
+ 457. https://www.ssbwiki.com/Special_Melee
+ 458. https://www.ssbwiki.com/Super_Mushroom
+ 459. https://www.ssbwiki.com/Cloaking_Device
+ 460. https://www.ssbwiki.com/Stamina
+ 461. https://www.ssbwiki.com/Tournament_mode
+ 462. https://www.ssbwiki.com/Board_the_Platforms
+ 463. https://www.ssbwiki.com/Snag_the_Trophies
+ 464. https://www.ssbwiki.com/index.php?title=Race_to_the_Finish&action=edit&redlink=1
+ 465. https://www.ssbwiki.com/Trophy
+ 466. https://www.ssbwiki.com/Lottery
+ 467. https://www.ssbwiki.com/Coin_(collectable)
+ 468. https://www.ssbwiki.com/Continue
+ 469. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=edit&section=17
+ 470. https://www.ssbwiki.com/On-screen_appearance
+ 471. https://www.ssbwiki.com/Name
+ 472. https://www.ssbwiki.com/Match_timer
+ 473. https://www.ssbwiki.com/Match_timer#Final_countdown_timer
+ 474. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=edit&section=18
+ 475. https://www.ssbwiki.com/KO
+ 476. https://www.ssbwiki.com/Fall
+ 477. https://www.ssbwiki.com/SD
+ 478. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=edit&section=19
+ 479. https://www.ssbwiki.com/Super_Smash_Bros._Melee_in_competitive_play
+ 480. https://www.ssbwiki.com/Tournament
+ 481. https://www.ssbwiki.com/Tournament_Go
+ 482. https://www.ssbwiki.com/Major_League_Gaming
+ 483. https://www.ssbwiki.com/EVO
+ 484. https://www.ssbwiki.com/Tournament_legal_(SSBM)
+ 485. https://www.ssbwiki.com/Time
+ 486. https://www.ssbwiki.com/Stock
+ 487. https://www.ssbwiki.com/Stage
+ 488. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=edit&section=20
+ 489. https://www.ssbwiki.com/Sheik_(SSBM)
+ 490. https://www.ssbwiki.com/Zelda_(SSBM)
+ 491. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=edit&section=21
+ 492. https://www.ssbwiki.com/Nintendo_GameCube
+ 493. https://www.ssbwiki.com/Sheik
+ 494. https://www.ssbwiki.com/Ganondorf
+ 495. https://www.ssbwiki.com/Roy
+ 496. https://www.ssbwiki.com/Ness
+ 497. https://www.ssbwiki.com/Marth
+ 498. https://www.ssbwiki.com/Ice_Climbers
+ 499. https://www.ssbwiki.com/Mr._Game_&_Watch
+ 500. https://www.ssbwiki.com/Clone
+ 501. https://www.ssbwiki.com/Character_selection_screen
+ 502. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 503. https://www.ssbwiki.com/Pokémon_(universe)
+ 504. https://www.ssbwiki.com/Wizard's_Foot
+ 505. https://www.ssbwiki.com/Captain_Falcon
+ 506. https://www.ssbwiki.com/Tier_list
+ 507. https://www.ssbwiki.com/Fox_(SSBM)
+ 508. https://www.ssbwiki.com/Super_Smash_Bros.
+ 509. https://www.ssbwiki.com/On-screen_appearance
+ 510. https://www.ssbwiki.com/Yoshi's_Island_(SSBM)
+ 511. https://www.ssbwiki.com/Jungle_Japes
+ 512. https://www.ssbwiki.com/Temple
+ 513. https://www.ssbwiki.com/Brinstar
+ 514. https://www.ssbwiki.com/Corneria
+ 515. https://www.ssbwiki.com/Onett
+ 516. https://www.ssbwiki.com/Donkey_Kong
+ 517. https://www.ssbwiki.com/Samus
+ 518. https://www.ssbwiki.com/Kirby
+ 519. https://www.ssbwiki.com/Ness
+ 520. https://www.ssbwiki.com/Echo_Fighter
+ 521. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=edit&section=22
+ 522. https://www.ssbwiki.com/Melee#cite_ref-1
+ 523. http://cube.ign.com/articles/097/097950p1.html
+ 524. https://www.ssbwiki.com/Melee#cite_ref-2
+ 525. http://cube.ign.com/articles/098/098158p1.html
+ 526. https://www.ssbwiki.com/Melee#cite_ref-sharpest_3-0
+ 527. https://www.ssbwiki.com/Melee#cite_ref-sharpest_3-1
+ 528. http://uk.ign.com/articles/2010/12/09/super-smash-bros-creator-melee-the-sharpest
+ 529. https://www.ssbwiki.com/Melee#cite_ref-4
+ 530. http://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/0717/index.html
+ 531. https://www.ssbwiki.com/Nintendo
+ 532. https://www.ssbwiki.com/Melee#cite_ref-5
+ 533. http://www.smashbros.com/en_us/characters/lucas.html
+ 534. https://www.ssbwiki.com/Nintendo
+ 535. https://www.ssbwiki.com/Melee#cite_ref-6
+ 536. http://www.smashbros.com/en_us/characters/snake.html
+ 537. https://www.ssbwiki.com/Nintendo
+ 538. https://www.ssbwiki.com/Melee#cite_ref-7
+ 539. http://kotaku.com/gaming/nintendo/e306-super-smash-bros-brawl-qa-173071.php
+ 540. https://www.ssbwiki.com/Melee#cite_ref-8
+ 541. http://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/0115/index.html
+ 542. https://www.ssbwiki.com/Nintendo
+ 543. https://www.ssbwiki.com/Melee#cite_ref-9
+ 544. http://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/1204/index.html
+ 545. https://www.ssbwiki.com/Nintendo
+ 546. https://www.ssbwiki.com/Melee#cite_ref-10
+ 547. http://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/1009/index.html
+ 548. https://www.ssbwiki.com/Nintendo
+ 549. https://www.ssbwiki.com/Balloon_Fight_(universe)
+ 550. https://www.ssbwiki.com/List_of_minor_universes#Urban_Champion
+ 551. https://www.ssbwiki.com/Clu_Clu_Land_(universe)
+ 552. https://www.ssbwiki.com/index.php?title=Excitebike_(universe)&action=edit&redlink=1
+ 553. https://www.ssbwiki.com/Melee#cite_ref-11
+ 554. http://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/0118/index.html
+ 555. https://www.ssbwiki.com/Nintendo
+ 556. https://www.ssbwiki.com/Melee#cite_ref-12
+ 557. http://cube.ign.com/objects/016/016387.html
+ 558. https://www.ssbwiki.com/Melee#cite_ref-13
+ 559. http://cube.ign.com/articles/094/094823p1.html
+ 560. https://www.ssbwiki.com/Melee#cite_ref-14
+ 561. http://cube.ign.com/articles/097/097777p1.html
+ 562. https://www.ssbwiki.com/Melee#cite_ref-15
+ 563. http://cube.ign.com/articles/096/096718p1.html
+ 564. https://www.ssbwiki.com/Melee#cite_ref-16
+ 565. http://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/index.html
+ 566. https://www.ssbwiki.com/Nintendo
+ 567. https://www.ssbwiki.com/Melee#cite_ref-17
+ 568. http://www.smashbros.com/en_uk/index.html
+ 569. https://www.ssbwiki.com/Nintendo
+ 570. https://www.ssbwiki.com/Melee#cite_ref-18
+ 571. http://cube.ign.com/articles/096/096528p1.html
+ 572. https://www.ssbwiki.com/Melee#cite_ref-19
+ 573. http://cube.ign.com/articles/383/383504p1.html
+ 574. https://www.ssbwiki.com/Melee#cite_ref-20
+ 575. http://cube.ign.com/articles/632/632133p1.html
+ 576. https://www.ssbwiki.com/Melee#cite_ref-Eurogamer_21-0
+ 577. http://www.eurogamer.net/articles/r_ssbm_gc
+ 578. https://www.ssbwiki.com/Melee#cite_ref-GameSpot_22-0
+ 579. http://www.gamespot.com/reviews/super-smash-bros-melee-review/1900-2829090/
+ 580. https://www.ssbwiki.com/Melee#cite_ref-Ign_23-0
+ 581. http://uk.cube.ign.com/articles/166/166387p1.html
+ 582. https://www.ssbwiki.com/Melee#cite_ref-metacritic_24-0
+ 583. https://www.ssbwiki.com/Melee#cite_ref-metacritic_24-1
+ 584. http://www.metacritic.com/game/gamecube/super-smash-bros-melee
+ 585. https://www.ssbwiki.com/Melee#cite_ref-GameRankings_25-0
+ 586. http://www.gamerankings.com/gamecube/516492-super-smash-bros-melee/index.html
+ 587. https://www.ssbwiki.com/Melee#cite_ref-Gamespy_26-0
+ 588. https://www.ssbwiki.com/Melee#cite_ref-Gamespy_26-1
+ 589. http://cube.gamespy.com/gamecube/super-smash-bros-melee/636813p1.html
+ 590. https://en.wikipedia.org/wiki/GameSpy
+ 591. https://www.ssbwiki.com/Melee#cite_ref-IGN_27-0
+ 592. http://cube.ign.com/articles/166/166387p1.html
+ 593. https://www.ssbwiki.com/Melee#cite_ref-Gamespot_28-0
+ 594. https://www.ssbwiki.com/Melee#cite_ref-Gamespot_28-1
+ 595. https://www.ssbwiki.com/Melee#cite_ref-Gamespot_28-2
+ 596. http://www.gamespot.com/gamecube/action/supersmashbrosmelee/review.html?page=4
+ 597. https://en.wikipedia.org/wiki/GameSpot
+ 598. https://www.ssbwiki.com/Melee#cite_ref-29
+ 599. http://www.nintendoworldreport.com/review/3834
+ 600. https://en.wikipedia.org/wiki/Nintendo_World_Report
+ 601. https://www.ssbwiki.com/Melee#cite_ref-30
+ 602. http://web.archive.org/web/20071220220600/http://archive.gamespy.com/goty2001/gc/gc_fighting_winner.shtml
+ 603. https://en.wikipedia.org/wiki/GameSpy
+ 604. http://archive.gamespy.com/goty2001/gc/gc_fighting_winner.shtml
+ 605. https://www.ssbwiki.com/Melee#cite_ref-31
+ 606. http://web.archive.org/web/20040813070819/http://insider.ign.com/articles/317668p1.html
+ 607. http://insider.ign.com/articles/317668p1.html
+ 608. https://www.ssbwiki.com/Melee#cite_ref-32
+ 609. http://web.archive.org/web/20080306150300/http://gamegroup.ziffdavis.com/presscenter/pr20020304.php?view=printer
+ 610. https://en.wikipedia.org/wiki/Electronic_Gaming_Monthly
+ 611. http://gamegroup.ziffdavis.com/presscenter/pr20020304.php?view=printer
+ 612. https://www.ssbwiki.com/Melee#cite_ref-33
+ 613. http://www.gamespot.com/gamespot/features/video/bestof_2001/p5_04.html
+ 614. https://www.ssbwiki.com/Melee#cite_ref-34
+ 615. http://www.gamespot.com/gamespot/features/video/bestof_2001/p6_01.html
+ 616. https://www.ssbwiki.com/Melee#cite_ref-35
+ 617. http://www.nintendospin.com/features/the-games-we-hate/
+ 618. https://www.ssbwiki.com/Melee#cite_ref-36
+ 619. http://web.archive.org/web/20071231122649/http://www.gamecritics.com/review/ssbmelee/main.php
+ 620. http://www.gamecritics.com/review/ssbmelee/main.php
+ 621. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=edit&section=23
+ 622. https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee
+ 623. http://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/
+ 624. http://web.archive.org/web/20050403131356/http://www.smashbros.com/battle/index.html
+ 625. http://www.youtube.com/watch?v=sfQ75gr2znA
+ 626. https://www.ssbwiki.com/Template:SSBSeries
+ 627. https://www.ssbwiki.com/Template_talk:SSBSeries
+ 628. https://www.ssbwiki.com/index.php?title=Template:SSBSeries&action=edit
+ 629. https://www.ssbwiki.com/Super_Smash_Bros._(series)
+ 630. https://www.ssbwiki.com/Super_Smash_Bros.
+ 631. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 632. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 633. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 634. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 635. https://www.ssbwiki.com/Smash_Controller
+ 636. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 637. http://en.wikipedia.org/wiki/Main_Page
+ 638. https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee
+ 639. http://en.wikipedia.org/w/index.php?title=Super_Smash_Bros._Melee&action=history
+ 640. https://www.ssbwiki.com/SmashWiki:About
+ 641. https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+ 642. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&oldid=1176799
+ 643. https://www.ssbwiki.com/Special:Categories
+ 644. https://www.ssbwiki.com/Category:Featured_Articles
+ 645. https://www.ssbwiki.com/Category:Games
+ 646. https://www.ssbwiki.com/Category:Super_Smash_Bros._Melee
+ 647. https://www.ssbwiki.com/Category:Super_Smash_Bros._universe
+ 648. https://www.ssbwiki.com/Category:Super_Smash_Bros._series
+ 649. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 650. https://www.ssbwiki.com/Talk:Super_Smash_Bros._Melee
+ 651. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=edit
+ 652. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=history
+ 653. https://www.ssbwiki.com/Special:MyTalk
+ 654. https://www.ssbwiki.com/Special:MyContributions
+ 655. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=Super+Smash+Bros.+Melee
+ 656. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=Super+Smash+Bros.+Melee
+ 657. https://www.ssbwiki.com/Main_Page
+ 658. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 659. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 660. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 661. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 662. https://www.ssbwiki.com/Super_Smash_Bros.
+ 663. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+ 664. https://www.ssbwiki.com/Stage
+ 665. https://www.ssbwiki.com/Mode
+ 666. https://www.ssbwiki.com/Item
+ 667. https://www.ssbwiki.com/Special:Random
+ 668. https://www.ssbwiki.com/Forum:Index
+ 669. https://www.ssbwiki.com/SmashWiki:Community_portal
+ 670. https://www.ssbwiki.com/Special:RecentChanges
+ 671. https://www.ssbwiki.com/Help:Contents
+ 672. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
+ 673. https://www.ssbwiki.com/SmashWiki:Discord_server
+ 674. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
+ 675. https://www.ssbwiki.com/Special:WhatLinksHere/Super_Smash_Bros._Melee
+ 676. https://www.ssbwiki.com/Special:RecentChangesLinked/Super_Smash_Bros._Melee
+ 677. https://www.ssbwiki.com/Special:SpecialPages
+ 678. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&printable=yes
+ 679. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&oldid=1176799
+ 680. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&action=info
+ 681. https://es.ssbwiki.com/wiki/Super_Smash_Bros._Melee
+ 682. https://creativecommons.org/licenses/by-sa/3.0/
+ 683. https://www.mediawiki.org/
+ 684. https://creativecommons.org/licenses/by-sa/3.0/
+ 685. https://www.porplemontage.com/privacy
+ 686. https://www.ssbwiki.com/SmashWiki:About
+ 687. https://www.ssbwiki.com/SmashWiki:General_disclaimer
+ 688. https://www.ssbwiki.com/index.php?title=Super_Smash_Bros._Melee&mobileaction=toggle_view_mobile
+
+   Hidden links:
+ 690. https://www.ssbwiki.com/File:Character_selection_melee.png
+ 691. https://www.ssbwiki.com/File:Character_selection_melee.png
+ 692. https://www.ssbwiki.com/File:Melee_Menu.png
+ 693. https://www.ssbwiki.com/File:Melee_Menu.png
+ 694. https://www.ssbwiki.com/File:SSBMCast.jpg
+ 695. https://www.ssbwiki.com/File:SSBM_JP_Box.jpg
+ 696. https://www.ssbwiki.com/File:MeleePAL.jpg
+ 697. https://www.ssbwiki.com/File:NP151Cover.jpg
+ 698. https://www.ssbwiki.com/File:SSBMLogo.jpg
+ 699. https://www.ssbwiki.com/File:MeleeTitle.png
+ 700. https://www.ssbwiki.com/File:DSBDXTitle.png
+ 701. https://www.ssbwiki.com/Main_Page

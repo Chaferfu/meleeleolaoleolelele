@@ -1,0 +1,1561 @@
+   #[1]SmashWiki (en) [2]SmashWiki Atom feed
+
+List of Super Smash Bros. series characters
+
+   From SmashWiki, the Super Smash Bros. wiki
+   (Redirected from [3]Character)
+   Jump to:[4]navigation, [5]search
+   [6]This page is protected due to repeated vandalism. [7]Super Smash Bros. series
+
+   A character is one of the fighters in the [8]Super Smash Bros. series. Characters can be sorted into playable and non-playable, which distinguishes whether characters can be used without the use of a cheat device (like [9]Action Replay) or not. Playable characters can further be divided into [10]starter, [11]unlockable, and [12]downloadable, which distinguishes whether characters can be played right away, whether they need to be unlocked, or whether they need to be downloaded.
+
+Contents
+
+     * [13]1 Playable characters
+          + [14]1.1 Notes
+     * [15]2 Alternate costume characters
+     * [16]3 Non-playable characters
+          + [17]3.1 Notes
+     * [18]4 Newcomers and veterans
+          + [19]4.1 "Perfect-attendance crew"
+     * [20]5 Trivia
+     * [21]6 References
+
+Playable characters
+
+   This is a list of the playable characters in the Super Smash Bros. series, commonly known in official sources as fighters.
+   Key Starter Unlockable [22]Super Smash Bros. for Nintendo 3DS Unlockable^[23][1] Downloadable
+          Fighter           [24]Super Smash Bros.      [25]Super Smash Bros. Melee      [26]Super Smash Bros. Brawl          [27]Super Smash Bros. 4          [28]Super Smash Bros. Ultimate                         Universe
+   [29]Bayonetta                                                                                                        [30]BayonettaHeadSSB4-U.png        [31]BayonettaHeadSSBU.png            [32]BayonettaSymbol.svg [33]Bayonetta
+   [34]Bowser            (Intended)^[35][2]           [36]BowserHeadSSBM.png        [37]BowserHeadSSBB.png              [38]BowserHeadSSB4-U.png           [39]BowserHeadSSBU.png               [40]MarioSymbol.svg [41]Mario
+   [42]Bowser Jr.                                                                                                       [43]BowserJrHeadSSB4-U.png         [44]BowserJrHeadSSBU.png             [45]MarioSymbol.svg [46]Mario
+   [47]Captain Falcon    [48]CaptainFalconHeadSSB.png [49]CaptainFalconHeadSSBM.png [50]CaptainFalconHeadSSBB.png       [51]CaptainFalconHeadSSB4-U.png    [52]CaptainFalconHeadSSBU.png        [53]FZeroSymbol.svg [54]F-Zero
+   [55]Charizard                                                                    [56]CharizardHeadSSBB.png ^[57][3]  [58]CharizardHeadSSB4-U.png        [59]CharizardHeadSSBU.png ^[60][3]   [61]PokemonSymbol.svg [62]Pokémon
+   [63]Chrom                                                                                                                                               [64]ChromHeadSSBU.png                [65]FireEmblemSymbol.svg [66]Fire Emblem
+   [67]Cloud                                                                                                            [68]CloudHeadSSB4-U.png            [69]CloudHeadSSBU.png                [70]FinalFantasySymbol.svg [71]Final Fantasy
+   [72]Corrin                                                                                                           [73]CorrinHeadSSB4-U.png           [74]CorrinHeadSSBU.png               [75]FireEmblemSymbol.svg [76]Fire Emblem
+   [77]Daisy                                                                                                                                               [78]DaisyHeadSSBU.png                [79]MarioSymbol.svg [80]Mario
+   [81]Dark Pit                                                                                                         [82]DarkPitHeadSSB4-U.png          [83]DarkPitHeadSSBU.png              [84]KidIcarusSymbol.svg [85]Kid Icarus
+   [86]Dark Samus                                                                                                                                          [87]DarkSamusHeadSSBU.png            [88]MetroidSymbol.svg [89]Metroid
+   [90]Diddy Kong                                                                   [91]DiddyKongHeadSSBB.png           [92]DiddyKongHeadSSB4-U.png        [93]DiddyKongHeadSSBU.png            [94]DKSymbol.svg [95]Donkey Kong
+   [96]Donkey Kong       [97]DonkeyKongHeadSSB.png    [98]DonkeyKongHeadSSBM.png    [99]DonkeyKongHeadSSBB.png          [100]DonkeyKongHeadSSB4-U.png      [101]DonkeyKongHeadSSBU.png          [102]DKSymbol.svg [103]Donkey Kong
+   [104]Dr. Mario                                     [105]DrMarioHeadSSBM.png      (Intended)^[106][4]                 [107]DrMarioHeadSSB4-U.png         [108]DrMarioHeadSSBU.png             [109]MarioSymbol.svg [110]Mario
+   [111]Duck Hunt                                                                                                       [112]DuckHuntHeadSSB4-U.png        [113]DuckHuntHeadSSBU.png            [114]DuckHuntSymbol.svg [115]Duck Hunt
+   [116]Falco                                         [117]FalcoHeadSSBM.png        [118]FalcoHeadSSBB.png              [119]FalcoHeadSSB4-U.png           [120]FalcoHeadSSBU.png               [121]StarFoxSymbol.svg [122]Star Fox
+   [123]Fox              [124]FoxHeadSSB.png          [125]FoxHeadSSBM.png          [126]FoxHeadSSBB.png                [127]FoxHeadSSB4-U.png             [128]FoxHeadSSBU.png                 [129]StarFoxSymbol.svg [130]Star Fox
+   [131]Ganondorf                                     [132]GanondorfHeadSSBM.png    [133]GanondorfHeadSSBB.png          [134]GanondorfHeadSSB4-U.png       [135]GanondorfHeadSSBU.png           [136]ZeldaSymbol.svg [137]The Legend of Zelda
+   [138]Greninja                                                                                                        [139]GreninjaHeadSSB4-U.png        [140]GreninjaHeadSSBU.png            [141]PokemonSymbol.svg [142]Pokémon
+   [143]Ice Climbers                                  [144]IceClimbersHeadSSBM.png  [145]IceClimbersHeadSSBB.png        (Intended)^[146][5]                [147]IceClimbersHeadSSBU.png         [148]IceClimberSymbol.svg [149]Ice Climber
+   [150]Ike                                                                         [151]IkeHeadSSBB.png                [152]IkeHeadSSB4-U.png             [153]IkeHeadSSBU.png                 [154]FireEmblemSymbol.svg [155]Fire Emblem
+   [156]Incineroar                                                                                                                                         [157]IncineroarHeadSSBU.png          [158]PokemonSymbol.svg [159]Pokémon
+   [160]Inkling                                                                                                                                            [161]InklingHeadSSBU.png             [162]SplatoonSymbol.svg [163]Splatoon
+   [164]Isabelle                                                                                                                                           [165]IsabelleHeadSSBU.png            [166]AnimalCrossingSymbol.svg [167]Animal Crossing
+   [168]Ivysaur                                                                     [169]IvysaurHeadSSBB.png ^[170][3]                                     [171]IvysaurHeadSSBU.png ^[172][3]   [173]PokemonSymbol.svg [174]Pokémon
+   [175]Jigglypuff       [176]JigglypuffHeadSSB.png   [177]JigglypuffHeadSSBM.png   [178]JigglypuffHeadSSBB.png         [179]JigglypuffHeadSSB4-U.png      [180]JigglypuffHeadSSBU.png          [181]PokemonSymbol.svg [182]Pokémon
+   [183]Joker                                                                                                                                              [184]Checkmark.png                   [185]SpecialStagesSymbol.svg [186]Persona
+   [187]Ken                                                                                                                                                [188]KenHeadSSBU.png                 [189]StreetFighterSymbol.svg [190]Street Fighter
+   [191]King Dedede      (Intended)^[192][2]                                        [193]KingDededeHeadSSBB.png         [194]KingDededeHeadSSB4-U.png      [195]KingDededeHeadSSBU.png          [196]KirbySymbol.svg [197]Kirby
+   [198]King K. Rool                                                                                                                                       [199]KingKRoolHeadSSBU.png           [200]DKSymbol.svg [201]Donkey Kong
+   [202]Kirby            [203]KirbyHeadSSB.png        [204]KirbyHeadSSBM.png        [205]KirbyHeadSSBB.png              [206]KirbyHeadSSB4-U.png           [207]KirbyHeadSSBU.png               [208]KirbySymbol.svg [209]Kirby
+   [210]Link             [211]LinkHeadSSB.png         [212]LinkHeadSSBM.png         [213]LinkHeadSSBB.png               [214]LinkHeadSSB4-U.png            [215]LinkHeadSSBU.png                [216]ZeldaSymbol.svg [217]The Legend of Zelda
+   [218]Little Mac                                                                                                      [219]LittleMacHeadSSB4-U.png       [220]LittleMacHeadSSBU.png           [221]PunchOutSymbol.svg [222]Punch-Out!!
+   [223]Lucario                                                                     [224]LucarioHeadSSBB.png            [225]LucarioHeadSSB4-U.png         [226]LucarioHeadSSBU.png             [227]PokemonSymbol.svg [228]Pokémon
+   [229]Lucas                                         (Intended)^[230][6]           [231]LucasHeadSSBB.png              [232]LucasHeadSSB4-U.png           [233]LucasHeadSSBU.png               [234]EarthboundSymbol.svg [235]EarthBound
+   [236]Lucina                                                                                                          [237]LucinaHeadSSB4-U.png          [238]LucinaHeadSSBU.png              [239]FireEmblemSymbol.svg [240]Fire Emblem
+   [241]Luigi            [242]LuigiHeadSSB.png        [243]LuigiHeadSSBM.png        [244]LuigiHeadSSBB.png              [245]LuigiHeadSSB4-U.png           [246]LuigiHeadSSBU.png               [247]MarioSymbol.svg [248]Mario
+   [249]Mario            [250]MarioHeadSSB.png        [251]MarioHeadSSBM.png        [252]MarioHeadSSBB.png              [253]MarioHeadSSB4-U.png           [254]MarioHeadSSBU.png               [255]MarioSymbol.svg [256]Mario
+   [257]Marth            (Intended)^[258][7]          [259]MarthHeadSSBM.png        [260]MarthHeadSSBB.png              [261]MarthHeadSSB4-U.png           [262]MarthHeadSSBU.png               [263]FireEmblemSymbol.svg [264]Fire Emblem
+   [265]Mega Man                                                                                                        [266]MegaManHeadSSB4-U.png         [267]MegaManHeadSSBU.png             [268]MegaManSymbol.svg [269]Mega Man
+   [270]Meta Knight                                                                 [271]MetaKnightHeadSSBB.png         [272]MetaKnightHeadSSB4-U.png      [273]MetaKnightHeadSSBU.png          [274]KirbySymbol.svg [275]Kirby
+   [276]Mewtwo           (Intended)^[277][2]          [278]MewtwoHeadSSBM.png       (Intended)^[279][4]                 [280]MewtwoHeadSSB4-U.png          [281]MewtwoHeadSSBU.png              [282]PokemonSymbol.svg [283]Pokémon
+   [284]Mii Brawler                                                                                                     [285]MiiBrawlerHeadSSB4-U.png      [286]MiiBrawlerHeadSSBU.png          [287]SmashBrosSymbol.svg [288]Super Smash Bros.
+   [289]Mii Gunner                                                                                                      [290]MiiGunnerHeadSSB4-U.png       [291]MiiGunnerHeadSSBU.png           [292]SmashBrosSymbol.svg [293]Super Smash Bros.
+   [294]Mii Swordfighter                                                                                                [295]MiiSwordfighterHeadSSB4-U.png [296]MiiSwordfighterHeadSSBU.png     [297]SmashBrosSymbol.svg [298]Super Smash Bros.
+   [299]Mr. Game & Watch                              [300]MrGame&WatchHeadSSBM.png [301]MrGame&WatchHeadSSBB.png       [302]MrGame&WatchHeadSSB4-U.png    [303]MrGame&WatchHeadSSBU.png        [304]Game&WatchSymbol.svg [305]Game & Watch
+   [306]Ness             [307]NessHeadSSB.png         [308]NessHeadSSBM.png         [309]NessHeadSSBB.png               [310]NessHeadSSB4-U.png            [311]NessHeadSSBU.png                [312]EarthboundSymbol.svg [313]EarthBound
+   [314]Olimar                                                                      [315]OlimarHeadSSBB.png             [316]OlimarHeadSSB4-U.png          [317]OlimarHeadSSBU.png              [318]PikminSymbol.svg [319]Pikmin
+   [320]Pac-Man                                                                                                         [321]Pac-ManHeadSSB4-U.png         [322]Pac-ManHeadSSBU.png             [323]PacManSymbol.svg [324]Pac-Man
+   [325]Palutena                                                                                                        [326]PalutenaHeadSSB4-U.png        [327]PalutenaHeadSSBU.png            [328]KidIcarusSymbol.svg [329]Kid Icarus
+   [330]Peach                                         [331]PeachHeadSSBM.png        [332]PeachHeadSSBB.png              [333]PeachHeadSSB4-U.png           [334]PeachHeadSSBU.png               [335]MarioSymbol.svg [336]Mario
+   [337]Pichu                                         [338]PichuHeadSSBM.png                                                                               [339]PichuHeadSSBU.png               [340]PokemonSymbol.svg [341]Pokémon
+   [342]Pikachu          [343]PikachuHeadSSB.png      [344]PikachuHeadSSBM.png      [345]PikachuHeadSSBB.png            [346]PikachuHeadSSB4-U.png         [347]PikachuHeadSSBU.png             [348]PokemonSymbol.svg [349]Pokémon
+   [350]Pit                                                                         [351]PitHeadSSBB.png                [352]PitHeadSSB4-U.png             [353]PitHeadSSBU.png                 [354]KidIcarusSymbol.svg [355]Kid Icarus
+   [356]Piranha Plant                                                                                                                                      [357]PiranhaPlantHeadSSBUWebsite.png [358]MarioSymbol.svg [359]Mario
+   [360]Pokémon Trainer                                                             [361]PokémonTrainerHeadSSBB.png                                        [362]PokémonTrainerHeadSSBU.png      [363]PokemonSymbol.svg [364]Pokémon
+   [365]R.O.B.                                                                      [366]ROBHeadSSBB.png                [367]ROBHeadSSB4-U.png             [368]ROBHeadSSBU.png                 [369]ROBSymbol.svg [370]R.O.B.
+   [371]Richter                                                                                                                                            [372]RichterHeadSSBU.png             [373]CastlevaniaSymbol.svg [374]Castlevania
+   [375]Ridley                                                                                                                                             [376]RidleyHeadSSBU.png              [377]MetroidSymbol.svg [378]Metroid
+   [379]Robin                                                                                                           [380]RobinHeadSSB4-U.png           [381]RobinHeadSSBU.png               [382]FireEmblemSymbol.svg [383]Fire Emblem
+   [384]Rosalina                                                                                                        [385]Rosalina&LumaHeadSSB4-U.png   [386]RosalinaHeadSSBU.png            [387]MarioSymbol.svg [388]Mario
+   [389]Roy                                           [390]RoyHeadSSBM.png          (Intended)^[391][4]                 [392]RoyHeadSSB4-U.png             [393]RoyHeadSSBU.png                 [394]FireEmblemSymbol.svg [395]Fire Emblem
+   [396]Ryu                                                                                                             [397]RyuHeadSSB4-U.png             [398]RyuHeadSSBU.png                 [399]StreetFighterSymbol.svg [400]Street Fighter
+   [401]Samus            [402]SamusHeadSSB.png        [403]SamusHeadSSBM.png        [404]SamusHeadSSBB.png              [405]SamusHeadSSB4-U.png           [406]SamusHeadSSBU.png               [407]MetroidSymbol.svg [408]Metroid
+   [409]Sheik                                         [410]SheikHeadSSBM.png        [411]SheikHeadSSBB.png              [412]SheikHeadSSB4-U.png           [413]SheikHeadSSBU.png               [414]ZeldaSymbol.svg [415]The Legend of Zelda
+   [416]Shulk                                                                                                           [417]ShulkHeadSSB4-U.png           [418]ShulkHeadSSBU.png               [419]XenobladeSymbol.svg [420]Xenoblade
+   [421]Simon                                                                                                                                              [422]SimonHeadSSBU.png               [423]CastlevaniaSymbol.svg [424]Castlevania
+   [425]Snake                                                                       [426]SnakeHeadSSBB.png                                                 [427]SnakeHeadSSBU.png               [428]MetalGearSymbol.svg [429]Metal Gear
+   [430]Sonic                                         (Intended)^[431][8]           [432]SonicHeadSSBB.png              [433]SonicHeadSSB4-U.png           [434]SonicHeadSSBU.png               [435]SonicSymbol.svg [436]Sonic
+   [437]Squirtle                                                                    [438]SquirtleHeadSSBB.png ^[439][3]                                    [440]SquirtleHeadSSBU.png ^[441][3]  [442]PokemonSymbol.svg [443]Pokémon
+   [444]Toon Link                                                                   [445]ToonLinkHeadSSBB.png           [446]ToonLinkHeadSSB4-U.png        [447]ToonLinkHeadSSBU.png            [448]ZeldaSymbol.svg [449]The Legend of Zelda
+   [450]Villager                                                                                                        [451]VillagerHeadSSB4-U.png        [452]VillagerHeadSSBU.png            [453]AnimalCrossingSymbol.svg [454]Animal Crossing
+   [455]Wario                                                                       [456]WarioHeadSSBB.png              [457]WarioHeadSSB4-U.png           [458]WarioHeadSSBU.png               [459]WarioSymbol.svg [460]Wario
+   [461]Wii Fit Trainer                                                                                                 [462]WiiFitTrainerHeadSSB4-U.png   [463]WiiFitTrainerHeadSSBU.png       [464]WiiFitSymbol.svg [465]Wii Fit
+   [466]Wolf                                                                        [467]WolfHeadSSBB.png                                                  [468]WolfHeadSSBU.png                [469]StarFoxSymbol.svg [470]Star Fox
+   [471]Yoshi            [472]YoshiHeadSSB.png        [473]YoshiHeadSSBM.png        [474]YoshiHeadSSBB.png              [475]YoshiHeadSSB4-U.png           [476]YoshiHeadSSBU.png               [477]YoshiSymbol.svg [478]Yoshi
+   [479]Young Link                                    [480]YoungLinkHeadSSBM.png                                                                           [481]YoungLinkHeadSSBU.png           [482]ZeldaSymbol.svg [483]The Legend of Zelda
+   [484]Zelda                                         [485]ZeldaHeadSSBM.png        [486]ZeldaHeadSSBB.png              [487]ZeldaHeadSSB4-U.png           [488]ZeldaHeadSSBU.png               [489]ZeldaSymbol.svg [490]The Legend of Zelda
+   [491]Zero Suit Samus                                                             [492]ZeroSuitSamusHeadSSBB.png      [493]ZeroSuitSamusHeadSSB4-U.png   [494]ZeroSuitSamusHeadSSBU.png       [495]MetroidSymbol.svg [496]Metroid
+
+Notes
+
+    1. [497]↑ Some characters are unlockable only in the 3DS version of Smash 4 and are starters in the Wii U version.
+    2. ↑ ^[498]2.0 ^[499]2.1 ^[500]2.2 Sakurai mentions these characters as having been planned for [501]Super Smash Bros. on [502]this page.
+    3. ↑ ^[503]3.0 ^[504]3.1 ^[505]3.2 ^[506]3.3 ^[507]3.4 ^[508]3.5 As part of the [509]Pokémon Trainer.
+    4. ↑ ^[510]4.0 ^[511]4.1 ^[512]4.2 While there hasn't been any official confirmation that Mewtwo, Roy, and Dr. Mario were intended to be in Brawl, [513]unused data on Brawl's disc labelled for each of them strongly implies that the characters were developed to some degree for Brawl.
+    5. [514]↑ Sakurai [515]stated that, while the Ice Climbers could run smoothly on the Wii U version, the 3DS could not handle the "two-in-one" coding of the duo, and, in order to keep the roster the same between the two versions, they had to be cut from the roster.
+    6. [516]↑ Sakurai [517]stated that he originally intended to replace Ness with the new protagonist of Mother 3 (Lucas) in Melee, though Mother 3's delay caused him to go back on the idea and keep Ness.
+    7. [518]↑ Sakurai mentions Marth as having been planned for [519]Super Smash Bros. on [520]this page.
+    8. [521]↑ Former head of Sonic Team, Yuji Naka, stated [522]in an interview that Sonic was very close to being included in the game, but because of time constraints, was not.
+
+Alternate costume characters
+
+   This is a list consisting of playable characters in the Super Smash Bros. series that can only be accessed as playable characters via another character's [523]alternate costumes. Although these characters are considered to be a simple extension of these preexisting characters, they feature several distinguishing qualities, such as unique character models and character selection screen announcement clips.
+   Key Starter Unlockable [524]Super Smash Bros. for Nintendo 3DS Unlockable Downloadable
+   Base Character    Fighter   [525]Super Smash Bros. [526]Super Smash Bros. Melee [527]Super Smash Bros. Brawl     [528]Super Smash Bros. 4      [529]Super Smash Bros. Ultimate             Universe
+   [530]Olimar     [531]Alph                                                                                    [532]OlimarHeadAlphSSB4-U.png     [533]OlimarHeadAlphSSBU.png     [534]PikminSymbol.svg [535]Pikmin
+   [536]Bowser Jr. [537]Iggy                                                                                    [538]BowserJrHeadIggySSB4-U.png   [539]BowserJrHeadIggySSBU.png   [540]MarioSymbol.svg [541]Mario
+                   [542]Larry                                                                                   [543]BowserJrHeadLarrySSB4-U.png  [544]BowserJrHeadLarrySSBU.png  [545]MarioSymbol.svg [546]Mario
+                   [547]Lemmy                                                                                   [548]BowserJrHeadLemmySSB4-U.png  [549]BowserJrHeadLemmySSBU.png  [550]MarioSymbol.svg [551]Mario
+                   [552]Ludwig                                                                                  [553]BowserJrHeadLudwigSSB4-U.png [554]BowserJrHeadLudwigSSBU.png [555]MarioSymbol.svg [556]Mario
+                   [557]Morton                                                                                  [558]BowserJrHeadMortonSSB4-U.png [559]BowserJrHeadMortonSSBU.png [560]MarioSymbol.svg [561]Mario
+                   [562]Roy                                                                                     [563]BowserJrHeadRoySSB4-U.png    [564]BowserJrHeadRoySSBU.png    [565]MarioSymbol.svg [566]Mario
+                   [567]Wendy                                                                                   [568]BowserJrHeadWendySSB4-U.png  [569]BowserJrHeadWendySSBU.png  [570]MarioSymbol.svg [571]Mario
+
+Non-playable characters
+
+   Main article: [572]Non-playable character
+
+   The following characters can fully interact with playable characters in-game, but are normally non-playable. These include boss characters and enemy teams, among others. Hacking, however, may allow these characters to be played to varying degrees of functionality.
+            Fighter           [573]Super Smash Bros. [574]Super Smash Bros. Melee [575]Super Smash Bros. Brawl [576]Super Smash Bros. for Nintendo 3DS [577]Super Smash Bros. for Wii U [578]Super Smash Bros. Ultimate                      Universe
+   [579]Crazy Hand                                   Yes                          Yes                          Yes                                                                      Yes                             [580]SmashBrosSymbol.svg [581]Super Smash Bros.
+   [582]Dark Emperor                                                                                           Yes ^[583][1]                                                            Yes ^[584][1]                   [585]FindMiiSymbol.svg [586]Find Mii
+   [587]Dharkon                                                                                                                                                                         Yes                             [588]WorldOfLightSymbol.svg [589]Super Smash Bros.
+   [590]Dracula                                                                                                                                                                         Yes                             [591]CastlevaniaSymbol.svg [592]Castlevania
+   [593]Duon                                                                      Yes ^[594][2]                                                                                         Yes ^[595][3]                   [596]SubspaceSymbol.svg [597]Super Smash Bros.
+   [598]Fighting Alloy Team                                                       Yes                                                                                                   Yes ^[599][3]                   [600]SmashBrosSymbol.svg [601]Super Smash Bros.
+   [602]Fighting Polygon Team Yes                                                                                                                                                                                       [603]SmashBrosSymbol.svg [604]Super Smash Bros.
+   [605]Fighting Wire Frames                         Yes                                                                                                                                                                [606]SmashBrosSymbol.svg [607]Super Smash Bros.
+   [608]Flying Man^[609][4]                                                                                    Yes ^[610][1]                                                            Yes ^[611][1]                   [612]EarthboundSymbol.svg [613]EarthBound
+   [614]Galeem                                                                                                                                                                          Yes                             [615]WorldOfLightSymbol.svg [616]Super Smash Bros.
+   [617]Galleom                                                                   Yes ^[618][2]                                                                                         Yes                             [619]SubspaceSymbol.svg [620]Super Smash Bros.
+   [621]Ganon                                                                                                                                                                           Yes                             [622]ZeldaSymbol.svg [623]The Legend of Zelda
+   [624]Giant DK              Yes                    Yes ^[625][5]                Yes ^[626][5]                Yes ^[627][5]                                                            Yes ^[628][5]                   [629]DKSymbol.svg [630]Donkey Kong
+   [631]Giga Bowser                                  Yes                          Yes ^[632][6]                Yes ^[633][6]                                                            Yes ^[634][7]                   [635]SmashBrosSymbol.svg [636]Super Smash Bros.
+   [637]Master Core                                                                                                                                    Yes                              Yes ^[638][3]                   [639]SmashBrosSymbol.svg [640]Super Smash Bros.
+   [641]Master Hand           Yes                    Yes                          Yes                          Yes                                                                      Yes ^[642][8]                   [643]SmashBrosSymbol.svg [644]Super Smash Bros.
+   [645]Marx                                                                                                                                                                            Yes                             [646]KirbySymbol.svg [647]Kirby
+   [648]Meta Ridley                                                               Yes ^[649][2]                                                        Yes ^[650][1]                    Yes ^[651][9]                   [652]MetroidSymbol.svg [653]Metroid
+   [654]Metal Face                                                                                                                                     Yes ^[655][1]                    Yes ^[656][1]                   [657]XenobladeSymbol.svg [658]Xenoblade
+   [659]Metal Mario           Yes                    Yes ^[660][10]               Yes ^[661][10]               Yes ^[662][10]                                                           Yes ^[663][10]                  [664]MarioSymbol.svg [665]Mario
+   [666]Nabbit                                                                                                                                         Yes ^[667][1]                    Yes ^[668][1]                   [669]MarioSymbol.svg [670]Mario
+   [671]Petey Piranha                                                             Yes ^[672][2]                                                                                         Yes ^[673][11]                  [674]MarioSymbol.svg [675]Mario
+   [676]Porky Minch                                                               Yes ^[677][2]                                                                                                                         [678]EarthboundSymbol.svg [679]EarthBound
+   [680]Rathalos                                                                                                                                                                        Yes ^[681][12]                  [682]Monster Hunter
+   [683]Rayquaza                                                                  Yes ^[684][2]                                                        Yes ^[685][1]                    Yes ^[686][1]                   [687]PokemonSymbol.svg [688]Pokémon
+   [689]Ridley                                                                    Yes ^[690][2]                                                        Yes ^[691][1]                    Yes ^[692][13]                  [693]MetroidSymbol.svg [694]Metroid
+   [695]Sandbag                                      Yes                          Yes ^[696][14]               Yes ^[697][14]                                                           Yes ^[698][14]                  [699]SmashBrosSymbol.svg [700]Super Smash Bros.
+   [701]Tabuu                                                                     Yes ^[702][2]                                                                                         Yes ^[703][3]                   [704]SubspaceSymbol.svg [705]Super Smash Bros.
+   [706]Yellow Devil                                                                                           Yes ^[707][1]                                                            Yes ^[708][1]                   [709]MegaManSymbol.svg [710]Mega Man
+
+Notes
+
+    1. ↑ ^[711]1.00 ^[712]1.01 ^[713]1.02 ^[714]1.03 ^[715]1.04 ^[716]1.05 ^[717]1.06 ^[718]1.07 ^[719]1.08 ^[720]1.09 ^[721]1.10 ^[722]1.11 ^[723]1.12 ^[724]1.13 Appears as a stage hazard.
+    2. ↑ ^[725]2.0 ^[726]2.1 ^[727]2.2 ^[728]2.3 ^[729]2.4 ^[730]2.5 ^[731]2.6 ^[732]2.7 Appears as a boss during the Subspace Emissary.
+    3. ↑ ^[733]3.0 ^[734]3.1 ^[735]3.2 ^[736]3.3 Appears as a spirit.
+    4. [737]↑ a [738]Mii Fighter costume based on the Flying Man is available as [739]downloadable content in SSB4
+    5. ↑ ^[740]5.0 ^[741]5.1 ^[742]5.2 ^[743]5.3 Playable by controlling DK and getting a [744]Super Mushroom.
+    6. ↑ ^[745]6.0 ^[746]6.1 Playable as part of Bowser's Final Smash.
+    7. [747]↑ While the player can still technically control Giga Bowser during Bowser's Final Smash, he no longer behaves like a regular playable character. He can be fought as a boss in [748]Classic Mode.
+    8. [749]↑ Briefly playable for a special event in the [750]World of Light mode.
+    9. [751]↑ Appears as a costume for Ridley.
+   10. ↑ ^[752]10.0 ^[753]10.1 ^[754]10.2 ^[755]10.3 Playable by controlling Mario and getting a [756]Metal Box.
+   11. [757]↑ For Piranha Plant's Final Smash.
+   12. [758]↑ Appears as both a boss and an [759]Assist Trophy.
+   13. [760]↑ Ridley is a playable character in Ultimate (see [761]table above).
+   14. ↑ ^[762]14.0 ^[763]14.1 ^[764]14.2 Mechanically considered an item rather than a character.
+
+Newcomers and veterans
+
+   A newcomer is a character who appears as playable for the first time in the series in a given game. A veteran is the opposite: a character who has been playable in a previous game. For example, Diddy Kong is a newcomer in Brawl, as he did not appear as playable in any previous games, but is a veteran in all subsequent games. Note that the definition of newcomers is distinct from that of "[765]unlockable" or "secret" characters, which are playable characters who must be unlocked by completing certain tasks; Melee, Brawl, and Smash 4 all had starter veterans, starter newcomers, unlockable veterans, and unlockable newcomers. Ultimate is the first game in which all newcomers are unlockable; however, several veterans are also unlockable.
+
+   The term newcomer was originally used to describe the unlockable characters in the original [766]Super Smash Bros. by the [767]data deletion [768]menu. It was later used in the first trailer for [769]Super Smash Bros. Brawl, in which new characters were introduced with the title "Newcomer" atop their name. The word newcomer was later used on the [770]Smash Bros. DOJO!! site to classify new characters whether unlockable or not. This use of the term has become the community-preferred usage for other games in the series.
+
+"Perfect-attendance crew"
+
+   Less commonly, the term "veteran" can also denote the "eight regulars" or "perfect-attendance fighters", terms which refer to the eight [771]starter characters in the original [772]Super Smash Bros. which have been in all subsequent games of the series. The terms originated in the description for the 10th Brawl event match [773]All-Star Battle Regulars, reading: "The Smash Bros. perfect-attendance crew! Fight the eight regulars in order!" A popular, unofficial term referring to this group is "The Original 8" ([774]Mario, [775]Donkey Kong, [776]Link, [777]Samus, [778]Yoshi, [779]Kirby, [780]Fox, and [781]Pikachu), which may also be called "The Original 12" if including the four unlockable characters ([782]Luigi, [783]Captain Falcon, [784]Ness, and [785]Jigglypuff). [786]Super Smash Bros. for Wii U is the only installment where all the "Original 12" are starter characters; the original Super Smash Bros. and [787]Super Smash Bros. Ultimate are the only two entries in the franchise in which the
+   "Original 8" are the only characters playable at the start.
+
+Trivia
+
+     * [788]Roy is the only "non-native" character to debut in a Super Smash Bros. game before appearing in any other game in their respective series. His inclusion in Melee was intended to promote [789]Fire Emblem: The Binding Blade, which was released shortly after Melee in Japan.
+          + According to Super Smash Bros. series director [790]Masahiro Sakurai, The Binding Blade was originally scheduled for release before Melee.^[791][1]
+     * [792]Captain Falcon (in SSB), the [793]Mii Fighters (in SSB4 and SSBU) and [794]Pac-Man (in Ultimate) are the only characters to use head icons that don't portray their faces.
+     * Smash 4 is the first game to feature playable female swordfighters: [795]Lucina, female [796]Robin, female [797]Corrin, and female [798]Mii Swordfighter.
+          + [799]Wendy O. Koopa, who appears as an alternate costume for Bowser Jr., is the first female villain to be a playable character in the series.
+     * Lucina and Wendy O. Koopa (the latter of whom is playable as an alternate model swap for Bowser Jr.) are also the first two unlockable female characters in the Super Smash Bros. series. Unlike Lucina however, it is virtually impossible to face Wendy in an unlock match (due to her only being accessible as a playable character through Bowser Jr.'s alternate costumes).
+     * [800]Wario is the only character prior to Ultimate to debut as a starter before becoming unlockable in another game, as well as the only one prior to Smash 4 to have never had fewer than 8 palette swaps.
+     * [801]Yoshi and [802]Captain Falcon are the only characters who appear in all five Super Smash Bros. games that are the sole representatives of their series.
+     * [803]Metal Gear and [804]Ice Climber are the only universes to have the entirety of their characters cut from one game to the next, and then both being reintroduced in the next game after that.
+     * [805]Samus is the only female character to appear in all five Super Smash Bros. games, as Pokémon were not considered gendered at the time of the first game's release.
+     * [806]Super Smash Bros. Ultimate is the first game in the series since Melee to not have any veterans cut from the roster. All the previously cut veterans that haven't appeared since Melee and/or Brawl return with various changes to their appearances and/or movesets including new [807]Final Smashes.
+     * [808]Lucas is the only character to have been a starter character, unlockable character and downloadable character at one point, as [809]Mewtwo and [810]Roy were unlockable in their [811]debut game as well as Ultimate.
+     * Currently, [812]Charizard, [813]Little Mac, [814]Ridley, [815]Dark Samus, and [816]Isabelle are the only characters to have been made fully playable after major non-playable appearances, excluding characters that are playable via items ([817]Metal Mario, [818]Giant Donkey Kong, and [819]Giga Bowser).
+          + [820]Meta Knight, [821]Pit, [822]Wario, [823]Squirtle, [824]King Dedede, [825]Olimar, [826]Villager, [827]Palutena, [828]Bowser Jr., [829]Ludwig von Koopa of the [830]Koopalings, the duck of [831]Duck Hunt, [832]Inkling, [833]Daisy, [834]Chrom, [835]King K. Rool, [836]Ken, and [837]Piranha Plant have also made appearances in previous Super Smash Bros. games prior to their playable debuts in the form of minor representation. These include [838]Trophies, [839]Stickers, [840]Mii Fighter costumes, and cameos in [841]stages and [842]Final Smashes.
+     * Charizard is the only character who used to be part of a transformation character, became a standalone fighter, and then returned to being part of a transformation character.
+
+References
+
+    1. [843]↑ [844]https://sourcegaming.info/2015/12/13/sakurai-fe25/
+
+   [845]v • [846]d • [847]e
+   Playable [848]characters in the [849]Super Smash Bros. series
+   [850]Super Smash Bros. [851]Captain Falcon · [852]Donkey Kong · [853]Fox · [854]Jigglypuff · [855]Kirby · [856]Link · [857]Luigi · [858]Mario · [859]Ness · [860]Pikachu · [861]Samus · [862]Yoshi
+     New in [863]Melee    [864]Bowser · [865]Dr. Mario · [866]Falco · [867]Ganondorf · [868]Ice Climbers · [869]Marth · [870]Mewtwo · [871]Mr. Game & Watch · [872]Peach · [873]Pichu · [874]Roy · [875]Sheik · [876]Young Link · [877]Zelda
+     New in [878]Brawl    [879]Diddy Kong · [880]Ike · [881]King Dedede · [882]Lucario · [883]Lucas · [884]Meta Knight · [885]Olimar ([886]Pikmin) · [887]Pit · [888]Pokémon Trainer ([889]Squirtle · [890]Ivysaur · [891]Charizard) · [892]R.O.B. · [893]Snake · [894]Sonic · [895]Toon Link · [896]Wario · [897]Wolf · [898]Zero Suit Samus
+      New in [899]SSB4    ([900]Alph) · [901]Bayonetta · [902]Bowser Jr. ([903]Koopalings) · [904]Cloud · [905]Corrin · [906]Dark Pit · [907]Duck Hunt · [908]Greninja · [909]Little Mac · [910]Lucina · [911]Mega Man · [912]Mii Brawler · [913]Mii Gunner · [914]Mii Swordfighter · [915]Pac-Man · [916]Palutena · [917]Robin · [918]Rosalina ([919]Luma) · [920]Ryu · [921]Shulk · [922]Villager · [923]Wii Fit Trainer
+    New in [924]Ultimate  [925]Chrom · [926]Daisy · [927]Dark Samus · [928]Incineroar · [929]Inkling · [930]Isabelle · [931]Joker · [932]Ken · [933]King K. Rool · [934]Piranha Plant · [935]Richter · [936]Ridley · [937]Simon
+   [938]v • [939]d • [940]e
+   [941]Playable characters in [942]Super Smash Bros.
+   [943]Playable characters [944]Captain Falcon · [945]Donkey Kong · [946]Fox · [947]Jigglypuff · [948]Kirby · [949]Link · [950]Luigi · [951]Mario · [952]Ness · [953]Pikachu · [954]Samus · [955]Yoshi
+   [956]v • [957]d • [958]e
+   [959]Playable characters in [960]Super Smash Bros. Melee
+   [961]Veterans  [962]Captain Falcon · [963]Donkey Kong · [964]Fox · [965]Jigglypuff · [966]Kirby · [967]Link · [968]Luigi · [969]Mario · [970]Ness · [971]Pikachu · [972]Samus · [973]Yoshi
+   [974]Newcomers [975]Bowser · [976]Dr. Mario · [977]Falco · [978]Ganondorf · [979]Ice Climbers · [980]Marth · [981]Mewtwo · [982]Mr. Game & Watch · [983]Peach · [984]Pichu · [985]Roy · [986]Young Link · [987]Zelda ([988]Sheik)
+   [989]v • [990]d • [991]e
+   [992]Playable characters in [993]Super Smash Bros. Brawl
+    [994]Veterans  [995]Bowser · [996]Captain Falcon · [997]Donkey Kong · [998]Falco · [999]Fox · [1000]Ganondorf · [1001]Ice Climbers · [1002]Jigglypuff · [1003]Kirby · [1004]Link · [1005]Luigi · [1006]Mario · [1007]Marth · [1008]Mr. Game & Watch · [1009]Ness · [1010]Peach · [1011]Pikachu · [1012]Samus · [1013]Yoshi · [1014]Zelda ([1015]Sheik)
+   [1016]Newcomers [1017]Diddy Kong · [1018]Ike · [1019]King Dedede · [1020]Lucario · [1021]Lucas · [1022]Meta Knight · [1023]Olimar · [1024]Pit · [1025]Pokémon Trainer ([1026]Charizard · [1027]Ivysaur · [1028]Squirtle) · [1029]R.O.B. · [1030]Snake · [1031]Sonic · [1032]Toon Link · [1033]Wario · [1034]Wolf · ([1035]Zero Suit Samus)
+   [1036]v • [1037]d • [1038]e
+   [1039]Playable characters in [1040]Super Smash Bros. 4
+   [1041]Veterans  [1042]Bowser · [1043]Captain Falcon · [1044]Charizard · [1045]Diddy Kong · [1046]Donkey Kong · [1047]Dr. Mario · [1048]Falco · [1049]Fox · [1050]Ganondorf · [1051]Ike · [1052]Jigglypuff · [1053]King Dedede · [1054]Kirby · [1055]Link · [1056]Lucario · [1057]Lucas · [1058]Luigi · [1059]Mario · [1060]Marth · [1061]Meta Knight · [1062]Mewtwo · [1063]Mr. Game & Watch · [1064]Ness · [1065]Olimar · [1066]Peach · [1067]Pikachu · [1068]Pit · [1069]R.O.B. · [1070]Roy · [1071]Samus · [1072]Sheik · [1073]Sonic · [1074]Toon Link · [1075]Wario · [1076]Yoshi · [1077]Zelda · [1078]Zero Suit Samus
+   [1079]Newcomers [1080]Bayonetta · [1081]Bowser Jr. · [1082]Cloud · [1083]Corrin · [1084]Dark Pit · [1085]Duck Hunt · [1086]Greninja · [1087]Little Mac · [1088]Lucina · [1089]Mega Man · [1090]Mii Brawler · [1091]Mii Gunner · [1092]Mii Swordfighter · [1093]Pac-Man · [1094]Palutena · [1095]Robin · [1096]Rosalina & Luma · [1097]Ryu · [1098]Shulk · [1099]Villager · [1100]Wii Fit Trainer
+   [1101]v • [1102]d • [1103]e
+   [1104]Playable characters in [1105]Super Smash Bros. Ultimate
+   [1106]Veterans [1107]Bayonetta · [1108]Bowser · [1109]Bowser Jr. · [1110]Captain Falcon · [1111]Cloud · [1112]Corrin · [1113]Dark Pit · [1114]Diddy Kong · [1115]Donkey Kong · [1116]Dr. Mario · [1117]Duck Hunt · [1118]Falco · [1119]Fox · [1120]Ganondorf · [1121]Greninja · [1122]Ice Climbers · [1123]Ike · [1124]Jigglypuff · [1125]King Dedede · [1126]Kirby · [1127]Link · [1128]Little Mac · [1129]Lucario · [1130]Lucas · [1131]Lucina · [1132]Luigi · [1133]Mario · [1134]Marth · [1135]Mega Man · [1136]Meta Knight · [1137]Mewtwo · [1138]Mii Fighter ([1139]Mii Brawler · [1140]Mii Gunner · [1141]Mii Swordfighter) · [1142]Mr. Game & Watch · [1143]Ness · [1144]Olimar · [1145]Pac-Man · [1146]Palutena · [1147]Peach · [1148]Pichu · [1149]Pikachu · [1150]Pit · [1151]Pokémon Trainer ([1152]Squirtle · [1153]Ivysaur · [1154]Charizard) · [1155]R.O.B. · [1156]Robin · [1157]Rosalina & Luma · [1158]Roy · [1159]Ryu · [1160]Samus · [1161]Sheik · [1162]Shulk · [1163]Snake · [116
+   4]Sonic · [1165]Toon Link · [1166]Villager · [1167]Wario · [1168]Wii Fit Trainer · [1169]Wolf · [1170]Yoshi · [1171]Young Link · [1172]Zelda · [1173]Zero Suit Samus
+   [1174]Newcomers [1175]Chrom · [1176]Daisy · [1177]Dark Samus · [1178]Incineroar · [1179]Inkling · [1180]Isabelle · [1181]Joker · [1182]Ken · [1183]King K. Rool · [1184]Piranha Plant · [1185]Richter · [1186]Ridley · [1187]Simon
+   Ads keep SmashWiki independent and free :)
+   Retrieved from "[1188]https://www.ssbwiki.com/index.php?title=List_of_Super_Smash_Bros._series_characters&oldid=1178647"
+   [1189]Categories:
+     * [1190]Characters
+     * [1191]Lists
+     * [1192]Characters (SSB)
+     * [1193]Characters (SSBM)
+     * [1194]Characters (SSBB)
+     * [1195]Characters (SSB4)
+     * [1196]Characters (SSBU)
+
+Navigation menu
+
+Views
+
+     * [1197]Article
+     * [1198]Discussion
+     * [1199]View source
+     * [1200]History
+
+Personal tools
+
+     * Not logged in
+     * [1201]Talk
+     * [1202]Contributions
+     * [1203]Create account
+     * [1204]Log in
+
+Navigation
+
+     * [1205]Main page
+     * [1206]Smash Bros. Ultimate
+     * [1207]Smash Bros. 4
+     * [1208]Smash Bros. Brawl
+     * [1209]Smash Bros. Melee
+     * [1210]Smash Bros. (64)
+     * [1211]Characters
+     * [1212]Stages
+     * [1213]Modes
+     * [1214]Items
+     * [1215]Random page
+
+Search
+
+   ____________________ Go  Search
+
+Participate
+
+     * [1216]Forum
+     * [1217]Community portal
+     * [1218]Recent changes
+     * [1219]Help
+     * [1220]Admin noticeboard
+     * [1221]Discord server
+     * [1222]YouTube channel
+
+Tools
+
+     * [1223]What links here
+     * [1224]Related changes
+     * [1225]Special pages
+     * [1226]Printable version
+     * [1227]Permanent link
+     * [1228]Page information
+
+   [1229]Attribution-Share Alike 3.0 Unported
+   [1230]Powered by MediaWiki
+     * This page was last edited on 27 January 2019, at 12:38.
+     * Content is available under [1231]Attribution-Share Alike 3.0 Unported unless otherwise noted.
+     * [1232]Privacy policy
+     * [1233]About SmashWiki
+     * [1234]Disclaimers
+     * [1235]Mobile view
+
+References
+
+   Visible links
+   1. https://www.ssbwiki.com/opensearch_desc.php
+   2. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&feed=atom
+   3. https://www.ssbwiki.com/index.php?title=Character&redirect=no
+   4. https://www.ssbwiki.com/Character#column-one
+   5. https://www.ssbwiki.com/Character#searchInput
+   6. https://www.ssbwiki.com/SW:PROTECT
+   7. https://www.ssbwiki.com/Super_Smash_Bros._(series)
+   8. https://www.ssbwiki.com/Super_Smash_Bros._(series)
+   9. https://www.ssbwiki.com/Action_Replay
+  10. https://www.ssbwiki.com/Starter_character
+  11. https://www.ssbwiki.com/Unlockable_character
+  12. https://www.ssbwiki.com/Downloadable_character
+  13. https://www.ssbwiki.com/Character#Playable_characters
+  14. https://www.ssbwiki.com/Character#Notes
+  15. https://www.ssbwiki.com/Character#Alternate_costume_characters
+  16. https://www.ssbwiki.com/Character#Non-playable_characters
+  17. https://www.ssbwiki.com/Character#Notes_2
+  18. https://www.ssbwiki.com/Character#Newcomers_and_veterans
+  19. https://www.ssbwiki.com/Character#.22Perfect-attendance_crew.22
+  20. https://www.ssbwiki.com/Character#Trivia
+  21. https://www.ssbwiki.com/Character#References
+  22. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+  23. https://www.ssbwiki.com/Character#cite_note-3dsunlockable-1
+  24. https://www.ssbwiki.com/Super_Smash_Bros.
+  25. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+  26. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+  27. https://www.ssbwiki.com/Super_Smash_Bros._4
+  28. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+  29. https://www.ssbwiki.com/Bayonetta
+  30. https://www.ssbwiki.com/Bayonetta_(SSB4)
+  31. https://www.ssbwiki.com/Bayonetta_(SSBU)
+  32. https://www.ssbwiki.com/Bayonetta_(universe)
+  33. https://www.ssbwiki.com/Bayonetta_(universe)
+  34. https://www.ssbwiki.com/Bowser
+  35. https://www.ssbwiki.com/Character#cite_note-ssb64-2
+  36. https://www.ssbwiki.com/Bowser_(SSBM)
+  37. https://www.ssbwiki.com/Bowser_(SSBB)
+  38. https://www.ssbwiki.com/Bowser_(SSB4)
+  39. https://www.ssbwiki.com/Bowser_(SSBU)
+  40. https://www.ssbwiki.com/Mario_(universe)
+  41. https://www.ssbwiki.com/Mario_(universe)
+  42. https://www.ssbwiki.com/Bowser_Jr.
+  43. https://www.ssbwiki.com/Bowser_Jr._(SSB4)
+  44. https://www.ssbwiki.com/Bowser_Jr._(SSBU)
+  45. https://www.ssbwiki.com/Mario_(universe)
+  46. https://www.ssbwiki.com/Mario_(universe)
+  47. https://www.ssbwiki.com/Captain_Falcon
+  48. https://www.ssbwiki.com/Captain_Falcon_(SSB)
+  49. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+  50. https://www.ssbwiki.com/Captain_Falcon_(SSBB)
+  51. https://www.ssbwiki.com/Captain_Falcon_(SSB4)
+  52. https://www.ssbwiki.com/Captain_Falcon_(SSBU)
+  53. https://www.ssbwiki.com/F-Zero_(universe)
+  54. https://www.ssbwiki.com/F-Zero_(universe)
+  55. https://www.ssbwiki.com/Charizard
+  56. https://www.ssbwiki.com/Charizard_(SSBB)
+  57. https://www.ssbwiki.com/Character#cite_note-pokemon-3
+  58. https://www.ssbwiki.com/Charizard_(SSB4)
+  59. https://www.ssbwiki.com/Charizard_(SSBU)
+  60. https://www.ssbwiki.com/Character#cite_note-pokemon-3
+  61. https://www.ssbwiki.com/Pokémon_(universe)
+  62. https://www.ssbwiki.com/Pokémon_(universe)
+  63. https://www.ssbwiki.com/Chrom
+  64. https://www.ssbwiki.com/Chrom_(SSBU)
+  65. https://www.ssbwiki.com/Fire_Emblem_(universe)
+  66. https://www.ssbwiki.com/Fire_Emblem_(universe)
+  67. https://www.ssbwiki.com/Cloud
+  68. https://www.ssbwiki.com/Cloud_(SSB4)
+  69. https://www.ssbwiki.com/Cloud_(SSBU)
+  70. https://www.ssbwiki.com/Final_Fantasy_(universe)
+  71. https://www.ssbwiki.com/Final_Fantasy_(universe)
+  72. https://www.ssbwiki.com/Corrin
+  73. https://www.ssbwiki.com/Corrin_(SSB4)
+  74. https://www.ssbwiki.com/Corrin_(SSBU)
+  75. https://www.ssbwiki.com/Fire_Emblem_(universe)
+  76. https://www.ssbwiki.com/Fire_Emblem_(universe)
+  77. https://www.ssbwiki.com/Daisy
+  78. https://www.ssbwiki.com/Daisy_(SSBU)
+  79. https://www.ssbwiki.com/Mario_(universe)
+  80. https://www.ssbwiki.com/Mario_(universe)
+  81. https://www.ssbwiki.com/Dark_Pit
+  82. https://www.ssbwiki.com/Dark_Pit_(SSB4)
+  83. https://www.ssbwiki.com/Dark_Pit_(SSBU)
+  84. https://www.ssbwiki.com/Kid_Icarus_(universe)
+  85. https://www.ssbwiki.com/Kid_Icarus_(universe)
+  86. https://www.ssbwiki.com/Dark_Samus
+  87. https://www.ssbwiki.com/Dark_Samus_(SSBU)
+  88. https://www.ssbwiki.com/Metroid_(universe)
+  89. https://www.ssbwiki.com/Metroid_(universe)
+  90. https://www.ssbwiki.com/Diddy_Kong
+  91. https://www.ssbwiki.com/Diddy_Kong_(SSBB)
+  92. https://www.ssbwiki.com/Diddy_Kong_(SSB4)
+  93. https://www.ssbwiki.com/Diddy_Kong_(SSBU)
+  94. https://www.ssbwiki.com/Donkey_Kong_(universe)
+  95. https://www.ssbwiki.com/Donkey_Kong_(universe)
+  96. https://www.ssbwiki.com/Donkey_Kong
+  97. https://www.ssbwiki.com/Donkey_Kong_(SSB)
+  98. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+  99. https://www.ssbwiki.com/Donkey_Kong_(SSBB)
+ 100. https://www.ssbwiki.com/Donkey_Kong_(SSB4)
+ 101. https://www.ssbwiki.com/Donkey_Kong_(SSBU)
+ 102. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 103. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 104. https://www.ssbwiki.com/Dr._Mario
+ 105. https://www.ssbwiki.com/Dr._Mario_(SSBM)
+ 106. https://www.ssbwiki.com/Character#cite_note-brawl-4
+ 107. https://www.ssbwiki.com/Dr._Mario_(SSB4)
+ 108. https://www.ssbwiki.com/Dr._Mario_(SSBU)
+ 109. https://www.ssbwiki.com/Mario_(universe)
+ 110. https://www.ssbwiki.com/Mario_(universe)
+ 111. https://www.ssbwiki.com/Duck_Hunt
+ 112. https://www.ssbwiki.com/Duck_Hunt_(SSB4)
+ 113. https://www.ssbwiki.com/Duck_Hunt_(SSBU)
+ 114. https://www.ssbwiki.com/Duck_Hunt_(universe)
+ 115. https://www.ssbwiki.com/Duck_Hunt_(universe)
+ 116. https://www.ssbwiki.com/Falco
+ 117. https://www.ssbwiki.com/Falco_(SSBM)
+ 118. https://www.ssbwiki.com/Falco_(SSBB)
+ 119. https://www.ssbwiki.com/Falco_(SSB4)
+ 120. https://www.ssbwiki.com/Falco_(SSBU)
+ 121. https://www.ssbwiki.com/Star_Fox_(universe)
+ 122. https://www.ssbwiki.com/Star_Fox_(universe)
+ 123. https://www.ssbwiki.com/Fox
+ 124. https://www.ssbwiki.com/Fox_(SSB)
+ 125. https://www.ssbwiki.com/Fox_(SSBM)
+ 126. https://www.ssbwiki.com/Fox_(SSBB)
+ 127. https://www.ssbwiki.com/Fox_(SSB4)
+ 128. https://www.ssbwiki.com/Fox_(SSBU)
+ 129. https://www.ssbwiki.com/Star_Fox_(universe)
+ 130. https://www.ssbwiki.com/Star_Fox_(universe)
+ 131. https://www.ssbwiki.com/Ganondorf
+ 132. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 133. https://www.ssbwiki.com/Ganondorf_(SSBB)
+ 134. https://www.ssbwiki.com/Ganondorf_(SSB4)
+ 135. https://www.ssbwiki.com/Ganondorf_(SSBU)
+ 136. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 137. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 138. https://www.ssbwiki.com/Greninja
+ 139. https://www.ssbwiki.com/Greninja_(SSB4)
+ 140. https://www.ssbwiki.com/Greninja_(SSBU)
+ 141. https://www.ssbwiki.com/Pokémon_(universe)
+ 142. https://www.ssbwiki.com/Pokémon_(universe)
+ 143. https://www.ssbwiki.com/Ice_Climbers
+ 144. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 145. https://www.ssbwiki.com/Ice_Climbers_(SSBB)
+ 146. https://www.ssbwiki.com/Character#cite_note-5
+ 147. https://www.ssbwiki.com/Ice_Climbers_(SSBU)
+ 148. https://www.ssbwiki.com/Ice_Climber_(universe)
+ 149. https://www.ssbwiki.com/Ice_Climber_(universe)
+ 150. https://www.ssbwiki.com/Ike
+ 151. https://www.ssbwiki.com/Ike_(SSBB)
+ 152. https://www.ssbwiki.com/Ike_(SSB4)
+ 153. https://www.ssbwiki.com/Ike_(SSBU)
+ 154. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 155. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 156. https://www.ssbwiki.com/Incineroar
+ 157. https://www.ssbwiki.com/Incineroar_(SSBU)
+ 158. https://www.ssbwiki.com/Pokémon_(universe)
+ 159. https://www.ssbwiki.com/Pokémon_(universe)
+ 160. https://www.ssbwiki.com/Inkling
+ 161. https://www.ssbwiki.com/Inkling_(SSBU)
+ 162. https://www.ssbwiki.com/Splatoon_(universe)
+ 163. https://www.ssbwiki.com/Splatoon_(universe)
+ 164. https://www.ssbwiki.com/Isabelle
+ 165. https://www.ssbwiki.com/Isabelle_(SSBU)
+ 166. https://www.ssbwiki.com/Animal_Crossing_(universe)
+ 167. https://www.ssbwiki.com/Animal_Crossing_(universe)
+ 168. https://www.ssbwiki.com/Ivysaur
+ 169. https://www.ssbwiki.com/Ivysaur_(SSBB)
+ 170. https://www.ssbwiki.com/Character#cite_note-pokemon-3
+ 171. https://www.ssbwiki.com/Ivysaur_(SSBU)
+ 172. https://www.ssbwiki.com/Character#cite_note-pokemon-3
+ 173. https://www.ssbwiki.com/Pokémon_(universe)
+ 174. https://www.ssbwiki.com/Pokémon_(universe)
+ 175. https://www.ssbwiki.com/Jigglypuff
+ 176. https://www.ssbwiki.com/Jigglypuff_(SSB)
+ 177. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 178. https://www.ssbwiki.com/Jigglypuff_(SSBB)
+ 179. https://www.ssbwiki.com/Jigglypuff_(SSB4)
+ 180. https://www.ssbwiki.com/Jigglypuff_(SSBU)
+ 181. https://www.ssbwiki.com/Pokémon_(universe)
+ 182. https://www.ssbwiki.com/Pokémon_(universe)
+ 183. https://www.ssbwiki.com/Joker
+ 184. https://www.ssbwiki.com/Joker_(SSBU)
+ 185. https://www.ssbwiki.com/Persona_(universe)
+ 186. https://www.ssbwiki.com/Persona_(universe)
+ 187. https://www.ssbwiki.com/Ken_Masters
+ 188. https://www.ssbwiki.com/Ken_(SSBU)
+ 189. https://www.ssbwiki.com/Street_Fighter_(universe)
+ 190. https://www.ssbwiki.com/Street_Fighter_(universe)
+ 191. https://www.ssbwiki.com/King_Dedede
+ 192. https://www.ssbwiki.com/Character#cite_note-ssb64-2
+ 193. https://www.ssbwiki.com/King_Dedede_(SSBB)
+ 194. https://www.ssbwiki.com/King_Dedede_(SSB4)
+ 195. https://www.ssbwiki.com/King_Dedede_(SSBU)
+ 196. https://www.ssbwiki.com/Kirby_(universe)
+ 197. https://www.ssbwiki.com/Kirby_(universe)
+ 198. https://www.ssbwiki.com/King_K._Rool
+ 199. https://www.ssbwiki.com/King_K._Rool_(SSBU)
+ 200. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 201. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 202. https://www.ssbwiki.com/Kirby
+ 203. https://www.ssbwiki.com/Kirby_(SSB)
+ 204. https://www.ssbwiki.com/Kirby_(SSBM)
+ 205. https://www.ssbwiki.com/Kirby_(SSBB)
+ 206. https://www.ssbwiki.com/Kirby_(SSB4)
+ 207. https://www.ssbwiki.com/Kirby_(SSBU)
+ 208. https://www.ssbwiki.com/Kirby_(universe)
+ 209. https://www.ssbwiki.com/Kirby_(universe)
+ 210. https://www.ssbwiki.com/Link
+ 211. https://www.ssbwiki.com/Link_(SSB)
+ 212. https://www.ssbwiki.com/Link_(SSBM)
+ 213. https://www.ssbwiki.com/Link_(SSBB)
+ 214. https://www.ssbwiki.com/Link_(SSB4)
+ 215. https://www.ssbwiki.com/Link_(SSBU)
+ 216. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 217. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 218. https://www.ssbwiki.com/Little_Mac
+ 219. https://www.ssbwiki.com/Little_Mac_(SSB4)
+ 220. https://www.ssbwiki.com/Little_Mac_(SSBU)
+ 221. https://www.ssbwiki.com/Punch-Out!!_(universe)
+ 222. https://www.ssbwiki.com/Punch-Out!!_(universe)
+ 223. https://www.ssbwiki.com/Lucario
+ 224. https://www.ssbwiki.com/Lucario_(SSBB)
+ 225. https://www.ssbwiki.com/Lucario_(SSB4)
+ 226. https://www.ssbwiki.com/Lucario_(SSBU)
+ 227. https://www.ssbwiki.com/Pokémon_(universe)
+ 228. https://www.ssbwiki.com/Pokémon_(universe)
+ 229. https://www.ssbwiki.com/Lucas
+ 230. https://www.ssbwiki.com/Character#cite_note-6
+ 231. https://www.ssbwiki.com/Lucas_(SSBB)
+ 232. https://www.ssbwiki.com/Lucas_(SSB4)
+ 233. https://www.ssbwiki.com/Lucas_(SSBU)
+ 234. https://www.ssbwiki.com/EarthBound_(universe)
+ 235. https://www.ssbwiki.com/EarthBound_(universe)
+ 236. https://www.ssbwiki.com/Lucina
+ 237. https://www.ssbwiki.com/Lucina_(SSB4)
+ 238. https://www.ssbwiki.com/Lucina_(SSBU)
+ 239. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 240. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 241. https://www.ssbwiki.com/Luigi
+ 242. https://www.ssbwiki.com/Luigi_(SSB)
+ 243. https://www.ssbwiki.com/Luigi_(SSBM)
+ 244. https://www.ssbwiki.com/Luigi_(SSBB)
+ 245. https://www.ssbwiki.com/Luigi_(SSB4)
+ 246. https://www.ssbwiki.com/Luigi_(SSBU)
+ 247. https://www.ssbwiki.com/Mario_(universe)
+ 248. https://www.ssbwiki.com/Mario_(universe)
+ 249. https://www.ssbwiki.com/Mario
+ 250. https://www.ssbwiki.com/Mario_(SSB)
+ 251. https://www.ssbwiki.com/Mario_(SSBM)
+ 252. https://www.ssbwiki.com/Mario_(SSBB)
+ 253. https://www.ssbwiki.com/Mario_(SSB4)
+ 254. https://www.ssbwiki.com/Mario_(SSBU)
+ 255. https://www.ssbwiki.com/Mario_(universe)
+ 256. https://www.ssbwiki.com/Mario_(universe)
+ 257. https://www.ssbwiki.com/Marth
+ 258. https://www.ssbwiki.com/Character#cite_note-marth-7
+ 259. https://www.ssbwiki.com/Marth_(SSBM)
+ 260. https://www.ssbwiki.com/Marth_(SSBB)
+ 261. https://www.ssbwiki.com/Marth_(SSB4)
+ 262. https://www.ssbwiki.com/Marth_(SSBU)
+ 263. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 264. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 265. https://www.ssbwiki.com/Mega_Man
+ 266. https://www.ssbwiki.com/Mega_Man_(SSB4)
+ 267. https://www.ssbwiki.com/Mega_Man_(SSBU)
+ 268. https://www.ssbwiki.com/Mega_Man_(universe)
+ 269. https://www.ssbwiki.com/Mega_Man_(universe)
+ 270. https://www.ssbwiki.com/Meta_Knight
+ 271. https://www.ssbwiki.com/Meta_Knight_(SSBB)
+ 272. https://www.ssbwiki.com/Meta_Knight_(SSB4)
+ 273. https://www.ssbwiki.com/Meta_Knight_(SSBU)
+ 274. https://www.ssbwiki.com/Kirby_(universe)
+ 275. https://www.ssbwiki.com/Kirby_(universe)
+ 276. https://www.ssbwiki.com/Mewtwo
+ 277. https://www.ssbwiki.com/Character#cite_note-ssb64-2
+ 278. https://www.ssbwiki.com/Mewtwo_(SSBM)
+ 279. https://www.ssbwiki.com/Character#cite_note-brawl-4
+ 280. https://www.ssbwiki.com/Mewtwo_(SSB4)
+ 281. https://www.ssbwiki.com/Mewtwo_(SSBU)
+ 282. https://www.ssbwiki.com/Pokémon_(universe)
+ 283. https://www.ssbwiki.com/Pokémon_(universe)
+ 284. https://www.ssbwiki.com/Mii_Brawler
+ 285. https://www.ssbwiki.com/Mii_Brawler_(SSB4)
+ 286. https://www.ssbwiki.com/Mii_Brawler_(SSBU)
+ 287. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 288. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 289. https://www.ssbwiki.com/Mii_Gunner
+ 290. https://www.ssbwiki.com/Mii_Gunner_(SSB4)
+ 291. https://www.ssbwiki.com/Mii_Gunner_(SSBU)
+ 292. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 293. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 294. https://www.ssbwiki.com/Mii_Swordfighter
+ 295. https://www.ssbwiki.com/Mii_Swordfighter_(SSB4)
+ 296. https://www.ssbwiki.com/Mii_Swordfighter_(SSBU)
+ 297. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 298. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 299. https://www.ssbwiki.com/Mr._Game_&_Watch
+ 300. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSBM)
+ 301. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSBB)
+ 302. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSB4)
+ 303. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSBU)
+ 304. https://www.ssbwiki.com/Game_&_Watch_(universe)
+ 305. https://www.ssbwiki.com/Game_&_Watch_(universe)
+ 306. https://www.ssbwiki.com/Ness
+ 307. https://www.ssbwiki.com/Ness_(SSB)
+ 308. https://www.ssbwiki.com/Ness_(SSBM)
+ 309. https://www.ssbwiki.com/Ness_(SSBB)
+ 310. https://www.ssbwiki.com/Ness_(SSB4)
+ 311. https://www.ssbwiki.com/Ness_(SSBU)
+ 312. https://www.ssbwiki.com/EarthBound_(universe)
+ 313. https://www.ssbwiki.com/EarthBound_(universe)
+ 314. https://www.ssbwiki.com/Olimar
+ 315. https://www.ssbwiki.com/Olimar_(SSBB)
+ 316. https://www.ssbwiki.com/Olimar_(SSB4)
+ 317. https://www.ssbwiki.com/Olimar_(SSBU)
+ 318. https://www.ssbwiki.com/Pikmin_(universe)
+ 319. https://www.ssbwiki.com/Pikmin_(universe)
+ 320. https://www.ssbwiki.com/Pac-Man
+ 321. https://www.ssbwiki.com/Pac-Man_(SSB4)
+ 322. https://www.ssbwiki.com/Pac-Man_(SSBU)
+ 323. https://www.ssbwiki.com/Pac-Man_(universe)
+ 324. https://www.ssbwiki.com/Pac-Man_(universe)
+ 325. https://www.ssbwiki.com/Palutena
+ 326. https://www.ssbwiki.com/Palutena_(SSB4)
+ 327. https://www.ssbwiki.com/Palutena_(SSBU)
+ 328. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 329. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 330. https://www.ssbwiki.com/Peach
+ 331. https://www.ssbwiki.com/Peach_(SSBM)
+ 332. https://www.ssbwiki.com/Peach_(SSBB)
+ 333. https://www.ssbwiki.com/Peach_(SSB4)
+ 334. https://www.ssbwiki.com/Peach_(SSBU)
+ 335. https://www.ssbwiki.com/Mario_(universe)
+ 336. https://www.ssbwiki.com/Mario_(universe)
+ 337. https://www.ssbwiki.com/Pichu
+ 338. https://www.ssbwiki.com/Pichu_(SSBM)
+ 339. https://www.ssbwiki.com/Pichu_(SSBU)
+ 340. https://www.ssbwiki.com/Pokémon_(universe)
+ 341. https://www.ssbwiki.com/Pokémon_(universe)
+ 342. https://www.ssbwiki.com/Pikachu
+ 343. https://www.ssbwiki.com/Pikachu_(SSB)
+ 344. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 345. https://www.ssbwiki.com/Pikachu_(SSBB)
+ 346. https://www.ssbwiki.com/Pikachu_(SSB4)
+ 347. https://www.ssbwiki.com/Pikachu_(SSBU)
+ 348. https://www.ssbwiki.com/Pokémon_(universe)
+ 349. https://www.ssbwiki.com/Pokémon_(universe)
+ 350. https://www.ssbwiki.com/Pit
+ 351. https://www.ssbwiki.com/Pit_(SSBB)
+ 352. https://www.ssbwiki.com/Pit_(SSB4)
+ 353. https://www.ssbwiki.com/Pit_(SSBU)
+ 354. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 355. https://www.ssbwiki.com/Kid_Icarus_(universe)
+ 356. https://www.ssbwiki.com/Piranha_Plant
+ 357. https://www.ssbwiki.com/Piranha_Plant_(SSBU)
+ 358. https://www.ssbwiki.com/Mario_(universe)
+ 359. https://www.ssbwiki.com/Mario_(universe)
+ 360. https://www.ssbwiki.com/Pokémon_Trainer
+ 361. https://www.ssbwiki.com/Pokémon_Trainer_(SSBB)
+ 362. https://www.ssbwiki.com/Pokémon_Trainer_(SSBU)
+ 363. https://www.ssbwiki.com/Pokémon_(universe)
+ 364. https://www.ssbwiki.com/Pokémon_(universe)
+ 365. https://www.ssbwiki.com/R.O.B.
+ 366. https://www.ssbwiki.com/R.O.B._(SSBB)
+ 367. https://www.ssbwiki.com/R.O.B._(SSB4)
+ 368. https://www.ssbwiki.com/R.O.B._(SSBU)
+ 369. https://www.ssbwiki.com/R.O.B._(universe)
+ 370. https://www.ssbwiki.com/R.O.B._(universe)
+ 371. https://www.ssbwiki.com/Richter
+ 372. https://www.ssbwiki.com/Richter_(SSBU)
+ 373. https://www.ssbwiki.com/Castlevania_(universe)
+ 374. https://www.ssbwiki.com/Castlevania_(universe)
+ 375. https://www.ssbwiki.com/Ridley
+ 376. https://www.ssbwiki.com/Ridley_(SSBU)
+ 377. https://www.ssbwiki.com/Metroid_(universe)
+ 378. https://www.ssbwiki.com/Metroid_(universe)
+ 379. https://www.ssbwiki.com/Robin
+ 380. https://www.ssbwiki.com/Robin_(SSB4)
+ 381. https://www.ssbwiki.com/Robin_(SSBU)
+ 382. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 383. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 384. https://www.ssbwiki.com/Rosalina
+ 385. https://www.ssbwiki.com/Rosalina_&_Luma_(SSB4)
+ 386. https://www.ssbwiki.com/Rosalina_&_Luma_(SSBU)
+ 387. https://www.ssbwiki.com/Mario_(universe)
+ 388. https://www.ssbwiki.com/Mario_(universe)
+ 389. https://www.ssbwiki.com/Roy
+ 390. https://www.ssbwiki.com/Roy_(SSBM)
+ 391. https://www.ssbwiki.com/Character#cite_note-brawl-4
+ 392. https://www.ssbwiki.com/Roy_(SSB4)
+ 393. https://www.ssbwiki.com/Roy_(SSBU)
+ 394. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 395. https://www.ssbwiki.com/Fire_Emblem_(universe)
+ 396. https://www.ssbwiki.com/Ryu
+ 397. https://www.ssbwiki.com/Ryu_(SSB4)
+ 398. https://www.ssbwiki.com/Ryu_(SSBU)
+ 399. https://www.ssbwiki.com/Street_Fighter_(universe)
+ 400. https://www.ssbwiki.com/Street_Fighter_(universe)
+ 401. https://www.ssbwiki.com/Samus
+ 402. https://www.ssbwiki.com/Samus_(SSB)
+ 403. https://www.ssbwiki.com/Samus_(SSBM)
+ 404. https://www.ssbwiki.com/Samus_(SSBB)
+ 405. https://www.ssbwiki.com/Samus_(SSB4)
+ 406. https://www.ssbwiki.com/Samus_(SSBU)
+ 407. https://www.ssbwiki.com/Metroid_(universe)
+ 408. https://www.ssbwiki.com/Metroid_(universe)
+ 409. https://www.ssbwiki.com/Sheik
+ 410. https://www.ssbwiki.com/Sheik_(SSBM)
+ 411. https://www.ssbwiki.com/Sheik_(SSBB)
+ 412. https://www.ssbwiki.com/Sheik_(SSB4)
+ 413. https://www.ssbwiki.com/Sheik_(SSBU)
+ 414. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 415. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 416. https://www.ssbwiki.com/Shulk
+ 417. https://www.ssbwiki.com/Shulk_(SSB4)
+ 418. https://www.ssbwiki.com/Shulk_(SSBU)
+ 419. https://www.ssbwiki.com/Xenoblade_(universe)
+ 420. https://www.ssbwiki.com/Xenoblade_(universe)
+ 421. https://www.ssbwiki.com/Simon
+ 422. https://www.ssbwiki.com/Simon_(SSBU)
+ 423. https://www.ssbwiki.com/Castlevania_(universe)
+ 424. https://www.ssbwiki.com/Castlevania_(universe)
+ 425. https://www.ssbwiki.com/Snake
+ 426. https://www.ssbwiki.com/Snake_(SSBB)
+ 427. https://www.ssbwiki.com/Snake_(SSBU)
+ 428. https://www.ssbwiki.com/Metal_Gear_(universe)
+ 429. https://www.ssbwiki.com/Metal_Gear_(universe)
+ 430. https://www.ssbwiki.com/Sonic
+ 431. https://www.ssbwiki.com/Character#cite_note-melee-8
+ 432. https://www.ssbwiki.com/Sonic_(SSBB)
+ 433. https://www.ssbwiki.com/Sonic_(SSB4)
+ 434. https://www.ssbwiki.com/Sonic_(SSBU)
+ 435. https://www.ssbwiki.com/Sonic_(universe)
+ 436. https://www.ssbwiki.com/Sonic_(universe)
+ 437. https://www.ssbwiki.com/Squirtle
+ 438. https://www.ssbwiki.com/Squirtle_(SSBB)
+ 439. https://www.ssbwiki.com/Character#cite_note-pokemon-3
+ 440. https://www.ssbwiki.com/Squirtle_(SSBU)
+ 441. https://www.ssbwiki.com/Character#cite_note-pokemon-3
+ 442. https://www.ssbwiki.com/Pokémon_(universe)
+ 443. https://www.ssbwiki.com/Pokémon_(universe)
+ 444. https://www.ssbwiki.com/Toon_Link
+ 445. https://www.ssbwiki.com/Toon_Link_(SSBB)
+ 446. https://www.ssbwiki.com/Toon_Link_(SSB4)
+ 447. https://www.ssbwiki.com/Toon_Link_(SSBU)
+ 448. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 449. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 450. https://www.ssbwiki.com/Villager
+ 451. https://www.ssbwiki.com/Villager_(SSB4)
+ 452. https://www.ssbwiki.com/Villager_(SSBU)
+ 453. https://www.ssbwiki.com/Animal_Crossing_(universe)
+ 454. https://www.ssbwiki.com/Animal_Crossing_(universe)
+ 455. https://www.ssbwiki.com/Wario
+ 456. https://www.ssbwiki.com/Wario_(SSBB)
+ 457. https://www.ssbwiki.com/Wario_(SSB4)
+ 458. https://www.ssbwiki.com/Wario_(SSBU)
+ 459. https://www.ssbwiki.com/Wario_(universe)
+ 460. https://www.ssbwiki.com/Wario_(universe)
+ 461. https://www.ssbwiki.com/Wii_Fit_Trainer
+ 462. https://www.ssbwiki.com/Wii_Fit_Trainer_(SSB4)
+ 463. https://www.ssbwiki.com/Wii_Fit_Trainer_(SSBU)
+ 464. https://www.ssbwiki.com/Wii_Fit_(universe)
+ 465. https://www.ssbwiki.com/Wii_Fit_(universe)
+ 466. https://www.ssbwiki.com/Wolf
+ 467. https://www.ssbwiki.com/Wolf_(SSBB)
+ 468. https://www.ssbwiki.com/Wolf_(SSBU)
+ 469. https://www.ssbwiki.com/Star_Fox_(universe)
+ 470. https://www.ssbwiki.com/Star_Fox_(universe)
+ 471. https://www.ssbwiki.com/Yoshi
+ 472. https://www.ssbwiki.com/Yoshi_(SSB)
+ 473. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 474. https://www.ssbwiki.com/Yoshi_(SSBB)
+ 475. https://www.ssbwiki.com/Yoshi_(SSB4)
+ 476. https://www.ssbwiki.com/Yoshi_(SSBU)
+ 477. https://www.ssbwiki.com/Yoshi_(universe)
+ 478. https://www.ssbwiki.com/Yoshi_(universe)
+ 479. https://www.ssbwiki.com/Young_Link
+ 480. https://www.ssbwiki.com/Young_Link_(SSBM)
+ 481. https://www.ssbwiki.com/Young_Link_(SSBU)
+ 482. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 483. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 484. https://www.ssbwiki.com/Zelda
+ 485. https://www.ssbwiki.com/Zelda_(SSBM)
+ 486. https://www.ssbwiki.com/Zelda_(SSBB)
+ 487. https://www.ssbwiki.com/Zelda_(SSB4)
+ 488. https://www.ssbwiki.com/Zelda_(SSBU)
+ 489. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 490. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 491. https://www.ssbwiki.com/Zero_Suit_Samus
+ 492. https://www.ssbwiki.com/Zero_Suit_Samus_(SSBB)
+ 493. https://www.ssbwiki.com/Zero_Suit_Samus_(SSB4)
+ 494. https://www.ssbwiki.com/Zero_Suit_Samus_(SSBU)
+ 495. https://www.ssbwiki.com/Metroid_(universe)
+ 496. https://www.ssbwiki.com/Metroid_(universe)
+ 497. https://www.ssbwiki.com/Character#cite_ref-3dsunlockable_1-0
+ 498. https://www.ssbwiki.com/Character#cite_ref-ssb64_2-0
+ 499. https://www.ssbwiki.com/Character#cite_ref-ssb64_2-1
+ 500. https://www.ssbwiki.com/Character#cite_ref-ssb64_2-2
+ 501. https://www.ssbwiki.com/Super_Smash_Bros.
+ 502. http://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/PostResult2.html
+ 503. https://www.ssbwiki.com/Character#cite_ref-pokemon_3-0
+ 504. https://www.ssbwiki.com/Character#cite_ref-pokemon_3-1
+ 505. https://www.ssbwiki.com/Character#cite_ref-pokemon_3-2
+ 506. https://www.ssbwiki.com/Character#cite_ref-pokemon_3-3
+ 507. https://www.ssbwiki.com/Character#cite_ref-pokemon_3-4
+ 508. https://www.ssbwiki.com/Character#cite_ref-pokemon_3-5
+ 509. https://www.ssbwiki.com/Pokémon_Trainer
+ 510. https://www.ssbwiki.com/Character#cite_ref-brawl_4-0
+ 511. https://www.ssbwiki.com/Character#cite_ref-brawl_4-1
+ 512. https://www.ssbwiki.com/Character#cite_ref-brawl_4-2
+ 513. https://www.ssbwiki.com/Beta_elements_(SSBB)#Scrapped_characters
+ 514. https://www.ssbwiki.com/Character#cite_ref-5
+ 515. http://nintendoeverything.com/sakurai-addresses-ice-climbers-absence-in-smash-bros-wii-u3ds-and-more-in-new-famitsu-column/
+ 516. https://www.ssbwiki.com/Character#cite_ref-6
+ 517. http://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/0717/
+ 518. https://www.ssbwiki.com/Character#cite_ref-marth_7-0
+ 519. https://www.ssbwiki.com/Super_Smash_Bros.
+ 520. http://www.sourcegaming.info/2015/12/13/sakurai-fe25/
+ 521. https://www.ssbwiki.com/Character#cite_ref-melee_8-0
+ 522. https://www.ssbwiki.com/File:YujiNakaInterview.jpg
+ 523. https://www.ssbwiki.com/Alternate_costume
+ 524. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 525. https://www.ssbwiki.com/Super_Smash_Bros.
+ 526. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 527. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 528. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 529. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 530. https://www.ssbwiki.com/Olimar
+ 531. https://www.ssbwiki.com/Alph
+ 532. https://www.ssbwiki.com/Olimar_(SSB4)
+ 533. https://www.ssbwiki.com/Olimar_(SSBU)
+ 534. https://www.ssbwiki.com/Pikmin_(universe)
+ 535. https://www.ssbwiki.com/Pikmin_(universe)
+ 536. https://www.ssbwiki.com/Bowser_Jr.
+ 537. https://www.ssbwiki.com/Koopalings#Iggy_Koopa
+ 538. https://www.ssbwiki.com/Bowser_Jr._(SSB4)
+ 539. https://www.ssbwiki.com/Bowser_Jr._(SSBU)
+ 540. https://www.ssbwiki.com/Mario_(universe)
+ 541. https://www.ssbwiki.com/Mario_(universe)
+ 542. https://www.ssbwiki.com/Koopalings#Larry_Koopa
+ 543. https://www.ssbwiki.com/Bowser_Jr._(SSB4)
+ 544. https://www.ssbwiki.com/Bowser_Jr._(SSBU)
+ 545. https://www.ssbwiki.com/Mario_(universe)
+ 546. https://www.ssbwiki.com/Mario_(universe)
+ 547. https://www.ssbwiki.com/Koopalings#Lemmy_Koopa
+ 548. https://www.ssbwiki.com/Bowser_Jr._(SSB4)
+ 549. https://www.ssbwiki.com/Bowser_Jr._(SSBU)
+ 550. https://www.ssbwiki.com/Mario_(universe)
+ 551. https://www.ssbwiki.com/Mario_(universe)
+ 552. https://www.ssbwiki.com/Koopalings#Ludwig_von_Koopa
+ 553. https://www.ssbwiki.com/Bowser_Jr._(SSB4)
+ 554. https://www.ssbwiki.com/Bowser_Jr._(SSBU)
+ 555. https://www.ssbwiki.com/Mario_(universe)
+ 556. https://www.ssbwiki.com/Mario_(universe)
+ 557. https://www.ssbwiki.com/Koopalings#Morton_Koopa_Jr.
+ 558. https://www.ssbwiki.com/Bowser_Jr._(SSB4)
+ 559. https://www.ssbwiki.com/Bowser_Jr._(SSBU)
+ 560. https://www.ssbwiki.com/Mario_(universe)
+ 561. https://www.ssbwiki.com/Mario_(universe)
+ 562. https://www.ssbwiki.com/Koopalings#Roy_Koopa
+ 563. https://www.ssbwiki.com/Bowser_Jr._(SSB4)
+ 564. https://www.ssbwiki.com/Bowser_Jr._(SSBU)
+ 565. https://www.ssbwiki.com/Mario_(universe)
+ 566. https://www.ssbwiki.com/Mario_(universe)
+ 567. https://www.ssbwiki.com/Koopalings#Wendy_O._Koopa
+ 568. https://www.ssbwiki.com/Bowser_Jr._(SSB4)
+ 569. https://www.ssbwiki.com/Bowser_Jr._(SSBU)
+ 570. https://www.ssbwiki.com/Mario_(universe)
+ 571. https://www.ssbwiki.com/Mario_(universe)
+ 572. https://www.ssbwiki.com/Non-playable_character
+ 573. https://www.ssbwiki.com/Super_Smash_Bros.
+ 574. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 575. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 576. https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS
+ 577. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 578. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 579. https://www.ssbwiki.com/Crazy_Hand
+ 580. https://www.ssbwiki.com/File:SmashBrosSymbol.svg
+ 581. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 582. https://www.ssbwiki.com/Dark_Emperor
+ 583. https://www.ssbwiki.com/Character#cite_note-hazard-9
+ 584. https://www.ssbwiki.com/Character#cite_note-hazard-9
+ 585. https://www.ssbwiki.com/Find_Mii_(universe)
+ 586. https://www.ssbwiki.com/Find_Mii_(universe)
+ 587. https://www.ssbwiki.com/Dharkon
+ 588. https://www.ssbwiki.com/File:WorldOfLightSymbol.svg
+ 589. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 590. https://www.ssbwiki.com/Dracula
+ 591. https://www.ssbwiki.com/Castlevania_(universe)
+ 592. https://www.ssbwiki.com/Castlevania_(universe)
+ 593. https://www.ssbwiki.com/Duon
+ 594. https://www.ssbwiki.com/Character#cite_note-sseboss-10
+ 595. https://www.ssbwiki.com/Character#cite_note-spirit-11
+ 596. https://www.ssbwiki.com/File:SubspaceSymbol.svg
+ 597. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 598. https://www.ssbwiki.com/Fighting_Alloy_Team
+ 599. https://www.ssbwiki.com/Character#cite_note-spirit-11
+ 600. https://www.ssbwiki.com/File:SmashBrosSymbol.svg
+ 601. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 602. https://www.ssbwiki.com/Fighting_Polygon_Team
+ 603. https://www.ssbwiki.com/File:SmashBrosSymbol.svg
+ 604. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 605. https://www.ssbwiki.com/Fighting_Wire_Frames
+ 606. https://www.ssbwiki.com/File:SmashBrosSymbol.svg
+ 607. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 608. https://www.ssbwiki.com/Flying_Man
+ 609. https://www.ssbwiki.com/Character#cite_note-dlc-12
+ 610. https://www.ssbwiki.com/Character#cite_note-hazard-9
+ 611. https://www.ssbwiki.com/Character#cite_note-hazard-9
+ 612. https://www.ssbwiki.com/EarthBound_(universe)
+ 613. https://www.ssbwiki.com/EarthBound_(universe)
+ 614. https://www.ssbwiki.com/Galeem
+ 615. https://www.ssbwiki.com/File:WorldOfLightSymbol.svg
+ 616. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 617. https://www.ssbwiki.com/Galleom
+ 618. https://www.ssbwiki.com/Character#cite_note-sseboss-10
+ 619. https://www.ssbwiki.com/File:SubspaceSymbol.svg
+ 620. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 621. https://www.ssbwiki.com/Ganon
+ 622. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 623. https://www.ssbwiki.com/The_Legend_of_Zelda_(universe)
+ 624. https://www.ssbwiki.com/Giant_DK
+ 625. https://www.ssbwiki.com/Character#cite_note-supermushroom-13
+ 626. https://www.ssbwiki.com/Character#cite_note-supermushroom-13
+ 627. https://www.ssbwiki.com/Character#cite_note-supermushroom-13
+ 628. https://www.ssbwiki.com/Character#cite_note-supermushroom-13
+ 629. https://www.ssbwiki.com/File:DKSymbol.svg
+ 630. https://www.ssbwiki.com/Donkey_Kong_(universe)
+ 631. https://www.ssbwiki.com/Giga_Bowser
+ 632. https://www.ssbwiki.com/Character#cite_note-finalsmash-14
+ 633. https://www.ssbwiki.com/Character#cite_note-finalsmash-14
+ 634. https://www.ssbwiki.com/Character#cite_note-15
+ 635. https://www.ssbwiki.com/File:SmashBrosSymbol.svg
+ 636. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 637. https://www.ssbwiki.com/Master_Core
+ 638. https://www.ssbwiki.com/Character#cite_note-spirit-11
+ 639. https://www.ssbwiki.com/File:SmashBrosSymbol.svg
+ 640. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 641. https://www.ssbwiki.com/Master_Hand
+ 642. https://www.ssbwiki.com/Character#cite_note-worldlightboss-16
+ 643. https://www.ssbwiki.com/File:SmashBrosSymbol.svg
+ 644. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 645. https://www.ssbwiki.com/Marx
+ 646. https://www.ssbwiki.com/Kirby_(universe)
+ 647. https://www.ssbwiki.com/Kirby_(universe)
+ 648. https://www.ssbwiki.com/Meta_Ridley
+ 649. https://www.ssbwiki.com/Character#cite_note-sseboss-10
+ 650. https://www.ssbwiki.com/Character#cite_note-hazard-9
+ 651. https://www.ssbwiki.com/Character#cite_note-17
+ 652. https://www.ssbwiki.com/File:MetroidSymbol.svg
+ 653. https://www.ssbwiki.com/Metroid_(universe)
+ 654. https://www.ssbwiki.com/Metal_Face
+ 655. https://www.ssbwiki.com/Character#cite_note-hazard-9
+ 656. https://www.ssbwiki.com/Character#cite_note-hazard-9
+ 657. https://www.ssbwiki.com/Xenoblade_(universe)
+ 658. https://www.ssbwiki.com/Xenoblade_(universe)
+ 659. https://www.ssbwiki.com/Metal_Mario
+ 660. https://www.ssbwiki.com/Character#cite_note-metalbox-18
+ 661. https://www.ssbwiki.com/Character#cite_note-metalbox-18
+ 662. https://www.ssbwiki.com/Character#cite_note-metalbox-18
+ 663. https://www.ssbwiki.com/Character#cite_note-metalbox-18
+ 664. https://www.ssbwiki.com/File:MarioSymbol.svg
+ 665. https://www.ssbwiki.com/Mario_(universe)
+ 666. https://www.ssbwiki.com/Nabbit
+ 667. https://www.ssbwiki.com/Character#cite_note-hazard-9
+ 668. https://www.ssbwiki.com/Character#cite_note-hazard-9
+ 669. https://www.ssbwiki.com/File:MarioSymbol.svg
+ 670. https://www.ssbwiki.com/Mario_(universe)
+ 671. https://www.ssbwiki.com/Petey_Piranha
+ 672. https://www.ssbwiki.com/Character#cite_note-sseboss-10
+ 673. https://www.ssbwiki.com/Character#cite_note-19
+ 674. https://www.ssbwiki.com/File:MarioSymbol.svg
+ 675. https://www.ssbwiki.com/Mario_(universe)
+ 676. https://www.ssbwiki.com/Porky_Minch
+ 677. https://www.ssbwiki.com/Character#cite_note-sseboss-10
+ 678. https://www.ssbwiki.com/File:EarthboundSymbol.svg
+ 679. https://www.ssbwiki.com/EarthBound_(universe)
+ 680. https://www.ssbwiki.com/Rathalos
+ 681. https://www.ssbwiki.com/Character#cite_note-20
+ 682. https://www.ssbwiki.com/Monster_Hunter_(universe)
+ 683. https://www.ssbwiki.com/Rayquaza
+ 684. https://www.ssbwiki.com/Character#cite_note-sseboss-10
+ 685. https://www.ssbwiki.com/Character#cite_note-hazard-9
+ 686. https://www.ssbwiki.com/Character#cite_note-hazard-9
+ 687. https://www.ssbwiki.com/File:PokemonSymbol.svg
+ 688. https://www.ssbwiki.com/Pokémon_(universe)
+ 689. https://www.ssbwiki.com/Ridley
+ 690. https://www.ssbwiki.com/Character#cite_note-sseboss-10
+ 691. https://www.ssbwiki.com/Character#cite_note-hazard-9
+ 692. https://www.ssbwiki.com/Character#cite_note-21
+ 693. https://www.ssbwiki.com/File:MetroidSymbol.svg
+ 694. https://www.ssbwiki.com/Metroid_(universe)
+ 695. https://www.ssbwiki.com/Sandbag
+ 696. https://www.ssbwiki.com/Character#cite_note-sandbag-22
+ 697. https://www.ssbwiki.com/Character#cite_note-sandbag-22
+ 698. https://www.ssbwiki.com/Character#cite_note-sandbag-22
+ 699. https://www.ssbwiki.com/File:SmashBrosSymbol.svg
+ 700. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 701. https://www.ssbwiki.com/Tabuu
+ 702. https://www.ssbwiki.com/Character#cite_note-sseboss-10
+ 703. https://www.ssbwiki.com/Character#cite_note-spirit-11
+ 704. https://www.ssbwiki.com/File:SubspaceSymbol.svg
+ 705. https://www.ssbwiki.com/Super_Smash_Bros._(universe)
+ 706. https://www.ssbwiki.com/Yellow_Devil
+ 707. https://www.ssbwiki.com/Character#cite_note-hazard-9
+ 708. https://www.ssbwiki.com/Character#cite_note-hazard-9
+ 709. https://www.ssbwiki.com/Mega_Man_(universe)
+ 710. https://www.ssbwiki.com/Mega_Man_(universe)
+ 711. https://www.ssbwiki.com/Character#cite_ref-hazard_9-0
+ 712. https://www.ssbwiki.com/Character#cite_ref-hazard_9-1
+ 713. https://www.ssbwiki.com/Character#cite_ref-hazard_9-2
+ 714. https://www.ssbwiki.com/Character#cite_ref-hazard_9-3
+ 715. https://www.ssbwiki.com/Character#cite_ref-hazard_9-4
+ 716. https://www.ssbwiki.com/Character#cite_ref-hazard_9-5
+ 717. https://www.ssbwiki.com/Character#cite_ref-hazard_9-6
+ 718. https://www.ssbwiki.com/Character#cite_ref-hazard_9-7
+ 719. https://www.ssbwiki.com/Character#cite_ref-hazard_9-8
+ 720. https://www.ssbwiki.com/Character#cite_ref-hazard_9-9
+ 721. https://www.ssbwiki.com/Character#cite_ref-hazard_9-10
+ 722. https://www.ssbwiki.com/Character#cite_ref-hazard_9-11
+ 723. https://www.ssbwiki.com/Character#cite_ref-hazard_9-12
+ 724. https://www.ssbwiki.com/Character#cite_ref-hazard_9-13
+ 725. https://www.ssbwiki.com/Character#cite_ref-sseboss_10-0
+ 726. https://www.ssbwiki.com/Character#cite_ref-sseboss_10-1
+ 727. https://www.ssbwiki.com/Character#cite_ref-sseboss_10-2
+ 728. https://www.ssbwiki.com/Character#cite_ref-sseboss_10-3
+ 729. https://www.ssbwiki.com/Character#cite_ref-sseboss_10-4
+ 730. https://www.ssbwiki.com/Character#cite_ref-sseboss_10-5
+ 731. https://www.ssbwiki.com/Character#cite_ref-sseboss_10-6
+ 732. https://www.ssbwiki.com/Character#cite_ref-sseboss_10-7
+ 733. https://www.ssbwiki.com/Character#cite_ref-spirit_11-0
+ 734. https://www.ssbwiki.com/Character#cite_ref-spirit_11-1
+ 735. https://www.ssbwiki.com/Character#cite_ref-spirit_11-2
+ 736. https://www.ssbwiki.com/Character#cite_ref-spirit_11-3
+ 737. https://www.ssbwiki.com/Character#cite_ref-dlc_12-0
+ 738. https://www.ssbwiki.com/Mii_Fighter_(SSB4)
+ 739. https://www.ssbwiki.com/Downloadable_content
+ 740. https://www.ssbwiki.com/Character#cite_ref-supermushroom_13-0
+ 741. https://www.ssbwiki.com/Character#cite_ref-supermushroom_13-1
+ 742. https://www.ssbwiki.com/Character#cite_ref-supermushroom_13-2
+ 743. https://www.ssbwiki.com/Character#cite_ref-supermushroom_13-3
+ 744. https://www.ssbwiki.com/Super_Mushroom
+ 745. https://www.ssbwiki.com/Character#cite_ref-finalsmash_14-0
+ 746. https://www.ssbwiki.com/Character#cite_ref-finalsmash_14-1
+ 747. https://www.ssbwiki.com/Character#cite_ref-15
+ 748. https://www.ssbwiki.com/Classic_Mode
+ 749. https://www.ssbwiki.com/Character#cite_ref-worldlightboss_16-0
+ 750. https://www.ssbwiki.com/World_of_Light
+ 751. https://www.ssbwiki.com/Character#cite_ref-17
+ 752. https://www.ssbwiki.com/Character#cite_ref-metalbox_18-0
+ 753. https://www.ssbwiki.com/Character#cite_ref-metalbox_18-1
+ 754. https://www.ssbwiki.com/Character#cite_ref-metalbox_18-2
+ 755. https://www.ssbwiki.com/Character#cite_ref-metalbox_18-3
+ 756. https://www.ssbwiki.com/Metal_Box
+ 757. https://www.ssbwiki.com/Character#cite_ref-19
+ 758. https://www.ssbwiki.com/Character#cite_ref-20
+ 759. https://www.ssbwiki.com/Assist_Trophy
+ 760. https://www.ssbwiki.com/Character#cite_ref-21
+ 761. https://www.ssbwiki.com/Character#Playable_characters
+ 762. https://www.ssbwiki.com/Character#cite_ref-sandbag_22-0
+ 763. https://www.ssbwiki.com/Character#cite_ref-sandbag_22-1
+ 764. https://www.ssbwiki.com/Character#cite_ref-sandbag_22-2
+ 765. https://www.ssbwiki.com/Unlockable_character
+ 766. https://www.ssbwiki.com/Super_Smash_Bros.
+ 767. https://www.ssbwiki.com/Erase_Data
+ 768. https://www.ssbwiki.com/Menu
+ 769. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 770. https://www.ssbwiki.com/Smash_Bros._DOJO!!
+ 771. https://www.ssbwiki.com/Starter_character
+ 772. https://www.ssbwiki.com/Super_Smash_Bros.
+ 773. https://www.ssbwiki.com/Event_10:_All-Star_Battle_Regulars
+ 774. https://www.ssbwiki.com/Mario
+ 775. https://www.ssbwiki.com/Donkey_Kong
+ 776. https://www.ssbwiki.com/Link
+ 777. https://www.ssbwiki.com/Samus
+ 778. https://www.ssbwiki.com/Yoshi
+ 779. https://www.ssbwiki.com/Kirby
+ 780. https://www.ssbwiki.com/Fox
+ 781. https://www.ssbwiki.com/Pikachu
+ 782. https://www.ssbwiki.com/Luigi
+ 783. https://www.ssbwiki.com/Captain_Falcon
+ 784. https://www.ssbwiki.com/Ness
+ 785. https://www.ssbwiki.com/Jigglypuff
+ 786. https://www.ssbwiki.com/Super_Smash_Bros._for_Wii_U
+ 787. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 788. https://www.ssbwiki.com/Roy
+ 789. https://fireemblemwiki.org/wiki/Fire_Emblem:_The_Binding_Blade
+ 790. https://www.ssbwiki.com/Masahiro_Sakurai
+ 791. https://www.ssbwiki.com/Character#cite_note-23
+ 792. https://www.ssbwiki.com/Captain_Falcon_(SSB)
+ 793. https://www.ssbwiki.com/Mii_Fighter_(SSB4)
+ 794. https://www.ssbwiki.com/Pac-Man_(SSBU)
+ 795. https://www.ssbwiki.com/Lucina
+ 796. https://www.ssbwiki.com/Robin
+ 797. https://www.ssbwiki.com/Corrin
+ 798. https://www.ssbwiki.com/Mii_Swordfighter
+ 799. https://www.ssbwiki.com/Koopalings
+ 800. https://www.ssbwiki.com/Wario
+ 801. https://www.ssbwiki.com/Yoshi
+ 802. https://www.ssbwiki.com/Captain_Falcon
+ 803. https://www.ssbwiki.com/Metal_Gear_(universe)
+ 804. https://www.ssbwiki.com/Ice_Climber_(universe)
+ 805. https://www.ssbwiki.com/Samus
+ 806. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 807. https://www.ssbwiki.com/Final_Smashes
+ 808. https://www.ssbwiki.com/Lucas
+ 809. https://www.ssbwiki.com/Mewtwo
+ 810. https://www.ssbwiki.com/Roy
+ 811. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 812. https://www.ssbwiki.com/Charizard
+ 813. https://www.ssbwiki.com/Little_Mac
+ 814. https://www.ssbwiki.com/Ridley
+ 815. https://www.ssbwiki.com/Dark_Samus
+ 816. https://www.ssbwiki.com/Isabelle
+ 817. https://www.ssbwiki.com/Metal_Mario
+ 818. https://www.ssbwiki.com/Giant_Donkey_Kong
+ 819. https://www.ssbwiki.com/Giga_Bowser
+ 820. https://www.ssbwiki.com/Meta_Knight
+ 821. https://www.ssbwiki.com/Pit
+ 822. https://www.ssbwiki.com/Wario
+ 823. https://www.ssbwiki.com/Squirtle
+ 824. https://www.ssbwiki.com/King_Dedede
+ 825. https://www.ssbwiki.com/Olimar
+ 826. https://www.ssbwiki.com/Villager
+ 827. https://www.ssbwiki.com/Palutena
+ 828. https://www.ssbwiki.com/Bowser_Jr.
+ 829. https://www.ssbwiki.com/Koopalings#Ludwig_von_Koopa
+ 830. https://www.ssbwiki.com/Koopalings
+ 831. https://www.ssbwiki.com/Duck_Hunt
+ 832. https://www.ssbwiki.com/Inkling
+ 833. https://www.ssbwiki.com/Daisy
+ 834. https://www.ssbwiki.com/Chrom
+ 835. https://www.ssbwiki.com/King_K._Rool
+ 836. https://www.ssbwiki.com/Ken
+ 837. https://www.ssbwiki.com/Piranha_Plant
+ 838. https://www.ssbwiki.com/Trophies
+ 839. https://www.ssbwiki.com/Stickers
+ 840. https://www.ssbwiki.com/Mii_Fighter
+ 841. https://www.ssbwiki.com/Stages
+ 842. https://www.ssbwiki.com/Final_Smashes
+ 843. https://www.ssbwiki.com/Character#cite_ref-23
+ 844. https://sourcegaming.info/2015/12/13/sakurai-fe25/
+ 845. https://www.ssbwiki.com/Template:Characters
+ 846. https://www.ssbwiki.com/Template_talk:Characters
+ 847. https://www.ssbwiki.com/index.php?title=Template:Characters&action=edit
+ 848. https://www.ssbwiki.com/Character
+ 849. https://www.ssbwiki.com/Super_Smash_Bros._(series)
+ 850. https://www.ssbwiki.com/Super_Smash_Bros.
+ 851. https://www.ssbwiki.com/Captain_Falcon
+ 852. https://www.ssbwiki.com/Donkey_Kong
+ 853. https://www.ssbwiki.com/Fox_McCloud
+ 854. https://www.ssbwiki.com/Jigglypuff
+ 855. https://www.ssbwiki.com/Kirby
+ 856. https://www.ssbwiki.com/Link
+ 857. https://www.ssbwiki.com/Luigi
+ 858. https://www.ssbwiki.com/Mario
+ 859. https://www.ssbwiki.com/Ness
+ 860. https://www.ssbwiki.com/Pikachu
+ 861. https://www.ssbwiki.com/Samus_Aran
+ 862. https://www.ssbwiki.com/Yoshi
+ 863. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 864. https://www.ssbwiki.com/Bowser
+ 865. https://www.ssbwiki.com/Dr._Mario
+ 866. https://www.ssbwiki.com/Falco_Lombardi
+ 867. https://www.ssbwiki.com/Ganondorf
+ 868. https://www.ssbwiki.com/Ice_Climbers
+ 869. https://www.ssbwiki.com/Marth
+ 870. https://www.ssbwiki.com/Mewtwo
+ 871. https://www.ssbwiki.com/Mr._Game_&_Watch
+ 872. https://www.ssbwiki.com/Princess_Peach
+ 873. https://www.ssbwiki.com/Pichu
+ 874. https://www.ssbwiki.com/Roy
+ 875. https://www.ssbwiki.com/Sheik
+ 876. https://www.ssbwiki.com/Young_Link
+ 877. https://www.ssbwiki.com/Princess_Zelda
+ 878. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 879. https://www.ssbwiki.com/Diddy_Kong
+ 880. https://www.ssbwiki.com/Ike
+ 881. https://www.ssbwiki.com/King_Dedede
+ 882. https://www.ssbwiki.com/Lucario
+ 883. https://www.ssbwiki.com/Lucas
+ 884. https://www.ssbwiki.com/Meta_Knight
+ 885. https://www.ssbwiki.com/Captain_Olimar
+ 886. https://www.ssbwiki.com/Pikmin_(species)
+ 887. https://www.ssbwiki.com/Pit
+ 888. https://www.ssbwiki.com/Pokémon_Trainer
+ 889. https://www.ssbwiki.com/Squirtle
+ 890. https://www.ssbwiki.com/Ivysaur
+ 891. https://www.ssbwiki.com/Charizard
+ 892. https://www.ssbwiki.com/R.O.B.
+ 893. https://www.ssbwiki.com/Solid_Snake
+ 894. https://www.ssbwiki.com/Sonic_the_Hedgehog
+ 895. https://www.ssbwiki.com/Toon_Link
+ 896. https://www.ssbwiki.com/Wario
+ 897. https://www.ssbwiki.com/Wolf_O'Donnell
+ 898. https://www.ssbwiki.com/Zero_Suit_Samus
+ 899. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 900. https://www.ssbwiki.com/Alph
+ 901. https://www.ssbwiki.com/Bayonetta
+ 902. https://www.ssbwiki.com/Bowser_Jr.
+ 903. https://www.ssbwiki.com/Koopalings
+ 904. https://www.ssbwiki.com/Cloud_Strife
+ 905. https://www.ssbwiki.com/Corrin
+ 906. https://www.ssbwiki.com/Dark_Pit
+ 907. https://www.ssbwiki.com/Duck_Hunt
+ 908. https://www.ssbwiki.com/Greninja
+ 909. https://www.ssbwiki.com/Little_Mac
+ 910. https://www.ssbwiki.com/Lucina
+ 911. https://www.ssbwiki.com/Mega_Man
+ 912. https://www.ssbwiki.com/Mii
+ 913. https://www.ssbwiki.com/Mii
+ 914. https://www.ssbwiki.com/Mii
+ 915. https://www.ssbwiki.com/Pac-Man
+ 916. https://www.ssbwiki.com/Palutena
+ 917. https://www.ssbwiki.com/Robin
+ 918. https://www.ssbwiki.com/Rosalina
+ 919. https://www.ssbwiki.com/Luma
+ 920. https://www.ssbwiki.com/Ryu
+ 921. https://www.ssbwiki.com/Shulk
+ 922. https://www.ssbwiki.com/Villager
+ 923. https://www.ssbwiki.com/Wii_Fit_Trainer
+ 924. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 925. https://www.ssbwiki.com/Chrom
+ 926. https://www.ssbwiki.com/Princess_Daisy
+ 927. https://www.ssbwiki.com/Dark_Samus
+ 928. https://www.ssbwiki.com/Incineroar
+ 929. https://www.ssbwiki.com/Inkling
+ 930. https://www.ssbwiki.com/Isabelle
+ 931. https://www.ssbwiki.com/Joker
+ 932. https://www.ssbwiki.com/Ken_Masters
+ 933. https://www.ssbwiki.com/King_K._Rool
+ 934. https://www.ssbwiki.com/Piranha_Plant
+ 935. https://www.ssbwiki.com/Richter_Belmont
+ 936. https://www.ssbwiki.com/Ridley
+ 937. https://www.ssbwiki.com/Simon_Belmont
+ 938. https://www.ssbwiki.com/Template:SSBCharacters
+ 939. https://www.ssbwiki.com/Template_talk:SSBCharacters
+ 940. https://www.ssbwiki.com/index.php?title=Template:SSBCharacters&action=edit
+ 941. https://www.ssbwiki.com/Characters
+ 942. https://www.ssbwiki.com/Super_Smash_Bros.
+ 943. https://www.ssbwiki.com/Character
+ 944. https://www.ssbwiki.com/Captain_Falcon_(SSB)
+ 945. https://www.ssbwiki.com/Donkey_Kong_(SSB)
+ 946. https://www.ssbwiki.com/Fox_(SSB)
+ 947. https://www.ssbwiki.com/Jigglypuff_(SSB)
+ 948. https://www.ssbwiki.com/Kirby_(SSB)
+ 949. https://www.ssbwiki.com/Link_(SSB)
+ 950. https://www.ssbwiki.com/Luigi_(SSB)
+ 951. https://www.ssbwiki.com/Mario_(SSB)
+ 952. https://www.ssbwiki.com/Ness_(SSB)
+ 953. https://www.ssbwiki.com/Pikachu_(SSB)
+ 954. https://www.ssbwiki.com/Samus_(SSB)
+ 955. https://www.ssbwiki.com/Yoshi_(SSB)
+ 956. https://www.ssbwiki.com/Template:SSBMCharacters
+ 957. https://www.ssbwiki.com/Template_talk:SSBMCharacters
+ 958. https://www.ssbwiki.com/index.php?title=Template:SSBMCharacters&action=edit
+ 959. https://www.ssbwiki.com/Characters
+ 960. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 961. https://www.ssbwiki.com/Veteran
+ 962. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 963. https://www.ssbwiki.com/Donkey_Kong_(SSBM)
+ 964. https://www.ssbwiki.com/Fox_(SSBM)
+ 965. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 966. https://www.ssbwiki.com/Kirby_(SSBM)
+ 967. https://www.ssbwiki.com/Link_(SSBM)
+ 968. https://www.ssbwiki.com/Luigi_(SSBM)
+ 969. https://www.ssbwiki.com/Mario_(SSBM)
+ 970. https://www.ssbwiki.com/Ness_(SSBM)
+ 971. https://www.ssbwiki.com/Pikachu_(SSBM)
+ 972. https://www.ssbwiki.com/Samus_(SSBM)
+ 973. https://www.ssbwiki.com/Yoshi_(SSBM)
+ 974. https://www.ssbwiki.com/Newcomer
+ 975. https://www.ssbwiki.com/Bowser_(SSBM)
+ 976. https://www.ssbwiki.com/Dr._Mario_(SSBM)
+ 977. https://www.ssbwiki.com/Falco_(SSBM)
+ 978. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 979. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 980. https://www.ssbwiki.com/Marth_(SSBM)
+ 981. https://www.ssbwiki.com/Mewtwo_(SSBM)
+ 982. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSBM)
+ 983. https://www.ssbwiki.com/Peach_(SSBM)
+ 984. https://www.ssbwiki.com/Pichu_(SSBM)
+ 985. https://www.ssbwiki.com/Roy_(SSBM)
+ 986. https://www.ssbwiki.com/Young_Link_(SSBM)
+ 987. https://www.ssbwiki.com/Zelda_(SSBM)
+ 988. https://www.ssbwiki.com/Sheik_(SSBM)
+ 989. https://www.ssbwiki.com/Template:SSBBCharacters
+ 990. https://www.ssbwiki.com/Template_talk:SSBBCharacters
+ 991. https://www.ssbwiki.com/index.php?title=Template:SSBBCharacters&action=edit
+ 992. https://www.ssbwiki.com/Characters
+ 993. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 994. https://www.ssbwiki.com/Veteran
+ 995. https://www.ssbwiki.com/Bowser_(SSBB)
+ 996. https://www.ssbwiki.com/Captain_Falcon_(SSBB)
+ 997. https://www.ssbwiki.com/Donkey_Kong_(SSBB)
+ 998. https://www.ssbwiki.com/Falco_(SSBB)
+ 999. https://www.ssbwiki.com/Fox_(SSBB)
+1000. https://www.ssbwiki.com/Ganondorf_(SSBB)
+1001. https://www.ssbwiki.com/Ice_Climbers_(SSBB)
+1002. https://www.ssbwiki.com/Jigglypuff_(SSBB)
+1003. https://www.ssbwiki.com/Kirby_(SSBB)
+1004. https://www.ssbwiki.com/Link_(SSBB)
+1005. https://www.ssbwiki.com/Luigi_(SSBB)
+1006. https://www.ssbwiki.com/Mario_(SSBB)
+1007. https://www.ssbwiki.com/Marth_(SSBB)
+1008. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSBB)
+1009. https://www.ssbwiki.com/Ness_(SSBB)
+1010. https://www.ssbwiki.com/Peach_(SSBB)
+1011. https://www.ssbwiki.com/Pikachu_(SSBB)
+1012. https://www.ssbwiki.com/Samus_(SSBB)
+1013. https://www.ssbwiki.com/Yoshi_(SSBB)
+1014. https://www.ssbwiki.com/Zelda_(SSBB)
+1015. https://www.ssbwiki.com/Sheik_(SSBB)
+1016. https://www.ssbwiki.com/Newcomer
+1017. https://www.ssbwiki.com/Diddy_Kong_(SSBB)
+1018. https://www.ssbwiki.com/Ike_(SSBB)
+1019. https://www.ssbwiki.com/King_Dedede_(SSBB)
+1020. https://www.ssbwiki.com/Lucario_(SSBB)
+1021. https://www.ssbwiki.com/Lucas_(SSBB)
+1022. https://www.ssbwiki.com/Meta_Knight_(SSBB)
+1023. https://www.ssbwiki.com/Olimar_(SSBB)
+1024. https://www.ssbwiki.com/Pit_(SSBB)
+1025. https://www.ssbwiki.com/Pokémon_Trainer_(SSBB)
+1026. https://www.ssbwiki.com/Charizard_(SSBB)
+1027. https://www.ssbwiki.com/Ivysaur_(SSBB)
+1028. https://www.ssbwiki.com/Squirtle_(SSBB)
+1029. https://www.ssbwiki.com/R.O.B._(SSBB)
+1030. https://www.ssbwiki.com/Snake_(SSBB)
+1031. https://www.ssbwiki.com/Sonic_(SSBB)
+1032. https://www.ssbwiki.com/Toon_Link_(SSBB)
+1033. https://www.ssbwiki.com/Wario_(SSBB)
+1034. https://www.ssbwiki.com/Wolf_(SSBB)
+1035. https://www.ssbwiki.com/Zero_Suit_Samus_(SSBB)
+1036. https://www.ssbwiki.com/Template:SSB4Characters
+1037. https://www.ssbwiki.com/Template_talk:SSB4Characters
+1038. https://www.ssbwiki.com/index.php?title=Template:SSB4Characters&action=edit
+1039. https://www.ssbwiki.com/Characters
+1040. https://www.ssbwiki.com/Super_Smash_Bros._4
+1041. https://www.ssbwiki.com/Veteran
+1042. https://www.ssbwiki.com/Bowser_(SSB4)
+1043. https://www.ssbwiki.com/Captain_Falcon_(SSB4)
+1044. https://www.ssbwiki.com/Charizard_(SSB4)
+1045. https://www.ssbwiki.com/Diddy_Kong_(SSB4)
+1046. https://www.ssbwiki.com/Donkey_Kong_(SSB4)
+1047. https://www.ssbwiki.com/Dr._Mario_(SSB4)
+1048. https://www.ssbwiki.com/Falco_(SSB4)
+1049. https://www.ssbwiki.com/Fox_(SSB4)
+1050. https://www.ssbwiki.com/Ganondorf_(SSB4)
+1051. https://www.ssbwiki.com/Ike_(SSB4)
+1052. https://www.ssbwiki.com/Jigglypuff_(SSB4)
+1053. https://www.ssbwiki.com/King_Dedede_(SSB4)
+1054. https://www.ssbwiki.com/Kirby_(SSB4)
+1055. https://www.ssbwiki.com/Link_(SSB4)
+1056. https://www.ssbwiki.com/Lucario_(SSB4)
+1057. https://www.ssbwiki.com/Lucas_(SSB4)
+1058. https://www.ssbwiki.com/Luigi_(SSB4)
+1059. https://www.ssbwiki.com/Mario_(SSB4)
+1060. https://www.ssbwiki.com/Marth_(SSB4)
+1061. https://www.ssbwiki.com/Meta_Knight_(SSB4)
+1062. https://www.ssbwiki.com/Mewtwo_(SSB4)
+1063. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSB4)
+1064. https://www.ssbwiki.com/Ness_(SSB4)
+1065. https://www.ssbwiki.com/Olimar_(SSB4)
+1066. https://www.ssbwiki.com/Peach_(SSB4)
+1067. https://www.ssbwiki.com/Pikachu_(SSB4)
+1068. https://www.ssbwiki.com/Pit_(SSB4)
+1069. https://www.ssbwiki.com/R.O.B._(SSB4)
+1070. https://www.ssbwiki.com/Roy_(SSB4)
+1071. https://www.ssbwiki.com/Samus_(SSB4)
+1072. https://www.ssbwiki.com/Sheik_(SSB4)
+1073. https://www.ssbwiki.com/Sonic_(SSB4)
+1074. https://www.ssbwiki.com/Toon_Link_(SSB4)
+1075. https://www.ssbwiki.com/Wario_(SSB4)
+1076. https://www.ssbwiki.com/Yoshi_(SSB4)
+1077. https://www.ssbwiki.com/Zelda_(SSB4)
+1078. https://www.ssbwiki.com/Zero_Suit_Samus_(SSB4)
+1079. https://www.ssbwiki.com/Newcomer
+1080. https://www.ssbwiki.com/Bayonetta_(SSB4)
+1081. https://www.ssbwiki.com/Bowser_Jr._(SSB4)
+1082. https://www.ssbwiki.com/Cloud_(SSB4)
+1083. https://www.ssbwiki.com/Corrin_(SSB4)
+1084. https://www.ssbwiki.com/Dark_Pit_(SSB4)
+1085. https://www.ssbwiki.com/Duck_Hunt_(SSB4)
+1086. https://www.ssbwiki.com/Greninja_(SSB4)
+1087. https://www.ssbwiki.com/Little_Mac_(SSB4)
+1088. https://www.ssbwiki.com/Lucina_(SSB4)
+1089. https://www.ssbwiki.com/Mega_Man_(SSB4)
+1090. https://www.ssbwiki.com/Mii_Brawler_(SSB4)
+1091. https://www.ssbwiki.com/Mii_Gunner_(SSB4)
+1092. https://www.ssbwiki.com/Mii_Swordfighter_(SSB4)
+1093. https://www.ssbwiki.com/Pac-Man_(SSB4)
+1094. https://www.ssbwiki.com/Palutena_(SSB4)
+1095. https://www.ssbwiki.com/Robin_(SSB4)
+1096. https://www.ssbwiki.com/Rosalina_&_Luma_(SSB4)
+1097. https://www.ssbwiki.com/Ryu_(SSB4)
+1098. https://www.ssbwiki.com/Shulk_(SSB4)
+1099. https://www.ssbwiki.com/Villager_(SSB4)
+1100. https://www.ssbwiki.com/Wii_Fit_Trainer_(SSB4)
+1101. https://www.ssbwiki.com/Template:SSBUCharacters
+1102. https://www.ssbwiki.com/Template_talk:SSBUCharacters
+1103. https://www.ssbwiki.com/index.php?title=Template:SSBUCharacters&action=edit
+1104. https://www.ssbwiki.com/Characters
+1105. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+1106. https://www.ssbwiki.com/Veteran
+1107. https://www.ssbwiki.com/Bayonetta_(SSBU)
+1108. https://www.ssbwiki.com/Bowser_(SSBU)
+1109. https://www.ssbwiki.com/Bowser_Jr._(SSBU)
+1110. https://www.ssbwiki.com/Captain_Falcon_(SSBU)
+1111. https://www.ssbwiki.com/Cloud_(SSBU)
+1112. https://www.ssbwiki.com/Corrin_(SSBU)
+1113. https://www.ssbwiki.com/Dark_Pit_(SSBU)
+1114. https://www.ssbwiki.com/Diddy_Kong_(SSBU)
+1115. https://www.ssbwiki.com/Donkey_Kong_(SSBU)
+1116. https://www.ssbwiki.com/Dr._Mario_(SSBU)
+1117. https://www.ssbwiki.com/Duck_Hunt_(SSBU)
+1118. https://www.ssbwiki.com/Falco_(SSBU)
+1119. https://www.ssbwiki.com/Fox_(SSBU)
+1120. https://www.ssbwiki.com/Ganondorf_(SSBU)
+1121. https://www.ssbwiki.com/Greninja_(SSBU)
+1122. https://www.ssbwiki.com/Ice_Climbers_(SSBU)
+1123. https://www.ssbwiki.com/Ike_(SSBU)
+1124. https://www.ssbwiki.com/Jigglypuff_(SSBU)
+1125. https://www.ssbwiki.com/King_Dedede_(SSBU)
+1126. https://www.ssbwiki.com/Kirby_(SSBU)
+1127. https://www.ssbwiki.com/Link_(SSBU)
+1128. https://www.ssbwiki.com/Little_Mac_(SSBU)
+1129. https://www.ssbwiki.com/Lucario_(SSBU)
+1130. https://www.ssbwiki.com/Lucas_(SSBU)
+1131. https://www.ssbwiki.com/Lucina_(SSBU)
+1132. https://www.ssbwiki.com/Luigi_(SSBU)
+1133. https://www.ssbwiki.com/Mario_(SSBU)
+1134. https://www.ssbwiki.com/Marth_(SSBU)
+1135. https://www.ssbwiki.com/Mega_Man_(SSBU)
+1136. https://www.ssbwiki.com/Meta_Knight_(SSBU)
+1137. https://www.ssbwiki.com/Mewtwo_(SSBU)
+1138. https://www.ssbwiki.com/Mii_Fighter_(SSBU)
+1139. https://www.ssbwiki.com/Mii_Brawler_(SSBU)
+1140. https://www.ssbwiki.com/Mii_Gunner_(SSBU)
+1141. https://www.ssbwiki.com/Mii_Swordfighter_(SSBU)
+1142. https://www.ssbwiki.com/Mr._Game_&_Watch_(SSBU)
+1143. https://www.ssbwiki.com/Ness_(SSBU)
+1144. https://www.ssbwiki.com/Olimar_(SSBU)
+1145. https://www.ssbwiki.com/Pac-Man_(SSBU)
+1146. https://www.ssbwiki.com/Palutena_(SSBU)
+1147. https://www.ssbwiki.com/Peach_(SSBU)
+1148. https://www.ssbwiki.com/Pichu_(SSBU)
+1149. https://www.ssbwiki.com/Pikachu_(SSBU)
+1150. https://www.ssbwiki.com/Pit_(SSBU)
+1151. https://www.ssbwiki.com/Pokémon_Trainer_(SSBU)
+1152. https://www.ssbwiki.com/Squirtle_(SSBU)
+1153. https://www.ssbwiki.com/Ivysaur_(SSBU)
+1154. https://www.ssbwiki.com/Charizard_(SSBU)
+1155. https://www.ssbwiki.com/R.O.B._(SSBU)
+1156. https://www.ssbwiki.com/Robin_(SSBU)
+1157. https://www.ssbwiki.com/Rosalina_&_Luma_(SSBU)
+1158. https://www.ssbwiki.com/Roy_(SSBU)
+1159. https://www.ssbwiki.com/Ryu_(SSBU)
+1160. https://www.ssbwiki.com/Samus_(SSBU)
+1161. https://www.ssbwiki.com/Sheik_(SSBU)
+1162. https://www.ssbwiki.com/Shulk_(SSBU)
+1163. https://www.ssbwiki.com/Snake_(SSBU)
+1164. https://www.ssbwiki.com/Sonic_(SSBU)
+1165. https://www.ssbwiki.com/Toon_Link_(SSBU)
+1166. https://www.ssbwiki.com/Villager_(SSBU)
+1167. https://www.ssbwiki.com/Wario_(SSBU)
+1168. https://www.ssbwiki.com/Wii_Fit_Trainer_(SSBU)
+1169. https://www.ssbwiki.com/Wolf_(SSBU)
+1170. https://www.ssbwiki.com/Yoshi_(SSBU)
+1171. https://www.ssbwiki.com/Young_Link_(SSBU)
+1172. https://www.ssbwiki.com/Zelda_(SSBU)
+1173. https://www.ssbwiki.com/Zero_Suit_Samus_(SSBU)
+1174. https://www.ssbwiki.com/Newcomer
+1175. https://www.ssbwiki.com/Chrom_(SSBU)
+1176. https://www.ssbwiki.com/Daisy_(SSBU)
+1177. https://www.ssbwiki.com/Dark_Samus_(SSBU)
+1178. https://www.ssbwiki.com/Incineroar_(SSBU)
+1179. https://www.ssbwiki.com/Inkling_(SSBU)
+1180. https://www.ssbwiki.com/Isabelle_(SSBU)
+1181. https://www.ssbwiki.com/Joker_(SSBU)
+1182. https://www.ssbwiki.com/Ken_(SSBU)
+1183. https://www.ssbwiki.com/King_K._Rool_(SSBU)
+1184. https://www.ssbwiki.com/Piranha_Plant_(SSBU)
+1185. https://www.ssbwiki.com/Richter_(SSBU)
+1186. https://www.ssbwiki.com/Ridley_(SSBU)
+1187. https://www.ssbwiki.com/Simon_(SSBU)
+1188. https://www.ssbwiki.com/index.php?title=List_of_Super_Smash_Bros._series_characters&oldid=1178647
+1189. https://www.ssbwiki.com/Special:Categories
+1190. https://www.ssbwiki.com/Category:Characters
+1191. https://www.ssbwiki.com/Category:Lists
+1192. https://www.ssbwiki.com/Category:Characters_(SSB)
+1193. https://www.ssbwiki.com/Category:Characters_(SSBM)
+1194. https://www.ssbwiki.com/Category:Characters_(SSBB)
+1195. https://www.ssbwiki.com/Category:Characters_(SSB4)
+1196. https://www.ssbwiki.com/Category:Characters_(SSBU)
+1197. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+1198. https://www.ssbwiki.com/Talk:List_of_Super_Smash_Bros._series_characters
+1199. https://www.ssbwiki.com/index.php?title=List_of_Super_Smash_Bros._series_characters&action=edit
+1200. https://www.ssbwiki.com/index.php?title=List_of_Super_Smash_Bros._series_characters&action=history
+1201. https://www.ssbwiki.com/Special:MyTalk
+1202. https://www.ssbwiki.com/Special:MyContributions
+1203. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=List+of+Super+Smash+Bros.+series+characters
+1204. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=List+of+Super+Smash+Bros.+series+characters
+1205. https://www.ssbwiki.com/Main_Page
+1206. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+1207. https://www.ssbwiki.com/Super_Smash_Bros._4
+1208. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+1209. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+1210. https://www.ssbwiki.com/Super_Smash_Bros.
+1211. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+1212. https://www.ssbwiki.com/Stage
+1213. https://www.ssbwiki.com/Mode
+1214. https://www.ssbwiki.com/Item
+1215. https://www.ssbwiki.com/Special:Random
+1216. https://www.ssbwiki.com/Forum:Index
+1217. https://www.ssbwiki.com/SmashWiki:Community_portal
+1218. https://www.ssbwiki.com/Special:RecentChanges
+1219. https://www.ssbwiki.com/Help:Contents
+1220. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
+1221. https://www.ssbwiki.com/SmashWiki:Discord_server
+1222. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
+1223. https://www.ssbwiki.com/Special:WhatLinksHere/List_of_Super_Smash_Bros._series_characters
+1224. https://www.ssbwiki.com/Special:RecentChangesLinked/List_of_Super_Smash_Bros._series_characters
+1225. https://www.ssbwiki.com/Special:SpecialPages
+1226. https://www.ssbwiki.com/index.php?title=List_of_Super_Smash_Bros._series_characters&printable=yes
+1227. https://www.ssbwiki.com/index.php?title=List_of_Super_Smash_Bros._series_characters&oldid=1178647
+1228. https://www.ssbwiki.com/index.php?title=List_of_Super_Smash_Bros._series_characters&action=info
+1229. https://creativecommons.org/licenses/by-sa/3.0/
+1230. https://www.mediawiki.org/
+1231. https://creativecommons.org/licenses/by-sa/3.0/
+1232. https://www.porplemontage.com/privacy
+1233. https://www.ssbwiki.com/SmashWiki:About
+1234. https://www.ssbwiki.com/SmashWiki:General_disclaimer
+1235. https://www.ssbwiki.com/index.php?title=List_of_Super_Smash_Bros._series_characters&mobileaction=toggle_view_mobile
+
+   Hidden links:
+1237. https://www.ssbwiki.com/Main_Page
