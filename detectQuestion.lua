@@ -1,18 +1,47 @@
 dark = require("dark")
 
+local function load_nocase(fname)
+	local tmp = {}
+	for line in io.lines(fname) do
+		local nocase = line:lower()
+		tmp[#tmp + 1] = line
+		if nocase ~= line then
+			tmp[#tmp + 1] = nocase
+		end
+	end
+	return tmp
+end
+
 local main = dark.pipeline()
 
-local basic = dark.basic()
+main:basic()
 
-main:model("model/postag-en")
-main:lexicon("#character", "./lexique/ssbm_characters.txt")
+
+--main:model("model-2.3.0/postag-en")
+main:lexicon("#character", load_nocase("./lexique/ssbm_characters.txt"))
 main:lexicon("#player", "./lexique/ssbm_players.txt")
+main:lexicon("#questionWord", "./lexique/question_words.txt")
+main:pattern([[
+
+	[#characterQuestion
+			#questionWord (#w | #p){0,10}? #player (#w | #p){0,5}? (character | main | Character | Main | play | Play) "?"{0,1}
+	]
+
+]])
+main:pattern([[
+	[#playerInfoQuestion
+		("Who" "is" | "Who" "'" "s") (#w | #p){0,10}?  #player "?"{0,1}
+	]
+
+]])
 
 local tags = {
-	["#character"] = "red",
-	["#player"] = "blue",
+	--["#character"] = "red",
+	["#playerInfoQuestion"] = "blue",
+	["#characterQuestion"] = "red",
+	--["#questionWord"] = "green"
 }
-
+ 
 
 
 --LECTURE DU FICHIER 

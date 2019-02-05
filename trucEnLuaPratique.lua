@@ -1,1 +1,1 @@
-line = line:grub("%p", " %0 ")
+line = line:gsub("%p", " %0 ")

@@ -2,6 +2,7 @@ Mario
 Luigi
 Yoshi
 Donkey Kong
+DK
 Link
 Samus
 Kirby
@@ -9,18 +10,27 @@ Fox
 Pikachu
 Jigglypuff
 Captain Falcon
+Cpt. Falcon
+Cpt Falcon
+Falcon
 Ness
 Peach
 Bowser
 Dr. Mario
+DR.Mario
+Dr Mario
+DR Mario
 Zelda
 Sheik
 Young Link
+YL
 Ganondorf
 Falco
 Pichu
 Mewtwo
 Ice Climbers
+Icies
+ICs
 Marth
 Roy
 Mr. Game & Watch
