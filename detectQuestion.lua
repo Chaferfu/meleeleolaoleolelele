@@ -35,11 +35,28 @@ main:pattern([[
 
 ]])
 
+main:pattern([[
+
+	[#playerNationalityQuestion
+		/[Ww]hat/ (#w | #p){0,10}? #player (#w | #p){0,10}? (/[Nn]ationality/ | country)
+	]
+
+]])
+
+main:pattern([[
+
+	[#playerNationalityQuestion
+		/[Ww]here/ (#w | #p){0,10}? #player (#w | #p){0,10}? (live | from)
+	]
+
+]])
+
 local tags = {
 	--["#character"] = "red",
 	["#playerInfoQuestion"] = "blue",
 	["#characterQuestion"] = "red",
-	--["#questionWord"] = "green"
+	["#playerNationalityQuestion"] = "green"
+	
 }
  
 
