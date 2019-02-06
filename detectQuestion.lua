@@ -30,7 +30,7 @@ main:pattern([[
 ]])
 main:pattern([[
 	[#playerInfoQuestion
-		("Who" "is" | "Who" "'" "s") (#w | #p){0,10}?  #player "?"{0,1}
+		("Who" "is" | "Who" "'" "s") (#w | #p){0,10}?  #player "?"
 	]
 
 ]])
