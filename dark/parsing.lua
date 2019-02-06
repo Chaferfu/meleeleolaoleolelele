@@ -14,15 +14,15 @@ P:basic()
 P:lexicon("#character", "lexicon/ssbm_characters.txt")
 P:pattern([[ [#pseudo .]  ("(".{0,30}? ")" | .{0,30}?)  is ([#nationality #W] | #w)*  ( smasher | Melee player )]])
 P:pattern([[ [#joueur #pseudo (#w | "," | "(" | ")"){0,40}? #character] ]])
-P:pattern([[ #pseudo (#w | "," | "(" | ")"){0,20}? fros[#nationality #W] ]])
+P:pattern([[ #pseudo (#w | "," | "(" | ")"){0,20}? from[#nationality #W] ]])
 P:pattern([[ from [#nationality #W] ]])
 
 -- Detection des mains
 P:pattern([[ [#main #character] (("," [#main #character])*? and [#main #character])? main]])
 P:pattern([[ mains [#main #character] (("," [#main #character])*? and [#main #character])? ]])
 
-
-
+-- Detection des surnoms du joueur (a completer)
+P:pattern([[ (also known as | aka | also referred to as) [#nickname .{1,10}?] ("," [#nickname .{1,10}?]){1,10}? and [#nickame .] ]])
 
 local tags = {
 	["#character"] = "blue",
@@ -30,7 +30,8 @@ local tags = {
 	["#pseudo"] = "yellow",
 	["#joueur"] = "yellow",
 	["#nationality"] = "green",
-	["#main"] = "blue"
+	["#main"] = "blue",
+	["#nickname"] = "green"
 }
 
 local rep = "../WikiSmash"
