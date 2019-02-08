@@ -1,0 +1,947 @@
+   #[1]Edit this page [2]SmashWiki (en) [3]SmashWiki Atom feed
+
+Tournament:IMPULSE
+
+   From SmashWiki, the Super Smash Bros. wiki
+   Jump to:[4]navigation, [5]search
+   [6]SSB64 Icon.png [7]SSBM Icon.png [8]SSBB Icon.png [9]Competitive.png
+   IMPULSE
+   [10]Impulse.png
+   Info
+   Dates June 30th-July 1st, 2012
+   Venue Best Western Primrose Hotel
+   Address/City 11 Carlton Street
+   Toronto, Ontario [11]Canada
+   Attendance 100+
+   Entry fees Melee singles: $10
+   Melee doubles: $10 per person
+   Brawl singles: $10
+   Brawl doubles: $10 per person
+   Venue: $20
+   Pot size(s) Melee singles: $780
+   Melee doubles: $419
+   Brawl singles: $700
+   Brawl doubles: $499
+   Results
+   [12]Super Smash Bros. winners [13]Canada  [14]YBOMBB 1v1
+   [15]Super Smash Bros. Melee winners [16]USA  [17]Mango 1v1
+   [18]USA  [19]Mango & [20]USA  [21]Dr. PeePee 2v2
+   [22]Super Smash Bros. Brawl winners [23]USA  [24]Dabuz 1v1
+   [25]USA  [26]Dabuz & [27]Netherlands  [28]Mr. R 2v2
+   Staff
+   [29]Director(s) [30]Tin Man
+   Melee organizers [31]Unknown522, Switchblade, Bing, Tyrant Wolf, Misa Meka
+   Brawl organizers [32]Warchamp7, R e d X, Snow Shard
+   Public relations [33]KirbyKaze (Melee)
+   [34]Meekspeedy (Brawl)
+
+   IMPULSE was a [35]Super Smash Bros. Melee and [36]Super Smash Bros. Brawl national tournament held in Toronto, Ontario, that began on June 30, 2012, and ended the next day, on July 1. It was Canada's first national event, and the first Brawl national with [37]Meta Knight banned. The tournament also had qualifiers to send top players to the tournament.
+
+Contents
+
+     * [38]1 Schedule
+          + [39]1.1 Saturday, June 30th
+          + [40]1.2 Sunday, July 1st
+     * [41]2 Rules
+          + [42]2.1 Brawl
+               o [43]2.1.1 General Rules
+                    # [44]2.1.1.1 Modified Rules for Doubles
+               o [45]2.1.2 Set Procedure
+               o [46]2.1.3 Determining Player Priority
+               o [47]2.1.4 Stage list
+               o [48]2.1.5 Conduct Rules
+               o [49]2.1.6 Resolving Pool Ties
+          + [50]2.2 Melee
+               o [51]2.2.1 General Rules
+                    # [52]2.2.1.1 Additional Rules for Team Play
+               o [53]2.2.2 Set Procedure
+               o [54]2.2.3 Singles Stage list
+               o [55]2.2.4 Double's Stage List
+     * [56]3 Qualifiers
+          + [57]3.1 Melee
+          + [58]3.2 Brawl
+     * [59]4 Results
+          + [60]4.1 Brawl singles
+          + [61]4.2 Brawl doubles
+          + [62]4.3 Melee singles
+          + [63]4.4 Melee doubles
+          + [64]4.5 Smash 64 singles (side event)
+     * [65]5 Exhibition
+          + [66]5.1 Melee USA vs. Canada crew battle
+          + [67]5.2 Brawl USA vs. The World crew battle
+     * [68]6 External links
+
+Schedule[[69]edit]
+
+Saturday, June 30th[[70]edit]
+
+        Time                           Event
+   10:00am-12:00pm Registration, Check in
+   12:00pm         Brawl and Melee Singles Pools begin (1st half)
+   3:00pm          Brawl and Melee Singles Pools begin (2nd half)
+   6:00pm          Brawl and Melee Doubles Pools begins
+   9:00pm          Melee 10v10 Canada vs USA Crew Battle beings
+
+Sunday, July 1st[[71]edit]
+
+        Time                           Event
+   10:00am-11:00am Casual Play
+   11:00am         Brawl 10v10 Canada vs USA Crew Battle begins
+   12:00pm         Brawl and Melee Doubles Bracket begins
+   4:00pm          Brawl and Melee Singles Pro Bracket begins
+   4:00pm          Brawl and Melee Singles Amateur Bracket begins
+   10:00pm         Closing Ceremonies
+
+Rules[[72]edit]
+
+Brawl[[73]edit]
+
+   Brawl used the unity ruleset 2.1.
+
+General Rules[[74]edit]
+
+     * 3 Stocks
+     * 8 Minute Time Limit
+     * Items set to "Off" and "None"
+     * Pause set to "Off"
+     * Meta Knight is banned in both Singles and Doubles - in the event Meta Knight is used via random character select, the match shall be restarted on the same stage until Meta Knight is not present.
+     * All infinites and chain grabs are legal.
+     * There is a 50 Ledge Grab Limit for all characters. If a game goes to time and one player goes over the Ledge Grab Limit for their character, they will automatically lose the game. If both players exceed their Ledge Grab Limit, then this rule is ignored.
+     * The act of stalling is banned: stalling is intentionally making the game unplayable, such as becoming invisible, continuing infinites, chain grabs, or uninterruptible moves past 300%, and reaching a position that the opponent can never reach the player.
+     * Any action that can prevent the game from continuing (i.e., freezing, disappearing characters, game reset, etc.) will result in a forfeit of that match for the player that initiated the action. Players are responsible for knowing their own character, and must be wary about accidentally triggering one of these effects.
+     * If the Ledge Grab Limit does not declare one player the winner, the winner will be declared by what the game says in all situations, except for when players are presented with sudden death:
+     * In the event of a match going to time, the winner will be determined by who has less percent (stock difference still takes priority but will be shown in the results screen).
+     * If the match ends with both players dying at the same time (either coincidentally or via suicide move) or if time ran out with both players at equal percent, a one stock three minute rematch will be played on the same stage. For a tie-breaker match, a Ledge Grab Limit of 18 is used for all characters.
+
+Modified Rules for Doubles[[75]edit]
+
+     * Team Attack set to "On"
+     * Life stealing is allowed.
+     * In the event of a game reaching the time limit, if a single player on a team exceeds their Ledge Grab Limit, that team loses. If one or more players on both teams exceed their Ledge Grab Limit, then the Ledge Grab Limit rule is ignored.
+     * In the event of a game going to time and the Ledge Grab Limit can not determine a winner and both teams have an equal amount of combined stocks, then whichever team has a lower combined percent is declared the winner.
+     * If a player is using the character Pokémon Trainer, Lucario, or Sonic, either team may request that team colors be changed to make it easier to tell the difference between team players.
+
+Set Procedure[[76]edit]
+
+    1. Player Priority is determined if it can not be agreed on. (See below for details)
+    2. Each Team selects one controller port to use for each Player.
+    3. Each Team selects one character for each Player. A double blind pick may be called by any player.
+    4. The first game is played on a Stage selected from the Starter Stage List either by mutual consent or through the Stage Striking Method. The order of stage striking will be 2-3-1 (Team 1 strikes two stages, followed by Team 2 striking three stages, with Team 1 then striking one of the two remaining stages).
+    5. The first match is played.
+    6. The team that lost the previous match may opt to re-pick controller ports (with themselves picking first).
+    7. The Team that won the previous match may announce one "Stage Ban" if they have not already done so in this set.
+    8. The Team that lost the previous match announces the stage for the next match from either the Starter or the Counterpick Stage List. Any Stage named as a "Stage Ban" by the either Team may not be selected. No Stage may be used by a Team that has already won on that Stage in this set.
+    9. The Team that won the previous match chooses one character for each Player.
+   10. The Team that lost the previous match chooses one character for each Player.
+   11. The next match is played.
+   12. Steps 6 to 11 are repeated for all proceeding matches.
+
+Determining Player Priority[[77]edit]
+
+   If there is a dispute in controller port selection or initiating Stage Strike, the following method is used:
+
+   Teams will use a random method such as Rock-Paper-Scissors, Coin Flip, or Game and Watch Judgment, where the winner selects either first choice in port selection or first choice in stage striking. Whichever team does not receive first choice in port selection will be compensated with first choice in stage striking.
+
+   Note: In Doubles, port selection is ordered 1-2-2-1 fashion (with Team-1 having first choice in controller slot select, Team-2 having both second and third choice, and the final slot going to Team-1).
+
+Stage list[[78]edit]
+
+          Starter             Counterpick
+   [79]Battlefield       [80]Battleship Halberd
+   [81]Castle Siege      [82]Brinstar
+   [83]Final Destination [84]Delfino Plaza
+   [85]Lylat Cruise      [86]Pokémon Stadium 2
+   [87]Pokémon Stadium   [88]Rainbow Cruise
+   [89]Smashville        [90]Frigate Orpheon
+   [91]Yoshi's Island
+
+Conduct Rules[[92]edit]
+
+     * Players are expected to bring their own controller and be prepared for every tournament set.
+     * In the event pause is left on accidentally and is pressed, the TO must be immediately called over. Based upon their judgment, the situation will be resolved. If the player's situation is neutral (players are not in combat), the match will be resumed as if the pause had not occurred. If the player's situation is advantageous to one individual and the player in the disadvantageous situation paused, the disadvantaged player will be either placed in a grab or onto the ledge of the stage. If a player in a death situation (Chain grabs, Grab releases, Jab-locks to a KO move, etc.) paused while in a death situation, the current stock is forfeited immediately. If the player unpauses before the TO reaches the station, the player that unpaused loses a stock.
+     * During gameplay, any coaching parties must remain a finite distance determined by the TO away from the players in order to give players equal access to all coached information. Ear-side coaching is prohibited during games, but acceptable between games. Failure to adhere to this will lead to punishment at the TO's discretion, which could include the coach's removal from the venue or a call to replay the game that the coaching interfered with.
+     * Players who use the Wii Remote must take the batteries out of the Wii Remote when not playing. If the Wii Remote is still synced up to a Wii with the batteries in, the Wii Remote's owner could unintentionally disrupt a match. If problems persist, a DQ may happen.
+     * Players are responsible for their own controller and name tag. Any malfunctions or errors that occur are the player's responsibility (including battery issues with a Wii Remote), so players should bring an extra controller if possible and always check to make sure they are using the correct settings before a match is played. Both parties need to agree if a match is to be paused or restarted because of these problems.
+     * Intentional forfeiting, match fixing, splitting, and any other forms of bracket manipulation are not allowed and punishable by the TO.
+     * No substitutions are allowed for singles or doubles.
+     * DQ Rule: Arriving too late for a match will result in a DQ. Player(s) will have 5 minutes to show up before a loss of the first match. 5 more minutes results in a loss of the set. For doubles, both players on a team need to be present in order to play.
+     * The tournament organizer has the right to save/record any tournament match if possible and has the right to upload said match.
+
+   Regarding textures and other game hacks:
+     * Players may request that any texture, stage, or other hacks be disabled during a tournament set. If this is unable to be done, they may switch to a different setup if available.
+     * The URC recommends players do not use intrusive texture and stage hacks.
+     * Players are not allowed to use any game altering hacks, such as no-tripping or model hacks. If someone is caught setting up a system they brought with such hacks enabled, they can face punishment at the TO's discretion.
+     * Disrupting the opponent physically or intending to disrupt their play (through something such as screaming in a player's ear) will result in a warning. Repeated action will result in disqualification from the tournament and possibly ejection from the venue. Observers who physically disrupt players are to be dealt with as the Tournament Organiser sees fit. Disqualification is recommended if possible, and ejection from the venue is also a punishment.
+
+Resolving Pool Ties[[93]edit]
+
+   In the event two or more players are tied at the conclusion of a round of pools at a Unity Ruleset tournament, the following process will be done:
+
+   Players will be compared with each other on various criteria in this ordered precedence:
+     * Set Wins
+     * Head to Head
+     * Wins
+     * Losses
+     * One Game Rematch
+
+   If players are still tied on a step, they move down to the next one. For instance, if Player A and B both go 3-2 in sets in a round of pools, they will then proceed to the Head to Head step (who won the set between those players). Whoever won vs the other will proceed at the top of the tie.
+
+   If Head to Head (the result of the set between the players in question) can not decide a tie, then you would move down to the Wins step. This may occur in a three way tie where all three players defeated each other (however note that if one person in a three way tie defeats both other players, then the Head to Head comparison will be used).
+
+   If the tie breaker reaches all the way to the One Game Rematch step, this game will play out similar to the first game of any set (though doing best of one), where users will stage strike for the stage, and may double blind characters.
+
+   If at any point a tie of three or more players is partially resolved, still leaving two or more players tied, the tie between the remaining players will be decided by starting the tie breaker process over for them. For instance, if in a three way tie in the Wins step, one player has six wins while the others have five, the player with six wins will be the top of the three. The remaining two players will start back at Sets Wins to determine who is higher between the two instead of proceeding onto the Losses step right away.
+     * These rules are subject to change leading up to the event date. The Tournament Organizer reserves the right to remove you from the venue at his discretion for any reason.
+     * The Tournament Organizer and his assistants, and any persons helping run the event may not be held liable for any lost, stolen, or damaged goods during this event. Nor will the Tournament Organizer, the venue, its owners, affiliates, employees, members, sponsors, or volunteers be held liable or responsible for any injury or harm that may befall a person during the course of this event. By entering the venue during the posted date you are displaying your agreement with this policy.
+
+Melee[[94]edit]
+
+General Rules[[95]edit]
+
+     * Items are set to off.
+     * Stock and Time are set to 4 stock and 8 minutes, respectively.
+     * Double Blind: If elected.
+     * Contest Port Priority: If elected.
+     * Neutral Start*: If elected.
+     * Standard DSR
+     * Gentleman’s Clause
+     * Forced Character Selection: Off
+     * Matches that time out will be determined by the remaining number of lives, then percentage of the current stock. In the event of a percentage tie, the match should be replayed in full. Sudden Death is not to be played, and will not count.
+
+Additional Rules for Team Play[[96]edit]
+
+     * Team Attack: ON.
+     * Life Stealing is allowed.
+     * If the game is paused accidentally while attempting to steal a life, the opposing team may deem that life forfeit. Players must wait until the announcer has finished saying defeated before pressing start, or turn pause off prior to beginning the match.
+
+Set Procedure[[97]edit]
+
+    1. Players select their characters. Either player may elect to Double Blind.
+    2. Stage Striking is used to determine the first stage.
+    3. The players play the first match of the set. Prior to starting this match, either player may elect to Contest Port Priority or Neutral Start.
+    4. Winning player of the preceding match bans a stage/stages (if applicable).
+    5. The losing player of the preceding match picks a stage for the next match.
+    6. The winning player of the preceding match may choose to change characters.
+    7. The losing player of the preceding match may choose to change characters.
+    8. The losing player of the preceding match gets first pick of port. Either player may elect for a Neutral Start, but RPS will not be played to determine first pick.
+    9. The next match is played.
+   10. Steps 4 through 9 are repeated for all subsequent matches until the set is complete.
+
+Singles Stage list[[98]edit]
+
+           Starter             Counterpick
+   [99]Yoshi's Story       [100]Pokémon Stadium
+   [101]Fountain of Dreams
+   [102]Battlefield
+   [103]Final Destination
+   [104]Dream Land
+
+Double's Stage List[[105]edit]
+
+           Starter            Counterpick
+   [106]Yoshi's Story      [107]Congo Jungle
+   [108]Fountain of Dreams [109]Jungle Japes
+   [110]Battlefield
+   [111]Final Destination
+   [112]Dream Land
+
+Qualifiers[[113]edit]
+
+   Similar to [114]Apex 2012's Road to Apex Series, IMPULSE had its own qualifiers to help top players make the event. The qualifiers are listed below
+
+Melee[[115]edit]
+
+     * [116]SWEET VIII (March 17, Midwest)
+     * [117]Northwest Manifest (March 24, Northwest)
+     * [118]NYTE (April 7-8, Southwest)
+     * [119]Melee in the Hold 3 (May 19th, West Canada)
+     * [120]Zenith 2012 (May 26-27, Atlantic North)
+     * [121]Smash t'ill You Crash 3 (June 2-3, Quebec)
+
+Brawl[[122]edit]
+
+     * [123]VENGEANCE (April 7, Midwest)
+     * [124]HOBO 37 (April 14, Southwest)
+     * [125]Phoenix Brawl 7 (April 28, West Canada)
+     * [126]Clash of the Titans 6 (June 2, Atlantic North)
+     * [127]Smash t'ill You Crash 3 (June 2-3, Quebec)
+
+Results[[128]edit]
+
+Brawl singles[[129]edit]
+
+   (69 entrants)
+   Place              Name                                    Character(s)                     Earnings
+   1st   [130]USA  [131]Dabuz            [132]OlimarHeadSSBB.png                               $350
+   2nd   [133]Canada  [134]Ally          [135]SnakeHeadSSBB.png [136]MarthHeadSSBB.png         $175
+   3rd   [137]Netherlands  [138]Mr. R    [139]MarthHeadSSBB.png                                $70
+   4th   [140]Canada  [141]V115          [142]ZeroSuitSamusHeadSSBB.png                        $35
+   5th   [143]USA  [144]MJG              [145]ToonLinkHeadSSBB.png                             $21
+   5th   [146]Canada  [147]Swordgard     [148]IceClimbersHeadSSBB.png [149]SnakeHeadSSBB.png   $21
+   7th   [150]USA  [151]ChuDat           [152]KirbyHeadSSBB.png [153]IceClimbersHeadSSBB.png   $14
+   7th   [154]Canada  [155]HolyNightmare [156]ROBHeadSSBB.png                                  $14
+   9th   [157]USA  [158]Will             [159]DonkeyKongHeadSSBB.png
+   9th   [160]Canada  [161]Stroumbert    [162]FalcoHeadSSBB.png [163]CaptainFalconHeadSSBB.png
+   9th   [164]Canada  [165]Tin Man       [166]OlimarHeadSSBB.png
+   9th   [167]USA  [168]Zinoto           [169]DiddyKongHeadSSBB.png
+
+Brawl doubles[[170]edit]
+
+   (25 teams)
+   Place             Name                              Character(s)                              Name                       Character(s)            Earnings
+   1st   [171]USA  [172]Dabuz         [173]OlimarHeadSSBB.png                       [174]Netherlands  [175]Mr. R    [176]MarthHeadSSBB.png      $250 ($125 each)
+   2nd   [177]Canada  [178]Ally       [179]SnakeHeadSSBB.png [180]WarioHeadSSBB.png [181]Canada  [182]HolyNightmare [183]ROBHeadSSBB.png        $120 ($60 each)
+   3rd   [184]USA  [185]ChuDat        [186]KirbyHeadSSBB.png                        [187]Canada  [188]Tin Man       [189]OlimarHeadSSBB.png     $80 ($40 each)
+   4th   [190]Canada  [191]Croi       [192]WarioHeadSSBB.png                        [193]Canada  [194]BillyBeeGood  [195]SnakeHeadSSBB.png      $25 ($12.50 each)
+   5th   [196]USA  [197]MJG           [198]ToonLinkHeadSSBB.png                     [199]USA  [200]Will             [201]DonkeyKongHeadSSBB.png $12 ($6 each)
+   5th   [202]Canada  [203]Meekspeedy [204]SonicHeadSSBB.png                        [205]USA  [206]Mew2King         [207]KingDededeHeadSSBB.png $12 ($6 each)
+
+Melee singles[[208]edit]
+
+   (78 entrants)
+   Place             Name                                    Character(s)                       Earnings
+   1st   [209]USA  [210]Mango         [211]FalcoHeadSSBM.png [212]FoxHeadSSBM.png               $390
+   2nd   [213]USA  [214]Dr. PeePee    [215]FalcoHeadSSBM.png                                    $195
+   3rd   [216]USA  [217]Hungrybox     [218]JigglypuffHeadSSBM.png                               $78
+   4th   [219]USA  [220]Mew2King      [221]SheikHeadSSBM.png [222]MarthHeadSSBM.png             $39
+   5th   [223]Canada  [224]KirbyKaze  [225]SheikHeadSSBM.png                                    $24
+   5th   [226]Canada  [227]Vwins      [228]PeachHeadSSBM.png                                    $24
+   7th   [229]Canada  [230]Kage       [231]GanondorfHeadSSBM.png [232]CaptainFalconHeadSSBM.png $15
+   7th   [233]Canada  [234]Unknown522 [235]FoxHeadSSBM.png                                      $15
+   9th   [236]USA  [237]Nintendude    [238]IceClimbersHeadSSBM.png
+   9th   [239]Canada  [240]RaynEX     [241]FoxHeadSSBM.png
+   9th   [242]USA  [243]SFAT          [244]FoxHeadSSBM.png
+   9th   [245]Canada  [246]Weon-X     [247]FoxHeadSSBM.png
+   13th  [248]USA  [249]Winston       [250]FoxHeadSSBM.png
+   13th  [251]Canada  [252]I.B        [253]MarthHeadSSBM.png
+   13th  [254]USA  [255]Silent Wolf   [256]FoxHeadSSBM.png
+   13th  [257]Canada  [258]Bam        [259]FalcoHeadSSBM.png
+
+Melee doubles[[260]edit]
+
+   (24 teams)
+   Place             Name                     Character(s)                  Name                  Character(s)             Earnings
+   1st   [261]USA  [262]Dr. PeePee    [263]FalcoHeadSSBM.png      [264]USA  [265]Mango     [266]FoxHeadSSBM.png       $210 ($105 each)
+   2nd   [267]USA  [268]Hungrybox     [269]JigglypuffHeadSSBM.png [270]Canada  [271]Kage   [272]GanondorfHeadSSBM.png $105 ($52.50 each)
+   3rd   [273]Canada  [274]Bam        [275]FoxHeadSSBM.png        [276]Canada  [277]Vwins  [278]PeachHeadSSBM.png     $63 ($31.50 each)
+   4th   [279]Canada  [280]Unknown522 [281]FoxHeadSSBM.png        [282]Canada  [283]RaynEX [284]FoxHeadSSBM.png       $21 ($10.50 each)
+   5th   [285]Canada  [286]I.B        [287]MarthHeadSSBM.png      [288]Canada  [289]Weon-X [290]FoxHeadSSBM.png       $10.50 ($5.25 each)
+   5th   [291]USA  [292]Mew2King      [293]FoxHeadSSBM.png        [294]USA  [295]Toph      [296]FoxHeadSSBM.png       $10.50 ($5.25 each)
+
+Smash 64 singles (side event)[[297]edit]
+
+   Place           Name                               Character(s)                    Earnings
+   1st   [298]Canada  [299]YBOMBB  [300]JigglypuffHeadSSB.png [301]PikachuHeadSSB.png
+   2nd   [302]USA  [303]Nintendude [304]MarioHeadSSB.png [305]PikachuHeadSSB.png
+   3rd   [306]Canada  [307]B Link  [308]PikachuHeadSSB.png
+
+Exhibition[[309]edit]
+
+Melee USA vs. Canada crew battle[[310]edit]
+
+   This crew battle featured the same rule set as the one from [311]Apex 2012. Also like Apex, crews are made up of 10 smashers each, making for 40 stocks per crew. Though Canada put up a valiant fight, the USA crew ultimately dominated, with [312]Hungrybox taking out [313]RaynEX's last 3 stocks with a strong 2 stock lead.
+      USA Player               Character          Stocks Taken  Canada Player           Character          Stocks Taken
+   [314]SFAT         [315]FoxHeadSSBM.png         7            [316]Tect       [317]FoxHeadSSBM.png        2
+   [318]Vudujin      [319]LuigiHeadSSBM.png       4            [320]I.B        [321]MarthHeadSSBM.png      2
+   [322]Toph         [323]FoxHeadSSBM.png         2            [324]Kage       [325]GanondorfHeadSSBM.png  5
+   [326]Silent Wolf  [327]FalcoHeadSSBM.png       1            [328]Unknown522 [329]FoxHeadSSBM.png        7
+   [330]Dr. PeePee   [331]FalcoHeadSSBM.png       8            [332]Vwins      [333]PeachHeadSSBM.png      2
+   [334]Nintendude   [335]IceClimbersHeadSSBM.png 3            [336]KirbyKaze  [337]SheikHeadSSBM.png      5
+   [338]Mew2King     [339]MarthHeadSSBM.png       6            [340]Weon-X     [341]FoxHeadSSBM.png        2
+   [342]Mango        [343]FalcoHeadSSBM.png       5            [344]Idea       [345]JigglypuffHeadSSBM.png 3
+   [346]Ultima Scout [347]MarthHeadSSBM.png       1            [348]Bam        [349]FalcoHeadSSBM.png      3
+   [350]Hungrybox    [351]JigglypuffHeadSSBM.png  3            [352]RaynEX     [353]FoxHeadSSBM.png        7
+
+Brawl USA vs. The World crew battle[[354]edit]
+
+   This crew battle had the same rules as a traditional crew battle with an additional ban on [355]Meta Knight. Crews were composed of 10 members each, for a total of 30 stocks per crew. [356]NinjaLink was the coach of the USA crew and [357]Ally was the coach of the World crew. The World crew won, with [358]Meekspeedy taking out [359]San's last remaining stock.
+     USA Player            Character          Stocks Taken          World Player                                 Character                       Stocks Taken
+   [360]Luckay    [361]PitHeadSSBB.png        2            [362]Canada  [363]Swordgard     [364]IceClimbersHeadSSBB.png                          4
+   [365]Hungrybox [366]JigglypuffHeadSSBB.png 2            [367]Canada  [368]Ally          [369]SnakeHeadSSBB.png                                3
+   [370]Dabuz     [371]OlimarHeadSSBB.png     6            [372]Canada  [373]Big D         [374]IceClimbersHeadSSBB.png                          1
+   [375]Will      [376]DonkeyKongHeadSSBB.png 3            [377]Netherlands  [378]Mr. R    [379]MarthHeadSSBB.png                                1
+   [380]MJG       [381]ToonLinkHeadSSBB.png   3            [382]Canada  [383]HolyNightmare [384]ROBHeadSSBB.png                                  5
+   [385]NinjaLink [386]DiddyKongHeadSSBB.png  1            [387]Canada  [388]V115          [389]ZeroSuitSamusHeadSSBB.png                        5
+   [390]ChuDat    [391]KirbyHeadSSBB.png      2            [392]Canada  [393]Tin Man       [394]OlimarHeadSSBB.png                               4
+   [395]Zinoto    [396]DiddyKongHeadSSBB.png  3            [397]Canada  [398]Croi          [399]WarioHeadSSBB.png                                3
+   [400]Asa       [401]OlimarHeadSSBB.png     2            [402]Canada  [403]Stroumbert    [404]FalcoHeadSSBB.png [405]CaptainFalconHeadSSBB.png 3
+   [406]San       [407]IkeHeadSSBB.png        3            [408]Canada  [409]Meekspeedy    [410]SonicHeadSSBB.png                                1
+
+External links[[411]edit]
+
+     * [412]SmashBoards thread
+     * [413]NintendoDojo page
+     * [414]Results thread
+     * [415]USA vs Canada Melee Crew Battle
+     * [416]USA vs. The World Brawl Crew Battle part 1
+     * [417]USA vs. The World Brawl Crew Battle part 2
+
+   Retrieved from "[418]https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&oldid=1036098"
+   [419]Categories:
+     * [420]National tournaments
+     * [421]Ontario tournaments
+     * [422]2012 tournaments
+
+Navigation menu
+
+Views
+
+     * [423]Tournament
+     * [424]Discussion
+     * [425]Edit this page
+     * [426]History
+
+Personal tools
+
+     * Not logged in
+     * [427]Talk
+     * [428]Contributions
+     * [429]Create account
+     * [430]Log in
+
+Navigation
+
+     * [431]Main page
+     * [432]Smash Bros. Ultimate
+     * [433]Smash Bros. 4
+     * [434]Smash Bros. Brawl
+     * [435]Smash Bros. Melee
+     * [436]Smash Bros. (64)
+     * [437]Characters
+     * [438]Stages
+     * [439]Modes
+     * [440]Items
+     * [441]Random page
+
+Search
+
+   ____________________ Go  Search
+
+Participate
+
+     * [442]Forum
+     * [443]Community portal
+     * [444]Recent changes
+     * [445]Help
+     * [446]Admin noticeboard
+     * [447]Discord server
+     * [448]YouTube channel
+
+Tools
+
+     * [449]What links here
+     * [450]Related changes
+     * [451]Special pages
+     * [452]Printable version
+     * [453]Permanent link
+     * [454]Page information
+
+   [455]Attribution-Share Alike 3.0 Unported
+   [456]Powered by MediaWiki
+     * This page was last edited on 7 April 2018, at 21:01.
+     * Content is available under [457]Attribution-Share Alike 3.0 Unported unless otherwise noted.
+     * [458]Privacy policy
+     * [459]About SmashWiki
+     * [460]Disclaimers
+     * [461]Mobile view
+
+References
+
+   Visible links
+   1. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit
+   2. https://www.ssbwiki.com/opensearch_desc.php
+   3. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&feed=atom
+   4. https://www.ssbwiki.com/Tournament:IMPULSE
+#column-one
+   5. https://www.ssbwiki.com/Tournament:IMPULSE
+#searchInput
+   6. https://www.ssbwiki.com/Super_Smash_Bros.
+   7. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+   8. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+   9. https://www.ssbwiki.com/Tournament
+  10. https://www.ssbwiki.com/File:Impulse.png
+  11. https://www.ssbwiki.com/File:Flag_of_Canada.png
+  12. https://www.ssbwiki.com/Super_Smash_Bros.
+  13. https://www.ssbwiki.com/File:Flag_of_Canada.png
+  14. https://www.ssbwiki.com/Smasher:YBOMBB
+  15. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+  16. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  17. https://www.ssbwiki.com/Smasher:Mango
+  18. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  19. https://www.ssbwiki.com/Smasher:Mango
+  20. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  21. https://www.ssbwiki.com/Smasher:Dr._PeePee
+  22. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+  23. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  24. https://www.ssbwiki.com/Smasher:Dabuz
+  25. https://www.ssbwiki.com/File:Flag_of_United_States.png
+  26. https://www.ssbwiki.com/Smasher:Dabuz
+  27. https://www.ssbwiki.com/File:Flag_of_The_Netherlands.png
+  28. https://www.ssbwiki.com/Smasher:Mr._R
+  29. https://www.ssbwiki.com/Tournament_director
+  30. https://www.ssbwiki.com/Smasher:Tin_Man
+  31. https://www.ssbwiki.com/Smasher:Unknown522
+  32. https://www.ssbwiki.com/Smasher:Warchamp7
+  33. https://www.ssbwiki.com/Smasher:KirbyKaze
+  34. https://www.ssbwiki.com/Smasher:Meekspeedy
+  35. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+  36. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+  37. https://www.ssbwiki.com/Meta_Knight_(SSBB)
+  38. https://www.ssbwiki.com/Tournament:IMPULSE
+#Schedule
+  39. https://www.ssbwiki.com/Tournament:IMPULSE
+#Saturday.2C_June_30th
+  40. https://www.ssbwiki.com/Tournament:IMPULSE
+#Sunday.2C_July_1st
+  41. https://www.ssbwiki.com/Tournament:IMPULSE
+#Rules
+  42. https://www.ssbwiki.com/Tournament:IMPULSE
+#Brawl
+  43. https://www.ssbwiki.com/Tournament:IMPULSE
+#General_Rules
+  44. https://www.ssbwiki.com/Tournament:IMPULSE
+#Modified_Rules_for_Doubles
+  45. https://www.ssbwiki.com/Tournament:IMPULSE
+#Set_Procedure
+  46. https://www.ssbwiki.com/Tournament:IMPULSE
+#Determining_Player_Priority
+  47. https://www.ssbwiki.com/Tournament:IMPULSE
+#Stage_list
+  48. https://www.ssbwiki.com/Tournament:IMPULSE
+#Conduct_Rules
+  49. https://www.ssbwiki.com/Tournament:IMPULSE
+#Resolving_Pool_Ties
+  50. https://www.ssbwiki.com/Tournament:IMPULSE
+#Melee
+  51. https://www.ssbwiki.com/Tournament:IMPULSE
+#General_Rules_2
+  52. https://www.ssbwiki.com/Tournament:IMPULSE
+#Additional_Rules_for_Team_Play
+  53. https://www.ssbwiki.com/Tournament:IMPULSE
+#Set_Procedure_2
+  54. https://www.ssbwiki.com/Tournament:IMPULSE
+#Singles_Stage_list
+  55. https://www.ssbwiki.com/Tournament:IMPULSE
+#Double.27s_Stage_List
+  56. https://www.ssbwiki.com/Tournament:IMPULSE
+#Qualifiers
+  57. https://www.ssbwiki.com/Tournament:IMPULSE
+#Melee_2
+  58. https://www.ssbwiki.com/Tournament:IMPULSE
+#Brawl_2
+  59. https://www.ssbwiki.com/Tournament:IMPULSE
+#Results
+  60. https://www.ssbwiki.com/Tournament:IMPULSE
+#Brawl_singles
+  61. https://www.ssbwiki.com/Tournament:IMPULSE
+#Brawl_doubles
+  62. https://www.ssbwiki.com/Tournament:IMPULSE
+#Melee_singles
+  63. https://www.ssbwiki.com/Tournament:IMPULSE
+#Melee_doubles
+  64. https://www.ssbwiki.com/Tournament:IMPULSE
+#Smash_64_singles_.28side_event.29
+  65. https://www.ssbwiki.com/Tournament:IMPULSE
+#Exhibition
+  66. https://www.ssbwiki.com/Tournament:IMPULSE
+#Melee_USA_vs._Canada_crew_battle
+  67. https://www.ssbwiki.com/Tournament:IMPULSE
+#Brawl_USA_vs._The_World_crew_battle
+  68. https://www.ssbwiki.com/Tournament:IMPULSE
+#External_links
+  69. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=1
+  70. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=2
+  71. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=3
+  72. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=4
+  73. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=5
+  74. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=6
+  75. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=7
+  76. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=8
+  77. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=9
+  78. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=10
+  79. https://www.ssbwiki.com/Battlefield_(SSBB)
+  80. https://www.ssbwiki.com/Battleship_Halberd
+  81. https://www.ssbwiki.com/Castle_Siege
+  82. https://www.ssbwiki.com/Brinstar
+  83. https://www.ssbwiki.com/Final_Destination_(SSBB)
+  84. https://www.ssbwiki.com/Delfino_Plaza
+  85. https://www.ssbwiki.com/Lylat_Cruise
+  86. https://www.ssbwiki.com/Pokémon_Stadium_2
+  87. https://www.ssbwiki.com/Pokémon_Stadium
+  88. https://www.ssbwiki.com/Rainbow_Cruise
+  89. https://www.ssbwiki.com/Smashville
+  90. https://www.ssbwiki.com/Frigate_Orpheon
+  91. https://www.ssbwiki.com/Yoshi's_Island_(SSBB)
+  92. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=11
+  93. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=12
+  94. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=13
+  95. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=14
+  96. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=15
+  97. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=16
+  98. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=17
+  99. https://www.ssbwiki.com/Yoshi's_Story
+ 100. https://www.ssbwiki.com/Pokémon_Stadium
+ 101. https://www.ssbwiki.com/Fountain_of_Dreams
+ 102. https://www.ssbwiki.com/Battlefield_(SSBM)
+ 103. https://www.ssbwiki.com/Final_Destination_(SSBM)
+ 104. https://www.ssbwiki.com/Dream_Land_(SSB)
+ 105. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=18
+ 106. https://www.ssbwiki.com/Yoshi's_Story
+ 107. https://www.ssbwiki.com/Congo_Jungle
+ 108. https://www.ssbwiki.com/Fountain_of_Dreams
+ 109. https://www.ssbwiki.com/Jungle_Japes
+ 110. https://www.ssbwiki.com/Battlefield_(SSBM)
+ 111. https://www.ssbwiki.com/Final_Destination_(SSBM)
+ 112. https://www.ssbwiki.com/Dream_Land_(SSB)
+ 113. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=19
+ 114. https://www.ssbwiki.com/Apex_2012#Road_to_Apex
+ 115. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=20
+ 116. http://smashboards.com/showthread.php?t=286110
+ 117. http://smashboards.com/showthread.php?t=314896
+ 118. http://smashboards.com/showthread.php?t=309171
+ 119. http://smashboards.com/showthread.php?t=320230
+ 120. https://www.ssbwiki.com/Zenith_2012
+ 121. http://smashboards.com/showthread.php?t=320789
+ 122. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=21
+ 123. http://smashboards.com/showthread.php?t=318385
+ 124. http://smashboards.com/showthread.php?t=320147
+ 125. http://smashboards.com/showthread.php?t=318287
+ 126. http://smashboards.com/showthread.php?t=318067
+ 127. http://smashboards.com/showthread.php?t=320789
+ 128. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=22
+ 129. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=23
+ 130. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 131. https://www.ssbwiki.com/Smasher:Dabuz
+ 132. https://www.ssbwiki.com/Olimar_(SSBB)
+ 133. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 134. https://www.ssbwiki.com/Smasher:Ally
+ 135. https://www.ssbwiki.com/Snake_(SSBB)
+ 136. https://www.ssbwiki.com/Marth_(SSBB)
+ 137. https://www.ssbwiki.com/File:Flag_of_The_Netherlands.png
+ 138. https://www.ssbwiki.com/Smasher:Mr._R
+ 139. https://www.ssbwiki.com/Marth_(SSBB)
+ 140. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 141. https://www.ssbwiki.com/Smasher:V115
+ 142. https://www.ssbwiki.com/Zero_Suit_Samus_(SSBB)
+ 143. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 144. https://www.ssbwiki.com/Smasher:MJG
+ 145. https://www.ssbwiki.com/Toon_Link_(SSBB)
+ 146. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 147. https://www.ssbwiki.com/Smasher:Swordgard
+ 148. https://www.ssbwiki.com/Ice_Climbers_(SSBB)
+ 149. https://www.ssbwiki.com/Snake_(SSBB)
+ 150. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 151. https://www.ssbwiki.com/Smasher:ChuDat
+ 152. https://www.ssbwiki.com/Kirby_(SSBB)
+ 153. https://www.ssbwiki.com/Ice_Climbers_(SSBB)
+ 154. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 155. https://www.ssbwiki.com/Smasher:HolyNightmare
+ 156. https://www.ssbwiki.com/R.O.B._(SSBB)
+ 157. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 158. https://www.ssbwiki.com/Smasher:Will
+ 159. https://www.ssbwiki.com/Donkey_Kong_(SSBB)
+ 160. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 161. https://www.ssbwiki.com/Smasher:Stroumbert
+ 162. https://www.ssbwiki.com/Falco_(SSBB)
+ 163. https://www.ssbwiki.com/Captain_Falcon_(SSBB)
+ 164. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 165. https://www.ssbwiki.com/Smasher:Tin_Man
+ 166. https://www.ssbwiki.com/Olimar_(SSBB)
+ 167. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 168. https://www.ssbwiki.com/Smasher:Zinoto
+ 169. https://www.ssbwiki.com/Diddy_Kong_(SSBB)
+ 170. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=24
+ 171. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 172. https://www.ssbwiki.com/Smasher:Dabuz
+ 173. https://www.ssbwiki.com/Olimar_(SSBB)
+ 174. https://www.ssbwiki.com/File:Flag_of_The_Netherlands.png
+ 175. https://www.ssbwiki.com/Smasher:Mr._R
+ 176. https://www.ssbwiki.com/Marth_(SSBB)
+ 177. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 178. https://www.ssbwiki.com/Smasher:Ally
+ 179. https://www.ssbwiki.com/Snake_(SSBB)
+ 180. https://www.ssbwiki.com/Wario_(SSBB)
+ 181. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 182. https://www.ssbwiki.com/Smasher:HolyNightmare
+ 183. https://www.ssbwiki.com/R.O.B._(SSBB)
+ 184. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 185. https://www.ssbwiki.com/Smasher:ChuDat
+ 186. https://www.ssbwiki.com/Kirby_(SSBB)
+ 187. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 188. https://www.ssbwiki.com/Smasher:Tin_Man
+ 189. https://www.ssbwiki.com/Olimar_(SSBB)
+ 190. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 191. https://www.ssbwiki.com/index.php?title=Smasher:Croi&action=edit&redlink=1
+ 192. https://www.ssbwiki.com/Wario_(SSBB)
+ 193. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 194. https://www.ssbwiki.com/index.php?title=Smasher:BillyBeeGood&action=edit&redlink=1
+ 195. https://www.ssbwiki.com/Snake_(SSBB)
+ 196. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 197. https://www.ssbwiki.com/Smasher:MJG
+ 198. https://www.ssbwiki.com/Toon_Link_(SSBB)
+ 199. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 200. https://www.ssbwiki.com/Smasher:Will
+ 201. https://www.ssbwiki.com/Donkey_Kong_(SSBB)
+ 202. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 203. https://www.ssbwiki.com/Smasher:Meekspeedy
+ 204. https://www.ssbwiki.com/Sonic_(SSBB)
+ 205. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 206. https://www.ssbwiki.com/Smasher:Mew2King
+ 207. https://www.ssbwiki.com/King_Dedede_(SSBB)
+ 208. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=25
+ 209. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 210. https://www.ssbwiki.com/Smasher:Mango
+ 211. https://www.ssbwiki.com/Falco_(SSBM)
+ 212. https://www.ssbwiki.com/Fox_(SSBM)
+ 213. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 214. https://www.ssbwiki.com/Smasher:Dr._PeePee
+ 215. https://www.ssbwiki.com/Falco_(SSBM)
+ 216. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 217. https://www.ssbwiki.com/Smasher:Hungrybox
+ 218. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 219. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 220. https://www.ssbwiki.com/Smasher:Mew2King
+ 221. https://www.ssbwiki.com/Sheik_(SSBM)
+ 222. https://www.ssbwiki.com/Marth_(SSBM)
+ 223. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 224. https://www.ssbwiki.com/Smasher:KirbyKaze
+ 225. https://www.ssbwiki.com/Sheik_(SSBM)
+ 226. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 227. https://www.ssbwiki.com/Smasher:Vwins
+ 228. https://www.ssbwiki.com/Peach_(SSBM)
+ 229. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 230. https://www.ssbwiki.com/Smasher:Kage
+ 231. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 232. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
+ 233. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 234. https://www.ssbwiki.com/Smasher:Unknown522
+ 235. https://www.ssbwiki.com/Fox_(SSBM)
+ 236. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 237. https://www.ssbwiki.com/Smasher:Nintendude
+ 238. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 239. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 240. https://www.ssbwiki.com/Smasher:RaynEX
+ 241. https://www.ssbwiki.com/Fox_(SSBM)
+ 242. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 243. https://www.ssbwiki.com/Smasher:SFAT
+ 244. https://www.ssbwiki.com/Fox_(SSBM)
+ 245. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 246. https://www.ssbwiki.com/Smasher:Weon-X
+ 247. https://www.ssbwiki.com/Fox_(SSBM)
+ 248. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 249. https://www.ssbwiki.com/index.php?title=Smasher:Winston&action=edit&redlink=1
+ 250. https://www.ssbwiki.com/Fox_(SSBM)
+ 251. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 252. https://www.ssbwiki.com/Smasher:I.B
+ 253. https://www.ssbwiki.com/Marth_(SSBM)
+ 254. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 255. https://www.ssbwiki.com/Smasher:Silent_Wolf
+ 256. https://www.ssbwiki.com/Fox_(SSBM)
+ 257. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 258. https://www.ssbwiki.com/Smasher:Bam
+ 259. https://www.ssbwiki.com/Falco_(SSBM)
+ 260. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=26
+ 261. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 262. https://www.ssbwiki.com/Smasher:Dr._PeePee
+ 263. https://www.ssbwiki.com/Falco_(SSBM)
+ 264. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 265. https://www.ssbwiki.com/Smasher:Mango
+ 266. https://www.ssbwiki.com/Fox_(SSBM)
+ 267. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 268. https://www.ssbwiki.com/Smasher:Hungrybox
+ 269. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 270. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 271. https://www.ssbwiki.com/Smasher:Kage
+ 272. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 273. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 274. https://www.ssbwiki.com/Smasher:Bam
+ 275. https://www.ssbwiki.com/Fox_(SSBM)
+ 276. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 277. https://www.ssbwiki.com/Smasher:Vwins
+ 278. https://www.ssbwiki.com/Peach_(SSBM)
+ 279. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 280. https://www.ssbwiki.com/Smasher:Unknown522
+ 281. https://www.ssbwiki.com/Fox_(SSBM)
+ 282. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 283. https://www.ssbwiki.com/Smasher:RaynEX
+ 284. https://www.ssbwiki.com/Fox_(SSBM)
+ 285. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 286. https://www.ssbwiki.com/Smasher:I.B
+ 287. https://www.ssbwiki.com/Marth_(SSBM)
+ 288. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 289. https://www.ssbwiki.com/Smasher:Weon-X
+ 290. https://www.ssbwiki.com/Fox_(SSBM)
+ 291. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 292. https://www.ssbwiki.com/Smasher:Mew2King
+ 293. https://www.ssbwiki.com/Fox_(SSBM)
+ 294. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 295. https://www.ssbwiki.com/Smasher:Toph
+ 296. https://www.ssbwiki.com/Fox_(SSBM)
+ 297. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=27
+ 298. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 299. https://www.ssbwiki.com/Smasher:YBOMBB
+ 300. https://www.ssbwiki.com/Jigglypuff_(SSB)
+ 301. https://www.ssbwiki.com/Pikachu_(SSB)
+ 302. https://www.ssbwiki.com/File:Flag_of_United_States.png
+ 303. https://www.ssbwiki.com/Smasher:Nintendude
+ 304. https://www.ssbwiki.com/Mario_(SSB)
+ 305. https://www.ssbwiki.com/Pikachu_(SSB)
+ 306. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 307. https://www.ssbwiki.com/Smasher:B_Link
+ 308. https://www.ssbwiki.com/Pikachu_(SSB)
+ 309. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=28
+ 310. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=29
+ 311. https://www.ssbwiki.com/Apex_2012
+ 312. https://www.ssbwiki.com/Smasher:Hungrybox
+ 313. https://www.ssbwiki.com/Smasher:RaynEX
+ 314. https://www.ssbwiki.com/Smasher:SFAT
+ 315. https://www.ssbwiki.com/Fox_(SSBM)
+ 316. https://www.ssbwiki.com/index.php?title=Smasher:Tect&action=edit&redlink=1
+ 317. https://www.ssbwiki.com/Fox_(SSBM)
+ 318. https://www.ssbwiki.com/Smasher:Vudujin
+ 319. https://www.ssbwiki.com/Luigi_(SSBM)
+ 320. https://www.ssbwiki.com/Smasher:I.B
+ 321. https://www.ssbwiki.com/Marth_(SSBM)
+ 322. https://www.ssbwiki.com/Smasher:Toph
+ 323. https://www.ssbwiki.com/Fox_(SSBM)
+ 324. https://www.ssbwiki.com/Smasher:Kage
+ 325. https://www.ssbwiki.com/Ganondorf_(SSBM)
+ 326. https://www.ssbwiki.com/Smasher:Silent_Wolf
+ 327. https://www.ssbwiki.com/Falco_(SSBM)
+ 328. https://www.ssbwiki.com/Smasher:Unknown522
+ 329. https://www.ssbwiki.com/Fox_(SSBM)
+ 330. https://www.ssbwiki.com/Smasher:Dr._PeePee
+ 331. https://www.ssbwiki.com/Falco_(SSBM)
+ 332. https://www.ssbwiki.com/Smasher:Vwins
+ 333. https://www.ssbwiki.com/Peach_(SSBM)
+ 334. https://www.ssbwiki.com/Smasher:Nintendude
+ 335. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
+ 336. https://www.ssbwiki.com/Smasher:KirbyKaze
+ 337. https://www.ssbwiki.com/Sheik_(SSBM)
+ 338. https://www.ssbwiki.com/Smasher:Mew2King
+ 339. https://www.ssbwiki.com/Marth_(SSBM)
+ 340. https://www.ssbwiki.com/Smasher:Weon-X
+ 341. https://www.ssbwiki.com/Fox_(SSBM)
+ 342. https://www.ssbwiki.com/Smasher:Mango
+ 343. https://www.ssbwiki.com/Falco_(SSBM)
+ 344. https://www.ssbwiki.com/Smasher:Idea
+ 345. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 346. https://www.ssbwiki.com/index.php?title=Smasher:Ultima_Scout&action=edit&redlink=1
+ 347. https://www.ssbwiki.com/Marth_(SSBM)
+ 348. https://www.ssbwiki.com/Smasher:Bam
+ 349. https://www.ssbwiki.com/Falco_(SSBM)
+ 350. https://www.ssbwiki.com/Smasher:Hungrybox
+ 351. https://www.ssbwiki.com/Jigglypuff_(SSBM)
+ 352. https://www.ssbwiki.com/Smasher:RaynEX
+ 353. https://www.ssbwiki.com/Fox_(SSBM)
+ 354. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=30
+ 355. https://www.ssbwiki.com/Meta_Knight_(SSBB)
+ 356. https://www.ssbwiki.com/Smasher:NinjaLink
+ 357. https://www.ssbwiki.com/Smasher:Ally
+ 358. https://www.ssbwiki.com/Smasher:Meekspeedy
+ 359. https://www.ssbwiki.com/Smasher:San
+ 360. https://www.ssbwiki.com/index.php?title=Smasher:Luckay&action=edit&redlink=1
+ 361. https://www.ssbwiki.com/Pit_(SSBB)
+ 362. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 363. https://www.ssbwiki.com/Smasher:Swordgard
+ 364. https://www.ssbwiki.com/Ice_Climbers_(SSBB)
+ 365. https://www.ssbwiki.com/Smasher:Hungrybox
+ 366. https://www.ssbwiki.com/Jigglypuff_(SSBB)
+ 367. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 368. https://www.ssbwiki.com/Smasher:Ally
+ 369. https://www.ssbwiki.com/Snake_(SSBB)
+ 370. https://www.ssbwiki.com/Smasher:Dabuz
+ 371. https://www.ssbwiki.com/Olimar_(SSBB)
+ 372. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 373. https://www.ssbwiki.com/Smasher:Big_D
+ 374. https://www.ssbwiki.com/Ice_Climbers_(SSBB)
+ 375. https://www.ssbwiki.com/Smasher:Will
+ 376. https://www.ssbwiki.com/Donkey_Kong_(SSBB)
+ 377. https://www.ssbwiki.com/File:Flag_of_The_Netherlands.png
+ 378. https://www.ssbwiki.com/Smasher:Mr._R
+ 379. https://www.ssbwiki.com/Marth_(SSBB)
+ 380. https://www.ssbwiki.com/Smasher:MJG
+ 381. https://www.ssbwiki.com/Toon_Link_(SSBB)
+ 382. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 383. https://www.ssbwiki.com/Smasher:HolyNightmare
+ 384. https://www.ssbwiki.com/R.O.B._(SSBB)
+ 385. https://www.ssbwiki.com/Smasher:NinjaLink
+ 386. https://www.ssbwiki.com/Diddy_Kong_(SSBB)
+ 387. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 388. https://www.ssbwiki.com/Smasher:V115
+ 389. https://www.ssbwiki.com/Zero_Suit_Samus_(SSBB)
+ 390. https://www.ssbwiki.com/Smasher:ChuDat
+ 391. https://www.ssbwiki.com/Kirby_(SSBB)
+ 392. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 393. https://www.ssbwiki.com/Smasher:Tin_Man
+ 394. https://www.ssbwiki.com/Olimar_(SSBB)
+ 395. https://www.ssbwiki.com/Smasher:Zinoto
+ 396. https://www.ssbwiki.com/Diddy_Kong_(SSBB)
+ 397. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 398. https://www.ssbwiki.com/index.php?title=Smasher:Croi&action=edit&redlink=1
+ 399. https://www.ssbwiki.com/Wario_(SSBB)
+ 400. https://www.ssbwiki.com/Smasher:Asa
+ 401. https://www.ssbwiki.com/Olimar_(SSBB)
+ 402. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 403. https://www.ssbwiki.com/Smasher:Stroumbert
+ 404. https://www.ssbwiki.com/Falco_(SSBB)
+ 405. https://www.ssbwiki.com/Captain_Falcon_(SSBB)
+ 406. https://www.ssbwiki.com/Smasher:San
+ 407. https://www.ssbwiki.com/Ike_(SSBB)
+ 408. https://www.ssbwiki.com/File:Flag_of_Canada.png
+ 409. https://www.ssbwiki.com/Smasher:Meekspeedy
+ 410. https://www.ssbwiki.com/Sonic_(SSBB)
+ 411. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit&section=31
+ 412. http://smashboards.com/showthread.php?t=317315
+ 413. http://web.archive.org/web/20150513200706/http://nintendodojo.com/ttournament.aspx?id=13010
+ 414. http://smashboards.com/showthread.php?t=324899
+ 415. http://www.youtube.com/watch?v=-yUy-gMbaMA
+ 416. http://www.youtube.com/watch?v=UyktHae3OwQ
+ 417. http://www.youtube.com/watch?v=AmXr1d8X-Hk
+ 418. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&oldid=1036098
+ 419. https://www.ssbwiki.com/Special:Categories
+ 420. https://www.ssbwiki.com/Category:National_tournaments
+ 421. https://www.ssbwiki.com/Category:Ontario_tournaments
+ 422. https://www.ssbwiki.com/Category:2012_tournaments
+ 423. https://www.ssbwiki.com/Tournament:IMPULSE
+ 424. https://www.ssbwiki.com/Tournament_talk:IMPULSE
+ 425. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=edit
+ 426. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=history
+ 427. https://www.ssbwiki.com/Special:MyTalk
+ 428. https://www.ssbwiki.com/Special:MyContributions
+ 429. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=Tournament:IMPULSE
+ 430. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=Tournament:IMPULSE
+ 431. https://www.ssbwiki.com/Main_Page
+ 432. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
+ 433. https://www.ssbwiki.com/Super_Smash_Bros._4
+ 434. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
+ 435. https://www.ssbwiki.com/Super_Smash_Bros._Melee
+ 436. https://www.ssbwiki.com/Super_Smash_Bros.
+ 437. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
+ 438. https://www.ssbwiki.com/Stage
+ 439. https://www.ssbwiki.com/Mode
+ 440. https://www.ssbwiki.com/Item
+ 441. https://www.ssbwiki.com/Special:Random
+ 442. https://www.ssbwiki.com/Forum:Index
+ 443. https://www.ssbwiki.com/SmashWiki:Community_portal
+ 444. https://www.ssbwiki.com/Special:RecentChanges
+ 445. https://www.ssbwiki.com/Help:Contents
+ 446. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
+ 447. https://www.ssbwiki.com/SmashWiki:Discord_server
+ 448. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
+ 449. https://www.ssbwiki.com/Special:WhatLinksHere/Tournament:IMPULSE
+ 450. https://www.ssbwiki.com/Special:RecentChangesLinked/Tournament:IMPULSE
+ 451. https://www.ssbwiki.com/Special:SpecialPages
+ 452. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&printable=yes
+ 453. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&oldid=1036098
+ 454. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&action=info
+ 455. https://creativecommons.org/licenses/by-sa/3.0/
+ 456. https://www.mediawiki.org/
+ 457. https://creativecommons.org/licenses/by-sa/3.0/
+ 458. https://www.porplemontage.com/privacy
+ 459. https://www.ssbwiki.com/SmashWiki:About
+ 460. https://www.ssbwiki.com/SmashWiki:General_disclaimer
+ 461. https://www.ssbwiki.com/index.php?title=Tournament:IMPULSE&mobileaction=toggle_view_mobile
+
+   Hidden links:
+ 463. https://www.ssbwiki.com/Main_Page

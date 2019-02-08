@@ -21,6 +21,7 @@ main:basic()
 main:lexicon("#character", load_nocase("./lexique/ssbm_characters.txt"))
 main:lexicon("#player", "./lexique/ssbm_players.txt")
 main:lexicon("#questionWord", "./lexique/question_words.txt")
+main:lexicon("#tournament", load_nocase("./lexique/lexique_tournois.txt"))
 main:pattern([[
 
 	[#characterQuestion
@@ -51,11 +52,19 @@ main:pattern([[
 
 ]])
 
+main:pattern([[
+
+	[#tournamentInfoQuestion
+		/[Ww]hat/ "is" #tournament  "?"
+	]
+
+]])
+
 local tags = {
 	--["#character"] = "red",
 	["#playerInfoQuestion"] = "blue",
 	["#characterQuestion"] = "red",
-	["#playerNationalityQuestion"] = "green"
+	["#tournamentInfoQuestion"] = "green"
 	
 }
  
