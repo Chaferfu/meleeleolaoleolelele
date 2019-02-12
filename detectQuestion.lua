@@ -39,6 +39,7 @@ db.tournaments["Genesis 3"] = {
 	year = "2012"
 }
 
+db.players.leffen = db.players.Leffen
 
 local function load_nocase(fname)
 	local tmp = {}
@@ -59,7 +60,7 @@ main:basic()
 
 --main:model("model-2.3.0/postag-en")
 main:lexicon("#character", load_nocase("./lexique/ssbm_characters.txt"))
-main:lexicon("#player", "./lexique/ssbm_players.txt")
+main:lexicon("#player", load_nocase("./lexique/ssbm_players.txt"))
 main:lexicon("#questionWord", "./lexique/question_words.txt")
 main:lexicon("#tournament", load_nocase("./lexique/lexique_tournois.txt"))
 main:pattern([[
@@ -170,6 +171,34 @@ end
 local file = 'questions.txt'
 local lines = lines_from(file)
 
+function extractTag(seq, tag)
+	index = seq[tag]
+	toReturn = {}
+	for i, emplacement in pairs(index) do
+		toReturn[#toReturn + 1] = seq[emplacement[1]]
+	end
+
+	return toReturn
+end
+
+function handleQuestion(question)
+	question = dark.sequence(question:gsub("%p", " %0 "))
+	main(question)
+	if havetag(question, "#playerInfoQuestion") then
+		--[[print(serialize(question["#player"]))
+		print("on est là")
+--]]	player = extractTag(question, "#player")[1].token
+		playerInfo = db.players[player]
+
+		playerMains = ""
+
+		for k,v in pairs(db.players[player].main) do 
+			playerMains = playerMains .. v .. ", "
+		end
+
+		print(player .. " is a player from " .. playerInfo.nationality .. " who mains " .. playerMains .. " and is currently ranked " .. playerInfo.rank .. "th on the MPGR ladder.")
+	end
+end
 
 
 
@@ -188,11 +217,11 @@ local lines = lines_from(file)
 -- print all line numbers and their contents
 --dark.sequence() ?
 
-for k,line in pairs(lines) do
+--[[for k,line in pairs(lines) do
   print('line[' .. k .. ']', (main(line)):tostring(tags))
-end
+end--]]
 
-function main()
+function principale()
 	print("----- Welcome to meleeleolaoleolelele -----")
 	print()
 	print("meleeleolaoleolelele : Hey ! Do you have a question regarding Super Smash Bros. Melee ?")
@@ -200,7 +229,8 @@ function main()
 		print()
 		io.write("You:")
 		question = io.read()
+		handleQuestion(question)
 	until question == "q"
 end
 
-main()
+principale()
