@@ -116,8 +116,16 @@ main:pattern([[
 
 ]])
 
+main:pattern([[
+
+	[#tournamentPlayerQuestion
+		(/[Ww]hich/ | /[Ww]hat/) ("player" | "players") (#w | #p){0,10}? #tournament (#w | #p){0,10}? "?"?
+	]
+
+]])
+
 local tags = {
-	--["#character"] = "red",
+	-- ["#tournament"] = "red",
 	["#playerInfoQuestion"] = "blue",
 	["#characterQuestion"] = "red",
 	["#tournamentInfoQuestion"] = "green",
@@ -181,4 +189,5 @@ local lines = lines_from(file)
 --dark.sequence() ?
 for k,line in pairs(lines) do
   print('line[' .. k .. ']', (main(line)):tostring(tags))
+  --print(serialize(line["#characterQuestion"]))
 end
