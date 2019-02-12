@@ -1,5 +1,45 @@
 dark = require("dark")
 
+db = {}
+db.players = {}
+db.players["Armada"] = {
+
+	main = {"Peach", "Fox"},
+	nationality = "Sweden",
+	rank = 3,
+
+}
+db.players["Mango"] = {
+
+	main = {"Falco", "Fox"},
+	nationality = "US",
+	rank = 6
+
+}
+db.players["Leffen"] = {
+
+	main = {"Fox"},
+	nationality = "Sweden",
+	rank = 4
+
+}
+
+db.players["Zain"] = {
+
+	main = {"Marth"},
+	nationality = "US",
+	rank = 11
+
+}
+
+db.tournaments = {}
+
+db.tournaments["Genesis 3"] = {
+	players = {{player = "Leffen", rank = 1}, {player = "Armada", rank = 2}},                                                                                                       
+	year = "2012"
+}
+
+
 local function load_nocase(fname)
 	local tmp = {}
 	for line in io.lines(fname) do
@@ -60,11 +100,31 @@ main:pattern([[
 
 ]])
 
+main:pattern([[
+
+	[#tournamentDateQuestion
+		/[Ww]hen/ (#w | #p){0,10}? #tournament "?"?
+	]
+
+]])
+
+main:pattern([[
+
+	[#tournamentPlayerQuestion
+		/[Ww]ho/ (#w | #p){0,10}? #tournament "?"?
+	]
+
+]])
+
 local tags = {
 	--["#character"] = "red",
 	["#playerInfoQuestion"] = "blue",
 	["#characterQuestion"] = "red",
-	["#tournamentInfoQuestion"] = "green"
+	["#tournamentInfoQuestion"] = "green",
+	["#tournamentDateQuestion"] = "yellow",
+	["#tournamentPlayerQuestion"] = "cyan",
+	["#playerNationalityQuestion"] = "magenta"
+
 	
 }
  
@@ -81,15 +141,21 @@ function file_exists(file)
   return f ~= nil
 end
 
+function havetag(seq, tag)
+	return #seq[tag] ~= 0
+end
+
 -- get all lines from a file, returns an empty 
 -- list/table if the file does not exist
 function lines_from(file)
   if not file_exists(file) then return {} end
   lines = {}
   for line in io.lines(file) do 
-    lines[#lines + 1] = line
+    lines[#lines + 1] = dark.sequence(line:gsub("%p", " %0 "))
   end
+
   return lines
+
 end
 
 -- tests the functions above
@@ -114,6 +180,5 @@ local lines = lines_from(file)
 -- print all line numbers and their contents
 --dark.sequence() ?
 for k,line in pairs(lines) do
-  line = line:gsub("%p", " %0 ")
-  print('line[' .. k .. ']', main(line):tostring(tags))
+  print('line[' .. k .. ']', (main(line)):tostring(tags))
 end

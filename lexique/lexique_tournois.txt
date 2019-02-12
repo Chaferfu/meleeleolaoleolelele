@@ -7,7 +7,6 @@ MLG New York 2004
 MOAST 3
 MLG DC 2005
 MLG San Francisco 2005
-Gettin' Schooled 2
 MELEE-FC3
 Jack Garden Tournament
 BOMB 4
@@ -35,7 +34,6 @@ Epita Smash Arena 2
 Revival of Melee
 SMASH ATTACK
 Epita Smash Arena 3
-GENESIS
 Super Lion 4
 Revival of Melee 2
 Pound 4
@@ -99,7 +97,6 @@ Helix
 The Big House 5
 MLG World Finals 2015
 Smash Summit
-Eclipse
 DreamHack Winter 2015
 GENESIS 3
 PAX Arena
@@ -126,6 +123,7 @@ Canada Cup 2016
 Smash Summit 3
 DreamHack Winter 2016
 UGC Smash Open
+Gettin' Schooled 2
 Don't Park on the Grass
 GENESIS 4
 B.E.A.S.T 7
@@ -180,4 +178,5 @@ The Mang0: Homecoming
 Smash Summit 7
 Don't Park on the Grass 2018
 GENESIS 6
- 
+GENESIS
+Eclipse
