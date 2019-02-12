@@ -179,6 +179,20 @@ local lines = lines_from(file)
 
 -- print all line numbers and their contents
 --dark.sequence() ?
+
 for k,line in pairs(lines) do
   print('line[' .. k .. ']', (main(line)):tostring(tags))
 end
+
+function main()
+	print("----- Welcome to meleeleolaoleolelele -----")
+	print()
+	print("meleeleolaoleolelele : Hey ! Do you have a question regarding Super Smash Bros. Melee ?")
+	repeat
+		print()
+		io.write("You:")
+		question = io.read()
+	until question == "q"
+end
+
+main()
