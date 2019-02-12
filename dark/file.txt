@@ -1,0 +1,50 @@
+return{
+  players = {
+    Ken = {
+      nicknames = {
+        [1] = "Ken",
+        [2] = "SephirothKen",
+        [3] = "TheKingofSmash",
+      },
+      name = {
+        [1] = "Ken",
+      },
+      nationality = {
+        [1] = "American",
+      },
+      mains = {
+        [1] = "Marth",
+      },
+    },
+    Armada = {
+      nicknames = {
+      },
+      name = {
+        [1] = "Armada",
+      },
+      nationality = {
+        [1] = "Sweden",
+      },
+      mains = {
+        [1] = "Peach",
+        [2] = "Fox",
+      },
+    },
+    Mango = {
+      nicknames = {
+        [1] = "ScorpionMaster",
+        [2] = "TheKid",
+        [3] = "TheGOAT",
+        [4] = "TheBuster",
+      },
+      name = {
+        [1] = "Mango",
+      },
+      nationality = {
+        [1] = "Norwalk",
+      },
+      mains = {
+      },
+    },
+  },
+}
