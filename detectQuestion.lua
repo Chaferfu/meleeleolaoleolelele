@@ -1,5 +1,11 @@
 dark = require("dark")
 
+
+--- historique questions = liste de tags
+
+historiqueQuestion = {}
+--- historique réponse = lié à question précedente et liste des réponses.
+
 db = {}
 db.players = {}
 db.players["Armada"] = {
@@ -185,6 +191,7 @@ function handleQuestion(question)
 	question = dark.sequence(question:gsub("%p", " %0 "))
 	main(question)
 	if havetag(question, "#playerInfoQuestion") then
+		table.insert(historiqueQuestion, "#playerInfoQuestion")
 		--[[print(serialize(question["#player"]))
 		print("on est là")
 --]]	player = extractTag(question, "#player")[1].token
@@ -230,6 +237,7 @@ function principale()
 		io.write("You:")
 		question = io.read()
 		handleQuestion(question)
+		print(historiqueQuestion[1])
 	until question == "q"
 end
 
