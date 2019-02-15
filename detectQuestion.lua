@@ -59,12 +59,55 @@ local function load_nocase(fname)
 	return tmp
 end
 
+-- Returns the Levenshtein distance between the two given strings
+function string.levenshtein(str1, str2)
+	local len1 = string.len(str1)
+	local len2 = string.len(str2)
+	local matrix = {}
+	local cost = 0
+	
+        -- quick cut-offs to save time
+	if (len1 == 0) then
+		return len2
+	elseif (len2 == 0) then
+		return len1
+	elseif (str1 == str2) then
+		return 0
+	end
+	
+        -- initialise the base matrix values
+	for i = 0, len1, 1 do
+		matrix[i] = {}
+		matrix[i][0] = i
+	end
+	for j = 0, len2, 1 do
+		matrix[0][j] = j
+	end
+	
+        -- actual Levenshtein algorithm
+	for i = 1, len1, 1 do
+		for j = 1, len2, 1 do
+			if (str1:byte(i) == str2:byte(j)) then
+				cost = 0
+			else
+				cost = 1
+			end
+			
+			matrix[i][j] = math.min(matrix[i-1][j] + 1, matrix[i][j-1] + 1, matrix[i-1][j-1] + cost)
+		end
+	end
+	
+        -- return the last value - this is the Levenshtein distance
+	return matrix[len1][len2]
+end
+
 local main = dark.pipeline()
+local applyLexicons = dark.pipeline()
 
 main:basic()
 
 
---main:model("model-2.3.0/postag-en")
+-- main:model("model-2.3.0/postag-en")
 main:lexicon("#character", load_nocase("./lexique/ssbm_characters.txt"))
 main:lexicon("#player", load_nocase("./lexique/ssbm_players.txt"))
 main:lexicon("#questionWord", "./lexique/question_words.txt")
@@ -131,6 +174,12 @@ main:pattern([[
 
 ]])
 
+
+applyLexicons:lexicon("#character", load_nocase("./lexique/ssbm_characters.txt"))
+applyLexicons:lexicon("#player", load_nocase("./lexique/ssbm_players.txt"))
+applyLexicons:lexicon("#questionWord", "./lexique/question_words.txt")
+applyLexicons:lexicon("#tournament", load_nocase("./lexique/lexique_tournois.txt"))
+
 local tags = {
 	-- ["#tournament"] = "red",
 	["#playerInfoQuestion"] = "blue",
@@ -189,7 +238,20 @@ end
 
 function handleQuestion(question)
 	question = dark.sequence(question:gsub("%p", " %0 "))
+
+	for i = 1, #question do
+		print(question[i].token )
+		for kw in io.lines("lexique/ssbm_characters.txt") do
+			if question[i].token ~= kw and question[i].token ~= kw:lower() and (string.levenshtein(question[i].token, kw:lower()) == 1 or string.levenshtein(question[i].token, kw) == 1) and string.len(question[i].token) > 2 then
+				print("Did you mean " .. kw .. " ?")
+				return
+			end
+		end
+	end
+		
 	main(question)
+	print("question : " .. question:tostring())
+
 	if havetag(question, "#playerInfoQuestion") then
 		table.insert(historiqueQuestion, "#playerInfoQuestion")
 		--[[print(serialize(question["#player"]))
