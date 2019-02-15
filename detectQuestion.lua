@@ -108,7 +108,7 @@ main:lexicon("#questionWord", "./lexique/question_words.txt")
 main:lexicon("#tournament", load_nocase("./lexique/lexique_tournois.txt"))
 main:pattern([[
 
-	[#characterQuestion
+	[#playerCharacterQuestion
 			#questionWord (#w | #p){0,10}? #player (#w | #p){0,5}? (character | main | Character | Main | play | Play) "?"{0,1}
 	]
 
@@ -177,7 +177,7 @@ applyLexicons:lexicon("#tournament", load_nocase("./lexique/lexique_tournois.txt
 local tags = {
 	-- ["#tournament"] = "red",
 	["#playerInfoQuestion"] = "blue",
-	["#characterQuestion"] = "red",
+	["#playerCharacterQuestion"] = "red",
 	["#tournamentInfoQuestion"] = "green",
 	["#tournamentDateQuestion"] = "yellow",
 	["#tournamentPlayerQuestion"] = "cyan",
@@ -247,24 +247,43 @@ function handleQuestion(question)
 	print("question : " .. question:tostring())
 
 	if havetag(question, "#playerInfoQuestion") then
-		--[[print(serialize(question["#player"]))
-		print("on est là")
---]]	player = extractTag(question, "#player")[1].token
-		playerInfo = db.players[player]
+		handlePlayerInfoQuestion(question)
+	end
 
-		playerMains = ""
-
-		for k,v in pairs(db.players[player].main) do 
-			playerMains = playerMains .. v .. ", "
-		end
-
-		print(player .. " is a player from " .. playerInfo.nationality .. " who mains " .. playerMains .. " and is currently ranked " .. playerInfo.rank .. "th on the MPGR ladder.")
+	if havetag(question, "#playerCharacterQuestion") then
+		handleplayerCharacterQuestion(question)
 	end
 end
 
+function handleplayerCharacterQuestion(question)
+
+	player = extractTag(question, "#player")[1].token
+	playerInfo = db.players[player]
+
+	playerMains = ""
+
+	for k,v in pairs(db.players[player].main) do 
+		playerMains = playerMains .. v .. ", "
+	end
+
+	print(player .. " plays " .. playerMains .. ".")
+end
 
 
+function handlePlayerInfoQuestion(question)
 
+	player = extractTag(question, "#player")[1].token
+	playerInfo = db.players[player]
+
+	playerMains = ""
+
+	for k,v in pairs(db.players[player].main) do 
+		playerMains = playerMains .. v .. ", "
+	end
+
+	print(player .. " is a player from " .. playerInfo.nationality .. " who mains " .. playerMains .. " and is currently ranked " .. playerInfo.rank .. "th on the MPGR ladder.")
+
+end
 
 
 
