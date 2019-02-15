@@ -1,5 +1,11 @@
 dark = require("dark")
 
+
+--- historique questions = liste de tags
+
+historiqueQuestion = {}
+--- historique réponse = lié à question précedente et liste des réponses.
+
 db = {}
 db.players = {}
 db.players["Armada"] = {
@@ -248,7 +254,9 @@ function handleQuestion(question)
 
 	if havetag(question, "#playerInfoQuestion") then
 		handlePlayerInfoQuestion(question)
+		table.insert(historiqueQuestion, "#playerInfoQuestion")
 	end
+
 
 	if havetag(question, "#playerCharacterQuestion") then
 		handleplayerCharacterQuestion(question)
@@ -316,6 +324,7 @@ function principale()
 		io.write("You:")
 		question = io.read()
 		handleQuestion(question)
+		print(historiqueQuestion[1])
 	until question == "q"
 end
 
