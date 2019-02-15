@@ -262,8 +262,13 @@ function handleplayerCharacterQuestion(question)
 
 	playerMains = ""
 
-	for k,v in pairs(db.players[player].main) do 
-		playerMains = playerMains .. v .. ", "
+	print()
+	for i = 1, #db.players[player].main do 
+		if i == 1 then 
+			playerMains = playerMains .. db.players[player].main[i]
+		else
+			playerMains =  playerMains .. ", " .. db.players[player].main[i] 
+		end
 	end
 
 	print(player .. " plays " .. playerMains .. ".")
