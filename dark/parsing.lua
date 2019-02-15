@@ -29,6 +29,10 @@ function registerindb(seq)
 		-- Nicknames
 		local nicknames = tagstring(seq, "#nickname")
 		db["players"][pseudo]["nicknames"] = nicknames
+
+		-- Ranks
+		local rank = tagstring(seq, "#rank")
+		db["players"][pseudo]["rank"] = rank
 	end
 end
 
@@ -51,10 +55,19 @@ function tagstring (seq, tag, deb, fin)
 	return tab
 end 
 
+-- Supprime les doublons du tableau en entrée
+--function remove_duplicates (tab)
+--	for idx, pos in ipairs(tab) do
+--	return tab
+--end 
+
 -- ***************************************** --
 
 
 -- *********** Partie Extraction *********** --
+
+-- Sequence pour eviter les notations de type "[12]"
+local escapeBalise = '("[" /^[0-9]+$/ "]")?'
 
 local P = dark.pipeline()
 P:basic()
@@ -76,8 +89,10 @@ P:pattern([[ from [#nationality #W] ]])
 P:pattern([[ #pseudo (#w | "," | "(" | ")"){0,20}? from[#nationality #W] ]])
 
 -- Detection des mains
-P:pattern([[ [#main #character] (("," [#main #character])*? and [#main #character])? main]])
-P:pattern([[ mains [#main #character] (("," [#main #character])*? and [#main #character])? ]])
+P:pattern([[  [#main #character] (("," [#main #character])*? and [#main #character])? main]])
+P:pattern([[ (mains | main) [#main #character] (("," [#main #character])*? and [#main #character])? ]])
+P:pattern([[ (mains | main) [#main #character] ("/" [#main #character])+ ]])
+P:pattern([[ best Melee? [#main #character] ]])
 
 -- Detection des surnoms du joueur (a completer) (?)
 P:pattern([[ (also known as | aka | also referred to as (just)?) (( [#nickname ( #w | #W ){1,5}] ( and | "," | or){0,2} ){1,10} ( is | "." | ")"))? ]])
@@ -105,14 +120,15 @@ local tags = {
 	["#globalRank"] = "green",
 }
 
-local rep = "../WikiSmash"
+local rep = "../Smashers"
 for fichier in os.dir(rep) do
 	for line in io.lines(rep.."/"..fichier) do
+		line = line:gsub("%[[0-9]+%]", "")
 		line = line:gsub("%p", " %0 ")
 		seq = dark.sequence(line)
 		P(seq)
-		print(seq:tostring(tags))
-		print("\n")
+		--print(seq:tostring(tags))
+		--print("\n")
 		--Ajout des infos dans la bd
 		registerindb(seq)
 	end
