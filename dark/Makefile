@@ -1,4 +1,4 @@
-LUADIR=/usr/local
+LUADIR=/home/tp-home006/klacos1/Desktop/lua-5.3.5
 
 LUABIN=${LUADIR}/bin
 LUAINC=${LUADIR}/include
@@ -10,7 +10,7 @@ INCDIR =-I${LUAINC}
 LIBDIR =-L${LUALIB}
 
 DESTDIR=
-PREFIX =/usr/local
+PREFIX =/home/tp-home006/klacos1/Desktop/lua-5.3.5
 
 INSTALL= install -p
 INSTALL_EXEC= $(INSTALL) -m 0755
