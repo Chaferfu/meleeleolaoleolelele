@@ -1,6 +1,7 @@
 dark = require("dark")
 
 
+	debug = true
 
 
 
@@ -262,7 +263,9 @@ function handleQuestion(question)
 	question = dark.sequence(question:gsub("%p", " %0 "))
 
 	for i = 1, #question do
-		print(question[i].token )
+		if debug then 
+			print(question[i].token )
+		end
 		for kw in io.lines("lexique/ssbm_characters.txt") do
 			if question[i].token ~= kw and question[i].token ~= kw:lower() and (string.levenshtein(question[i].token, kw:lower()) == 1 or string.levenshtein(question[i].token, kw) == 1) and string.len(question[i].token) > 2 then
 				print("Did you mean " .. kw .. " ?")
@@ -272,8 +275,12 @@ function handleQuestion(question)
 	end
 		
 	main(question)
-	print("question : " .. question:tostring())
-	print("\n\n\n")
+
+	if debug then 
+		print("question : " .. question:tostring())
+		print("\n\n\n")
+	end
+	
 
 	if havetag(question, "#playerInfoQuestion") then
 		--[[print(serialize(question["#player"]))
@@ -304,7 +311,7 @@ end
 function handlePlayerNationalityQuestion(question)
 	player = extractTag(question, "#player")[1].token
 	nationality = db.players[player].nationality
-	botSays(player .. " comes from " .. nationality)
+	botSays(player .. " comes from " .. nationality .. ".", player)
 
 	historiqueQuestion[#historiqueQuestion + 1] = {"#playerNationalityQuestion", player, db.players[player].nationality}
 end
@@ -317,7 +324,6 @@ function handleplayerCharacterQuestion(question)
 
 	playerMains = ""
 
-	print()
 	for i = 1, #db.players[player].main do 
 		if i == 1 then 
 			playerMains = playerMains .. db.players[player].main[i]
@@ -374,14 +380,45 @@ end
   print('line[' .. k .. ']', (main(line)):tostring(tags))
 end--]]
 
-function botSays(answer)
+function botSays(answer, subject)
+	
+	subject = subject or nil
 
-	print("meleeleolaoleolelele : " .. answer .. " " .. otherQuestion[ math.random( #otherQuestion ) ])
+	if debug then 
+		if subject ~= nil then 
+			print("subject : " .. subject) 
+		else 
+			print("subject is nil") 
+		end
 
+		print("answer " .. answer)
+		print(serialize(questionAbout))
+
+
+
+		for q, v in ipairs(questionAbout) do
+			print("questionAbout " .. v)
+		end
+
+
+
+	end
+
+	if subject == nil then 
+		print("meleeleolaoleolelele : " .. answer .. " " .. otherQuestion[ math.random( #otherQuestion ) ])
+
+	else 
+		print("meleeleolaoleolelele : " .. answer .. " " .. questionAbout[ math.random( #questionAbout ) ] .. subject .. "?")
+	end
 end
 
 function principale()
 
+
+	questionAbout = {}
+	for line in io.lines("repliques/questionAbout.txt") do
+		questionAbout[#questionAbout + 1] = line
+	end
 
 	incomprehension = {}
 	for line in io.lines("repliques/incomprehension.txt") do
@@ -393,17 +430,20 @@ function principale()
 		otherQuestion[#otherQuestion + 1] = line
 	end
 
-	print( serialize(incomprehension))
+	if debug then 
+		print( serialize(incomprehension))
+	end
 
 	print("----- Welcome to meleeleolaoleolelele -----")
 	print()
 	print("meleeleolaoleolelele : Hey ! Do you have a question regarding Super Smash Bros. Melee ?")
 	repeat
-		print()
 		io.write("You:")
 		question = io.read()
 		handleQuestion(question)
-		print(serialize(historiqueQuestion))
+		if debug then 
+			print(serialize(historiqueQuestion))
+		end
 	until question == "q"
 end
 
