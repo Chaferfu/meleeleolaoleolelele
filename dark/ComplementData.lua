@@ -1,11 +1,6 @@
 local dark = require("dark")
 
 -- *************** Partie DB *************** --
-local db = {
-	["players"] = {
-		
-	}
-}
 
 
 -- Fonction d'enregistrement des donnees extraites dans la BD
@@ -36,8 +31,6 @@ function registerindb(seq)
 		db["players"][pseudo]["globalRank"] = rank
 	end
 end
-
-
 
 -- Permet d'extraire des sequences de dark les mots detectes
 function tagstring (seq, tag, deb, fin)
@@ -74,55 +67,47 @@ end
 function havetag(seq, tag)
 	return #seq[tag] ~= 0
 end
--- Supprime les doublons du tableau en entrée
---function remove_duplicates (tab)
---	for idx, pos in ipairs(tab) do
---	return tab
---end 
 
 -- ***************************************** --
 
 
 -- *********** Partie Extraction *********** --
-
--- Sequence pour eviter les notations de type "[12]"
-local escapeBalise = '("[" /^[0-9]+$/ "]")?'
-
 local P = dark.pipeline()
 P:basic()
 P:lexicon("#character", "lexicon/ssbm_characters.txt")
 -- P:lexicon("#pseudo", "lexicon/pseudos.txt")
 
--- Detection des années
-P:pattern([[ [#year /^([1-2][0-9][0-9][0-9])$/] ]])
+P:pattern([[ Melee main ]])
+-- -- Detection des années
+-- P:pattern([[ [#year /^([1-2][0-9][0-9][0-9])$/] ]])
 
--- Detection du rank
-P:pattern([[ [#rank ( /^[0-9]+[tnrs][hdt]$/ )] ]])
-P:pattern([[ [#globalRank #rank #w{0,4}? #year MPGR] ]])
+-- -- Detection du rank
+-- P:pattern([[ [#rank ( /^[0-9]+[tnrs][hdt]$/ )] ]])
+-- P:pattern([[ [#globalRank #rank #w{0,4}? #year MPGR] ]])
 
--- Detection du pseudo du joueur
-P:pattern([[ [#pseudo_ .]  ("(".{0,30}? ")" | /^[^.]+$/{0,30}?)  is ([#nationality #W] | #w)*  ( smasher | Melee player )]])
-P:pattern([[ [#joueur [#pseudo #pseudo_] /^[^.]+$/{0,80}? (#character | #globalRank) ] ]])
+-- -- Detection du pseudo du joueur
+-- P:pattern([[ [#pseudo_ .]  ("(".{0,30}? ")" | /^[^.]+$/{0,30}?)  is ([#nationality #W] | #w)*  ( smasher | Melee player )]])
+-- P:pattern([[ [#joueur [#pseudo #pseudo_] /^[^.]+$/{0,80}? (#character | #globalRank) ] ]])
 
-P:pattern([[ from [#nationality #W] ]])
-P:pattern([[ #pseudo (#w | "," | "(" | ")"){0,20}? from[#nationality #W{0,3}] ]])
+-- P:pattern([[ from [#nationality #W] ]])
+-- P:pattern([[ #pseudo (#w | "," | "(" | ")"){0,20}? from[#nationality #W{0,3}] ]])
 
--- Detection des mains
-P:pattern([[  [#main #character] (("," [#main #character])*? and [#main #character])? main]])
-P:pattern([[ (mains | main) [#main #character] (("," [#main #character])*? and [#main #character])? ]])
-P:pattern([[ (mains | main) [#main #character] ("/" [#main #character])+ ]])
-P:pattern([[ best Melee? [#main #character] ]])
+-- -- Detection des mains
+-- P:pattern([[  [#main #character] (("," [#main #character])*? and [#main #character])? main]])
+-- P:pattern([[ (mains | main) [#main #character] (("," [#main #character])*? and [#main #character])? ]])
+-- P:pattern([[ (mains | main) [#main #character] ("/" [#main #character])+ ]])
+-- P:pattern([[ best Melee? [#main #character] ]])
 
--- Detection des surnoms du joueur (a completer) (?)
-P:pattern([[ (also known as (simply)?| aka | also referred to as (just)?) (( [#nickname ( #w | #W ){1,5}] ( and | "," | or){0,2} ){1,10}? ( is | "." | ")"))? ]])
+-- -- Detection des surnoms du joueur (a completer) (?)
+-- P:pattern([[ (also known as (simply)?| aka | also referred to as (just)?) (( [#nickname ( #w | #W ){1,5}] ( and | "," | or){0,2} ){1,10}? ( is | "." | ")"))? ]])
 
--- Detection des tournois 
-P:pattern([[ ( winner of | won | winning )  ( [#tournoi #W{0,5}?] ( "," | and | ".")){0,5} ]])
-P:pattern([[ facing .{0,3}? in .{0,2}? at [#tournoi .{0,5}?] ( "," | "." ) ]])
+-- -- Detection des tournois 
+-- P:pattern([[ ( winner of | won | winning )  ( [#tournoi #W{0,5}?] ( "," | and | ".")){0,5} ]])
+-- P:pattern([[ facing .{0,3}? in .{0,2}? at [#tournoi .{0,5}?] ( "," | "." ) ]])
 
--- Detection des phrases (attention aux acronymes)
-P:pattern([[ [#acronym (/^%u$/ ".")+ /^%u$/ ] ]])
-P:pattern([[ [#sentence /^[A-Z]/ (#acronym | .)*? "."] ]])
+-- -- Detection des phrases (attention aux acronymes)
+-- P:pattern([[ [#acronym (/^%u$/ ".")+ /^%u$/ ] ]])
+-- P:pattern([[ [#sentence /^[A-Z]/ (#acronym | .)*? "."] ]])
 
 -- ***************************************** --
 
@@ -158,5 +143,3 @@ file = io.open("file.txt", "w")
 file:write("return")
 file:write(serialize(db))
 io.close(file)
-
-
