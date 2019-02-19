@@ -46,6 +46,7 @@ db.tournaments["Genesis 3"] = {
 }
 
 db.players.leffen = db.players.Leffen
+db.players.armada = db.players.Armada
 
 local function load_nocase(fname)
 	local tmp = {}
@@ -253,23 +254,19 @@ function handleQuestion(question)
 	print("question : " .. question:tostring())
 
 	if havetag(question, "#playerInfoQuestion") then
-<<<<<<< HEAD
-
-		
 		--[[print(serialize(question["#player"]))
 		print("on est là")
 --]]	player = extractTag(question, "#player")[1].token
 		historiqueQuestion["#playerInfoQuestion"] = {player}
 		playerInfo = db.players[player]
-=======
 		handlePlayerInfoQuestion(question)
-		table.insert(historiqueQuestion, "#playerInfoQuestion")
+		historiqueQuestion[#historiqueQuestion + 1] = "#playerInfoQuestion"
 	end
->>>>>>> 1d044838840de0cd25b7dde91f84bb547e10344e
 
 
 	if havetag(question, "#playerCharacterQuestion") then
 		handleplayerCharacterQuestion(question)
+		historiqueQuestion[#historiqueQuestion + 1] = "#playerCharacterQuestion"
 	end
 end
 
