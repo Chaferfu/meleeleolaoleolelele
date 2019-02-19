@@ -1,6 +1,9 @@
 dark = require("dark")
 
 
+
+
+
 --- historique questions = liste de tags
 
 historiqueQuestion = {}
@@ -288,7 +291,7 @@ function handleQuestion(question)
 
 	else 
 
-		botSays("Je n'ai pas compris votre question.")
+		botSays(incomprehension[ math.random( #incomprehension ) ])
 
 	end
 end
@@ -373,11 +376,25 @@ end--]]
 
 function botSays(answer)
 
-	print("meleeleolaoleolelele : " .. answer)
+	print("meleeleolaoleolelele : " .. answer .. " " .. otherQuestion[ math.random( #otherQuestion ) ])
 
 end
 
 function principale()
+
+
+	incomprehension = {}
+	for line in io.lines("repliques/incomprehension.txt") do
+		incomprehension[#incomprehension + 1] = line
+	end
+
+	otherQuestion = {}
+	for line in io.lines("repliques/otherQuestion.txt") do
+		otherQuestion[#otherQuestion + 1] = line
+	end
+
+	print( serialize(incomprehension))
+
 	print("----- Welcome to meleeleolaoleolelele -----")
 	print()
 	print("meleeleolaoleolelele : Hey ! Do you have a question regarding Super Smash Bros. Melee ?")
