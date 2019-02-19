@@ -253,10 +253,12 @@ function handleQuestion(question)
 	print("question : " .. question:tostring())
 
 	if havetag(question, "#playerInfoQuestion") then
-		table.insert(historiqueQuestion, "#playerInfoQuestion")
+
+		
 		--[[print(serialize(question["#player"]))
 		print("on est là")
 --]]	player = extractTag(question, "#player")[1].token
+		historiqueQuestion["#playerInfoQuestion"] = {player}
 		playerInfo = db.players[player]
 
 		playerMains = ""
@@ -299,7 +301,7 @@ function principale()
 		io.write("You:")
 		question = io.read()
 		handleQuestion(question)
-		print(historiqueQuestion[1])
+		print(serialize(historiqueQuestion))
 	until question == "q"
 end
 
