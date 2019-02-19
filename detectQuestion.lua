@@ -111,7 +111,7 @@ main:basic()
 -- main:model("model-2.3.0/postag-en")
 main:lexicon("#character", load_nocase("./lexique/ssbm_characters.txt"))
 main:lexicon("#player", load_nocase("./lexique/ssbm_players.txt"))
-main:lexicon("#questionWord", "./lexique/question_words.txt")
+main:lexicon("#questionWord", load_nocase("./lexique/question_words.txt"))
 main:lexicon("#tournament", load_nocase("./lexique/lexique_tournois.txt"))
 main:pattern([[
 
@@ -237,6 +237,24 @@ function extractTag(seq, tag)
 	return toReturn
 end
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------QUESTION HANDLING--------------------------------------------------------------
+
+
 function handleQuestion(question)
 	question = dark.sequence(question:gsub("%p", " %0 "))
 
@@ -252,6 +270,7 @@ function handleQuestion(question)
 		
 	main(question)
 	print("question : " .. question:tostring())
+	print("\n\n\n")
 
 	if havetag(question, "#playerInfoQuestion") then
 		--[[print(serialize(question["#player"]))
@@ -263,9 +282,30 @@ function handleQuestion(question)
 
 	elseif havetag(question, "#playerCharacterQuestion") then
 		handleplayerCharacterQuestion(question)
-		historiqueQuestion[#historiqueQuestion + 1] = "#playerCharacterQuestion"
+
+	elseif havetag(question, "#playerNationalityQuestion") then
+		handlePlayerNationalityQuestion(question)
+
+	else 
+
+		botSays("Je n'ai pas compris votre question.")
+
 	end
 end
+
+
+
+
+
+
+function handlePlayerNationalityQuestion(question)
+	player = extractTag(question, "#player")[1].token
+	nationality = db.players[player].nationality
+	botSays(player .. " comes from " .. nationality)
+
+	historiqueQuestion[#historiqueQuestion + 1] = {"#playerNationalityQuestion", player, db.players[player].nationality}
+end
+
 
 function handleplayerCharacterQuestion(question)
 
@@ -285,7 +325,7 @@ function handleplayerCharacterQuestion(question)
 
 	historiqueQuestion[#historiqueQuestion + 1] = {"#playerCharacterQuestion", player, db.players[player].main}
 
-	print(player .. " plays " .. playerMains .. ".")
+	botSays(player .. " plays " .. playerMains .. ".")
 end
 
 
@@ -300,9 +340,19 @@ function handlePlayerInfoQuestion(question)
 		playerMains = playerMains .. v .. ", "
 	end
 
-	print(player .. " is a player from " .. playerInfo.nationality .. " who mains " .. playerMains .. " and is currently ranked " .. playerInfo.rank .. "th on the MPGR ladder.")
+	botSays(player .. " is a player from " .. playerInfo.nationality .. " who mains " .. playerMains .. " and is currently ranked " .. playerInfo.rank .. "th on the MPGR ladder.")
 
 end
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -321,6 +371,12 @@ end
   print('line[' .. k .. ']', (main(line)):tostring(tags))
 end--]]
 
+function botSays(answer)
+
+	print("meleeleolaoleolelele : " .. answer)
+
+end
+
 function principale()
 	print("----- Welcome to meleeleolaoleolelele -----")
 	print()
@@ -335,3 +391,7 @@ function principale()
 end
 
 principale()
+
+
+
+--TODO better levensheit (comprende la question raturee), faire un ichier avec plusiquers reponses d'incomprehension et un autree pour des trucs genre "vous voulez demander autre chose ?"
