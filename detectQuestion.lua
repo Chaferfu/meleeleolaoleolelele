@@ -257,14 +257,11 @@ function handleQuestion(question)
 		--[[print(serialize(question["#player"]))
 		print("on est là")
 --]]	player = extractTag(question, "#player")[1].token
-		historiqueQuestion["#playerInfoQuestion"] = {player}
-		playerInfo = db.players[player]
-		handlePlayerInfoQuestion(question)
-		historiqueQuestion[#historiqueQuestion + 1] = "#playerInfoQuestion"
-	end
+		historiqueQuestion[#historiqueQuestion + 1] = {"#playerInfoQuestion", player}
+		handlePlayerInfoQuestion(question)	
 
 
-	if havetag(question, "#playerCharacterQuestion") then
+	elseif havetag(question, "#playerCharacterQuestion") then
 		handleplayerCharacterQuestion(question)
 		historiqueQuestion[#historiqueQuestion + 1] = "#playerCharacterQuestion"
 	end
@@ -285,6 +282,8 @@ function handleplayerCharacterQuestion(question)
 			playerMains =  playerMains .. ", " .. db.players[player].main[i] 
 		end
 	end
+
+	historiqueQuestion[#historiqueQuestion + 1] = {"#playerCharacterQuestion", player, db.players[player].main}
 
 	print(player .. " plays " .. playerMains .. ".")
 end
