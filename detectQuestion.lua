@@ -1,7 +1,7 @@
 dark = require("dark")
 
 
-	debug = true
+	debug = false
 
 
 
@@ -181,6 +181,22 @@ main:pattern([[
 
 ]])
 
+main:pattern([[
+
+	[#linkToPrevious
+		/[Ww]hat/ (#w | #p){1}? #player  "?"
+	]
+
+]])
+
+main:pattern([[
+
+	[#linkToPrevious
+		/[Aa]nd/ #player "?"
+	]
+
+]])
+
 
 applyLexicons:lexicon("#character", load_nocase("./lexique/ssbm_characters.txt"))
 applyLexicons:lexicon("#player", load_nocase("./lexique/ssbm_players.txt"))
@@ -240,7 +256,7 @@ function extractTag(seq, tag)
 		toReturn[#toReturn + 1] = seq[emplacement[1]]
 	end
 
-	return toReturn
+	return toReturn 
 end
 
 
@@ -287,8 +303,7 @@ function handleQuestion(question)
 	if havetag(question, "#playerInfoQuestion") then
 		--[[print(serialize(question["#player"]))
 		print("on est là")
---]]	player = extractTag(question, "#player")[1].token
-		historiqueQuestion[#historiqueQuestion + 1] = {"#playerInfoQuestion", player}
+--]]	
 		handlePlayerInfoQuestion(question)	
 
 	elseif havetag(question, "#bye") then
@@ -299,6 +314,9 @@ function handleQuestion(question)
 
 	elseif havetag(question, "#playerNationalityQuestion") then
 		handlePlayerNationalityQuestion(question)
+
+	elseif havetag(question, "#linkToPrevious") then
+		handlePreviousQuestion(question)
 
 	else 
 
@@ -312,6 +330,22 @@ end
 function handleBye()
 	botSays(byeSentences[ math.random( #byeSentences ) ], nil, true)
 	terminate = true
+end
+
+
+function handlePreviousQuestion(question)
+	if (#historiqueQuestion == 0) then
+		botSays(incomprehension[ math.random( #incomprehension ) ])
+	else
+		if (historiqueQuestion[#historiqueQuestion][1] == "#playerInfoQuestion") then
+			handlePlayerInfoQuestion(question)
+		elseif(historiqueQuestion[#historiqueQuestion][1] == "#playerCharacterQuestion") then
+			handleplayerCharacterQuestion(question)
+		elseif(historiqueQuestion[#historiqueQuestion][1] == "#playerNationalityQuestion") then
+			handlePlayerNationalityQuestion(question)
+		end
+	end
+
 end
 
 function handlePlayerNationalityQuestion(question)
@@ -347,6 +381,7 @@ end
 function handlePlayerInfoQuestion(question)
 
 	player = extractTag(question, "#player")[1].token
+	historiqueQuestion[#historiqueQuestion + 1] = {"#playerInfoQuestion", player}
 	playerInfo = db.players[player]
 
 	playerMains = ""
