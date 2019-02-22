@@ -3,6 +3,12 @@ dark = require("dark")
 
 	debug = false
 
+quesionTags = {"#playerCharacterQuestion"
+	,"#playerInfoQuestion"
+	,"#playerNationalityQuestion"
+	,"#tournamentInfoQuestion"
+	,"#tournamentPlayerQuestion",
+	}
 
 
 --- historique questions = liste de tags
@@ -299,6 +305,20 @@ function handleQuestion(question)
 	end
 
 
+--if noTag(question) then
+----for kw in io.lines("lexique/ssbm_players.txt") do
+------if question[i].token ~= kw and question[i].token ~= kw:lower() and (string.levenshtein(question[i].token, kw:lower()) == 1 or string.levenshtein(question[i].token, kw) == 1) and string.len(question[i].token) > 2 then
+--------question[i].token = kw
+------end
+----end
+----main(question)
+--end
+
+
+
+
+	---------------------------------
+
 
 
 
@@ -311,17 +331,19 @@ function handleQuestion(question)
 	end
 	
 
-	if havetag(question, "#playerInfoQuestion") then
-		--[[print(serialize(question["#player"]))
-		print("on est là")
---]]	
-		handlePlayerInfoQuestion(question)	
+	
 
-	elseif havetag(question, "#bye") then
+	if havetag(question, "#bye") then
 		handleBye()
 
 	elseif havetag(question, "#playerCharacterQuestion") then
 		handleplayerCharacterQuestion(question)
+
+	elseif havetag(question, "#playerInfoQuestion") then
+		--[[print(serialize(question["#player"]))
+		print("on est là")
+--]]	
+		handlePlayerInfoQuestion(question)	
 
 	elseif havetag(question, "#playerNationalityQuestion") then
 		handlePlayerNationalityQuestion(question)
@@ -512,7 +534,7 @@ function principale()
 	print()
 	print("meleeleolaoleolelele : Hey ! Do you have a question regarding Super Smash Bros. Melee ?")
 	repeat
-		io.write("You:")
+		io.write("You : ")
 		question = io.read()
 		handleQuestion(question)
 		if debug then 
