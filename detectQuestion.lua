@@ -143,7 +143,7 @@ main:pattern([[
 main:pattern([[
 
 	[#playerNationalityQuestion
-		/[Ww]hat/ (#w | #p){0,10}? #player (#w | #p){0,10}? (/[Nn]ationality/ | country)
+		/[Ww]hat/ (#w | #p){0,10}? (#player | "his" | "him" | "he" | "her" | "she") (#w | #p){0,10}? (/[Nn]ationality/ | country)
 	]
 
 ]])
@@ -151,7 +151,7 @@ main:pattern([[
 main:pattern([[
 
 	[#playerNationalityQuestion
-		/[Ww]here/ (#w | #p){0,10}? #player (#w | #p){0,10}? (live | from)
+		/[Ww]here/ (#w | #p){0,10}? (#player | "his" | "him" | "he" | "her" | "she") (#w | #p){0,10}? (live | from)
 	]
 
 ]])
@@ -383,7 +383,17 @@ function handlePreviousQuestion(question)
 end
 
 function handlePlayerNationalityQuestion(question)
-	player = extractTag(question, "#player")[1].token
+
+	if havetag(question, "#player") then 
+		player = extractTag(question, "#player")[1].token
+	else
+		if #historiqueQuestion ~= 0 then
+			player = historiqueQuestion[#historiqueQuestion][2]
+		else
+			botSays(incomprehension[ math.random( #incomprehension ) ])
+			return
+		end
+	end
 	nationality = db.players[player].nationality
 	botSays(player .. " comes from " .. nationality .. ".", player)
 
