@@ -2,34 +2,28 @@ local dark = require("dark")
 
 -- *************** Partie DB *************** --
 
+--db = do("file.txt")
+local db = {
+	["players"] = {
+		
+	}
+}
 
 -- Fonction d'enregistrement des donnees extraites dans la BD
-function registerindb(seq)
-	pseudoTab = tagstring(seq, "#pseudo")
-	if(pseudoTab ~= nil and #pseudoTab ~= 0) then
-		pseudo = pseudoTab[1]
-		
+function registerindb(seq, pseudo)
+	if(db["players"][pseudo] == nil) then
 		-- Nom principal du player
 		db["players"][pseudo] = {}
-		db["players"][pseudo]["name"] = pseudoTab
-		
-		-- Mains
-		local mains = tagstring(seq, "#main")
-		db["players"][pseudo]["mains"] = mains
-		
-		-- Nationalite
-		local nationality = tagstring(seq, "#nationality")
-		db["players"][pseudo]["nationality"] = nationality
-		
-		-- Nicknames
-		local nicknames = tagstring(seq, "#nickname")
-
-		db["players"][pseudo]["nicknames"] = nicknames
-
-		-- Ranks
-		local rank = tagstringlink(seq, "#globalRank", "#rank")
-		db["players"][pseudo]["globalRank"] = rank
+		db["players"][pseudo]["pseudo"] = pseudo
 	end
+	local mains = tagstring(seq, "#main")
+	if(mains ~= nill) then
+		db["players"][pseudo]["mains"] = mains
+	end
+	-- Sponsors
+	local sponsor = tagstring(seq, "#sponsor")
+	db["players"][pseudo]["sponsor"] = sponsor
+
 end
 
 -- Permet d'extraire des sequences de dark les mots detectes
@@ -71,13 +65,26 @@ end
 -- ***************************************** --
 
 
+-- Data accessible en sucturé :
+-- - pseudo (smasher: #pseudo)
+-- - main (Melee main #main)
+-- - sponsors (sponsor(s) #sponsor)
+-- - rank (Ranking Super Smash Bros. Melee Summer 2018 MPGR: #rank)
+-- - money (Winnings Super Smash Bros. Melee ~)
+-- - name (Real name #name)
+-- - birth + age (Birth date #birth (age #age))
+-- - lieu (Location #ville ,)
+
 -- *********** Partie Extraction *********** --
 local P = dark.pipeline()
 P:basic()
 P:lexicon("#character", "lexicon/ssbm_characters.txt")
 -- P:lexicon("#pseudo", "lexicon/pseudos.txt")
 
-P:pattern([[ Melee main ]])
+P:pattern([[ Smasher ':' [#pseudo #w{1,3}] ]])
+P:pattern([[ Melee (main | mains) ([#main #character] ','?)* ]])
+P:pattern([[ sponsor '(' s ')' [#sponsor #w{1,3}?] ','? ]])
+
 -- -- Detection des années
 -- P:pattern([[ [#year /^([1-2][0-9][0-9][0-9])$/] ]])
 
@@ -112,18 +119,18 @@ P:pattern([[ Melee main ]])
 -- ***************************************** --
 
 local tags = {
-	["#character"] = "blue",
+	-- ["#character"] = "blue",
 	["#pseudo"] = "yellow",
-	["#joueur"] = "yellow",
-	["#nationality"] = "green",
+	-- ["#joueur"] = "yellow",
+	["#sponsor"] = "green",
 	["#main"] = "blue",
-	["#nickname"] = "green",
-	["#year"] = "yellow",
-	["#tournoi"] = "yellow",
-	["#rank"] = "green",
-	["#globalRank"] = "green",
+	-- ["#nickname"] = "green",
+	-- ["#year"] = "yellow",
+	-- ["#tournoi"] = "yellow",
+	-- ["#rank"] = "green",
+	-- ["#globalRank"] = "green",
 }
-
+local pseudo = ""
 local rep = "../Smashers"
 for fichier in os.dir(rep) do
 	for line in io.lines(rep.."/"..fichier) do
@@ -131,15 +138,22 @@ for fichier in os.dir(rep) do
 		line = line:gsub("%p", " %0 ")
 		seq = dark.sequence(line)
 		P(seq)
+		pseudoTab = tagstring(seq, "#pseudo")
+		if(pseudoTab ~= nil and #pseudoTab ~= 0) then
+			pseudo = pseudoTab[1]
+		end
+
 		--print(seq:tostring(tags))
 		--print("\n")
 		--Ajout des infos dans la bd
-		registerindb(seq)
+		if(pseudo ~= "") then
+			registerindb(seq, pseudo)
+		end
 	end
 end
 
 -- Ecriture dans un fichier de toutes les informations
-file = io.open("file.txt", "w")
+file = io.open("file2.txt", "w")
 file:write("return")
 file:write(serialize(db))
 io.close(file)

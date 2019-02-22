@@ -1,42 +1,41 @@
-   #[1]SmashWiki (en) [2]SmashWiki Atom feed
+   #SmashWiki (en) SmashWiki Atom feed
 
 Bad title
 
    From SmashWiki, the Super Smash Bros. wiki
-   Jump to:[3]navigation, [4]search
+   Jump to:navigation, search
 
    The requested page title is empty or contains only the name of a namespace.
 
-   Return to [5]Main Page.
-   Retrieved from "[6]https://www.ssbwiki.com/Special:Badtitle"
+   Return to Main Page.
 
 Navigation menu
 
 Views
 
-     * [7]Special page
+     * Special page
 
 Personal tools
 
      * Not logged in
-     * [8]Talk
-     * [9]Contributions
-     * [10]Create account
-     * [11]Log in
+     * Talk
+     * Contributions
+     * Create account
+     * Log in
 
 Navigation
 
-     * [12]Main page
-     * [13]Smash Bros. Ultimate
-     * [14]Smash Bros. 4
-     * [15]Smash Bros. Brawl
-     * [16]Smash Bros. Melee
-     * [17]Smash Bros. (64)
-     * [18]Characters
-     * [19]Stages
-     * [20]Modes
-     * [21]Items
-     * [22]Random page
+     * Main page
+     * Smash Bros. Ultimate
+     * Smash Bros. 4
+     * Smash Bros. Brawl
+     * Smash Bros. Melee
+     * Smash Bros. (64)
+     * Characters
+     * Stages
+     * Modes
+     * Items
+     * Random page
 
 Search
 
@@ -44,66 +43,28 @@ Search
 
 Participate
 
-     * [23]Forum
-     * [24]Community portal
-     * [25]Recent changes
-     * [26]Help
-     * [27]Admin noticeboard
-     * [28]Discord server
-     * [29]YouTube channel
+     * Forum
+     * Community portal
+     * Recent changes
+     * Help
+     * Admin noticeboard
+     * Discord server
+     * YouTube channel
 
 Tools
 
-     * [30]Special pages
-     * [31]Printable version
+     * Special pages
+     * Printable version
 
-   [32]Attribution-Share Alike 3.0 Unported
-   [33]Powered by MediaWiki
-     * [34]Privacy policy
-     * [35]About SmashWiki
-     * [36]Disclaimers
-     * [37]Mobile view
+   Attribution-Share Alike 3.0 Unported
+   Powered by MediaWiki
+     * Privacy policy
+     * About SmashWiki
+     * Disclaimers
+     * Mobile view
 
 References
 
    Visible links
-   1. https://www.ssbwiki.com/opensearch_desc.php
-   2. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&feed=atom
-   3. https://www.ssbwiki.com/Smasher:#column-one
-   4. https://www.ssbwiki.com/Smasher:#searchInput
-   5. https://www.ssbwiki.com/Main_Page
-   6. https://www.ssbwiki.com/Special:Badtitle
-   7. https://www.ssbwiki.com/Smasher:
-   8. https://www.ssbwiki.com/Special:MyTalk
-   9. https://www.ssbwiki.com/Special:MyContributions
-  10. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=Special:Badtitle
-  11. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=Special:Badtitle
-  12. https://www.ssbwiki.com/Main_Page
-  13. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
-  14. https://www.ssbwiki.com/Super_Smash_Bros._4
-  15. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
-  16. https://www.ssbwiki.com/Super_Smash_Bros._Melee
-  17. https://www.ssbwiki.com/Super_Smash_Bros.
-  18. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
-  19. https://www.ssbwiki.com/Stage
-  20. https://www.ssbwiki.com/Mode
-  21. https://www.ssbwiki.com/Item
-  22. https://www.ssbwiki.com/Special:Random
-  23. https://www.ssbwiki.com/Forum:Index
-  24. https://www.ssbwiki.com/SmashWiki:Community_portal
-  25. https://www.ssbwiki.com/Special:RecentChanges
-  26. https://www.ssbwiki.com/Help:Contents
-  27. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
-  28. https://www.ssbwiki.com/SmashWiki:Discord_server
-  29. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
-  30. https://www.ssbwiki.com/Special:SpecialPages
-  31. https://www.ssbwiki.com/index.php?title=Special:Badtitle&printable=yes
-  32. https://creativecommons.org/licenses/by-sa/3.0/
-  33. https://www.mediawiki.org/
-  34. https://www.porplemontage.com/privacy
-  35. https://www.ssbwiki.com/SmashWiki:About
-  36. https://www.ssbwiki.com/SmashWiki:General_disclaimer
-  37. https://www.ssbwiki.com/index.php?title=Special:Badtitle&mobileaction=toggle_view_mobile
 
    Hidden links:
-  39. https://www.ssbwiki.com/Main_Page

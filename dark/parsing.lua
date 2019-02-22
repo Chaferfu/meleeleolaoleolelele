@@ -16,7 +16,7 @@ function registerindb(seq)
 		
 		-- Nom principal du player
 		db["players"][pseudo] = {}
-		db["players"][pseudo]["name"] = pseudoTab
+		db["players"][pseudo]["pseudo"] = pseudoTab
 		
 		-- Mains
 		local mains = tagstring(seq, "#main")

@@ -1,412 +1,411 @@
-   #[1]Edit this page [2]SmashWiki (en) [3]SmashWiki Atom feed
+   #Edit this page SmashWiki (en) SmashWiki Atom feed
 
 2017 SSBMRank
 
    From SmashWiki, the Super Smash Bros. wiki
-   Jump to:[4]navigation, [5]search
-   [6]SSBM Icon.png [7]Competitive.png
+   Jump to:navigation, search
+   SSBM Icon.png Competitive.png
 
-   The 2017 [8]SSBMRank lists the world's top 100 [9]Super Smash Bros. Melee [10]smashers, as compiled by [11]Melee It On Me. They are being announced in a series of Red Bull eSports articles that are published from January 3rd, 2018 to January 16th, 2018.
+   The 2017 SSBMRank lists the world's top 100 Super Smash Bros. Melee smashers, as compiled by Melee It On Me. They are being announced in a series of Red Bull eSports articles that are published from January 3rd, 2018 to January 16th, 2018.
 
 Contents
 
-     * [12]1 Methods
-          + [13]1.1 Panelists
-     * [14]2 Rankings
-          + [15]2.1 101-104 (Just Barely Missed The Cut)
-     * [16]3 Hidden Bosses
-          + [17]3.1 List of Final Nominees
-          + [18]3.2 Initial Nominee List (Players that were noted, but were not on the final ballots)
-     * [19]4 External links
-     * [20]5 See also
+     * 1 Methods
+          + 1.1 Panelists
+     * 2 Rankings
+          + 2.1 101-104 (Just Barely Missed The Cut)
+     * 3 Hidden Bosses
+          + 3.1 List of Final Nominees
+          + 3.2 Initial Nominee List (Players that were noted, but were not on the final ballots)
+     * 4 External links
+     * 5 See also
 
-Methods[[21]edit]
+Methodsedit
 
-   Roughly 60 people, such as top players, community leaders, tournament seeders, and regional power rankers, were chosen to be panelists for this edition of [22]SSBMRank. The panelists were asked to rate players based on the following criterion:
+   Roughly 60 people, such as top players, community leaders, tournament seeders, and regional power rankers, were chosen to be panelists for this edition of SSBMRank. The panelists were asked to rate players based on the following criterion:
    Based on quality and quantity of results in 2017, rate each player on a scale of 1-10. Imagine if everyone entered a tournament, one hundred times. Who would perform the best?
-   The tournaments were from [23]Eden to (only top 30 could be edited at this point) [24]The Holiday Bash Smash Invitational. They voted on a 1-10 scale with the best player receiving a "10" and the worst player receiving a "1". Ballots that were not scaled properly were rescaled using an algorithm. The three lowest and three highest ratings before taking the average were removed in order to reduce the variance.
+   The tournaments were from Eden to (only top 30 could be edited at this point) The Holiday Bash Smash Invitational. They voted on a 1-10 scale with the best player receiving a "10" and the worst player receiving a "1". Ballots that were not scaled properly were rescaled using an algorithm. The three lowest and three highest ratings before taking the average were removed in order to reduce the variance.
 
-Panelists[[25]edit]
+Panelistsedit
 
-   Canada (4) - [26]Nate$, [27]TO Joe, [28]Mosh, [29]PracticalTAS
-   Europe (6) - [30]King Funk, [31]Mobiusman, [32]Flippy, [33]Reverb, [34]solariiii, [35]Mahie
-   South Korea (1) - [36]KayB
-   [37]Maryland/Virginia (4) - [38]Redd, [39]Chillin, [40]Rishi, [41]Fendrick Lamar
-   Midwest (5) - [42]Juggleguy, [43]Duck, [44]Vro, [45]Redd, [46]Gamero
-   Mountain Area (2) - [47]Appel, [48]MattDotZeb
-   New England (3) - [49]EdwinBudding, [50]Gtown Tom, [51]Crush
-   [52]Northern California (5) - [53]Reno, [54]DestinyFan21, [55]Nintendude, [56]dizzkidboogie, [57]Algebra123230/[58]Dingus (dual ballot)
-   Pacific Northwest (3) - [59]Aiden, [60]Rustin, [61]FatGoku
-   [62]Southern California (4) - [63]Captain Faceroll, [64]Chroma, [65]HugS, [66]S2J
-   South (5) - [67]Gimme, [68]Tuesday, [69]SleepyK, [70]Zhea, [71]Jake13
-   Arizona (1) - [72]Tai
-   [73]Tristate (6) - [74]Pikachu942/[75]Ambisinister (dual ballot), [76]Swedish Delight, [77]Ryobeat, [78]Slox, [79]GimmeDatWheat, [80]SaveAsUntitled
+   Canada (4) - Nate$, TO Joe, Mosh, PracticalTAS
+   Europe (6) - King Funk, Mobiusman, Flippy, Reverb, solariiii, Mahie
+   South Korea (1) - KayB
+   Maryland/Virginia (4) - Redd, Chillin, Rishi, Fendrick Lamar
+   Midwest (5) - Juggleguy, Duck, Vro, Redd, Gamero
+   Mountain Area (2) - Appel, MattDotZeb
+   New England (3) - EdwinBudding, Gtown Tom, Crush
+   Northern California (5) - Reno, DestinyFan21, Nintendude, dizzkidboogie, Algebra123230/Dingus (dual ballot)
+   Pacific Northwest (3) - Aiden, Rustin, FatGoku
+   Southern California (4) - Captain Faceroll, Chroma, HugS, S2J
+   South (5) - Gimme, Tuesday, SleepyK, Zhea, Jake13
+   Arizona (1) - Tai
+   Tristate (6) - Pikachu942/Ambisinister (dual ballot), Swedish Delight, Ryobeat, Slox, GimmeDatWheat, SaveAsUntitled
 
-Rankings[[81]edit]
+Rankingsedit
 
    Ranking             Smasher            Previous rank Movement                                            Character(s)                                           Rating
-   1       [82]USA [83]Hungrybox          2             ▲ 1      [84]JigglypuffHeadSSBM.png                                                                        100
-   2       [85]Sweden [86]Armada          1             ▼ 1      [87]PeachHeadSSBM.png [88]FoxHeadSSBM.png                                                         99.2
-   3       [89]USA [90]Mango              3             0        [91]FalcoHeadSSBM.png [92]FoxHeadSSBM.png [93]MarioHeadSSBM.png [94]CaptainFalconHeadSSBM.png     97.4
-   4       [95]USA [96]Mew2King           4             0        [97]MarthHeadSSBM.png [98]SheikHeadSSBM.png [99]FoxHeadSSBM.png [100]PeachHeadSSBM.png            96.3
-   5       [101]USA [102]Plup             6             ▲ 1      [103]SheikHeadSSBM.png [104]FoxHeadSSBM.png [105]SamusHeadSSBM.png [106]LuigiHeadSSBM.png         95.3
-   6       [107]Sweden [108]Leffen        5             ▼ 1      [109]FoxHeadSSBM.png                                                                              94.9
-   7       [110]USA [111]Axe              9             ▲ 2      [112]PikachuHeadSSBM.png [113]FalcoHeadSSBM.png [114]MarthHeadSSBM.png [115]YoungLinkHeadSSBM.png 92.6
-   8       [116]USA [117]Wizzrobe         12            ▲ 4      [118]CaptainFalconHeadSSBM.png                                                                    91.8
-   9       [119]USA [120]SFAT             7             ▼ 2      [121]FoxHeadSSBM.png                                                                              91.7
-   10      [122]USA [123]S2J              16            ▲ 6      [124]CaptainFalconHeadSSBM.png [125]FalcoHeadSSBM.png                                             89.4
-   11      [126]USA [127]ChuDat           22            ▲ 11     [128]IceClimbersHeadSSBM.png                                                                      88.8
-   12      [129]USA [130]Druggedfox       23            ▲ 11     [131]FoxHeadSSBM.png                                                                              87.8
-   13      [132]USA [133]Shroomed         10            ▼ 3      [134]SheikHeadSSBM.png [135]MarthHeadSSBM.png                                                     87.7
-   14      [136]USA [137]Duck             15            ▲ 1      [138]SamusHeadSSBM.png                                                                            85.2
-   15      [139]USA [140]Crush            49            ▲ 34     [141]FoxHeadSSBM.png                                                                              85
-   16      [142]USA [143]Swedish Delight  11            ▼ 5      [144]SheikHeadSSBM.png [145]PeachHeadSSBM.png                                                     84.8
-   17      [146]USA [147]Lucky            19            ▲ 2      [148]FoxHeadSSBM.png [149]CaptainFalconHeadSSBM.png [150]MarthHeadSSBM.png                        84.8
-   18      [151]USA [152]Westballz        8             ▼ 10     [153]FalcoHeadSSBM.png [154]FoxHeadSSBM.png [155]CaptainFalconHeadSSBM.png                        84.1
-   19      [156]USA [157]La Luna          21            ▲ 2      [158]MarthHeadSSBM.png                                                                            84
-   20      [159]Canada [160]n0ne          18            ▼ 2      [161]CaptainFalconHeadSSBM.png [162]GanondorfHeadSSBM.png                                         82.6
-   21      [163]USA [164]PewPewU          14            ▼ 7      [165]MarthHeadSSBM.png [166]FoxHeadSSBM.png                                                       81.6
-   22      [167]USA [168]Zain             66            ▲ 44     [169]MarthHeadSSBM.png                                                                            80.3
-   23      [170]USA [171]HugS             38            ▲ 15     [172]SamusHeadSSBM.png                                                                            79.1
-   24      [173]Japan [174]aMSa           32            ▲ 8      [175]YoshiHeadSSBM.png                                                                            78.3
-   25      [176]USA [177]Mike Haze        28            ▲ 3      [178]FoxHeadSSBM.png                                                                              76.9
-   26      [179]USA [180]lloD             54            ▲ 28     [181]PeachHeadSSBM.png                                                                            76.1
-   27      [182]USA [183]dizzkidboogie    27            0        [184]IceClimbersHeadSSBM.png                                                                      75.8
-   28      [185]Germany [186]Ice          13            ▼ 15     [187]FoxHeadSSBM.png                                                                              75.6
-   29      [188]Canada [189]KirbyKaze     29            0        [190]SheikHeadSSBM.png [191]PeachHeadSSBM.png                                                     74.0
-   30      [192]USA [193]Colbol           25            ▼ 5      [194]FoxHeadSSBM.png [195]MarthHeadSSBM.png                                                       73.6
-   31      [196]Spain [197]Trif           44            ▲ 13     [198]PeachHeadSSBM.png                                                                            73.5
-   32      [199]Canada [200]Ryan Ford     48            ▲ 16     [201]FoxHeadSSBM.png [202]FalcoHeadSSBM.png                                                       73.1
-   33      [203]USA [204]Syrox            67            ▲ 34     [205]FoxHeadSSBM.png                                                                              72.4
-   34      [206]USA [207]KJH              34            0        [208]FoxHeadSSBM.png                                                                              71.2
-   35      [209]USA [210]Nintendude       17            ▼ 18     [211]IceClimbersHeadSSBM.png                                                                      70.7
-   36      [212]USA [213]Rishi            62            ▲ 26     [214]MarthHeadSSBM.png [215]FoxHeadSSBM.png                                                       68.4
-   37      [216]USA [217]Bladewise        39            ▲ 2      [218]PeachHeadSSBM.png                                                                            67.2
-   38      [219]USA [220]Prince Abu       42            ▲ 4      [221]JigglypuffHeadSSBM.png                                                                       66.4
-   39      [222]Netherlands [223]Amsah    58            ▲ 19     [224]SheikHeadSSBM.png                                                                            66.0
-   40      [225]USA [226]Santiago         43            ▲ 3      [227]FalcoHeadSSBM.png [228]SheikHeadSSBM.png                                                     65.9
-   41      [229]UK [230]Professor Pro     24            ▼ 17     [231]FoxHeadSSBM.png                                                                              65.5
-   42      [232]USA [233]Slox             51            ▲ 9      [234]FoxHeadSSBM.png [235]FalcoHeadSSBM.png                                                       65.5
-   43      [236]USA [237]Gahtzu           35            ▼ 8      [238]CaptainFalconHeadSSBM.png                                                                    63.4
-   44      [239]Sweden [240]Android       63            ▲ 19     [241]SheikHeadSSBM.png                                                                            62.2
-   45      [242]USA [243]Hax              —             —        [244]FoxHeadSSBM.png                                                                              62.1
-   46      [245]Canada [246]Kage          70            ▲ 24     [247]GanondorfHeadSSBM.png [248]CaptainFalconHeadSSBM.png                                         61.1
-   47      [249]USA [250]Captain Smuckers 64            ▲ 17     [251]CaptainFalconHeadSSBM.png                                                                    61.1
-   48      [252]USA [253]MacD             26            ▼ 22     [254]PeachHeadSSBM.png                                                                            59.8
-   49      [255]USA [256]Ginger           —             —        [257]FalcoHeadSSBM.png                                                                            58.5
-   50      [258]USA [259]Laudandus        33            ▼ 17     [260]SheikHeadSSBM.png                                                                            57.7
-   51      [261]USA [262]Kels             55            ▲ 4      [263]FoxHeadSSBM.png [264]SheikHeadSSBM.png [265]FalcoHeadSSBM.png [266]MarthHeadSSBM.png         57.6
-   52      [267]USA [268]Captain Faceroll 45            ▼ 7      [269]SheikHeadSSBM.png                                                                            57.4
-   53      [270]USA [271]ARMY             —             —        [272]IceClimbersHeadSSBM.png [273]JigglypuffHeadSSBM.png                                          57.3
-   54      [274]USA [275]Junebug          —             —        [276]SheikHeadSSBM.png                                                                            55.3
-   55      [277]USA [278]Medz             89            ▲ 34     [279]FoxHeadSSBM.png [280]MarthHeadSSBM.png [281]FalcoHeadSSBM.png                                55.1
-   56      [282]USA [283]Abate            40            ▼ 16     [284]LuigiHeadSSBM.png                                                                            53.8
-   57      [285]USA [286]Chillin          36            ▼ 21     [287]FoxHeadSSBM.png                                                                              50.9
-   58      [288]USA [289]Squid            69            ▲ 11     [290]FalcoHeadSSBM.png                                                                            50.8
-   59      [291]USA [292]Azusa            57            ▼ 2      [293]PeachHeadSSBM.png [294]FalcoHeadSSBM.png                                                     50.3
-   60      [295]Spain [296]Overtriforce   53            ▼ 7      [297]SheikHeadSSBM.png                                                                            49.7
-   61      [298]USA [299]Spark            —             —        [300]SheikHeadSSBM.png                                                                            48.9
-   62      [301]USA [302]Ka-Master        76            ▲ 14     [303]LuigiHeadSSBM.png [304]CaptainFalconHeadSSBM.png                                             48.5
-   63      [305]Canada [306]Trulliam      77            ▲ 14     [307]FalcoHeadSSBM.png                                                                            48.0
-   64      [308]USA [309]Cactuar          60            ▼ 4      [310]MarthHeadSSBM.png [311]FoxHeadSSBM.png                                                       47.9
-   65      [312]USA [313]Redd             59            ▼ 6      [314]FoxHeadSSBM.png [315]MarthHeadSSBM.png                                                       47.2
-   66      [316]USA [317]Zhu              31            ▼ 35     [318]FalcoHeadSSBM.png [319]FoxHeadSSBM.png                                                       46.6
-   67      [320]USA [321]Darkatma         72            ▲ 5      [322]SheikHeadSSBM.png [323]PeachHeadSSBM.png [324]FoxHeadSSBM.png                                46.5
-   68      [325]USA [326]Drephen          75            ▲ 7      [327]SheikHeadSSBM.png                                                                            46.3
-   69      [328]USA [329]FatGoku          —             —        [330]FoxHeadSSBM.png                                                                              45.9
-   70      [331]USA [332]Kalamazhu        71            ▲ 1      [333]PeachHeadSSBM.png                                                                            45.8
-   71      [334]Mexico [335]Eddy Mexico   56            ▼ 15     [336]LuigiHeadSSBM.png                                                                            45.0
-   72      [337]USA [338]drunksloth       100           ▲ 28     [339]IceClimbersHeadSSBM.png                                                                      44.9
-   73      [340]USA [341]Cal              —             —        [342]FoxHeadSSBM.png                                                                              44.9
-   74      [343]USA [344]AbsentPage       —             —        [345]FoxHeadSSBM.png [346]SheikHeadSSBM.png [347]MarthHeadSSBM.png                                44.2
-   75      [348]USA [349]King Momo        —             —        [350]FalcoHeadSSBM.png                                                                            43.7
-   76      [351]USA [352]DJ Nintendo      65            ▼ 11     [353]FoxHeadSSBM.png                                                                              43.6
-   77      [354]USA [355]HomeMadeWaffles  80            ▲ 3      [356]FalcoHeadSSBM.png [357]FoxHeadSSBM.png                                                       43.6
-   78      [358]USA [359]Lovage           73            ▼ 5      [360]FoxHeadSSBM.png [361]SheikHeadSSBM.png                                                       42.6
-   79      [362]USA [363]MilkMan          81            ▲ 2      [364]FoxHeadSSBM.png                                                                              41.9
-   80      [365]USA [366]Tai              74            ▼ 6      [367]MarthHeadSSBM.png                                                                            41.7
-   81      [368]USA [369]Rik              —             —        [370]FoxHeadSSBM.png [371]FalcoHeadSSBM.png                                                       41.6
-   82      [372]USA [373]Rocky            —             —        [374]FalcoHeadSSBM.png                                                                            41.4
-   83      [375]USA [376]Jerry            —             —        [377]FoxHeadSSBM.png                                                                              41.3
-   84      [378]USA [379]iBDW             —             —        [380]FoxHeadSSBM.png                                                                              41.2
-   85      [381]USA [382]KPAN             —             —        [383]FalcoHeadSSBM.png                                                                            41.1
-   86      [384]USA [385]Mojo             88            ▲ 2      [386]FoxHeadSSBM.png                                                                              40.7
-   87      [387]USA [388]$mike            97            ▲ 10     [389]CaptainFalconHeadSSBM.png                                                                    38.1
-   88      [390]USA [391]Darktooth        —             —        [392]FoxHeadSSBM.png                                                                              37.4
-   89      [393]Netherlands [394]Zgetto   61            ▼ 28     [395]FoxHeadSSBM.png                                                                              36.8
-   90      [396]USA [397]Blea Gelo        —             —        [398]LuigiHeadSSBM.png                                                                            36.6
-   91      [399]USA [400]Kaeon            —             —        [401]FoxHeadSSBM.png                                                                              36.1
-   92      [402]USA [403]Bobby Frizz      —             —        [404]FoxHeadSSBM.png                                                                              35.9
-   93      [405]USA [406]Iceman           —             —        [407]MarthHeadSSBM.png                                                                            35.3
-   94      [408]USA [409]L                —             —        [410]FoxHeadSSBM.png                                                                              35.3
-   95      [411]USA [412]NMW              93            ▼ 2      [413]CaptainFalconHeadSSBM.png                                                                    33.2
-   96      [414]Canada [415]Moky          —             —        [416]FoxHeadSSBM.png                                                                              32.9
-   97      [417]Canada [418]Legend        —             —        [419]JigglypuffHeadSSBM.png [420]PeachHeadSSBM.png                                                32.6
-   98      [421]USA [422]Zealous5000      —             —        [423]MarthHeadSSBM.png [424]FoxHeadSSBM.png                                                       32.3
-   99      [425]USA [426]Ralph            —             —        [427]FalcoHeadSSBM.png [428]FoxHeadSSBM.png                                                       31.8
-   100     [429]USA [430]2Saint           —             —        [431]JigglypuffHeadSSBM.png                                                                       31.4
+   1       USA Hungrybox          2             ▲ 1      JigglypuffHeadSSBM.png                                                                        100
+   2       Sweden Armada          1             ▼ 1      PeachHeadSSBM.png FoxHeadSSBM.png                                                         99.2
+   3       USA Mango              3             0        FalcoHeadSSBM.png FoxHeadSSBM.png MarioHeadSSBM.png CaptainFalconHeadSSBM.png     97.4
+   4       USA Mew2King           4             0        MarthHeadSSBM.png SheikHeadSSBM.png FoxHeadSSBM.png PeachHeadSSBM.png            96.3
+   5       USA Plup             6             ▲ 1      SheikHeadSSBM.png FoxHeadSSBM.png SamusHeadSSBM.png LuigiHeadSSBM.png         95.3
+   6       Sweden Leffen        5             ▼ 1      FoxHeadSSBM.png                                                                              94.9
+   7       USA Axe              9             ▲ 2      PikachuHeadSSBM.png FalcoHeadSSBM.png MarthHeadSSBM.png YoungLinkHeadSSBM.png 92.6
+   8       USA Wizzrobe         12            ▲ 4      CaptainFalconHeadSSBM.png                                                                    91.8
+   9       USA SFAT             7             ▼ 2      FoxHeadSSBM.png                                                                              91.7
+   10      USA S2J              16            ▲ 6      CaptainFalconHeadSSBM.png FalcoHeadSSBM.png                                             89.4
+   11      USA ChuDat           22            ▲ 11     IceClimbersHeadSSBM.png                                                                      88.8
+   12      USA Druggedfox       23            ▲ 11     FoxHeadSSBM.png                                                                              87.8
+   13      USA Shroomed         10            ▼ 3      SheikHeadSSBM.png MarthHeadSSBM.png                                                     87.7
+   14      USA Duck             15            ▲ 1      SamusHeadSSBM.png                                                                            85.2
+   15      USA Crush            49            ▲ 34     FoxHeadSSBM.png                                                                              85
+   16      USA Swedish Delight  11            ▼ 5      SheikHeadSSBM.png PeachHeadSSBM.png                                                     84.8
+   17      USA Lucky            19            ▲ 2      FoxHeadSSBM.png CaptainFalconHeadSSBM.png MarthHeadSSBM.png                        84.8
+   18      USA Westballz        8             ▼ 10     FalcoHeadSSBM.png FoxHeadSSBM.png CaptainFalconHeadSSBM.png                        84.1
+   19      USA La Luna          21            ▲ 2      MarthHeadSSBM.png                                                                            84
+   20      Canada n0ne          18            ▼ 2      CaptainFalconHeadSSBM.png GanondorfHeadSSBM.png                                         82.6
+   21      USA PewPewU          14            ▼ 7      MarthHeadSSBM.png FoxHeadSSBM.png                                                       81.6
+   22      USA Zain             66            ▲ 44     MarthHeadSSBM.png                                                                            80.3
+   23      USA HugS             38            ▲ 15     SamusHeadSSBM.png                                                                            79.1
+   24      Japan aMSa           32            ▲ 8      YoshiHeadSSBM.png                                                                            78.3
+   25      USA Mike Haze        28            ▲ 3      FoxHeadSSBM.png                                                                              76.9
+   26      USA lloD             54            ▲ 28     PeachHeadSSBM.png                                                                            76.1
+   27      USA dizzkidboogie    27            0        IceClimbersHeadSSBM.png                                                                      75.8
+   28      Germany Ice          13            ▼ 15     FoxHeadSSBM.png                                                                              75.6
+   29      Canada KirbyKaze     29            0        SheikHeadSSBM.png PeachHeadSSBM.png                                                     74.0
+   30      USA Colbol           25            ▼ 5      FoxHeadSSBM.png MarthHeadSSBM.png                                                       73.6
+   31      Spain Trif           44            ▲ 13     PeachHeadSSBM.png                                                                            73.5
+   32      Canada Ryan Ford     48            ▲ 16     FoxHeadSSBM.png FalcoHeadSSBM.png                                                       73.1
+   33      USA Syrox            67            ▲ 34     FoxHeadSSBM.png                                                                              72.4
+   34      USA KJH              34            0        FoxHeadSSBM.png                                                                              71.2
+   35      USA Nintendude       17            ▼ 18     IceClimbersHeadSSBM.png                                                                      70.7
+   36      USA Rishi            62            ▲ 26     MarthHeadSSBM.png FoxHeadSSBM.png                                                       68.4
+   37      USA Bladewise        39            ▲ 2      PeachHeadSSBM.png                                                                            67.2
+   38      USA Prince Abu       42            ▲ 4      JigglypuffHeadSSBM.png                                                                       66.4
+   39      Netherlands Amsah    58            ▲ 19     SheikHeadSSBM.png                                                                            66.0
+   40      USA Santiago         43            ▲ 3      FalcoHeadSSBM.png SheikHeadSSBM.png                                                     65.9
+   41      UK Professor Pro     24            ▼ 17     FoxHeadSSBM.png                                                                              65.5
+   42      USA Slox             51            ▲ 9      FoxHeadSSBM.png FalcoHeadSSBM.png                                                       65.5
+   43      USA Gahtzu           35            ▼ 8      CaptainFalconHeadSSBM.png                                                                    63.4
+   44      Sweden Android       63            ▲ 19     SheikHeadSSBM.png                                                                            62.2
+   45      USA Hax              —             —        FoxHeadSSBM.png                                                                              62.1
+   46      Canada Kage          70            ▲ 24     GanondorfHeadSSBM.png CaptainFalconHeadSSBM.png                                         61.1
+   47      USA Captain Smuckers 64            ▲ 17     CaptainFalconHeadSSBM.png                                                                    61.1
+   48      USA MacD             26            ▼ 22     PeachHeadSSBM.png                                                                            59.8
+   49      USA Ginger           —             —        FalcoHeadSSBM.png                                                                            58.5
+   50      USA Laudandus        33            ▼ 17     SheikHeadSSBM.png                                                                            57.7
+   51      USA Kels             55            ▲ 4      FoxHeadSSBM.png SheikHeadSSBM.png FalcoHeadSSBM.png MarthHeadSSBM.png         57.6
+   52      USA Captain Faceroll 45            ▼ 7      SheikHeadSSBM.png                                                                            57.4
+   53      USA ARMY             —             —        IceClimbersHeadSSBM.png JigglypuffHeadSSBM.png                                          57.3
+   54      USA Junebug          —             —        SheikHeadSSBM.png                                                                            55.3
+   55      USA Medz             89            ▲ 34     FoxHeadSSBM.png MarthHeadSSBM.png FalcoHeadSSBM.png                                55.1
+   56      USA Abate            40            ▼ 16     LuigiHeadSSBM.png                                                                            53.8
+   57      USA Chillin          36            ▼ 21     FoxHeadSSBM.png                                                                              50.9
+   58      USA Squid            69            ▲ 11     FalcoHeadSSBM.png                                                                            50.8
+   59      USA Azusa            57            ▼ 2      PeachHeadSSBM.png FalcoHeadSSBM.png                                                     50.3
+   60      Spain Overtriforce   53            ▼ 7      SheikHeadSSBM.png                                                                            49.7
+   61      USA Spark            —             —        SheikHeadSSBM.png                                                                            48.9
+   62      USA Ka-Master        76            ▲ 14     LuigiHeadSSBM.png CaptainFalconHeadSSBM.png                                             48.5
+   63      Canada Trulliam      77            ▲ 14     FalcoHeadSSBM.png                                                                            48.0
+   64      USA Cactuar          60            ▼ 4      MarthHeadSSBM.png FoxHeadSSBM.png                                                       47.9
+   65      USA Redd             59            ▼ 6      FoxHeadSSBM.png MarthHeadSSBM.png                                                       47.2
+   66      USA Zhu              31            ▼ 35     FalcoHeadSSBM.png FoxHeadSSBM.png                                                       46.6
+   67      USA Darkatma         72            ▲ 5      SheikHeadSSBM.png PeachHeadSSBM.png FoxHeadSSBM.png                                46.5
+   68      USA Drephen          75            ▲ 7      SheikHeadSSBM.png                                                                            46.3
+   69      USA FatGoku          —             —        FoxHeadSSBM.png                                                                              45.9
+   70      USA Kalamazhu        71            ▲ 1      PeachHeadSSBM.png                                                                            45.8
+   71      Mexico Eddy Mexico   56            ▼ 15     LuigiHeadSSBM.png                                                                            45.0
+   72      USA drunksloth       100           ▲ 28     IceClimbersHeadSSBM.png                                                                      44.9
+   73      USA Cal              —             —        FoxHeadSSBM.png                                                                              44.9
+   74      USA AbsentPage       —             —        FoxHeadSSBM.png SheikHeadSSBM.png MarthHeadSSBM.png                                44.2
+   75      USA King Momo        —             —        FalcoHeadSSBM.png                                                                            43.7
+   76      USA DJ Nintendo      65            ▼ 11     FoxHeadSSBM.png                                                                              43.6
+   77      USA HomeMadeWaffles  80            ▲ 3      FalcoHeadSSBM.png FoxHeadSSBM.png                                                       43.6
+   78      USA Lovage           73            ▼ 5      FoxHeadSSBM.png SheikHeadSSBM.png                                                       42.6
+   79      USA MilkMan          81            ▲ 2      FoxHeadSSBM.png                                                                              41.9
+   80      USA Tai              74            ▼ 6      MarthHeadSSBM.png                                                                            41.7
+   81      USA Rik              —             —        FoxHeadSSBM.png FalcoHeadSSBM.png                                                       41.6
+   82      USA Rocky            —             —        FalcoHeadSSBM.png                                                                            41.4
+   83      USA Jerry            —             —        FoxHeadSSBM.png                                                                              41.3
+   84      USA iBDW             —             —        FoxHeadSSBM.png                                                                              41.2
+   85      USA KPAN             —             —        FalcoHeadSSBM.png                                                                            41.1
+   86      USA Mojo             88            ▲ 2      FoxHeadSSBM.png                                                                              40.7
+   87      USA $mike            97            ▲ 10     CaptainFalconHeadSSBM.png                                                                    38.1
+   88      USA Darktooth        —             —        FoxHeadSSBM.png                                                                              37.4
+   89      Netherlands Zgetto   61            ▼ 28     FoxHeadSSBM.png                                                                              36.8
+   90      USA Blea Gelo        —             —        LuigiHeadSSBM.png                                                                            36.6
+   91      USA Kaeon            —             —        FoxHeadSSBM.png                                                                              36.1
+   92      USA Bobby Frizz      —             —        FoxHeadSSBM.png                                                                              35.9
+   93      USA Iceman           —             —        MarthHeadSSBM.png                                                                            35.3
+   94      USA L                —             —        FoxHeadSSBM.png                                                                              35.3
+   95      USA NMW              93            ▼ 2      CaptainFalconHeadSSBM.png                                                                    33.2
+   96      Canada Moky          —             —        FoxHeadSSBM.png                                                                              32.9
+   97      Canada Legend        —             —        JigglypuffHeadSSBM.png PeachHeadSSBM.png                                                32.6
+   98      USA Zealous5000      —             —        MarthHeadSSBM.png FoxHeadSSBM.png                                                       32.3
+   99      USA Ralph            —             —        FalcoHeadSSBM.png FoxHeadSSBM.png                                                       31.8
+   100     USA 2Saint           —             —        JigglypuffHeadSSBM.png                                                                       31.4
 
-101-104 (Just Barely Missed The Cut)[[432]edit]
+101-104 (Just Barely Missed The Cut)edit
 
    Ranking           Smasher          Previous rank Movement         Character(s)         Rating
-   101     [433]USA [434]Reeve        —             —        [435]MarthHeadSSBM.png       31.2
-   102     [436]USA [437]Bananas      —             —        [438]IceClimbersHeadSSBM.png 31.0
-   103     [439]Canada [440]Nightmare 98            ▼ 5      [441]MarthHeadSSBM.png       30.4
-   104     [442]USA [443]Vro          —             —        [444]MarthHeadSSBM.png       30.3
+   101     USA Reeve        —             —        MarthHeadSSBM.png       31.2
+   102     USA Bananas      —             —        IceClimbersHeadSSBM.png 31.0
+   103     Canada Nightmare 98            ▼ 5      MarthHeadSSBM.png       30.4
+   104     USA Vro          —             —        MarthHeadSSBM.png       30.3
 
-Hidden Bosses[[445]edit]
+Hidden Bossesedit
 
    The Hidden Bosses were divided into two lists. The first list includes players that made it into the final ballot for SSBMRank and the second list includes the list of players who made it to the first nomination list, but were removed due to a lack of activity or a low likelihood of making the top 100 cut.
 
-List of Final Nominees[[446]edit]
+List of Final Nomineesedit
 
-     * [447]mayb
-     * [448]Sharkz
-     * [449]Ryobeat
-     * [450]vortex
-     * [451]A Rookie
-     * [452]Reno
-     * [453]EastCoastJeff
-     * [454]R2DLiu
-     * [455]Bizzarro Flame
-     * [456]Stango
-     * [457]Rustin
-     * [458]HAT
-     * [459]Mahie
-     * [460]Coffeeblack
-     * [461]Daydee
-     * [462]Qerb
-     * [463]Eikelmann
-     * [464]Cob
-     * [465]Plank
-     * [466]Zorc
-     * [467]Michael
+     * mayb
+     * Sharkz
+     * Ryobeat
+     * vortex
+     * A Rookie
+     * Reno
+     * EastCoastJeff
+     * R2DLiu
+     * Bizzarro Flame
+     * Stango
+     * Rustin
+     * HAT
+     * Mahie
+     * Coffeeblack
+     * Daydee
+     * Qerb
+     * Eikelmann
+     * Cob
+     * Plank
+     * Zorc
+     * Michael
 
-Initial Nominee List (Players that were noted, but were not on the final ballots)[[468]edit]
+Initial Nominee List (Players that were noted, but were not on the final ballots)edit
 
-     * [469]4%
-     * [470]42nd
-     * [471]Adam
-     * [472]Alan
-     * [473]Albert
-     * [474]Alex19
-     * [475]ALP
-     * [476]Animal
-     * [477]Aperture
-     * [478]Ashtrei
-     * [479]Atomsk
-     * [480]Avalancer
-     * [481]Azzu
-     * [482]Baphomet
-     * [483]Barraca
-     * [484]Baxon
-     * [485]Belia
-     * [486]Bizzarro Flame
-     * [487]Blue Jay
-     * [488]Bones
-     * [489]Boulevard
-     * [490]Boyd
-     * [491]CDK
-     * [492]Chandy
-     * [493]Chango
-     * [494]Chef Rach
-     * [495]Chris Best
-     * [496]CIZ
-     * [497]Cloud
-     * [498]Conman
-     * [499]Cool Lime
-     * [500]Crim
-     * [501]Crunch
-     * [502]Dai
-     * [503]Darrell
-     * [504]DaShizWiz
-     * [505]Däumling
-     * [506]Derdian
-     * [507]DjaGoF
-     * [508]DoH
-     * [509]DonB
-     * [510]Dr. Z
-     * [511]dudutsai
-     * [512]Eagle
-     * [513]eBay
-     * [514]Eliott
-     * [515]Envy
-     * [516]ESAM
-     * [517]FA0
-     * [518]Fauxhebro
-     * [519]Faxx
-     * [520]Fiction
-     * [521]Fizz
-     * [522]Flipsy
-     * [523]Fluid
-     * [524]Frenzy
-     * [525]Frootloop
-     * [526]Fuzzyness
-     * [527]gaR
-     * [528]Ginta
-     * [529]Glitch
-     * [530]Goomy
-     * [531]Gravy
-     * [532]Heartstrings
-     * [533]Hex
-     * [534]HiFi
-     * [535]HT
-     * [536]Humpe
-     * [537]Hungry Pigeon
-     * [538]i4n
-     * [539]Isdsar
-     * [540]Jah Ridin'
-     * [541]Jake13
-     * [542]Jamrun
-     * [543]Jeapie
-     * [544]Jeff Foxworthy
-     * [545]JKJ
-     * [546]JohnnyFight
-     * [547]Josh
-     * [548]Juanpi
-     * [549]K-12
-     * [550]Kalvar
-     * [551]Keenan
-     * [552]Ken
-     * [553]Lad
-     * [554]Lanceinthepants
-     * [555]Levingy
-     * [556]LK
-     * [557]LLDL
-     * [558]Lunar Dusk
-     * [559]Makenshi
-     * [560]MattDotZeb
-     * [561]MegaChristmas
-     * [562]Messenger
-     * [563]MojoMonkey
-     * [564]Monib
-     * [565]Morsecode762
-     * [566]Mr. F
-     * [567]MrLz
-     * [568]MT
-     * [569]Nakamaman
-     * [570]Nerin
-     * [571]NY Joey
-     * [572]Oaty
-     * [573]OkayP.
-     * [574]ORLY
-     * [575]Padre
-     * [576]Pengie
-     * [577]Plum
-     * [578]Porkchops
-     * [579]Prinz
-     * [580]prof
-     * [581]PRZ
-     * [582]Quang
-     * [583]Reaper
-     * [584]Reason
-     * [585]Rick
-     * [586]RK
-     * [587]RockCrock
-     * [588]s0ft
-     * [589]Scar
-     * [590]SchlimmShady
-     * [591]SDJ
-     * [592]SFOP
-     * [593]Shamunt
-     * [594]Shinobi
-     * [595]Silent Wolf
-     * [596]SilentSpectre
-     * [597]Silly Kyle
-     * [598]Sinbad
-     * [599]SluG
-     * [600]SmashBob SquarePants
-     * [601]Sol
-     * [602]Sverre
-     * [603]Swiftbass
-     * [604]Taj
-     * [605]Tempo
-     * [606]TheSWOOPER
-     * [607]Thumbs
-     * [608]Trademark
-     * [609]Tran
-     * [610]Tranimal
-     * [611]Tuesday
-     * [612]Twitch
-     * [613]UUAA
-     * [614]Valdo
-     * [615]Vanitas
-     * [616]Vickram
-     * [617]Vino
-     * [618]Vinodh
-     * [619]Vish
-     * [620]Vist
-     * [621]Voo
-     * [622]voorhese
-     * [623]Wavebringer
-     * [624]Webwipe
-     * [625]Wenbobular
-     * [626]Weon-X
-     * [627]XIF
-     * [628]Yabasta
-     * [629]yoshiCR
-     * [630]Zasa
-     * [631]Zeo
-     * [632]Zoler
-     * [633]ZoSo
-     * [634]Zuppy
+     * 4%
+     * 42nd
+     * Adam
+     * Alan
+     * Albert
+     * Alex19
+     * ALP
+     * Animal
+     * Aperture
+     * Ashtrei
+     * Atomsk
+     * Avalancer
+     * Azzu
+     * Baphomet
+     * Barraca
+     * Baxon
+     * Belia
+     * Bizzarro Flame
+     * Blue Jay
+     * Bones
+     * Boulevard
+     * Boyd
+     * CDK
+     * Chandy
+     * Chango
+     * Chef Rach
+     * Chris Best
+     * CIZ
+     * Cloud
+     * Conman
+     * Cool Lime
+     * Crim
+     * Crunch
+     * Dai
+     * Darrell
+     * DaShizWiz
+     * Däumling
+     * Derdian
+     * DjaGoF
+     * DoH
+     * DonB
+     * Dr. Z
+     * dudutsai
+     * Eagle
+     * eBay
+     * Eliott
+     * Envy
+     * ESAM
+     * FA0
+     * Fauxhebro
+     * Faxx
+     * Fiction
+     * Fizz
+     * Flipsy
+     * Fluid
+     * Frenzy
+     * Frootloop
+     * Fuzzyness
+     * gaR
+     * Ginta
+     * Glitch
+     * Goomy
+     * Gravy
+     * Heartstrings
+     * Hex
+     * HiFi
+     * HT
+     * Humpe
+     * Hungry Pigeon
+     * i4n
+     * Isdsar
+     * Jah Ridin'
+     * Jake13
+     * Jamrun
+     * Jeapie
+     * Jeff Foxworthy
+     * JKJ
+     * JohnnyFight
+     * Josh
+     * Juanpi
+     * K-12
+     * Kalvar
+     * Keenan
+     * Ken
+     * Lad
+     * Lanceinthepants
+     * Levingy
+     * LK
+     * LLDL
+     * Lunar Dusk
+     * Makenshi
+     * MattDotZeb
+     * MegaChristmas
+     * Messenger
+     * MojoMonkey
+     * Monib
+     * Morsecode762
+     * Mr. F
+     * MrLz
+     * MT
+     * Nakamaman
+     * Nerin
+     * NY Joey
+     * Oaty
+     * OkayP.
+     * ORLY
+     * Padre
+     * Pengie
+     * Plum
+     * Porkchops
+     * Prinz
+     * prof
+     * PRZ
+     * Quang
+     * Reaper
+     * Reason
+     * Rick
+     * RK
+     * RockCrock
+     * s0ft
+     * Scar
+     * SchlimmShady
+     * SDJ
+     * SFOP
+     * Shamunt
+     * Shinobi
+     * Silent Wolf
+     * SilentSpectre
+     * Silly Kyle
+     * Sinbad
+     * SluG
+     * SmashBob SquarePants
+     * Sol
+     * Sverre
+     * Swiftbass
+     * Taj
+     * Tempo
+     * TheSWOOPER
+     * Thumbs
+     * Trademark
+     * Tran
+     * Tranimal
+     * Tuesday
+     * Twitch
+     * UUAA
+     * Valdo
+     * Vanitas
+     * Vickram
+     * Vino
+     * Vinodh
+     * Vish
+     * Vist
+     * Voo
+     * voorhese
+     * Wavebringer
+     * Webwipe
+     * Wenbobular
+     * Weon-X
+     * XIF
+     * Yabasta
+     * yoshiCR
+     * Zasa
+     * Zeo
+     * Zoler
+     * ZoSo
+     * Zuppy
 
-External links[[635]edit]
+External linksedit
 
-     * [636]SSBMRank 2017 Returns to Red Bull
-     * [637]SSBMRank 2017: The Process
-     * [638]SSBMRank 2017: Hidden Bosses
-     * [639]SSBMRank 2017: The List of Panelists
-     * [640]SSBMRank 2017: FAQ
-     * [641]SSBMRank 2017: Just Barely Missed The Cut (104-101)
-     * SSBMRank 2017 on Red Bull eSports: [642]100-91, [643]90-81, [644]80-71, [645]70-61, [646]60-51, [647]50-41, [648]40-31, [649]30-21, [650]20-11, [651]10-1
+     * SSBMRank 2017 Returns to Red Bull
+     * SSBMRank 2017: The Process
+     * SSBMRank 2017: Hidden Bosses
+     * SSBMRank 2017: The List of Panelists
+     * SSBMRank 2017: FAQ
+     * SSBMRank 2017: Just Barely Missed The Cut (104-101)
+     * SSBMRank 2017 on Red Bull eSports: 100-91, 90-81, 80-71, 70-61, 60-51, 50-41, 40-31, 30-21, 20-11, 10-1
 
-See also[[652]edit]
+See alsoedit
 
-     * [653]2013 SSBMRank
-     * [654]2014 SSBMRank
-     * [655]2015 SSBMRank
-     * [656]2016 SSBMRank
+     * 2013 SSBMRank
+     * 2014 SSBMRank
+     * 2015 SSBMRank
+     * 2016 SSBMRank
 
-   [657]v • [658]d • [659]e
-   [660]SSBMRank / [661]MPGR
-   [662]SSBMRank [663]2013 · [664]Summer 2014 · [665]2014 · [666]Summer 2015 · [667]2015 · [668]2016 · [669]Summer 2017 · 2017
-     [670]MPGR   [671]Summer 2018 · [672]2018
+   v • d • e
+   SSBMRank / MPGR
+   SSBMRank 2013 · Summer 2014 · 2014 · Summer 2015 · 2015 · 2016 · Summer 2017 · 2017
+     MPGR   Summer 2018 · 2018
    Ads keep SmashWiki independent and free :)
-   Retrieved from "[673]https://www.ssbwiki.com/index.php?title=2017_SSBMRank&oldid=1123517"
-   [674]Category:
-     * [675]SSBMRank
+   Category:
+     * SSBMRank
 
 Navigation menu
 
 Views
 
-     * [676]Article
-     * [677]Discussion
-     * [678]Edit this page
-     * [679]History
+     * Article
+     * Discussion
+     * Edit this page
+     * History
 
 Personal tools
 
      * Not logged in
-     * [680]Talk
-     * [681]Contributions
-     * [682]Create account
-     * [683]Log in
+     * Talk
+     * Contributions
+     * Create account
+     * Log in
 
 Navigation
 
-     * [684]Main page
-     * [685]Smash Bros. Ultimate
-     * [686]Smash Bros. 4
-     * [687]Smash Bros. Brawl
-     * [688]Smash Bros. Melee
-     * [689]Smash Bros. (64)
-     * [690]Characters
-     * [691]Stages
-     * [692]Modes
-     * [693]Items
-     * [694]Random page
+     * Main page
+     * Smash Bros. Ultimate
+     * Smash Bros. 4
+     * Smash Bros. Brawl
+     * Smash Bros. Melee
+     * Smash Bros. (64)
+     * Characters
+     * Stages
+     * Modes
+     * Items
+     * Random page
 
 Search
 
@@ -414,749 +413,34 @@ Search
 
 Participate
 
-     * [695]Forum
-     * [696]Community portal
-     * [697]Recent changes
-     * [698]Help
-     * [699]Admin noticeboard
-     * [700]Discord server
-     * [701]YouTube channel
+     * Forum
+     * Community portal
+     * Recent changes
+     * Help
+     * Admin noticeboard
+     * Discord server
+     * YouTube channel
 
 Tools
 
-     * [702]What links here
-     * [703]Related changes
-     * [704]Special pages
-     * [705]Printable version
-     * [706]Permanent link
-     * [707]Page information
+     * What links here
+     * Related changes
+     * Special pages
+     * Printable version
+     * Permanent link
+     * Page information
 
-   [708]Attribution-Share Alike 3.0 Unported
-   [709]Powered by MediaWiki
+   Attribution-Share Alike 3.0 Unported
+   Powered by MediaWiki
      * This page was last edited on 14 November 2018, at 08:25.
-     * Content is available under [710]Attribution-Share Alike 3.0 Unported unless otherwise noted.
-     * [711]Privacy policy
-     * [712]About SmashWiki
-     * [713]Disclaimers
-     * [714]Mobile view
+     * Content is available under Attribution-Share Alike 3.0 Unported unless otherwise noted.
+     * Privacy policy
+     * About SmashWiki
+     * Disclaimers
+     * Mobile view
 
 References
 
    Visible links
-   1. https://www.ssbwiki.com/index.php?title=2017_SSBMRank&action=edit
-   2. https://www.ssbwiki.com/opensearch_desc.php
-   3. https://www.ssbwiki.com/index.php?title=Special:RecentChanges&feed=atom
-   4. https://www.ssbwiki.com/2017_SSBMRank#column-one
-   5. https://www.ssbwiki.com/2017_SSBMRank#searchInput
-   6. https://www.ssbwiki.com/Super_Smash_Bros._Melee
-   7. https://www.ssbwiki.com/Tournament
-   8. https://www.ssbwiki.com/SSBMRank
-   9. https://www.ssbwiki.com/Super_Smash_Bros._Melee
-  10. https://www.ssbwiki.com/Smasher
-  11. https://www.ssbwiki.com/Melee_It_On_Me
-  12. https://www.ssbwiki.com/2017_SSBMRank#Methods
-  13. https://www.ssbwiki.com/2017_SSBMRank#Panelists
-  14. https://www.ssbwiki.com/2017_SSBMRank#Rankings
-  15. https://www.ssbwiki.com/2017_SSBMRank#101-104_.28Just_Barely_Missed_The_Cut.29
-  16. https://www.ssbwiki.com/2017_SSBMRank#Hidden_Bosses
-  17. https://www.ssbwiki.com/2017_SSBMRank#List_of_Final_Nominees
-  18. https://www.ssbwiki.com/2017_SSBMRank#Initial_Nominee_List_.28Players_that_were_noted.2C_but_were_not_on_the_final_ballots.29
-  19. https://www.ssbwiki.com/2017_SSBMRank#External_links
-  20. https://www.ssbwiki.com/2017_SSBMRank#See_also
-  21. https://www.ssbwiki.com/index.php?title=2017_SSBMRank&action=edit&section=1
-  22. https://www.ssbwiki.com/SSBMRank
-  23. https://www.ssbwiki.com/Eden
-  24. https://www.ssbwiki.com/The_Holiday_Bash_Smash_Invitational
-  25. https://www.ssbwiki.com/index.php?title=2017_SSBMRank&action=edit&section=2
-  26. https://www.ssbwiki.com/index.php?title=Smasher:Nate$&action=edit&redlink=1
-  27. https://www.ssbwiki.com/index.php?title=Smasher:TO_Joe&action=edit&redlink=1
-  28. https://www.ssbwiki.com/index.php?title=Smasher:Mosh&action=edit&redlink=1
-  29. https://www.ssbwiki.com/index.php?title=Smasher:PracticalTAS&action=edit&redlink=1
-  30. https://www.ssbwiki.com/Smasher:King_Funk
-  31. https://www.ssbwiki.com/index.php?title=Smasher:Mobiusman&action=edit&redlink=1
-  32. https://www.ssbwiki.com/Smasher:Flippy
-  33. https://www.ssbwiki.com/index.php?title=Smasher:Reverb&action=edit&redlink=1
-  34. https://www.ssbwiki.com/index.php?title=Smasher:Solariiii&action=edit&redlink=1
-  35. https://www.ssbwiki.com/Smasher:Mahie
-  36. https://www.ssbwiki.com/index.php?title=Smasher:KayB&action=edit&redlink=1
-  37. https://www.ssbwiki.com/Maryland/Virginia
-  38. https://www.ssbwiki.com/Smasher:Redd
-  39. https://www.ssbwiki.com/Smasher:Chillin
-  40. https://www.ssbwiki.com/Smasher:Rishi
-  41. https://www.ssbwiki.com/Smasher:Fendrick_Lamar
-  42. https://www.ssbwiki.com/Smasher:Juggleguy
-  43. https://www.ssbwiki.com/Smasher:Duck
-  44. https://www.ssbwiki.com/Smasher:Vro
-  45. https://www.ssbwiki.com/Smasher:Redd
-  46. https://www.ssbwiki.com/index.php?title=Smasher:Gamero&action=edit&redlink=1
-  47. https://www.ssbwiki.com/index.php?title=Smasher:Appel&action=edit&redlink=1
-  48. https://www.ssbwiki.com/Smasher:MattDotZeb
-  49. https://www.ssbwiki.com/index.php?title=Smasher:EdwinBudding&action=edit&redlink=1
-  50. https://www.ssbwiki.com/index.php?title=Smasher:Gtown_Tom&action=edit&redlink=1
-  51. https://www.ssbwiki.com/Smasher:Crush
-  52. https://www.ssbwiki.com/Northern_California
-  53. https://www.ssbwiki.com/Smasher:Reno
-  54. https://www.ssbwiki.com/index.php?title=Smasher:DestinyFan21&action=edit&redlink=1
-  55. https://www.ssbwiki.com/Smasher:Nintendude
-  56. https://www.ssbwiki.com/Smasher:Dizzkidboogie
-  57. https://www.ssbwiki.com/index.php?title=Smasher:Algebra123230&action=edit&redlink=1
-  58. https://www.ssbwiki.com/index.php?title=Smasher:Dingus&action=edit&redlink=1
-  59. https://www.ssbwiki.com/index.php?title=Smasher:Aiden&action=edit&redlink=1
-  60. https://www.ssbwiki.com/Smasher:Rustin
-  61. https://www.ssbwiki.com/Smasher:FatGoku
-  62. https://www.ssbwiki.com/Southern_California
-  63. https://www.ssbwiki.com/Smasher:Captain_Faceroll
-  64. https://www.ssbwiki.com/index.php?title=Smasher:Chroma&action=edit&redlink=1
-  65. https://www.ssbwiki.com/Smasher:HugS
-  66. https://www.ssbwiki.com/Smasher:S2J
-  67. https://www.ssbwiki.com/index.php?title=Smasher:Gimme&action=edit&redlink=1
-  68. https://www.ssbwiki.com/index.php?title=Smasher:Tuesday&action=edit&redlink=1
-  69. https://www.ssbwiki.com/Smasher:SleepyK
-  70. https://www.ssbwiki.com/index.php?title=Smasher:Zhea&action=edit&redlink=1
-  71. https://www.ssbwiki.com/Smasher:Jake13
-  72. https://www.ssbwiki.com/Smasher:Tai
-  73. https://www.ssbwiki.com/Tristate
-  74. https://www.ssbwiki.com/index.php?title=Smasher:Pikachu942&action=edit&redlink=1
-  75. https://www.ssbwiki.com/index.php?title=Smasher:Ambisinister&action=edit&redlink=1
-  76. https://www.ssbwiki.com/Smasher:Swedish_Delight
-  77. https://www.ssbwiki.com/Smasher:Ryobeat
-  78. https://www.ssbwiki.com/Smasher:Slox
-  79. https://www.ssbwiki.com/index.php?title=Smasher:GimmeDatWheat&action=edit&redlink=1
-  80. https://www.ssbwiki.com/index.php?title=Smasher:SaveAsUntitled&action=edit&redlink=1
-  81. https://www.ssbwiki.com/index.php?title=2017_SSBMRank&action=edit&section=3
-  82. https://www.ssbwiki.com/File:Flag_of_United_States.png
-  83. https://www.ssbwiki.com/Smasher:Hungrybox
-  84. https://www.ssbwiki.com/Jigglypuff_(SSBM)
-  85. https://www.ssbwiki.com/File:Flag_of_Sweden.png
-  86. https://www.ssbwiki.com/Smasher:Armada
-  87. https://www.ssbwiki.com/Peach_(SSBM)
-  88. https://www.ssbwiki.com/Fox_(SSBM)
-  89. https://www.ssbwiki.com/File:Flag_of_United_States.png
-  90. https://www.ssbwiki.com/Smasher:Mango
-  91. https://www.ssbwiki.com/Falco_(SSBM)
-  92. https://www.ssbwiki.com/Fox_(SSBM)
-  93. https://www.ssbwiki.com/Mario_(SSBM)
-  94. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
-  95. https://www.ssbwiki.com/File:Flag_of_United_States.png
-  96. https://www.ssbwiki.com/Smasher:Mew2King
-  97. https://www.ssbwiki.com/Marth_(SSBM)
-  98. https://www.ssbwiki.com/Sheik_(SSBM)
-  99. https://www.ssbwiki.com/Fox_(SSBM)
- 100. https://www.ssbwiki.com/Peach_(SSBM)
- 101. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 102. https://www.ssbwiki.com/Smasher:Plup
- 103. https://www.ssbwiki.com/Sheik_(SSBM)
- 104. https://www.ssbwiki.com/Fox_(SSBM)
- 105. https://www.ssbwiki.com/Samus_(SSBM)
- 106. https://www.ssbwiki.com/Luigi_(SSBM)
- 107. https://www.ssbwiki.com/File:Flag_of_Sweden.png
- 108. https://www.ssbwiki.com/Smasher:Leffen
- 109. https://www.ssbwiki.com/Fox_(SSBM)
- 110. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 111. https://www.ssbwiki.com/Smasher:Axe
- 112. https://www.ssbwiki.com/Pikachu_(SSBM)
- 113. https://www.ssbwiki.com/Falco_(SSBM)
- 114. https://www.ssbwiki.com/Marth_(SSBM)
- 115. https://www.ssbwiki.com/Young_Link_(SSBM)
- 116. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 117. https://www.ssbwiki.com/Smasher:Wizzrobe
- 118. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
- 119. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 120. https://www.ssbwiki.com/Smasher:SFAT
- 121. https://www.ssbwiki.com/Fox_(SSBM)
- 122. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 123. https://www.ssbwiki.com/Smasher:S2J
- 124. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
- 125. https://www.ssbwiki.com/Falco_(SSBM)
- 126. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 127. https://www.ssbwiki.com/Smasher:ChuDat
- 128. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
- 129. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 130. https://www.ssbwiki.com/Smasher:Druggedfox
- 131. https://www.ssbwiki.com/Fox_(SSBM)
- 132. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 133. https://www.ssbwiki.com/Smasher:Shroomed
- 134. https://www.ssbwiki.com/Sheik_(SSBM)
- 135. https://www.ssbwiki.com/Marth_(SSBM)
- 136. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 137. https://www.ssbwiki.com/Smasher:Duck
- 138. https://www.ssbwiki.com/Samus_(SSBM)
- 139. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 140. https://www.ssbwiki.com/Smasher:Crush
- 141. https://www.ssbwiki.com/Fox_(SSBM)
- 142. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 143. https://www.ssbwiki.com/Smasher:Swedish_Delight
- 144. https://www.ssbwiki.com/Sheik_(SSBM)
- 145. https://www.ssbwiki.com/Peach_(SSBM)
- 146. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 147. https://www.ssbwiki.com/Smasher:Lucky
- 148. https://www.ssbwiki.com/Fox_(SSBM)
- 149. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
- 150. https://www.ssbwiki.com/Marth_(SSBM)
- 151. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 152. https://www.ssbwiki.com/Smasher:Westballz
- 153. https://www.ssbwiki.com/Falco_(SSBM)
- 154. https://www.ssbwiki.com/Fox_(SSBM)
- 155. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
- 156. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 157. https://www.ssbwiki.com/Smasher:La_Luna
- 158. https://www.ssbwiki.com/Marth_(SSBM)
- 159. https://www.ssbwiki.com/File:Flag_of_Canada.png
- 160. https://www.ssbwiki.com/Smasher:N0ne
- 161. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
- 162. https://www.ssbwiki.com/Ganondorf_(SSBM)
- 163. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 164. https://www.ssbwiki.com/Smasher:PewPewU
- 165. https://www.ssbwiki.com/Marth_(SSBM)
- 166. https://www.ssbwiki.com/Fox_(SSBM)
- 167. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 168. https://www.ssbwiki.com/Smasher:Zain
- 169. https://www.ssbwiki.com/Marth_(SSBM)
- 170. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 171. https://www.ssbwiki.com/Smasher:HugS
- 172. https://www.ssbwiki.com/Samus_(SSBM)
- 173. https://www.ssbwiki.com/File:Flag_of_Japan.png
- 174. https://www.ssbwiki.com/Smasher:AMSa
- 175. https://www.ssbwiki.com/Yoshi_(SSBM)
- 176. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 177. https://www.ssbwiki.com/Smasher:Mike_Haze
- 178. https://www.ssbwiki.com/Fox_(SSBM)
- 179. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 180. https://www.ssbwiki.com/Smasher:LloD
- 181. https://www.ssbwiki.com/Peach_(SSBM)
- 182. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 183. https://www.ssbwiki.com/Smasher:Dizzkidboogie
- 184. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
- 185. https://www.ssbwiki.com/File:Flag_of_Germany.png
- 186. https://www.ssbwiki.com/Smasher:Ice
- 187. https://www.ssbwiki.com/Fox_(SSBM)
- 188. https://www.ssbwiki.com/File:Flag_of_Canada.png
- 189. https://www.ssbwiki.com/Smasher:KirbyKaze
- 190. https://www.ssbwiki.com/Sheik_(SSBM)
- 191. https://www.ssbwiki.com/Peach_(SSBM)
- 192. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 193. https://www.ssbwiki.com/Smasher:Colbol
- 194. https://www.ssbwiki.com/Fox_(SSBM)
- 195. https://www.ssbwiki.com/Marth_(SSBM)
- 196. https://www.ssbwiki.com/File:Flag_of_Spain.png
- 197. https://www.ssbwiki.com/Smasher:Trif
- 198. https://www.ssbwiki.com/Peach_(SSBM)
- 199. https://www.ssbwiki.com/File:Flag_of_Canada.png
- 200. https://www.ssbwiki.com/Smasher:Ryan_Ford
- 201. https://www.ssbwiki.com/Fox_(SSBM)
- 202. https://www.ssbwiki.com/Falco_(SSBM)
- 203. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 204. https://www.ssbwiki.com/Smasher:Syrox
- 205. https://www.ssbwiki.com/Fox_(SSBM)
- 206. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 207. https://www.ssbwiki.com/Smasher:KJH
- 208. https://www.ssbwiki.com/Fox_(SSBM)
- 209. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 210. https://www.ssbwiki.com/Smasher:Nintendude
- 211. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
- 212. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 213. https://www.ssbwiki.com/Smasher:Rishi
- 214. https://www.ssbwiki.com/Marth_(SSBM)
- 215. https://www.ssbwiki.com/Fox_(SSBM)
- 216. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 217. https://www.ssbwiki.com/Smasher:Bladewise
- 218. https://www.ssbwiki.com/Peach_(SSBM)
- 219. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 220. https://www.ssbwiki.com/Smasher:Prince_Abu
- 221. https://www.ssbwiki.com/Jigglypuff_(SSBM)
- 222. https://www.ssbwiki.com/File:Flag_of_The_Netherlands.png
- 223. https://www.ssbwiki.com/Smasher:Amsah
- 224. https://www.ssbwiki.com/Sheik_(SSBM)
- 225. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 226. https://www.ssbwiki.com/Smasher:Santiago
- 227. https://www.ssbwiki.com/Falco_(SSBM)
- 228. https://www.ssbwiki.com/Sheik_(SSBM)
- 229. https://www.ssbwiki.com/File:Flag_of_United_Kingdom.png
- 230. https://www.ssbwiki.com/Smasher:Professor_Pro
- 231. https://www.ssbwiki.com/Fox_(SSBM)
- 232. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 233. https://www.ssbwiki.com/Smasher:Slox
- 234. https://www.ssbwiki.com/Fox_(SSBM)
- 235. https://www.ssbwiki.com/Falco_(SSBM)
- 236. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 237. https://www.ssbwiki.com/Smasher:Gahtzu
- 238. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
- 239. https://www.ssbwiki.com/File:Flag_of_Sweden.png
- 240. https://www.ssbwiki.com/Smasher:Android
- 241. https://www.ssbwiki.com/Sheik_(SSBM)
- 242. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 243. https://www.ssbwiki.com/Smasher:Hax
- 244. https://www.ssbwiki.com/Fox_(SSBM)
- 245. https://www.ssbwiki.com/File:Flag_of_Canada.png
- 246. https://www.ssbwiki.com/Smasher:Kage
- 247. https://www.ssbwiki.com/Ganondorf_(SSBM)
- 248. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
- 249. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 250. https://www.ssbwiki.com/Smasher:Captain_Smuckers
- 251. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
- 252. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 253. https://www.ssbwiki.com/Smasher:MacD
- 254. https://www.ssbwiki.com/Peach_(SSBM)
- 255. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 256. https://www.ssbwiki.com/Smasher:Ginger
- 257. https://www.ssbwiki.com/Falco_(SSBM)
- 258. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 259. https://www.ssbwiki.com/Smasher:Laudandus
- 260. https://www.ssbwiki.com/Sheik_(SSBM)
- 261. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 262. https://www.ssbwiki.com/Smasher:Kels
- 263. https://www.ssbwiki.com/Fox_(SSBM)
- 264. https://www.ssbwiki.com/Sheik_(SSBM)
- 265. https://www.ssbwiki.com/Falco_(SSBM)
- 266. https://www.ssbwiki.com/Marth_(SSBM)
- 267. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 268. https://www.ssbwiki.com/Smasher:Captain_Faceroll
- 269. https://www.ssbwiki.com/Sheik_(SSBM)
- 270. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 271. https://www.ssbwiki.com/Smasher:ARMY
- 272. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
- 273. https://www.ssbwiki.com/Jigglypuff_(SSBM)
- 274. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 275. https://www.ssbwiki.com/Smasher:Junebug
- 276. https://www.ssbwiki.com/Sheik_(SSBM)
- 277. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 278. https://www.ssbwiki.com/Smasher:Medz
- 279. https://www.ssbwiki.com/Fox_(SSBM)
- 280. https://www.ssbwiki.com/Marth_(SSBM)
- 281. https://www.ssbwiki.com/Falco_(SSBM)
- 282. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 283. https://www.ssbwiki.com/Smasher:Abate
- 284. https://www.ssbwiki.com/Luigi_(SSBM)
- 285. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 286. https://www.ssbwiki.com/Smasher:Chillin
- 287. https://www.ssbwiki.com/Fox_(SSBM)
- 288. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 289. https://www.ssbwiki.com/Smasher:Squid
- 290. https://www.ssbwiki.com/Falco_(SSBM)
- 291. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 292. https://www.ssbwiki.com/Smasher:Azusa
- 293. https://www.ssbwiki.com/Peach_(SSBM)
- 294. https://www.ssbwiki.com/Falco_(SSBM)
- 295. https://www.ssbwiki.com/File:Flag_of_Spain.png
- 296. https://www.ssbwiki.com/Smasher:Overtriforce
- 297. https://www.ssbwiki.com/Sheik_(SSBM)
- 298. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 299. https://www.ssbwiki.com/Smasher:Spark_(Melee)
- 300. https://www.ssbwiki.com/Sheik_(SSBM)
- 301. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 302. https://www.ssbwiki.com/Smasher:Ka-Master
- 303. https://www.ssbwiki.com/Luigi_(SSBM)
- 304. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
- 305. https://www.ssbwiki.com/File:Flag_of_Canada.png
- 306. https://www.ssbwiki.com/Smasher:Trulliam
- 307. https://www.ssbwiki.com/Falco_(SSBM)
- 308. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 309. https://www.ssbwiki.com/Smasher:Cactuar
- 310. https://www.ssbwiki.com/Marth_(SSBM)
- 311. https://www.ssbwiki.com/Fox_(SSBM)
- 312. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 313. https://www.ssbwiki.com/Smasher:Redd
- 314. https://www.ssbwiki.com/Fox_(SSBM)
- 315. https://www.ssbwiki.com/Marth_(SSBM)
- 316. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 317. https://www.ssbwiki.com/Smasher:Zhu
- 318. https://www.ssbwiki.com/Falco_(SSBM)
- 319. https://www.ssbwiki.com/Fox_(SSBM)
- 320. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 321. https://www.ssbwiki.com/Smasher:Darkatma
- 322. https://www.ssbwiki.com/Sheik_(SSBM)
- 323. https://www.ssbwiki.com/Peach_(SSBM)
- 324. https://www.ssbwiki.com/Fox_(SSBM)
- 325. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 326. https://www.ssbwiki.com/Smasher:Drephen
- 327. https://www.ssbwiki.com/Sheik_(SSBM)
- 328. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 329. https://www.ssbwiki.com/Smasher:FatGoku
- 330. https://www.ssbwiki.com/Fox_(SSBM)
- 331. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 332. https://www.ssbwiki.com/Smasher:Kalamazhu
- 333. https://www.ssbwiki.com/Peach_(SSBM)
- 334. https://www.ssbwiki.com/File:Flag_of_Mexico.png
- 335. https://www.ssbwiki.com/Smasher:Eddy_Mexico
- 336. https://www.ssbwiki.com/Luigi_(SSBM)
- 337. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 338. https://www.ssbwiki.com/Smasher:Drunksloth
- 339. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
- 340. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 341. https://www.ssbwiki.com/Smasher:Cal
- 342. https://www.ssbwiki.com/Fox_(SSBM)
- 343. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 344. https://www.ssbwiki.com/Smasher:AbsentPage
- 345. https://www.ssbwiki.com/Fox_(SSBM)
- 346. https://www.ssbwiki.com/Sheik_(SSBM)
- 347. https://www.ssbwiki.com/Marth_(SSBM)
- 348. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 349. https://www.ssbwiki.com/Smasher:King_Momo
- 350. https://www.ssbwiki.com/Falco_(SSBM)
- 351. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 352. https://www.ssbwiki.com/Smasher:DJ_Nintendo
- 353. https://www.ssbwiki.com/Fox_(SSBM)
- 354. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 355. https://www.ssbwiki.com/Smasher:HomeMadeWaffles
- 356. https://www.ssbwiki.com/Falco_(SSBM)
- 357. https://www.ssbwiki.com/Fox_(SSBM)
- 358. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 359. https://www.ssbwiki.com/Smasher:Lovage
- 360. https://www.ssbwiki.com/Fox_(SSBM)
- 361. https://www.ssbwiki.com/Sheik_(SSBM)
- 362. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 363. https://www.ssbwiki.com/Smasher:MilkMan
- 364. https://www.ssbwiki.com/Fox_(SSBM)
- 365. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 366. https://www.ssbwiki.com/Smasher:Tai
- 367. https://www.ssbwiki.com/Marth_(SSBM)
- 368. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 369. https://www.ssbwiki.com/Smasher:Rik
- 370. https://www.ssbwiki.com/Fox_(SSBM)
- 371. https://www.ssbwiki.com/Falco_(SSBM)
- 372. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 373. https://www.ssbwiki.com/Smasher:Rocky_(California)
- 374. https://www.ssbwiki.com/Falco_(SSBM)
- 375. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 376. https://www.ssbwiki.com/Smasher:Jerry
- 377. https://www.ssbwiki.com/Fox_(SSBM)
- 378. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 379. https://www.ssbwiki.com/Smasher:IBDW
- 380. https://www.ssbwiki.com/Fox_(SSBM)
- 381. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 382. https://www.ssbwiki.com/Smasher:KPAN
- 383. https://www.ssbwiki.com/Falco_(SSBM)
- 384. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 385. https://www.ssbwiki.com/Smasher:Mojo
- 386. https://www.ssbwiki.com/Fox_(SSBM)
- 387. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 388. https://www.ssbwiki.com/Smasher:$mike
- 389. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
- 390. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 391. https://www.ssbwiki.com/Smasher:Darktooth
- 392. https://www.ssbwiki.com/Fox_(SSBM)
- 393. https://www.ssbwiki.com/File:Flag_of_The_Netherlands.png
- 394. https://www.ssbwiki.com/Smasher:Zgetto
- 395. https://www.ssbwiki.com/Fox_(SSBM)
- 396. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 397. https://www.ssbwiki.com/Smasher:Blea_Gelo
- 398. https://www.ssbwiki.com/Luigi_(SSBM)
- 399. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 400. https://www.ssbwiki.com/Smasher:Kaeon
- 401. https://www.ssbwiki.com/Fox_(SSBM)
- 402. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 403. https://www.ssbwiki.com/Smasher:Bobby_Frizz
- 404. https://www.ssbwiki.com/Fox_(SSBM)
- 405. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 406. https://www.ssbwiki.com/Smasher:Iceman
- 407. https://www.ssbwiki.com/Marth_(SSBM)
- 408. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 409. https://www.ssbwiki.com/Smasher:L_(NorCal)
- 410. https://www.ssbwiki.com/Fox_(SSBM)
- 411. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 412. https://www.ssbwiki.com/Smasher:NMW
- 413. https://www.ssbwiki.com/Captain_Falcon_(SSBM)
- 414. https://www.ssbwiki.com/File:Flag_of_Canada.png
- 415. https://www.ssbwiki.com/Smasher:Moky
- 416. https://www.ssbwiki.com/Fox_(SSBM)
- 417. https://www.ssbwiki.com/File:Flag_of_Canada.png
- 418. https://www.ssbwiki.com/Smasher:Legend
- 419. https://www.ssbwiki.com/Jigglypuff_(SSBM)
- 420. https://www.ssbwiki.com/Peach_(SSBM)
- 421. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 422. https://www.ssbwiki.com/Smasher:Zealous5000
- 423. https://www.ssbwiki.com/Marth_(SSBM)
- 424. https://www.ssbwiki.com/Fox_(SSBM)
- 425. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 426. https://www.ssbwiki.com/Smasher:Ralph
- 427. https://www.ssbwiki.com/Falco_(SSBM)
- 428. https://www.ssbwiki.com/Fox_(SSBM)
- 429. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 430. https://www.ssbwiki.com/Smasher:2Saint
- 431. https://www.ssbwiki.com/Jigglypuff_(SSBM)
- 432. https://www.ssbwiki.com/index.php?title=2017_SSBMRank&action=edit&section=4
- 433. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 434. https://www.ssbwiki.com/Smasher:Reeve
- 435. https://www.ssbwiki.com/Marth_(SSBM)
- 436. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 437. https://www.ssbwiki.com/Smasher:Bananas
- 438. https://www.ssbwiki.com/Ice_Climbers_(SSBM)
- 439. https://www.ssbwiki.com/File:Flag_of_Canada.png
- 440. https://www.ssbwiki.com/Smasher:Nightmare
- 441. https://www.ssbwiki.com/Marth_(SSBM)
- 442. https://www.ssbwiki.com/File:Flag_of_United_States.png
- 443. https://www.ssbwiki.com/Smasher:Vro
- 444. https://www.ssbwiki.com/Marth_(SSBM)
- 445. https://www.ssbwiki.com/index.php?title=2017_SSBMRank&action=edit&section=5
- 446. https://www.ssbwiki.com/index.php?title=2017_SSBMRank&action=edit&section=6
- 447. https://www.ssbwiki.com/Smasher:Mayb
- 448. https://www.ssbwiki.com/Smasher:Sharkz
- 449. https://www.ssbwiki.com/Smasher:Ryobeat
- 450. https://www.ssbwiki.com/Smasher:Vortex
- 451. https://www.ssbwiki.com/Smasher:A_Rookie
- 452. https://www.ssbwiki.com/Smasher:Reno
- 453. https://www.ssbwiki.com/Smasher:EastCoastJeff
- 454. https://www.ssbwiki.com/Smasher:R2DLiu
- 455. https://www.ssbwiki.com/Smasher:Bizzarro_Flame
- 456. https://www.ssbwiki.com/Smasher:Stango
- 457. https://www.ssbwiki.com/Smasher:Rustin
- 458. https://www.ssbwiki.com/Smasher:HAT
- 459. https://www.ssbwiki.com/Smasher:Mahie
- 460. https://www.ssbwiki.com/Smasher:Coffeeblack
- 461. https://www.ssbwiki.com/Smasher:Daydee
- 462. https://www.ssbwiki.com/Smasher:Qerb
- 463. https://www.ssbwiki.com/Smasher:Eikelmann
- 464. https://www.ssbwiki.com/Smasher:Cob
- 465. https://www.ssbwiki.com/Smasher:Plank
- 466. https://www.ssbwiki.com/Smasher:Zorc
- 467. https://www.ssbwiki.com/Smasher:Michael
- 468. https://www.ssbwiki.com/index.php?title=2017_SSBMRank&action=edit&section=7
- 469. https://www.ssbwiki.com/Smasher:4%
- 470. https://www.ssbwiki.com/Smasher:42nd
- 471. https://www.ssbwiki.com/Smasher:Adam
- 472. https://www.ssbwiki.com/Smasher:Alan
- 473. https://www.ssbwiki.com/Smasher:Albert
- 474. https://www.ssbwiki.com/Smasher:Alex19
- 475. https://www.ssbwiki.com/Smasher:ALP
- 476. https://www.ssbwiki.com/Smasher:Animal
- 477. https://www.ssbwiki.com/Smasher:Aperture
- 478. https://www.ssbwiki.com/Smasher:Ashtrei
- 479. https://www.ssbwiki.com/Smasher:Atomsk
- 480. https://www.ssbwiki.com/Smasher:Avalancer
- 481. https://www.ssbwiki.com/Smasher:Azzu
- 482. https://www.ssbwiki.com/index.php?title=Smasher:Baphomet&action=edit&redlink=1
- 483. https://www.ssbwiki.com/index.php?title=Smasher:Barraca&action=edit&redlink=1
- 484. https://www.ssbwiki.com/Smasher:Baxon
- 485. https://www.ssbwiki.com/Smasher:Belia
- 486. https://www.ssbwiki.com/Smasher:Bizzarro_Flame
- 487. https://www.ssbwiki.com/Smasher:Blue_Jay
- 488. https://www.ssbwiki.com/Smasher:Bones
- 489. https://www.ssbwiki.com/Smasher:Boulevard
- 490. https://www.ssbwiki.com/Smasher:Boyd
- 491. https://www.ssbwiki.com/Smasher:CDK
- 492. https://www.ssbwiki.com/Smasher:Chandy
- 493. https://www.ssbwiki.com/index.php?title=Smasher:Chango&action=edit&redlink=1
- 494. https://www.ssbwiki.com/index.php?title=Smasher:Chef_Rach&action=edit&redlink=1
- 495. https://www.ssbwiki.com/Smasher:Chris_Best
- 496. https://www.ssbwiki.com/Smasher:CIZ
- 497. https://www.ssbwiki.com/index.php?title=Smasher:Cloud&action=edit&redlink=1
- 498. https://www.ssbwiki.com/index.php?title=Smasher:Conman&action=edit&redlink=1
- 499. https://www.ssbwiki.com/Smasher:Cool_Lime
- 500. https://www.ssbwiki.com/index.php?title=Smasher:Crim&action=edit&redlink=1
- 501. https://www.ssbwiki.com/Smasher:Crunch
- 502. https://www.ssbwiki.com/index.php?title=Smasher:Dai&action=edit&redlink=1
- 503. https://www.ssbwiki.com/Smasher:Darrell
- 504. https://www.ssbwiki.com/Smasher:DaShizWiz
- 505. https://www.ssbwiki.com/Smasher:Däumling
- 506. https://www.ssbwiki.com/index.php?title=Smasher:Derdian&action=edit&redlink=1
- 507. https://www.ssbwiki.com/Smasher:DjaGoF
- 508. https://www.ssbwiki.com/Smasher:DoH
- 509. https://www.ssbwiki.com/index.php?title=Smasher:DonB&action=edit&redlink=1
- 510. https://www.ssbwiki.com/Smasher:Dr._Z
- 511. https://www.ssbwiki.com/Smasher:Dudutsai
- 512. https://www.ssbwiki.com/Smasher:Eagle
- 513. https://www.ssbwiki.com/index.php?title=Smasher:EBay&action=edit&redlink=1
- 514. https://www.ssbwiki.com/index.php?title=Smasher:Eliott&action=edit&redlink=1
- 515. https://www.ssbwiki.com/Smasher:Envy
- 516. https://www.ssbwiki.com/Smasher:ESAM
- 517. https://www.ssbwiki.com/Smasher:FA0
- 518. https://www.ssbwiki.com/Smasher:Fauxhebro
- 519. https://www.ssbwiki.com/Smasher:Faxx
- 520. https://www.ssbwiki.com/Smasher:Fiction
- 521. https://www.ssbwiki.com/Smasher:Fizz_(Colorado)
- 522. https://www.ssbwiki.com/Smasher:Flipsy
- 523. https://www.ssbwiki.com/index.php?title=Smasher:Fluid&action=edit&redlink=1
- 524. https://www.ssbwiki.com/Smasher:Frenzy
- 525. https://www.ssbwiki.com/Smasher:Frootloop
- 526. https://www.ssbwiki.com/Smasher:Fuzzyness
- 527. https://www.ssbwiki.com/Smasher:GaR
- 528. https://www.ssbwiki.com/index.php?title=Smasher:Ginta&action=edit&redlink=1
- 529. https://www.ssbwiki.com/index.php?title=Smasher:Glitch&action=edit&redlink=1
- 530. https://www.ssbwiki.com/index.php?title=Smasher:Goomy&action=edit&redlink=1
- 531. https://www.ssbwiki.com/Smasher:Gravy
- 532. https://www.ssbwiki.com/Smasher:Heartstrings
- 533. https://www.ssbwiki.com/index.php?title=Smasher:Hex&action=edit&redlink=1
- 534. https://www.ssbwiki.com/Smasher:HiFi
- 535. https://www.ssbwiki.com/Smasher:HT
- 536. https://www.ssbwiki.com/Smasher:Humpe
- 537. https://www.ssbwiki.com/index.php?title=Smasher:Hungry_Pigeon&action=edit&redlink=1
- 538. https://www.ssbwiki.com/index.php?title=Smasher:I4n&action=edit&redlink=1
- 539. https://www.ssbwiki.com/Smasher:Isdsar
- 540. https://www.ssbwiki.com/Smasher:Jah_Ridin'
- 541. https://www.ssbwiki.com/Smasher:Jake13
- 542. https://www.ssbwiki.com/Smasher:Jamrun
- 543. https://www.ssbwiki.com/Smasher:Jeapie
- 544. https://www.ssbwiki.com/index.php?title=Smasher:Jeff_Foxworthy&action=edit&redlink=1
- 545. https://www.ssbwiki.com/index.php?title=Smasher:JKJ&action=edit&redlink=1
- 546. https://www.ssbwiki.com/Smasher:JohnnyFight
- 547. https://www.ssbwiki.com/Smasher:Josh
- 548. https://www.ssbwiki.com/index.php?title=Smasher:Juanpi&action=edit&redlink=1
- 549. https://www.ssbwiki.com/Smasher:K-12
- 550. https://www.ssbwiki.com/Smasher:Kalvar
- 551. https://www.ssbwiki.com/index.php?title=Smasher:Keenan&action=edit&redlink=1
- 552. https://www.ssbwiki.com/Smasher:Ken
- 553. https://www.ssbwiki.com/Smasher:Lad
- 554. https://www.ssbwiki.com/Smasher:Lanceinthepants
- 555. https://www.ssbwiki.com/Smasher:Levingy
- 556. https://www.ssbwiki.com/index.php?title=Smasher:LK&action=edit&redlink=1
- 557. https://www.ssbwiki.com/Smasher:LLDL
- 558. https://www.ssbwiki.com/Smasher:Lunar_Dusk
- 559. https://www.ssbwiki.com/Smasher:Makenshi
- 560. https://www.ssbwiki.com/Smasher:MattDotZeb
- 561. https://www.ssbwiki.com/index.php?title=Smasher:MegaChristmas&action=edit&redlink=1
- 562. https://www.ssbwiki.com/index.php?title=Smasher:Messenger&action=edit&redlink=1
- 563. https://www.ssbwiki.com/index.php?title=Smasher:MojoMonkey&action=edit&redlink=1
- 564. https://www.ssbwiki.com/Smasher:Monib
- 565. https://www.ssbwiki.com/Smasher:Morsecode762
- 566. https://www.ssbwiki.com/Smasher:Mr._F
- 567. https://www.ssbwiki.com/Smasher:MrLz
- 568. https://www.ssbwiki.com/Smasher:MT
- 569. https://www.ssbwiki.com/Smasher:Nakamaman
- 570. https://www.ssbwiki.com/index.php?title=Smasher:Nerin&action=edit&redlink=1
- 571. https://www.ssbwiki.com/Smasher:NY_Joey
- 572. https://www.ssbwiki.com/index.php?title=Smasher:Oaty&action=edit&redlink=1
- 573. https://www.ssbwiki.com/index.php?title=Smasher:OkayP.&action=edit&redlink=1
- 574. https://www.ssbwiki.com/Smasher:ORLY
- 575. https://www.ssbwiki.com/index.php?title=Smasher:Padre&action=edit&redlink=1
- 576. https://www.ssbwiki.com/Smasher:Pengie
- 577. https://www.ssbwiki.com/index.php?title=Smasher:Plum&action=edit&redlink=1
- 578. https://www.ssbwiki.com/Smasher:Porkchops
- 579. https://www.ssbwiki.com/Smasher:Prinz
- 580. https://www.ssbwiki.com/index.php?title=Smasher:Prof&action=edit&redlink=1
- 581. https://www.ssbwiki.com/index.php?title=Smasher:PRZ&action=edit&redlink=1
- 582. https://www.ssbwiki.com/index.php?title=Smasher:Quang&action=edit&redlink=1
- 583. https://www.ssbwiki.com/Smasher:Reaper
- 584. https://www.ssbwiki.com/Smasher:Reason
- 585. https://www.ssbwiki.com/index.php?title=Smasher:Rick&action=edit&redlink=1
- 586. https://www.ssbwiki.com/Smasher:RK
- 587. https://www.ssbwiki.com/Smasher:RockCrock
- 588. https://www.ssbwiki.com/Smasher:S0ft
- 589. https://www.ssbwiki.com/Smasher:Scar
- 590. https://www.ssbwiki.com/Smasher:SchlimmShady
- 591. https://www.ssbwiki.com/index.php?title=Smasher:SDJ&action=edit&redlink=1
- 592. https://www.ssbwiki.com/index.php?title=Smasher:SFOP&action=edit&redlink=1
- 593. https://www.ssbwiki.com/Smasher:Shamunt
- 594. https://www.ssbwiki.com/Smasher:Shinobi
- 595. https://www.ssbwiki.com/Smasher:Silent_Wolf
- 596. https://www.ssbwiki.com/Smasher:SilentSpectre
- 597. https://www.ssbwiki.com/Smasher:Silly_Kyle
- 598. https://www.ssbwiki.com/index.php?title=Smasher:Sinbad&action=edit&redlink=1
- 599. https://www.ssbwiki.com/index.php?title=Smasher:SluG&action=edit&redlink=1
- 600. https://www.ssbwiki.com/Smasher:SmashBob_SquarePants
- 601. https://www.ssbwiki.com/Smasher:Sol
- 602. https://www.ssbwiki.com/Smasher:Sverre
- 603. https://www.ssbwiki.com/Smasher:Swiftbass
- 604. https://www.ssbwiki.com/Smasher:Taj
- 605. https://www.ssbwiki.com/index.php?title=Smasher:Tempo&action=edit&redlink=1
- 606. https://www.ssbwiki.com/Smasher:TheSWOOPER
- 607. https://www.ssbwiki.com/index.php?title=Smasher:Thumbs&action=edit&redlink=1
- 608. https://www.ssbwiki.com/Smasher:Trademark
- 609. https://www.ssbwiki.com/index.php?title=Smasher:Tran&action=edit&redlink=1
- 610. https://www.ssbwiki.com/index.php?title=Smasher:Tranimal&action=edit&redlink=1
- 611. https://www.ssbwiki.com/index.php?title=Smasher:Tuesday&action=edit&redlink=1
- 612. https://www.ssbwiki.com/Smasher:Twitch
- 613. https://www.ssbwiki.com/Smasher:UUAA
- 614. https://www.ssbwiki.com/Smasher:Valdo
- 615. https://www.ssbwiki.com/index.php?title=Smasher:Vanitas&action=edit&redlink=1
- 616. https://www.ssbwiki.com/Smasher:Vickram
- 617. https://www.ssbwiki.com/Smasher:Vino
- 618. https://www.ssbwiki.com/Smasher:Vinodh
- 619. https://www.ssbwiki.com/Smasher:Vish
- 620. https://www.ssbwiki.com/Smasher:Vist
- 621. https://www.ssbwiki.com/index.php?title=Smasher:Voo&action=edit&redlink=1
- 622. https://www.ssbwiki.com/index.php?title=Smasher:Voorhese&action=edit&redlink=1
- 623. https://www.ssbwiki.com/Smasher:Wavebringer
- 624. https://www.ssbwiki.com/Smasher:Webwipe
- 625. https://www.ssbwiki.com/Smasher:Wenbobular
- 626. https://www.ssbwiki.com/Smasher:Weon-X
- 627. https://www.ssbwiki.com/Smasher:XIF
- 628. https://www.ssbwiki.com/index.php?title=Smasher:Yabasta&action=edit&redlink=1
- 629. https://www.ssbwiki.com/index.php?title=Smasher:YoshiCR&action=edit&redlink=1
- 630. https://www.ssbwiki.com/Smasher:Zasa
- 631. https://www.ssbwiki.com/index.php?title=Smasher:Zeo&action=edit&redlink=1
- 632. https://www.ssbwiki.com/Smasher:Zoler
- 633. https://www.ssbwiki.com/Smasher:ZoSo
- 634. https://www.ssbwiki.com/index.php?title=Smasher:Zuppy&action=edit&redlink=1
- 635. https://www.ssbwiki.com/index.php?title=2017_SSBMRank&action=edit&section=8
- 636. https://www.redbull.com/us-en/ssbmrank-2017-announcement
- 637. https://www.redbull.com/us-en/ssbmrank-2017-theprocess
- 638. https://www.redbull.com/us-en/ssbmrank-2017-hiddenbosses
- 639. https://www.redbull.com/us-en/ssbmrank2017-panelists
- 640. https://www.redbull.com/us-en/ssbmrank-2017-faq
- 641. https://www.redbull.com/us-en/ssbmrank-2017-104-101
- 642. https://www.redbull.com/us-en/ssbmrank-2017-100-91
- 643. https://www.redbull.com/us-en/ssbmrank-2017-90-81
- 644. https://www.redbull.com/us-en/ssbmrank-2017-80-71
- 645. https://www.redbull.com/us-en/ssbmrank-2017-70-61
- 646. https://www.redbull.com/us-en/ssbmrank-2017-60-51
- 647. https://www.redbull.com/us-en/ssbmrank-2017-50-41
- 648. https://www.redbull.com/us-en/ssbmrank-2017-40-31
- 649. https://www.redbull.com/us-en/ssbmrank-2017-30-21
- 650. https://www.redbull.com/us-en/ssbmrank-2017-20-11
- 651. https://www.redbull.com/us-en/ssbmrank-2017-10-1
- 652. https://www.ssbwiki.com/index.php?title=2017_SSBMRank&action=edit&section=9
- 653. https://www.ssbwiki.com/2013_SSBMRank
- 654. https://www.ssbwiki.com/2014_SSBMRank
- 655. https://www.ssbwiki.com/2015_SSBMRank
- 656. https://www.ssbwiki.com/2016_SSBMRank
- 657. https://www.ssbwiki.com/Template:SSBMRank
- 658. https://www.ssbwiki.com/Template_talk:SSBMRank
- 659. https://www.ssbwiki.com/index.php?title=Template:SSBMRank&action=edit
- 660. https://www.ssbwiki.com/SSBMRank
- 661. https://www.ssbwiki.com/MPGR
- 662. https://www.ssbwiki.com/SSBMRank
- 663. https://www.ssbwiki.com/2013_SSBMRank
- 664. https://www.ssbwiki.com/Summer_2014_SSBMRank
- 665. https://www.ssbwiki.com/2014_SSBMRank
- 666. https://www.ssbwiki.com/Summer_2015_SSBMRank
- 667. https://www.ssbwiki.com/2015_SSBMRank
- 668. https://www.ssbwiki.com/2016_SSBMRank
- 669. https://www.ssbwiki.com/Summer_2017_SSBMRank
- 670. https://www.ssbwiki.com/MPGR
- 671. https://www.ssbwiki.com/Summer_2018_MPGR
- 672. https://www.ssbwiki.com/2018_MPGR
- 673. https://www.ssbwiki.com/index.php?title=2017_SSBMRank&oldid=1123517
- 674. https://www.ssbwiki.com/Special:Categories
- 675. https://www.ssbwiki.com/Category:SSBMRank
- 676. https://www.ssbwiki.com/2017_SSBMRank
- 677. https://www.ssbwiki.com/index.php?title=Talk:2017_SSBMRank&action=edit&redlink=1
- 678. https://www.ssbwiki.com/index.php?title=2017_SSBMRank&action=edit
- 679. https://www.ssbwiki.com/index.php?title=2017_SSBMRank&action=history
- 680. https://www.ssbwiki.com/Special:MyTalk
- 681. https://www.ssbwiki.com/Special:MyContributions
- 682. https://www.ssbwiki.com/index.php?title=Special:CreateAccount&returnto=2017+SSBMRank
- 683. https://www.ssbwiki.com/index.php?title=Special:UserLogin&returnto=2017+SSBMRank
- 684. https://www.ssbwiki.com/Main_Page
- 685. https://www.ssbwiki.com/Super_Smash_Bros._Ultimate
- 686. https://www.ssbwiki.com/Super_Smash_Bros._4
- 687. https://www.ssbwiki.com/Super_Smash_Bros._Brawl
- 688. https://www.ssbwiki.com/Super_Smash_Bros._Melee
- 689. https://www.ssbwiki.com/Super_Smash_Bros.
- 690. https://www.ssbwiki.com/List_of_Super_Smash_Bros._series_characters
- 691. https://www.ssbwiki.com/Stage
- 692. https://www.ssbwiki.com/Mode
- 693. https://www.ssbwiki.com/Item
- 694. https://www.ssbwiki.com/Special:Random
- 695. https://www.ssbwiki.com/Forum:Index
- 696. https://www.ssbwiki.com/SmashWiki:Community_portal
- 697. https://www.ssbwiki.com/Special:RecentChanges
- 698. https://www.ssbwiki.com/Help:Contents
- 699. https://www.ssbwiki.com/SmashWiki:Administrators'_noticeboard
- 700. https://www.ssbwiki.com/SmashWiki:Discord_server
- 701. https://www.ssbwiki.com/SmashWiki:SmashWiki_YouTube_channel
- 702. https://www.ssbwiki.com/Special:WhatLinksHere/2017_SSBMRank
- 703. https://www.ssbwiki.com/Special:RecentChangesLinked/2017_SSBMRank
- 704. https://www.ssbwiki.com/Special:SpecialPages
- 705. https://www.ssbwiki.com/index.php?title=2017_SSBMRank&printable=yes
- 706. https://www.ssbwiki.com/index.php?title=2017_SSBMRank&oldid=1123517
- 707. https://www.ssbwiki.com/index.php?title=2017_SSBMRank&action=info
- 708. https://creativecommons.org/licenses/by-sa/3.0/
- 709. https://www.mediawiki.org/
- 710. https://creativecommons.org/licenses/by-sa/3.0/
- 711. https://www.porplemontage.com/privacy
- 712. https://www.ssbwiki.com/SmashWiki:About
- 713. https://www.ssbwiki.com/SmashWiki:General_disclaimer
- 714. https://www.ssbwiki.com/index.php?title=2017_SSBMRank&mobileaction=toggle_view_mobile
 
    Hidden links:
- 716. https://www.ssbwiki.com/Main_Page
