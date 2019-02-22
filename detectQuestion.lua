@@ -51,6 +51,7 @@ db.tournaments["Genesis 3"] = {
 
 db.players.leffen = db.players.Leffen
 db.players.armada = db.players.Armada
+db.players.mango = db.players.Mango
 
 local function load_nocase(fname)
 	local tmp = {}
@@ -122,7 +123,7 @@ main:lexicon("#bye", load_nocase("./lexique/bye.txt"))
 main:pattern([[
 
 	[#playerCharacterQuestion
-			#questionWord (#w | #p){0,10}? #player (#w | #p){0,5}? (character | main | Character | Main | play | Play) "?"{0,1}
+			#questionWord (#w | #p){0,10}? (#player | "his" | "him" | "he" | "her" | "she") (#w | #p){0,5}? (character | main | Character | Main | play | Play) "?"{0,1}
 	]
 
 ]])
@@ -280,6 +281,11 @@ end
 function handleQuestion(question)
 	question = dark.sequence(question:gsub("%p", " %0 "))
 
+		
+	main(question)
+
+
+	----- here : levenshtein ------------
 	for i = 1, #question do
 		if debug then 
 			print(question[i].token )
@@ -291,8 +297,13 @@ function handleQuestion(question)
 			end
 		end
 	end
-		
-	main(question)
+
+
+
+
+
+
+
 
 	if debug then 
 		print("question : " .. question:tostring())
@@ -329,6 +340,7 @@ end
 
 function handleBye()
 	botSays(byeSentences[ math.random( #byeSentences ) ], nil, true)
+	print("meleeleolaoleolelele left the chat")
 	terminate = true
 end
 
@@ -359,7 +371,17 @@ end
 
 function handleplayerCharacterQuestion(question)
 
-	player = extractTag(question, "#player")[1].token
+	if havetag(question, "#player") then 
+		player = extractTag(question, "#player")[1].token
+	else
+		if #historiqueQuestion ~= 0 then
+			player = historiqueQuestion[#historiqueQuestion][2]
+		else
+			botSays(incomprehension[ math.random( #incomprehension ) ])
+			return
+		end
+	end
+
 	playerInfo = db.players[player]
 
 	playerMains = ""
