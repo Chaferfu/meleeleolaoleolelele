@@ -117,6 +117,8 @@ main:lexicon("#character", load_nocase("./lexique/ssbm_characters.txt"))
 main:lexicon("#player", load_nocase("./lexique/ssbm_players.txt"))
 main:lexicon("#questionWord", load_nocase("./lexique/question_words.txt"))
 main:lexicon("#tournament", load_nocase("./lexique/lexique_tournois.txt"))
+main:lexicon("#bye", load_nocase("./lexique/bye.txt"))
+
 main:pattern([[
 
 	[#playerCharacterQuestion
@@ -126,7 +128,7 @@ main:pattern([[
 ]])
 main:pattern([[
 	[#playerInfoQuestion
-		("Who" "is" | "Who" "'" "s") (#w | #p){0,10}?  #player "?"
+		(/[Ww]ho/ "is" | /[Ww]ho/ "'" "s") (#w | #p){0,10}?  #player "?"?
 	]
 
 ]])
@@ -289,6 +291,8 @@ function handleQuestion(question)
 		historiqueQuestion[#historiqueQuestion + 1] = {"#playerInfoQuestion", player}
 		handlePlayerInfoQuestion(question)	
 
+	elseif havetag(question, "#bye") then
+		handleBye()
 
 	elseif havetag(question, "#playerCharacterQuestion") then
 		handleplayerCharacterQuestion(question)
@@ -305,8 +309,10 @@ end
 
 
 
-
-
+function handleBye()
+	botSays(byeSentences[ math.random( #byeSentences ) ], nil, true)
+	terminate = true
+end
 
 function handlePlayerNationalityQuestion(question)
 	player = extractTag(question, "#player")[1].token
@@ -334,7 +340,7 @@ function handleplayerCharacterQuestion(question)
 
 	historiqueQuestion[#historiqueQuestion + 1] = {"#playerCharacterQuestion", player, db.players[player].main}
 
-	botSays(player .. " plays " .. playerMains .. ".")
+	botSays(player .. " plays " .. playerMains .. ".", player)
 end
 
 
@@ -349,7 +355,7 @@ function handlePlayerInfoQuestion(question)
 		playerMains = playerMains .. v .. ", "
 	end
 
-	botSays(player .. " is a player from " .. playerInfo.nationality .. " who mains " .. playerMains .. " and is currently ranked " .. playerInfo.rank .. "th on the MPGR ladder.")
+	botSays(player .. " is a player from " .. playerInfo.nationality .. " who mains " .. playerMains .. " and is currently ranked " .. playerInfo.rank .. "th on the MPGR ladder.", player)
 
 end
 
@@ -380,9 +386,10 @@ end
   print('line[' .. k .. ']', (main(line)):tostring(tags))
 end--]]
 
-function botSays(answer, subject)
+function botSays(answer, subject, no_followup)
 	
 	subject = subject or nil
+	no_followup = no_followup or nil
 
 	if debug then 
 		if subject ~= nil then 
@@ -404,7 +411,12 @@ function botSays(answer, subject)
 
 	end
 
-	if subject == nil then 
+	if no_followup == true then 
+		print("meleeleolaoleolelele : " .. answer)
+
+
+
+	elseif subject == nil then 
 		print("meleeleolaoleolelele : " .. answer .. " " .. otherQuestion[ math.random( #otherQuestion ) ])
 
 	else 
@@ -414,6 +426,11 @@ end
 
 function principale()
 
+	terminate = false
+	byeSentences = {}
+	for line in io.lines("repliques/bye.txt") do
+		byeSentences[#byeSentences + 1] = line
+	end
 
 	questionAbout = {}
 	for line in io.lines("repliques/questionAbout.txt") do
@@ -444,11 +461,11 @@ function principale()
 		if debug then 
 			print(serialize(historiqueQuestion))
 		end
-	until question == "q"
+	until terminate == true
 end
 
 principale()
 
 
 
---TODO better levensheit (comprende la question raturee), faire un ichier avec plusiquers reponses d'incomprehension et un autree pour des trucs genre "vous voulez demander autre chose ?"
+--TODO better levensheit (comprende la question raturee)
