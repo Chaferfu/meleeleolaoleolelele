@@ -1,7 +1,6 @@
 dark = require("dark")
 
-
-	debug = false
+debug = false
 
 quesionTags = {"#playerCharacterQuestion"
 	,"#playerInfoQuestion"
@@ -12,7 +11,6 @@ quesionTags = {"#playerCharacterQuestion"
 
 
 --- historique questions = liste de tags
-
 historiqueQuestion = {}
 --- historique réponse = lié à question précedente et liste des réponses.
 
@@ -174,7 +172,7 @@ main:pattern([[
 
 main:pattern([[
 
-	[#tournamentPlayerQuestion
+	[#tournamentEntrantsQuestion
 		/[Ww]ho/ (#w | #p){0,10}? #tournament "?"?
 	]
 
@@ -182,7 +180,7 @@ main:pattern([[
 
 main:pattern([[
 
-	[#tournamentPlayerQuestion
+	[#tournamentEntrantsQuestion
 		(/[Ww]hich/ | /[Ww]hat/) ("player" | "players") (#w | #p){0,10}? #tournament (#w | #p){0,10}? "?"?
 	]
 
@@ -204,6 +202,14 @@ main:pattern([[
 
 ]])
 
+
+-- main:pattern([[
+
+-- 	[#implicitMainQuestion
+-- 		/[Hh]is/ (main | mains | character | characters) "?"
+-- 	]
+
+-- ]])
 
 applyLexicons:lexicon("#character", load_nocase("./lexique/ssbm_characters.txt"))
 applyLexicons:lexicon("#player", load_nocase("./lexique/ssbm_players.txt"))
@@ -351,14 +357,18 @@ function handleQuestion(question)
 	elseif havetag(question, "#linkToPrevious") then
 		handlePreviousQuestion(question)
 
-	else 
+	-- elseif havetag(question, "#implicitMainQuestion")then 
+	-- 	handleImplicitMainQuestion(question)
+
+	else
 
 		botSays(incomprehension[ math.random( #incomprehension ) ])
 
 	end
 end
 
-
+-- function handleImplicitMainQuestion(question)
+	
 
 function handleBye()
 	botSays(byeSentences[ math.random( #byeSentences ) ], nil, true)
