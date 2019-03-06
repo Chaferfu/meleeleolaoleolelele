@@ -1,6 +1,6 @@
 dark = require("dark")
 
-debug = false
+debug = true
 
 quesionTags = {"#playerCharacterQuestion"
 	,"#playerInfoQuestion"
@@ -203,6 +203,27 @@ main:pattern([[
 ]])
 
 
+main:pattern([[
+
+	[#playerNicknameQuestion
+
+		/[Ww]hat/ (#w | #p){0,5}? (#player | "his" | "him" | "he" | "her" | "she") (#w | #p){0,5}? (/[Nn]ickname/ | "called" ) "?"?
+
+	]
+
+]])
+
+main:pattern([[
+
+	[#playerRankQuestion
+
+		/[Ww]hat/ (#w | #p){0,5}? (#player | "his" | "him" | "he" | "her" | "she") (#w | #p){0,5}? ("rank" | "ranked") "?"?
+
+	]
+
+]])
+
+
 -- main:pattern([[
 
 -- 	[#implicitMainQuestion
@@ -217,13 +238,13 @@ applyLexicons:lexicon("#questionWord", "./lexique/question_words.txt")
 applyLexicons:lexicon("#tournament", load_nocase("./lexique/lexique_tournois.txt"))
 
 local tags = {
-	-- ["#tournament"] = "red",
-	["#playerInfoQuestion"] = "blue",
-	["#playerCharacterQuestion"] = "red",
-	["#tournamentInfoQuestion"] = "green",
-	["#tournamentDateQuestion"] = "yellow",
-	["#tournamentPlayerQuestion"] = "cyan",
-	["#playerNationalityQuestion"] = "magenta"
+	["#playerRankQuestion"] = "red",
+	["#playerNicknameQuestion"] = "blue",
+	-- ["#playerCharacterQuestion"] = "red",
+	-- ["#tournamentInfoQuestion"] = "green",
+	-- ["#tournamentDateQuestion"] = "yellow",
+	-- ["#tournamentPlayerQuestion"] = "cyan",
+	-- ["#playerNationalityQuestion"] = "magenta"
 
 	
 }
@@ -480,10 +501,11 @@ end
 
 -- print all line numbers and their contents
 --dark.sequence() ?
-
---[[for k,line in pairs(lines) do
-  print('line[' .. k .. ']', (main(line)):tostring(tags))
-end--]]
+if debug then
+	for k,line in pairs(lines) do
+	print('line[' .. k .. ']', (main(line)):tostring(tags))
+	end
+end
 
 function botSays(answer, subject, no_followup)
 	

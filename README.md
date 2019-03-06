@@ -16,7 +16,9 @@ se deconnecte quand on dit au revoir
 le mot exprime son incomprehension
 le bot relance le user apres ses reponses
 le system fait pas trop de fautes de ponctuation (quand il dit la liste des mains il gere si y en a qu'un ou plusieurs)
-TODO comprendre les question avec levenshtein 
+TODO implementer levenshtein pour les autres lexiques (eventuellement trouver une meilleure maniere de faire)
+TODO comprendre les question avec levenshtein (faire en sorte que le systeme reponde quand meme a la question meme si faute d'othographe)
+
 
 
 
@@ -27,6 +29,7 @@ player nationality
 tournament info
 tournament date
 tournament entrants
+TODO autre formulations ?
 
 questions gérées : 
 plyaer character/main
