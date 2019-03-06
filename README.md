@@ -31,4 +31,10 @@ tournament entrants
 questions gérées : 
 plyaer character/main
 player info
-pmayer nationality
+player nationality
+TODO les questions detectées mais non gérées
+
+
+
+TODO generer des stats de reussite en utilisant les données structurées 
+TODO faire quelque chose de special quand user repond oui a la question de bienvenue 
