@@ -1,6 +1,6 @@
 dark = require("dark")
 
-debug = true
+debug = false
 
 quesionTags = {"#playerCharacterQuestion"
 	,"#playerInfoQuestion"
@@ -312,21 +312,54 @@ end
 
 
 function handleQuestion(question)
+	questionLevenstein = {}
+	questionLevenstein2 = {}
+	for word in question:gmatch("%S+") do table.insert(questionLevenstein, word) end
 	question = dark.sequence(question:gsub("%p", " %0 "))
-
+	
 		
 	main(question)
-
+	---print(#question)
+	---print(#questionLevenstein)
 
 	----- here : levenshtein ------------
-	for i = 1, #question do
-		if debug then 
-			print(question[i].token )
-		end
-		for kw in io.lines("lexique/ssbm_characters.txt") do
-			if question[i].token ~= kw and question[i].token ~= kw:lower() and (string.levenshtein(question[i].token, kw:lower()) == 1 or string.levenshtein(question[i].token, kw) == 1) and string.len(question[i].token) > 2 then
-				print("Did you mean " .. kw .. " ?")
-				return
+	
+	if(not havetag(question, "#player") and not havetag(question, "#playerCharacterQuestion") and not havetag(question, "#playerNationalityQuestion")) then
+			
+		for i = 1, #question do
+			if debug then 
+				print(question[i].token)
+			end
+			for kw in io.lines("lexique/ssbm_players.txt") do
+				kw = kw:gsub('\r\n?', '')
+				if question[i].token ~= kw and question[i].token ~= kw:lower() and (string.levenshtein(question[i].token, kw:lower()) == 1 or string.levenshtein(question[i].token, kw) == 1) and string.len(question[i].token) > 2 then
+					--[[ print(#kw)
+					print(#question[i].token) ]]
+					
+					print("Did you mean " .. kw .. " ?")
+					io.write("You : ")
+					answer = io.read()
+					if(answer == "yes" or answer == "Yes" or answer == "yeah" or answer == "Yeah") then
+						print(questionLevenstein[i])
+						---questionLevenstein[i] = kw
+						for j = 1, #questionLevenstein do
+							if j~=i then
+								table.insert( questionLevenstein2, j, questionLevenstein[j])
+							else
+								table.insert(questionLevenstein2, j, kw)
+							end
+
+						end
+						questionLevenstein2 = dark.sequence(questionLevenstein2)
+						main(questionLevenstein2)
+						question = questionLevenstein2
+						--print(serialize(question[i]))
+					else
+						print("Ok...")
+					end
+
+					
+				end
 			end
 		end
 	end
@@ -377,6 +410,7 @@ function handleQuestion(question)
 
 	elseif havetag(question, "#linkToPrevious") then
 		handlePreviousQuestion(question)
+
 
 	-- elseif havetag(question, "#implicitMainQuestion")then 
 	-- 	handleImplicitMainQuestion(question)
