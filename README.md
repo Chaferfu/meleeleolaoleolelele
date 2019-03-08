@@ -17,7 +17,7 @@ Fonctionnalités :
 * mode debug affiche plein d'infos (variable a mettre a true au debut de detectQuestion.lua)
 * se deconnecte quand on dit au revoir ou qu'on le drague
 * "historique" on peut poser la meme question sur quelqu'un d'autre ou poser une question sur la meme personne (ex : what about ___ ?   What is his main ?)
-* le mot exprime son incomprehension
+* le mot exprime son incomprehension et signale s'il ne connaît pas la réponse 
 * le bot relance le user apres ses reponses
 * le system fait pas trop de fautes de ponctuation (quand il dit la liste des mains il gere si y en a qu'un ou plusieurs)
 * TODO dplementer levenshtein pour les autres lexiques (eventuellement trouver une meilleure maniere de faire)
