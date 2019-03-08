@@ -1,5 +1,7 @@
 local dark = require("dark")
 
+count = 0
+
 -- *************** Partie DB *************** --
 local db = {
 	["players"] = {
@@ -7,9 +9,13 @@ local db = {
 	}
 }
 
+function compare(a,b)
+ 	return a[1] < b[1]
+end
+
 
 -- Fonction d'enregistrement des donnees extraites dans la BD
-function registerindb(seq)
+function registerindb(seq, filename)
 	pseudoTab = tagstring(seq, "#pseudo")
 	if(pseudoTab ~= nil and #pseudoTab ~= 0) then
 		pseudo = pseudoTab[1]
@@ -34,6 +40,11 @@ function registerindb(seq)
 		-- Ranks
 		local rank = tagstringlink(seq, "#globalRank", "#rank")
 		db["players"][pseudo]["globalRank"] = rank
+
+		-- Fichier
+		db["players"][pseudo]["article"] = filename
+
+		count = count + 1
 	end
 end
 
@@ -101,11 +112,11 @@ P:pattern([[ [#rank ( /^[0-9]+[tnrs][hdt]$/ )] ]])
 P:pattern([[ [#globalRank #rank #w{0,4}? #year MPGR] ]])
 
 -- Detection du pseudo du joueur
-P:pattern([[ [#pseudo_ .]  ("(".{0,30}? ")" | /^[^.]+$/{0,30}?)  is ([#nationality #W] | #w)*  ( smasher | Melee player )]])
+P:pattern([[ [#pseudo_ ((#w /^[.-]$/ (#w|#d)) | (#w{1,2}))]  ("(".{0,30}? ")" | /^[^.]+$/{0,30}?)?  is (#w)*  ( smasher | Melee player | SSBM | main) ]])
 P:pattern([[ [#joueur [#pseudo #pseudo_] /^[^.]+$/{0,80}? (#character | #globalRank) ] ]])
 
-P:pattern([[ from [#nationality #W] ]])
-P:pattern([[ #pseudo (#w | "," | "(" | ")"){0,20}? from[#nationality #W{0,3}] ]])
+P:pattern([[ from[#nationality (#W{0,3}?","(#W{1,3}?) | #W{0,3})] (who|and) ]])
+P:pattern([[ #pseudo (#w | "," | "(" | ")"){0,20}? from[#nationality (#W{0,3}?","(#W{1,3}?) | #W{0,3})] (who|and|",") ]])
 
 -- Detection des mains
 P:pattern([[  [#main #character] (("," [#main #character])*? and [#main #character])? main]])
@@ -129,6 +140,7 @@ P:pattern([[ [#sentence /^[A-Z]/ (#acronym | .)*? "."] ]])
 local tags = {
 	["#character"] = "blue",
 	["#pseudo"] = "yellow",
+	["#pseudo_"] = "red",
 	["#joueur"] = "yellow",
 	["#nationality"] = "green",
 	["#main"] = "blue",
@@ -146,17 +158,31 @@ for fichier in os.dir(rep) do
 		line = line:gsub("%p", " %0 ")
 		seq = dark.sequence(line)
 		P(seq)
-		--print(seq:tostring(tags))
-		--print("\n")
+		-- print(seq:tostring(tags))
+		-- print("\n")
 		--Ajout des infos dans la bd
-		registerindb(seq)
+		registerindb(seq, fichier)
 	end
 end
 
+local keys = {}
+for key in pairs(db["players"]) do 
+	table.insert(keys, key) 
+end
+table.sort(keys)
+
 -- Ecriture dans un fichier de toutes les informations
-file = io.open("file.txt", "w")
-file:write("return")
-file:write(serialize(db))
+file = io.open("fileh.txt", "w")
+file:write("return {\n\tplayers = {")
+for v, key in ipairs(keys) do 
+	file:write("\t\n\t\t" .. key .. " = ")
+	local tempStr = serialize(db["players"][key])
+	tempStr = tempStr:gsub("\n", "\n\t\t")
+	file:write(tempStr .. ",")
+end
+file:write("\n\t},\n}")
 io.close(file)
+
+print("Nombre de players : " .. count)
 
 

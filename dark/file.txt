@@ -1,4 +1,836 @@
 return{
   players = {
+    Armada = {
+      mains = {
+        [1] = "Peach",
+        [2] = "Fox",
+      },
+      pseudo = {
+        [1] = "Armada",
+      },
+      nationality = {
+        [1] = "Sweden",
+      },
+      nicknames = {
+      },
+      globalRank = {
+        [1] = "3rd",
+      },
+    },
+    Rishi = {
+      mains = {
+      },
+      pseudo = {
+        [1] = "Rishi",
+      },
+      nationality = {
+        [1] = "Virginia",
+      },
+      nicknames = {
+      },
+    },
+    MattDotZeb = {
+      mains = {
+        [1] = "Falco",
+      },
+      pseudo = {
+        [1] = "MattDotZeb",
+      },
+      nationality = {
+        [1] = "Massachusetts",
+      },
+      nicknames = {
+      },
+    },
+    Morsecode762 = {
+      mains = {
+        [1] = "Samus",
+        [2] = "Samus",
+      },
+      pseudo = {
+        [1] = "Morsecode762",
+      },
+      nationality = {
+        [1] = "Michigan",
+      },
+      nicknames = {
+      },
+      globalRank = {
+        [1] = "99th",
+      },
+    },
+    Cactuar = {
+      mains = {
+        [1] = "Fox",
+        [2] = "Marth",
+      },
+      pseudo = {
+        [1] = "Cactuar",
+      },
+      nationality = {
+        [1] = "American",
+      },
+      nicknames = {
+      },
+      globalRank = {
+        [1] = "71st",
+      },
+    },
+    Reno = {
+      mains = {
+        [1] = "Sheik",
+        [2] = "Fox",
+      },
+      pseudo = {
+        [1] = "Reno",
+      },
+      nationality = {
+        [1] = "Brooklyn",
+      },
+      nicknames = {
+      },
+    },
+    LLDL = {
+      mains = {
+        [1] = "Falco",
+        [2] = "Fox",
+      },
+      pseudo = {
+        [1] = "LLDL",
+      },
+      nationality = {
+        [1] = "New",
+      },
+      nicknames = {
+      },
+    },
+    Shroomed = {
+      mains = {
+        [1] = "Sheik",
+        [2] = "Marth",
+      },
+      pseudo = {
+        [1] = "Shroomed",
+      },
+      nationality = {
+      },
+      nicknames = {
+      },
+    },
+    Lovage = {
+      mains = {
+      },
+      pseudo = {
+        [1] = "Lovage",
+      },
+      nationality = {
+        [1] = "American",
+      },
+      nicknames = {
+      },
+    },
+    Twitch = {
+      mains = {
+        [1] = "Fox",
+      },
+      pseudo = {
+        [1] = "Twitch",
+      },
+      nationality = {
+        [1] = "North",
+        [2] = "North Carolina",
+      },
+      nicknames = {
+      },
+    },
+    Flipsy = {
+      mains = {
+        [1] = "Ice Climbers",
+      },
+      pseudo = {
+        [1] = "Flipsy",
+      },
+      nationality = {
+        [1] = "Naples",
+      },
+      nicknames = {
+      },
+      globalRank = {
+        [1] = "90th",
+      },
+    },
+    Webwipe = {
+      mains = {
+      },
+      pseudo = {
+        [1] = "Webwipe",
+      },
+      nationality = {
+        [1] = "Canadian",
+        [2] = "Jigglypuff",
+        [3] = "British",
+        [4] = "British Columbia",
+      },
+      nicknames = {
+      },
+    },
+    Amsah = {
+      mains = {
+        [1] = "Sheik",
+      },
+      pseudo = {
+        [1] = "Amsah",
+      },
+      nationality = {
+        [1] = "Amsterdam",
+      },
+      nicknames = {
+      },
+      globalRank = {
+        [1] = "64th",
+      },
+    },
+    Mango = {
+      mains = {
+        [1] = "Fox",
+      },
+      pseudo = {
+        [1] = "Mango",
+      },
+      nationality = {
+        [1] = "Norwalk",
+      },
+      nicknames = {
+        [1] = "Scorpion Master",
+        [2] = "The Kid",
+        [3] = "The GOAT",
+        [4] = "The Buster",
+      },
+      globalRank = {
+        [1] = "6th",
+      },
+    },
+    HomeMadeWaffles = {
+      mains = {
+        [1] = "Falco",
+      },
+      pseudo = {
+        [1] = "HomeMadeWaffles",
+      },
+      nationality = {
+        [1] = "California",
+      },
+      nicknames = {
+      },
+    },
+    Vro = {
+      mains = {
+        [1] = "Marth",
+      },
+      pseudo = {
+        [1] = "Vro",
+      },
+      nationality = {
+        [1] = "Chicago",
+      },
+      nicknames = {
+      },
+    },
+    MacD = {
+      mains = {
+        [1] = "Peach",
+        [2] = "Peach",
+      },
+      pseudo = {
+        [1] = "MacD",
+      },
+      nationality = {
+        [1] = "Melee",
+        [2] = "Southern",
+        [3] = "Southern California",
+      },
+      nicknames = {
+      },
+    },
+    Valdo = {
+      mains = {
+        [1] = "Fox",
+        [2] = "Fox",
+      },
+      pseudo = {
+        [1] = "Valdo",
+      },
+      nationality = {
+        [1] = "Monterrey",
+        [2] = "Monterrey",
+      },
+      nicknames = {
+      },
+    },
+    Trulliam = {
+      mains = {
+        [1] = "Falco",
+      },
+      pseudo = {
+        [1] = "Trulliam",
+      },
+      nationality = {
+        [1] = "Canadian",
+      },
+      nicknames = {
+      },
+      globalRank = {
+        [1] = "93rd",
+      },
+    },
+    Professor = {
+      mains = {
+        [1] = "Fox",
+        [2] = "Fox",
+        [3] = "Fox",
+      },
+      pseudo = {
+        [1] = "Professor",
+      },
+      nationality = {
+        [1] = "English",
+        [2] = "London",
+      },
+      nicknames = {
+      },
+      globalRank = {
+        [1] = "56th",
+      },
+    },
+    ChuDat = {
+      mains = {
+        [1] = "Ice Climbers",
+        [2] = "Jigglypuff",
+      },
+      pseudo = {
+        [1] = "ChuDat",
+      },
+      nationality = {
+        [1] = "American",
+        [2] = "Falls",
+        [3] = "Falls Church",
+      },
+      nicknames = {
+        [1] = "Chu",
+      },
+      globalRank = {
+        [1] = "46th",
+      },
+    },
+    Kalvar = {
+      mains = {
+        [1] = "Marth",
+      },
+      pseudo = {
+        [1] = "Kalvar",
+      },
+      nationality = {
+        [1] = "New",
+        [2] = "New Hampshire",
+      },
+      nicknames = {
+      },
+      globalRank = {
+        [1] = "79th",
+      },
+    },
+    HugS = {
+      mains = {
+        [1] = "Samus",
+      },
+      pseudo = {
+        [1] = "HugS",
+      },
+      nationality = {
+        [1] = "American",
+      },
+      nicknames = {
+      },
+      globalRank = {
+        [1] = "23rd",
+      },
+    },
+    ["*"] = {
+      mains = {
+      },
+      pseudo = {
+        [1] = "*",
+      },
+      nationality = {
+      },
+      nicknames = {
+      },
+    },
+    Gahtzu = {
+      mains = {
+        [1] = "Captain Falcon",
+      },
+      pseudo = {
+        [1] = "Gahtzu",
+      },
+      nationality = {
+        [1] = "Bonn",
+      },
+      nicknames = {
+      },
+      globalRank = {
+        [1] = "27th",
+      },
+    },
+    n0ne = {
+      mains = {
+        [1] = "Captain Falcon",
+        [2] = "Captain Falcon",
+        [3] = "Ganondorf",
+      },
+      pseudo = {
+        [1] = "n0ne",
+      },
+      nationality = {
+        [1] = "Melee",
+        [2] = "Captain",
+        [3] = "Falcon",
+        [4] = "Ganondorf",
+        [5] = "Nicaragua",
+      },
+      nicknames = {
+      },
+    },
+    Azusa = {
+      mains = {
+        [1] = "Peach",
+      },
+      pseudo = {
+        [1] = "Azusa",
+      },
+      nationality = {
+        [1] = "Melee",
+        [2] = "Northern",
+        [3] = "Northern California",
+      },
+      nicknames = {
+      },
+    },
+    Reeve = {
+      mains = {
+        [1] = "Marth",
+      },
+      pseudo = {
+        [1] = "Reeve",
+      },
+      nationality = {
+        [1] = "Kentucky",
+      },
+      nicknames = {
+      },
+    },
+    Bladewise = {
+      mains = {
+        [1] = "Peach",
+      },
+      pseudo = {
+        [1] = "Bladewise",
+      },
+      nationality = {
+        [1] = "American",
+      },
+      nicknames = {
+      },
+    },
+    reaper = {
+      mains = {
+        [1] = "Marth",
+      },
+      pseudo = {
+        [1] = "reaper",
+      },
+      nationality = {
+        [1] = "Bielefeld",
+      },
+      nicknames = {
+      },
+    },
+    R2DLiu = {
+      mains = {
+        [1] = "Fox",
+      },
+      pseudo = {
+        [1] = "R2DLiu",
+      },
+      nationality = {
+        [1] = "Delaware",
+      },
+      nicknames = {
+      },
+    },
+    Taj = {
+      mains = {
+      },
+      pseudo = {
+        [1] = "Taj",
+      },
+      nationality = {
+        [1] = "American",
+      },
+      nicknames = {
+      },
+    },
+    Plank = {
+      mains = {
+      },
+      pseudo = {
+        [1] = "Plank",
+      },
+      nationality = {
+      },
+      nicknames = {
+      },
+    },
+    Prince = {
+      mains = {
+        [1] = "Jigglypuff",
+      },
+      pseudo = {
+        [1] = "Prince",
+      },
+      nationality = {
+        [1] = "Michigan",
+      },
+      nicknames = {
+      },
+      globalRank = {
+        [1] = "77th",
+      },
+    },
+    MT = {
+      mains = {
+        [1] = "Marth",
+      },
+      pseudo = {
+        [1] = "MT",
+      },
+      nationality = {
+        [1] = "Texas",
+      },
+      nicknames = {
+      },
+    },
+    Ken = {
+      mains = {
+        [1] = "Marth",
+      },
+      pseudo = {
+        [1] = "Ken",
+      },
+      nationality = {
+        [1] = "American",
+      },
+      nicknames = {
+        [1] = "Ken",
+        [2] = "SephirothKen",
+        [3] = "The King of Smash",
+      },
+    },
+    Android = {
+      mains = {
+      },
+      pseudo = {
+        [1] = "Android",
+      },
+      nationality = {
+        [1] = "Gothensburg",
+      },
+      nicknames = {
+      },
+      globalRank = {
+        [1] = "66th",
+      },
+    },
+    Alex19 = {
+      mains = {
+        [1] = "Fox",
+      },
+      pseudo = {
+        [1] = "Alex19",
+      },
+      nationality = {
+        [1] = "Norwalk",
+      },
+      nicknames = {
+      },
+    },
+    Uncle = {
+      mains = {
+        [1] = "Fox",
+      },
+      pseudo = {
+        [1] = "Uncle",
+      },
+      nationality = {
+        [1] = "Texas",
+      },
+      nicknames = {
+        [1] = "Mojo",
+      },
+      globalRank = {
+        [1] = "80th",
+      },
+    },
+    Colbol = {
+      mains = {
+      },
+      pseudo = {
+        [1] = "Colbol",
+      },
+      nationality = {
+        [1] = "Casselberry",
+      },
+      nicknames = {
+      },
+      globalRank = {
+        [1] = "30th",
+      },
+    },
+    Darktooth = {
+      mains = {
+        [1] = "Fox",
+      },
+      pseudo = {
+        [1] = "Darktooth",
+      },
+      nationality = {
+        [1] = "Long",
+        [2] = "Long Island",
+      },
+      nicknames = {
+      },
+      globalRank = {
+        [1] = "59th",
+      },
+    },
+    Makenshi = {
+      mains = {
+        [1] = "Marth",
+        [2] = "Marth",
+      },
+      pseudo = {
+        [1] = "Makenshi",
+      },
+      nationality = {
+        [1] = "Parisian",
+      },
+      nicknames = {
+      },
+    },
+    MilkMan = {
+      mains = {
+        [1] = "Fox",
+      },
+      pseudo = {
+        [1] = "MilkMan",
+      },
+      nationality = {
+        [1] = "Sacramento",
+      },
+      nicknames = {
+      },
+      globalRank = {
+        [1] = "92nd",
+      },
+    },
+    KirbyKaze = {
+      mains = {
+        [1] = "Sheik",
+        [2] = "Sheik",
+      },
+      pseudo = {
+        [1] = "KirbyKaze",
+      },
+      nationality = {
+        [1] = "Canadian",
+        [2] = "Markham",
+        [3] = "Canada",
+      },
+      nicknames = {
+      },
+    },
+    gaR = {
+      mains = {
+        [1] = "Sheik",
+      },
+      pseudo = {
+        [1] = "gaR",
+      },
+      nationality = {
+        [1] = "Texas",
+      },
+      nicknames = {
+      },
+    },
+    K = {
+      mains = {
+        [1] = "Donkey Kong",
+        [2] = "Donkey Kong",
+      },
+      pseudo = {
+        [1] = "K",
+      },
+      nationality = {
+        [1] = "Madrid",
+      },
+      nicknames = {
+      },
+    },
+    Ka = {
+      mains = {
+        [1] = "Luigi",
+      },
+      pseudo = {
+        [1] = "Ka",
+      },
+      nationality = {
+        [1] = "American",
+      },
+      nicknames = {
+      },
+    },
+    ["."] = {
+      mains = {
+        [1] = "Jigglypuff",
+      },
+      pseudo = {
+        [1] = ".",
+      },
+      nationality = {
+        [1] = "New",
+        [2] = "New Jersey",
+      },
+      nicknames = {
+      },
+    },
+    lloD = {
+      mains = {
+        [1] = "Peach",
+      },
+      pseudo = {
+        [1] = "lloD",
+      },
+      nationality = {
+        [1] = "Great",
+        [2] = "Great Falls",
+      },
+      nicknames = {
+      },
+      globalRank = {
+        [1] = "21st",
+      },
+    },
+    Junebug = {
+      mains = {
+        [1] = "Ganondorf",
+      },
+      pseudo = {
+        [1] = "Junebug",
+      },
+      nationality = {
+        [1] = "Centreville",
+      },
+      nicknames = {
+      },
+      globalRank = {
+        [1] = "45th",
+      },
+    },
+    Abate = {
+      mains = {
+        [1] = "Luigi",
+      },
+      pseudo = {
+        [1] = "Abate",
+      },
+      nationality = {
+        [1] = "Pittsburgh",
+        [2] = "New",
+      },
+      nicknames = {
+      },
+    },
+    Slox = {
+      mains = {
+      },
+      pseudo = {
+        [1] = "Slox",
+      },
+      nationality = {
+        [1] = "American",
+        [2] = "Melee",
+      },
+      nicknames = {
+      },
+      globalRank = {
+        [1] = "50th",
+      },
+    },
+    Chillin = {
+      mains = {
+      },
+      pseudo = {
+        [1] = "Chillin",
+      },
+      nationality = {
+        [1] = "American",
+      },
+      nicknames = {
+      },
+    },
+    Bizzarro = {
+      mains = {
+        [1] = "Ganondorf",
+        [2] = "Ganondorf",
+      },
+      pseudo = {
+        [1] = "Bizzarro",
+      },
+      nationality = {
+        [1] = "La",
+        [2] = "La Cañada Flintridge",
+      },
+      nicknames = {
+        [1] = "Bizz",
+      },
+    },
+    ALP = {
+      mains = {
+        [1] = "Fox",
+      },
+      pseudo = {
+        [1] = "ALP",
+      },
+      nationality = {
+      },
+      nicknames = {
+      },
+    },
+    Iceman = {
+      mains = {
+        [1] = "Marth",
+      },
+      pseudo = {
+        [1] = "Iceman",
+      },
+      nationality = {
+        [1] = "Washington",
+      },
+      nicknames = {
+      },
+      globalRank = {
+        [1] = "95th",
+      },
+    },
   },
 }
