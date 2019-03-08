@@ -1,5 +1,7 @@
 # meleeleolaoleolelele
 
+NOTE IMPORTANTE : LE FICHIER GENERE PAR PARSING.LUA EST MAINTENANT FILEH.TXT
+
 Ceci est un ssyteme de dialogu qui parle de melee 
 
 To test the questions detection launch dark on detectQuestion.lua.
