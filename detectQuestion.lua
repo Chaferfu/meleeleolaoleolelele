@@ -1,6 +1,6 @@
 dark = require("dark")
 
-debug = false
+debug = true
 
 quesionTags = {"#playerCharacterQuestion"
 	,"#playerInfoQuestion"
@@ -224,6 +224,16 @@ main:pattern([[
 
 ]])
 
+main:pattern([[
+
+	[#characterQuestion
+
+		/[Ww]ho/ (#w | #p){0,10}? (#character|"him"|"her"|"it") "?"?
+
+	]
+
+]])
+
 
 -- main:pattern([[
 
@@ -241,7 +251,7 @@ applyLexicons:lexicon("#tournament", load_nocase("./lexique/lexique_tournois.txt
 local tags = {
 	["#playerRankQuestion"] = "red",
 	["#playerNicknameQuestion"] = "blue",
-	-- ["#playerCharacterQuestion"] = "red",
+	["#characterQuestion"] = "green",
 	-- ["#tournamentInfoQuestion"] = "green",
 	-- ["#tournamentDateQuestion"] = "yellow",
 	-- ["#tournamentPlayerQuestion"] = "cyan",
@@ -409,11 +419,14 @@ function handleQuestion(question)
 	elseif havetag(question, "#playerNationalityQuestion") then
 		handlePlayerNationalityQuestion(question)
 
+	elseif havetag(question, "#characterQuestion") then
+		handleCharacterQuestion(question)
+
 	elseif havetag(question, "#playerRankQuestion") then 
 		handlePlayerRankQuestion(question) 
 
 	elseif havetag(question, "#playerNicknameQuestion") then 
-	handlePlayerNicknameQuestion(question) 
+		handlePlayerNicknameQuestion(question) 
 
 	elseif havetag(question, "#linkToPrevious") then
 		handlePreviousQuestion(question)
@@ -438,6 +451,39 @@ function handleBye()
 	terminate = true
 end
 
+function handleCharacterQuestion(question)
+	
+	if havetag(question, "#character") then 
+		character = extractTag(question, "#character")[1].token
+	else
+		if #historiqueQuestion ~= 0 then
+			character = historiqueQuestion[#historiqueQuestion][3]
+		else
+			botSays(incomprehension[ math.random( #incomprehension ) ])
+			botSays("I didn't understand who you are talking about.")
+
+			return
+		end
+	end
+
+	player = getPlayerWhoPlays(character)
+
+	historiqueQuestion[#historiqueQuestion + 1] = {"#characterQuestion", player, character}
+
+	botSays(player .. " plays " .. character .. ".", player)
+end
+
+function getPlayerWhoPlays(character)
+	for k,v in pairs(db.players) do
+		for cle, valeur in pairs(v.main) do
+			if valeur == character or valeur:lower() == character then return k
+		end
+	end
+	return nil
+end
+
+
+end
 
 function handlePreviousQuestion(question)
 	if (#historiqueQuestion == 0) then
@@ -518,9 +564,11 @@ function handleplayerCharacterQuestion(question)
 		end
 	end
 
-	historiqueQuestion[#historiqueQuestion + 1] = {"#playerNicknameQuestion", player, db.players[player].nicknames}
+	
 
-	botSays(player .. " is also called " .. playerNicknames .. ".", player)
+	historiqueQuestion[#historiqueQuestion + 1] = {"#playerCharacterQuestion", player, db.players[player].main[1]}
+
+	botSays(player .. " plays " .. playerMains .. ".", player)
 end
 
 function handlePlayerNicknameQuestion(question)
@@ -543,9 +591,9 @@ function handlePlayerNicknameQuestion(question)
 	if db.players[player].nicknames ~= nil then 
 		for i = 1, #db.players[player].nicknames do 
 			if i == 1 then 
-				playerNicknames = playerNicknames .. db.players[player].main[i]
+				playerNicknames = playerNicknames .. db.players[player].nicknames[i]
 			else
-				playerNicknames =  playerNicknames .. ", " .. db.players[player].main[i] 
+				playerNicknames =  playerNicknames .. ", " .. db.players[player].nicknames[i] 
 			end
 		end
 	else
@@ -553,9 +601,11 @@ function handlePlayerNicknameQuestion(question)
 		return
 	end
 
-	historiqueQuestion[#historiqueQuestion + 1] = {"#playerCharacterQuestion", player, db.players[player].main}
+	
 
-	botSays(player .. " plays " .. playerMains .. ".", player)
+	historiqueQuestion[#historiqueQuestion + 1] = {"#playerNicknameQuestion", player, db.players[player].nicknames}
+
+	botSays(player .. " is also called " .. playerNicknames .. ".", player)
 end
 
 

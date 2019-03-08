@@ -21,6 +21,7 @@ Fonctionnalités :
 * dplementer levenshtein pour les autres lexiques (eventuellement trouver une meilleure maniere de faire)
 * Comprendre les question avec levenshtein (faire en sorte que le systeme reponde quand meme a la question meme si faute d'othographe)
 * Dis quelque chose de special si on repond "yes" a la premiere quesiton 
+* TODO gerer pleins de cas ou ça marche pas si les majuscules son tpas la 
 
 
 
@@ -46,7 +47,7 @@ questions gérées :
 * player nicknames
 * TODO les questions detectées mais non gérées
 * (gere si le joueur n'a pas de surnoms)
-* TODO gerer le cas ou le champ est nil dans la bd
+* TODO gerer les autres cas ou le champ est nil dans la bd
 
 
 Autres truc=cs a faire
