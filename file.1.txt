@@ -538,6 +538,9 @@ return{
         [3] = "Huge LEff",
         [4] = "Cosmic Leff",
       },
+      globalRank = {
+        [1] = "2nd",
+      }
     },
     Ken = {
       mains = {

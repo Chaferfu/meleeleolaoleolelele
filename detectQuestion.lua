@@ -1,6 +1,7 @@
 dark = require("dark")
 
-debug = true
+debug = false
+useDB = true
 
 quesionTags = {"#playerCharacterQuestion"
 	,"#playerInfoQuestion"
@@ -18,31 +19,31 @@ db = {}
 db.players = {}
 db.players["Armada"] = {
 
-	main = {"Peach", "Fox"},
-	nationality = "Sweden",
-	rank = 3,
+	mains = {"Peach", "Fox"},
+	nationality = {"Sweden"},
+	globalRank = {3},
 
 }
 db.players["Mango"] = {
 
-	main = {"Falco", "Fox"},
-	nationality = "US",
-	rank = 6
+	mains = {"Falco", "Fox"},
+	nationality = {"US"},
+	globalRank = {6}
 
 }
 db.players["Leffen"] = {
 
-	main = {"Fox"},
-	nationality = "Sweden",
-	rank = 4
+	mains = {"Fox"},
+	nationality = {"Sweden"},
+	globalRank = {4}
 
 }
 
 db.players["Zain"] = {
 
-	main = {"Marth"},
+	mains = {"Marth"},
 	nationality = "US",
-	rank = 11
+	globalRank = {1},
 
 }
 
@@ -134,7 +135,7 @@ main:pattern([[
 ]])
 main:pattern([[
 	[#playerInfoQuestion
-		(/[Ww]ho/ "is" | /[Ww]ho/ "'" "s") (#w | #p){0,10}?  #player "?"?
+		(/[Ww]ho/ "is" | /[Ww]ho/ "'" "s") (#w | #p){0,10}?  (#player|"he"|"she") "?"?
 	]
 
 ]])
@@ -470,20 +471,28 @@ function handleCharacterQuestion(question)
 
 	historiqueQuestion[#historiqueQuestion + 1] = {"#characterQuestion", player, character}
 
-	botSays(player .. " plays " .. character .. ".", player)
+	if player == nil then botSays("hmmm I didn't find anybody who plays ".. character .. " but I must miss something ...")
+	else botSays(player .. " plays " .. character .. ".", player) end
 end
 
 function getPlayerWhoPlays(character)
 	for k,v in pairs(db.players) do
-		for cle, valeur in pairs(v.main) do
-			if valeur == character or valeur:lower() == character then return k
+		if debug then print("player is ".. k) end
+		for cle, valeur in pairs(v.mains) do
+			if debug then 
+				print("valeur " .. valeur)
+				print("char " .. character)
+			end
+			if valeur:find(character) or valeur:lower():find(character) then
+				return k
+			end
 		end
 	end
 	return nil
 end
 
 
-end
+
 
 function handlePreviousQuestion(question)
 	if (#historiqueQuestion == 0) then
@@ -495,7 +504,13 @@ function handlePreviousQuestion(question)
 			handleplayerCharacterQuestion(question)
 		elseif(historiqueQuestion[#historiqueQuestion][1] == "#playerNationalityQuestion") then
 			handlePlayerNationalityQuestion(question)
+		elseif(historiqueQuestion[#historiqueQuestion][1] == "#playerRankQuesion") then
+			handlePlayerRankQuestion(question)
+		elseif(historiqueQuestion[#historiqueQuestion][1] == "#playerNicknameQuestion") then
+			handlePlayerNicknameQuestion(question)
+	
 		end
+		
 	end
 
 end
@@ -514,10 +529,10 @@ function handlePlayerNationalityQuestion(question)
 			return
 		end
 	end
-	nationality = db.players[player].nationality
+	nationality = sayOrShutUp(db.players[player].nationality)
 	botSays(player .. " comes from " .. nationality .. ".", player)
 
-	historiqueQuestion[#historiqueQuestion + 1] = {"#playerNationalityQuestion", player, db.players[player].nationality}
+	historiqueQuestion[#historiqueQuestion + 1] = {"#playerNationalityQuestion", player, db.players[player].nationality[1]}
 end
 
 function handlePlayerRankQuestion(question) 
@@ -532,9 +547,13 @@ function handlePlayerRankQuestion(question)
 			return
 		end
 	end
-	historiqueQuestion[#historiqueQuestion + 1] = {"#playerRankQuesion", player, db.players[player].rank}
+	if db.players[player] == nil then
+		botSays("I don't know " .. player .. ".")
+		return
+	end
+	historiqueQuestion[#historiqueQuestion + 1] = {"#playerRankQuesion", player, db.players[player].globalRank[1]}
 
-	botSays(player .. "is currently ranked " .. db.players[player].rank .. "th on the MPGR ladder")
+	botSays(player .. " is currently ranked " .. sayOrShutUp(db.players[player].globalRank) .. " on the MPGR ladder")
 end 
 
 function handleplayerCharacterQuestion(question)
@@ -552,21 +571,31 @@ function handleplayerCharacterQuestion(question)
 		end
 	end
 
+	if db.players[player] == nil then
+		botSays("I don't know " .. player .. ".")
+		return
+	end
+
 	playerInfo = db.players[player]
 
 	playerMains = ""
 
-	for i = 1, #db.players[player].main do 
+	if db.players[player].mains == nil then
+		botSays("I don't know what " .. player .. " plays.", player)
+		return
+	end
+		
+	for i = 1, #db.players[player].mains do 
 		if i == 1 then 
-			playerMains = playerMains .. db.players[player].main[i]
+			playerMains = playerMains .. db.players[player].mains[i]
 		else
-			playerMains =  playerMains .. ", " .. db.players[player].main[i] 
+			playerMains =  playerMains .. ", " .. db.players[player].mains[i] 
 		end
 	end
 
 	
 
-	historiqueQuestion[#historiqueQuestion + 1] = {"#playerCharacterQuestion", player, db.players[player].main[1]}
+	historiqueQuestion[#historiqueQuestion + 1] = {"#playerCharacterQuestion", player, db.players[player].mains[1]}
 
 	botSays(player .. " plays " .. playerMains .. ".", player)
 end
@@ -583,6 +612,11 @@ function handlePlayerNicknameQuestion(question)
 			botSays("I didn't understand who you are talking about.")
 			return
 		end
+	end
+
+	if db.players[player] == nil then
+		botSays("I don't know " .. player .. ".")
+		return
 	end
 
 	playerInfo = db.players[player]
@@ -611,21 +645,51 @@ end
 
 function handlePlayerInfoQuestion(question)
 
-	player = extractTag(question, "#player")[1].token
+	if havetag(question, "#player") then 
+		player = extractTag(question, "#player")[1].token
+	else
+		if #historiqueQuestion ~= 0 then
+			player = historiqueQuestion[#historiqueQuestion][2]
+		else
+			botSays(incomprehension[ math.random( #incomprehension ) ])
+			botSays("I didn't understand who you are talking about.")
+
+			return
+		end
+	end
 	historiqueQuestion[#historiqueQuestion + 1] = {"#playerInfoQuestion", player}
 	playerInfo = db.players[player]
 
 	playerMains = ""
 
-	for k,v in pairs(db.players[player].main) do 
-		playerMains = playerMains .. v .. ", "
+	if db.players[player] == nil then
+		botSays("I don't know " .. player .. ".")
+		return
 	end
 
-	botSays(player .. " is a player from " .. playerInfo.nationality .. " who mains " .. playerMains .. " and is currently ranked " .. playerInfo.rank .. "th on the MPGR ladder.", player)
+	if db.players[player].mains ~= nil then
+		for i = 1, #db.players[player].mains do 
+			if i == 1 then 
+				playerMains = playerMains .. db.players[player].mains[i]
+			else
+				playerMains =  playerMains .. ", " .. db.players[player].mains[i] 
+			end
+		end
+	end
+
+
+	botSays(player .. " is a player from " .. sayOrShutUp(playerInfo.nationality) .. " who mains " .. (playerMains) .. " and is currently ranked " .. sayOrShutUp(playerInfo.globalRank) .. " on the MPGR ladder.", player)
 
 end
 
 
+function sayOrShutUp(thing)
+	if thing ~= nil then
+		return thing[1]
+	else
+		return "... well i don't know"
+	end
+end
 
 
 
@@ -687,6 +751,15 @@ function principale()
 
 	terminate = false
 
+	if useDB then
+		db = dofile("file.1.txt")
+
+		--gere des problemes de minuscules
+		for k,v in pairs(db.players) do
+			db.players[k:lower()] = db.players[k]
+		end
+	end
+
 	byeSentences = {}
 	for line in io.lines("repliques/bye.txt") do
 		byeSentences[#byeSentences + 1] = line
@@ -705,10 +778,6 @@ function principale()
 	otherQuestion = {}
 	for line in io.lines("repliques/otherQuestion.txt") do
 		otherQuestion[#otherQuestion + 1] = line
-	end
-
-	if debug then 
-		print( serialize(incomprehension))
 	end
 
 

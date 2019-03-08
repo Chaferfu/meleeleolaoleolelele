@@ -20,7 +20,7 @@ Fonctionnalités :
 * le mot exprime son incomprehension
 * le bot relance le user apres ses reponses
 * le system fait pas trop de fautes de ponctuation (quand il dit la liste des mains il gere si y en a qu'un ou plusieurs)
-* dplementer levenshtein pour les autres lexiques (eventuellement trouver une meilleure maniere de faire)
+* TODO dplementer levenshtein pour les autres lexiques (eventuellement trouver une meilleure maniere de faire)
 * Comprendre les question avec levenshtein (faire en sorte que le systeme reponde quand meme a la question meme si faute d'othographe)
 * Dis quelque chose de special si on repond "yes" a la premiere quesiton 
 * TODO gerer pleins de cas ou ça marche pas si les majuscules son tpas la 
@@ -38,6 +38,7 @@ Questions detectees :
 * tournament info
 * tournament date
 * tournament entrants
+* qui  joue ça ?
 * TODO autre formulations ?
 
 
