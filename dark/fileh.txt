@@ -1,0 +1,2203 @@
+return {
+	players = {	
+		A Rookie = {
+		  pseudo = {
+		    [1] = "A Rookie",
+		  },
+		  article = "Smasher:A_Rookie.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Southern California",
+		  },
+		  mains = {
+		    [1] = "Mario",
+		  },
+		},	
+		ALP = {
+		  pseudo = {
+		    [1] = "ALP",
+		  },
+		  article = "Smasher:ALP.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		},	
+		ARMY = {
+		  globalRank = {
+		    [1] = "20th",
+		  },
+		  pseudo = {
+		    [1] = "ARMY",
+		  },
+		  article = "Smasher:ARMY.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Long Beach",
+		  },
+		  mains = {
+		    [1] = "Ice Climbers",
+		    [2] = "Ice Climbers",
+		  },
+		},	
+		Abate = {
+		  pseudo = {
+		    [1] = "Abate",
+		  },
+		  article = "Smasher:Abate.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Pittsburgh",
+		    [2] = "New Jersey",
+		  },
+		  mains = {
+		    [1] = "Luigi",
+		  },
+		},	
+		Albert = {
+		  pseudo = {
+		    [1] = "Albert",
+		  },
+		  article = "Smasher:Albert.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		},	
+		Amsah = {
+		  globalRank = {
+		    [1] = "64th",
+		  },
+		  pseudo = {
+		    [1] = "Amsah",
+		  },
+		  article = "Smasher:Amsah.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Amsterdam , The Netherlands",
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		  },
+		},	
+		Android = {
+		  globalRank = {
+		    [1] = "66th",
+		  },
+		  pseudo = {
+		    [1] = "Android",
+		  },
+		  article = "Smasher:Android.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Gothensburg , Sweden",
+		  },
+		  mains = {
+		  },
+		},	
+		Armada = {
+		  globalRank = {
+		    [1] = "3rd",
+		  },
+		  pseudo = {
+		    [1] = "Armada",
+		  },
+		  article = "Smasher:Armada.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Sweden",
+		  },
+		  mains = {
+		    [1] = "Peach",
+		    [2] = "Fox",
+		  },
+		},	
+		Ashtrei = {
+		  pseudo = {
+		    [1] = "Ashtrei",
+		  },
+		  article = "Smasher:Ashtrei.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		  },
+		},	
+		Azusa = {
+		  pseudo = {
+		    [1] = "Azusa",
+		  },
+		  article = "Smasher:Azusa.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Northern California",
+		  },
+		  mains = {
+		    [1] = "Peach",
+		  },
+		},	
+		Bananas = {
+		  globalRank = {
+		    [1] = "19th",
+		  },
+		  pseudo = {
+		    [1] = "Bananas",
+		  },
+		  article = "Smasher:Bananas.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Dallas , Texas",
+		  },
+		  mains = {
+		    [1] = "Ice Climbers",
+		    [2] = "Ice Climbers",
+		  },
+		},	
+		Bizzarro Flame = {
+		  pseudo = {
+		    [1] = "Bizzarro Flame",
+		  },
+		  article = "Smasher:Bizzarro_Flame.txt",
+		  nicknames = {
+		    [1] = "Bizz",
+		  },
+		  nationality = {
+		    [1] = "La Cañada Flintridge",
+		  },
+		  mains = {
+		    [1] = "Ganondorf",
+		    [2] = "Ganondorf",
+		  },
+		},	
+		Bladewise = {
+		  pseudo = {
+		    [1] = "Bladewise",
+		  },
+		  article = "Smasher:Bladewise.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Peach",
+		  },
+		},	
+		Blea Gelo = {
+		  pseudo = {
+		    [1] = "Blea Gelo",
+		  },
+		  article = "Smasher:Blea_Gelo.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Luigi",
+		  },
+		},	
+		Blue Jay = {
+		  pseudo = {
+		    [1] = "Blue Jay",
+		  },
+		  article = "Smasher:Blue_Jay.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Salt Lake City",
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		},	
+		Bobby Frizz = {
+		  pseudo = {
+		    [1] = "Bobby Frizz",
+		  },
+		  article = "Smasher:Bobby_Frizz.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Olathe , Kansas",
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		},	
+		Boyd = {
+		  globalRank = {
+		    [1] = "67th",
+		  },
+		  pseudo = {
+		    [1] = "Boyd",
+		  },
+		  article = "Smasher:Boyd.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Ice Climbers",
+		  },
+		},	
+		Cactuar or = {
+		  globalRank = {
+		    [1] = "71st",
+		  },
+		  pseudo = {
+		    [1] = "Cactuar or",
+		  },
+		  article = "Smasher:Cactuar.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		    [2] = "Marth",
+		  },
+		},	
+		Cal = {
+		  globalRank = {
+		    [1] = "87th",
+		  },
+		  pseudo = {
+		    [1] = "Cal",
+		  },
+		  article = "Smasher:Cal.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Cincinnati , Ohio",
+		  },
+		  mains = {
+		    [1] = "Fox",
+		    [2] = "Sheik",
+		  },
+		},	
+		Captain Faceroll = {
+		  globalRank = {
+		    [1] = "33rd",
+		  },
+		  pseudo = {
+		    [1] = "Captain Faceroll",
+		  },
+		  article = "Smasher:Captain_Faceroll.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Chicago",
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		  },
+		},	
+		Chandy = {
+		  pseudo = {
+		    [1] = "Chandy",
+		  },
+		  article = "Smasher:Chandy.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Austin",
+		  },
+		  mains = {
+		    [1] = "Donkey Kong",
+		  },
+		},	
+		Chillin = {
+		  pseudo = {
+		    [1] = "Chillin",
+		  },
+		  article = "Smasher:Chillin.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		  },
+		},	
+		Chris Best = {
+		  pseudo = {
+		    [1] = "Chris Best",
+		  },
+		  article = "Smasher:Chris_Best.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		},	
+		ChuDat = {
+		  globalRank = {
+		    [1] = "46th",
+		  },
+		  pseudo = {
+		    [1] = "ChuDat",
+		  },
+		  article = "Smasher:ChuDat.txt",
+		  nicknames = {
+		    [1] = "Chu",
+		  },
+		  nationality = {
+		    [1] = "Falls Church , Virginia",
+		  },
+		  mains = {
+		    [1] = "Ice Climbers",
+		    [2] = "Jigglypuff",
+		  },
+		},	
+		Cob = {
+		  globalRank = {
+		    [1] = "94th",
+		  },
+		  pseudo = {
+		    [1] = "Cob",
+		  },
+		  article = "Smasher:Cob.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Peach",
+		  },
+		},	
+		Coffeeblack = {
+		  pseudo = {
+		    [1] = "Coffeeblack",
+		  },
+		  article = "Smasher:Coffeeblack.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Captain Falcon",
+		  },
+		},	
+		Colbol = {
+		  globalRank = {
+		    [1] = "30th",
+		  },
+		  pseudo = {
+		    [1] = "Colbol",
+		  },
+		  article = "Smasher:Colbol.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Casselberry , Florida",
+		  },
+		  mains = {
+		  },
+		},	
+		Crunch = {
+		  pseudo = {
+		    [1] = "Crunch",
+		  },
+		  article = "Smasher:Crunch.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Jigglypuff",
+		    [2] = "Fox",
+		  },
+		},	
+		Crush = {
+		  globalRank = {
+		    [1] = "17th",
+		  },
+		  pseudo = {
+		    [1] = "Crush",
+		  },
+		  article = "Smasher:Crush.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Massachusetts",
+		  },
+		  mains = {
+		  },
+		},	
+		Darktooth = {
+		  globalRank = {
+		    [1] = "59th",
+		  },
+		  pseudo = {
+		    [1] = "Darktooth",
+		  },
+		  article = "Smasher:Darktooth.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Long Island , New York",
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		},	
+		Daydee = {
+		  pseudo = {
+		    [1] = "Daydee",
+		  },
+		  article = "Smasher:Daydee.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Samus",
+		    [2] = "Samus",
+		  },
+		},	
+		DjaGoF = {
+		  pseudo = {
+		    [1] = "DjaGoF",
+		  },
+		  article = "Smasher:DjaGoF.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Captain Falcon",
+		  },
+		},	
+		Dr . Z = {
+		  pseudo = {
+		    [1] = "Dr . Z",
+		  },
+		  article = "Smasher:Dr._Z.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Northern California",
+		  },
+		  mains = {
+		    [1] = "Jigglypuff",
+		  },
+		},	
+		Drunksloth = {
+		  globalRank = {
+		    [1] = "61st",
+		  },
+		  pseudo = {
+		    [1] = "Drunksloth",
+		  },
+		  article = "Smasher:Drunksloth.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Ice Climbers",
+		  },
+		},	
+		Duck = {
+		  globalRank = {
+		    [1] = "14th",
+		  },
+		  pseudo = {
+		    [1] = "Duck",
+		  },
+		  article = "Smasher:Duck.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Ann Arbor , Michigan",
+		  },
+		  mains = {
+		    [1] = "Samus",
+		    [2] = "Samus",
+		  },
+		},	
+		EastCoastJeff = {
+		  pseudo = {
+		    [1] = "EastCoastJeff",
+		  },
+		  article = "Smasher:EastCoastJeff.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		},	
+		Fauxhebro = {
+		  pseudo = {
+		    [1] = "Fauxhebro",
+		  },
+		  article = "Smasher:Fauxhebro.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "British Columbia , Canada",
+		  },
+		  mains = {
+		    [1] = "Ice Climbers",
+		    [2] = "Ice Climbers",
+		  },
+		},	
+		Fizz = {
+		  pseudo = {
+		    [1] = "Fizz",
+		  },
+		  article = "Smasher:Fizz_(Colorado).txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		  },
+		},	
+		Flippy = {
+		  pseudo = {
+		    [1] = "Flippy",
+		  },
+		  article = "Smasher:Flippy.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Ijmuiden",
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		},	
+		Flipsy = {
+		  globalRank = {
+		    [1] = "90th",
+		  },
+		  pseudo = {
+		    [1] = "Flipsy",
+		  },
+		  article = "Smasher:Flipsy.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Naples , Florida",
+		  },
+		  mains = {
+		    [1] = "Ice Climbers",
+		  },
+		},	
+		Frenzy = {
+		  pseudo = {
+		    [1] = "Frenzy",
+		  },
+		  article = "Smasher:Frenzy.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Bristol , England",
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		},	
+		Frootloop = {
+		  pseudo = {
+		    [1] = "Frootloop",
+		  },
+		  article = "Smasher:Frootloop.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Madison , Wisconsin",
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		},	
+		Gahtzu = {
+		  globalRank = {
+		    [1] = "27th",
+		  },
+		  pseudo = {
+		    [1] = "Gahtzu",
+		  },
+		  article = "Smasher:Gahtzu.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Bonn",
+		  },
+		  mains = {
+		    [1] = "Captain Falcon",
+		  },
+		},	
+		Ginger = {
+		  globalRank = {
+		    [1] = "40th",
+		  },
+		  pseudo = {
+		    [1] = "Ginger",
+		  },
+		  article = "Smasher:Ginger.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		},	
+		Gravy = {
+		  pseudo = {
+		    [1] = "Gravy",
+		  },
+		  article = "Smasher:Gravy.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "New York",
+		  },
+		  mains = {
+		    [1] = "Captain Falcon",
+		  },
+		},	
+		HAT = {
+		  pseudo = {
+		    [1] = "HAT",
+		  },
+		  article = "Smasher:HAT.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Super Smash Con",
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		  },
+		},	
+		HTwa = {
+		  pseudo = {
+		    [1] = "HTwa",
+		  },
+		  article = "Smasher:HT.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Atlanta",
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		  },
+		},	
+		He = {
+		  pseudo = {
+		    [1] = "He",
+		  },
+		  article = "Smasher:Faxx.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Florida",
+		  },
+		  mains = {
+		    [1] = "Yoshi",
+		  },
+		},	
+		HiFi = {
+		  pseudo = {
+		    [1] = "HiFi",
+		  },
+		  article = "Smasher:HiFi.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Jigglypuff",
+		  },
+		},	
+		HomeMadeWaffles = {
+		  pseudo = {
+		    [1] = "HomeMadeWaffles",
+		  },
+		  article = "Smasher:HomeMadeWaffles.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "California",
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		},	
+		HugS = {
+		  pseudo = {
+		    [1] = "HugS",
+		  },
+		  article = "Smasher:HugS.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Samus",
+		  },
+		},	
+		Humpe = {
+		  pseudo = {
+		    [1] = "Humpe",
+		  },
+		  article = "Smasher:Humpe.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		},	
+		Iceman = {
+		  globalRank = {
+		    [1] = "95th",
+		  },
+		  pseudo = {
+		    [1] = "Iceman",
+		  },
+		  article = "Smasher:Iceman.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Washington",
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		},	
+		In SSB = {
+		  pseudo = {
+		    [1] = "In SSB",
+		  },
+		  article = "Smasher:Wizzrobe.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Yoshi",
+		    [2] = "Yoshi",
+		  },
+		},	
+		In SSBM = {
+		  globalRank = {
+		    [1] = "7th",
+		  },
+		  pseudo = {
+		    [1] = "In SSBM",
+		  },
+		  article = "Smasher:Wizzrobe.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Captain Falcon",
+		    [2] = "Captain Falcon",
+		  },
+		},	
+		Jeapie = {
+		  pseudo = {
+		    [1] = "Jeapie",
+		  },
+		  article = "Smasher:Jeapie.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		  },
+		},	
+		Jerry = {
+		  globalRank = {
+		    [1] = "55th",
+		  },
+		  pseudo = {
+		    [1] = "Jerry",
+		  },
+		  article = "Smasher:Jerry.txt",
+		  nicknames = {
+		    [1] = "Obi and xMikeL",
+		  },
+		  nationality = {
+		    [1] = "Baltimore",
+		  },
+		  mains = {
+		    [1] = "Jigglypuff",
+		    [2] = "Fox",
+		  },
+		},	
+		JohnnyFight = {
+		  pseudo = {
+		    [1] = "JohnnyFight",
+		  },
+		  article = "Smasher:JohnnyFight.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Sweden",
+		  },
+		  mains = {
+		    [1] = "Ice Climbers",
+		    [2] = "Ice Climbers",
+		  },
+		},	
+		Junebug = {
+		  globalRank = {
+		    [1] = "45th",
+		  },
+		  pseudo = {
+		    [1] = "Junebug",
+		  },
+		  article = "Smasher:Junebug.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Centreville , Virginia",
+		  },
+		  mains = {
+		    [1] = "Ganondorf",
+		  },
+		},	
+		K - 12 = {
+		  pseudo = {
+		    [1] = "K - 12",
+		  },
+		  article = "Smasher:K-12.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Madrid , Spain",
+		  },
+		  mains = {
+		    [1] = "Donkey Kong",
+		    [2] = "Donkey Kong",
+		  },
+		},	
+		KJH = {
+		  globalRank = {
+		    [1] = "25th",
+		  },
+		  pseudo = {
+		    [1] = "KJH",
+		  },
+		  article = "Smasher:KJH.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Detroit",
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		},	
+		KPAN = {
+		  pseudo = {
+		    [1] = "KPAN",
+		  },
+		  article = "Smasher:KPAN.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		},	
+		Ka - Master = {
+		  pseudo = {
+		    [1] = "Ka - Master",
+		  },
+		  article = "Smasher:Ka-Master.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Luigi",
+		  },
+		},	
+		Kaeon = {
+		  pseudo = {
+		    [1] = "Kaeon",
+		  },
+		  article = "Smasher:Kaeon.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		},	
+		Kalamazhu = {
+		  pseudo = {
+		    [1] = "Kalamazhu",
+		  },
+		  article = "Smasher:Kalamazhu.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Michigan",
+		  },
+		  mains = {
+		    [1] = "Peach",
+		  },
+		},	
+		Kalvar = {
+		  globalRank = {
+		    [1] = "79th",
+		  },
+		  pseudo = {
+		    [1] = "Kalvar",
+		  },
+		  article = "Smasher:Kalvar.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "New Hampshire",
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		},	
+		Ken Hoang = {
+		  pseudo = {
+		    [1] = "Ken Hoang",
+		  },
+		  article = "Smasher:Ken.txt",
+		  nicknames = {
+		    [1] = "Ken",
+		    [2] = "SephirothKen",
+		    [3] = "The King of Smash",
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		},	
+		King Momo = {
+		  globalRank = {
+		    [1] = "84th",
+		  },
+		  pseudo = {
+		    [1] = "King Momo",
+		  },
+		  article = "Smasher:King_Momo.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		},	
+		KirbyKaze = {
+		  pseudo = {
+		    [1] = "KirbyKaze",
+		  },
+		  article = "Smasher:KirbyKaze.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Markham",
+		    [2] = "Canada",
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		    [2] = "Sheik",
+		  },
+		},	
+		L = {
+		  pseudo = {
+		    [1] = "L",
+		  },
+		  article = "Smasher:L_(NorCal).txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "California",
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		},	
+		LLDL = {
+		  pseudo = {
+		    [1] = "LLDL",
+		  },
+		  article = "Smasher:LLDL.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "New Jersey",
+		  },
+		  mains = {
+		    [1] = "Falco",
+		    [2] = "Fox",
+		  },
+		},	
+		La Luna = {
+		  globalRank = {
+		    [1] = "32nd",
+		  },
+		  pseudo = {
+		    [1] = "La Luna",
+		  },
+		  article = "Smasher:La_Luna.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		},	
+		Lanceinthepants = {
+		  pseudo = {
+		    [1] = "Lanceinthepants",
+		  },
+		  article = "Smasher:Lanceinthepants.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		},	
+		Laudandus = {
+		  pseudo = {
+		    [1] = "Laudandus",
+		  },
+		  article = "Smasher:Laudandus.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Pittsburgh , Pennsylvania",
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		  },
+		},	
+		Leffen = {
+		  pseudo = {
+		    [1] = "Leffen",
+		  },
+		  article = "Smasher:Leffen.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		},	
+		Legend = {
+		  globalRank = {
+		    [1] = "85th",
+		  },
+		  pseudo = {
+		    [1] = "Legend",
+		  },
+		  article = "Smasher:Legend.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Montreal",
+		  },
+		  mains = {
+		    [1] = "Jigglypuff",
+		    [2] = "Jigglypuff",
+		    [3] = "Ganondorf",
+		  },
+		},	
+		Lovage = {
+		  pseudo = {
+		    [1] = "Lovage",
+		  },
+		  article = "Smasher:Lovage.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		  },
+		},	
+		Lunar Dusk = {
+		  pseudo = {
+		    [1] = "Lunar Dusk",
+		  },
+		  article = "Smasher:Lunar_Dusk.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Ice Climbers",
+		  },
+		},	
+		MT = {
+		  pseudo = {
+		    [1] = "MT",
+		  },
+		  article = "Smasher:MT.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Texas",
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		},	
+		MacD = {
+		  pseudo = {
+		    [1] = "MacD",
+		  },
+		  article = "Smasher:MacD.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Southern California",
+		  },
+		  mains = {
+		    [1] = "Peach",
+		    [2] = "Peach",
+		  },
+		},	
+		Makenshi = {
+		  pseudo = {
+		    [1] = "Makenshi",
+		  },
+		  article = "Smasher:Makenshi.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Marth",
+		    [2] = "Marth",
+		  },
+		},	
+		Mango = {
+		  globalRank = {
+		    [1] = "6th",
+		  },
+		  pseudo = {
+		    [1] = "Mango",
+		  },
+		  article = "Smasher:Mango.txt",
+		  nicknames = {
+		    [1] = "Scorpion Master",
+		    [2] = "The Kid",
+		    [3] = "The GOAT",
+		    [4] = "The Buster",
+		  },
+		  nationality = {
+		    [1] = "Norwalk , California",
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		},	
+		MattDotZeb = {
+		  pseudo = {
+		    [1] = "MattDotZeb",
+		  },
+		  article = "Smasher:MattDotZeb.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Massachusetts",
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		},	
+		Medz = {
+		  globalRank = {
+		    [1] = "49th",
+		  },
+		  pseudo = {
+		    [1] = "Medz",
+		  },
+		  article = "Smasher:Medz.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		},	
+		Michael = {
+		  globalRank = {
+		    [1] = "41st",
+		  },
+		  pseudo = {
+		    [1] = "Michael",
+		  },
+		  article = "Smasher:Michael.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Jigglypuff",
+		  },
+		},	
+		MilkMan = {
+		  globalRank = {
+		    [1] = "92nd",
+		  },
+		  pseudo = {
+		    [1] = "MilkMan",
+		  },
+		  article = "Smasher:MilkMan.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Sacramento",
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		},	
+		Moky = {
+		  globalRank = {
+		    [1] = "52nd",
+		  },
+		  pseudo = {
+		    [1] = "Moky",
+		  },
+		  article = "Smasher:Moky.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Ontario , Canada",
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		},	
+		Monib = {
+		  pseudo = {
+		    [1] = "Monib",
+		  },
+		  article = "Smasher:Monib.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Luigi",
+		  },
+		},	
+		Mr . F = {
+		  pseudo = {
+		    [1] = "Mr . F",
+		  },
+		  article = "Smasher:Mr._F.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "New Jersey",
+		  },
+		  mains = {
+		    [1] = "Jigglypuff",
+		  },
+		},	
+		NY Joey = {
+		  pseudo = {
+		    [1] = "NY Joey",
+		  },
+		  article = "Smasher:NY_Joey.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		},	
+		Nightmare = {
+		  pseudo = {
+		    [1] = "Nightmare",
+		  },
+		  article = "Smasher:Nightmare.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Ontario , Canada",
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		},	
+		Pengie = {
+		  pseudo = {
+		    [1] = "Pengie",
+		  },
+		  article = "Smasher:Pengie.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		},	
+		Plank = {
+		  pseudo = {
+		    [1] = "Plank",
+		  },
+		  article = "Smasher:Plank.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		  },
+		},	
+		Prince Abu = {
+		  globalRank = {
+		    [1] = "77th",
+		  },
+		  pseudo = {
+		    [1] = "Prince Abu",
+		  },
+		  article = "Smasher:Prince_Abu.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Jigglypuff",
+		  },
+		},	
+		Prinz = {
+		  pseudo = {
+		    [1] = "Prinz",
+		  },
+		  article = "Smasher:Prinz.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Jigglypuff",
+		  },
+		},	
+		Professor Pro = {
+		  globalRank = {
+		    [1] = "56th",
+		  },
+		  pseudo = {
+		    [1] = "Professor Pro",
+		  },
+		  article = "Smasher:Professor_Pro.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "London",
+		  },
+		  mains = {
+		    [1] = "Fox",
+		    [2] = "Fox",
+		    [3] = "Fox",
+		  },
+		},	
+		Ralph = {
+		  globalRank = {
+		    [1] = "89th",
+		  },
+		  pseudo = {
+		    [1] = "Ralph",
+		  },
+		  article = "Smasher:Ralph.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Northern California",
+		  },
+		  mains = {
+		    [1] = "Falco",
+		    [2] = "Fox",
+		  },
+		},	
+		Reeve = {
+		  pseudo = {
+		    [1] = "Reeve",
+		  },
+		  article = "Smasher:Reeve.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Kentucky",
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		},	
+		Reno = {
+		  pseudo = {
+		    [1] = "Reno",
+		  },
+		  article = "Smasher:Reno.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Brooklyn",
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		    [2] = "Fox",
+		  },
+		},	
+		Rik = {
+		  globalRank = {
+		    [1] = "82nd",
+		  },
+		  pseudo = {
+		    [1] = "Rik",
+		  },
+		  article = "Smasher:Rik.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		    [2] = "Falco",
+		  },
+		},	
+		Rishi = {
+		  pseudo = {
+		    [1] = "Rishi",
+		  },
+		  article = "Smasher:Rishi.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		  },
+		},	
+		RockCrock = {
+		  pseudo = {
+		    [1] = "RockCrock",
+		  },
+		  article = "Smasher:RockCrock.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Ganondorf",
+		    [2] = "Ganondorf",
+		  },
+		},	
+		Rocky = {
+		  globalRank = {
+		    [1] = "51st",
+		  },
+		  pseudo = {
+		    [1] = "Rocky",
+		  },
+		  article = "Smasher:Rocky_(California).txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		},	
+		Rustin = {
+		  pseudo = {
+		    [1] = "Rustin",
+		  },
+		  article = "Smasher:Rustin.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Peach",
+		  },
+		},	
+		Ryan Ford = {
+		  globalRank = {
+		    [1] = "31st",
+		  },
+		  pseudo = {
+		    [1] = "Ryan Ford",
+		  },
+		  article = "Smasher:Ryan_Ford.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		    [2] = "Fox",
+		  },
+		},	
+		Shamunt = {
+		  pseudo = {
+		    [1] = "Shamunt",
+		  },
+		  article = "Smasher:Shamunt.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		  },
+		},	
+		Shinobi = {
+		  pseudo = {
+		    [1] = "Shinobi",
+		  },
+		  article = "Smasher:Shinobi.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		},	
+		Shroomed = {
+		  pseudo = {
+		    [1] = "Shroomed",
+		  },
+		  article = "Smasher:Shroomed.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		  },
+		},	
+		SilentSpectre = {
+		  pseudo = {
+		    [1] = "SilentSpectre",
+		  },
+		  article = "Smasher:SilentSpectre.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Northern California",
+		  },
+		  mains = {
+		    [1] = "Captain Falcon",
+		  },
+		},	
+		Slox = {
+		  globalRank = {
+		    [1] = "50th",
+		  },
+		  pseudo = {
+		    [1] = "Slox",
+		  },
+		  article = "Smasher:Slox.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		  },
+		},	
+		SmashBob SquarePants = {
+		  pseudo = {
+		    [1] = "SmashBob SquarePants",
+		  },
+		  article = "Smasher:SmashBob_SquarePants.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Jigglypuff",
+		  },
+		},	
+		Spark = {
+		  globalRank = {
+		    [1] = "53rd",
+		  },
+		  pseudo = {
+		    [1] = "Spark",
+		  },
+		  article = "Smasher:Spark_(Melee).txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		  },
+		},	
+		Squid = {
+		  globalRank = {
+		    [1] = "54th",
+		  },
+		  pseudo = {
+		    [1] = "Squid",
+		  },
+		  article = "Smasher:Squid.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		},	
+		Sverre = {
+		  pseudo = {
+		    [1] = "Sverre",
+		  },
+		  article = "Smasher:Sverre.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Captain Falcon",
+		  },
+		},	
+		Swedish Delight = {
+		  pseudo = {
+		    [1] = "Swedish Delight",
+		  },
+		  article = "Smasher:Swedish_Delight.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "New Jersey",
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		  },
+		},	
+		SwiftBass = {
+		  pseudo = {
+		    [1] = "SwiftBass",
+		  },
+		  article = "Smasher:Swiftbass.txt",
+		  nicknames = {
+		    [1] = "Swift",
+		    [2] = "GibsonZero",
+		    [3] = "Phantom Renegade",
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		},	
+		Syrox = {
+		  globalRank = {
+		    [1] = "36th",
+		  },
+		  pseudo = {
+		    [1] = "Syrox",
+		  },
+		  article = "Smasher:Syrox.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Colorado",
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		},	
+		Taj = {
+		  pseudo = {
+		    [1] = "Taj",
+		  },
+		  article = "Smasher:Taj.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		  },
+		},	
+		TheSWOOPER = {
+		  pseudo = {
+		    [1] = "TheSWOOPER",
+		  },
+		  article = "Smasher:TheSWOOPER.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Samus",
+		  },
+		},	
+		This article = {
+		  pseudo = {
+		    [1] = "This article",
+		  },
+		  article = "Smasher:Spark_(Melee).txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		  },
+		},	
+		Trulliam = {
+		  globalRank = {
+		    [1] = "93rd",
+		  },
+		  pseudo = {
+		    [1] = "Trulliam",
+		  },
+		  article = "Smasher:Trulliam.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		},	
+		Twitch = {
+		  pseudo = {
+		    [1] = "Twitch",
+		  },
+		  article = "Smasher:Twitch.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "North Carolina",
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		},	
+		Uncle Mojo = {
+		  globalRank = {
+		    [1] = "80th",
+		  },
+		  pseudo = {
+		    [1] = "Uncle Mojo",
+		  },
+		  article = "Smasher:Mojo.txt",
+		  nicknames = {
+		    [1] = "Mojo",
+		  },
+		  nationality = {
+		    [1] = "Texas",
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		},	
+		Valdo = {
+		  pseudo = {
+		    [1] = "Valdo",
+		  },
+		  article = "Smasher:Valdo.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Monterrey , Mexico",
+		  },
+		  mains = {
+		    [1] = "Fox",
+		    [2] = "Fox",
+		  },
+		},	
+		Vino = {
+		  pseudo = {
+		    [1] = "Vino",
+		  },
+		  article = "Smasher:Vino.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		},	
+		Vinodh = {
+		  pseudo = {
+		    [1] = "Vinodh",
+		  },
+		  article = "Smasher:Vinodh.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Jigglypuff",
+		  },
+		},	
+		Vish = {
+		  pseudo = {
+		    [1] = "Vish",
+		  },
+		  article = "Smasher:Vish.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Washington",
+		  },
+		  mains = {
+		    [1] = "Captain Falcon",
+		  },
+		},	
+		Vro = {
+		  pseudo = {
+		    [1] = "Vro",
+		  },
+		  article = "Smasher:Vro.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Chicago , Illinois",
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		},	
+		Wavebringer = {
+		  pseudo = {
+		    [1] = "Wavebringer",
+		  },
+		  article = "Smasher:Wavebringer.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Peach",
+		  },
+		},	
+		Webwipe = {
+		  pseudo = {
+		    [1] = "Webwipe",
+		  },
+		  article = "Smasher:Webwipe.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		  },
+		},	
+		Wenbobular = {
+		  pseudo = {
+		    [1] = "Wenbobular",
+		  },
+		  article = "Smasher:Wenbobular.txt",
+		  nicknames = {
+		    [1] = "Wenbo",
+		  },
+		  nationality = {
+		    [1] = "Maryland",
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		},	
+		Westballz = {
+		  globalRank = {
+		    [1] = "22nd",
+		  },
+		  pseudo = {
+		    [1] = "Westballz",
+		  },
+		  article = "Smasher:Westballz.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Burbank",
+		  },
+		  mains = {
+		    [1] = "Falco",
+		    [2] = "Falco",
+		  },
+		},	
+		XIF = {
+		  pseudo = {
+		    [1] = "XIF",
+		  },
+		  article = "Smasher:XIF.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Peach",
+		  },
+		},	
+		York . He = {
+		  pseudo = {
+		    [1] = "York . He",
+		  },
+		  article = "Smasher:Captain_Smuckers.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Captain Falcon",
+		  },
+		},	
+		Zain = {
+		  globalRank = {
+		    [1] = "9th",
+		  },
+		  pseudo = {
+		    [1] = "Zain",
+		  },
+		  article = "Smasher:Zain.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Reston , Virginia",
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		},	
+		Zasa = {
+		  pseudo = {
+		    [1] = "Zasa",
+		  },
+		  article = "Smasher:Zasa.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Jigglypuff",
+		  },
+		},	
+		ZoSo = {
+		  pseudo = {
+		    [1] = "ZoSo",
+		  },
+		  article = "Smasher:ZoSo.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		},	
+		Zoler = {
+		  pseudo = {
+		    [1] = "Zoler",
+		  },
+		  article = "Smasher:Zoler.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		},	
+		Zorc = {
+		  pseudo = {
+		    [1] = "Zorc",
+		  },
+		  article = "Smasher:Zorc.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Oslo",
+		  },
+		  mains = {
+		    [1] = "Falco",
+		    [2] = "Falco",
+		  },
+		},	
+		beLia = {
+		  pseudo = {
+		    [1] = "beLia",
+		  },
+		  article = "Smasher:Belia.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		    [2] = "Falco",
+		  },
+		},	
+		dizzkidboogie = {
+		  pseudo = {
+		    [1] = "dizzkidboogie",
+		  },
+		  article = "Smasher:Dizzkidboogie.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Orinda , California",
+		  },
+		  mains = {
+		    [1] = "Ice Climbers",
+		    [2] = "Ice Climbers",
+		  },
+		},	
+		dudutsai = {
+		  pseudo = {
+		    [1] = "dudutsai",
+		  },
+		  article = "Smasher:Dudutsai.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Jigglypuff",
+		  },
+		},	
+		gaR = {
+		  pseudo = {
+		    [1] = "gaR",
+		  },
+		  article = "Smasher:GaR.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Texas",
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		  },
+		},	
+		lloD is = {
+		  globalRank = {
+		    [1] = "21st",
+		  },
+		  pseudo = {
+		    [1] = "lloD is",
+		  },
+		  article = "Smasher:LloD.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Great Falls",
+		  },
+		  mains = {
+		    [1] = "Peach",
+		  },
+		},	
+		mayb = {
+		  pseudo = {
+		    [1] = "mayb",
+		  },
+		  article = "Smasher:Mayb.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "West New York , New Jersey",
+		  },
+		  mains = {
+		  },
+		},	
+		nebbii = {
+		  globalRank = {
+		    [1] = "98th",
+		  },
+		  pseudo = {
+		    [1] = "nebbii",
+		  },
+		  article = "Smasher:Avalancer.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Nootdorp , The Netherlands",
+		  },
+		  mains = {
+		    [1] = "Yoshi",
+		    [2] = "Yoshi",
+		  },
+		},	
+		reaper = {
+		  pseudo = {
+		    [1] = "reaper",
+		  },
+		  article = "Smasher:Reaper.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		    [1] = "Bielefeld , Germany",
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		},	
+		self - proclaimed = {
+		  pseudo = {
+		    [1] = "self - proclaimed",
+		  },
+		  article = "Smasher:Scar.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Captain Falcon",
+		  },
+		},	
+		use . He = {
+		  pseudo = {
+		    [1] = "use . He",
+		  },
+		  article = "Smasher:Nintendude.txt",
+		  nicknames = {
+		  },
+		  nationality = {
+		  },
+		  mains = {
+		    [1] = "Ice Climbers",
+		    [2] = "Mario",
+		    [3] = "Mario",
+		  },
+		},
+	},
+}
