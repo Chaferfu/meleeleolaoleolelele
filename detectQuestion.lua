@@ -117,6 +117,7 @@ local applyLexicons = dark.pipeline()
 main:basic()
 
 
+
 -- main:model("model-2.3.0/postag-en")
 main:lexicon("#character", load_nocase("./lexique/ssbm_characters.txt"))
 main:lexicon("#player", load_nocase("./lexique/ssbm_players.txt"))
@@ -207,7 +208,7 @@ main:pattern([[
 
 	[#playerNicknameQuestion
 
-		/[Ww]hat/ (#w | #p){0,5}? (#player | "his" | "him" | "he" | "her" | "she") (#w | #p){0,5}? (/[Nn]ickname/ | "called" ) "?"?
+		/[Ww]hat/ (#w | #p){0,5}? (#player | "his" | "him" | "he" | "her" | "she") (#w | #p){0,5}? (/[Nn]ickname/ | "called" | /[Nn]ick/ | nicks ) "?"?
 
 	]
 
@@ -408,6 +409,12 @@ function handleQuestion(question)
 	elseif havetag(question, "#playerNationalityQuestion") then
 		handlePlayerNationalityQuestion(question)
 
+	elseif havetag(question, "#playerRankQuestion") then 
+		handlePlayerRankQuestion(question) 
+
+	elseif havetag(question, "#playerNicknameQuestion") then 
+	handlePlayerNicknameQuestion(question) 
+
 	elseif havetag(question, "#linkToPrevious") then
 		handlePreviousQuestion(question)
 
@@ -456,6 +463,8 @@ function handlePlayerNationalityQuestion(question)
 			player = historiqueQuestion[#historiqueQuestion][2]
 		else
 			botSays(incomprehension[ math.random( #incomprehension ) ])
+			botSays("I didn't understand who you are talking about.")
+
 			return
 		end
 	end
@@ -465,6 +474,22 @@ function handlePlayerNationalityQuestion(question)
 	historiqueQuestion[#historiqueQuestion + 1] = {"#playerNationalityQuestion", player, db.players[player].nationality}
 end
 
+function handlePlayerRankQuestion(question) 
+	if havetag(question, "#player") then 
+		player = extractTag(question, "#player")[1].token
+	else
+		if #historiqueQuestion ~= 0 then
+			player = historiqueQuestion[#historiqueQuestion][2]
+		else
+			botSays(incomprehension[ math.random( #incomprehension ) ])
+			botSays("I didn't understand who you are talking about.")
+			return
+		end
+	end
+	historiqueQuestion[#historiqueQuestion + 1] = {"#playerRankQuesion", player, db.players[player].rank}
+
+	botSays(player .. "is currently ranked " .. db.players[player].rank .. "th on the MPGR ladder")
+end 
 
 function handleplayerCharacterQuestion(question)
 
@@ -475,6 +500,8 @@ function handleplayerCharacterQuestion(question)
 			player = historiqueQuestion[#historiqueQuestion][2]
 		else
 			botSays(incomprehension[ math.random( #incomprehension ) ])
+			botSays("I didn't understand who you are talking about.")
+
 			return
 		end
 	end
@@ -489,6 +516,41 @@ function handleplayerCharacterQuestion(question)
 		else
 			playerMains =  playerMains .. ", " .. db.players[player].main[i] 
 		end
+	end
+
+	historiqueQuestion[#historiqueQuestion + 1] = {"#playerNicknameQuestion", player, db.players[player].nicknames}
+
+	botSays(player .. " is also called " .. playerNicknames .. ".", player)
+end
+
+function handlePlayerNicknameQuestion(question)
+
+	if havetag(question, "#player") then 
+		player = extractTag(question, "#player")[1].token
+	else
+		if #historiqueQuestion ~= 0 then
+			player = historiqueQuestion[#historiqueQuestion][2]
+		else
+			botSays(incomprehension[ math.random( #incomprehension ) ])
+			botSays("I didn't understand who you are talking about.")
+			return
+		end
+	end
+
+	playerInfo = db.players[player]
+
+	playerNicknames = ""
+	if db.players[player].nicknames ~= nil then 
+		for i = 1, #db.players[player].nicknames do 
+			if i == 1 then 
+				playerNicknames = playerNicknames .. db.players[player].main[i]
+			else
+				playerNicknames =  playerNicknames .. ", " .. db.players[player].main[i] 
+			end
+		end
+	else
+		botSays("To my knowledge, " .. player .. " does not have any nicknames.", player)
+		return
 	end
 
 	historiqueQuestion[#historiqueQuestion + 1] = {"#playerCharacterQuestion", player, db.players[player].main}
@@ -524,17 +586,9 @@ end
 
 
 
-
-
-
-
-
-
-
 ----------------------------------Display lines ---------------------------------------------
 
--- print all line numbers and their contents
---dark.sequence() ?
+
 if debug then
 	for k,line in pairs(lines) do
 	print('line[' .. k .. ']', (main(line)):tostring(tags))
@@ -582,6 +636,7 @@ end
 function principale()
 
 	terminate = false
+
 	byeSentences = {}
 	for line in io.lines("repliques/bye.txt") do
 		byeSentences[#byeSentences + 1] = line
@@ -606,9 +661,21 @@ function principale()
 		print( serialize(incomprehension))
 	end
 
+
 	print("----- Welcome to meleeleolaoleolelele -----")
 	print()
 	print("meleeleolaoleolelele : Hey ! Do you have a question regarding Super Smash Bros. Melee ?")
+	io.write("You : ")
+		question = io.read()
+		if string.match( question,"yes" ) or string.match( question,"Yes" ) then 
+			botSays("Well go ahead and ask me my dude !")
+		else	
+			handleQuestion(question)
+		end
+		if debug then 
+			print(serialize(historiqueQuestion))
+		end
+
 	repeat
 		io.write("You : ")
 		question = io.read()
@@ -622,5 +689,3 @@ end
 principale()
 
 
-
---TODO better levensheit (comprende la question raturee)
