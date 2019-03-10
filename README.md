@@ -39,7 +39,6 @@ Questions detectees :
 * tournament date
 * tournament entrants
 * qui  joue ça ?
-* TODO autre formulations ?
 
 
 questions gérées : 
@@ -50,9 +49,12 @@ questions gérées :
 * player nicknames
 * TODO les questions detectées mais non gérées
 * (gere si le joueur n'a pas de surnoms)
-* TODO gerer les autres cas ou le champ est nil dans la bd
 
 
-Autres truc=cs a faire
-* TODO generer des stats de reussite en utilisant les données structurées 
+# TODO 
+* generer des stats de reussite en utilisant les données structurées 
+* finir les questions
+* pouvoir demander le meilleur joueur
+* pourvoir comparer sur autre chose (ex somme argent gagnée)
+* pourvoir demander des trucs ?
 
