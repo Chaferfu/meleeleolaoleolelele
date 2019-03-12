@@ -209,7 +209,7 @@ main:pattern([[
 
 	[#playerNicknameQuestion
 
-		/[Ww]hat/ (#w | #p){0,5}? (#player | "his" | "him" | "he" | "her" | "she") (#w | #p){0,5}? (/[Nn]ickname/ | "called" | /[Nn]ick/ | nicks ) "?"?
+		/[Ww]hat/ (#w | #p){0,5}? (#player | "his" | "him" | "he" | "her" | "she") (#w | #p){0,5}? (/[Nn]ickname/ | "nicknames" | "called" | /[Nn]ick/ | nicks ) "?"?
 
 	]
 
@@ -230,6 +230,26 @@ main:pattern([[
 	[#characterQuestion
 
 		/[Ww]ho/ (#w | #p){0,10}? (#character|"him"|"her"|"it") "?"?
+
+	]
+
+]])
+
+main:pattern([[
+
+	[#comparaisonQuestion
+
+		(/[Ww]ho/ "is" | /[Ww]ho/ "'" "s") (#w | #p){0,10}? ("best" | "better") "?"?
+
+	]
+
+]])
+
+main:pattern([[
+
+	[#comparaisonQuestion
+
+		(/[Ww]ho/ "is" | /[Ww]ho/ "'" "s") (#w | #p){0,10}? "best" "between" #player "and" #player "?"?
 
 	]
 
@@ -326,7 +346,9 @@ end
 function handleQuestion(question)
 	questionLevenstein = {}
 	questionLevenstein2 = {}
-	for word in question:gmatch("%S+") do table.insert(questionLevenstein, word) end
+	question2 = question:gsub("%p", " %0 ")
+	for word in question2:gmatch("%S+") do table.insert(questionLevenstein, word) end
+	for word in question2:gmatch("%S+") do table.insert(questionLevenstein2, word) end
 	question = dark.sequence(question:gsub("%p", " %0 "))
 	
 		
@@ -336,15 +358,16 @@ function handleQuestion(question)
 
 	----- here : levenshtein ------------
 	
-	if(not havetag(question, "#player") and not havetag(question, "#playerCharacterQuestion") and not havetag(question, "#playerNationalityQuestion")) then
+	if(not havetag(question, "#playerCharacterQuestion") and not havetag(question, "#playerNationalityQuestion") or (havetag(question, "#player") and not havetag(question,"#playerNicknameQuestion"))) then
 			
 		for i = 1, #question do
 			if debug then 
 				print(question[i].token)
 			end
+			tomodify = false
 			for kw in io.lines("lexique/ssbm_players.txt") do
 				kw = kw:gsub('\r\n?', '')
-				if question[i].token ~= kw and question[i].token ~= kw:lower() and (string.levenshtein(question[i].token, kw:lower()) == 1 or string.levenshtein(question[i].token, kw) == 1) and string.len(question[i].token) > 2 then
+				if question[i].token ~= kw and question[i].token ~= kw:lower() and question[i].token ~= "are" and question[i].token ~= "main" and (string.levenshtein(question[i].token, kw:lower()) == 1 or string.levenshtein(question[i].token, kw) == 1) and string.len(question[i].token) > 2 then
 					--[[ print(#kw)
 					print(#question[i].token) ]]
 					
@@ -352,28 +375,23 @@ function handleQuestion(question)
 					io.write("You : ")
 					answer = io.read()
 					if(answer == "yes" or answer == "Yes" or answer == "yeah" or answer == "Yeah") then
-						print(questionLevenstein[i])
+						--print(questionLevenstein[i])
 						---questionLevenstein[i] = kw
-						for j = 1, #questionLevenstein do
-							if j~=i then
-								table.insert( questionLevenstein2, j, questionLevenstein[j])
-							else
-								table.insert(questionLevenstein2, j, kw)
-							end
-
-						end
-						questionLevenstein2 = dark.sequence(questionLevenstein2)
-						main(questionLevenstein2)
-						question = questionLevenstein2
+						table.insert(questionLevenstein2, i, kw)
+						tomodify = true
+						
 						--print(serialize(question[i]))
 					else
 						print("Ok...")
 					end
-
-					
+				else
+					table.insert(questionLevenstein2, i, questionLevenstein[i])
 				end
 			end
 		end
+		questionLevenstein2 = dark.sequence(questionLevenstein2)
+		main(questionLevenstein2)
+		question = questionLevenstein2
 	end
 
 
@@ -410,6 +428,8 @@ function handleQuestion(question)
 
 	elseif havetag(question, "#playerCharacterQuestion") then
 		handleplayerCharacterQuestion(question)
+	elseif havetag(question, "#comparaisonQuestion") then
+		handleComparaisonQuestion(question)
 
 	elseif havetag(question, "#playerInfoQuestion") then
 		--[[print(serialize(question["#player"]))
@@ -431,6 +451,8 @@ function handleQuestion(question)
 
 	elseif havetag(question, "#linkToPrevious") then
 		handlePreviousQuestion(question)
+
+	
 
 
 	-- elseif havetag(question, "#implicitMainQuestion")then 
@@ -491,6 +513,42 @@ function getPlayerWhoPlays(character)
 	return nil
 end
 
+function handleComparaisonQuestion(question)
+	if (#historiqueQuestion == 0 and not havetag(question, "#player")) then
+		botSays("I don't know who you are talking about...")
+	elseif(#historiqueQuestion == 1 and not havetag(question, "#player")) then
+		print("I'm sorry, who do I compare him with ?")
+		player = historiqueQuestion[#historiqueQuestion][2]
+		historiqueQuestion[#historiqueQuestion + 1] = {"#comparaisonQuestion", player, db.players[player].globalRank[1]}
+		io.write("You : ")
+		player2 = io.read()
+		newQuestion = "Who ".. "is ".."the ".."best " .."between "..  player .. " and " .. player2 .. " ?"
+		handleQuestion(newQuestion)
+	elseif(#historiqueQuestion >= 2 and not havetag(question, "#player")) then
+		player = historiqueQuestion[#historiqueQuestion - 1][2]
+		player2 = historiqueQuestion[#historiqueQuestion][2]
+		historiqueQuestion[#historiqueQuestion + 1] = {"#comparaisonQuestion", player, db.players[player].globalRank[1]}
+		if (db.players[player2].globalRank[1] < db.players[player].globalRank[1]) then
+			botSays(player2 .. " is better than ".. player .. ", his rank is " .. sayOrShutUp(db.players[player2].globalRank) .. " whereas " .. player .. " is ranked " .. sayOrShutUp(db.players[player].globalRank) .. ".", player)
+		elseif(db.players[player2].globalRank[1] > db.players[player].globalRank[1]) then
+			botSays(player .. " is better than ".. player2 .. ", his rank is " .. sayOrShutUp(db.players[player].globalRank) .. " whereas " .. player2 .. " is ranked " .. sayOrShutUp(db.players[player2].globalRank) .. ".", player)
+		else
+			botSays("They are pretty much equal, I would even say that they are the same.")
+		end
+
+	else
+		player = extractTag(question, "#player")[1].token
+		player2 =  extractTag(question, "#player")[2].token
+		historiqueQuestion[#historiqueQuestion + 1] = {"#comparaisonQuestion", player, db.players[player].globalRank[1]}
+		if (db.players[player2].globalRank[1] < db.players[player].globalRank[1]) then
+			botSays(player2 .. " is better than ".. player .. ", his rank is " .. sayOrShutUp(db.players[player2].globalRank) .. " whereas " .. player .. " is ranked " .. sayOrShutUp(db.players[player].globalRank) .. ".", player)
+		elseif(db.players[player2].globalRank[1] > db.players[player].globalRank[1]) then
+			botSays(player .. " is better than ".. player2 .. ", his rank is " .. sayOrShutUp(db.players[player].globalRank) .. " whereas " .. player2 .. " is ranked " .. sayOrShutUp(db.players[player2].globalRank) .. ".", player)
+		else
+			botSays("They are pretty much equal, I would even say that they are the same.")
+		end
+	end
+end
 
 
 
@@ -508,6 +566,8 @@ function handlePreviousQuestion(question)
 			handlePlayerRankQuestion(question)
 		elseif(historiqueQuestion[#historiqueQuestion][1] == "#playerNicknameQuestion") then
 			handlePlayerNicknameQuestion(question)
+		elseif(historiqueQuestion[#historiqueQuestion][1] == "#comparaisonQuestion") then
+			handleComparaisonQuestion(question)
 	
 		end
 		
@@ -551,7 +611,7 @@ function handlePlayerRankQuestion(question)
 		botSays("I don't know " .. player .. ".")
 		return
 	end
-	historiqueQuestion[#historiqueQuestion + 1] = {"#playerRankQuesion", player, db.players[player].globalRank[1]}
+	historiqueQuestion[#historiqueQuestion + 1] = {"#playerRankQuesion", player, sayOrShutUp(db.players[player].globalRank)}
 
 	botSays(player .. " is currently ranked " .. sayOrShutUp(db.players[player].globalRank) .. " on the MPGR ladder")
 end 
@@ -622,7 +682,7 @@ function handlePlayerNicknameQuestion(question)
 	playerInfo = db.players[player]
 
 	playerNicknames = ""
-	if db.players[player].nicknames ~= nil then 
+	if db.players[player].nicknames ~= nil and #db.players[player].nicknames ~= 0 then 
 		for i = 1, #db.players[player].nicknames do 
 			if i == 1 then 
 				playerNicknames = playerNicknames .. db.players[player].nicknames[i]
