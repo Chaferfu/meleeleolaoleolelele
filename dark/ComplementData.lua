@@ -154,6 +154,6 @@ end
 
 -- Ecriture dans un fichier de toutes les informations
 file = io.open("file2.txt", "w")
-file:write("return")
+file:write("return ")
 file:write(serialize(db))
 io.close(file)
