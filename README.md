@@ -18,6 +18,7 @@ Fonctionnalités :
 * levenshtein, si user ecorche le nom d'un character alors le systeme lui signale 
 * mode debug affiche plein d'infos (variable a mettre a true au debut de detectQuestion.lua)
 * se deconnecte quand on dit au revoir ou qu'on le drague
+* comparaison de deux joueurs 
 * "historique" on peut poser la meme question sur quelqu'un d'autre ou poser une question sur la meme personne (ex : what about ___ ?   What is his main ?)
 * le mot exprime son incomprehension et signale s'il ne connaît pas la réponse 
 * le bot relance le user apres ses reponses
@@ -41,6 +42,7 @@ Questions detectees :
 * tournament date
 * tournament entrants
 * qui  joue ça ?
+* comparaison du rank de deux joueurs
 
 
 questions gérées : 
@@ -51,6 +53,7 @@ questions gérées :
 * player nicknames
 * TODO les questions detectées mais non gérées
 * (gere si le joueur n'a pas de surnoms)
+* comparaison du rank de 2 joueurs
 
 
 # TODO 
