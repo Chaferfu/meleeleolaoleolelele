@@ -544,13 +544,18 @@ function handleComparaisonQuestion(question)
 	if (#historiqueQuestion == 0 and not havetag(question, "#player")) then
 		botSays("I don't know who you are talking about...")
 	elseif((#historiqueQuestion == 1 and not havetag(question, "#player")) or (#historiqueQuestion > 1 and historiqueQuestion[#historiqueQuestion - 1][2] == historiqueQuestion[#historiqueQuestion][2] and not havetag(question, "#player")) or #extractTag(question, "#player") == 1) then
-		print("I'm sorry, who do I compare him with ?")
-
+		
 		if #extractTag(question, "#player") == 1 then
 			player = extractTag(question, "#player")[1].token
 		else
 			player = historiqueQuestion[#historiqueQuestion][2]
 		end
+		if db.players[player] == nil then
+			botSays("I don't know " .. player .. ".")
+			return
+		end
+		
+		print("I'm sorry, who do I compare him with ?")
 		historiqueQuestion[#historiqueQuestion + 1] = {"#comparaisonQuestion", player, db.players[player].globalRank[1]}
 		io.write("You : ")
 		player2 = io.read()
@@ -571,6 +576,15 @@ function handleComparaisonQuestion(question)
 	else
 		player = extractTag(question, "#player")[1].token
 		player2 =  extractTag(question, "#player")[2].token
+
+		if db.players[player] == nil then
+			botSays("I don't know " .. player .. ".")
+			return
+		end
+		if db.players[player2] == nil then
+			botSays("I don't know " .. player2 .. ".")
+			return
+		end
 		historiqueQuestion[#historiqueQuestion + 1] = {"#comparaisonQuestion", player, db.players[player].globalRank[1]}
 		if (db.players[player2].globalRank[1] < db.players[player].globalRank[1]) then
 			botSays(player2 .. " is better than ".. player .. ", his rank is " .. sayOrShutUp(db.players[player2].globalRank) .. " whereas " .. player .. " is ranked " .. sayOrShutUp(db.players[player].globalRank) .. ".", player)
