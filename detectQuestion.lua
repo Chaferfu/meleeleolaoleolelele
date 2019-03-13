@@ -275,7 +275,7 @@ main:pattern([[
 main:pattern([[
 
 	[#birthPlayerQuestion
-		/[Ww]en/  (#w | #p){0,5}? (#player | "his" | "him" | "he" | "her" | "she")  (#w | #p){0,5}? "born" "?"?
+		/[Ww]hen/  (#w | #p){0,5}? (#player | "his" | "him" | "he" | "her" | "she")  (#w | #p){0,5}? "born" "?"?
 	]
 
 ]])
@@ -531,7 +531,10 @@ function handleBirthPlayerQuestion( question )
 
 	historiqueQuestion[#historiqueQuestion + 1] = {"#playerRankQuesion", player, sayOrShutUp(db.players[player].globalRank)}
 
-	if db.players[player].birth == nil then botSays("I don't know when " .. player .. "is born.", player)
+	if db.players[player].birth == nil then 
+		botSays("I don't know when " .. player .. "is born.", player) 
+		return
+	end
 
 	botSays(player .. " is born on the " .. sayOrShutUp(db.players[player].birth.day[1]) .. "/"  .. sayOrShutUp(db.players[player].birth.month[1]) .. "/"  .. sayOrShutUp(db.players[player].birth.year[1]) .. ".")
 end
@@ -556,9 +559,11 @@ function handleBirthPlayerQuestion( question )
 
 	historiqueQuestion[#historiqueQuestion + 1] = {"#birthPlayerQuestion", player, sayOrShutUp(db.players[player].globalRank)}
 
-	if db.players[player].birth == nil then botSays("I don't know when " .. player .. "is born.", player)
-
-	botSays(player .. " is born on the " .. sayOrShutUp(db.players[player].birth.day[1]) .. "/"  .. sayOrShutUp(db.players[player].birth.month[1]) .. "/"  .. sayOrShutUp(db.players[player].birth.year[1]) .. ".")
+	if db.players[player].birth == nil then
+		botSays("I don't know when " .. player .. " is born.", player)
+		return
+	end
+	botSays(player .. " is born on the " .. sayOrShutUp(db.players[player].birth.day[1]) .. "/"  .. sayOrShutUp(db.players[player].birth.month[1]) .. "/"  .. sayOrShutUp(db.players[player].birth.year[1]) .. ".") 
 end
 
 function handlePlayerSponsorQuestion(question)
@@ -580,7 +585,10 @@ function handlePlayerSponsorQuestion(question)
 
 	historiqueQuestion[#historiqueQuestion + 1] = {"#playerSponsorQuestion", player, sayOrShutUp(db.players[player].globalRank)}
 
-	if db.players[player].sponsors[1] == nil then botSays("I don't know what is " .. player .. "'s sponsor.", player)
+	if db.players[player].sponsors == nil or db.players[player].sponsors[1] == nil then
+		botSays("I don't know what is " .. player .. "'s sponsor.", player) 
+		return
+	end
 
 	botSays(player .. "'s sponsor is  " .. db.players[player].sponsors[1] .. ".", player)
 end
