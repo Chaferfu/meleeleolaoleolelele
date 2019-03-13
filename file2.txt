@@ -2129,7 +2129,7 @@ return{
         [1] = "Leffen",
       },
       mains = {
-        [1] = "Fox",
+        [1] = "Fox"
       },
       nicknames = {
       },
