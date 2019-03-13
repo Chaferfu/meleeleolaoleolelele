@@ -1,3 +1,20 @@
+# Pour lancer le systeme
+
+dark/dark detectQuestions.lua
+
+la base de donnée est stockée dans le fichier file2.txt a la racine du projet
+
+Pour faire des tests et etre sur que la bd est solide essayer sur les 3 joueurs : Mango, Armada, Leffen
+
+
+---------------------------------------------------------
+
+
+
+
+
+
+
 # meleeleolaoleolelele
 
 NOTE IMPORTANTE : LE FICHIER GENERE PAR PARSING.LUA EST MAINTENANT FILEH.TXT
@@ -10,13 +27,7 @@ To test the actual informations detection, go to the dark folder and launch pars
 
 Les textes dans corpus et Smashers ont étés récupérés par le script que nous avons écrit. Le dossier Smashers contient les textes a propos des meilleurs joueurs que nous utilisons pour la detection d'informations.
 
-# Pour lancer le systeme
 
-dark/dark detectQuestions.lua
-
-la base de donnée est stockée dans le fichier file2.txt a la racine du projet
-
-Pour faire des tests et etre sur que la bd est solide essayer sur les 3 joueurs : Mango, Armada, Leffen
 
 
 # Trucs que le système fait bien
