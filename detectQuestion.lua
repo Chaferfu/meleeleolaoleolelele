@@ -239,7 +239,7 @@ main:pattern([[
 
 	[#comparaisonQuestion
 
-		(/[Ww]ho/ "is" | /[Ww]ho/ "'" "s") (#w | #p){0,10}? ("best" | "better") "?"?
+		(/[Ww]ho/ "is" | /[Ww]ho/ "'" "s") (#w | #p){0,10}? ("best" | "better") "between" "?"?
 
 	]
 
@@ -258,7 +258,7 @@ main:pattern([[
 main:pattern([[
 
 	[#bestPlayerQuestion
-		(/[Ww]ho/ "is" | /[Ww]ho/ "'" "s") (#w | #p){0,5}? "best" "player" "?"?
+		(/[Ww]ho/ "is" | /[Ww]ho/ "'" "s") (#w | #p){0,5}? "best" "?"?
 	]
 
 ]])
@@ -482,7 +482,7 @@ function getBestPlayer()
 
 	for k,v in pairs(db.players) do
 		if debug then print("player is ".. k) end
-		if tonumber(v.globalRank[1]) == 1 then 
+		if v.globalRank ~= nil and tonumber(v.globalRank[1]) == 1 then 
 			return k
 		end
 	end
