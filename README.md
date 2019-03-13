@@ -59,7 +59,6 @@ questions gérées :
 # TODO 
 * generer des stats de reussite en utilisant les données structurées 
 * finir les questions
-* pouvoir demander le meilleur joueur
 * pourvoir comparer sur autre chose (ex somme argent gagnée)
 * pourvoir demander des trucs ?
 
