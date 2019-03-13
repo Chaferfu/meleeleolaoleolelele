@@ -355,9 +355,9 @@ end
 function handleQuestion(question)
 	questionLevenstein = {}
 	questionLevenstein2 = {}
+	tomodify = {}
 	question2 = question:gsub("%p", " %0 ")
 	for word in question2:gmatch("%S+") do table.insert(questionLevenstein, word) end
-	for word in question2:gmatch("%S+") do table.insert(questionLevenstein2, word) end
 	question = dark.sequence(question:gsub("%p", " %0 "))
 	
 		
@@ -373,31 +373,32 @@ function handleQuestion(question)
 			if debug then 
 				print(question[i].token)
 			end
-			tomodify = false
+			tomodify[i] = false
 			for kw in io.lines("lexique/ssbm_players.txt") do
 				kw = kw:gsub('\r\n?', '')
 				if question[i].token ~= kw and question[i].token ~= kw:lower() and question[i].token ~= "are" and question[i].token ~= "main" and (string.levenshtein(question[i].token, kw:lower()) == 1 or string.levenshtein(question[i].token, kw) == 1) and string.len(question[i].token) > 2 then
 					--[[ print(#kw)
-					print(#question[i].token) ]]
-					
+					print(#question[i].token) ]]		
 					print("Did you mean " .. kw .. " ?")
 					io.write("You : ")
 					answer = io.read()
 					if(answer == "yes" or answer == "Yes" or answer == "yeah" or answer == "Yeah") then
 						--print(questionLevenstein[i])
 						---questionLevenstein[i] = kw
+						tomodify[i] = true
 						table.insert(questionLevenstein2, i, kw)
-						tomodify = true
 						
 						--print(serialize(question[i]))
 					else
 						print("Ok...")
 					end
-				else
-					table.insert(questionLevenstein2, i, questionLevenstein[i])
 				end
 			end
+			if(tomodify[i] == false) then
+				table.insert(questionLevenstein2, i, questionLevenstein[i])
+			end
 		end
+		print(serialize(questionLevenstein2))
 		questionLevenstein2 = dark.sequence(questionLevenstein2)
 		main(questionLevenstein2)
 		question = questionLevenstein2
