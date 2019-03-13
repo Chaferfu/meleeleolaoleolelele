@@ -112,7 +112,7 @@ P:pattern([[ [#rank ( /^[0-9]+[tnrs][hdt]$/ )] ]])
 P:pattern([[ [#globalRank #rank #w{0,4}? #year MPGR] ]])
 
 -- Detection du pseudo du joueur
-P:pattern([[ [#pseudo_ .]  ("(".{0,30}? ")" | /^[^.]+$/{0,30}?)?  is (#w)*  ( smasher | Melee player | SSBM | main) ]])
+P:pattern([[ [#pseudo_ ((#w /^[.-]$/ (#w|#d)) | (#w{1,2}))]  ("(".{0,30}? ")" | /^[^.]+$/{0,30}?)?  is (#w)*  ( smasher | Melee player | SSBM | main) ]])
 P:pattern([[ [#joueur [#pseudo #pseudo_] /^[^.]+$/{0,80}? (#character | #globalRank) ] ]])
 
 P:pattern([[ from[#nationality (#W{0,3}?","(#W{1,3}?) | #W{0,3})] (who|and) ]])
@@ -165,10 +165,22 @@ for fichier in os.dir(rep) do
 	end
 end
 
+local keys = {}
+for key in pairs(db["players"]) do 
+	table.insert(keys, key) 
+end
+table.sort(keys)
+
 -- Ecriture dans un fichier de toutes les informations
 file = io.open("fileh.txt", "w")
-file:write("return ")
-file:write(serialize(db))
+file:write("return {\n\tplayers = {")
+for v, key in ipairs(keys) do 
+	file:write("\t\n\t\t[\"" .. key .. "\"] = ")
+	local tempStr = serialize(db["players"][key])
+	tempStr = tempStr:gsub("\n", "\n\t\t")
+	file:write(tempStr .. ",")
+end
+file:write("\n\t},\n}")
 io.close(file)
 
 print("Nombre de players : " .. count)
