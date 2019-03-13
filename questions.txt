@@ -34,3 +34,4 @@ what about Armada ?
 where is he from ?
 who else plays it ?
 what is his nickname ? (en premiere question montre gestion d'erreur)
+Who is the best player ?
