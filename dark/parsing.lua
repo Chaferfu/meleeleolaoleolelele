@@ -76,9 +76,11 @@ function tagstring (seq, tag, deb, fin)
 	-- Valeurs par défauts pour les paramètres
 	deb, fin = deb or 1, fin or #seq
 	local tab = {}
+	local isRedundant = false
 	
 	for idx, pos in ipairs(seq[tag]) do
 		local d, f = pos[1], pos[2]
+		isRedundant = false
 		if d >= deb and f <= fin then
 			local res = ""
 			for i = d, f do
@@ -88,7 +90,15 @@ function tagstring (seq, tag, deb, fin)
 					res = res .. " " .. seq[i].token
 				end
 			end
-			tab[#tab + 1] = res
+			for index, val in ipairs(tab) do
+				if string.match(res, val) then
+					isRedundant = true
+					break
+				end
+			end
+			if not isRedundant then
+				tab[#tab + 1] = res
+			end
 		end
 	end
 	return tab
