@@ -146,7 +146,6 @@ return{
       },
       globalRank = {
         [1] = "3rd",
-        [2] = "3rd",
       },
       pseudo = {
         [1] = "Armada",
@@ -154,9 +153,6 @@ return{
       mains = {
         [1] = "Peach",
         [2] = "Fox",
-        [3] = "Yoshi",
-        [4] = "Peach",
-        [5] = "Fox",
       },
       nicknames = {
       },
@@ -2133,8 +2129,7 @@ return{
         [1] = "Leffen",
       },
       mains = {
-        [1] = "Fox",
-        [2] = "Fox",
+        [1] = "Fox"
       },
       nicknames = {
       },
@@ -5270,7 +5265,6 @@ return{
       },
       globalRank = {
         [1] = "6th",
-        [2] = "6th",
       },
       pseudo = {
         [1] = "Mango",
