@@ -1,1713 +1,1712 @@
 return{
   players = {
-    Gahtzu = {
-      pseudo = "Gahtzu",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Kaeon = {
-      pseudo = "Kaeon",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    SwiftBass = {
-      pseudo = "SwiftBass",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Boulevard = {
-      pseudo = "Boulevard",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["King Funk"] = {
-      pseudo = "King Funk",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    FatGoku = {
-      pseudo = "FatGoku",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Legend = {
-      pseudo = "Legend",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Josh = {
-      pseudo = "Josh",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["Lunar Dusk"] = {
-      pseudo = "Lunar Dusk",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Jerry = {
-      pseudo = "Jerry",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Smasher = {
-      pseudo = "Smasher",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Zorc = {
-      pseudo = "Zorc",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    AbsentPage = {
-      pseudo = "AbsentPage",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Chillin = {
-      pseudo = "Chillin",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Hax = {
-      pseudo = "Hax",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Frootloop = {
-      pseudo = "Frootloop",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Trulliam = {
-      pseudo = "Trulliam",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Faxx = {
-      pseudo = "Faxx",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    DaShizWiz = {
-      pseudo = "DaShizWiz",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Fauxhebro = {
-      pseudo = "Fauxhebro",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Santi = {
-      pseudo = "Santi",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Fuzzyness = {
-      pseudo = "Fuzzyness",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["Jah Ridin"] = {
-      pseudo = "Jah Ridin",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Porkchops = {
-      pseudo = "Porkchops",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    XIF = {
-      pseudo = "XIF",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Reason = {
-      pseudo = "Reason",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Albert = {
-      pseudo = "Albert",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Alan = {
-      pseudo = "Alan",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ZoSo = {
-      pseudo = "ZoSo",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Zhu = {
-      pseudo = "Zhu",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Gravy = {
-      pseudo = "Gravy",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["A Rookie"] = {
-      pseudo = "A Rookie",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["Bobby Scar"] = {
-      pseudo = "Bobby Scar",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    LLDL = {
-      pseudo = "LLDL",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Zgetto = {
-      pseudo = "Zgetto",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Cob = {
-      pseudo = "Cob",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Wavebringer = {
-      pseudo = "Wavebringer",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Zasa = {
-      pseudo = "Zasa",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Zain = {
-      pseudo = "Zain",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Adam = {
-      pseudo = "Adam",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    gaR = {
-      pseudo = "gaR",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Heartstrings = {
-      pseudo = "Heartstrings",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Wizzrobe = {
-      pseudo = "Wizzrobe",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    CDK = {
-      pseudo = "CDK",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Taj = {
-      pseudo = "Taj",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Eagle = {
-      pseudo = "Eagle",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Weon = {
-      pseudo = "Weon",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Wenbobular = {
-      pseudo = "Wenbobular",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Webwipe = {
-      pseudo = "Webwipe",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    BeLia = {
-      pseudo = "BeLia",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Levingy = {
-      pseudo = "Levingy",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Vro = {
-      pseudo = "Vro",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Jeapie = {
-      pseudo = "Jeapie",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Valdo = {
-      pseudo = "Valdo",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    vortex = {
-      pseudo = "vortex",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    MT = {
-      pseudo = "MT",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    HT = {
-      pseudo = "HT",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Reeve = {
-      pseudo = "Reeve",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Medz = {
-      pseudo = "Medz",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Vist = {
-      pseudo = "Vist",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    MilkMan = {
-      pseudo = "MilkMan",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Bananas = {
-      pseudo = "Bananas",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Vinodh = {
-      pseudo = "Vinodh",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Animal = {
-      pseudo = "Animal",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Shinobi = {
-      pseudo = "Shinobi",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Vino = {
-      pseudo = "Vino",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Kels = {
-      pseudo = "Kels",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Tai = {
-      pseudo = "Tai",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Vickram = {
-      pseudo = "Vickram",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    SleepyK = {
-      pseudo = "SleepyK",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Hyuga = {
-      pseudo = "Hyuga",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ChuDat = {
-      pseudo = "ChuDat",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    UUAA = {
-      pseudo = "UUAA",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Twitch = {
-      pseudo = "Twitch",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Ralph = {
-      pseudo = "Ralph",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Shroomed = {
-      pseudo = "Shroomed",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    RockCrock = {
-      pseudo = "RockCrock",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Ashtrei = {
-      pseudo = "Ashtrei",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Trademark = {
-      pseudo = "Trademark",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    TheSWOOPER = {
-      pseudo = "TheSWOOPER",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Shamunt = {
-      pseudo = "Shamunt",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Amsah = {
-      pseudo = "Amsah",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Nightmare = {
-      pseudo = "Nightmare",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Westballz = {
-      pseudo = "Westballz",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Syrox = {
-      pseudo = "Syrox",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Axe = {
-      pseudo = "Axe",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Moky = {
-      pseudo = "Moky",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Coffeeblack = {
-      pseudo = "Coffeeblack",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Swiftbass = {
-      pseudo = "Swiftbass",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["Swedish Delight"] = {
-      pseudo = "Swedish Delight",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    MrLz = {
-      pseudo = "MrLz",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Crunch = {
-      pseudo = "Crunch",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Flippy = {
-      pseudo = "Flippy",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Sverre = {
-      pseudo = "Sverre",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Duck = {
-      pseudo = "Duck",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Spark = {
-      pseudo = "Spark",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["Uncle Mojo"] = {
-      pseudo = "Uncle Mojo",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Nintendude = {
-      pseudo = "Nintendude",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["Blea Gelo"] = {
-      pseudo = "Blea Gelo",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Sol = {
-      pseudo = "Sol",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Jamrun = {
-      pseudo = "Jamrun",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    aMSa = {
-      pseudo = "aMSa",
-      sponsor = {
-      },
-      mains = {
-        [1] = "Yoshi",
-      },
-    },
-    KirbyKaze = {
-      pseudo = "KirbyKaze",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Slox = {
-      pseudo = "Slox",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ALP = {
-      pseudo = "ALP",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    dizzkidboogie = {
-      pseudo = "dizzkidboogie",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["Silly Kyle"] = {
-      pseudo = "Silly Kyle",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Avalancer = {
-      pseudo = "Avalancer",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Atomsk = {
-      pseudo = "Atomsk",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Rishi = {
-      pseudo = "Rishi",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["Silent Wolf"] = {
-      pseudo = "Silent Wolf",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["Bizzarro Flame"] = {
-      pseudo = "Bizzarro Flame",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    HomeMadeWaffles = {
-      pseudo = "HomeMadeWaffles",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Rocky = {
-      pseudo = "Rocky",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    HiFi = {
-      pseudo = "HiFi",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Baxon = {
-      pseudo = "Baxon",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Michael = {
-      pseudo = "Michael",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    SilentSpectre = {
-      pseudo = "SilentSpectre",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["Eddy Mexico"] = {
-      pseudo = "Eddy Mexico",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Trif = {
-      pseudo = "Trif",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    WormyNugget = {
-      pseudo = "WormyNugget",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Prinz = {
-      pseudo = "Prinz",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Ka = {
-      pseudo = "Ka",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["Pink Shinobi"] = {
-      pseudo = "Pink Shinobi",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Iceman = {
-      pseudo = "Iceman",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Lanceinthepants = {
-      pseudo = "Lanceinthepants",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Daydee = {
-      pseudo = "Daydee",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Sharkz = {
-      pseudo = "Sharkz",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["King Momo"] = {
-      pseudo = "King Momo",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["Prince Abu"] = {
-      pseudo = "Prince Abu",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Scar = {
-      pseudo = "Scar",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Santiago = {
-      pseudo = "Santiago",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Colbol = {
-      pseudo = "Colbol",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Cal = {
-      pseudo = "Cal",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Eikelmann = {
-      pseudo = "Eikelmann",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Azusa = {
-      pseudo = "Azusa",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Ice = {
-      pseudo = "Ice",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Flipsy = {
-      pseudo = "Flipsy",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Ryobeat = {
-      pseudo = "Ryobeat",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Bladewise = {
-      pseudo = "Bladewise",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["Ryan Ford"] = {
-      pseudo = "Ryan Ford",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Kalvar = {
-      pseudo = "Kalvar",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Rustin = {
-      pseudo = "Rustin",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["La Luna"] = {
-      pseudo = "La Luna",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Alancitu = {
-      pseudo = "Alancitu",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["Captain Faceroll"] = {
-      pseudo = "Captain Faceroll",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Reno = {
-      pseudo = "Reno",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["Däumling"] = {
-      pseudo = "Däumling",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    reaper = {
-      pseudo = "reaper",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    RK = {
-      pseudo = "RK",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Dr = {
-      pseudo = "Dr",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
     FendrickLamar = {
+      sponsor = {
+      },
+      mains = {
+      },
       pseudo = "FendrickLamar",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Makenshi = {
-      pseudo = "Makenshi",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    NMW = {
-      pseudo = "NMW",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    MattDotZeb = {
-      pseudo = "MattDotZeb",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["DJ Nintendo"] = {
-      pseudo = "DJ Nintendo",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["Professor Pro"] = {
-      pseudo = "Professor Pro",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Ken = {
-      pseudo = "Ken",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Drunksloth = {
-      pseudo = "Drunksloth",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Fizz = {
-      pseudo = "Fizz",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Drephen = {
-      pseudo = "Drephen",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Overtriforce = {
-      pseudo = "Overtriforce",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Junebug = {
-      pseudo = "Junebug",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    MikeHaze = {
-      pseudo = "MikeHaze",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ORLY = {
-      pseudo = "ORLY",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Chandy = {
-      pseudo = "Chandy",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Plank = {
-      pseudo = "Plank",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Monib = {
-      pseudo = "Monib",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["Cool Lime"] = {
-      pseudo = "Cool Lime",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Humpe = {
-      pseudo = "Humpe",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Pengie = {
-      pseudo = "Pengie",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Manny = {
-      pseudo = "Manny",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Nakamaman = {
-      pseudo = "Nakamaman",
-      sponsor = {
-      },
-      mains = {
-      },
     },
     KPAN = {
+      sponsor = {
+      },
+      mains = {
+      },
       pseudo = "KPAN",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Crush = {
-      pseudo = "Crush",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["NY Joey"] = {
-      pseudo = "NY Joey",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Hungrybox = {
-      pseudo = "Hungrybox",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Mr = {
-      pseudo = "Mr",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Fiction = {
-      pseudo = "Fiction",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Mojo = {
-      pseudo = "Mojo",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Frenzy = {
-      pseudo = "Frenzy",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["Fendrick Lamar"] = {
-      pseudo = "Fendrick Lamar",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Squid = {
-      pseudo = "Squid",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Vish = {
-      pseudo = "Vish",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["Mike Haze"] = {
-      pseudo = "Mike Haze",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Plup = {
-      pseudo = "Plup",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    SFAT = {
-      pseudo = "SFAT",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Stango = {
-      pseudo = "Stango",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Mahie = {
-      pseudo = "Mahie",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    MacD = {
-      pseudo = "MacD",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Armada = {
-      pseudo = "Armada",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Lucky = {
-      pseudo = "Lucky",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Qerb = {
-      pseudo = "Qerb",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    DjaGoF = {
-      pseudo = "DjaGoF",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    L = {
-      pseudo = "L",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    K = {
-      pseudo = "K",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Leffen = {
-      pseudo = "Leffen",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    HTwa = {
-      pseudo = "HTwa",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Kalamazhu = {
-      pseudo = "Kalamazhu",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Laudandus = {
-      pseudo = "Laudandus",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Lad = {
-      pseudo = "Lad",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Darrell = {
-      pseudo = "Darrell",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["Blue Jay"] = {
-      pseudo = "Blue Jay",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    C = {
-      pseudo = "C",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Darkatma = {
-      pseudo = "Darkatma",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Rik = {
-      pseudo = "Rik",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Cactuar = {
-      pseudo = "Cactuar",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["Bobby Frizz"] = {
-      pseudo = "Bobby Frizz",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    KJH = {
-      pseudo = "KJH",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    PewPewU = {
-      pseudo = "PewPewU",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Bones = {
-      pseudo = "Bones",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    EastCoastJeff = {
-      pseudo = "EastCoastJeff",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["Chris Best"] = {
-      pseudo = "Chris Best",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["SmashBob SquarePants"] = {
-      pseudo = "SmashBob SquarePants",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    SchlimmShady = {
-      pseudo = "SchlimmShady",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Alvin = {
-      pseudo = "Alvin",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    JohnnyFight = {
-      pseudo = "JohnnyFight",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Belia = {
-      pseudo = "Belia",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    lloD = {
-      pseudo = "lloD",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Abate = {
-      pseudo = "Abate",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ["Captain Smuckers"] = {
-      pseudo = "Captain Smuckers",
-      sponsor = {
-      },
-      mains = {
-      },
     },
     HugS = {
+      sponsor = {
+      },
+      mains = {
+      },
       pseudo = "HugS",
-      sponsor = {
-      },
-      mains = {
-      },
     },
-    Kage = {
-      pseudo = "Kage",
+    Rustin = {
       sponsor = {
       },
       mains = {
       },
+      pseudo = "Rustin",
     },
-    Lovage = {
-      pseudo = "Lovage",
+    Amsah = {
       sponsor = {
       },
       mains = {
       },
+      pseudo = "Amsah",
     },
-    iBDW = {
-      pseudo = "iBDW",
+    Coffeeblack = {
       sponsor = {
       },
       mains = {
       },
-    },
-    dudutsai = {
-      pseudo = "dudutsai",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    ESAM = {
-      pseudo = "ESAM",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Ginger = {
-      pseudo = "Ginger",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Zoler = {
-      pseudo = "Zoler",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Boyd = {
-      pseudo = "Boyd",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Isdsar = {
-      pseudo = "Isdsar",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Android = {
-      pseudo = "Android",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    HAT = {
-      pseudo = "HAT",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    CIZ = {
-      pseudo = "CIZ",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    Juggleguy = {
-      pseudo = "Juggleguy",
-      sponsor = {
-      },
-      mains = {
-      },
-    },
-    mayb = {
-      pseudo = "mayb",
-      sponsor = {
-      },
-      mains = {
-      },
+      pseudo = "Coffeeblack",
     },
     nebbii = {
-      pseudo = "nebbii",
       sponsor = {
       },
       mains = {
       },
+      pseudo = "nebbii",
+    },
+    lloD = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "lloD",
+    },
+    ["Lunar Dusk"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Lunar Dusk",
+    },
+    Leffen = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Leffen",
     },
     ARMY = {
+      sponsor = {
+      },
+      mains = {
+      },
       pseudo = "ARMY",
-      sponsor = {
-      },
-      mains = {
-      },
     },
-    Darktooth = {
-      pseudo = "Darktooth",
+    Zgetto = {
       sponsor = {
       },
       mains = {
       },
+      pseudo = "Zgetto",
     },
-    Envy = {
-      pseudo = "Envy",
+    ["Jah Ridin"] = {
       sponsor = {
       },
       mains = {
       },
-    },
-    aperture = {
-      pseudo = "aperture",
-      sponsor = {
-      },
-      mains = {
-      },
+      pseudo = "Jah Ridin",
     },
     Azzu = {
+      sponsor = {
+      },
+      mains = {
+      },
       pseudo = "Azzu",
-      sponsor = {
-      },
-      mains = {
-      },
     },
-    Mango = {
-      pseudo = "Mango",
+    Plup = {
       sponsor = {
       },
       mains = {
       },
+      pseudo = "Plup",
+    },
+    EastCoastJeff = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "EastCoastJeff",
+    },
+    dizzkidboogie = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "dizzkidboogie",
+    },
+    Adam = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Adam",
+    },
+    Vickram = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Vickram",
+    },
+    ["Mike Haze"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Mike Haze",
+    },
+    Michael = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Michael",
+    },
+    PewPewU = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "PewPewU",
+    },
+    Weon = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Weon",
+    },
+    Daydee = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Daydee",
+    },
+    Wavebringer = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Wavebringer",
+    },
+    Sharkz = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Sharkz",
+    },
+    Juggleguy = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Juggleguy",
+    },
+    Levingy = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Levingy",
+    },
+    ["Chris Best"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Chris Best",
+    },
+    Nakamaman = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Nakamaman",
+    },
+    ["Bizzarro Flame"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Bizzarro Flame",
+    },
+    DjaGoF = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "DjaGoF",
+    },
+    MrLz = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "MrLz",
+    },
+    Santi = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Santi",
+    },
+    Moky = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Moky",
+    },
+    ["Prince Abu"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Prince Abu",
+    },
+    DaShizWiz = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "DaShizWiz",
+    },
+    Hyuga = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Hyuga",
+    },
+    ZoSo = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "ZoSo",
+    },
+    Jerry = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Jerry",
+    },
+    Twitch = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Twitch",
+    },
+    mayb = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "mayb",
+    },
+    Swiftbass = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Swiftbass",
+    },
+    Boulevard = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Boulevard",
+    },
+    Bananas = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Bananas",
+    },
+    C = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "C",
+    },
+    Nightmare = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Nightmare",
+    },
+    Reason = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Reason",
+    },
+    Belia = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Belia",
+    },
+    Ken = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Ken",
+    },
+    Bladewise = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Bladewise",
+    },
+    Trif = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Trif",
+    },
+    ["SmashBob SquarePants"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "SmashBob SquarePants",
+    },
+    Trulliam = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Trulliam",
+    },
+    SilentSpectre = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "SilentSpectre",
+    },
+    Gravy = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Gravy",
+    },
+    ALP = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "ALP",
+    },
+    Colbol = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Colbol",
+    },
+    Alancitu = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Alancitu",
+    },
+    ["Eddy Mexico"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Eddy Mexico",
+    },
+    Darktooth = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Darktooth",
+    },
+    Spark = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Spark",
+    },
+    Isdsar = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Isdsar",
+    },
+    Zhu = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Zhu",
+    },
+    XIF = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "XIF",
+    },
+    Prinz = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Prinz",
+    },
+    NMW = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "NMW",
+    },
+    Reeve = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Reeve",
+    },
+    ["Cool Lime"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Cool Lime",
+    },
+    Cactuar = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Cactuar",
+    },
+    Azusa = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Azusa",
+    },
+    Laudandus = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Laudandus",
+    },
+    Armada = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Armada",
+    },
+    Animal = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Animal",
+    },
+    TheSWOOPER = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "TheSWOOPER",
+    },
+    Duck = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Duck",
+    },
+    Overtriforce = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Overtriforce",
+    },
+    Plank = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Plank",
+    },
+    HT = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "HT",
+    },
+    Slox = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Slox",
+    },
+    Shamunt = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Shamunt",
+    },
+    Vinodh = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Vinodh",
+    },
+    ["Swedish Delight"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Swedish Delight",
+    },
+    dudutsai = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "dudutsai",
+    },
+    Iceman = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Iceman",
+    },
+    ChuDat = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "ChuDat",
+    },
+    Flipsy = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Flipsy",
+    },
+    Wizzrobe = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Wizzrobe",
+    },
+    Manny = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Manny",
+    },
+    Squid = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Squid",
+    },
+    Trademark = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Trademark",
+    },
+    ["Silly Kyle"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Silly Kyle",
+    },
+    Kalamazhu = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Kalamazhu",
+    },
+    Wenbobular = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Wenbobular",
     },
     DoH = {
-      pseudo = "DoH",
       sponsor = {
       },
       mains = {
       },
+      pseudo = "DoH",
+    },
+    HomeMadeWaffles = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "HomeMadeWaffles",
+    },
+    ["A Rookie"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "A Rookie",
+    },
+    Boyd = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Boyd",
+    },
+    iBDW = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "iBDW",
+    },
+    Jamrun = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Jamrun",
+    },
+    RockCrock = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "RockCrock",
+    },
+    Frenzy = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Frenzy",
+    },
+    BeLia = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "BeLia",
+    },
+    ["King Funk"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "King Funk",
+    },
+    MilkMan = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "MilkMan",
+    },
+    Faxx = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Faxx",
+    },
+    ["Captain Smuckers"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Captain Smuckers",
+    },
+    Ginger = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Ginger",
+    },
+    aperture = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "aperture",
+    },
+    Kalvar = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Kalvar",
+    },
+    Cal = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Cal",
+    },
+    aMSa = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "aMSa",
+    },
+    SchlimmShady = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "SchlimmShady",
+    },
+    ["Blue Jay"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Blue Jay",
+    },
+    Baxon = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Baxon",
+    },
+    Hungrybox = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Hungrybox",
+    },
+    Dr = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Dr",
+    },
+    Sol = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Sol",
+    },
+    Zoler = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Zoler",
+    },
+    Smasher = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Smasher",
+    },
+    ["Ryan Ford"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Ryan Ford",
+    },
+    ESAM = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "ESAM",
+    },
+    Ashtrei = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Ashtrei",
+    },
+    Kels = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Kels",
+    },
+    Medz = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Medz",
+    },
+    Stango = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Stango",
+    },
+    HiFi = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "HiFi",
+    },
+    Alvin = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Alvin",
+    },
+    WormyNugget = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "WormyNugget",
+    },
+    Eagle = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Eagle",
+    },
+    Darkatma = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Darkatma",
+    },
+    Rik = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Rik",
+    },
+    Hax = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Hax",
+    },
+    Chandy = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Chandy",
+    },
+    CIZ = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "CIZ",
+    },
+    Vist = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Vist",
+    },
+    Makenshi = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Makenshi",
+    },
+    MacD = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "MacD",
+    },
+    Drunksloth = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Drunksloth",
+    },
+    Mr = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Mr",
+    },
+    Valdo = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Valdo",
+    },
+    Flippy = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Flippy",
+    },
+    Abate = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Abate",
+    },
+    MattDotZeb = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "MattDotZeb",
+    },
+    Rocky = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Rocky",
+    },
+    Kage = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Kage",
+    },
+    Mahie = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Mahie",
+    },
+    SleepyK = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "SleepyK",
+    },
+    Tai = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Tai",
+    },
+    Drephen = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Drephen",
+    },
+    ["La Luna"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "La Luna",
+    },
+    RK = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "RK",
+    },
+    UUAA = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "UUAA",
+    },
+    Axe = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Axe",
+    },
+    Kaeon = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Kaeon",
+    },
+    KirbyKaze = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "KirbyKaze",
+    },
+    ["NY Joey"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "NY Joey",
+    },
+    Fiction = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Fiction",
+    },
+    Fauxhebro = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Fauxhebro",
+    },
+    Envy = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Envy",
+    },
+    ["Silent Wolf"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Silent Wolf",
+    },
+    AbsentPage = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "AbsentPage",
+    },
+    Vish = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Vish",
+    },
+    Lucky = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Lucky",
+    },
+    Junebug = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Junebug",
+    },
+    SwiftBass = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "SwiftBass",
+    },
+    LLDL = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "LLDL",
+    },
+    Nintendude = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Nintendude",
+    },
+    Scar = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Scar",
+    },
+    ["King Momo"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "King Momo",
+    },
+    MT = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "MT",
+    },
+    Vino = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Vino",
+    },
+    ["Captain Faceroll"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Captain Faceroll",
+    },
+    Fuzzyness = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Fuzzyness",
+    },
+    K = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "K",
+    },
+    Android = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Android",
+    },
+    Webwipe = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Webwipe",
+    },
+    HTwa = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "HTwa",
+    },
+    Monib = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Monib",
+    },
+    Westballz = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Westballz",
+    },
+    Mojo = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Mojo",
+    },
+    Porkchops = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Porkchops",
+    },
+    Syrox = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Syrox",
+    },
+    HAT = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "HAT",
+    },
+    ["Pink Shinobi"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Pink Shinobi",
+    },
+    gaR = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "gaR",
+    },
+    Reno = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Reno",
+    },
+    Lovage = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Lovage",
+    },
+    Crush = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Crush",
+    },
+    Ice = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Ice",
+    },
+    ["Blea Gelo"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Blea Gelo",
+    },
+    Albert = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Albert",
+    },
+    Fizz = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Fizz",
+    },
+    Rishi = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Rishi",
+    },
+    Heartstrings = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Heartstrings",
+    },
+    MikeHaze = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "MikeHaze",
+    },
+    Lad = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Lad",
+    },
+    Alan = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Alan",
+    },
+    SFAT = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "SFAT",
+    },
+    Avalancer = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Avalancer",
+    },
+    Humpe = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Humpe",
+    },
+    Sverre = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Sverre",
+    },
+    Jeapie = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Jeapie",
+    },
+    Ryobeat = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Ryobeat",
+    },
+    Atomsk = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Atomsk",
+    },
+    ["Professor Pro"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Professor Pro",
+    },
+    Zorc = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Zorc",
+    },
+    CDK = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "CDK",
+    },
+    Zain = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Zain",
+    },
+    ORLY = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "ORLY",
+    },
+    Qerb = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Qerb",
+    },
+    ["Bobby Scar"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Bobby Scar",
+    },
+    Bones = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Bones",
+    },
+    Eikelmann = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Eikelmann",
+    },
+    L = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "L",
+    },
+    ["DJ Nintendo"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "DJ Nintendo",
+    },
+    Pengie = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Pengie",
+    },
+    vortex = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "vortex",
+    },
+    Taj = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Taj",
+    },
+    Zasa = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Zasa",
+    },
+    Shroomed = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Shroomed",
+    },
+    ["Däumling"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Däumling",
+    },
+    ["Uncle Mojo"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Uncle Mojo",
+    },
+    FatGoku = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "FatGoku",
+    },
+    Vro = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Vro",
+    },
+    Mango = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Mango",
+    },
+    Legend = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Legend",
+    },
+    Darrell = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Darrell",
+    },
+    Lanceinthepants = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Lanceinthepants",
+    },
+    JohnnyFight = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "JohnnyFight",
+    },
+    ["Bobby Frizz"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Bobby Frizz",
+    },
+    Frootloop = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Frootloop",
+    },
+    Santiago = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Santiago",
+    },
+    Shinobi = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Shinobi",
+    },
+    Josh = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Josh",
+    },
+    Cob = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Cob",
+    },
+    Crunch = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Crunch",
+    },
+    Ralph = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Ralph",
+    },
+    Chillin = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Chillin",
+    },
+    reaper = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "reaper",
+    },
+    Ka = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Ka",
+    },
+    Gahtzu = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Gahtzu",
+    },
+    ["Fendrick Lamar"] = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "Fendrick Lamar",
+    },
+    KJH = {
+      sponsor = {
+      },
+      mains = {
+      },
+      pseudo = "KJH",
     },
   },
 }

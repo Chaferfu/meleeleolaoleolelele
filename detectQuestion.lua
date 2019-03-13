@@ -1,6 +1,6 @@
 dark = require("dark")
 
-debug = false
+debug = true
 useDB = true
 
 quesionTags = {"#playerCharacterQuestion"
@@ -239,7 +239,7 @@ main:pattern([[
 
 	[#comparaisonQuestion
 
-		(/[Ww]ho/ "is" | /[Ww]ho/ "'" "s") (#w | #p){0,10}? ("best" | "better") "?"?
+		(/[Ww]ho/ "is" | /[Ww]ho/ "'" "s") (#w | #p){0,10}? ("best" | "better") "between" "?"?
 
 	]
 
@@ -251,6 +251,14 @@ main:pattern([[
 
 		(/[Ww]ho/ "is" | /[Ww]ho/ "'" "s") (#w | #p){0,10}? "best" "between" #player "and" #player "?"?
 
+	]
+
+]])
+
+main:pattern([[
+
+	[#bestPlayerQuestion
+		(/[Ww]ho/ "is" | /[Ww]ho/ "'" "s") (#w | #p){0,5}? "best" "?"?
 	]
 
 ]])
@@ -270,7 +278,7 @@ applyLexicons:lexicon("#questionWord", "./lexique/question_words.txt")
 applyLexicons:lexicon("#tournament", load_nocase("./lexique/lexique_tournois.txt"))
 
 local tags = {
-	["#playerRankQuestion"] = "red",
+	["#bestPlayerQuestion"] = "red",
 	["#playerNicknameQuestion"] = "blue",
 	["#characterQuestion"] = "green",
 	-- ["#tournamentInfoQuestion"] = "green",
@@ -295,6 +303,7 @@ function file_exists(file)
 end
 
 function havetag(seq, tag)
+	if debug and #seq[tag] ~= 0 then print("Question is : " .. tag) end
 	return #seq[tag] ~= 0
 end
 
@@ -412,13 +421,6 @@ function handleQuestion(question)
 
 
 
-
-
-
-	if debug then 
-		print("question : " .. question:tostring())
-		print("\n\n\n")
-	end
 	
 
 	
@@ -446,6 +448,8 @@ function handleQuestion(question)
 	elseif havetag(question, "#playerRankQuestion") then 
 		handlePlayerRankQuestion(question) 
 
+	elseif havetag(question, "#bestPlayerQuestion") then 
+		handleBestPlayerQuestion(question)
 	elseif havetag(question, "#playerNicknameQuestion") then 
 		handlePlayerNicknameQuestion(question) 
 
@@ -472,6 +476,28 @@ function handleBye()
 	botSays(byeSentences[ math.random( #byeSentences ) ], nil, true)
 	print("meleeleolaoleolelele left the chat")
 	terminate = true
+end
+
+function getBestPlayer()
+
+	for k,v in pairs(db.players) do
+		if debug then print("player is ".. k) end
+		if v.globalRank ~= nil and tonumber(v.globalRank[1]) == 1 then 
+			return k
+		end
+	end
+	return nil
+
+end
+
+function handleBestPlayerQuestion(question)
+	player = getBestPlayer()
+
+	if player ~= nil then
+		botSays("The best player in the world is currently " .. player .. ".", player)
+	else
+		botSays("I actually don't know who the best player is haha can you believe that.")
+	end
 end
 
 function handleCharacterQuestion(question)
@@ -781,16 +807,7 @@ function botSays(answer, subject, no_followup)
 			print("subject is nil") 
 		end
 
-		print("answer " .. answer)
-		print(serialize(questionAbout))
-
-
-
-		for q, v in ipairs(questionAbout) do
-			print("questionAbout " .. v)
-		end
-
-
+		-- print("answer " .. answer)
 
 	end
 
@@ -808,6 +825,7 @@ function botSays(answer, subject, no_followup)
 end
 
 function principale()
+
 
 	terminate = false
 
