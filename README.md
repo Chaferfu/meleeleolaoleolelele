@@ -10,6 +10,12 @@ To test the actual informations detection, go to the dark folder and launch pars
 
 Les textes dans corpus et Smashers ont étés récupérés par le script que nous avons écrit. Le dossier Smashers contient les textes a propos des meilleurs joueurs que nous utilisons pour la detection d'informations.
 
+# Pour lancer le systeme
+
+dark/dark detectQuestions.lua
+
+la base de donnée est stockée dans le fichier 
+
 
 # Trucs que le système fait bien
 
