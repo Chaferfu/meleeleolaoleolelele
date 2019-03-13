@@ -2,7 +2,7 @@
 
 dark/dark detectQuestions.lua
 
-la base de donnée est stockée dans le fichier file2.txt a la racine du projet
+la base de donnée utilisée est stockée dans le fichier DbbContextSecond.txt a la racine du projet
 
 Pour faire des tests et etre sur que la bd est solide essayer sur les 3 joueurs : Mango, Armada, Leffen
 
