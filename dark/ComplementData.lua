@@ -2,28 +2,80 @@ local dark = require("dark")
 
 -- *************** Partie DB *************** --
 
---db = do("file.txt")
-local db = {
-	["players"] = {
-		
-	}
+db = dofile("fileh.txt")
+
+local tags = {
+	-- ["#character"] = "blue",
+	["#pseudo"] = "yellow",
+	-- ["#joueur"] = "yellow",
+	["#sponsor"] = "green",
+	["#main"] = "blue",
+	-- ["#nickname"] = "green",
+	-- ["#year"] = "yellow",
+	-- ["#tournoi"] = "yellow",
+	-- ["#rank"] = "green",
+	-- ["#globalRank"] = "green",
 }
 
 -- Fonction d'enregistrement des donnees extraites dans la BD
 function registerindb(seq, pseudo)
-	if(db["players"][pseudo] == nil) then
+	if db["players"][pseudo] == nil then
 		-- Nom principal du player
 		db["players"][pseudo] = {}
+		db["players"][pseudo]["mains"] = {}
+		db["players"][pseudo]["sponsors"] = {}
+		db["players"][pseudo]["globalRank"] = {}
+		db["players"][pseudo]["money"] = {}
+		db["players"][pseudo]["nationality"] = {}
+		db["players"][pseudo]["birth"] = {}
+		db["players"][pseudo]["birth"]["day"] = {}
+		db["players"][pseudo]["birth"]["month"] = {}
+		db["players"][pseudo]["birth"]["year"] = {}
+		db["players"][pseudo]["birth"]["age"] = {}
 		db["players"][pseudo]["pseudo"] = pseudo
 	end
+	-- Mains
 	local mains = tagstring(seq, "#main")
-	if(mains ~= nill) then
-		db["players"][pseudo]["mains"] = mains
-	end
+	db["players"][pseudo]["mains"] = tableConcat(db["players"][pseudo]["mains"], mains)
+
 	-- Sponsors
 	local sponsor = tagstring(seq, "#sponsor")
-	db["players"][pseudo]["sponsor"] = sponsor
+	db["players"][pseudo]["sponsors"] = tableConcat(db["players"][pseudo]["sponsors"], sponsor)
 
+	-- Rank
+	local rank = tagstring(seq, "#rank")
+	db["players"][pseudo]["globalRank"] = tableConcat(db["players"][pseudo]["globalRank"], rank)
+
+	-- Money
+	local money = tagstring(seq, "#money")
+	db["players"][pseudo]["money"] = tableConcat(db["players"][pseudo]["money"], money)
+
+	-- Localisation
+	local nationality = tagstring(seq, "#nationality")
+	db["players"][pseudo]["nationality"] = tableConcat(db["players"][pseudo]["nationality"], nationality)
+
+	-- Birth
+	local birth = tagstring(seq, "#birth")
+	if birth ~= nil then
+		local x = tagstringlink(seq, "#birth", "#day")
+		if x ~= nil then
+			db["players"][pseudo]["birth"]["day"] = x
+		end
+		x = tagstringlink(seq, "#birth", "#month")
+		if x ~= nil then
+			db["players"][pseudo]["birth"]["month"] = x
+		end
+		x = tagstringlink(seq, "#birth", "#year")
+		if x ~= nil then
+			db["players"][pseudo]["birth"]["year"] = x
+		end
+		x = tagstringlink(seq, "#birth", "#age")
+		if x ~= nil then
+			db["players"][pseudo]["birth"]["age"] = x
+		end
+	end
+
+	
 end
 
 -- Permet d'extraire des sequences de dark les mots detectes
@@ -31,7 +83,6 @@ function tagstring (seq, tag, deb, fin)
 	-- Valeurs par défauts pour les paramètres
 	deb, fin = deb or 1, fin or #seq
 	local tab = {}
-	
 	for idx, pos in ipairs(seq[tag]) do
 		local d, f = pos[1], pos[2]
 		if d >= deb and f <= fin then
@@ -62,6 +113,13 @@ function havetag(seq, tag)
 	return #seq[tag] ~= 0
 end
 
+
+function tableConcat(t1,t2)
+    for i=1,#t2 do
+        t1[#t1+1] = t2[i]
+    end
+    return t1
+end
 -- ***************************************** --
 
 
@@ -79,57 +137,17 @@ end
 local P = dark.pipeline()
 P:basic()
 P:lexicon("#character", "lexicon/ssbm_characters.txt")
--- P:lexicon("#pseudo", "lexicon/pseudos.txt")
-
 P:pattern([[ Smasher ':' [#pseudo #w{1,3}] ]])
 P:pattern([[ Melee (main | mains) ([#main #character] ','?)* ]])
+P:pattern([[ MPGR ':' [#rank ( /^[0-9]+[tnrs][hdt]$/ )] ]])
 P:pattern([[ sponsor '(' s ')' [#sponsor #w{1,3}?] ','? ]])
-
--- -- Detection des années
--- P:pattern([[ [#year /^([1-2][0-9][0-9][0-9])$/] ]])
-
--- -- Detection du rank
--- P:pattern([[ [#rank ( /^[0-9]+[tnrs][hdt]$/ )] ]])
--- P:pattern([[ [#globalRank #rank #w{0,4}? #year MPGR] ]])
-
--- -- Detection du pseudo du joueur
--- P:pattern([[ [#pseudo_ .]  ("(".{0,30}? ")" | /^[^.]+$/{0,30}?)  is ([#nationality #W] | #w)*  ( smasher | Melee player )]])
--- P:pattern([[ [#joueur [#pseudo #pseudo_] /^[^.]+$/{0,80}? (#character | #globalRank) ] ]])
-
--- P:pattern([[ from [#nationality #W] ]])
--- P:pattern([[ #pseudo (#w | "," | "(" | ")"){0,20}? from[#nationality #W{0,3}] ]])
-
--- -- Detection des mains
--- P:pattern([[  [#main #character] (("," [#main #character])*? and [#main #character])? main]])
--- P:pattern([[ (mains | main) [#main #character] (("," [#main #character])*? and [#main #character])? ]])
--- P:pattern([[ (mains | main) [#main #character] ("/" [#main #character])+ ]])
--- P:pattern([[ best Melee? [#main #character] ]])
-
--- -- Detection des surnoms du joueur (a completer) (?)
--- P:pattern([[ (also known as (simply)?| aka | also referred to as (just)?) (( [#nickname ( #w | #W ){1,5}] ( and | "," | or){0,2} ){1,10}? ( is | "." | ")"))? ]])
-
--- -- Detection des tournois 
--- P:pattern([[ ( winner of | won | winning )  ( [#tournoi #W{0,5}?] ( "," | and | ".")){0,5} ]])
--- P:pattern([[ facing .{0,3}? in .{0,2}? at [#tournoi .{0,5}?] ( "," | "." ) ]])
-
--- -- Detection des phrases (attention aux acronymes)
--- P:pattern([[ [#acronym (/^%u$/ ".")+ /^%u$/ ] ]])
--- P:pattern([[ [#sentence /^[A-Z]/ (#acronym | .)*? "."] ]])
+P:pattern([[ Winnings Super Smash Bros '.' Melee '~' '$' [#money #d] ]])
+P:pattern([[ Location [#nationality #W ','? #W?] ]])
+P:pattern([[ Birth date [#birth [#month #W] [#day #d] ',' [#year #d] '(' age [#age #d] ')'] ]])
 
 -- ***************************************** --
 
-local tags = {
-	-- ["#character"] = "blue",
-	["#pseudo"] = "yellow",
-	-- ["#joueur"] = "yellow",
-	["#sponsor"] = "green",
-	["#main"] = "blue",
-	-- ["#nickname"] = "green",
-	-- ["#year"] = "yellow",
-	-- ["#tournoi"] = "yellow",
-	-- ["#rank"] = "green",
-	-- ["#globalRank"] = "green",
-}
+
 local pseudo = ""
 local rep = "../Smashers"
 for fichier in os.dir(rep) do
@@ -141,12 +159,10 @@ for fichier in os.dir(rep) do
 		pseudoTab = tagstring(seq, "#pseudo")
 		if(pseudoTab ~= nil and #pseudoTab ~= 0) then
 			pseudo = pseudoTab[1]
-		end
+		end	
 
-		--print(seq:tostring(tags))
-		--print("\n")
 		--Ajout des infos dans la bd
-		if(pseudo ~= "") then
+		if(pseudo ~= "" and pseudo ~= nil and #pseudo ~= 0) then
 			registerindb(seq, pseudo)
 		end
 	end
@@ -154,6 +170,6 @@ end
 
 -- Ecriture dans un fichier de toutes les informations
 file = io.open("file2.txt", "w")
-file:write("return ")
+file:write("return")
 file:write(serialize(db))
 io.close(file)

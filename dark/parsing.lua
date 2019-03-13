@@ -26,23 +26,44 @@ function registerindb(seq, filename)
 		
 		-- Mains
 		local mains = tagstring(seq, "#main")
-		db["players"][pseudo]["mains"] = mains
+		db["players"][pseudo]["mains"] = {}
+		if(mains ~= nil) then
+			db["players"][pseudo]["mains"] = mains
+		end
 		
 		-- Nationalite
 		local nationality = tagstring(seq, "#nationality")
-		db["players"][pseudo]["nationality"] = nationality
+		db["players"][pseudo]["nationality"] = {}
+		if(nationality ~= nil) then
+			db["players"][pseudo]["nationality"] = nationality
+		end
+		
 		
 		-- Nicknames
 		local nicknames = tagstring(seq, "#nickname")
-
-		db["players"][pseudo]["nicknames"] = nicknames
+		db["players"][pseudo]["nicknames"] = {}
+		if(nicknames ~= nil) then
+			db["players"][pseudo]["nicknames"] = nicknames
+		end
+		
 
 		-- Ranks
 		local rank = tagstringlink(seq, "#globalRank", "#rank")
-		db["players"][pseudo]["globalRank"] = rank
+		db["players"][pseudo]["globalRank"] = {}
+		if(rank ~= nil) then
+			db["players"][pseudo]["globalRank"] = rank
+		end
 
 		-- Fichier
 		db["players"][pseudo]["article"] = filename
+
+		db["players"][pseudo]["sponsors"] = {}
+		db["players"][pseudo]["money"] = {}
+		db["players"][pseudo]["birth"] = {}
+		db["players"][pseudo]["birth"]["day"] = {}
+		db["players"][pseudo]["birth"]["month"] = {}
+		db["players"][pseudo]["birth"]["year"] = {}
+		db["players"][pseudo]["birth"]["age"] = {}
 
 		count = count + 1
 	end
