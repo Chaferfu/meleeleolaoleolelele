@@ -2,6 +2,7 @@ local dark = require("dark")
 
 count = 0
 
+local dataAjoute = 0
 -- *************** Partie DB *************** --
 local db = {
 	["players"] = {
@@ -24,11 +25,14 @@ function registerindb(seq, filename)
 		db["players"][pseudo] = {}
 		db["players"][pseudo]["pseudo"] = pseudoTab
 		
+		dataAjoute = dataAjoute + 1
+
 		-- Mains
 		local mains = tagstring(seq, "#main")
 		db["players"][pseudo]["mains"] = {}
 		if(mains ~= nil) then
 			db["players"][pseudo]["mains"] = mains
+			dataAjoute = dataAjoute + #mains
 		end
 		
 		-- Nationalite
@@ -36,6 +40,7 @@ function registerindb(seq, filename)
 		db["players"][pseudo]["nationality"] = {}
 		if(nationality ~= nil) then
 			db["players"][pseudo]["nationality"] = nationality
+			dataAjoute = dataAjoute + #nationality
 		end
 		
 		
@@ -44,6 +49,7 @@ function registerindb(seq, filename)
 		db["players"][pseudo]["nicknames"] = {}
 		if(nicknames ~= nil) then
 			db["players"][pseudo]["nicknames"] = nicknames
+			dataAjoute = dataAjoute + #nicknames
 		end
 		
 
@@ -52,6 +58,7 @@ function registerindb(seq, filename)
 		db["players"][pseudo]["globalRank"] = {}
 		if(rank ~= nil) then
 			db["players"][pseudo]["globalRank"] = rank
+			dataAjoute = dataAjoute + #rank
 		end
 
 		-- Fichier
@@ -203,7 +210,7 @@ end
 table.sort(keys)
 
 -- Ecriture dans un fichier de toutes les informations
-file = io.open("fileh.txt", "w")
+file = io.open("DbbContextFirst.txt", "w")
 file:write("return {\n\tplayers = {")
 for v, key in ipairs(keys) do 
 	file:write("\t\n\t\t[\"" .. key .. "\"] = ")
@@ -215,5 +222,6 @@ file:write("\n\t},\n}")
 io.close(file)
 
 print("Nombre de players : " .. count)
+print("Nombre de données dans la base de donnée en non structuré : " .. dataAjoute)
 
 

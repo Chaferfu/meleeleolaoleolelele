@@ -2,7 +2,11 @@ local dark = require("dark")
 
 -- *************** Partie DB *************** --
 
-db = dofile("fileh.txt")
+local dataAlrdyHere = 0
+local dataAdded = 0
+local dataModified = 0
+
+db = dofile("DbbContextFirst.txt")
 
 local tags = {
 	-- ["#character"] = "blue",
@@ -36,27 +40,107 @@ function registerindb(seq, pseudo)
 	end
 	-- Mains
 	local mains = tagstring(seq, "#main")
-	db["players"][pseudo]["mains"] = tableConcat(db["players"][pseudo]["mains"], mains)
+
+	for key, value in pairs(mains) do
+		local toAdd = true
+		for key2, value2 in pairs(db["players"][pseudo]["mains"]) do
+			if value == value2 then
+				toAdd = false
+				dataAlrdyHere = dataAlrdyHere + 1
+			end
+		end
+		if toAdd then
+			table.insert(db["players"][pseudo]["mains"], value)
+			dataAdded = dataAdded + 1
+		end
+	end
 
 	-- Sponsors
 	local sponsor = tagstring(seq, "#sponsor")
-	db["players"][pseudo]["sponsors"] = tableConcat(db["players"][pseudo]["sponsors"], sponsor)
+	for key, value in pairs(sponsor) do
+		local toAdd = true
+		for key2, value2 in pairs(db["players"][pseudo]["sponsors"]) do
+			if value == value2 then
+				toAdd = false
+				dataAlrdyHere = dataAlrdyHere + 1
+			end
+		end
+		if toAdd then
+			table.insert(db["players"][pseudo]["sponsors"], value)
+			dataAdded = dataAdded + 1
+		end
+	end
 
 	-- Rank
 	local rank = tagstring(seq, "#rank")
-	db["players"][pseudo]["globalRank"] = tableConcat(db["players"][pseudo]["globalRank"], rank)
+	for key, value in pairs(rank) do
+		local toAdd = true
+		for key2, value2 in pairs(db["players"][pseudo]["globalRank"]) do
+			if value == value2 then
+				dataAlrdyHere = dataAlrdyHere + 1
+				db["players"][pseudo]["globalRank"] = rank
+				toAdd = false
+			else
+				dataAdded = dataAdded + 1
+				dataModified = dataModified + 1
+				db["players"][pseudo]["globalRank"] = rank
+				toAdd = false
+			end
+		end
+		if toAdd then
+			db["players"][pseudo]["globalRank"] = rank
+			dataAdded = dataAdded + 1
+		end
+	end
 
 	-- Money
 	local money = tagstring(seq, "#money")
-	db["players"][pseudo]["money"] = tableConcat(db["players"][pseudo]["money"], money)
+	for key, value in pairs(money) do
+		local toAdd = true
+		for key2, value2 in pairs(db["players"][pseudo]["money"]) do
+			if value == value2 then
+				dataAlrdyHere = dataAlrdyHere + 1
+				db["players"][pseudo]["money"] = money
+				toAdd = false
+			else
+				dataAdded = dataAdded + 1
+				dataModified = dataModified + 1
+				db["players"][pseudo]["money"] = money
+				toAdd = false
+			end
+		end
+		if toAdd then
+			db["players"][pseudo]["money"] = money
+			dataAdded = dataAdded + 1
+		end
+	end
 
 	-- Localisation
 	local nationality = tagstring(seq, "#nationality")
-	db["players"][pseudo]["nationality"] = tableConcat(db["players"][pseudo]["nationality"], nationality)
+	for key, value in pairs(nationality) do
+		local toAdd = true
+		for key2, value2 in pairs(db["players"][pseudo]["nationality"]) do
+			if value == value2 then
+				dataAlrdyHere = dataAlrdyHere + 1
+				db["players"][pseudo]["nationality"] = nationality
+				toAdd = false
+			else
+				dataAdded = dataAdded + 1
+				dataModified = dataModified + 1
+				db["players"][pseudo]["nationality"] = nationality
+				toAdd = false
+			end
+		end
+		if toAdd then
+			db["players"][pseudo]["nationality"] = nationality
+			dataAdded = dataAdded + 1
+		end
+	end
 
 	-- Birth
 	local birth = tagstring(seq, "#birth")
 	if birth ~= nil then
+		dataAdded = dataAdded + 1
 		local x = tagstringlink(seq, "#birth", "#day")
 		if x ~= nil then
 			db["players"][pseudo]["birth"]["day"] = x
@@ -169,7 +253,13 @@ for fichier in os.dir(rep) do
 end
 
 -- Ecriture dans un fichier de toutes les informations
-file = io.open("file2.txt", "w")
+file = io.open("DbbContextSecond.txt", "w")
 file:write("return")
 file:write(serialize(db))
 io.close(file)
+
+print("Voici le nombre de données étant similaire en structuré et non structuré : " .. dataAlrdyHere)
+
+print("Voici le nombre de données ajoutée en non structuré : " .. dataAdded)
+
+print("Voici le nombre de données modifié parceque faux ou pas assez précis : " .. dataModified)
