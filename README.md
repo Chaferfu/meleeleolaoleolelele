@@ -14,7 +14,9 @@ Les textes dans corpus et Smashers ont étés récupérés par le script que nou
 
 dark/dark detectQuestions.lua
 
-la base de donnée est stockée dans le fichier 
+la base de donnée est stockée dans le fichier file2.txt a la racine du projet
+
+Pour faire des tests et etre sur que la bd est solide essayer sur les 3 joueurs : Mango, Armada, Leffen
 
 
 # Trucs que le système fait bien
