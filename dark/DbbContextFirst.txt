@@ -1,0 +1,4464 @@
+return {
+	players = {	
+		["A Rookie"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Southern California",
+		  },
+		  pseudo = {
+		    [1] = "A Rookie",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Mario",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:A_Rookie.txt",
+		  globalRank = {
+		  },
+		},	
+		["ALP"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "ALP",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:ALP.txt",
+		  globalRank = {
+		  },
+		},	
+		["ARMY"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Long Beach",
+		  },
+		  pseudo = {
+		    [1] = "ARMY",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Ice Climbers",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:ARMY.txt",
+		  globalRank = {
+		    [1] = "20th",
+		  },
+		},	
+		["Abate"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Pittsburgh",
+		    [2] = "New Jersey",
+		  },
+		  pseudo = {
+		    [1] = "Abate",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Luigi",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Abate.txt",
+		  globalRank = {
+		  },
+		},	
+		["Albert"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Albert",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Albert.txt",
+		  globalRank = {
+		  },
+		},	
+		["Amsah"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Amsterdam , The Netherlands",
+		  },
+		  pseudo = {
+		    [1] = "Amsah",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Amsah.txt",
+		  globalRank = {
+		    [1] = "64th",
+		  },
+		},	
+		["Android"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Gothensburg , Sweden",
+		  },
+		  pseudo = {
+		    [1] = "Android",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Android.txt",
+		  globalRank = {
+		    [1] = "66th",
+		  },
+		},	
+		["Armada"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Sweden",
+		  },
+		  pseudo = {
+		    [1] = "Armada",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Peach",
+		    [2] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Armada.txt",
+		  globalRank = {
+		    [1] = "3rd",
+		  },
+		},	
+		["Ashtrei"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Ashtrei",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Ashtrei.txt",
+		  globalRank = {
+		  },
+		},	
+		["Azusa"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Northern California",
+		  },
+		  pseudo = {
+		    [1] = "Azusa",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Peach",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Azusa.txt",
+		  globalRank = {
+		  },
+		},	
+		["Bananas"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Dallas , Texas",
+		  },
+		  pseudo = {
+		    [1] = "Bananas",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Ice Climbers",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Bananas.txt",
+		  globalRank = {
+		    [1] = "19th",
+		  },
+		},	
+		["Bizzarro Flame"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "La Cañada Flintridge",
+		  },
+		  pseudo = {
+		    [1] = "Bizzarro Flame",
+		  },
+		  nicknames = {
+		    [1] = "Bizz",
+		  },
+		  mains = {
+		    [1] = "Ganondorf",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Bizzarro_Flame.txt",
+		  globalRank = {
+		  },
+		},	
+		["Bladewise"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Bladewise",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Peach",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Bladewise.txt",
+		  globalRank = {
+		  },
+		},	
+		["Blea Gelo"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Blea Gelo",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Luigi",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Blea_Gelo.txt",
+		  globalRank = {
+		  },
+		},	
+		["Blue Jay"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Salt Lake City",
+		  },
+		  pseudo = {
+		    [1] = "Blue Jay",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Blue_Jay.txt",
+		  globalRank = {
+		  },
+		},	
+		["Bobby Frizz"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Olathe , Kansas",
+		  },
+		  pseudo = {
+		    [1] = "Bobby Frizz",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Bobby_Frizz.txt",
+		  globalRank = {
+		  },
+		},	
+		["Boyd"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Boyd",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Ice Climbers",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Boyd.txt",
+		  globalRank = {
+		    [1] = "67th",
+		  },
+		},	
+		["Cactuar or"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Cactuar or",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		    [2] = "Marth",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Cactuar.txt",
+		  globalRank = {
+		    [1] = "71st",
+		  },
+		},	
+		["Cal"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Cincinnati , Ohio",
+		  },
+		  pseudo = {
+		    [1] = "Cal",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		    [2] = "Sheik",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Cal.txt",
+		  globalRank = {
+		    [1] = "87th",
+		  },
+		},	
+		["Captain Faceroll"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Chicago",
+		  },
+		  pseudo = {
+		    [1] = "Captain Faceroll",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Captain_Faceroll.txt",
+		  globalRank = {
+		    [1] = "33rd",
+		  },
+		},	
+		["Chandy"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Austin",
+		  },
+		  pseudo = {
+		    [1] = "Chandy",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Donkey Kong",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Chandy.txt",
+		  globalRank = {
+		  },
+		},	
+		["Chillin"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Chillin",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Chillin.txt",
+		  globalRank = {
+		  },
+		},	
+		["Chris Best"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Chris Best",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Chris_Best.txt",
+		  globalRank = {
+		  },
+		},	
+		["ChuDat"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Falls Church , Virginia",
+		  },
+		  pseudo = {
+		    [1] = "ChuDat",
+		  },
+		  nicknames = {
+		    [1] = "Chu",
+		  },
+		  mains = {
+		    [1] = "Ice Climbers",
+		    [2] = "Jigglypuff",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:ChuDat.txt",
+		  globalRank = {
+		    [1] = "46th",
+		  },
+		},	
+		["Cob"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Cob",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Peach",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Cob.txt",
+		  globalRank = {
+		    [1] = "94th",
+		  },
+		},	
+		["Coffeeblack"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Coffeeblack",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Captain Falcon",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Coffeeblack.txt",
+		  globalRank = {
+		  },
+		},	
+		["Colbol"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Casselberry , Florida",
+		  },
+		  pseudo = {
+		    [1] = "Colbol",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Colbol.txt",
+		  globalRank = {
+		    [1] = "30th",
+		  },
+		},	
+		["Crunch"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Crunch",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Jigglypuff",
+		    [2] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Crunch.txt",
+		  globalRank = {
+		  },
+		},	
+		["Crush"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Massachusetts",
+		  },
+		  pseudo = {
+		    [1] = "Crush",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Crush.txt",
+		  globalRank = {
+		    [1] = "17th",
+		  },
+		},	
+		["Darktooth"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Long Island , New York",
+		  },
+		  pseudo = {
+		    [1] = "Darktooth",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Darktooth.txt",
+		  globalRank = {
+		    [1] = "59th",
+		  },
+		},	
+		["Daydee"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Daydee",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Samus",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Daydee.txt",
+		  globalRank = {
+		  },
+		},	
+		["DjaGoF"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "DjaGoF",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Captain Falcon",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:DjaGoF.txt",
+		  globalRank = {
+		  },
+		},	
+		["Dr . Z"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Northern California",
+		  },
+		  pseudo = {
+		    [1] = "Dr . Z",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Jigglypuff",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Dr._Z.txt",
+		  globalRank = {
+		  },
+		},	
+		["Drunksloth"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Drunksloth",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Ice Climbers",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Drunksloth.txt",
+		  globalRank = {
+		    [1] = "61st",
+		  },
+		},	
+		["Duck"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Ann Arbor , Michigan",
+		  },
+		  pseudo = {
+		    [1] = "Duck",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Samus",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Duck.txt",
+		  globalRank = {
+		    [1] = "14th",
+		  },
+		},	
+		["EastCoastJeff"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "EastCoastJeff",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:EastCoastJeff.txt",
+		  globalRank = {
+		  },
+		},	
+		["Fauxhebro"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "British Columbia , Canada",
+		  },
+		  pseudo = {
+		    [1] = "Fauxhebro",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Ice Climbers",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Fauxhebro.txt",
+		  globalRank = {
+		  },
+		},	
+		["Fizz"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Fizz",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Fizz_(Colorado).txt",
+		  globalRank = {
+		  },
+		},	
+		["Flippy"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Ijmuiden",
+		  },
+		  pseudo = {
+		    [1] = "Flippy",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Flippy.txt",
+		  globalRank = {
+		  },
+		},	
+		["Flipsy"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Naples , Florida",
+		  },
+		  pseudo = {
+		    [1] = "Flipsy",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Ice Climbers",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Flipsy.txt",
+		  globalRank = {
+		    [1] = "90th",
+		  },
+		},	
+		["Frenzy"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Bristol , England",
+		  },
+		  pseudo = {
+		    [1] = "Frenzy",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Frenzy.txt",
+		  globalRank = {
+		  },
+		},	
+		["Frootloop"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Madison , Wisconsin",
+		  },
+		  pseudo = {
+		    [1] = "Frootloop",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Frootloop.txt",
+		  globalRank = {
+		  },
+		},	
+		["Gahtzu"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Bonn",
+		  },
+		  pseudo = {
+		    [1] = "Gahtzu",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Captain Falcon",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Gahtzu.txt",
+		  globalRank = {
+		    [1] = "27th",
+		  },
+		},	
+		["Ginger"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Ginger",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Ginger.txt",
+		  globalRank = {
+		    [1] = "40th",
+		  },
+		},	
+		["Gravy"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "New York",
+		  },
+		  pseudo = {
+		    [1] = "Gravy",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Captain Falcon",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Gravy.txt",
+		  globalRank = {
+		  },
+		},	
+		["HAT"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Super Smash Con",
+		  },
+		  pseudo = {
+		    [1] = "HAT",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:HAT.txt",
+		  globalRank = {
+		  },
+		},	
+		["HTwa"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Atlanta",
+		  },
+		  pseudo = {
+		    [1] = "HTwa",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:HT.txt",
+		  globalRank = {
+		  },
+		},	
+		["He"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Florida",
+		  },
+		  pseudo = {
+		    [1] = "He",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Yoshi",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Faxx.txt",
+		  globalRank = {
+		  },
+		},	
+		["HiFi"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "HiFi",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Jigglypuff",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:HiFi.txt",
+		  globalRank = {
+		  },
+		},	
+		["HomeMadeWaffles"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "California",
+		  },
+		  pseudo = {
+		    [1] = "HomeMadeWaffles",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:HomeMadeWaffles.txt",
+		  globalRank = {
+		  },
+		},	
+		["HugS"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "HugS",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Samus",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:HugS.txt",
+		  globalRank = {
+		  },
+		},	
+		["Humpe"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Humpe",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Humpe.txt",
+		  globalRank = {
+		  },
+		},	
+		["Iceman"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Washington",
+		  },
+		  pseudo = {
+		    [1] = "Iceman",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Iceman.txt",
+		  globalRank = {
+		    [1] = "95th",
+		  },
+		},	
+		["In SSB"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "In SSB",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Yoshi",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Wizzrobe.txt",
+		  globalRank = {
+		  },
+		},	
+		["In SSBM"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "In SSBM",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Captain Falcon",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Wizzrobe.txt",
+		  globalRank = {
+		    [1] = "7th",
+		  },
+		},	
+		["Jeapie"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Jeapie",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Jeapie.txt",
+		  globalRank = {
+		  },
+		},	
+		["Jerry"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Baltimore",
+		  },
+		  pseudo = {
+		    [1] = "Jerry",
+		  },
+		  nicknames = {
+		    [1] = "Obi and xMikeL",
+		  },
+		  mains = {
+		    [1] = "Jigglypuff",
+		    [2] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Jerry.txt",
+		  globalRank = {
+		    [1] = "55th",
+		  },
+		},	
+		["JohnnyFight"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Sweden",
+		  },
+		  pseudo = {
+		    [1] = "JohnnyFight",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Ice Climbers",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:JohnnyFight.txt",
+		  globalRank = {
+		  },
+		},	
+		["Junebug"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Centreville , Virginia",
+		  },
+		  pseudo = {
+		    [1] = "Junebug",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Ganondorf",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Junebug.txt",
+		  globalRank = {
+		    [1] = "45th",
+		  },
+		},	
+		["K - 12"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Madrid , Spain",
+		  },
+		  pseudo = {
+		    [1] = "K - 12",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Donkey Kong",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:K-12.txt",
+		  globalRank = {
+		  },
+		},	
+		["KJH"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Detroit",
+		  },
+		  pseudo = {
+		    [1] = "KJH",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:KJH.txt",
+		  globalRank = {
+		    [1] = "25th",
+		  },
+		},	
+		["KPAN"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "KPAN",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:KPAN.txt",
+		  globalRank = {
+		  },
+		},	
+		["Ka - Master"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Ka - Master",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Luigi",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Ka-Master.txt",
+		  globalRank = {
+		  },
+		},	
+		["Kaeon"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Kaeon",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Kaeon.txt",
+		  globalRank = {
+		  },
+		},	
+		["Kalamazhu"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Michigan",
+		  },
+		  pseudo = {
+		    [1] = "Kalamazhu",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Peach",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Kalamazhu.txt",
+		  globalRank = {
+		  },
+		},	
+		["Kalvar"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "New Hampshire",
+		  },
+		  pseudo = {
+		    [1] = "Kalvar",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Kalvar.txt",
+		  globalRank = {
+		    [1] = "79th",
+		  },
+		},	
+		["Ken Hoang"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Ken Hoang",
+		  },
+		  nicknames = {
+		    [1] = "Ken",
+		    [2] = "The King of Smash",
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Ken.txt",
+		  globalRank = {
+		  },
+		},	
+		["King Momo"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "King Momo",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:King_Momo.txt",
+		  globalRank = {
+		    [1] = "84th",
+		  },
+		},	
+		["KirbyKaze"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Markham",
+		    [2] = "Canada",
+		  },
+		  pseudo = {
+		    [1] = "KirbyKaze",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:KirbyKaze.txt",
+		  globalRank = {
+		  },
+		},	
+		["L"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "California",
+		  },
+		  pseudo = {
+		    [1] = "L",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:L_(NorCal).txt",
+		  globalRank = {
+		  },
+		},	
+		["LLDL"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "New Jersey",
+		  },
+		  pseudo = {
+		    [1] = "LLDL",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		    [2] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:LLDL.txt",
+		  globalRank = {
+		  },
+		},	
+		["La Luna"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "La Luna",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:La_Luna.txt",
+		  globalRank = {
+		    [1] = "32nd",
+		  },
+		},	
+		["Lanceinthepants"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Lanceinthepants",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Lanceinthepants.txt",
+		  globalRank = {
+		  },
+		},	
+		["Laudandus"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Pittsburgh , Pennsylvania",
+		  },
+		  pseudo = {
+		    [1] = "Laudandus",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Laudandus.txt",
+		  globalRank = {
+		  },
+		},	
+		["Leffen"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Leffen",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Leffen.txt",
+		  globalRank = {
+		  },
+		},	
+		["Legend"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Montreal",
+		  },
+		  pseudo = {
+		    [1] = "Legend",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Jigglypuff",
+		    [2] = "Ganondorf",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Legend.txt",
+		  globalRank = {
+		    [1] = "85th",
+		  },
+		},	
+		["Lovage"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Lovage",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Lovage.txt",
+		  globalRank = {
+		  },
+		},	
+		["Lunar Dusk"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Lunar Dusk",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Ice Climbers",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Lunar_Dusk.txt",
+		  globalRank = {
+		  },
+		},	
+		["MT"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Texas",
+		  },
+		  pseudo = {
+		    [1] = "MT",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:MT.txt",
+		  globalRank = {
+		  },
+		},	
+		["MacD"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Southern California",
+		  },
+		  pseudo = {
+		    [1] = "MacD",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Peach",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:MacD.txt",
+		  globalRank = {
+		  },
+		},	
+		["Makenshi"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Makenshi",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Makenshi.txt",
+		  globalRank = {
+		  },
+		},	
+		["Mango"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Norwalk , California",
+		  },
+		  pseudo = {
+		    [1] = "Mango",
+		  },
+		  nicknames = {
+		    [1] = "Scorpion Master",
+		    [2] = "The Kid",
+		    [3] = "The GOAT",
+		    [4] = "The Buster",
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Mango.txt",
+		  globalRank = {
+		    [1] = "6th",
+		  },
+		},	
+		["MattDotZeb"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Massachusetts",
+		  },
+		  pseudo = {
+		    [1] = "MattDotZeb",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:MattDotZeb.txt",
+		  globalRank = {
+		  },
+		},	
+		["Medz"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Medz",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Medz.txt",
+		  globalRank = {
+		    [1] = "49th",
+		  },
+		},	
+		["Michael"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Michael",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Jigglypuff",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Michael.txt",
+		  globalRank = {
+		    [1] = "41st",
+		  },
+		},	
+		["MilkMan"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Sacramento",
+		  },
+		  pseudo = {
+		    [1] = "MilkMan",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:MilkMan.txt",
+		  globalRank = {
+		    [1] = "92nd",
+		  },
+		},	
+		["Moky"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Ontario , Canada",
+		  },
+		  pseudo = {
+		    [1] = "Moky",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Moky.txt",
+		  globalRank = {
+		    [1] = "52nd",
+		  },
+		},	
+		["Monib"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Monib",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Luigi",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Monib.txt",
+		  globalRank = {
+		  },
+		},	
+		["Mr . F"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "New Jersey",
+		  },
+		  pseudo = {
+		    [1] = "Mr . F",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Jigglypuff",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Mr._F.txt",
+		  globalRank = {
+		  },
+		},	
+		["NY Joey"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "NY Joey",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:NY_Joey.txt",
+		  globalRank = {
+		  },
+		},	
+		["Nightmare"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Ontario , Canada",
+		  },
+		  pseudo = {
+		    [1] = "Nightmare",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Nightmare.txt",
+		  globalRank = {
+		  },
+		},	
+		["Pengie"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Pengie",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Pengie.txt",
+		  globalRank = {
+		  },
+		},	
+		["Plank"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Plank",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Plank.txt",
+		  globalRank = {
+		  },
+		},	
+		["Prince Abu"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Prince Abu",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Jigglypuff",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Prince_Abu.txt",
+		  globalRank = {
+		    [1] = "77th",
+		  },
+		},	
+		["Prinz"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Prinz",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Jigglypuff",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Prinz.txt",
+		  globalRank = {
+		  },
+		},	
+		["Professor Pro"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "London",
+		  },
+		  pseudo = {
+		    [1] = "Professor Pro",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Professor_Pro.txt",
+		  globalRank = {
+		    [1] = "56th",
+		  },
+		},	
+		["Ralph"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Northern California",
+		  },
+		  pseudo = {
+		    [1] = "Ralph",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		    [2] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Ralph.txt",
+		  globalRank = {
+		    [1] = "89th",
+		  },
+		},	
+		["Reeve"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Kentucky",
+		  },
+		  pseudo = {
+		    [1] = "Reeve",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Reeve.txt",
+		  globalRank = {
+		  },
+		},	
+		["Reno"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Brooklyn",
+		  },
+		  pseudo = {
+		    [1] = "Reno",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		    [2] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Reno.txt",
+		  globalRank = {
+		  },
+		},	
+		["Rik"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Rik",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		    [2] = "Falco",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Rik.txt",
+		  globalRank = {
+		    [1] = "82nd",
+		  },
+		},	
+		["Rishi"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Rishi",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Rishi.txt",
+		  globalRank = {
+		  },
+		},	
+		["RockCrock"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "RockCrock",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Ganondorf",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:RockCrock.txt",
+		  globalRank = {
+		  },
+		},	
+		["Rocky"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Rocky",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Rocky_(California).txt",
+		  globalRank = {
+		    [1] = "51st",
+		  },
+		},	
+		["Rustin"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Rustin",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Peach",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Rustin.txt",
+		  globalRank = {
+		  },
+		},	
+		["Ryan Ford"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Ryan Ford",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Ryan_Ford.txt",
+		  globalRank = {
+		    [1] = "31st",
+		  },
+		},	
+		["Shamunt"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Shamunt",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Shamunt.txt",
+		  globalRank = {
+		  },
+		},	
+		["Shinobi"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Shinobi",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Shinobi.txt",
+		  globalRank = {
+		  },
+		},	
+		["Shroomed"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Shroomed",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Shroomed.txt",
+		  globalRank = {
+		  },
+		},	
+		["SilentSpectre"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Northern California",
+		  },
+		  pseudo = {
+		    [1] = "SilentSpectre",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Captain Falcon",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:SilentSpectre.txt",
+		  globalRank = {
+		  },
+		},	
+		["Slox"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Slox",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Slox.txt",
+		  globalRank = {
+		    [1] = "50th",
+		  },
+		},	
+		["SmashBob SquarePants"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "SmashBob SquarePants",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Jigglypuff",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:SmashBob_SquarePants.txt",
+		  globalRank = {
+		  },
+		},	
+		["Spark"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Spark",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Spark_(Melee).txt",
+		  globalRank = {
+		    [1] = "53rd",
+		  },
+		},	
+		["Squid"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Squid",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Squid.txt",
+		  globalRank = {
+		    [1] = "54th",
+		  },
+		},	
+		["Sverre"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Sverre",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Captain Falcon",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Sverre.txt",
+		  globalRank = {
+		  },
+		},	
+		["Swedish Delight"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "New Jersey",
+		  },
+		  pseudo = {
+		    [1] = "Swedish Delight",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Swedish_Delight.txt",
+		  globalRank = {
+		  },
+		},	
+		["SwiftBass"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "SwiftBass",
+		  },
+		  nicknames = {
+		    [1] = "Swift",
+		    [2] = "GibsonZero",
+		    [3] = "Phantom Renegade",
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Swiftbass.txt",
+		  globalRank = {
+		  },
+		},	
+		["Syrox"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Colorado",
+		  },
+		  pseudo = {
+		    [1] = "Syrox",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Syrox.txt",
+		  globalRank = {
+		    [1] = "36th",
+		  },
+		},	
+		["Taj"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Taj",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Taj.txt",
+		  globalRank = {
+		  },
+		},	
+		["TheSWOOPER"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "TheSWOOPER",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Samus",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:TheSWOOPER.txt",
+		  globalRank = {
+		  },
+		},	
+		["This article"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "This article",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Spark_(Melee).txt",
+		  globalRank = {
+		  },
+		},	
+		["Trulliam"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Trulliam",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Trulliam.txt",
+		  globalRank = {
+		    [1] = "93rd",
+		  },
+		},	
+		["Twitch"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "North Carolina",
+		  },
+		  pseudo = {
+		    [1] = "Twitch",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Twitch.txt",
+		  globalRank = {
+		  },
+		},	
+		["Uncle Mojo"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Texas",
+		  },
+		  pseudo = {
+		    [1] = "Uncle Mojo",
+		  },
+		  nicknames = {
+		    [1] = "Mojo",
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Mojo.txt",
+		  globalRank = {
+		    [1] = "80th",
+		  },
+		},	
+		["Valdo"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Monterrey , Mexico",
+		  },
+		  pseudo = {
+		    [1] = "Valdo",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Valdo.txt",
+		  globalRank = {
+		  },
+		},	
+		["Vino"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Vino",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Vino.txt",
+		  globalRank = {
+		  },
+		},	
+		["Vinodh"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Vinodh",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Jigglypuff",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Vinodh.txt",
+		  globalRank = {
+		  },
+		},	
+		["Vish"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Washington",
+		  },
+		  pseudo = {
+		    [1] = "Vish",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Captain Falcon",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Vish.txt",
+		  globalRank = {
+		  },
+		},	
+		["Vro"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Chicago , Illinois",
+		  },
+		  pseudo = {
+		    [1] = "Vro",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Vro.txt",
+		  globalRank = {
+		  },
+		},	
+		["Wavebringer"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Wavebringer",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Peach",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Wavebringer.txt",
+		  globalRank = {
+		  },
+		},	
+		["Webwipe"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Webwipe",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Webwipe.txt",
+		  globalRank = {
+		  },
+		},	
+		["Wenbobular"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Maryland",
+		  },
+		  pseudo = {
+		    [1] = "Wenbobular",
+		  },
+		  nicknames = {
+		    [1] = "Wenbo",
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Wenbobular.txt",
+		  globalRank = {
+		  },
+		},	
+		["Westballz"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Burbank",
+		  },
+		  pseudo = {
+		    [1] = "Westballz",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Westballz.txt",
+		  globalRank = {
+		    [1] = "22nd",
+		  },
+		},	
+		["XIF"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "XIF",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Peach",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:XIF.txt",
+		  globalRank = {
+		  },
+		},	
+		["York . He"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "York . He",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Captain Falcon",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Captain_Smuckers.txt",
+		  globalRank = {
+		  },
+		},	
+		["Zain"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Reston , Virginia",
+		  },
+		  pseudo = {
+		    [1] = "Zain",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Zain.txt",
+		  globalRank = {
+		    [1] = "9th",
+		  },
+		},	
+		["Zasa"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Zasa",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Jigglypuff",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Zasa.txt",
+		  globalRank = {
+		  },
+		},	
+		["ZoSo"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "ZoSo",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:ZoSo.txt",
+		  globalRank = {
+		  },
+		},	
+		["Zoler"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "Zoler",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Zoler.txt",
+		  globalRank = {
+		  },
+		},	
+		["Zorc"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Oslo",
+		  },
+		  pseudo = {
+		    [1] = "Zorc",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Falco",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Zorc.txt",
+		  globalRank = {
+		  },
+		},	
+		["beLia"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "beLia",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Fox",
+		    [2] = "Falco",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Belia.txt",
+		  globalRank = {
+		  },
+		},	
+		["dizzkidboogie"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Orinda , California",
+		  },
+		  pseudo = {
+		    [1] = "dizzkidboogie",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Ice Climbers",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Dizzkidboogie.txt",
+		  globalRank = {
+		  },
+		},	
+		["dudutsai"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "dudutsai",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Jigglypuff",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Dudutsai.txt",
+		  globalRank = {
+		  },
+		},	
+		["gaR"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Texas",
+		  },
+		  pseudo = {
+		    [1] = "gaR",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Sheik",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:GaR.txt",
+		  globalRank = {
+		  },
+		},	
+		["lloD is"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Great Falls",
+		  },
+		  pseudo = {
+		    [1] = "lloD is",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Peach",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:LloD.txt",
+		  globalRank = {
+		    [1] = "21st",
+		  },
+		},	
+		["mayb"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "West New York , New Jersey",
+		  },
+		  pseudo = {
+		    [1] = "mayb",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Mayb.txt",
+		  globalRank = {
+		  },
+		},	
+		["nebbii"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Nootdorp , The Netherlands",
+		  },
+		  pseudo = {
+		    [1] = "nebbii",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Yoshi",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Avalancer.txt",
+		  globalRank = {
+		    [1] = "98th",
+		  },
+		},	
+		["reaper"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		    [1] = "Bielefeld , Germany",
+		  },
+		  pseudo = {
+		    [1] = "reaper",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Marth",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Reaper.txt",
+		  globalRank = {
+		  },
+		},	
+		["self - proclaimed"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "self - proclaimed",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Captain Falcon",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Scar.txt",
+		  globalRank = {
+		  },
+		},	
+		["use . He"] = {
+		  sponsors = {
+		  },
+		  nationality = {
+		  },
+		  pseudo = {
+		    [1] = "use . He",
+		  },
+		  nicknames = {
+		  },
+		  mains = {
+		    [1] = "Ice Climbers",
+		    [2] = "Mario",
+		  },
+		  birth = {
+		    age = {
+		    },
+		    year = {
+		    },
+		    day = {
+		    },
+		    month = {
+		    },
+		  },
+		  money = {
+		  },
+		  article = "Smasher:Nintendude.txt",
+		  globalRank = {
+		  },
+		},
+	},
+}
