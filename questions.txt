@@ -35,3 +35,7 @@ where is he from ?
 who else plays it ?
 what is his nickname ? (en premiere question montre gestion d'erreur)
 Who is the best player ?
+When is Leffen's bday ?
+When was Mango born ?
+What is Armada's team ?
+What's Armada's sponsor ?

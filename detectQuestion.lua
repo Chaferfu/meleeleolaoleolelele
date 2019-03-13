@@ -264,6 +264,34 @@ main:pattern([[
 ]])
 
 
+main:pattern([[
+
+	[#birthPlayerQuestion
+		/[Ww]hat/  (#w | #p){0,5}? (#player | "his" | "him" | "he" | "her" | "she")  (#w | #p){0,5}? ("birthday" | "bday" | "anniversary") "?"?
+	]
+
+]])
+
+main:pattern([[
+
+	[#birthPlayerQuestion
+		/[Ww]en/  (#w | #p){0,5}? (#player | "his" | "him" | "he" | "her" | "she")  (#w | #p){0,5}? "born" "?"?
+	]
+
+]])
+
+
+main:pattern([[
+
+	[#playerSponsorQuestion
+			#questionWord (#w | #p){0,10}? (#player | "his" | "him" | "he" | "her" | "she") (#w | #p){0,5}? (organisation | sponsor | team) "?"?
+	]
+
+]])
+
+
+
+
 -- main:pattern([[
 
 -- 	[#implicitMainQuestion
@@ -453,6 +481,10 @@ function handleQuestion(question)
 		handleBestPlayerQuestion(question)
 	elseif havetag(question, "#playerNicknameQuestion") then 
 		handlePlayerNicknameQuestion(question) 
+	elseif havetag(question, "#birthPlayerQuestion") then 
+		handleBirthPlayerQuestion(question) 
+	elseif havetag(question, "#playerSponsorQuestion") then 
+		handlePlayerSponsorQuestion(question) 
 
 	elseif havetag(question, "#linkToPrevious") then
 		handlePreviousQuestion(question)
@@ -477,6 +509,80 @@ function handleBye()
 	botSays(byeSentences[ math.random( #byeSentences ) ], nil, true)
 	print("meleeleolaoleolelele left the chat")
 	terminate = true
+end
+
+function handleBirthPlayerQuestion( question )
+
+	if havetag(question, "#player") then 
+		player = extractTag(question, "#player")[1].token
+	else
+		if #historiqueQuestion ~= 0 then
+			player = historiqueQuestion[#historiqueQuestion][2]
+		else
+			botSays(incomprehension[ math.random( #incomprehension ) ])
+			botSays("I didn't understand who you are talking about.")
+			return
+		end
+	end
+	if db.players[player] == nil then
+		botSays("I don't know " .. player .. ".")
+		return
+	end
+
+	historiqueQuestion[#historiqueQuestion + 1] = {"#playerRankQuesion", player, sayOrShutUp(db.players[player].globalRank)}
+
+	if db.players[player].birth == nil then botSays("I don't know when " .. player .. "is born.", player)
+
+	botSays(player .. " is born on the " .. sayOrShutUp(db.players[player].birth.day[1]) .. "/"  .. sayOrShutUp(db.players[player].birth.month[1]) .. "/"  .. sayOrShutUp(db.players[player].birth.year[1]) .. ".")
+end
+
+function handleBirthPlayerQuestion( question )
+
+	if havetag(question, "#player") then 
+		player = extractTag(question, "#player")[1].token
+	else
+		if #historiqueQuestion ~= 0 then
+			player = historiqueQuestion[#historiqueQuestion][2]
+		else
+			botSays(incomprehension[ math.random( #incomprehension ) ])
+			botSays("I didn't understand who you are talking about.")
+			return
+		end
+	end
+	if db.players[player] == nil then
+		botSays("I don't know " .. player .. ".")
+		return
+	end
+
+	historiqueQuestion[#historiqueQuestion + 1] = {"#birthPlayerQuestion", player, sayOrShutUp(db.players[player].globalRank)}
+
+	if db.players[player].birth == nil then botSays("I don't know when " .. player .. "is born.", player)
+
+	botSays(player .. " is born on the " .. sayOrShutUp(db.players[player].birth.day[1]) .. "/"  .. sayOrShutUp(db.players[player].birth.month[1]) .. "/"  .. sayOrShutUp(db.players[player].birth.year[1]) .. ".")
+end
+
+function handlePlayerSponsorQuestion(question)
+	if havetag(question, "#player") then 
+		player = extractTag(question, "#player")[1].token
+	else
+		if #historiqueQuestion ~= 0 then
+			player = historiqueQuestion[#historiqueQuestion][2]
+		else
+			botSays(incomprehension[ math.random( #incomprehension ) ])
+			botSays("I didn't understand who you are talking about.")
+			return
+		end
+	end
+	if db.players[player] == nil then
+		botSays("I don't know " .. player .. ".")
+		return
+	end
+
+	historiqueQuestion[#historiqueQuestion + 1] = {"#playerSponsorQuestion", player, sayOrShutUp(db.players[player].globalRank)}
+
+	if db.players[player].sponsors[1] == nil then botSays("I don't know what is " .. player .. "'s sponsor.", player)
+
+	botSays(player .. "'s sponsor is  " .. db.players[player].sponsors[1] .. ".", player)
 end
 
 function getBestPlayer()
