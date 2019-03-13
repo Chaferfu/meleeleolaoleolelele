@@ -267,7 +267,7 @@ main:pattern([[
 main:pattern([[
 
 	[#birthPlayerQuestion
-		/[Ww]hat/  (#w | #p){0,5}? (#player | "his" | "him" | "he" | "her" | "she")  (#w | #p){0,5}? ("birthday" | "bday" | "anniversary") "?"?
+		#questionWord  (#w | #p){0,5}? (#player | "his" | "him" | "he" | "her" | "she")  (#w | #p){0,5}? ("birthday" | "bday" | "anniversary") "?"?
 	]
 
 ]])
