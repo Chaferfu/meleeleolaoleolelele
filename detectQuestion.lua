@@ -1,6 +1,6 @@
 dark = require("dark")
 
-debug = true
+debug = false
 useDB = true
 
 quesionTags = {"#playerCharacterQuestion"
@@ -199,7 +199,7 @@ main:pattern([[
 main:pattern([[
 
 	[#linkToPrevious
-		/[Aa]nd/ #player "?"
+		/[Aa]nd/ #player "?"?
 	]
 
 ]])
@@ -463,9 +463,7 @@ function handleQuestion(question)
 		handleComparaisonQuestion(question)
 
 	elseif havetag(question, "#playerInfoQuestion") then
-		--[[print(serialize(question["#player"]))
-		print("on est là")
---]]	
+		
 		handlePlayerInfoQuestion(question)	
 
 	elseif havetag(question, "#playerNationalityQuestion") then
@@ -559,11 +557,15 @@ function handleBirthPlayerQuestion( question )
 
 	historiqueQuestion[#historiqueQuestion + 1] = {"#birthPlayerQuestion", player, sayOrShutUp(db.players[player].globalRank)}
 
-	if db.players[player].birth == nil then
+	if debug then print(serialize(db.players[player].birth)) end
+
+	if db.players[player].birth.day == nil then
 		botSays("I don't know when " .. player .. " is born.", player)
 		return
 	end
-	botSays(player .. " is born on the " .. sayOrShutUp(db.players[player].birth.day[1]) .. "/"  .. sayOrShutUp(db.players[player].birth.month[1]) .. "/"  .. sayOrShutUp(db.players[player].birth.year[1]) .. ".") 
+
+
+	botSays(player .. " is born on the " .. sayOrShutUp(db.players[player].birth.day) .. " / "  .. sayOrShutUp(db.players[player].birth.month) .. " / "  .. sayOrShutUp(db.players[player].birth.year) .. ".") 
 end
 
 function handlePlayerSponsorQuestion(question)
@@ -728,6 +730,11 @@ function handlePreviousQuestion(question)
 			handlePlayerNicknameQuestion(question)
 		elseif(historiqueQuestion[#historiqueQuestion][1] == "#comparaisonQuestion") then
 			handleComparaisonQuestion(question)
+		elseif(historiqueQuestion[#historiqueQuestion][1] == "#birthPlayerQuestion") then
+			handleBirthPlayerQuestion(question)
+		elseif(historiqueQuestion[#historiqueQuestion][1] == "#playerSponsorQuestion") then
+			handlePlayerSponsorQuestion(question)
+
 			
 	
 		end
@@ -965,7 +972,7 @@ function principale()
 	terminate = false
 
 	if useDB then
-		db = dofile("file.1.txt")
+		db = dofile("file2.txt")
 
 		--gere des problemes de minuscules
 		for k,v in pairs(db.players) do
