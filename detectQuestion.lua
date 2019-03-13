@@ -543,9 +543,14 @@ end
 function handleComparaisonQuestion(question)
 	if (#historiqueQuestion == 0 and not havetag(question, "#player")) then
 		botSays("I don't know who you are talking about...")
-	elseif((#historiqueQuestion == 1 and not havetag(question, "#player")) or (#historiqueQuestion > 1 and historiqueQuestion[#historiqueQuestion - 1][2] == historiqueQuestion[#historiqueQuestion][2] and not havetag(question, "#player"))) then
+	elseif((#historiqueQuestion == 1 and not havetag(question, "#player")) or (#historiqueQuestion > 1 and historiqueQuestion[#historiqueQuestion - 1][2] == historiqueQuestion[#historiqueQuestion][2] and not havetag(question, "#player")) or #extractTag(question, "#player") == 1) then
 		print("I'm sorry, who do I compare him with ?")
-		player = historiqueQuestion[#historiqueQuestion][2]
+
+		if #extractTag(question, "#player") == 1 then
+			player = extractTag(question, "#player")[1].token
+		else
+			player = historiqueQuestion[#historiqueQuestion][2]
+		end
 		historiqueQuestion[#historiqueQuestion + 1] = {"#comparaisonQuestion", player, db.players[player].globalRank[1]}
 		io.write("You : ")
 		player2 = io.read()
@@ -595,6 +600,7 @@ function handlePreviousQuestion(question)
 			handlePlayerNicknameQuestion(question)
 		elseif(historiqueQuestion[#historiqueQuestion][1] == "#comparaisonQuestion") then
 			handleComparaisonQuestion(question)
+			
 	
 		end
 		
