@@ -1,6 +1,6 @@
 dark = require("dark")
 
-debug = true
+debug = false
 useDB = true
 
 quesionTags = {"#playerCharacterQuestion"
@@ -199,7 +199,7 @@ main:pattern([[
 main:pattern([[
 
 	[#linkToPrevious
-		/[Aa]nd/ #player "?"
+		/[Aa]nd/ #player "?"?
 	]
 
 ]])
@@ -267,7 +267,7 @@ main:pattern([[
 main:pattern([[
 
 	[#birthPlayerQuestion
-		/[Ww]hat/  (#w | #p){0,5}? (#player | "his" | "him" | "he" | "her" | "she")  (#w | #p){0,5}? ("birthday" | "bday" | "anniversary") "?"?
+		#questionWord  (#w | #p){0,5}? (#player | "his" | "him" | "he" | "her" | "she")  (#w | #p){0,5}? ("birthday" | "bday" | "anniversary") "?"?
 	]
 
 ]])
@@ -405,18 +405,16 @@ function handleQuestion(question)
 			for kw in io.lines("lexique/ssbm_players.txt") do
 				kw = kw:gsub('\r\n?', '')
 				if question[i].token ~= kw and question[i].token ~= kw:lower() and question[i].token ~= "are" and question[i].token ~= "main" and (string.levenshtein(question[i].token, kw:lower()) == 1 or string.levenshtein(question[i].token, kw) == 1) and string.len(question[i].token) > 2 then
-					--[[ print(#kw)
-					print(#question[i].token) ]]		
+	
 					print("Did you mean " .. kw .. " ?")
 					io.write("You : ")
 					answer = io.read()
 					if(answer == "yes" or answer == "Yes" or answer == "yeah" or answer == "Yeah") then
-						--print(questionLevenstein[i])
-						---questionLevenstein[i] = kw
+
 						tomodify[i] = true
 						table.insert(questionLevenstein2, i, kw)
 						
-						--print(serialize(question[i]))
+
 					else
 						print("Ok...")
 					end
@@ -426,21 +424,11 @@ function handleQuestion(question)
 				table.insert(questionLevenstein2, i, questionLevenstein[i])
 			end
 		end
-		print(serialize(questionLevenstein2))
 		questionLevenstein2 = dark.sequence(questionLevenstein2)
 		main(questionLevenstein2)
 		question = questionLevenstein2
 	end
 
-
---if noTag(question) then
-----for kw in io.lines("lexique/ssbm_players.txt") do
-------if question[i].token ~= kw and question[i].token ~= kw:lower() and (string.levenshtein(question[i].token, kw:lower()) == 1 or string.levenshtein(question[i].token, kw) == 1) and string.len(question[i].token) > 2 then
---------question[i].token = kw
-------end
-----end
-----main(question)
---end
 
 
 
@@ -463,9 +451,7 @@ function handleQuestion(question)
 		handleComparaisonQuestion(question)
 
 	elseif havetag(question, "#playerInfoQuestion") then
-		--[[print(serialize(question["#player"]))
-		print("on est là")
---]]	
+		
 		handlePlayerInfoQuestion(question)	
 
 	elseif havetag(question, "#playerNationalityQuestion") then
@@ -559,11 +545,15 @@ function handleBirthPlayerQuestion( question )
 
 	historiqueQuestion[#historiqueQuestion + 1] = {"#birthPlayerQuestion", player, sayOrShutUp(db.players[player].globalRank)}
 
-	if db.players[player].birth == nil then
+	if debug then print(serialize(db.players[player].birth)) end
+
+	if db.players[player].birth.day == nil then
 		botSays("I don't know when " .. player .. " is born.", player)
 		return
 	end
-	botSays(player .. " is born on the " .. sayOrShutUp(db.players[player].birth.day[1]) .. "/"  .. sayOrShutUp(db.players[player].birth.month[1]) .. "/"  .. sayOrShutUp(db.players[player].birth.year[1]) .. ".") 
+
+
+	botSays(player .. " is born on the " .. sayOrShutUp(db.players[player].birth.day) .. " / "  .. sayOrShutUp(db.players[player].birth.month) .. " / "  .. sayOrShutUp(db.players[player].birth.year) .. ".") 
 end
 
 function handlePlayerSponsorQuestion(question)
@@ -728,6 +718,11 @@ function handlePreviousQuestion(question)
 			handlePlayerNicknameQuestion(question)
 		elseif(historiqueQuestion[#historiqueQuestion][1] == "#comparaisonQuestion") then
 			handleComparaisonQuestion(question)
+		elseif(historiqueQuestion[#historiqueQuestion][1] == "#birthPlayerQuestion") then
+			handleBirthPlayerQuestion(question)
+		elseif(historiqueQuestion[#historiqueQuestion][1] == "#playerSponsorQuestion") then
+			handlePlayerSponsorQuestion(question)
+
 			
 	
 		end
@@ -965,7 +960,7 @@ function principale()
 	terminate = false
 
 	if useDB then
-		db = dofile("file.1.txt")
+		db = dofile("file2.txt")
 
 		--gere des problemes de minuscules
 		for k,v in pairs(db.players) do

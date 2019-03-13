@@ -1,3 +1,20 @@
+# Pour lancer le systeme
+
+dark/dark detectQuestions.lua
+
+la base de donnée est stockée dans le fichier file2.txt a la racine du projet
+
+Pour faire des tests et etre sur que la bd est solide essayer sur les 3 joueurs : Mango, Armada, Leffen
+
+
+---------------------------------------------------------
+
+
+
+
+
+
+
 # meleeleolaoleolelele
 
 NOTE IMPORTANTE : LE FICHIER GENERE PAR PARSING.LUA EST MAINTENANT FILEH.TXT
@@ -10,11 +27,7 @@ To test the actual informations detection, go to the dark folder and launch pars
 
 Les textes dans corpus et Smashers ont étés récupérés par le script que nous avons écrit. Le dossier Smashers contient les textes a propos des meilleurs joueurs que nous utilisons pour la detection d'informations.
 
-# Pour lancer le systeme
 
-dark/dark detectQuestions.lua
-
-la base de donnée est stockée dans le fichier 
 
 
 # Trucs que le système fait bien
@@ -29,7 +42,6 @@ Fonctionnalités :
 * le mot exprime son incomprehension et signale s'il ne connaît pas la réponse 
 * le bot relance le user apres ses reponses
 * le system fait pas trop de fautes de ponctuation (quand il dit la liste des mains il gere si y en a qu'un ou plusieurs)
-* TODO dplementer levenshtein pour les autres lexiques (eventuellement trouver une meilleure maniere de faire)
 * Comprendre les question avec levenshtein (faire en sorte que le systeme reponde quand meme a la question meme si faute d'othographe)
 * Dis quelque chose de special si on repond "yes" a la premiere quesiton 
 * TODO gerer pleins de cas ou ça marche pas si les majuscules son tpas la 
@@ -49,6 +61,8 @@ Questions detectees :
 * tournament entrants
 * qui  joue ça ?
 * comparaison du rank de deux joueurs
+* date d'anniv d'un joueur
+* sponsor d'un joueur
 
 
 questions gérées : 
@@ -60,6 +74,8 @@ questions gérées :
 * TODO les questions detectées mais non gérées
 * (gere si le joueur n'a pas de surnoms)
 * comparaison du rank de 2 joueurs
+* date anniv
+* sponsor
 
 
 # TODO 
