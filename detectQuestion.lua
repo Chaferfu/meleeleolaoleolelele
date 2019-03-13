@@ -960,7 +960,7 @@ function principale()
 	terminate = false
 
 	if useDB then
-		db = dofile("file2.txt")
+		db = dofile("DbbContextSecond.txt")
 
 		--gere des problemes de minuscules
 		for k,v in pairs(db.players) do
